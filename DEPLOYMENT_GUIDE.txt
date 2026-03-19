@@ -1,0 +1,202 @@
+# GLOBAL CONFLICT RISK MATRIX — DEPLOYMENT GUIDE
+# Get this live in under 20 minutes. Zero cost.
+
+==============================================================
+WHAT YOU'RE DEPLOYING
+==============================================================
+
+Two parts:
+
+1. BACKEND (Railway) — Node.js server that fetches real data from:
+   - GDELT Project (news/conflict events — FREE, no key needed)
+   - OilPriceAPI (crude oil price — FREE key, 1000 calls/month)
+   - NewsData.io (news alerts — FREE key, 200 calls/day)
+   - Yahoo Finance fallback (oil price — no key needed)
+
+2. FRONTEND (Netlify) — The dashboard HTML file
+   Connects to your Railway backend every 5 minutes for live data.
+
+Total cost: $0 (both free tiers are more than enough)
+
+==============================================================
+STEP 1 — GET YOUR FREE API KEYS (5 minutes)
+==============================================================
+
+A) OilPriceAPI — for real Brent crude price
+   1. Go to: https://oilpriceapi.com
+   2. Click "Get Free API Key"
+   3. Enter email, verify, copy your key
+   → Looks like: op_live_abc123xyz...
+
+B) NewsData.io — for live news alerts
+   1. Go to: https://newsdata.io
+   2. Click "Get API Key" (free, no card)
+   3. Copy your key from dashboard
+   → Looks like: pub_12345abc...
+
+GDELT needs NO key — it's a free public API from Google Jigsaw.
+
+==============================================================
+STEP 2 — DEPLOY BACKEND TO RAILWAY (8 minutes)
+==============================================================
+
+1. Create a GitHub account if you don't have one:
+   → https://github.com/signup
+
+2. Create a new repository:
+   → Click "+" → "New repository"
+   → Name it: conflict-risk-api
+   → Set to Public
+   → Click "Create repository"
+
+3. Upload your backend files to GitHub:
+   → Click "uploading an existing file"
+   → Upload these 4 files from the ZIP:
+      - server.js
+      - package.json
+      - railway.toml
+      - .gitignore
+   → Click "Commit changes"
+
+4. Deploy to Railway:
+   → Go to: https://railway.app
+   → Click "Start a New Project"
+   → Choose "Deploy from GitHub repo"
+   → Select your conflict-risk-api repository
+   → Railway auto-detects Node.js and deploys
+
+5. Add your API keys in Railway:
+   → Click your deployed service
+   → Go to "Variables" tab
+   → Add these (click "New Variable" for each):
+
+      OIL_API_KEY     = [paste your oilpriceapi.com key]
+      NEWS_API_KEY    = [paste your newsdata.io key]
+
+   → Railway auto-restarts with the new keys
+
+6. Get your Railway URL:
+   → Go to "Settings" tab in Railway
+   → Under "Domains" click "Generate Domain"
+   → Copy it — looks like: conflict-risk-api.up.railway.app
+   → Test it: open https://conflict-risk-api.up.railway.app in browser
+   → You should see: {"status":"online","name":"Global Conflict Risk Matrix API"...}
+
+==============================================================
+STEP 3 — CONNECT DASHBOARD TO YOUR BACKEND (2 minutes)
+==============================================================
+
+1. Open index.html in a text editor (Notepad, TextEdit, etc.)
+
+2. Find this line near the top of the <script> section:
+   const API_BASE = window.CONFLICT_API_BASE || '';
+
+3. Replace it with your Railway URL:
+   const API_BASE = window.CONFLICT_API_BASE || 'https://YOUR-APP.up.railway.app';
+
+   Example:
+   const API_BASE = window.CONFLICT_API_BASE || 'https://conflict-risk-api.up.railway.app';
+
+4. Save the file.
+
+==============================================================
+STEP 4 — DEPLOY DASHBOARD TO NETLIFY (2 minutes)
+==============================================================
+
+1. Go to: https://app.netlify.com/drop
+   (No account needed for first deploy, but sign up to keep the URL)
+
+2. Drag and drop your index.html file into the drop zone
+
+3. Netlify gives you a URL instantly:
+   → Looks like: amazing-name-abc123.netlify.app
+
+4. (Optional) Customize your URL:
+   → Create free account / log in
+   → Go to "Site configuration" → "Change site name"
+   → Set to something like: conflict-risk-matrix
+   → Your URL becomes: conflict-risk-matrix.netlify.app
+
+5. Share your live URL anywhere — LinkedIn, Substack, X, email.
+   Anyone who opens it gets the live dashboard with real data.
+
+==============================================================
+UPDATING THE DASHBOARD
+==============================================================
+
+To update variables, presets, or analysis:
+→ Edit index.html locally
+→ Drag the new version to app.netlify.com/drop onto your existing site
+→ Changes go live immediately, same URL
+
+To update the backend:
+→ Push changes to your GitHub repo
+→ Railway auto-deploys within 2 minutes
+
+==============================================================
+TESTING YOUR LIVE SETUP
+==============================================================
+
+Open your Netlify URL. You should see:
+
+✓ Top right: "LIVE — [time]" in green (not "CONNECTING..." in blue)
+✓ Oil strip appears showing real Brent crude price
+✓ Alert feed shows real news headlines (clickable links to sources)
+✓ Data source shows "GDELT + OILPRICEAPI"
+✓ Theatre bars update from GDELT event data
+✓ Countdown shows time until next refresh (5 min)
+
+If you see "API ERROR — USING FALLBACK":
+→ Check Railway logs for errors
+→ Verify your API keys are set correctly in Railway Variables
+→ Make sure your Railway URL is correct in index.html
+
+==============================================================
+SHARING STRATEGY
+==============================================================
+
+LinkedIn post:
+"Built a live geopolitical risk dashboard tracking the Iran war,
+South Asia nuclear flashpoint probability, and 8 leader risk profiles.
+Pulls real data from GDELT and oil markets every 5 minutes.
+[link] — adjustable variables, 5 outcome probabilities, live alerts."
+
+Substack:
+Embed the link at the bottom of your next Iran/geopolitics post.
+"Track it live: [link]"
+
+X/Twitter:
+Screenshot the outcomes panel with current probabilities.
+Link to the full dashboard.
+
+==============================================================
+TROUBLESHOOTING
+==============================================================
+
+"CORS error" in browser console:
+→ The backend already has CORS enabled. Check Railway URL is correct.
+
+Railway app sleeping:
+→ Free Railway trial apps may sleep after inactivity.
+→ Upgrade to Hobby ($5/month) for always-on.
+→ Or use Render.com free tier (750 hours/month always-on for one service).
+
+Oil price showing "estimated":
+→ Your OIL_API_KEY may not be set or is incorrect.
+→ Dashboard falls back to Yahoo Finance, then to contextual estimate.
+→ All three cases are handled gracefully.
+
+GDELT returning no articles:
+→ GDELT is occasionally slow. Dashboard uses fallback alerts automatically.
+→ This is normal — try again in a few minutes.
+
+==============================================================
+ARCHITECTURE OVERVIEW
+==============================================================
+
+[Browser] ←→ [Netlify: index.html]
+                      ↓ fetch every 5 min
+              [Railway: server.js]
+                   ↓          ↓          ↓
+            [GDELT API]  [OilPriceAPI] [NewsData.io]
+          (free, no key)  (free key)   (free key)

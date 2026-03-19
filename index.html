@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Conflict Risk Matrix — Live</title>
+<meta name="description" content="Live geopolitical risk dashboard tracking Iran war, South Asia nuclear flashpoint, and global conflict escalation probabilities.">
+<meta property="og:title" content="Global Conflict Risk Matrix — Live">
+<meta property="og:description" content="Real-time probability analysis: Iran war, South Asia nuclear risk, 8 leader profiles, GDELT data. By Subha Imtiaz.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Bebas+Neue&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap');
+:root{--bg:#080b10;--surface:#0d1117;--surface2:#131923;--border:#1e2d3d;--accent:#ff4444;--accent2:#ff8800;--accent3:#ffcc00;--safe:#00cc66;--cyan:#00d4ff;--text:#c9d1d9;--text-dim:#6e7681;--text-bright:#f0f6fc}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',sans-serif;min-height:100vh}
+body::before{content:'';position:fixed;inset:0;background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,.03) 2px,rgba(0,0,0,.03) 4px);pointer-events:none;z-index:9999}
+.header{border-bottom:1px solid var(--border);padding:13px 22px;display:flex;align-items:center;justify-content:space-between;background:var(--surface);position:sticky;top:0;z-index:100;flex-wrap:wrap;gap:10px}
+.htitle{font-family:'Bebas Neue',sans-serif;font-size:24px;letter-spacing:4px;color:var(--accent);text-shadow:0 0 28px rgba(255,68,68,.5)}
+.hsub{font-family:'Share Tech Mono',monospace;font-size:9px;color:var(--text-dim);letter-spacing:2px;margin-top:2px}
+.hright{display:flex;align-items:center;gap:11px;flex-wrap:wrap}
+.spill{display:flex;align-items:center;gap:7px;font-family:'Share Tech Mono',monospace;font-size:10px;letter-spacing:1px;padding:5px 11px;border-radius:2px;border:1px solid var(--border);background:var(--surface2)}
+.spill.live{border-color:rgba(0,204,102,.4);color:var(--safe)}.spill.error{border-color:rgba(255,68,68,.4);color:var(--accent)}.spill.loading{border-color:rgba(0,212,255,.4);color:var(--cyan)}
+.dot{width:7px;height:7px;border-radius:50%;background:currentColor;animation:blink 1.5s infinite}
+@keyframes blink{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.4;transform:scale(.8)}}
+.doom{background:rgba(255,68,68,.08);border:1px solid rgba(255,68,68,.3);padding:5px 11px;border-radius:3px;text-align:center}
+.dtime{font-family:'Bebas Neue',sans-serif;font-size:18px;color:var(--accent)}
+.dlabel{font-family:'Share Tech Mono',monospace;font-size:8px;color:var(--text-dim);letter-spacing:1px}
+.sbtn{font-family:'Share Tech Mono',monospace;font-size:10px;letter-spacing:1px;padding:5px 12px;border-radius:2px;border:1px solid rgba(0,212,255,.4);background:rgba(0,212,255,.06);color:var(--cyan);cursor:pointer;transition:all .2s;display:flex;align-items:center;gap:6px}
+.sbtn:hover{background:rgba(0,212,255,.14);border-color:var(--cyan)}
+.toast{position:fixed;top:68px;right:22px;background:var(--surface2);border:1px solid var(--safe);color:var(--safe);font-family:'Share Tech Mono',monospace;font-size:11px;padding:7px 15px;border-radius:3px;z-index:9998;opacity:0;transform:translateY(-5px);transition:all .3s;pointer-events:none}
+.toast.show{opacity:1;transform:none}
+.abar{background:rgba(0,212,255,.04);border-bottom:1px solid var(--border);padding:6px 22px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
+.ainfo{font-family:'Share Tech Mono',monospace;font-size:9px;color:var(--text-dim);letter-spacing:1px}
+.ainfo a{color:var(--cyan);text-decoration:none}.ainfo a:hover{text-decoration:underline}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--border)}
+.panel{background:var(--surface);padding:17px 19px}
+.full{grid-column:1/-1}
+.pt{font-family:'Bebas Neue',sans-serif;font-size:13px;letter-spacing:3px;color:var(--cyan);border-bottom:1px solid var(--border);padding-bottom:8px;margin-bottom:13px;display:flex;align-items:center;justify-content:space-between}
+.tag{font-family:'Share Tech Mono',monospace;font-size:9px;color:var(--text-dim);background:var(--surface2);padding:2px 6px;border-radius:2px}
+.oilstrip{background:var(--surface2);border:1px solid var(--border);padding:10px 15px;border-radius:4px;display:none;align-items:center;justify-content:space-between;margin-bottom:13px}
+.olabel{font-family:'Share Tech Mono',monospace;font-size:9px;color:var(--text-dim);letter-spacing:1px}
+.oprice{font-family:'Bebas Neue',sans-serif;font-size:30px;line-height:1;transition:color .5s}
+.osrc{font-family:'Share Tech Mono',monospace;font-size:9px;color:var(--text-dim);margin-top:2px}
+.ochg{font-family:'Share Tech Mono',monospace;font-size:11px;color:var(--accent2)}
+.orow{display:grid;grid-template-columns:repeat(5,1fr);gap:8px}
+.ocard{background:var(--surface2);border:1px solid var(--border);border-radius:4px;padding:12px;position:relative;overflow:hidden}
+.ocard::after{content:'';position:absolute;bottom:0;left:0;right:0;height:3px;background:var(--c,#333);transform:scaleX(var(--p,0));transform-origin:left;transition:transform .6s cubic-bezier(.4,0,.2,1)}
+.onum{font-family:'Share Tech Mono',monospace;font-size:9px;color:var(--text-dim);margin-bottom:3px;letter-spacing:1px}
+.oname{font-size:11px;font-weight:600;color:var(--text-bright);line-height:1.3;margin-bottom:9px;min-height:28px}
+.opct{font-family:'Bebas Neue',sans-serif;font-size:34px;line-height:1;transition:color .5s}
+.opct span{font-size:13px;opacity:.7}
+.odesc{font-size:9px;color:var(--text-dim);line-height:1.5;margin-top:5px}
+.presets{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap}
+.pb{font-family:'Share Tech Mono',monospace;font-size:10px;letter-spacing:1px;padding:4px 9px;border-radius:2px;border:1px solid var(--border);background:var(--surface2);color:var(--text-dim);cursor:pointer;transition:all .2s}
+.pb:hover,.pb.on{background:var(--border);color:var(--text-bright);border-color:var(--text-dim)}
+.vgroups{display:flex;flex-direction:column;gap:11px}
+.vg{background:var(--surface2);border:1px solid var(--border);padding:11px;border-radius:4px}
+.vgtit{font-family:'Share Tech Mono',monospace;font-size:9px;letter-spacing:2px;color:var(--text-dim);margin-bottom:9px}
+.vrow{display:flex;align-items:center;gap:9px;margin-bottom:8px}
+.vrow:last-child{margin-bottom:0}
+.vlab{font-size:11px;color:var(--text);flex:0 0 148px;line-height:1.3}
+.vsub2{font-size:9px;color:var(--text-dim);margin-top:1px}
+.vsl{flex:1}
+input[type=range]{width:100%;height:4px;-webkit-appearance:none;background:var(--border);border-radius:2px;outline:none;cursor:pointer}
+input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:12px;height:12px;border-radius:50%;background:var(--cyan);cursor:pointer;box-shadow:0 0 5px rgba(0,212,255,.5);transition:transform .1s}
+input[type=range]:hover::-webkit-slider-thumb{transform:scale(1.3)}
+.vval{font-family:'Share Tech Mono',monospace;font-size:11px;color:var(--cyan);flex:0 0 24px;text-align:right}
+.lgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.lc{background:var(--surface2);border:1px solid var(--border);border-radius:4px;padding:10px;position:relative}
+.lc::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:var(--rc,var(--border));transition:background .5s}
+.lname{font-family:'Bebas Neue',sans-serif;font-size:14px;color:var(--text-bright)}
+.lrole{font-size:10px;color:var(--text-dim);margin-bottom:6px}
+.lbar{height:3px;background:var(--border);border-radius:1px;margin-bottom:4px;overflow:hidden}
+.lfill{height:100%;border-radius:1px;transition:width .6s}
+.ltags{display:flex;flex-wrap:wrap;gap:2px;margin-top:6px}
+.ltag{font-size:9px;padding:1px 4px;background:rgba(255,255,255,.05);color:var(--text-dim);border-radius:2px}
+.thlist{display:flex;flex-direction:column;gap:6px}
+.trow{display:grid;grid-template-columns:128px 1fr auto;align-items:center;gap:9px;padding:8px 10px;background:var(--surface2);border:1px solid var(--border);border-radius:3px}
+.tname{font-size:11px;font-weight:600;color:var(--text-bright)}
+.tst{font-size:9px;color:var(--text-dim);margin-top:1px}
+.tbw{height:5px;background:var(--border);border-radius:2px;overflow:hidden}
+.tb{height:100%;border-radius:2px;transition:width .6s}
+.tlv{font-family:'Share Tech Mono',monospace;font-size:11px;min-width:24px;text-align:right}
+.feed{background:var(--surface2);border:1px solid var(--border);border-radius:4px;height:205px;overflow:hidden;position:relative}
+.feed-inner{position:absolute;top:0;left:0;right:0;padding:7px}
+.ai{display:flex;gap:8px;padding:5px 0;border-bottom:1px solid rgba(255,255,255,.04)}
+.at{font-family:'Share Tech Mono',monospace;font-size:9px;color:var(--text-dim);flex:0 0 50px;padding-top:1px}
+.as{font-family:'Share Tech Mono',monospace;font-size:9px;color:var(--text-dim);flex:0 0 72px;padding-top:1px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.atx{font-size:10px;line-height:1.5}
+.atx a{color:inherit;text-decoration:none}.atx a:hover{text-decoration:underline}
+.atx.critical{color:var(--accent)}.atx.warning{color:var(--accent2)}.atx.info{color:var(--cyan)}
+.netbox{width:100%;height:265px;background:var(--surface2);border:1px solid var(--border);border-radius:4px;overflow:hidden}
+#nc{width:100%;height:100%}
+.bstrip{border-top:1px solid var(--border);background:var(--surface);padding:8px 22px;display:flex;align-items:center;gap:18px;overflow-x:auto;position:sticky;bottom:0;z-index:100}
+.bstrip::-webkit-scrollbar{display:none}
+.si{flex:0 0 auto}
+.sl{font-family:'Share Tech Mono',monospace;font-size:8px;color:var(--text-dim);letter-spacing:1px}
+.sv{font-family:'Share Tech Mono',monospace;font-size:13px;font-weight:600;transition:color .5s}
+.div{width:1px;height:24px;background:var(--border);flex:0 0 1px}
+.foot{font-family:'Share Tech Mono',monospace;font-size:9px;color:var(--text-dim);text-align:center;padding:6px;border-top:1px solid var(--border)}
+</style>
+</head>
+<body>
+<div class="toast" id="toast">✓ URL COPIED TO CLIPBOARD</div>
+
+<div class="header">
+  <div>
+    <div class="htitle">GLOBAL CONFLICT RISK MATRIX</div>
+    <div class="hsub">LIVE · MARCH 2026 · IRAN WAR · SOUTH ASIA · UKRAINE · CYBER</div>
+  </div>
+  <div class="hright">
+    <div class="doom"><div class="dtime">89s</div><div class="dlabel">TO MIDNIGHT</div></div>
+    <div class="spill loading" id="spill"><div class="dot"></div><span id="stxt">CONNECTING...</span></div>
+    <div style="font-family:'Share Tech Mono',monospace;font-size:9px;color:var(--text-dim)">REFRESH <span id="cd" style="color:var(--cyan)">5:00</span></div>
+    <button class="sbtn" onclick="doShare()">
+      <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+      SHARE
+    </button>
+  </div>
+</div>
+
+<div class="abar">
+  <div class="ainfo">
+    ANALYSIS BY <a href="https://substack.com/@subhaimtiaz" target="_blank" rel="noopener">SUBHA IMTIAZ</a>
+    &nbsp;·&nbsp; People &amp; Culture Director · APAC · Geopolitical Analyst
+    &nbsp;·&nbsp; <a href="https://substack.com/@subhaimtiaz" target="_blank" rel="noopener">READ ON SUBSTACK →</a>
+  </div>
+  <div style="font-family:'Share Tech Mono',monospace;font-size:9px;color:var(--text-dim)">DATA: GDELT · OILPRICEAPI · NEWSDATA.IO · 5-MIN REFRESH</div>
+</div>
+
+<div class="grid">
+  <div class="panel full">
+    <div class="pt">OUTCOME PROBABILITY MATRIX <span class="tag" id="dsrc">LOADING...</span></div>
+    <div class="presets">
+      <button class="pb on" onclick="preset('live')">◉ LIVE DATA</button>
+      <button class="pb" onclick="preset('baseline')">BASELINE</button>
+      <button class="pb" onclick="preset('deesc')">DE-ESCALATION</button>
+      <button class="pb" onclick="preset('esc')">ESCALATION</button>
+      <button class="pb" onclick="preset('sa')">SOUTH ASIA CRISIS</button>
+    </div>
+    <div class="orow" id="orow"></div>
+  </div>
+
+  <div class="panel">
+    <div class="pt">ESCALATION VARIABLES <span class="tag">LIVE + MANUAL OVERRIDE</span></div>
+    <div class="oilstrip" id="oilstrip">
+      <div>
+        <div class="olabel">BRENT CRUDE — LIVE</div>
+        <div class="oprice" id="oprice" style="color:var(--accent)">--</div>
+        <div class="osrc" id="osrc">connecting...</div>
+      </div>
+      <div style="text-align:right">
+        <div class="ochg" id="ochg">--</div>
+        <div class="olabel" style="margin-top:3px">PRE-WAR: ~$67/bbl</div>
+      </div>
+    </div>
+    <div class="vgroups" id="vgroups"></div>
+  </div>
+
+  <div class="panel">
+    <div class="pt">CONFLICT THEATRES <span class="tag">GDELT EVENT DATA</span></div>
+    <div class="thlist" id="thlist"></div>
+    <div class="pt" style="margin-top:15px">INTELLIGENCE FEED <span class="tag" id="feedtag">LIVE · AUTO-ROTATING</span></div>
+    <div class="feed"><div class="feed-inner" id="feedinner"></div></div>
+  </div>
+
+  <div class="panel full">
+    <div class="pt">LEADER RISK PROFILES <span class="tag">NARCISSISM × ACCOUNTABILITY × SURVIVAL INCENTIVE</span></div>
+    <div class="lgrid" id="lgrid"></div>
+  </div>
+
+  <div class="panel full">
+    <div class="pt">INTERDEPENDENCY NETWORK <span class="tag">NODE = INFLUENCE · ARC WEIGHT = RISK LINKAGE</span></div>
+    <div class="netbox"><canvas id="nc"></canvas></div>
+  </div>
+</div>
+
+<div class="bstrip" id="bstrip"></div>
+<div class="foot" id="foot">Initialising live data connection...</div>
+
+<script>
+const API = window.CONFLICT_API_BASE || '';
+const REFRESH = 5*60*1000;
+
+const V = {
+  oilPrice:60,straitControl:70,weaponsDepletion:55,nuclearSignalling:40,
+  cyberIntensity:50,proxyActivation:65,trumpDomesticPressure:60,
+  netanyahuLegalJeopardy:80,pakistanEconomicStress:75,iranRegimeCohesion:45,
+  congressConstraint:20,diplomaticChannels:25,armsControlArchitecture:15,
+  narcissismCoefficient:78,groupthinkRisk:68
+};
+
+let alerts=[], aIdx=0, aTmr=null, prevP={};
+
+const OUTCOMES=[
+  {id:'stalemate',name:'Managed Perpetual Stalemate',desc:'War drags on. No resolution, no declared end.',color:'#ff8800'},
+  {id:'escalation',name:'Military Escalation / Ground Incursion',desc:'Beyond airstrikes. Ground ops, wider theatre.',color:'#ff4444'},
+  {id:'southasia',name:'South Asia Nuclear Flashpoint',desc:'India-Pakistan crosses nuclear threshold.',color:'#ff0066'},
+  {id:'cascade',name:'Catastrophic Miscalculation Cascade',desc:'Unplanned chain across simultaneous theatres.',color:'#cc00ff'},
+  {id:'negotiation',name:'Negotiated De-escalation',desc:'Face-saving deal. Near-impossible under current leadership psychology.',color:'#00cc66'},
+];
+
+const LEADERS=[
+  {n:'Trump',r:'US President',b:88,tags:['narcissist','gut decisions','unconstrained'],k:'trumpDomesticPressure'},
+  {n:'Netanyahu',r:'Israeli PM',b:85,tags:['survival-driven','legal jeopardy','maximalist'],k:'netanyahuLegalJeopardy'},
+  {n:'MBS',r:'Saudi Crown Prince',b:80,tags:['zero accountability','war lobbyist','medieval'],k:'oilPrice'},
+  {n:'Mojtaba',r:'Iran Sup. Leader',b:78,tags:['no legitimacy','hardliner','IRGC-dependent'],k:'iranRegimeCohesion'},
+  {n:'Modi',r:'Indian PM',b:65,tags:['trauma politics','no restraint','RSS base'],k:'nuclearSignalling'},
+  {n:'Munir',r:'Pakistan Army Chief',b:72,tags:['emboldened','3-front squeeze','tactical nukes'],k:'pakistanEconomicStress'},
+  {n:'Putin',r:'Russia President',b:70,tags:['personalist','feeding Iran intel','unpredictable'],k:'diplomaticChannels'},
+  {n:'Kim',r:'DPRK Leader',b:60,tags:['window opening','Patriots redeployed','opportunistic'],k:'weaponsDepletion'},
+];
+
+const THEATRES=[
+  {n:'Iran War',s:'ACTIVE — DAY 20+',b:88,k:'straitControl'},
+  {n:'Afghanistan-Pakistan',s:'OPEN WAR DECLARED',b:75,k:'pakistanEconomicStress'},
+  {n:'India-Pakistan',s:'CEASEFIRE UNDER PRESSURE',b:60,k:'nuclearSignalling'},
+  {n:'Lebanon-Israel',s:'GROUND INCURSION',b:70,k:'proxyActivation'},
+  {n:'Red Sea / Houthis',s:'ACTIVE DISRUPTION',b:65,k:'straitControl'},
+  {n:'Ukraine-Russia',s:'ATTRITION',b:55,k:'proxyActivation'},
+  {n:'Taiwan Strait',s:'ELEVATED WATCH',b:45,k:'weaponsDepletion'},
+  {n:'US Cyber / Domestic',s:'THREAT ELEVATED',b:52,k:'cyberIntensity'},
+];
+
+const VCFG=[
+  {g:'ENERGY & MILITARY',v:[
+    {k:'oilPrice',l:'Oil Price Stress',s:'Low=$60 → High=$150+/bbl'},
+    {k:'straitControl',l:'Iran Strait Control',s:'How closed is Hormuz'},
+    {k:'weaponsDepletion',l:'US Weapons Depletion',s:'Stockpile exhaustion'},
+  ]},
+  {g:'ESCALATION SIGNALS',v:[
+    {k:'nuclearSignalling',l:'Nuclear Signalling',s:'Rhetoric + posturing'},
+    {k:'cyberIntensity',l:'Cyber Attack Intensity',s:'Active operations level'},
+    {k:'proxyActivation',l:'Proxy Network Activity',s:'Houthis, Hezbollah, militias'},
+  ]},
+  {g:'POLITICAL PRESSURES',v:[
+    {k:'trumpDomesticPressure',l:'Trump Political Pressure',s:'Domestic approval crisis'},
+    {k:'netanyahuLegalJeopardy',l:'Netanyahu Legal Risk',s:'Survival incentive for war'},
+    {k:'pakistanEconomicStress',l:'Pakistan Economic Stress',s:'IMF/fiscal fragility'},
+    {k:'iranRegimeCohesion',l:'Iran Regime Cohesion',s:'New leadership unity'},
+  ]},
+  {g:'GUARDRAILS (HIGHER = SAFER)',v:[
+    {k:'congressConstraint',l:'Congressional Constraint',s:'Legislative check on war'},
+    {k:'diplomaticChannels',l:'Diplomatic Back Channels',s:'Functioning comms'},
+    {k:'armsControlArchitecture',l:'Arms Control Architecture',s:'Treaties intact'},
+  ]},
+  {g:'LEADER PSYCHOLOGY',v:[
+    {k:'narcissismCoefficient',l:'Aggregate Narcissism',s:'Combined ego risk'},
+    {k:'groupthinkRisk',l:'Echo Chamber Risk',s:'Sycophants vs truth-tellers'},
+  ]},
+];
+
+const PSETS={
+  baseline:{oilPrice:60,straitControl:70,weaponsDepletion:55,nuclearSignalling:40,cyberIntensity:50,proxyActivation:65,trumpDomesticPressure:60,netanyahuLegalJeopardy:80,pakistanEconomicStress:75,iranRegimeCohesion:45,congressConstraint:20,diplomaticChannels:25,armsControlArchitecture:15,narcissismCoefficient:78,groupthinkRisk:68},
+  deesc:{oilPrice:25,straitControl:25,weaponsDepletion:30,nuclearSignalling:12,cyberIntensity:18,proxyActivation:22,trumpDomesticPressure:30,netanyahuLegalJeopardy:35,pakistanEconomicStress:35,iranRegimeCohesion:72,congressConstraint:58,diplomaticChannels:68,armsControlArchitecture:45,narcissismCoefficient:50,groupthinkRisk:38},
+  esc:{oilPrice:88,straitControl:92,weaponsDepletion:82,nuclearSignalling:78,cyberIntensity:88,proxyActivation:92,trumpDomesticPressure:88,netanyahuLegalJeopardy:96,pakistanEconomicStress:92,iranRegimeCohesion:28,congressConstraint:8,diplomaticChannels:6,armsControlArchitecture:4,narcissismCoefficient:92,groupthinkRisk:90},
+  sa:{oilPrice:62,straitControl:52,weaponsDepletion:72,nuclearSignalling:90,cyberIntensity:62,proxyActivation:48,trumpDomesticPressure:52,netanyahuLegalJeopardy:72,pakistanEconomicStress:94,iranRegimeCohesion:38,congressConstraint:14,diplomaticChannels:18,armsControlArchitecture:10,narcissismCoefficient:84,groupthinkRisk:76},
+};
+
+const FALERTS=[
+  {title:'Iranian ballistic missile test — 3rd launch this week near Strait',source:'MILMON',time:new Date(),type:'critical'},
+  {title:'Pakistan launches new airstrike wave on Afghan border — ISPR confirms',source:'ISPR',time:new Date(Date.now()-3e5),type:'critical'},
+  {title:'CISA: APT33 actively targeting US water treatment plant control systems',source:'CISA',time:new Date(Date.now()-6e5),type:'critical'},
+  {title:'Russia provides Iran updated satellite targeting data for Gulf assets',source:'INTEL',time:new Date(Date.now()-9e5),type:'critical'},
+  {title:'Stryker medical devices wiped — CyberAv3ngers claim responsibility',source:'CYBER',time:new Date(Date.now()-12e5),type:'critical'},
+  {title:'Pentagon requests $200B+ supplemental war funding — Congress split',source:'DOD',time:new Date(Date.now()-15e5),type:'warning'},
+  {title:'Oil +3.2% — tanker attack reported near Ras Laffan LNG terminal',source:'REUTERS',time:new Date(Date.now()-18e5),type:'warning'},
+  {title:'India-Pakistan LoC: 17 ceasefire violations in 48 hours',source:'SOUTHASIA',time:new Date(Date.now()-21e5),type:'warning'},
+  {title:'Mojtaba Khamenei: "Strait stays closed until every condition is met"',source:'IRIB',time:new Date(Date.now()-24e5),type:'warning'},
+  {title:'Kim Jong-un editorial: "The window is open" — state media',source:'KCNA',time:new Date(Date.now()-27e5),type:'warning'},
+  {title:'South Pars strike confirmed — Iranian exports down 40%',source:'ENERGY',time:new Date(Date.now()-30e5),type:'warning'},
+  {title:'Trump: war ends "when I feel it in my bones" — no exit condition defined',source:'WHMON',time:new Date(Date.now()-33e5),type:'info'},
+  {title:'China rejects Hormuz coalition — negotiating bilateral deal with Iran',source:'FP',time:new Date(Date.now()-36e5),type:'info'},
+  {title:'New START expired Feb 2026 — no replacement framework',source:'ARMS',time:new Date(Date.now()-39e5),type:'info'},
+  {title:'Doomsday Clock: 89 seconds — Bulletin of Atomic Scientists, Jan 2026',source:'BAS',time:new Date(Date.now()-42e5),type:'info'},
+];
+
+// PROBABILITY ENGINE
+function calc(){
+  const v=V;
+  const ep=(v.oilPrice*.12+v.straitControl*.15+v.weaponsDepletion*.10+v.nuclearSignalling*.18+v.proxyActivation*.10+v.cyberIntensity*.08+v.trumpDomesticPressure*.10+v.netanyahuLegalJeopardy*.12+v.narcissismCoefficient*.05)/100;
+  const gr=(v.congressConstraint*.35+v.diplomaticChannels*.40+v.armsControlArchitecture*.25)/100;
+  const sar=(v.nuclearSignalling*.30+v.pakistanEconomicStress*.25+(100-v.iranRegimeCohesion)*.10+v.narcissismCoefficient*.20+(100-v.congressConstraint)*.15)/100;
+  const cr=(v.nuclearSignalling*.20+v.narcissismCoefficient*.25+v.groupthinkRisk*.20+(100-v.diplomaticChannels)*.20+v.proxyActivation*.15)/100;
+  const np=(v.diplomaticChannels*.40+v.congressConstraint*.20+(100-v.trumpDomesticPressure)*.15+(100-v.netanyahuLegalJeopardy)*.15+(100-v.narcissismCoefficient)*.10)/100;
+  const raw={
+    stalemate:Math.max(2,Math.min(55,20+ep*15-(ep>.7?10:0))),
+    escalation:Math.max(2,Math.min(65,20+ep*25-gr*10)),
+    southasia:Math.max(2,Math.min(40,5+sar*30)),
+    cascade:Math.max(2,Math.min(35,5+cr*25-gr*5)),
+    negotiation:Math.max(2,Math.min(30,25-ep*15+np*15)),
+  };
+  const tot=Object.values(raw).reduce((a,b)=>a+b,0);
+  const n={};Object.keys(raw).forEach(k=>n[k]=Math.round(raw[k]/tot*100));
+  n.stalemate+=100-Object.values(n).reduce((a,b)=>a+b,0);
+  return n;
+}
+
+// FETCH LIVE DATA
+async function fetchLive(){
+  if(!API){setSt('loading','MANUAL MODE');renderAll();return}
+  setSt('loading','FETCHING...');
+  try{
+    const r=await fetch(`${API}/api/live`,{signal:AbortSignal.timeout(12000)});
+    if(!r.ok) throw new Error(r.status);
+    const d=await r.json();
+    if(d.computedVars){Object.assign(V,d.computedVars);syncSl()}
+    if(d.oil?.price){
+      const p=d.oil.price;
+      const strip=document.getElementById('oilstrip');
+      document.getElementById('oprice').textContent=`$${p}`;
+      document.getElementById('oprice').style.color=p>100?'var(--accent)':p>80?'var(--accent2)':'var(--text-bright)';
+      document.getElementById('osrc').textContent=`${(d.oil.source||'').toUpperCase()} · ${new Date(d.oil.ts).toLocaleTimeString()}`;
+      document.getElementById('ochg').textContent=`+${Math.round((p-67)/67*100)}% VS PRE-WAR`;
+      strip.style.display='flex';
+    }
+    loadAlerts(d.alerts?.length?d.alerts:FALERTS);
+    if(d.conflicts?.length) renderThLive(d.conflicts);
+    setSt('live',`LIVE · ${new Date().toLocaleTimeString()}`);
+    document.getElementById('dsrc').textContent=`GDELT + OILPRICEAPI · ${new Date().toLocaleTimeString()}`;
+    document.getElementById('foot').textContent=`Last updated: ${new Date().toLocaleString()} · Sources: GDELT Project, OilPriceAPI, NewsData.io`;
+    renderAll();
+  }catch(e){
+    setSt('error','API ERROR · FALLBACK');
+    document.getElementById('dsrc').textContent='FALLBACK DATA · API UNAVAILABLE';
+    loadAlerts(FALERTS);
+    renderAll();
+  }
+}
+
+function setSt(type,txt){
+  document.getElementById('spill').className=`spill ${type}`;
+  document.getElementById('stxt').textContent=txt;
+}
+
+// ALERT ROTATION
+function loadAlerts(a){
+  alerts=a;aIdx=0;
+  if(aTmr) clearInterval(aTmr);
+  showAlerts();
+  aTmr=setInterval(()=>{aIdx=(aIdx+1)%Math.max(1,alerts.length-4);showAlerts()},8000);
+  document.getElementById('feedtag').textContent=`${a.length} ITEMS · AUTO-ROTATING`;
+}
+
+function showAlerts(){
+  const inner=document.getElementById('feedinner');
+  inner.innerHTML='';
+  alerts.slice(aIdx,aIdx+5).forEach(a=>{
+    const t=a.time?new Date(a.time).toLocaleTimeString():'--:--';
+    const s=(a.source||a.domain||'NEWS').toUpperCase().slice(0,10);
+    const type=a.type||'info';
+    const url=a.url||'#';
+    const d=document.createElement('div');
+    d.className='ai';
+    d.innerHTML=`<div class="at">${t}</div><div class="as">${s}</div><div class="atx ${type}"><a href="${url}" target="_blank" rel="noopener">${a.title||''}</a></div>`;
+    inner.appendChild(d);
+  });
+}
+
+// RENDER ALL
+function renderAll(){renderOutcomes();renderLeaders();renderTh();drawNet()}
+
+function renderOutcomes(){
+  const p=calc();
+  const row=document.getElementById('orow');
+  row.innerHTML='';
+  OUTCOMES.forEach((o,i)=>{
+    const pct=p[o.id]||20;
+    const delta=pct-(prevP[o.id]||pct);
+    const chg=Math.abs(delta)>=1?`<div style="font-family:'Share Tech Mono',monospace;font-size:10px;color:${delta>0?'var(--accent)':'var(--safe)'};margin-top:4px">${delta>0?'▲':'▼'} ${Math.abs(Math.round(delta))}%</div>`:'';
+    const c=document.createElement('div');
+    c.className='ocard';
+    c.style.setProperty('--c',o.color);
+    c.style.setProperty('--p',pct/100);
+    c.innerHTML=`<div class="onum">OUTCOME ${i+1}</div><div class="oname">${o.name}</div><div class="opct" style="color:${o.color}">${pct}<span>%</span></div>${chg}<div class="odesc">${o.desc}</div>`;
+    row.appendChild(c);
+  });
+  prevP={...p};renderStrip(p);
+}
+
+function renderVars(){
+  const vg=document.getElementById('vgroups');
+  vg.innerHTML='';
+  VCFG.forEach(grp=>{
+    const g=document.createElement('div');g.className='vg';
+    g.innerHTML=`<div class="vgtit">${grp.g}</div>`;
+    grp.v.forEach(item=>{
+      const val=V[item.k];
+      const row=document.createElement('div');row.className='vrow';
+      row.innerHTML=`<div class="vlab">${item.l}<div class="vsub2">${item.s}</div></div><div class="vsl"><input type="range" min="0" max="100" value="${val}" id="sl_${item.k}" oninput="upV('${item.k}',this.value)"/></div><div class="vval" id="vv_${item.k}">${val}</div>`;
+      g.appendChild(row);
+    });
+    vg.appendChild(g);
+  });
+  syncSc();
+}
+
+function syncSl(){
+  VCFG.forEach(g=>g.v.forEach(item=>{
+    const sl=document.getElementById(`sl_${item.k}`);
+    const vv=document.getElementById(`vv_${item.k}`);
+    if(sl){sl.value=V[item.k];slColor(sl,item.k)}
+    if(vv) vv.textContent=V[item.k];
+  }));
+}
+
+function syncSc(){VCFG.forEach(g=>g.v.forEach(item=>{const sl=document.getElementById(`sl_${item.k}`);if(sl)slColor(sl,item.k)}))}
+
+function slColor(sl,k){
+  const p=sl.value;
+  const guard=['congressConstraint','diplomaticChannels','armsControlArchitecture'].includes(k);
+  const c=guard?`hsl(${120*p/100},75%,48%)`:`hsl(${120-120*p/100},75%,48%)`;
+  sl.style.background=`linear-gradient(to right,${c} ${p}%,#1e2d3d ${p}%)`;
+}
+
+function upV(k,val){
+  V[k]=parseInt(val);
+  const vv=document.getElementById(`vv_${k}`);if(vv) vv.textContent=val;
+  const sl=document.getElementById(`sl_${k}`);if(sl) slColor(sl,k);
+  document.querySelectorAll('.pb').forEach(b=>b.classList.remove('on'));
+  renderAll();
+}
+
+function renderLeaders(){
+  const g=document.getElementById('lgrid');g.innerHTML='';
+  LEADERS.forEach(l=>{
+    const risk=Math.min(99,Math.max(20,Math.round(l.b+(V[l.k]-50)*.2+V.narcissismCoefficient*.1)));
+    const col=risk>=80?'#ff4444':risk>=65?'#ff8800':risk>=50?'#ffcc00':'#00cc66';
+    const txt=risk>=80?'CRITICAL':risk>=65?'HIGH':risk>=50?'ELEVATED':'MODERATE';
+    const c=document.createElement('div');c.className='lc';c.style.setProperty('--rc',col);
+    c.innerHTML=`<div class="lname">${l.n}</div><div class="lrole">${l.r}</div><div class="lbar"><div class="lfill" style="width:${risk}%;background:${col};box-shadow:0 0 5px ${col}66"></div></div><div style="display:flex;justify-content:space-between"><span style="font-family:'Share Tech Mono',monospace;font-size:12px;color:${col}">${risk}</span><span style="font-size:9px;color:var(--text-dim)">${txt}</span></div><div class="ltags">${l.tags.map(t=>`<span class="ltag">${t}</span>`).join('')}</div>`;
+    g.appendChild(c);
+  });
+}
+
+function renderTh(){
+  const t=document.getElementById('thlist');t.innerHTML='';
+  THEATRES.forEach(th=>{
+    const lv=Math.min(100,Math.max(10,Math.round(th.b+(V[th.k]-50)*.3)));
+    const col=lv>=80?'#ff4444':lv>=60?'#ff8800':lv>=40?'#ffcc00':'#00cc66';
+    const row=document.createElement('div');row.className='trow';
+    row.innerHTML=`<div><div class="tname">${th.n}</div><div class="tst">${th.s}</div></div><div class="tbw"><div class="tb" style="width:${lv}%;background:${col}"></div></div><div class="tlv" style="color:${col}">${lv}</div>`;
+    t.appendChild(row);
+  });
+}
+
+function renderThLive(data){
+  const t=document.getElementById('thlist');t.innerHTML='';
+  THEATRES.forEach(th=>{
+    const m=data.find(c=>th.n.toLowerCase().includes(c.name.toLowerCase().split('-')[0]));
+    const lv=m?Math.min(100,Math.max(10,m.level)):Math.min(100,Math.max(10,Math.round(th.b+(V[th.k]-50)*.3)));
+    const col=lv>=80?'#ff4444':lv>=60?'#ff8800':lv>=40?'#ffcc00':'#00cc66';
+    const row=document.createElement('div');row.className='trow';
+    row.innerHTML=`<div><div class="tname">${th.n}</div><div class="tst">${th.s}${m?' [GDELT]':''}</div></div><div class="tbw"><div class="tb" style="width:${lv}%;background:${col}"></div></div><div class="tlv" style="color:${col}">${lv}</div>`;
+    t.appendChild(row);
+  });
+}
+
+function renderStrip(p){
+  const b=document.getElementById('bstrip');
+  const mx=Math.max(p.escalation||0,p.cascade||0,p.southasia||0);
+  const gr=Math.round((V.congressConstraint+V.diplomaticChannels+V.armsControlArchitecture)/3);
+  const lr=Math.round(LEADERS.reduce((s,l)=>s+Math.min(99,Math.max(20,l.b+(V[l.k]-50)*.2+V.narcissismCoefficient*.1)),0)/LEADERS.length);
+  const items=[
+    ['CATASTROPHIC RISK',`${mx}%`,mx>50?'var(--accent)':mx>35?'var(--accent2)':'var(--accent3)'],null,
+    ['NEGOTIATION',`${p.negotiation||3}%','var(--safe)'],null,
+    ['OIL STRESS',`${V.oilPrice}`,V.oilPrice>60?'var(--accent2)':'var(--text)'],null,
+    ['STRAIT CONTROL',`${V.straitControl}%`,V.straitControl>65?'var(--accent)':'var(--text)'],null,
+    ['GUARDRAILS',`${gr}/100`,gr<30?'var(--accent)':'var(--accent3)'],null,
+    ['AVG LEADER RISK',`${lr}`,lr>=80?'#ff4444':lr>=65?'#ff8800':'#ffcc00'],null,
+    ['NUCLEAR SIGNAL',`${V.nuclearSignalling}`,V.nuclearSignalling>60?'var(--accent)':'var(--text)'],null,
+    ['WEAPONS DEPLETION',`${V.weaponsDepletion}%`,'var(--accent2)'],
+  ];
+  b.innerHTML=items.map(it=>it===null?'<div class="div"></div>':`<div class="si"><div class="sl">${it[0]}</div><div class="sv" style="color:${it[2]}">${it[1]}</div></div>`).join('');
+}
+
+// NETWORK
+function drawNet(){
+  const canvas=document.getElementById('nc');
+  const ctx=canvas.getContext('2d');
+  const W=canvas.width=canvas.parentElement.offsetWidth;
+  const H=canvas.height=canvas.parentElement.offsetHeight;
+  const v=V;
+  const nodes=[
+    {id:'trump',l:'TRUMP',x:W*.17,y:H*.24,r:25,c:'#ff4444',rv:Math.min(99,88+(v.trumpDomesticPressure-50)*.2+v.narcissismCoefficient*.1)},
+    {id:'iran',l:'IRAN WAR',x:W*.50,y:H*.18,r:29,c:'#ff8800',rv:v.straitControl},
+    {id:'bibi',l:'NETANYAHU',x:W*.78,y:H*.26,r:21,c:'#ff4444',rv:Math.min(99,85+(v.netanyahuLegalJeopardy-50)*.2)},
+    {id:'mbs',l:'MBS',x:W*.65,y:H*.70,r:19,c:'#ffcc00',rv:80},
+    {id:'pak',l:'PAK-AFG',x:W*.33,y:H*.74,r:23,c:'#ff8800',rv:v.pakistanEconomicStress},
+    {id:'india',l:'INDIA',x:W*.15,y:H*.66,r:19,c:'#ffcc00',rv:Math.min(99,65+v.nuclearSignalling*.1)},
+    {id:'china',l:'CHINA',x:W*.83,y:H*.66,r:21,c:'#00d4ff',rv:55},
+    {id:'strait',l:'HORMUZ',x:W*.50,y:H*.76,r:27,c:'#00d4ff',rv:v.straitControl},
+    {id:'cyber',l:'CYBER',x:W*.50,y:H*.50,r:17,c:'#cc00ff',rv:v.cyberIntensity},
+    {id:'russia',l:'RUSSIA',x:W*.20,y:H*.46,r:19,c:'#ff8800',rv:70},
+  ];
+  const edges=[
+    {f:'trump',t:'iran',w:v.trumpDomesticPressure/100},{f:'bibi',t:'iran',w:v.netanyahuLegalJeopardy/100},
+    {f:'mbs',t:'iran',w:.88},{f:'iran',t:'strait',w:v.straitControl/100},
+    {f:'iran',t:'cyber',w:v.cyberIntensity/100},{f:'pak',t:'india',w:v.nuclearSignalling/100},
+    {f:'china',t:'pak',w:.75},{f:'russia',t:'iran',w:v.proxyActivation/100},
+    {f:'russia',t:'trump',w:.62},{f:'trump',t:'mbs',w:.85},{f:'mbs',t:'strait',w:.68},
+  ];
+  ctx.clearRect(0,0,W,H);
+  edges.forEach(e=>{
+    const f=nodes.find(n=>n.id===e.f),t=nodes.find(n=>n.id===e.t);
+    if(!f||!t) return;
+    ctx.beginPath();ctx.moveTo(f.x,f.y);ctx.lineTo(t.x,t.y);
+    ctx.strokeStyle=`rgba(255,255,255,${.1+e.w*.35})`;ctx.lineWidth=1+e.w*2.5;ctx.stroke();
+  });
+  nodes.forEach(n=>{
+    const rp=n.rv/100;
+    const rgb=n.c==='#ff4444'?'255,68,68':n.c==='#ff8800'?'255,136,0':n.c==='#ffcc00'?'255,204,0':n.c==='#00d4ff'?'0,212,255':'204,0,255';
+    const g=ctx.createRadialGradient(n.x,n.y,0,n.x,n.y,n.r*2.5);
+    g.addColorStop(0,`rgba(${rgb},.2)`);g.addColorStop(1,'transparent');
+    ctx.beginPath();ctx.arc(n.x,n.y,n.r*2.5,0,Math.PI*2);ctx.fillStyle=g;ctx.fill();
+    ctx.beginPath();ctx.arc(n.x,n.y,n.r,0,Math.PI*2);ctx.fillStyle='rgba(8,11,16,.92)';ctx.fill();
+    ctx.strokeStyle=n.c;ctx.lineWidth=1.5;ctx.stroke();
+    ctx.beginPath();ctx.moveTo(n.x,n.y);ctx.arc(n.x,n.y,n.r,-Math.PI/2,-Math.PI/2+Math.PI*2*rp);
+    ctx.closePath();ctx.fillStyle=`rgba(${rgb},.18)`;ctx.fill();
+    ctx.fillStyle='#f0f6fc';ctx.font="bold 9px 'IBM Plex Sans'";ctx.textAlign='center';ctx.textBaseline='middle';
+    ctx.fillText(n.l,n.x,n.y-3);ctx.fillStyle=n.c;ctx.font="8px 'Share Tech Mono'";
+    ctx.fillText(Math.round(n.rv),n.x,n.y+7);
+  });
+}
+
+// PRESETS
+function preset(name){
+  document.querySelectorAll('.pb').forEach(b=>b.classList.remove('on'));
+  document.querySelector(`[onclick="preset('${name}')"]`)?.classList.add('on');
+  if(name==='live'){fetchLive();return}
+  if(PSETS[name]){Object.assign(V,PSETS[name]);syncSl();renderAll()}
+}
+
+// SHARE
+function doShare(){
+  const url=window.location.href;
+  if(navigator.clipboard){navigator.clipboard.writeText(url).then(showToast)}
+  else{const e=document.createElement('input');e.value=url;document.body.appendChild(e);e.select();document.execCommand('copy');document.body.removeChild(e);showToast()}
+}
+function showToast(){const t=document.getElementById('toast');t.classList.add('show');setTimeout(()=>t.classList.remove('show'),2500)}
+
+// COUNTDOWN
+let nxt=Date.now()+REFRESH;
+function tick(){
+  const l=Math.max(0,nxt-Date.now());
+  const m=Math.floor(l/60000),s=Math.floor((l%60000)/1000);
+  const el=document.getElementById('cd');
+  if(el) el.textContent=`${m}:${s.toString().padStart(2,'0')}`;
+}
+
+// INIT
+document.addEventListener('DOMContentLoaded',()=>{
+  renderVars();renderAll();loadAlerts(FALERTS);fetchLive();
+  setInterval(tick,1000);
+  setInterval(()=>{fetchLive();nxt=Date.now()+REFRESH},REFRESH);
+  window.addEventListener('resize',drawNet);
+});
+</script>
+</body>
+</html>

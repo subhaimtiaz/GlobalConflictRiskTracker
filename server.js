@@ -1,505 +1,328 @@
-/**
- * GLOBAL CONFLICT RISK MATRIX — Live Data Backend
- * Fetches real data from free public APIs and serves it to the dashboard
- *
- * Data sources:
- * - Oil price: oilpriceapi.com (free tier) or fallback to Yahoo Finance
- * - News/alerts: GDELT Project (free, no key needed) + NewsData.io (free tier)
- * - Conflict events: GDELT Event API (free, no key needed)
- * - Nuclear/military: ACLED API (free for research) + GDELT tone analysis
- */
-
 const express = require('express');
 const cors = require('cors');
+const fs = require('fs');
+const path = require('path');
 const https = require('https');
-const http = require('http');
 
 const app = express();
 app.use(cors());
 app.use(express.json());
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8080;
+const API_KEY = process.env.COMMODITY_API_KEY || '';
+const NEWSDATA_KEY = process.env.NEWSDATA_API_KEY || '';
+const RESEND_KEY = process.env.RESEND_API_KEY || '';
+const WATCH_FILE = path.join(__dirname, 'watch_state.json');
+const LEADERS_FILE = path.join(__dirname, 'leaders.json');
 
-// ============================================================
-// API KEYS — Set these as environment variables in Railway
-// ============================================================
-const OIL_API_KEY = process.env.OIL_API_KEY || '';          // oilpriceapi.com free key
-const COMMODITY_API_KEY = process.env.COMMODITY_API_KEY || ''; // commoditypriceapi.com key
-const NEWS_API_KEY = process.env.NEWS_API_KEY || '';         // newsdata.io free key
-const ACLED_KEY = process.env.ACLED_KEY || '';               // acleddata.com free research key
-const ACLED_EMAIL = process.env.ACLED_EMAIL || '';
-
-// ============================================================
-// CACHE — refresh every 5 minutes to respect free tier limits
-// ============================================================
-const cache = {
-  oil: { data: null, ts: 0 },
-  news: { data: null, ts: 0 },
-  conflicts: { data: null, ts: 0 },
-  gdelt: { data: null, ts: 0 },
-};
-const TTL = 5 * 60 * 1000; // 5 minutes
-
-function isFresh(key) {
-  return cache[key].data && (Date.now() - cache[key].ts) < TTL;
+// ── HELPERS ──
+function readJSON(file, fallback) {
+  try { return JSON.parse(fs.readFileSync(file, 'utf8')); }
+  catch(e) { return fallback; }
 }
-
-// ============================================================
-// UTILITY — fetch JSON from URL
-// ============================================================
-function fetchJSON(url, options = {}) {
+function writeJSON(file, data) {
+  try { fs.writeFileSync(file, JSON.stringify(data, null, 2)); return true; }
+  catch(e) { return false; }
+}
+function httpsGet(url) {
   return new Promise((resolve, reject) => {
-    const lib = url.startsWith('https') ? https : http;
-    const req = lib.get(url, options, (res) => {
+    https.get(url, res => {
       let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => {
-        try {
-          resolve(JSON.parse(data));
-        } catch (e) {
-          resolve({ raw: data });
-        }
-      });
-    });
-    req.on('error', reject);
-    req.setTimeout(8000, () => { req.destroy(); reject(new Error('timeout')); });
+      res.on('data', d => data += d);
+      res.on('end', () => { try { resolve(JSON.parse(data)); } catch(e) { reject(e); } });
+    }).on('error', reject);
   });
 }
 
-// ============================================================
-// OIL PRICE
-// Free sources in priority order:
-// 1. oilpriceapi.com (requires free key)
-// 2. Yahoo Finance (no key, scrape)
-// 3. Static fallback based on current news context
-// ============================================================
-async function fetchOilPrice() {
-  if (isFresh('oil')) return cache.oil.data;
+// ── LEADERS ENDPOINT ──
+app.get('/api/leaders', (req, res) => {
+  const leaders = readJSON(LEADERS_FILE, []);
+  res.set('Cache-Control', 'public, max-age=3600');
+  res.json({ leaders, ts: new Date().toISOString() });
+});
 
-  let price = null;
-  let source = 'unknown';
+// ── WATCH STATE ENDPOINT ──
+app.get('/api/watch', (req, res) => {
+  const state = readJSON(WATCH_FILE, { leaders: {}, vars: {} });
+  res.json(state);
+});
 
-  // Try commoditypriceapi.com (primary — has live key)
-  if (COMMODITY_API_KEY) {
-    try {
-      // BRENT crude symbol on commoditypriceapi is 'BRENT'
-      const data = await fetchJSON(`https://commoditypriceapi.com/api/latest?access_key=${COMMODITY_API_KEY}&base=USD&symbols=BRENT`);
-      if (data?.rates?.BRENT) {
-        // API returns how many BRENT per 1 USD, so we invert
-        price = Math.round((1 / data.rates.BRENT) * 100) / 100;
-        source = 'commoditypriceapi.com';
-      }
-    } catch (e) { console.log('commoditypriceapi error:', e.message); }
+// ── MARK REVIEWED ENDPOINT ──
+app.post('/api/mark-reviewed', (req, res) => {
+  const { type, key, ts } = req.body;
+  if (!type || !key) return res.status(400).json({ error: 'Missing type or key' });
+  const state = readJSON(WATCH_FILE, { leaders: {}, vars: {} });
+  const now = ts || new Date().toISOString();
+  if (type === 'leader') {
+    if (!state.leaders[key]) state.leaders[key] = {};
+    state.leaders[key].lastRefresh = now;
+    state.leaders[key].flags = {};
+  } else if (type === 'var') {
+    if (!state.vars[key]) state.vars[key] = {};
+    state.vars[key].lastRefresh = now;
+    state.vars[key].flag = {};
   }
+  writeJSON(WATCH_FILE, state);
+  res.json({ ok: true, ts: now });
+});
 
-  // Try oilpriceapi.com (secondary)
-  if (!price && OIL_API_KEY) {
-    try {
-      const data = await fetchJSON(`https://api.oilpriceapi.com/v1/prices/latest?by_code=BRENT_CRUDE_USD`, {
-        headers: { 'Authorization': `Token ${OIL_API_KEY}` }
-      });
-      if (data?.data?.price) {
-        price = parseFloat(data.data.price);
-        source = 'oilpriceapi.com';
-      }
-    } catch (e) { /* try next */ }
-  }
-
-  // Try Yahoo Finance (no key needed)
-  if (!price) {
-    try {
-      const data = await fetchJSON('https://query1.finance.yahoo.com/v8/finance/chart/BZ=F?interval=1d&range=1d');
-      const result = data?.chart?.result?.[0];
-      if (result) {
-        const closes = result.indicators?.quote?.[0]?.close;
-        price = closes?.[closes.length - 1];
-        source = 'Yahoo Finance';
-      }
-    } catch (e) { /* try next */ }
-  }
-
-  // Fallback: estimate from known context (war started, prices rose sharply)
-  if (!price) {
-    // Context: Iran war started Feb 28, oil spiked from ~$67 to $100-115
-    // Use a contextually accurate fallback
-    price = 97 + (Math.random() * 10 - 5); // ~$92-107 range
-    source = 'estimated';
-  }
-
-  const result = {
-    price: Math.round(price * 100) / 100,
-    source,
-    ts: new Date().toISOString(),
-    change_pct: price > 100 ? '+' + Math.round((price - 67) / 67 * 100) + '% since pre-war' : null
-  };
-
-  cache.oil = { data: result, ts: Date.now() };
-  return result;
+// ── GDELT QUERY ──
+async function gdeltQuery(terms) {
+  try {
+    const q = encodeURIComponent(terms.join(' OR '));
+    const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${q}&mode=artlist&maxrecords=10&format=json&timespan=24h&sourcelang=english`;
+    const data = await httpsGet(url);
+    const articles = data.articles || [];
+    const tone = articles.reduce((sum, a) => sum + (parseFloat(a.tone) || 0), 0) / Math.max(articles.length, 1);
+    const sources = new Set(articles.map(a => a.domain || '')).size;
+    return { count: articles.length, tone, sources, articles };
+  } catch(e) { return { count: 0, tone: 0, sources: 0, articles: [] }; }
 }
 
-// ============================================================
-// NEWS ALERTS — GDELT (no key needed, truly free)
-// GDELT API docs: https://blog.gdeltproject.org/gdelt-2-0-our-global-world-in-realtime/
-// ============================================================
-async function fetchGDELTAlerts() {
-  if (isFresh('gdelt')) return cache.gdelt.data;
-
-  const queries = [
-    'Iran+war+nuclear+missile',
-    'Pakistan+Afghanistan+conflict',
-    'Strait+Hormuz+oil+tanker',
-    'Israel+Gaza+strike',
-    'nuclear+risk+escalation',
-  ];
-
-  const alerts = [];
-
-  for (const q of queries.slice(0, 2)) { // limit to 2 queries to be gentle
-    try {
-      const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${q}&mode=artlist&maxrecords=5&format=json&timespan=24H&sort=HybridRel&sourcelang=english`;
-      const data = await fetchJSON(url);
-
-      if (data?.articles) {
-        data.articles.forEach(article => {
-          // Parse GDELT date format: "20260321123045" → ISO
-          let parsedTime = article.seendate;
-          if (article.seendate && article.seendate.length === 14) {
-            const d = article.seendate;
-            parsedTime = d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'T'+d.slice(8,10)+':'+d.slice(10,12)+':'+d.slice(12,14)+'Z';
-          }
-          alerts.push({
-            title: article.title,
-            source: article.domain,
-            url: article.url,
-            time: parsedTime,
-            tone: article.tone,
-            type: article.tone < -5 ? 'critical' : article.tone < -2 ? 'warning' : 'info'
-          });
-        });
-      }
-    } catch (e) { /* continue */ }
-  }
-
-  const result = alerts.length > 0 ? alerts : getFallbackAlerts();
-  cache.gdelt = { data: result, ts: Date.now() };
-  return result;
+// ── ESTIMATE IMPACT ──
+// Returns estimated point impact based on gdelt signal strength
+// Scaled by dimension weight — higher weight = flag triggers at smaller absolute change
+function estimateImpact(gdeltResult, dimWeight) {
+  const { count, tone, sources } = gdeltResult;
+  if (count === 0) return 0;
+  // Frequency signal: 0-8 based on article count
+  const freqScore = Math.min(8, count * 0.8);
+  // Consequence signal: 0-8 based on tone (more negative = higher consequence)
+  const consScore = Math.min(8, Math.abs(tone) * 1.5);
+  // Corroboration signal: 0-8 based on distinct sources
+  const corrScore = Math.min(8, sources * 2);
+  const totalIntensity = (freqScore + consScore + corrScore) / 24; // 0-1
+  // Scale by weight: higher weight dimensions have lower threshold so same signal = more impact
+  const weightMultiplier = dimWeight / 18; // normalized to impulsivity as baseline
+  return Math.round(totalIntensity * 15 * weightMultiplier * 10) / 10;
 }
 
-// ============================================================
-// NEWS via NewsData.io (free tier: 200 requests/day)
-// ============================================================
-async function fetchNewsAlerts() {
-  if (isFresh('news')) return cache.news.data;
+// ── WATCH MONITORING (runs at refresh) ──
+async function runWatchMonitoring() {
+  const leaders = readJSON(LEADERS_FILE, []);
+  const state = readJSON(WATCH_FILE, { leaders: {}, vars: {} });
+  const DIM_THRESHOLDS = { narcissism: 2.5, impulsivity: 2.8, values: 3.0, survival: 2.0, accountability: 2.3 };
+  const DIM_WEIGHTS = { narcissism: 20, impulsivity: 18, values: 15, survival: 25, accountability: 22 };
+  let newFlags = 0;
 
-  let articles = [];
-
-  if (NEWS_API_KEY) {
-    try {
-      const queries = [
-        `https://newsdata.io/api/1/news?apikey=${NEWS_API_KEY}&q=Iran+war+nuclear&language=en&size=5`,
-        `https://newsdata.io/api/1/news?apikey=${NEWS_API_KEY}&q=Pakistan+Afghanistan+military&language=en&size=5`,
-      ];
-
-      for (const url of queries) {
-        try {
-          const data = await fetchJSON(url);
-          if (data?.results) {
-            articles = articles.concat(data.results.map(a => ({
-              title: a.title,
-              source: a.source_id,
-              url: a.link,
-              time: a.pubDate,
-              description: a.description,
-              type: 'info'
-            })));
-          }
-        } catch (e) { /* continue */ }
+  // Check each leader
+  for (const leader of leaders) {
+    if (!state.leaders[leader.n]) state.leaders[leader.n] = { flags: {}, lastRefresh: null };
+    const ls = state.leaders[leader.n];
+    const watchTerms = leader.watch || [];
+    if (!watchTerms.length) continue;
+    // Query GDELT for this leader's watch terms
+    const gdelt = await gdeltQuery(watchTerms);
+    // Check each dimension
+    for (const dim of Object.keys(DIM_THRESHOLDS)) {
+      const thresh = DIM_THRESHOLDS[dim];
+      const wt = (leader.weights && leader.weights[dim]) || DIM_WEIGHTS[dim] || 18;
+      const impact = estimateImpact(gdelt, wt);
+      if (impact >= thresh) {
+        const existing = ls.flags[dim] || {};
+        if (!existing.triggered || existing.impact < impact) {
+          ls.flags[dim] = {
+            triggered: true,
+            level: impact >= thresh * 2 ? 'critical' : 'flagged',
+            reason: `${gdelt.count} article${gdelt.count !== 1 ? 's' : ''} detected matching watch terms for ${dim} — tone ${gdelt.tone.toFixed(1)}, ${gdelt.sources} sources`,
+            impact: impact,
+            sources: gdelt.sources,
+            ts: new Date().toISOString()
+          };
+          newFlags++;
+        }
       }
-    } catch (e) { /* use fallback */ }
-  }
-
-  const result = articles.length > 0 ? articles : getFallbackAlerts();
-  cache.news = { data: result, ts: Date.now() };
-  return result;
-}
-
-// ============================================================
-// CONFLICT EVENT DATA — GDELT Event API
-// Updated every 15 minutes, free, no key
-// Returns conflict event counts by region
-// ============================================================
-async function fetchConflictData() {
-  if (isFresh('conflicts')) return cache.conflicts.data;
-
-  const theatres = [
-    { name: 'Iran', query: 'Iran', baseLevel: 88 },
-    { name: 'Pakistan', query: 'Pakistan+Afghanistan', baseLevel: 75 },
-    { name: 'Israel/Lebanon', query: 'Israel+Lebanon+strike', baseLevel: 72 },
-    { name: 'Ukraine', query: 'Ukraine+Russia+attack', baseLevel: 58 },
-    { name: 'Yemen', query: 'Yemen+Houthi', baseLevel: 65 },
-  ];
-
-  const results = [];
-
-  for (const theatre of theatres) {
-    try {
-      // Use GDELT timeline API to get conflict event counts
-      const url = `https://api.gdeltproject.org/api/v2/tv/tv?query=${theatre.query}+conflict&format=json&timespan=24H`;
-      // Note: TV API is simplest, always free
-      // We use article count as proxy for escalation level
-
-      const docUrl = `https://api.gdeltproject.org/api/v2/doc/doc?query=${theatre.query}+military+attack&mode=artlist&maxrecords=3&format=json&timespan=24H`;
-      const data = await fetchJSON(docUrl);
-
-      let level = theatre.baseLevel;
-      if (data?.articles) {
-        // More articles = higher activity = slightly higher level
-        const count = data.articles.length;
-        level = Math.min(99, Math.max(30, theatre.baseLevel + count * 2));
-
-        // Check average tone — more negative = more conflict
-        const avgTone = data.articles.reduce((a, b) => a + (b.tone || 0), 0) / count;
-        if (avgTone < -10) level = Math.min(99, level + 10);
-        else if (avgTone < -5) level = Math.min(99, level + 5);
-      }
-
-      results.push({
-        name: theatre.name,
-        level: Math.round(level),
-        articleCount: data?.articles?.length || 0,
-        ts: new Date().toISOString()
-      });
-
-    } catch (e) {
-      results.push({ name: theatre.name, level: theatre.baseLevel, articleCount: 0, ts: new Date().toISOString() });
     }
   }
 
-  const result = results.length > 0 ? results : getDefaultConflictLevels();
-  cache.conflicts = { data: result, ts: Date.now() };
-  return result;
-}
-
-// ============================================================
-// COMPUTED VARIABLES — Derive dashboard variables from real data
-// ============================================================
-function computeVariables(oilData, alertData, conflictData) {
-  const oilPrice = oilData?.price || 97;
-
-  // Oil price stress (0-100)
-  // $60 = 0, $150 = 100
-  const oilStress = Math.min(100, Math.max(0, Math.round((oilPrice - 60) / 90 * 100)));
-
-  // Conflict article count as proxy for escalation signals
-  const iranLevel = conflictData?.find(c => c.name === 'Iran')?.level || 85;
-  const pakLevel = conflictData?.find(c => c.name === 'Pakistan')?.level || 72;
-  const israelLevel = conflictData?.find(c => c.name === 'Israel/Lebanon')?.level || 70;
-
-  // Alert severity score
-  const criticalCount = (alertData || []).filter(a => a.type === 'critical').length;
-  const warningCount = (alertData || []).filter(a => a.type === 'warning').length;
-  const alertSeverity = Math.min(100, criticalCount * 15 + warningCount * 8);
-
-  return {
-    oilPrice: oilStress,
-    straitControl: Math.round(iranLevel * 0.9),
-    nuclearSignalling: Math.round(45 + alertSeverity * 0.3),
-    cyberIntensity: Math.round(50 + alertSeverity * 0.2),
-    proxyActivation: Math.round(israelLevel * 0.85),
-    pakistanEconomicStress: Math.round(pakLevel * 0.9),
-    // Static/slow-changing variables keep their baseline
-    weaponsDepletion: 58,
-    trumpDomesticPressure: 65,
-    netanyahuLegalJeopardy: 82,
-    iranRegimeCohesion: 40,
-    congressConstraint: 20,
-    diplomaticChannels: 22,
-    armsControlArchitecture: 15,
-    narcissismCoefficient: 78,
-    groupthinkRisk: 68,
-  };
-}
-
-// ============================================================
-// FALLBACK DATA — Used when APIs are unavailable
-// ============================================================
-function getFallbackAlerts() {
-  const alerts = [
-    { title: 'Iranian ballistic missile launches detected near Strait of Hormuz', source: 'military-monitor', time: new Date().toISOString(), type: 'critical' },
-    { title: 'Pakistan launches new airstrike wave on Afghan border provinces', source: 'south-asia-monitor', time: new Date().toISOString(), type: 'critical' },
-    { title: 'US weapons stockpiles at 58% capacity, Pentagon requests supplemental', source: 'defense-news', time: new Date().toISOString(), type: 'warning' },
-    { title: 'Oil futures spike 3.2% as tanker attack reported near Ras Laffan', source: 'reuters', time: new Date().toISOString(), type: 'warning' },
-    { title: 'India-Pakistan LoC ceasefire violations reported in Kashmir', source: 'south-asia-monitor', time: new Date().toISOString(), type: 'warning' },
-    { title: 'CISA warns of Iranian APT33 targeting US grid infrastructure', source: 'cisa.gov', time: new Date().toISOString(), type: 'critical' },
-    { title: 'Russia provides Iran with updated satellite targeting data', source: 'intelligence-monitor', time: new Date().toISOString(), type: 'critical' },
-    { title: 'Mojtaba Khamenei delivers hardline address: no surrender, no negotiation', source: 'iran-watch', time: new Date().toISOString(), type: 'warning' },
-    { title: 'China rejects Strait of Hormuz coalition membership, negotiates bilateral with Iran', source: 'fp', time: new Date().toISOString(), type: 'info' },
-    { title: 'Trump demands unconditional surrender: "feel it in my bones" exit condition', source: 'wh-monitor', time: new Date().toISOString(), type: 'info' },
+  // Check static variables
+  const VAR_WATCH = [
+    { k: 'nuclearSignalling', name: 'Nuclear Signalling', watch: ['nuclear doctrine India', 'nuclear Pakistan', 'LoC violations', 'nuclear signalling'] },
+    { k: 'congressConstraint', name: 'Congressional Constraint', watch: ['War Powers', 'AUMF', 'Congress vote Iran', 'congressional authorisation'] },
+    { k: 'diplomaticChannels', name: 'Diplomatic Channels', watch: ['Iran ceasefire', 'diplomacy Iran', 'Oman talks', 'back channel Iran'] },
+    { k: 'armsControlArchitecture', name: 'Arms Control Architecture', watch: ['New START', 'arms control treaty', 'nuclear treaty'] },
+    { k: 'trumpDomesticPressure', name: 'Trump Domestic Pressure', watch: ['Trump approval', 'FiveThirtyEight poll', 'Trump impeach'] },
+    { k: 'netanyahuLegalJeopardy', name: 'Netanyahu Legal Jeopardy', watch: ['Netanyahu trial', 'Netanyahu ICC', 'Netanyahu coalition', 'corruption Israel'] },
+    { k: 'pakistanEconomicStress', name: 'Pakistan Economic Stress', watch: ['IMF Pakistan', 'Pakistan rupee', 'Pakistan economy'] },
+    { k: 'iranRegimeCohesion', name: 'Iran Regime Cohesion', watch: ['IRGC split', 'Iran leadership', 'Iran protest'] }
   ];
-  return alerts;
+
+  for (const v of VAR_WATCH) {
+    if (!state.vars[v.k]) state.vars[v.k] = { flag: {}, lastRefresh: null };
+    const gdelt = await gdeltQuery(v.watch);
+    const impact = estimateImpact(gdelt, 18);
+    if (impact >= 2) {
+      const existing = state.vars[v.k].flag || {};
+      if (!existing.triggered || existing.impact < impact) {
+        state.vars[v.k].flag = {
+          triggered: true,
+          level: impact >= 4 ? 'critical' : 'flagged',
+          reason: `${gdelt.count} article${gdelt.count !== 1 ? 's' : ''} detected — tone ${gdelt.tone.toFixed(1)}, ${gdelt.sources} sources`,
+          impact: impact,
+          sources: gdelt.sources,
+          ts: new Date().toISOString()
+        };
+        newFlags++;
+      }
+    }
+  }
+
+  writeJSON(WATCH_FILE, state);
+  console.log(`Watch monitoring complete — ${newFlags} new flags`);
+  return newFlags;
 }
 
-function getDefaultConflictLevels() {
-  return [
-    { name: 'Iran', level: 88, articleCount: 0 },
-    { name: 'Pakistan', level: 75, articleCount: 0 },
-    { name: 'Israel/Lebanon', level: 72, articleCount: 0 },
-    { name: 'Ukraine', level: 58, articleCount: 0 },
-    { name: 'Yemen', level: 65, articleCount: 0 },
-  ];
+// ── EMAIL DIGEST VIA RESEND ──
+async function sendEmailDigest() {
+  if (!RESEND_KEY) { console.log('No RESEND_KEY — skipping email'); return; }
+  const state = readJSON(WATCH_FILE, { leaders: {}, vars: {} });
+  const leaders = readJSON(LEADERS_FILE, []);
+  const lines = [];
+
+  // Leader flags
+  for (const leader of leaders) {
+    const ls = state.leaders[leader.n];
+    if (!ls || !ls.flags) continue;
+    const triggered = Object.keys(ls.flags).filter(f => ls.flags[f] && ls.flags[f].triggered);
+    if (!triggered.length) continue;
+    lines.push(`<h3 style="color:#E8F5EC;font-family:Georgia,serif;margin:16px 0 8px">${leader.n}</h3>`);
+    triggered.forEach(dim => {
+      const flag = ls.flags[dim];
+      lines.push(`<p style="color:#A8C4B0;font-size:14px;margin:4px 0"><strong style="color:#E8C96A">${dim.toUpperCase()}</strong> — Est. impact: <strong>${flag.impact} pts</strong> (threshold: 2.0–3.0 pts depending on weight)<br><span style="color:#5A8068;font-size:12px">${flag.reason}</span></p>`);
+    });
+  }
+
+  // Variable flags
+  const varFlagged = [];
+  const VAR_NAMES = { nuclearSignalling: 'Nuclear Signalling', congressConstraint: 'Congressional Constraint', diplomaticChannels: 'Diplomatic Channels', armsControlArchitecture: 'Arms Control Architecture', trumpDomesticPressure: 'Trump Domestic Pressure', netanyahuLegalJeopardy: 'Netanyahu Legal Jeopardy', pakistanEconomicStress: 'Pakistan Economic Stress', iranRegimeCohesion: 'Iran Regime Cohesion' };
+  Object.keys(state.vars || {}).forEach(k => {
+    const vs = state.vars[k];
+    if (vs && vs.flag && vs.flag.triggered) varFlagged.push({ k, name: VAR_NAMES[k] || k, flag: vs.flag });
+  });
+  if (varFlagged.length) {
+    lines.push('<h3 style="color:#E8F5EC;font-family:Georgia,serif;margin:16px 0 8px">Dashboard Variables</h3>');
+    varFlagged.forEach(v => {
+      lines.push(`<p style="color:#A8C4B0;font-size:14px;margin:4px 0"><strong style="color:#C9A84C">${v.name}</strong> — Est. impact: <strong>${v.flag.impact} pts</strong><br><span style="color:#5A8068;font-size:12px">${v.flag.reason}</span></p>`);
+    });
+  }
+
+  if (!lines.length) { console.log('No flags to email'); return; }
+
+  const html = `
+    <div style="background:#080F0A;color:#E8F5EC;font-family:DM Sans,Arial,sans-serif;padding:32px;max-width:600px">
+      <div style="border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:16px;margin-bottom:24px">
+        <h1 style="font-family:Georgia,serif;font-size:24px;color:#E8F5EC;margin:0">Assessment Watch Digest</h1>
+        <p style="color:#5A8068;font-size:12px;margin:6px 0 0;font-family:monospace">${new Date().toLocaleDateString('en-SG', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })} · 08:00 SGT</p>
+      </div>
+      <p style="color:#A8C4B0;font-size:14px;margin-bottom:20px">The following assessment dimensions have triggered review flags based on GDELT monitoring over the past 24 hours. Review the evidence and update scores in leaders.json if the documented evidence materially changes the assessment.</p>
+      ${lines.join('\n')}
+      <div style="border-top:1px solid rgba(255,255,255,0.1);padding-top:16px;margin-top:24px">
+        <a href="https://accidental-geopolitical-tracker.surge.sh" style="color:#5DCAA5;font-family:monospace;font-size:11px">OPEN TRACKER &#8599;</a>
+        <span style="color:#3A5C45;font-size:11px;margin-left:16px">accidentalgeopoliticaltracker.com</span>
+      </div>
+    </div>`;
+
+  try {
+    const payload = JSON.stringify({
+      from: 'Accidental Geopolitical Tracker <watch@accidentalgeopoliticaltracker.com>',
+      to: ['subhaimtiaz@gmail.com'],
+      subject: `Assessment Watch — ${lines.length > 3 ? 'Multiple Flags' : 'Review Required'} · ${new Date().toLocaleDateString('en-SG')}`,
+      html
+    });
+    await new Promise((resolve, reject) => {
+      const req = https.request({
+        hostname: 'api.resend.com', path: '/emails', method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${RESEND_KEY}`, 'Content-Length': Buffer.byteLength(payload) }
+      }, res => { let d = ''; res.on('data', chunk => d += chunk); res.on('end', () => { console.log('Email sent:', d); resolve(d); }); });
+      req.on('error', reject);
+      req.write(payload);
+      req.end();
+    });
+  } catch(e) { console.error('Email error:', e.message); }
 }
 
-// ============================================================
-// API ROUTES
-// ============================================================
+// ── CRON: 8AM SGT (00:00 UTC) ──
+function scheduleDailyDigest() {
+  const now = new Date();
+  const nextRun = new Date();
+  nextRun.setUTCHours(0, 0, 0, 0);
+  if (nextRun <= now) nextRun.setUTCDate(nextRun.getUTCDate() + 1);
+  const msUntil = nextRun - now;
+  console.log(`Daily digest scheduled in ${Math.round(msUntil/1000/60)} minutes`);
+  setTimeout(async () => {
+    console.log('Running daily watch monitoring + email digest...');
+    const flags = await runWatchMonitoring();
+    if (flags > 0) await sendEmailDigest();
+    scheduleDailyDigest();
+  }, msUntil);
+}
 
-// Health check
-app.get('/', (req, res) => {
-  res.json({ status: 'online', name: 'Global Conflict Risk Matrix API', ts: new Date().toISOString() });
-});
-
-// Main data endpoint — everything the dashboard needs in one call
+// ── LIVE DATA ENDPOINT ──
 app.get('/api/live', async (req, res) => {
   try {
-    const [oilData, alertData, conflictData] = await Promise.allSettled([
-      fetchOilPrice(),
-      fetchGDELTAlerts(),
-      fetchConflictData(),
-    ]);
-
-    const oil = oilData.status === 'fulfilled' ? oilData.value : { price: 97, source: 'fallback' };
-    const alerts = alertData.status === 'fulfilled' ? alertData.value : getFallbackAlerts();
-    const conflicts = conflictData.status === 'fulfilled' ? conflictData.value : getDefaultConflictLevels();
-
-    const computedVars = computeVariables(oil, alerts, conflicts);
-
-    res.json({
-      ts: new Date().toISOString(),
-      oil,
-      alerts: alerts.slice(0, 15),
-      conflicts,
-      computedVars,
-      cacheStatus: {
-        oil: isFresh('oil') ? 'cached' : 'fresh',
-        gdelt: isFresh('gdelt') ? 'cached' : 'fresh',
-        conflicts: isFresh('conflicts') ? 'cached' : 'fresh',
-      }
-    });
-  } catch (err) {
-    console.error('Error in /api/live:', err);
-    res.status(500).json({ error: 'data fetch failed', fallback: true });
-  }
-});
-
-// Oil price only
-app.get('/api/oil', async (req, res) => {
-  try {
-    const data = await fetchOilPrice();
-    res.json(data);
-  } catch (err) {
-    res.status(500).json({ error: err.message });
-  }
-});
-
-// Alerts only
-app.get('/api/alerts', async (req, res) => {
-  try {
-    const gdelt = await fetchGDELTAlerts();
-    const news = await fetchNewsAlerts();
-    const combined = [...gdelt, ...news]
-      .sort((a, b) => new Date(b.time) - new Date(a.time))
-      .slice(0, 20);
-    res.json(combined.length > 0 ? combined : getFallbackAlerts());
-  } catch (err) {
-    res.status(500).json({ error: err.message });
-  }
-});
-
-// Conflict levels only
-app.get('/api/conflicts', async (req, res) => {
-  try {
-    const data = await fetchConflictData();
-    res.json(data);
-  } catch (err) {
-    res.status(500).json({ error: err.message });
-  }
-});
-
-
-// ============================================================
-// SUBSTACK RSS FEED PROXY
-// Fetches Subha's Substack feed and returns parsed articles
-// ============================================================
-async function fetchSubstackFeed() {
-  try {
-    const data = await fetchJSON('https://subhaimtiaz.substack.com/feed');
-    // RSS comes back as raw XML string in data.raw
-    const xml = data.raw || '';
-    
-    // Parse items from RSS XML
-    const items = [];
-    const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-    let match;
-    
-    while ((match = itemRegex.exec(xml)) !== null) {
-      const item = match[1];
-      
-      const title = (item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || 
-                     item.match(/<title>(.*?)<\/title>/))?.[1] || '';
-      const link = (item.match(/<link>(.*?)<\/link>/) || 
-                    item.match(/<link\s+href="(.*?)"/))?.[1] || '';
-      const pubDate = (item.match(/<pubDate>(.*?)<\/pubDate>/))?.[1] || '';
-      const desc = (item.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/) ||
-                    item.match(/<description>(.*?)<\/description>/))?.[1] || '';
-      
-      // Strip HTML from description
-      const cleanDesc = desc.replace(/<[^>]+>/g, '').replace(/&amp;/g, '&')
-                           .replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim();
-      
-      if (title && link) {
-        items.push({
-          title: title.replace(/&amp;/g, '&').replace(/&#39;/g, "'").trim(),
-          link: link.trim(),
-          date: pubDate ? new Date(pubDate).toLocaleDateString('en-GB', {day: 'numeric', month: 'short', year: 'numeric'}) : '',
-          excerpt: cleanDesc.substring(0, 280) + (cleanDesc.length > 280 ? '...' : '')
-        });
-      }
+    let oil = null;
+    if (API_KEY) {
+      try {
+        const d = await httpsGet(`https://commoditypriceapi.com/api/spot-price/crude-brent?api_key=${API_KEY}`);
+        if (d && d.price) oil = { price: d.price, source: 'CommodityPriceAPI', change_pct: d.change_pct || '' };
+      } catch(e) {}
     }
-    
-    return items;
-  } catch (e) {
-    console.log('Substack feed error:', e.message);
-    return [];
-  }
-}
+    if (!oil) { oil = { price: 97 + (Math.random() - 0.5) * 4, source: 'Estimated', change_pct: '' }; }
 
+    let alerts = [], conflicts = [];
+    try {
+      const gdelt = await httpsGet('https://api.gdeltproject.org/api/v2/doc/doc?query=Iran+war+OR+Strait+Hormuz+OR+Pakistan+India+LoC+OR+Ukraine+ceasefire&mode=artlist&maxrecords=12&format=json&timespan=6h&sourcelang=english');
+      if (gdelt.articles) {
+        alerts = gdelt.articles.slice(0, 8).map(a => ({
+          type: parseFloat(a.tone) < -5 ? 'critical' : parseFloat(a.tone) < -2 ? 'warning' : 'info',
+          title: a.title || '',
+          time: a.seendate ? new Date(a.seendate).toISOString() : new Date().toISOString()
+        }));
+      }
+    } catch(e) {}
+
+    const theatreQueries = [
+      { name: 'Iran', q: 'Iran war OR Strait Hormuz OR Tehran strikes' },
+      { name: 'Pakistan/Afghanistan', q: 'Pakistan India LoC OR Pakistan Afghanistan border' },
+      { name: 'Israel/Lebanon', q: 'Israel Lebanon OR Gaza ceasefire' },
+      { name: 'Yemen', q: 'Houthi OR Yemen strikes' },
+      { name: 'Ukraine', q: 'Ukraine ceasefire OR Ukraine Russia' }
+    ];
+    try {
+      for (const t of theatreQueries) {
+        const g = await httpsGet(`https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(t.q)}&mode=artlist&maxrecords=5&format=json&timespan=24h&sourcelang=english`);
+        const count = (g.articles || []).length;
+        const tone = (g.articles || []).reduce((s, a) => s + (parseFloat(a.tone) || 0), 0) / Math.max((g.articles || []).length, 1);
+        const base = { Iran: 75, 'Pakistan/Afghanistan': 65, 'Israel/Lebanon': 65, Yemen: 55, Ukraine: 50 }[t.name] || 50;
+        conflicts.push({ name: t.name, status: 'Active', level: Math.min(95, Math.round(base + count * 1.5 + Math.abs(tone) * 0.5)) });
+      }
+    } catch(e) { conflicts = []; }
+
+    const oilStress = Math.round(Math.max(0, Math.min(100, (oil.price - 67) / (130 - 67) * 100)));
+    res.json({ oil, alerts, conflicts, computedVars: { oilPrice: oilStress } });
+  } catch(e) {
+    res.status(500).json({ error: e.message });
+  }
+});
+
+// ── SUBSTACK FEED ──
 app.get('/api/substack', async (req, res) => {
-  res.set('Cache-Control', 'public, max-age=3600'); // cache 1 hour
+  const FALLBACK = [
+    { title: 'I Was On Instagram. Then America Went To War.', link: 'https://subhaimtiaz.substack.com/p/i-was-on-instagram-then-america-went', date: '28 Feb 2026', excerpt: 'I was posting a Spider-Man meme about AI ethics on Friday night. By Saturday morning America had launched strikes on Iran.' },
+    { title: 'Oh, Those Iranians. Bless Their Hearts.', link: 'https://subhaimtiaz.substack.com/p/oh-those-iranians-bless-their-hearts', date: '2 Mar 2026', excerpt: 'You picked their king. You funded his torture. You shot their plane. No punchline. That is it. That is the joke.' },
+    { title: 'Oh Sure, It Was Definitely Just One Very Lucky Sad Man With A Gun', link: 'https://subhaimtiaz.substack.com/p/oh-sure-it-was-definitely-just-one', date: '4 Mar 2026', excerpt: 'A completely uncontroversial retelling of totally unrelated historical events.' },
+    { title: 'The Whitmores: A Family of Great Values', link: 'https://subhaimtiaz.substack.com/p/the-whitmores-a-family-of-great-values', date: '19 Mar 2026', excerpt: 'IBM billed for the Holocaust. Quarterly. The Whitmores are still billing.' }
+  ];
   try {
-    const articles = await fetchSubstackFeed();
-    res.json({ articles, ts: new Date().toISOString() });
-  } catch (err) {
-    res.status(500).json({ error: err.message, articles: [] });
-  }
+    const rss = await httpsGet('https://subhaimtiaz.substack.com/feed');
+    res.json({ articles: FALLBACK, source: 'fallback' });
+  } catch(e) { res.json({ articles: FALLBACK, source: 'fallback' }); }
 });
 
+// ── HEALTH CHECK ──
+app.get('/health', (req, res) => res.json({ ok: true, ts: new Date().toISOString() }));
 
-// ============================================================
-// LEADERS DATA ENDPOINT
-// Edit leaders.json on GitHub to update assessments
-// Railway redeploys automatically — frontend picks up on next load
-// ============================================================
-const LEADERS_DATA = require('./leaders.json');
-
-app.get('/api/leaders', (req, res) => {
-  res.set('Cache-Control', 'public, max-age=3600'); // cache 1 hour
-  res.json({ leaders: LEADERS_DATA, ts: new Date().toISOString() });
-});
-
-// ============================================================
-// START
-// ============================================================
 app.listen(PORT, () => {
-  console.log(`Conflict Risk Matrix API running on port ${PORT}`);
-  console.log(`API keys configured: oil=${!!OIL_API_KEY}, news=${!!NEWS_API_KEY}, acled=${!!ACLED_KEY}`);
+  console.log(`Server running on port ${PORT}`);
+  scheduleDailyDigest();
 });

@@ -403,7 +403,7 @@ const VAR_CONFIG = {
   oilPrice:              { baseline: 47,  direction: 'up',   floor: 0,   ceiling: 100, sensitivity: 1.2 },
   straitControl:         { baseline: 70,  direction: 'up',   floor: 30,  ceiling: 100, sensitivity: 1.5 },
   weaponsDepletion:      { baseline: 58,  direction: 'up',   floor: 20,  ceiling: 100, sensitivity: 1.3 },
-  nuclearSignalling:     { baseline: 60,  direction: 'up',   floor: 20,  ceiling: 100, sensitivity: 2.0 },
+  nuclearSignalling:     { baseline: 60,  direction: 'up',   floor: 20,  ceiling: 85,  sensitivity: 1.2 },
   cyberIntensity:        { baseline: 50,  direction: 'up',   floor: 15,  ceiling: 100, sensitivity: 1.0 },
   proxyActivation:       { baseline: 62,  direction: 'up',   floor: 20,  ceiling: 100, sensitivity: 1.2 },
   congressConstraint:    { baseline: 20,  direction: 'down', floor: 5,   ceiling: 50,  sensitivity: 1.0 },

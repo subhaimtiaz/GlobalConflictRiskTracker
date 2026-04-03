@@ -1,22 +1,21 @@
 {
-  "ts": "2026-04-03T22:16:43.285Z",
   "leaders": [
     {
       "n": "Donald J. Trump",
       "r": "45th and 47th President of the United States",
-      "b": 88,
+      "b": 66,
       "tags": [
         "Transactional nationalism",
         "No defined exit condition",
         "War ends when I feel it in my bones"
       ],
-      "ideo": "Transactional nationalism — no consistent ideological doctrine. Blind spot: underestimates adversary resilience.",
+      "ideo": "Transactional nationalism \u2014 no consistent ideological doctrine. Blind spot: underestimates adversary resilience and cost of conflict.",
       "dims": {
         "narcissism": 92,
         "impulsivity": 90,
-        "values": 20,
+        "values": 15,
         "survival": 65,
-        "accountability": 10
+        "accountability": 88
       },
       "weights": {
         "narcissism": 20,
@@ -24,6 +23,43 @@
         "values": 15,
         "survival": 25,
         "accountability": 22
+      },
+      "assess": {
+        "narcissism": {
+          "score": 92,
+          "band": "A",
+          "confidence": "HIGH",
+          "evidence": "Peer-reviewed Frontiers in Psychology 2025. Six named former Cabinet officials on record (Mattis, McMaster, Kelly, Esper, Milley, Woodward sources). Congressional testimony corroborating pattern. Consistent 8-year documented behaviour.",
+          "source": "Frontiers in Psychology PMC 2025; Woodward War 2024; Gen Kelly NYT Oct 2024"
+        },
+        "impulsivity": {
+          "score": 90,
+          "band": "A",
+          "confidence": "HIGH",
+          "evidence": "Syria withdrawal announced via tweet before Pentagon notified \u2014 Mattis resigned same day Dec 2018. Afghanistan troop reduction against written SecDef and Joint Chiefs memorandum \u2014 Congressional testimony Sept 2021. Iran war exit condition: when I feel it in my bones \u2014 public statement 2026.",
+          "source": "Congressional testimony Sept 2021; Mattis resignation letter Dec 2018; NBC News 2026"
+        },
+        "values": {
+          "score": 15,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "No consistent ethical framework documented. Reversed NATO, Russia, China, Iran positions within single terms based on transactional interest. No reform agenda beyond serving financial allies. Framework is personal supremacy \u2014 stated \"I alone can fix it.\"",
+          "source": "Foreign Policy analysis; documented policy reversals; Woodward Rage 2020"
+        },
+        "survival": {
+          "score": 65,
+          "band": "B",
+          "confidence": "MEDIUM",
+          "evidence": "91 felony counts across 4 indictments \u2014 all impacted by return to office. War framing provides political cover and approval. Survival incentive tied to political not physical survival.",
+          "source": "DOJ indictments 2023-2024; public record"
+        },
+        "accountability": {
+          "score": 88,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Active dismantlement of press freedom + accountability mechanisms. Don Lemon arrested Jan 29 2026 covering protest. FBI raided WaPo journalist home Jan 14 2026. ICE detained journalist Estefany Rodriguez March 2026, surrounded by trucks. Sami Hamdi detained SFO Oct 2025, visa revoked day before. Mario Guevara: 110 days detention, deported. AP banned from White House Feb 2025. Jimmy Kimmel pulled from air Sept 2025 after FCC pressure \u2014 ABC complied. CBS pulled CECOT report 3 hours before broadcast. Paramount paid $16M to Trump to settle lawsuit while needing merger approval \u2014 regulatory leverage used to silence media. Pentagon press oath Sept 2025 \u2014 entire pool walked out. RSF designated \"press freedom predator.\" 76 documented federal actions against journalists (Poynter). 32 arrests + 170 assaults on journalists in 2025. VOA, Radio Free Europe gutted \u2014 427M people lost access. FCC opened investigation into Senate candidate for appearing on The View. CISA gutted. War Powers bypassed. Active dismantlement not inherited gap.",
+          "source": "RSF Jan 2026; Poynter Jan 2026; CPJ; CJR 2025; Freedom of Press Foundation; Axios Feb 2026; Wikipedia documented record"
+        }
       },
       "watch": [
         "War Powers",
@@ -35,20 +71,20 @@
     },
     {
       "n": "Benjamin Netanyahu",
-      "r": "Prime Minister of Israel — 6th and 8th term",
-      "b": 85,
+      "r": "Prime Minister of Israel \u2014 6th and 8th term",
+      "b": 61,
       "tags": [
         "Revisionist Zionism filtered through personal survival calculus",
         "Three corruption trials suspended under wartime emergency",
         "ICC arrest warrant Nov 2024"
       ],
-      "ideo": "Revisionist Zionism. Blind spot: conflict continuation is structurally necessary for personal legal immunity.",
+      "ideo": "Revisionist Zionism. Blind spot: conflict continuation is structurally necessary for personal legal immunity. Strategic and personal incentives have merged.",
       "dims": {
         "narcissism": 80,
         "impulsivity": 30,
-        "values": 35,
+        "values": 25,
         "survival": 96,
-        "accountability": 15
+        "accountability": 82
       },
       "weights": {
         "narcissism": 20,
@@ -56,6 +92,43 @@
         "values": 15,
         "survival": 25,
         "accountability": 22
+      },
+      "assess": {
+        "narcissism": {
+          "score": 80,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Trial testimony described self as victim of politically orchestrated witch hunt despite three independent indictments. Requested pardon from President Herzog Nov 2025 without admitting guilt \u2014 no precedent in Israeli law. Coalition includes Ben-Gvir convicted terrorist supporter.",
+          "source": "Jerusalem District Court records; Reuters Dec 2025"
+        },
+        "impulsivity": {
+          "score": 30,
+          "band": "C",
+          "confidence": "MEDIUM",
+          "evidence": "Strategic rather than impulsive. Long-term calculated manoeuvring documented across 30 years. South Pars strike was calculated not impulsive \u2014 coordinated with US per Axios AP WSJ.",
+          "source": "Axios AP WSJ 2026; academic biography sources"
+        },
+        "values": {
+          "score": 25,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Coalition includes Ben-Gvir convicted terrorist supporter and Smotrich who denies Palestinian peoplehood. Oslo Accords systematically undermined. Settlement expansion against own stated two-state framework. No domestic reform delivered outside security apparatus. Values framework is Revisionist Zionism as personal survival vehicle.",
+          "source": "HRW; Jerusalem District Court; Oslo Accords record; settlement data"
+        },
+        "survival": {
+          "score": 96,
+          "band": "A",
+          "confidence": "HIGH",
+          "evidence": "Case 1000 fraud and breach of trust \u2014 gifts worth 200,000 USD. Case 2000 fraud and breach of trust \u2014 media coverage deal. Case 4000 bribery fraud \u2014 regulatory favours to Bezeq worth approx 500M USD. Trial begun May 2020 suspended under wartime emergency provisions. Direct structural link between war continuation and trial suspension.",
+          "source": "Jerusalem District Court; Al-Monitor Dec 2025; public record"
+        },
+        "accountability": {
+          "score": 82,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Actively lobbied to restructure Israeli judiciary 2023 to reduce executive oversight \u2014 triggered mass protests. Governing under criminal indictment by circumventing resignation norms. Wartime emergency suspended own corruption trials. Deliberate exploitation of legal gaps.",
+          "source": "Jerusalem District Court; Israeli judicial reform protests 2023; Al-Monitor"
+        }
       },
       "watch": [
         "trial hearing",
@@ -67,19 +140,19 @@
     {
       "n": "Mohammed bin Salman",
       "r": "Prime Minister and Crown Prince of Saudi Arabia",
-      "b": 80,
+      "b": 54,
       "tags": [
-        "Lobbied Trump to attack Iran",
-        "Ordered Khashoggi murder — DNI confirmed",
+        "Lobbied Trump to attack Iran \u2014 Washington Post documented",
+        "Ordered Khashoggi murder \u2014 DNI confirmed",
         "Zero accountability exposure"
       ],
-      "ideo": "Saudi nationalist modernisation combined with deep Sunni sectarianism against Iran.",
+      "ideo": "Saudi nationalist modernisation combined with deep Sunni sectarianism against Iran. Blind spot: started a war he cannot control whose consequences are now threatening his own economic project Vision 2030.",
       "dims": {
         "narcissism": 78,
         "impulsivity": 55,
-        "values": 15,
+        "values": 22,
         "survival": 60,
-        "accountability": 5
+        "accountability": 92
       },
       "weights": {
         "narcissism": 20,
@@ -87,6 +160,43 @@
         "values": 15,
         "survival": 25,
         "accountability": 22
+      },
+      "assess": {
+        "narcissism": {
+          "score": 78,
+          "band": "B",
+          "confidence": "high",
+          "evidence": "Ritz Carlton mass arrests 2017 \u2014 200+ princes and businessmen held without charge. Allegedly sent bullet to judge who ruled against him \u2014 documented by Sir John Jenkins former British Ambassador. Pattern of eliminating rivals through state apparatus.",
+          "source": "Multiple diplomatic sources; Jenkins documented account"
+        },
+        "impulsivity": {
+          "score": 55,
+          "band": "B",
+          "confidence": "MEDIUM",
+          "evidence": "Generally calculated but South Pars lobbying shows willingness to take extreme actions when sectarian ideology overrides strategic calculation. Khashoggi murder \u2014 bone saw in own consulate \u2014 shows risk tolerance when personally threatened.",
+          "source": "DNI assessment Feb 2021; Washington Post 2026"
+        },
+        "values": {
+          "score": 22,
+          "band": "B",
+          "confidence": "high",
+          "evidence": "Vision 2030 contains genuine economic diversification \u2014 non-trivial. Women allowed to drive, entertainment sector created. However: activist who campaigned for right to drive was imprisoned after it was granted. Reform as performance and reputation management, not principle. Framework is regime survival through modernisation optics.",
+          "source": "Vision 2030 documented; HRW on activist imprisonments; RSF"
+        },
+        "survival": {
+          "score": 60,
+          "band": "B",
+          "confidence": "MEDIUM",
+          "evidence": "Physical survival not immediately threatened. Political survival tied to Vision 2030 economic success \u2014 now threatened by war he helped start. No democratic accountability mechanism.",
+          "source": "Analytical assessment"
+        },
+        "accountability": {
+          "score": 92,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Actively silenced critics who emerged: Khashoggi murdered, women activists imprisoned after the reforms they campaigned for were granted, Ritz Carlton mass arrests. Inherited absolute monarchy but actively suppressed any accountability that arose.",
+          "source": "DNI Haines Feb 2021; HRW; Amnesty International"
+        }
       },
       "watch": [
         "Saudi Arabia Iran",
@@ -99,19 +209,19 @@
     {
       "n": "Mojtaba Khamenei",
       "r": "Supreme Leader of the Islamic Republic of Iran",
-      "b": 78,
+      "b": 70,
       "tags": [
         "No Grand Ayatollah credentials",
         "IRGC-dependent for all power",
-        "First statement vowed no surrender"
+        "First statement vowed no surrender and Strait remains closed"
       ],
-      "ideo": "Velayat-e Faqih combined with anti-imperial resistance ideology.",
+      "ideo": "Velayat-e Faqih combined with anti-imperial resistance ideology. Constitutionally elected per Assembly of Experts process. Blind spot: legitimacy deficit means every moderate signal costs internal credibility \u2014 structurally pushed toward hardline positions. Cannot negotiate without appearing to surrender the framework that justifies his power.",
       "dims": {
         "narcissism": 65,
         "impulsivity": 50,
-        "values": 40,
+        "values": 35,
         "survival": 90,
-        "accountability": 20
+        "accountability": 30
       },
       "weights": {
         "narcissism": 20,
@@ -119,6 +229,43 @@
         "values": 15,
         "survival": 25,
         "accountability": 22
+      },
+      "assess": {
+        "narcissism": {
+          "score": 65,
+          "band": "C",
+          "confidence": "low",
+          "evidence": "Limited public record as new Supreme Leader. First statement showed grandiose resistance framing. IRGC-dependent which creates feedback loop reinforcing hardline self-image. Constitutionally elected per Assembly of Experts process though lacking traditional clerical legitimacy.",
+          "source": "Iranian state media; academic Iran affairs literature"
+        },
+        "impulsivity": {
+          "score": 50,
+          "band": "D",
+          "confidence": "low",
+          "evidence": "Very limited track record. New leader mid-war. Legitimacy deficit may drive impulsive signalling to demonstrate strength. Insufficient public record for higher confidence.",
+          "source": "Limited public record \u2014 new leader"
+        },
+        "values": {
+          "score": 35,
+          "band": "C",
+          "confidence": "low",
+          "evidence": "Limited track record. Velayat-e Faqih framework documented. First public statements hardline resistance \u2014 no reform signals. Insufficient evidence to score lower given short tenure. No reform agenda visible.",
+          "source": "Iranian state media; IRGC institutional record; limited personal documentation"
+        },
+        "survival": {
+          "score": 90,
+          "band": "C",
+          "confidence": "medium",
+          "evidence": "No legitimate alternative power base outside IRGC patronage network. If IRGC fractures, position collapses. Wartime context means survival depends on war not ending in visible defeat. Every moderate signal threatens internal credibility.",
+          "source": "Iranian political analysis; academic sources on IRGC structure"
+        },
+        "accountability": {
+          "score": 30,
+          "band": "C",
+          "confidence": "low",
+          "evidence": "Inherited IRGC-controlled system \u2014 did not personally dismantle checks. Limited track record. No documented personal circumvention of accountability mechanisms distinct from institutional structure he operates within. Score reflects inherited system not personal dismantlement.",
+          "source": "Iranian constitutional structure; limited personal record as new leader"
+        }
       },
       "watch": [
         "Supreme Leader Iran",
@@ -130,20 +277,20 @@
     },
     {
       "n": "Narendra Modi",
-      "r": "Prime Minister of India — 2nd and 3rd consecutive term",
-      "b": 65,
+      "r": "Prime Minister of India \u2014 2nd and 3rd consecutive term",
+      "b": 58,
       "tags": [
         "Abandoned No First Use nuclear doctrine",
-        "BJP lost outright majority 2024",
-        "Operation Sindoor crossed red lines"
+        "BJP lost outright majority 2024 \u2014 coalition dependent",
+        "Operation Sindoor crossed previously sacrosanct red lines"
       ],
-      "ideo": "Hindu nationalist framework rooted in RSS ideology.",
+      "ideo": "Hindu nationalist framework rooted in RSS ideology. Blind spot: traumatic nationalism requires permanent Muslim enemy \u2014 makes genuine Pakistan de-escalation politically impossible.",
       "dims": {
         "narcissism": 72,
         "impulsivity": 25,
-        "values": 45,
+        "values": 40,
         "survival": 71,
-        "accountability": 30
+        "accountability": 45
       },
       "weights": {
         "narcissism": 20,
@@ -151,6 +298,43 @@
         "values": 15,
         "survival": 25,
         "accountability": 22
+      },
+      "assess": {
+        "narcissism": {
+          "score": 72,
+          "band": "B",
+          "confidence": "MEDIUM",
+          "evidence": "Clinical psychologist Ashis Nandy 2002 assessment: met virtually all criteria for authoritarian personality. Self-referential statements \u2014 refers to self in third person documented. BBC documentary banned within 24 hours of Indian university screenings.",
+          "source": "Nandy 2002; BBC India The Modi Question 2023; documented quotes"
+        },
+        "impulsivity": {
+          "score": 25,
+          "band": "B",
+          "confidence": "high",
+          "evidence": "Generally strategic and patient. Operation Sindoor escalation was calculated not impulsive. RSS institutional discipline provides strong framework. Long-horizon political calculation documented.",
+          "source": "Academic analysis; documented decision-making pattern"
+        },
+        "values": {
+          "score": 40,
+          "band": "B",
+          "confidence": "medium",
+          "evidence": "Genuine reform record: GST implementation, infrastructure investment, digital payments transformation \u2014 delivered at political cost. However simultaneously deepened communal division through CAA, bulldozer justice, cow vigilantism. Two parallel value systems: economic modernisation + Hindu nationalist entrenchment. Genuine ideological framework, not pure self-preservation.",
+          "source": "GST implementation record; CAA documentation; HRW; World Bank development data"
+        },
+        "survival": {
+          "score": 71,
+          "band": "B",
+          "confidence": "HIGH",
+          "evidence": "BJP lost outright majority in 2024 \u2014 now dependent on coalition partners Nitish Kumar and Chandrababu Naidu. LoC violations create domestic pressure to respond visibly. Coalition survival requires maintaining nationalist base. Updated from 55 following LoC violations.",
+          "source": "2024 election results public record; coalition arithmetic documented"
+        },
+        "accountability": {
+          "score": 45,
+          "band": "B",
+          "confidence": "medium",
+          "evidence": "Mixed record. Election commission functioned \u2014 BJP lost seats 2024, not dismantled. Supreme Court still operates. However CBI and ED used against opposition leaders in documented pattern. Active selective weaponisation of accountability against opponents while institutions nominally intact.",
+          "source": "Election Commission record 2024; BBC ban documented; CBI-ED usage pattern; HRW"
+        }
       },
       "watch": [
         "India Pakistan",
@@ -163,19 +347,19 @@
     {
       "n": "General Asim Munir",
       "r": "Chief of Army Staff, Pakistan Armed Forces",
-      "b": 72,
+      "b": 57,
       "tags": [
         "De facto autonomous from civilian government",
-        "J-10C and PL-15 — downed 3 Rafales May 2025",
+        "J-10C and PL-15 \u2014 downed 3 Rafales May 2025",
         "Fighting three simultaneous fronts"
       ],
-      "ideo": "Pakistan military institutional nationalism.",
+      "ideo": "Pakistan military institutional nationalism. Non-interference doctrine for internal politics but actively shapes civilian governance. Blind spot: emboldened by May 2025 aerial success \u2014 may overestimate Pakistan capacity for sustained multi-front conflict.",
       "dims": {
         "narcissism": 60,
         "impulsivity": 73,
-        "values": 50,
+        "values": 28,
         "survival": 75,
-        "accountability": 15
+        "accountability": 88
       },
       "weights": {
         "narcissism": 20,
@@ -183,6 +367,43 @@
         "values": 15,
         "survival": 25,
         "accountability": 22
+      },
+      "assess": {
+        "narcissism": {
+          "score": 60,
+          "band": "B",
+          "confidence": "medium",
+          "evidence": "Institutional rather than individual narcissism. Pakistani military's documented pattern of viewing itself as guardian of national interest above civilian authority. Munir personal profile shows assertive command style but limited direct documentation.",
+          "source": "Pakistan military institutional record; limited personal documentation"
+        },
+        "impulsivity": {
+          "score": 73,
+          "band": "B",
+          "confidence": "MEDIUM",
+          "evidence": "LoC violations conducted while simultaneously fighting on two other active fronts \u2014 Afghanistan border and Balochistan. Three simultaneous active engagements documented operational fact. Post-Rafale-downing emboldening shifts risk threshold upward. Updated from 65 following documented LoC violations.",
+          "source": "Multiple sources documenting simultaneous fronts; LoC violations documented March 2026"
+        },
+        "values": {
+          "score": 28,
+          "band": "B",
+          "confidence": "medium",
+          "evidence": "No documented reform agenda. Values framework is institutional military supremacy above constitutional civilian authority. Imprisoned most popular elected leader. Pursuing three simultaneous military fronts with economy at IMF threshold \u2014 no political solution orientation. Framework is institution preservation not national interest.",
+          "source": "Pakistan military institutional record; IMF programme documentation; Khan imprisonment"
+        },
+        "survival": {
+          "score": 75,
+          "band": "B",
+          "confidence": "MEDIUM",
+          "evidence": "Military institutional survival entangled with conflict continuation \u2014 cannot be seen losing. Chinese weapons supply creates dependency relationship. Economy at IMF threshold creates additional pressure. Fighting three fronts simultaneously.",
+          "source": "Pakistan IMF record; documented military-civilian dynamics"
+        },
+        "accountability": {
+          "score": 88,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Active and systematic dismantlement of judiciary and press simultaneously. 26th Amendment degraded judicial independence. 27th Amendment Nov 2025 gave Munir command of all armed forces + lifelong immunity \u2014 constitutional lawyers called it \"death knell of independent judiciary\" and \"what previous dictators could only dream of\" (CNN). PECA amended Jan 2025 with vague definitions enabling near-absolute prosecution discretion \u2014 9+ journalists targeted within months. Ahmad Noorani investigation published March 2025: brothers abducted next day, disappeared one month, family blacklisted, bank accounts frozen. 4 exiled journalists sentenced to life in absentia Jan 2026 (CPJ). 27 YouTube channels blocked July 2025. RSF rank 158/180 lowest in years. 2024 election \u2014 PTI symbol stripped, media blackout on PTI, candidates pressured to withdraw. X blocked Feb 2024. Pakistan testing China-like surveillance firewall (Al Jazeera, Amnesty International). Band A: RSF, CPJ, Freedom House, CNN, Amnesty all documenting same pattern.",
+          "source": "CNN Nov 2025; RSF 2025; CPJ Jan 2026; Freedom House 2025; Amnesty International Sept 2025; Al Jazeera Nov 2024; JURIST May 2025"
+        }
       },
       "watch": [
         "Pakistan military",
@@ -196,19 +417,19 @@
     {
       "n": "Vladimir Putin",
       "r": "President of the Russian Federation",
-      "b": 70,
+      "b": 55,
       "tags": [
         "ICC arrest warrant March 2023",
         "Eliminated constitutional term limits 2020",
-        "Russia-Iran military cooperation documented"
+        "Russia-Iran military cooperation \u2014 satellite targeting data documented"
       ],
-      "ideo": "Orthodox Christian civilisational nationalism against Western decadence.",
+      "ideo": "Orthodox Christian nationalism as strategic political instrument \u2014 documented in speeches, Ukraine framing, Russian Orthodox Church alliance. Blind spot: cannot model Ukrainian identity as legitimate because his framework requires it to be Russian. October 7 equivalent: the 2022 intelligence failure that Ukrainian resistance would be minimal.",
       "dims": {
         "narcissism": 75,
         "impulsivity": 20,
-        "values": 30,
+        "values": 22,
         "survival": 85,
-        "accountability": 10
+        "accountability": 85
       },
       "weights": {
         "narcissism": 20,
@@ -216,6 +437,43 @@
         "values": 15,
         "survival": 25,
         "accountability": 22
+      },
+      "assess": {
+        "narcissism": {
+          "score": 75,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Peer-reviewed Immelman and Trenzeluk 2017 Unit for Study of Personality in Politics \u2014 primary pattern Ambitious self-serving narcissism measure. Frontiers in Psychology 2025 comparative study. Deliberately brought large dog to first Merkel meeting knowing she was afraid \u2014 documented multiple sources.",
+          "source": "Immelman ISPP 2017; Frontiers in Psychology PMC 2025; documented diplomatic record"
+        },
+        "impulsivity": {
+          "score": 20,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Academic assessment consistent: strategic expansionist rather than impulsive. Ukraine invasion planned over months. Merics study: top-down decisionism \u2014 centralised but methodical. Described as rational ruthless and resilient \u2014 The Diplomat Feb 2024.",
+          "source": "Immelman ISPP 2017; Merics academic study; The Diplomat 2024"
+        },
+        "values": {
+          "score": 22,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Orthodox Christian nationalism as stated framework \u2014 but instrumentalised not principled. Early tenure had genuine anti-corruption and stabilisation intent that delivered results. However framework abandoned when personal power threatened. Navalny exposed real corruption \u2014 Putin prosecuted him for exposing it. Values are power preservation dressed in civilisational language.",
+          "source": "Documented media closures; Navalny prosecution; early Putin economic record; academic analysis"
+        },
+        "survival": {
+          "score": 85,
+          "band": "A",
+          "confidence": "HIGH",
+          "evidence": "ICC arrest warrant March 2023 for war crimes in Ukraine \u2014 cannot travel to 124 ICC member states. Constitutional term limits eliminated specifically to extend tenure. System built around his continued power \u2014 no succession mechanism.",
+          "source": "ICC public record March 2023; Russian constitutional amendment record 2020"
+        },
+        "accountability": {
+          "score": 85,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Actively dismantled functioning mechanisms that existed. NTV, TV Rain, Novaya Gazeta closed \u2014 these existed before Putin. Constitutional term limits removed 2020 after existing 30 years. Navalny prosecuted then killed in custody. Anti-corruption apparatus redirected from accountability to eliminating rivals. Active dismantlement not inherited void.",
+          "source": "RSF documentation of closures; constitutional amendment 2020; Navalny case public record"
+        }
       },
       "watch": [
         "Ukraine ceasefire",
@@ -228,19 +486,19 @@
     {
       "n": "Kim Jong-un",
       "r": "Supreme Leader, Democratic People of Korea",
-      "b": 60,
+      "b": 77,
       "tags": [
         "Executed uncle Jang Song-thaek 2013",
-        "DPRK-Russia troops agreement Sept 2024",
+        "DPRK-Russia troops and ammunition agreement Sept 2024",
         "Nuclear doctrine: survival at any cost"
       ],
-      "ideo": "Juche racial Korean nationalism.",
+      "ideo": "Juche racial Korean nationalism \u2014 Korean people as uniquely pure and requiring Kim dynasty protection. Blind spot: complete information isolation from reality creates highest miscalculation risk of any leader.",
       "dims": {
         "narcissism": 82,
         "impulsivity": 40,
-        "values": 25,
+        "values": 18,
         "survival": 95,
-        "accountability": 5
+        "accountability": 20
       },
       "weights": {
         "narcissism": 20,
@@ -248,6 +506,43 @@
         "values": 15,
         "survival": 25,
         "accountability": 22
+      },
+      "assess": {
+        "narcissism": {
+          "score": 82,
+          "band": "A",
+          "confidence": "HIGH",
+          "evidence": "Executed uncle Jang Song-thaek 2013 \u2014 public execution of closest family member. Executed general with anti-aircraft gun for allegedly sleeping in a meeting \u2014 documented. Personality cult: school curriculum, statues, mandatory mourning rituals.",
+          "source": "Multiple documented sources including defector accounts and satellite imagery"
+        },
+        "impulsivity": {
+          "score": 40,
+          "band": "B",
+          "confidence": "medium",
+          "evidence": "Nuclear and missile tests are calculated provocations not impulsive acts \u2014 timed strategically. However decision-making entirely isolated from external input which creates unpredictability. No advisers who say no.",
+          "source": "IISS; academic North Korea studies"
+        },
+        "values": {
+          "score": 18,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "No reform intent documented across entire tenure. Occasional economic liberalisation (markets tolerated) is pragmatic survival not principled reform. Nuclear programme prioritised over population welfare \u2014 documented famines while weapons funded. Framework is dynastic survival with zero reform orientation.",
+          "source": "UN Commission of Inquiry 2014; WFP food security data DPRK; IISS nuclear documentation"
+        },
+        "survival": {
+          "score": 95,
+          "band": "A",
+          "confidence": "HIGH",
+          "evidence": "Regime survival equals personal survival \u2014 no separation possible. No succession plan. No institutional alternative. Nuclear programme is explicitly survival guarantee.",
+          "source": "Academic North Korea analysis; IISS"
+        },
+        "accountability": {
+          "score": 20,
+          "band": "B",
+          "confidence": "medium",
+          "evidence": "Revised under new framework. Kim inherited a system with no accountability mechanisms \u2014 did not dismantle functioning checks. Executions of rivals including uncle Jang Song-thaek represent power consolidation within already totalitarian system, not dismantlement of previously functioning accountability. Inherited not created.",
+          "source": "DPRK political history; UN Commission of Inquiry 2014; academic North Korea studies"
+        }
       },
       "watch": [
         "DPRK missile",
@@ -260,19 +555,19 @@
     {
       "n": "Xi Jinping",
       "r": "General Secretary of the CPC and President of the PRC",
-      "b": 82,
+      "b": 55,
       "tags": [
         "Xi Jinping Thought institutionalised Oct 2017",
-        "China-Pakistan J-10C combat proven May 2025",
+        "China-Pakistan J-10C and PL-15 \u2014 combat proven May 2025",
         "Bilateral Strait of Hormuz access negotiations with Iran"
       ],
-      "ideo": "Han Chinese civilisational nationalism — century of humiliation requiring restoration.",
+      "ideo": "Han Chinese civilisational nationalism \u2014 century of humiliation requiring restoration. Non-interference doctrine provides strategic deniability while pursuing sphere of influence through economic architecture. Blind spot: Taiwan window calculation may be distorted by US distraction in Middle East.",
       "dims": {
         "narcissism": 75,
         "impulsivity": 15,
-        "values": 35,
+        "values": 30,
         "survival": 88,
-        "accountability": 8
+        "accountability": 78
       },
       "weights": {
         "narcissism": 20,
@@ -280,6 +575,43 @@
         "values": 15,
         "survival": 25,
         "accountability": 22
+      },
+      "assess": {
+        "narcissism": {
+          "score": 75,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Peer-reviewed psychodiagnostic Immelman ISPP 2021 St Johns University: primary patterns Dominant-controlling and Ambitious self-serving. Xi Jinping Thought institutionalised in CCP Charter Oct 2017 \u2014 only third leader after Mao and Deng. Revised CCP Charter to explicitly grant command authority over all major decisions.",
+          "source": "Immelman ISPP 2021; CCP Charter amendment Oct 2017; China Leadership Monitor 2023"
+        },
+        "impulsivity": {
+          "score": 15,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "ISPP peer-reviewed assessment: deliberative leadership style well-informed cautious and emotionally controlled. Merics academic study: top-down decisionism \u2014 centralised but methodical. Described as rational ruthless and resilient.",
+          "source": "Immelman ISPP 2021; Merics study; The Diplomat Feb 2024"
+        },
+        "values": {
+          "score": 30,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Poverty alleviation 2013-2021 lifted 800 million \u2014 largest in history, genuine reform at scale. BRI infrastructure investment \u2014 non-trivial. However simultaneously eliminated Hong Kong autonomy, detained 1.8 million Uyghurs, deepened surveillance state. Values framework is Han civilisational restoration \u2014 development serves the narrative, not universal principles.",
+          "source": "World Bank poverty data; BRI documentation; HRW 2026; NPC records"
+        },
+        "survival": {
+          "score": 88,
+          "band": "A",
+          "confidence": "HIGH",
+          "evidence": "Abolished presidential term limits March 2018 \u2014 NPC vote documented. Anti-corruption campaign used to remove 1.5 million officials 2013-2022 while consolidating personal power. Taiwan reunification framed as personal historical legacy.",
+          "source": "NPC record March 2018; China Leadership Monitor"
+        },
+        "accountability": {
+          "score": 78,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Actively dismantled functioning mechanisms. Hong Kong had independent judiciary and free press \u2014 both eliminated 2020-2022. Anti-corruption campaign genuine but redirected enforcement from accountability to personal loyalty. Term limits removed 2018 after existing since Deng reforms. Active dismantlement of post-Mao accountability architecture.",
+          "source": "Hong Kong National Security Law 2020; NPC term limit amendment 2018; China Leadership Monitor"
+        }
       },
       "watch": [
         "China Taiwan",
@@ -293,19 +625,19 @@
     {
       "n": "Volodymyr Zelensky",
       "r": "President of Ukraine",
-      "b": 58,
+      "b": 67,
       "tags": [
         "Refused multiple territorial concession exit deals",
-        "NABU anti-corruption body functioning",
-        "No stance on Gaza or Iran bombardment"
+        "NABU anti-corruption body functioning \u2014 Defence Minister Reznikov resigned 2023",
+        "No stance on Gaza or Iran bombardment \u2014 transactional sovereignty documented"
       ],
-      "ideo": "National sovereignty and anti-imperialism as primary framework — selectively applied.",
+      "ideo": "National sovereignty and anti-imperialism as primary framework \u2014 but selectively applied. Does not extend to Palestinian or Iranian sovereignty when Ukrainian survival interests conflict. Framework is transactional sovereignty not principled sovereignty.",
       "dims": {
         "narcissism": 70,
         "impulsivity": 67,
-        "values": 30,
+        "values": 48,
         "survival": 78,
-        "accountability": 33
+        "accountability": 38
       },
       "weights": {
         "narcissism": 20,
@@ -313,6 +645,43 @@
         "values": 15,
         "survival": 25,
         "accountability": 22
+      },
+      "assess": {
+        "narcissism": {
+          "score": 70,
+          "band": "B",
+          "confidence": "HIGH",
+          "evidence": "Peer-reviewed Vomacka and Immelman ISPP 2023 St Johns University: primary patterns Ambitious-confident and Outgoing-congenial. Gordon et al peer-reviewed study: scored 91% mental functioning \u2014 psychologically healthy leader. Moderate not extreme narcissism.",
+          "source": "Vomacka Immelman ISPP 2023; Gordon et al peer-reviewed study"
+        },
+        "impulsivity": {
+          "score": 67,
+          "band": "B",
+          "confidence": "MEDIUM",
+          "evidence": "Dauntless-adventurous pattern documented \u2014 risk-taking but calculated. Remained in Kyiv Feb 2022 was calculated not impulsive. Oval Office Feb 2025 showed controlled assertiveness under extreme pressure.",
+          "source": "Vomacka Immelman ISPP 2023; documented public behaviour"
+        },
+        "values": {
+          "score": 48,
+          "band": "B",
+          "confidence": "medium",
+          "evidence": "Genuine sovereignty values \u2014 refused territorial concession exit deals at personal political risk. Stayed in Kyiv Feb 2022 under existential threat. However no public stance on Gaza or Iran bombardment despite professing sovereignty principles \u2014 transactional sovereignty documented. Framework is national survival as primary value, other principles secondary.",
+          "source": "Documented refusal of exit deals; Kyiv Feb 2022; NABU cases; documented silence on Gaza"
+        },
+        "survival": {
+          "score": 78,
+          "band": "B",
+          "confidence": "high",
+          "evidence": "Literal physical survival \u2014 remained in Kyiv during active invasion. Democratic elections suspended under martial law. Western aid dependency creates vulnerability. Gaza-Iran silence is documented survival calculus \u2014 cannot afford to alienate Israel which has Washington influence.",
+          "source": "Public record; documented behaviour pattern"
+        },
+        "accountability": {
+          "score": 38,
+          "band": "B",
+          "confidence": "medium",
+          "evidence": "NABU preserved and functioning as independent body. EU anti-corruption conditionality accepted. However elections suspended under martial law (constitutionally authorised). Defence Ministry corruption persists \u2014 systemic not addressed. Not active dismantlement but incomplete maintenance under extreme conditions.",
+          "source": "NABU documented cases; EU accession conditions; Ukrainian constitutional provisions"
+        }
       },
       "watch": [
         "Ukraine ceasefire",
@@ -325,19 +694,19 @@
     {
       "n": "Recep Tayyip Erdogan",
       "r": "President of the Republic of Turkey",
-      "b": 78,
+      "b": 70,
       "tags": [
         "AKP lost Istanbul and Ankara March 2024",
-        "Imamoglu prosecution — documented political persecution",
+        "Imamoglu prosecution \u2014 documented political persecution",
         "Turkey only NATO member mediating Russia-Ukraine"
       ],
-      "ideo": "Sunni Islamic identity combined with Turkish ethnic nationalism.",
+      "ideo": "Sunni Islamic identity combined with Turkish ethnic nationalism. Non-interference doctrine selectively applied \u2014 intervenes in Libya, Syria, Azerbaijan. Blind spot: domestic political survival requires suppressing Kurdish 20% of population \u2014 limits NATO reliability.",
       "dims": {
         "narcissism": 88,
         "impulsivity": 70,
-        "values": 20,
+        "values": 22,
         "survival": 95,
-        "accountability": 32
+        "accountability": 82
       },
       "weights": {
         "narcissism": 20,
@@ -345,6 +714,43 @@
         "values": 15,
         "survival": 25,
         "accountability": 22
+      },
+      "assess": {
+        "narcissism": {
+          "score": 88,
+          "band": "A",
+          "confidence": "HIGH",
+          "evidence": "Peer-reviewed Springer 2024 chapter on Erdogan psychological profile. Turkish Studies academic journal 2011 personality and leadership assessment. All Azimuth 2021 Leadership Trait Analysis: documented increase in dominance and control post-2016 coup attempt. Three independent peer-reviewed sources.",
+          "source": "Springer 2024; Turkish Studies 2011; All Azimuth 2021"
+        },
+        "impulsivity": {
+          "score": 70,
+          "band": "B",
+          "confidence": "HIGH",
+          "evidence": "All Azimuth 2021: post-coup attempt trauma increased impulsivity scores measured via Leadership Trait Analysis. S-400 purchase from Russia against NATO objections \u2014 significant impulsive strategic decision. Also shows strategic patience on Ukraine mediation.",
+          "source": "All Azimuth 2021; documented S-400 purchase record"
+        },
+        "values": {
+          "score": 22,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Early AKP tenure delivered genuine democratic and economic reforms \u2014 EU accession progress, civilian oversight of military, economic growth 2002-2013. Framework shifted fundamentally post-2013 Gezi and post-2016 coup. Reform abandoned when it threatened personal power. Current framework is Islamist nationalism as political survival tool \u2014 not principled.",
+          "source": "AKP early reform record; EU progress reports 2002-2013; post-2016 documented shift; RSF"
+        },
+        "survival": {
+          "score": 95,
+          "band": "A",
+          "confidence": "HIGH",
+          "evidence": "March 2024 local elections: AKP lost Istanbul and Ankara \u2014 first major electoral defeat. Imamoglu prosecution documented as political persecution to remove 2028 rival. Political survival now entangled with suppressing opposition.",
+          "source": "2024 Turkish election results public record; Imamoglu prosecution documented"
+        },
+        "accountability": {
+          "score": 82,
+          "band": "A",
+          "confidence": "high",
+          "evidence": "Turkey had functioning independent courts, free press, Kurdish political representation \u2014 all actively dismantled. 150,000 dismissed after 2016 without due process. Constitutional court independence reduced. Imamoglu prosecuted to eliminate electoral rival. Clear active dismantlement of previously functioning institutions.",
+          "source": "RSF 2024; documented post-coup dismissals; constitutional amendments; Imamoglu case"
+        }
       },
       "watch": [
         "Turkey NATO",
@@ -355,5 +761,24 @@
         "Turkey mediation"
       ]
     }
-  ]
+  ],
+  "meta": {
+    "version": "2.0",
+    "lastUpdated": "2026-03-26",
+    "methodology": "Four-step scoring: Evidence Band (A=76-100, B=51-75, C=26-50, D=0-25) + Intensity Multiplier (frequency 0-8 + consequence 0-8 + corroboration 0-8). Dimension weights: survival 25%, accountability 22%, narcissism 20%, impulsivity 18%, values 15%.",
+    "flagThresholds": {
+      "survival": 2.0,
+      "accountability": 2.3,
+      "narcissism": 2.5,
+      "impulsivity": 2.8,
+      "values": 3.0
+    },
+    "dimWeights": {
+      "narcissism": 20,
+      "impulsivity": 18,
+      "values": 15,
+      "survival": 25,
+      "accountability": 22
+    }
+  }
 }

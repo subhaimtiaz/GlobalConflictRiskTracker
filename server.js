@@ -10,7 +10,6 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 8080;
 const API_KEY       = process.env.COMMODITY_API_KEY || '';
-const NEWSDATA_KEY  = process.env.NEWSDATA_API_KEY || '';
 const RESEND_KEY    = process.env.RESEND_API_KEY || '';
 const WATCH_FILE    = path.join(__dirname, 'watch_state.json');
 const LEADERS_FILE  = path.join(__dirname, 'leaders.json');

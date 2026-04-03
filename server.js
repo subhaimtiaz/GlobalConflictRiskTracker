@@ -9,11 +9,12 @@ app.use(cors());
 app.use(express.json());
 
 const PORT = process.env.PORT || 8080;
-const API_KEY = process.env.COMMODITY_API_KEY || '';
-const NEWSDATA_KEY = process.env.NEWSDATA_API_KEY || '';
-const RESEND_KEY = process.env.RESEND_API_KEY || '';
-const WATCH_FILE = path.join(__dirname, 'watch_state.json');
-const LEADERS_FILE = path.join(__dirname, 'leaders.json');
+const API_KEY       = process.env.COMMODITY_API_KEY || '';
+const NEWSDATA_KEY  = process.env.NEWSDATA_API_KEY || '';
+const RESEND_KEY    = process.env.RESEND_API_KEY || '';
+const WATCH_FILE    = path.join(__dirname, 'watch_state.json');
+const LEADERS_FILE  = path.join(__dirname, 'leaders.json');
+const NEWS_FILE     = path.join(__dirname, 'news.json');
 
 // ── HELPERS ──
 function readJSON(file, fallback) {
@@ -34,11 +35,39 @@ function httpsGet(url) {
   });
 }
 
+// ── SAFE ISO DATE — never returns Invalid Date ──
+function safeISODate(raw) {
+  if (!raw) return new Date().toISOString();
+  // GDELT seendate format: YYYYMMDDHHmmSS (14 chars)
+  if (typeof raw === 'string' && raw.length === 14 && /^\d{14}$/.test(raw)) {
+    return `${raw.slice(0,4)}-${raw.slice(4,6)}-${raw.slice(6,8)}T${raw.slice(8,10)}:${raw.slice(10,12)}:${raw.slice(12,14)}Z`;
+  }
+  // Already ISO or parseable
+  const d = new Date(raw);
+  return isNaN(d.getTime()) ? new Date().toISOString() : d.toISOString();
+}
+
 // ── LEADERS ENDPOINT ──
 app.get('/api/leaders', (req, res) => {
   const leaders = readJSON(LEADERS_FILE, []);
   res.set('Cache-Control', 'public, max-age=3600');
   res.json({ leaders, ts: new Date().toISOString() });
+});
+
+// ── NEWS FEED ENDPOINT ──
+// Serves news.json written by GitHub Action (update-news.js)
+app.get('/api/news', (req, res) => {
+  if (!fs.existsSync(NEWS_FILE)) {
+    return res.status(404).json({
+      error: 'news.json not found — GitHub Action has not run yet',
+      items: [],
+      live_variables: {}
+    });
+  }
+  const news = readJSON(NEWS_FILE, { items: [], live_variables: {} });
+  res.set('Cache-Control', 'public, max-age=300'); // 5-min cache
+  res.set('Access-Control-Allow-Origin', '*');
+  res.json(news);
 });
 
 // ── WATCH STATE ENDPOINT ──
@@ -127,14 +156,14 @@ async function runWatchMonitoring() {
   }
 
   const VAR_WATCH = [
-    { k: 'nuclearSignalling', name: 'Nuclear Signalling', watch: ['nuclear doctrine India', 'nuclear Pakistan', 'LoC violations', 'nuclear signalling'] },
-    { k: 'congressConstraint', name: 'Congressional Constraint', watch: ['War Powers', 'AUMF', 'Congress vote Iran', 'congressional authorisation'] },
-    { k: 'diplomaticChannels', name: 'Diplomatic Channels', watch: ['Iran ceasefire', 'diplomacy Iran', 'Oman talks', 'back channel Iran'] },
-    { k: 'armsControlArchitecture', name: 'Arms Control Architecture', watch: ['New START', 'arms control treaty', 'nuclear treaty'] },
-    { k: 'trumpDomesticPressure', name: 'Trump Domestic Pressure', watch: ['Trump approval', 'FiveThirtyEight poll', 'Trump impeach'] },
-    { k: 'netanyahuLegalJeopardy', name: 'Netanyahu Legal Jeopardy', watch: ['Netanyahu trial', 'Netanyahu ICC', 'Netanyahu coalition', 'corruption Israel'] },
-    { k: 'pakistanEconomicStress', name: 'Pakistan Economic Stress', watch: ['IMF Pakistan', 'Pakistan rupee', 'Pakistan economy'] },
-    { k: 'iranRegimeCohesion', name: 'Iran Regime Cohesion', watch: ['IRGC split', 'Iran leadership', 'Iran protest'] }
+    { k: 'nuclearSignalling',        name: 'Nuclear Signalling',        watch: ['nuclear doctrine India', 'nuclear Pakistan', 'LoC violations', 'nuclear signalling'] },
+    { k: 'congressConstraint',       name: 'Congressional Constraint',  watch: ['War Powers', 'AUMF', 'Congress vote Iran', 'congressional authorisation'] },
+    { k: 'diplomaticChannels',       name: 'Diplomatic Channels',       watch: ['Iran ceasefire', 'diplomacy Iran', 'Oman talks', 'back channel Iran'] },
+    { k: 'armsControlArchitecture',  name: 'Arms Control Architecture', watch: ['New START', 'arms control treaty', 'nuclear treaty'] },
+    { k: 'trumpDomesticPressure',    name: 'Trump Domestic Pressure',   watch: ['Trump approval', 'FiveThirtyEight poll', 'Trump impeach'] },
+    { k: 'netanyahuLegalJeopardy',   name: 'Netanyahu Legal Jeopardy',  watch: ['Netanyahu trial', 'Netanyahu ICC', 'Netanyahu coalition', 'corruption Israel'] },
+    { k: 'pakistanEconomicStress',   name: 'Pakistan Economic Stress',  watch: ['IMF Pakistan', 'Pakistan rupee', 'Pakistan economy'] },
+    { k: 'iranRegimeCohesion',       name: 'Iran Regime Cohesion',      watch: ['IRGC split', 'Iran leadership', 'Iran protest'] }
   ];
 
   for (const v of VAR_WATCH) {
@@ -249,55 +278,82 @@ function scheduleDailyDigest() {
 app.get('/api/live', async (req, res) => {
   try {
     let oil = null;
+
+    // ── COMMODITY API: commoditypriceapi.com ──
+    // Response format: { rates: { BRENT: <barrels_per_USD> } }
+    // e.g. BRENT: 0.00927 means 0.00927 barrels per $1 → $1/0.00927 = $107.87/bbl
     if (API_KEY) {
       try {
         const d = await httpsGet(`https://commoditypriceapi.com/api/latest?access_key=${API_KEY}&base=USD&symbols=BRENT`);
-        if (d && d.rates && d.rates.BRENT) {
-          oil = { price: Math.round((1 / d.rates.BRENT) * 100) / 100, source: 'CommodityPriceAPI', change_pct: '' };
-        }
-      } catch(e) { console.log('Commodity API error:', e.message); }
-    }
-    if (!oil) { oil = { price: 97 + (Math.random() - 0.5) * 4, source: 'Estimated', change_pct: '' }; }
+        console.log('Commodity API raw response:', JSON.stringify(d).slice(0, 200));
 
+        if (d && d.rates && d.rates.BRENT && d.rates.BRENT > 0) {
+          // Rate is barrels-per-dollar — invert to get dollars-per-barrel
+          const rawRate = parseFloat(d.rates.BRENT);
+          const pricePerBarrel = rawRate < 1
+            ? Math.round((1 / rawRate) * 100) / 100   // barrels-per-dollar format
+            : Math.round(rawRate * 100) / 100;          // already dollars-per-barrel
+          oil = { price: pricePerBarrel, source: 'CommodityPriceAPI', change_pct: '' };
+          console.log(`Brent crude: $${pricePerBarrel}/bbl (raw rate: ${rawRate})`);
+        } else {
+          console.warn('Commodity API: unexpected response format', JSON.stringify(d).slice(0, 200));
+        }
+      } catch(e) {
+        console.warn('Commodity API error:', e.message);
+      }
+    }
+
+    // ── FALLBACK: read from news.json if GitHub Action has run ──
+    if (!oil && fs.existsSync(NEWS_FILE)) {
+      const news = readJSON(NEWS_FILE, {});
+      if (news.live_variables && news.live_variables.oilPrice) {
+        oil = { price: news.live_variables.oilPrice, source: 'news.json', change_pct: '' };
+        console.log(`Oil price from news.json: $${oil.price}/bbl`);
+      }
+    }
+
+    // ── LAST RESORT FALLBACK ──
+    if (!oil) {
+      oil = { price: 97 + (Math.random() - 0.5) * 4, source: 'Estimated', change_pct: '' };
+      console.warn('Using estimated oil price — commodity API unavailable');
+    }
+
+    // ── GDELT INTELLIGENCE FEED ──
     let alerts = [], conflicts = [];
     try {
       const gdelt = await httpsGet('https://api.gdeltproject.org/api/v2/doc/doc?query=Iran+war+OR+Strait+Hormuz+OR+Pakistan+India+LoC+OR+Ukraine+ceasefire&mode=artlist&maxrecords=12&format=json&timespan=6h&sourcelang=english');
       if (gdelt.articles) {
-        alerts = gdelt.articles.slice(0, 8).map(a => {
-          let ts = new Date().toISOString();
-          if (a.seendate && a.seendate.length === 14) {
-            const s = a.seendate;
-            ts = `${s.slice(0,4)}-${s.slice(4,6)}-${s.slice(6,8)}T${s.slice(8,10)}:${s.slice(10,12)}:${s.slice(12,14)}Z`;
-          }
-          return {
-            type: parseFloat(a.tone) < -5 ? 'critical' : parseFloat(a.tone) < -2 ? 'warning' : 'info',
-            title: a.title || '',
-            time: ts
-          };
-        });
+        alerts = gdelt.articles.slice(0, 8).map(a => ({
+          type:  parseFloat(a.tone) < -5 ? 'critical' : parseFloat(a.tone) < -2 ? 'warning' : 'info',
+          title: a.title || '',
+          time:  safeISODate(a.seendate)  // ← fixed: always valid ISO string
+        }));
       }
-    } catch(e) {}
+    } catch(e) { console.warn('GDELT alerts error:', e.message); }
 
     const theatreQueries = [
-      { name: 'Iran', q: 'Iran war OR Strait Hormuz OR Tehran strikes' },
+      { name: 'Iran',               q: 'Iran war OR Strait Hormuz OR Tehran strikes' },
       { name: 'Pakistan/Afghanistan', q: 'Pakistan India LoC OR Pakistan Afghanistan border' },
-      { name: 'Israel/Lebanon', q: 'Israel Lebanon OR Gaza ceasefire' },
-      { name: 'Yemen', q: 'Houthi OR Yemen strikes' },
-      { name: 'Ukraine', q: 'Ukraine ceasefire OR Ukraine Russia' }
+      { name: 'Israel/Lebanon',     q: 'Israel Lebanon OR Gaza ceasefire' },
+      { name: 'Yemen',              q: 'Houthi OR Yemen strikes' },
+      { name: 'Ukraine',            q: 'Ukraine ceasefire OR Ukraine Russia' }
     ];
     try {
       for (const t of theatreQueries) {
         const g = await httpsGet(`https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(t.q)}&mode=artlist&maxrecords=5&format=json&timespan=24h&sourcelang=english`);
         const count = (g.articles || []).length;
-        const tone = (g.articles || []).reduce((s, a) => s + (parseFloat(a.tone) || 0), 0) / Math.max((g.articles || []).length, 1);
-        const base = { Iran: 75, 'Pakistan/Afghanistan': 65, 'Israel/Lebanon': 65, Yemen: 55, Ukraine: 50 }[t.name] || 50;
+        const tone  = (g.articles || []).reduce((s, a) => s + (parseFloat(a.tone) || 0), 0) / Math.max((g.articles || []).length, 1);
+        const base  = { Iran: 75, 'Pakistan/Afghanistan': 65, 'Israel/Lebanon': 65, Yemen: 55, Ukraine: 50 }[t.name] || 50;
         conflicts.push({ name: t.name, status: 'Active', level: Math.min(95, Math.round(base + count * 1.5 + Math.abs(tone) * 0.5)) });
       }
     } catch(e) { conflicts = []; }
 
+    // ── OIL STRESS: (price - 67) / (130 - 67) * 100 ──
     const oilStress = Math.round(Math.max(0, Math.min(100, (oil.price - 67) / (130 - 67) * 100)));
     res.json({ oil, alerts, conflicts, computedVars: { oilPrice: oilStress } });
+
   } catch(e) {
+    console.error('/api/live error:', e.message);
     res.status(500).json({ error: e.message });
   }
 });
@@ -309,10 +365,10 @@ app.get('/api/substack', async (req, res) => {
     { title: 'Oh, Those Iranians. Bless Their Hearts.', link: 'https://subhaimtiaz.substack.com/p/oh-those-iranians-bless-their-hearts', date: '2 Mar 2026', excerpt: 'You picked their king. You funded his torture. You shot their plane. No punchline. That is it. That is the joke.' },
     { title: 'Oh Sure, It Was Definitely Just One Very Lucky Sad Man With A Gun', link: 'https://subhaimtiaz.substack.com/p/oh-sure-it-was-definitely-just-one', date: '4 Mar 2026', excerpt: 'A completely uncontroversial retelling of totally unrelated historical events.' },
     { title: 'The Whitmores: A Family of Great Values', link: 'https://subhaimtiaz.substack.com/p/the-whitmores-a-family-of-great-values', date: '19 Mar 2026', excerpt: 'IBM billed for the Holocaust. Quarterly. The Whitmores are still billing.' },
-    { title: 'Israel Has No Choice — It\'s Fighting The Brother It Made', link: 'https://subhaimtiaz.substack.com/p/israel-has-no-choice', date: '22 Mar 2026', excerpt: 'Hamas, Hezbollah, Loki, and a completely serious Marvel guide to the Middle East.' }
+    { title: "Israel Has No Choice — It's Fighting The Brother It Made", link: 'https://subhaimtiaz.substack.com/p/israel-has-no-choice', date: '22 Mar 2026', excerpt: 'Hamas, Hezbollah, Loki, and a completely serious Marvel guide to the Middle East.' }
   ];
   try {
-    const xml = await httpsGet('https://subhaimtiaz.substack.com/feed');
+    await httpsGet('https://subhaimtiaz.substack.com/feed');
     res.json({ articles: FALLBACK, source: 'fallback' });
   } catch(e) { res.json({ articles: FALLBACK, source: 'fallback' }); }
 });

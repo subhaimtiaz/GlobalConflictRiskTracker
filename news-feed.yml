@@ -1,0 +1,44 @@
+name: News Feed Update
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # Every 6 hours
+  workflow_dispatch:          # Manual trigger from GitHub UI
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run news updater
+        env:
+          ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
+          NEWS_API_KEY:       ${{ secrets.NEWS_API_KEY }}
+          COMMODITY_API_KEY:  ${{ secrets.COMMODITY_API_KEY }}
+          RESENT_API_KEY:     ${{ secrets.RESENT_API_KEY }}
+          NOTIFY_EMAIL:       ${{ secrets.NOTIFY_EMAIL }}
+        run: node scripts/update-news.js
+
+      - name: Commit news.json if changed
+        run: |
+          git config user.name  "AGRA News Bot"
+          git config user.email "agra-bot@accidental-geopolitical-tracker"
+          git add news.json
+          if git diff --cached --quiet; then
+            echo "No changes — skipping commit"
+          else
+            ITEMS=$(node -e "const n=require('./news.json'); console.log(n.items.length)")
+            OIL=$(node -e "const n=require('./news.json'); const v=n.live_variables; console.log(v.oilPrice ? '\$'+v.oilPrice+' s:'+v.oilStress : 'N/A')")
+            git commit -m "News feed x${ITEMS} oil ${OIL} $(date -u +%Y-%m-%dT%H:%M)Z"
+            git push
+          fi

@@ -30,9 +30,10 @@ if (!NOTIFY_EMAIL) { console.warn('NOTIFY_EMAIL not set — email digest disable
 const MODEL          = 'claude-sonnet-4-20250514';
 const NEWS_PATH      = path.join(__dirname, '..', 'news.json');
 const HISTORY_PATH   = path.join(__dirname, '..', 'news_history.json');
+const PROPOSALS_PATH = path.join(__dirname, '..', 'proposals.json');
 const LEADERS_PATH   = path.join(__dirname, '..', 'leaders.json');
 const HISTORY_DAYS   = 30;
-const MAX_HISTORY_ANALYSIS = 300; // max items passed to analysis Claude call
+const MAX_HISTORY_ANALYSIS = 30; // max items passed to analysis Claude call
 
 // ── OIL STRESS ────────────────────────────────────────────────────────────────
 function calcOilStress(price) {
@@ -179,7 +180,7 @@ async function fetchFromNewsAPI(leaders) {
           _from:        'newsapi'
         });
       }
-      await sleep(1100);
+      await sleep(1500);
     } catch(e) { console.warn(`  NewsAPI error: ${e.message}`); }
   }
   console.log(`  NewsAPI: ${items.length} items`);
@@ -706,6 +707,13 @@ async function main() {
 
   fs.writeFileSync(NEWS_PATH, JSON.stringify(output, null, 2));
   console.log(`\nWrote news.json (${(JSON.stringify(output).length/1024).toFixed(1)} KB)`);
+
+  // Write proposals.json for dashboard Watch page
+  if (analysis && ((analysis.leader_proposals||[]).length > 0 || (analysis.variable_proposals||[]).length > 0)) {
+    const proposalsOutput = { ...analysis, generated_at: new Date().toISOString() };
+    fs.writeFileSync(PROPOSALS_PATH, JSON.stringify(proposalsOutput, null, 2));
+    console.log(`Wrote proposals.json (${(analysis.leader_proposals||[]).length} leader proposals, ${(analysis.variable_proposals||[]).length} variable proposals)`);
+  }
 
   // 5. Send email
   await sendEmailDigest(allItems, liveVariables, brentPrice, analysis);

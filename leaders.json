@@ -1,1 +1,359 @@
-fatal: path 'leaders.json' exists on disk, but not in 'origin/main'
+{
+  "ts": "2026-04-03T22:16:43.285Z",
+  "leaders": [
+    {
+      "n": "Donald J. Trump",
+      "r": "45th and 47th President of the United States",
+      "b": 88,
+      "tags": [
+        "Transactional nationalism",
+        "No defined exit condition",
+        "War ends when I feel it in my bones"
+      ],
+      "ideo": "Transactional nationalism — no consistent ideological doctrine. Blind spot: underestimates adversary resilience.",
+      "dims": {
+        "narcissism": 92,
+        "impulsivity": 90,
+        "values": 20,
+        "survival": 65,
+        "accountability": 10
+      },
+      "weights": {
+        "narcissism": 20,
+        "impulsivity": 18,
+        "values": 15,
+        "survival": 25,
+        "accountability": 22
+      },
+      "watch": [
+        "War Powers",
+        "Iran ceasefire",
+        "approval rating",
+        "AUMF",
+        "Trump impeach"
+      ]
+    },
+    {
+      "n": "Benjamin Netanyahu",
+      "r": "Prime Minister of Israel — 6th and 8th term",
+      "b": 85,
+      "tags": [
+        "Revisionist Zionism filtered through personal survival calculus",
+        "Three corruption trials suspended under wartime emergency",
+        "ICC arrest warrant Nov 2024"
+      ],
+      "ideo": "Revisionist Zionism. Blind spot: conflict continuation is structurally necessary for personal legal immunity.",
+      "dims": {
+        "narcissism": 80,
+        "impulsivity": 30,
+        "values": 35,
+        "survival": 96,
+        "accountability": 15
+      },
+      "weights": {
+        "narcissism": 20,
+        "impulsivity": 18,
+        "values": 15,
+        "survival": 25,
+        "accountability": 22
+      },
+      "watch": [
+        "trial hearing",
+        "ICC Netanyahu",
+        "coalition collapse",
+        "ceasefire Gaza"
+      ]
+    },
+    {
+      "n": "Mohammed bin Salman",
+      "r": "Prime Minister and Crown Prince of Saudi Arabia",
+      "b": 80,
+      "tags": [
+        "Lobbied Trump to attack Iran",
+        "Ordered Khashoggi murder — DNI confirmed",
+        "Zero accountability exposure"
+      ],
+      "ideo": "Saudi nationalist modernisation combined with deep Sunni sectarianism against Iran.",
+      "dims": {
+        "narcissism": 78,
+        "impulsivity": 55,
+        "values": 15,
+        "survival": 60,
+        "accountability": 5
+      },
+      "weights": {
+        "narcissism": 20,
+        "impulsivity": 18,
+        "values": 15,
+        "survival": 25,
+        "accountability": 22
+      },
+      "watch": [
+        "Saudi Arabia Iran",
+        "Khashoggi",
+        "executions Saudi",
+        "MBS",
+        "Saudi nuclear"
+      ]
+    },
+    {
+      "n": "Mojtaba Khamenei",
+      "r": "Supreme Leader of the Islamic Republic of Iran",
+      "b": 78,
+      "tags": [
+        "No Grand Ayatollah credentials",
+        "IRGC-dependent for all power",
+        "First statement vowed no surrender"
+      ],
+      "ideo": "Velayat-e Faqih combined with anti-imperial resistance ideology.",
+      "dims": {
+        "narcissism": 65,
+        "impulsivity": 50,
+        "values": 40,
+        "survival": 90,
+        "accountability": 20
+      },
+      "weights": {
+        "narcissism": 20,
+        "impulsivity": 18,
+        "values": 15,
+        "survival": 25,
+        "accountability": 22
+      },
+      "watch": [
+        "Supreme Leader Iran",
+        "IRGC",
+        "Strait Hormuz",
+        "nuclear Iran",
+        "Iran ceasefire"
+      ]
+    },
+    {
+      "n": "Narendra Modi",
+      "r": "Prime Minister of India — 2nd and 3rd consecutive term",
+      "b": 65,
+      "tags": [
+        "Abandoned No First Use nuclear doctrine",
+        "BJP lost outright majority 2024",
+        "Operation Sindoor crossed red lines"
+      ],
+      "ideo": "Hindu nationalist framework rooted in RSS ideology.",
+      "dims": {
+        "narcissism": 72,
+        "impulsivity": 25,
+        "values": 45,
+        "survival": 71,
+        "accountability": 30
+      },
+      "weights": {
+        "narcissism": 20,
+        "impulsivity": 18,
+        "values": 15,
+        "survival": 25,
+        "accountability": 22
+      },
+      "watch": [
+        "India Pakistan",
+        "nuclear doctrine",
+        "No First Use",
+        "LoC violations",
+        "Modi coalition"
+      ]
+    },
+    {
+      "n": "General Asim Munir",
+      "r": "Chief of Army Staff, Pakistan Armed Forces",
+      "b": 72,
+      "tags": [
+        "De facto autonomous from civilian government",
+        "J-10C and PL-15 — downed 3 Rafales May 2025",
+        "Fighting three simultaneous fronts"
+      ],
+      "ideo": "Pakistan military institutional nationalism.",
+      "dims": {
+        "narcissism": 60,
+        "impulsivity": 73,
+        "values": 50,
+        "survival": 75,
+        "accountability": 15
+      },
+      "weights": {
+        "narcissism": 20,
+        "impulsivity": 18,
+        "values": 15,
+        "survival": 25,
+        "accountability": 22
+      },
+      "watch": [
+        "Pakistan military",
+        "IMF Pakistan",
+        "India Pakistan border",
+        "LoC",
+        "Pakistan nuclear",
+        "Munir"
+      ]
+    },
+    {
+      "n": "Vladimir Putin",
+      "r": "President of the Russian Federation",
+      "b": 70,
+      "tags": [
+        "ICC arrest warrant March 2023",
+        "Eliminated constitutional term limits 2020",
+        "Russia-Iran military cooperation documented"
+      ],
+      "ideo": "Orthodox Christian civilisational nationalism against Western decadence.",
+      "dims": {
+        "narcissism": 75,
+        "impulsivity": 20,
+        "values": 30,
+        "survival": 85,
+        "accountability": 10
+      },
+      "weights": {
+        "narcissism": 20,
+        "impulsivity": 18,
+        "values": 15,
+        "survival": 25,
+        "accountability": 22
+      },
+      "watch": [
+        "Ukraine ceasefire",
+        "ICC Putin",
+        "Russia nuclear",
+        "New START",
+        "Putin health"
+      ]
+    },
+    {
+      "n": "Kim Jong-un",
+      "r": "Supreme Leader, Democratic People of Korea",
+      "b": 60,
+      "tags": [
+        "Executed uncle Jang Song-thaek 2013",
+        "DPRK-Russia troops agreement Sept 2024",
+        "Nuclear doctrine: survival at any cost"
+      ],
+      "ideo": "Juche racial Korean nationalism.",
+      "dims": {
+        "narcissism": 82,
+        "impulsivity": 40,
+        "values": 25,
+        "survival": 95,
+        "accountability": 5
+      },
+      "weights": {
+        "narcissism": 20,
+        "impulsivity": 18,
+        "values": 15,
+        "survival": 25,
+        "accountability": 22
+      },
+      "watch": [
+        "DPRK missile",
+        "North Korea nuclear",
+        "Kim Jong-un",
+        "North Korea test",
+        "DPRK Russia"
+      ]
+    },
+    {
+      "n": "Xi Jinping",
+      "r": "General Secretary of the CPC and President of the PRC",
+      "b": 82,
+      "tags": [
+        "Xi Jinping Thought institutionalised Oct 2017",
+        "China-Pakistan J-10C combat proven May 2025",
+        "Bilateral Strait of Hormuz access negotiations with Iran"
+      ],
+      "ideo": "Han Chinese civilisational nationalism — century of humiliation requiring restoration.",
+      "dims": {
+        "narcissism": 75,
+        "impulsivity": 15,
+        "values": 35,
+        "survival": 88,
+        "accountability": 8
+      },
+      "weights": {
+        "narcissism": 20,
+        "impulsivity": 18,
+        "values": 15,
+        "survival": 25,
+        "accountability": 22
+      },
+      "watch": [
+        "China Taiwan",
+        "China Iran",
+        "China Pakistan",
+        "PLA",
+        "South China Sea",
+        "China nuclear"
+      ]
+    },
+    {
+      "n": "Volodymyr Zelensky",
+      "r": "President of Ukraine",
+      "b": 58,
+      "tags": [
+        "Refused multiple territorial concession exit deals",
+        "NABU anti-corruption body functioning",
+        "No stance on Gaza or Iran bombardment"
+      ],
+      "ideo": "National sovereignty and anti-imperialism as primary framework — selectively applied.",
+      "dims": {
+        "narcissism": 70,
+        "impulsivity": 67,
+        "values": 30,
+        "survival": 78,
+        "accountability": 33
+      },
+      "weights": {
+        "narcissism": 20,
+        "impulsivity": 18,
+        "values": 15,
+        "survival": 25,
+        "accountability": 22
+      },
+      "watch": [
+        "Ukraine ceasefire",
+        "Zelensky corruption",
+        "NATO Ukraine",
+        "Ukraine Israel",
+        "NABU Ukraine"
+      ]
+    },
+    {
+      "n": "Recep Tayyip Erdogan",
+      "r": "President of the Republic of Turkey",
+      "b": 78,
+      "tags": [
+        "AKP lost Istanbul and Ankara March 2024",
+        "Imamoglu prosecution — documented political persecution",
+        "Turkey only NATO member mediating Russia-Ukraine"
+      ],
+      "ideo": "Sunni Islamic identity combined with Turkish ethnic nationalism.",
+      "dims": {
+        "narcissism": 88,
+        "impulsivity": 70,
+        "values": 20,
+        "survival": 95,
+        "accountability": 32
+      },
+      "weights": {
+        "narcissism": 20,
+        "impulsivity": 18,
+        "values": 15,
+        "survival": 25,
+        "accountability": 22
+      },
+      "watch": [
+        "Turkey NATO",
+        "S-400 Turkey",
+        "Erdogan election",
+        "Turkey Iran",
+        "Imamoglu",
+        "Turkey mediation"
+      ]
+    }
+  ]
+}

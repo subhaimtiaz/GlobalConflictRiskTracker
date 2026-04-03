@@ -48,7 +48,8 @@ function safeISODate(raw) {
 
 // ── LEADERS ENDPOINT ──
 app.get('/api/leaders', (req, res) => {
-  const leaders = readJSON(LEADERS_FILE, []);
+  const data = readJSON(LEADERS_FILE, { leaders: [] });
+  const leaders = data.leaders || data;  // handle both {leaders:[...]} and bare array
   res.set('Cache-Control', 'public, max-age=3600');
   res.json({ leaders, ts: new Date().toISOString() });
 });
@@ -121,7 +122,8 @@ function estimateImpact(gdeltResult, dimWeight) {
 
 // ── WATCH MONITORING ──
 async function runWatchMonitoring() {
-  const leaders = readJSON(LEADERS_FILE, []);
+  const leadersData = readJSON(LEADERS_FILE, { leaders: [] });
+  const leaders = leadersData.leaders || leadersData;
   const state = readJSON(WATCH_FILE, { leaders: {}, vars: {} });
   const DIM_THRESHOLDS = { narcissism: 2.5, impulsivity: 2.8, values: 3.0, survival: 2.0, accountability: 2.3 };
   const DIM_WEIGHTS = { narcissism: 20, impulsivity: 18, values: 15, survival: 25, accountability: 22 };
@@ -194,7 +196,8 @@ async function runWatchMonitoring() {
 async function sendEmailDigest() {
   if (!RESEND_KEY) { console.log('No RESEND_KEY — skipping email'); return; }
   const state = readJSON(WATCH_FILE, { leaders: {}, vars: {} });
-  const leaders = readJSON(LEADERS_FILE, []);
+  const leadersData = readJSON(LEADERS_FILE, { leaders: [] });
+  const leaders = leadersData.leaders || leadersData;
   const lines = [];
 
   for (const leader of leaders) {

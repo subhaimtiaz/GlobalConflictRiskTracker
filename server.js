@@ -279,43 +279,36 @@ app.get('/api/live', async (req, res) => {
   try {
     let oil = null;
 
-    // ── COMMODITY API: commoditypriceapi.com ──
-    // Response format: { rates: { BRENT: <barrels_per_USD> } }
-    // e.g. BRENT: 0.00927 means 0.00927 barrels per $1 → $1/0.00927 = $107.87/bbl
-    if (API_KEY) {
+    // ── PRIMARY: read live Brent price from news.json (written by GitHub Action) ──
+    // The Action already fetches from Commodity API and stores the real price.
+    // This is more reliable than calling the Commodity API directly from Railway.
+    if (fs.existsSync(NEWS_FILE)) {
+      const news = readJSON(NEWS_FILE, {});
+      if (news.live_variables && news.live_variables.oilPrice && news.live_variables.oilPrice > 0) {
+        oil = { price: news.live_variables.oilPrice, source: 'CommodityPriceAPI', change_pct: '' };
+        console.log(`Oil from news.json: $${oil.price}/bbl (stress: ${news.live_variables.oilStress})`);
+      }
+    }
+
+    // ── SECONDARY: call Commodity API directly if news.json unavailable ──
+    if (!oil && API_KEY) {
       try {
         const d = await httpsGet(`https://commoditypriceapi.com/api/latest?access_key=${API_KEY}&base=USD&symbols=BRENT`);
-        console.log('Commodity API raw response:', JSON.stringify(d).slice(0, 200));
-
         if (d && d.rates && d.rates.BRENT && d.rates.BRENT > 0) {
-          // Rate is barrels-per-dollar — invert to get dollars-per-barrel
           const rawRate = parseFloat(d.rates.BRENT);
           const pricePerBarrel = rawRate < 1
-            ? Math.round((1 / rawRate) * 100) / 100   // barrels-per-dollar format
-            : Math.round(rawRate * 100) / 100;          // already dollars-per-barrel
+            ? Math.round((1 / rawRate) * 100) / 100
+            : Math.round(rawRate * 100) / 100;
           oil = { price: pricePerBarrel, source: 'CommodityPriceAPI', change_pct: '' };
-          console.log(`Brent crude: $${pricePerBarrel}/bbl (raw rate: ${rawRate})`);
-        } else {
-          console.warn('Commodity API: unexpected response format', JSON.stringify(d).slice(0, 200));
+          console.log(`Oil from Commodity API: $${pricePerBarrel}/bbl`);
         }
-      } catch(e) {
-        console.warn('Commodity API error:', e.message);
-      }
+      } catch(e) { console.warn('Commodity API error:', e.message); }
     }
 
-    // ── FALLBACK: read from news.json if GitHub Action has run ──
-    if (!oil && fs.existsSync(NEWS_FILE)) {
-      const news = readJSON(NEWS_FILE, {});
-      if (news.live_variables && news.live_variables.oilPrice) {
-        oil = { price: news.live_variables.oilPrice, source: 'news.json', change_pct: '' };
-        console.log(`Oil price from news.json: $${oil.price}/bbl`);
-      }
-    }
-
-    // ── LAST RESORT FALLBACK ──
+    // ── LAST RESORT: use a reasonable war-context estimate ──
     if (!oil) {
       oil = { price: 97 + (Math.random() - 0.5) * 4, source: 'Estimated', change_pct: '' };
-      console.warn('Using estimated oil price — commodity API unavailable');
+      console.warn('Using estimated oil price — all sources unavailable');
     }
 
     // ── GDELT INTELLIGENCE FEED ──
@@ -352,9 +345,17 @@ app.get('/api/live', async (req, res) => {
       }
     } catch(e) { conflicts = []; }
 
-    // ── OIL STRESS: (price - 67) / (130 - 67) * 100 ──
+    // ── OIL STRESS ──
     const oilStress = Math.round(Math.max(0, Math.min(100, (oil.price - 67) / (130 - 67) * 100)));
-    res.json({ oil, alerts, conflicts, computedVars: { oilPrice: oilStress } });
+
+    // ── ALL COMPUTED VARIABLES from calculation engine ──
+    let allVars = { oilPrice: oilStress };
+    try {
+      const computed = computeVariables();
+      allVars = { ...computed, oilPrice: oilStress }; // oil stress always from live price
+    } catch(e) { console.warn('Variable computation failed:', e.message); }
+
+    res.json({ oil, alerts, conflicts, computedVars: allVars });
 
   } catch(e) {
     console.error('/api/live error:', e.message);
@@ -375,6 +376,142 @@ app.get('/api/substack', async (req, res) => {
     await httpsGet('https://subhaimtiaz.substack.com/feed');
     res.json({ articles: FALLBACK, source: 'fallback' });
   } catch(e) { res.json({ articles: FALLBACK, source: 'fallback' }); }
+});
+
+app.get('/api/proposals', (req, res) => {
+  if (!fs.existsSync(PROPOSALS_FILE)) {
+    return res.json({ leader_proposals: [], variable_proposals: [], message: 'No proposals yet — run the GitHub Action to generate analysis.' });
+  }
+  const proposals = readJSON(PROPOSALS_FILE, { leader_proposals: [], variable_proposals: [] });
+  res.set('Cache-Control', 'public, max-age=300');
+  res.set('Access-Control-Allow-Origin', '*');
+  res.json(proposals);
+});
+
+// ── VARIABLE CALCULATION ENGINE ──────────────────────────────────────────────
+// Reads news_history.json and derives computed values for all dashboard variables.
+// Each variable has a baseline, a direction, and thresholds.
+// News items tagged with variable_key drive signal intensity.
+// Output: { varKey: computedValue } — dashboard reads this instead of hardcoded numbers.
+
+const HISTORY_FILE = path.join(__dirname, 'news_history.json');
+const PROPOSALS_FILE = path.join(__dirname, 'proposals.json');
+
+const VAR_CONFIG = {
+  // key: { baseline, direction, floor, ceiling, sensitivity }
+  // direction: 'up' = high news intensity pushes value up (bad = higher)
+  //            'down' = high news intensity pushes value down (bad = lower)
+  oilPrice:              { baseline: 47,  direction: 'up',   floor: 0,   ceiling: 100, sensitivity: 1.2 },
+  straitControl:         { baseline: 70,  direction: 'up',   floor: 30,  ceiling: 100, sensitivity: 1.5 },
+  nuclearSignalling:     { baseline: 60,  direction: 'up',   floor: 20,  ceiling: 100, sensitivity: 2.0 },
+  congressConstraint:    { baseline: 20,  direction: 'down', floor: 5,   ceiling: 50,  sensitivity: 1.0 },
+  diplomaticChannels:    { baseline: 22,  direction: 'down', floor: 5,   ceiling: 60,  sensitivity: 1.2 },
+  armsControlArchitecture:{ baseline: 15, direction: 'down', floor: 5,   ceiling: 40,  sensitivity: 0.8 },
+  netanyahuLegalJeopardy:{ baseline: 82,  direction: 'up',   floor: 50,  ceiling: 100, sensitivity: 1.0 },
+  iranRegimeCohesion:    { baseline: 40,  direction: 'up',   floor: 15,  ceiling: 75,  sensitivity: 1.5 },
+  trumpDomesticPressure: { baseline: 65,  direction: 'up',   floor: 30,  ceiling: 95,  sensitivity: 1.0 },
+  pakistanEconomicStress:{ baseline: 68,  direction: 'up',   floor: 30,  ceiling: 95,  sensitivity: 1.2 }
+};
+
+// Also map leader watch terms to dimension signals
+const LEADER_VAR_MAP = {
+  'straitControl':          ['Mojtaba Khamenei', 'Mohammed bin Salman', 'Xi Jinping'],
+  'nuclearSignalling':      ['Kim Jong-un', 'Vladimir Putin', 'General Asim Munir', 'Narendra Modi'],
+  'congressConstraint':     ['Donald J. Trump'],
+  'diplomaticChannels':     ['Donald J. Trump', 'Mojtaba Khamenei', 'Recep Tayyip Erdogan'],
+  'netanyahuLegalJeopardy': ['Benjamin Netanyahu'],
+  'iranRegimeCohesion':     ['Mojtaba Khamenei'],
+  'trumpDomesticPressure':  ['Donald J. Trump'],
+  'pakistanEconomicStress': ['General Asim Munir']
+};
+
+function computeVariables() {
+  // Load history and live_variables
+  const history = readJSON(HISTORY_FILE, { items: [] });
+  const news    = readJSON(NEWS_FILE, { live_variables: {} });
+  const items   = history.items || [];
+
+  // Start with oil from live_variables (real Brent price)
+  const computed = {};
+
+  // Oil stress: directly from live commodity feed
+  if (news.live_variables && news.live_variables.oilStress != null) {
+    computed.oilPrice = news.live_variables.oilStress;
+  }
+
+  // For each other variable, scan history items
+  const now = Date.now();
+  const RECENCY_DAYS = 14; // weight recent items more heavily
+  const cutoff = new Date(now - RECENCY_DAYS * 24 * 60 * 60 * 1000).toISOString().slice(0, 10);
+
+  Object.keys(VAR_CONFIG).forEach(varKey => {
+    if (varKey === 'oilPrice') return; // already computed above
+
+    const cfg = VAR_CONFIG[varKey];
+
+    // Find items relevant to this variable
+    const relevant = items.filter(item => {
+      if (item.variable_key === varKey) return true;
+      // Also include high-escalation items for leaders mapped to this variable
+      const mappedLeaders = LEADER_VAR_MAP[varKey] || [];
+      return mappedLeaders.some(l => (item.leaders || []).includes(l)) && (item.escalation || 0) >= 3;
+    });
+
+    if (relevant.length === 0) {
+      computed[varKey] = cfg.baseline;
+      return;
+    }
+
+    // Compute signal intensity: weighted average escalation × source diversity × recency
+    let totalSignal = 0;
+    let totalWeight = 0;
+    const blocs = new Set();
+
+    relevant.forEach(item => {
+      const esc = item.escalation || 2;
+      const recency = (item.date || '') >= cutoff ? 1.5 : 1.0;
+      const weight = esc * recency;
+      totalSignal += esc * weight;
+      totalWeight += weight;
+      if (item.bloc) blocs.add(item.bloc);
+    });
+
+    const avgEsc    = totalWeight > 0 ? totalSignal / totalWeight : 2;
+    const diversity = Math.min(blocs.size / 2, 1.5); // 2+ blocs = full weight
+    const intensity = (avgEsc / 5) * diversity * cfg.sensitivity;
+
+    // Apply to baseline
+    let value;
+    if (cfg.direction === 'up') {
+      // More news = higher value (worse situation)
+      const push = intensity * (cfg.ceiling - cfg.baseline) * 0.4;
+      value = cfg.baseline + push;
+    } else {
+      // More news = lower value (guardrails eroding)
+      const push = intensity * (cfg.baseline - cfg.floor) * 0.4;
+      value = cfg.baseline - push;
+    }
+
+    computed[varKey] = Math.round(Math.max(cfg.floor, Math.min(cfg.ceiling, value)));
+  });
+
+  return computed;
+}
+
+app.get('/api/variables', (req, res) => {
+  try {
+    const computed = computeVariables();
+    res.set('Cache-Control', 'public, max-age=300');
+    res.set('Access-Control-Allow-Origin', '*');
+    res.json({
+      variables: computed,
+      ts: new Date().toISOString(),
+      source: 'news_history.json + live_variables'
+    });
+  } catch(e) {
+    console.error('/api/variables error:', e.message);
+    res.status(500).json({ error: e.message });
+  }
 });
 
 // ── HEALTH CHECK ──

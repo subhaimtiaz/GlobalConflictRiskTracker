@@ -1386,7 +1386,10 @@ function calc(){
   VDEFS.forEach(function(vd){if(vd.w>0&&vd.g!=='Guardrails (higher=safer)'){raw+=V[vd.k]*vd.w;tw+=vd.w;}});
   var base=tw>0?raw/tw:50;
   var risk=Math.round(base*(1-guardrail*0.4));
-  return{negotiation:Math.max(2,Math.round((100-risk)*0.08)),stalemate:Math.max(5,Math.round(risk*0.15)),escalation:Math.round(risk*0.35),cascade:Math.round(risk*0.22),southasia:Math.round(risk*0.25)};
+  var rNeg=Math.max(2,(100-risk)*0.08),rSta=Math.max(5,risk*0.15),rEsc=risk*0.35,rCas=risk*0.22,rSou=risk*0.25;
+  var total=rNeg+rSta+rEsc+rCas+rSou;
+  var s=total>0?100/total:1;
+  return{negotiation:Math.round(rNeg*s),stalemate:Math.round(rSta*s),escalation:Math.round(rEsc*s),cascade:Math.round(rCas*s),southasia:Math.round(rSou*s)};
 }
 function renderOutcomes(p){
   var el=document.getElementById('ocRow');if(!el)return;

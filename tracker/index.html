@@ -634,9 +634,9 @@ function mnav(id){closeMenu();showPage(id);}
   <div class="rpd-inner">
     <div class="rpd-title"><span>Live Metrics</span><button class="rpd-close" onclick="closeDrawer()">&#10005;</button></div>
     <div class="rpd-item"><div class="rpd-top"><div class="rpd-name">Doomsday Clock</div><div class="rpd-val" style="color:var(--mu2)">89s</div></div><div class="rpd-bar"><div class="rpd-fill" style="width:98%;background:var(--mu2)"></div></div><div class="rpd-desc">Set Jan 2026. Closest to midnight in history.</div></div>
-    <div class="rpd-item"><div class="rpd-top"><div class="rpd-name">Escalation Risk</div><div class="rpd-val r" id="drawerEsc" style="color:var(--mu2)">26%</div></div><div class="rpd-bar"><div class="rpd-fill" style="width:26%;background:var(--mu2)"></div></div><div class="rpd-desc">Composite probability weighted across 15 variables and 11 leader profiles.</div></div>
-    <div class="rpd-item"><div class="rpd-top"><div class="rpd-name">Brent Crude</div><div class="rpd-val" id="drawerOil" style="color:var(--au2)">$97</div></div><div class="rpd-bar"><div class="rpd-fill" style="width:62%;background:var(--au)"></div></div><div class="rpd-desc">Live spot price. Pre-war baseline $67/bbl.</div></div>
-    <div class="rpd-item"><div class="rpd-top"><div class="rpd-name">Narcissism Index</div><div class="rpd-val wh">78</div></div><div class="rpd-bar"><div class="rpd-fill" style="width:78%;background:var(--mu)"></div></div><div class="rpd-desc">Aggregate across 11 leaders.</div></div>
+    <div class="rpd-item"><div class="rpd-top"><div class="rpd-name">Escalation Risk</div><div class="rpd-val r" id="drawerEsc" style="color:var(--mu2)">26%</div></div><div class="rpd-bar"><div class="rpd-fill" id="drawerEscBar" style="width:26%;background:var(--mu2)"></div></div><div class="rpd-desc">Composite probability weighted across 15 variables and 11 leader profiles.</div></div>
+    <div class="rpd-item"><div class="rpd-top"><div class="rpd-name">Brent Crude</div><div class="rpd-val" id="drawerOil" style="color:var(--au2)">--</div></div><div class="rpd-bar"><div class="rpd-fill" id="drawerOilBar" style="width:0%;background:var(--au)"></div></div><div class="rpd-desc">Live spot price. Pre-war baseline $67/bbl.</div></div>
+    <div class="rpd-item"><div class="rpd-top"><div class="rpd-name">Narcissism Index</div><div class="rpd-val wh" id="drawerNarc">78</div></div><div class="rpd-bar"><div class="rpd-fill" id="drawerNarcBar" style="width:78%;background:var(--mu)"></div></div><div class="rpd-desc">Aggregate across 11 leaders.</div></div>
     <div class="rpd-item"><div class="rpd-top"><div class="rpd-name">Negotiation Chance</div><div class="rpd-val" id="drawerNeg" style="color:var(--g3)">3%</div></div><div class="rpd-bar"><div class="rpd-fill" style="width:3%;background:var(--g3)"></div></div><div class="rpd-desc">Oman breakthrough Feb 27 destroyed by strikes the next day.</div></div>
     <div class="rpd-item"><div class="rpd-top"><div class="rpd-name">Leaders Assessed</div><div class="rpd-val au">11</div></div><div class="rpd-bar"><div class="rpd-fill" style="width:100%;background:var(--au)"></div></div><div class="rpd-desc">All 11: high survival incentive, low accountability exposure.</div></div>
   </div>
@@ -647,8 +647,8 @@ function mnav(id){closeMenu();showPage(id);}
   <div class="rp-dot"></div>
   <div class="rp-item"><div class="rp-val r">89s</div><div class="rp-lbl">To<br>Midnight</div></div>
   <div class="rp-item"><div class="rp-val r" id="rpEsc">26%</div><div class="rp-lbl">Esc<br>Risk</div></div>
-  <div class="rp-item"><div class="rp-val au" id="rpOil">$97</div><div class="rp-lbl">Brent<br>Oil</div></div>
-  <div class="rp-item"><div class="rp-val wh">78</div><div class="rp-lbl">Narc<br>Index</div></div>
+  <div class="rp-item"><div class="rp-val au" id="rpOil">--</div><div class="rp-lbl">Brent<br>Oil</div></div>
+  <div class="rp-item"><div class="rp-val wh" id="rpNarc">78</div><div class="rp-lbl">Narc<br>Index</div></div>
   <div class="rp-item"><div class="rp-val" id="rpNeg">3%</div><div class="rp-lbl">Neg<br>Chance</div></div>
   <div class="rp-item"><div class="rp-val au">11</div><div class="rp-lbl">Leaders<br>Assessed</div></div>
 </div>
@@ -668,11 +668,11 @@ function mnav(id){closeMenu();showPage(id);}
   </div>
   <div class="stats">
     <div class="stat"><div class="sv mu">89s</div><div class="sl">To Midnight</div></div>
-    <div class="stat"><div class="sv mu">26%</div><div class="sl">Escalation Risk</div></div>
-    <div class="stat"><div class="sv au">78</div><div class="sl">Narcissism Index</div></div>
+    <div class="stat"><div class="sv mu" id="lpEsc">26%</div><div class="sl">Escalation Risk</div></div>
+    <div class="stat"><div class="sv au" id="lpNarc">78</div><div class="sl">Narcissism Index</div></div>
     <div class="stat"><div class="sv g">11</div><div class="sl">Leader Profiles</div></div>
     <div class="stat"><div class="sv g">15</div><div class="sl">Live Variables</div></div>
-    <div class="stat"><div class="sv g">3%</div><div class="sl">Negotiation Chance</div></div>
+    <div class="stat"><div class="sv g" id="lpNeg">3%</div><div class="sl">Negotiation Chance</div></div>
   </div>
   <div class="sec">
     <div class="sec-lbl">The Thesis</div>
@@ -1329,6 +1329,16 @@ function markReviewed(type,key){
 var V_DEFAULTS={oilPrice:0,straitControl:0,weaponsDepletion:0,nuclearSignalling:0,cyberIntensity:0,proxyActivation:0,trumpDomesticPressure:0,netanyahuLegalJeopardy:0,pakistanEconomicStress:0,iranRegimeCohesion:0,congressConstraint:0,diplomaticChannels:0,armsControlArchitecture:0,narcissismCoefficient:0,groupthinkRisk:0};
 var V=(function(){try{var s=localStorage.getItem('agra_vars');if(s){var p=JSON.parse(s);var v={};Object.keys(V_DEFAULTS).forEach(function(k){v[k]=p[k]!=null?p[k]:V_DEFAULTS[k];});return v;}}catch(e){}return JSON.parse(JSON.stringify(V_DEFAULTS));})();
 function saveVars(){try{localStorage.setItem('agra_vars',JSON.stringify(V));}catch(e){}}
+function updateOilDisplay(price){
+  if(!price)return;
+  _lastOilPrice=price;
+  try{localStorage.setItem('agra_oilPrice',String(price));}catch(e){}
+  ['rpOil','drawerOil'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent='$'+price;});
+  var ov=document.getElementById('oilV');if(ov)ov.textContent='$'+price+'.00';
+  var os=document.getElementById('oilSrc');if(os)os.textContent='LIVE';
+  var strip=document.getElementById('oilS');if(strip)strip.style.display='flex';
+  var ob=document.getElementById('drawerOilBar');if(ob)ob.style.width=Math.min(100,Math.round((price/200)*100))+'%';
+}
 var _lastOilPrice=(function(){try{return localStorage.getItem('agra_oilPrice')||null;}catch(e){return null;}})();
 var _lastFeed=(function(){try{var s=localStorage.getItem('agra_feed');return s?JSON.parse(s):null;}catch(e){return null;}})();
 var VDEFS=[
@@ -1388,8 +1398,18 @@ function renderVars(){
 function updateAll(){
   var p=calc();renderOutcomes(p);
   var mx=Math.max(p.escalation,p.cascade,p.southasia);
-  ['rpEsc','drawerEsc'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent=mx+'%';});
-  ['rpNeg','drawerNeg'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent=p.negotiation+'%';});
+  // Update escalation risk everywhere (dashboard + drawer + landing page)
+  ['rpEsc','drawerEsc','lpEsc'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent=mx+'%';});
+  var eb=document.getElementById('drawerEscBar');if(eb)eb.style.width=mx+'%';
+  // Update negotiation chance everywhere
+  ['rpNeg','drawerNeg','lpNeg'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent=p.negotiation+'%';});
+  // Update narcissism index from leader data
+  if(LEADERS&&LEADERS.length){
+    var narcSum=0;LEADERS.forEach(function(l){narcSum+=(l.dims&&l.dims.narcissism)||0;});
+    var narcAvg=Math.round(narcSum/LEADERS.length);
+    ['rpNarc','drawerNarc','lpNarc'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent=narcAvg;});
+    var nb=document.getElementById('drawerNarcBar');if(nb)nb.style.width=narcAvg+'%';
+  }
 }
 function renderTheatres(data){
   var el=document.getElementById('thList');if(!el)return;
@@ -1461,10 +1481,7 @@ function fetchLive(){
     .catch(function(){
       if(sp)sp.className='spill';if(st)st.textContent='OFFLINE · LAST KNOWN';
       if(_lastFeed)renderFeed(_lastFeed);else renderFeed(null);
-      if(_lastOilPrice){
-        ['rpOil','drawerOil'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent='$'+_lastOilPrice;});
-        var ov=document.getElementById('oilV');if(ov)ov.textContent='$'+_lastOilPrice;
-      }
+      if(_lastOilPrice)updateOilDisplay(_lastOilPrice);
       fetchNews();fetchVariables();
     });
 }
@@ -1480,13 +1497,7 @@ function fetchNews(){
         renderVars();updateAll();
       }
       if(d.live_variables&&d.live_variables.oilPrice){
-        var op=d.live_variables.oilPrice;
-        _lastOilPrice=op;
-        try{localStorage.setItem('agra_oilPrice',String(op));}catch(e){}
-        ['rpOil','drawerOil'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent='$'+op;});
-        var ov=document.getElementById('oilV');if(ov)ov.textContent='$'+op+'.00';
-        var os=document.getElementById('oilSrc');if(os)os.textContent='LIVE';
-        var strip=document.getElementById('oilS');if(strip)strip.style.display='flex';
+        updateOilDisplay(d.live_variables.oilPrice);
       }
       // Blend verified news items into the intelligence feed
       if(d.items&&d.items.length){
@@ -1537,11 +1548,7 @@ function initDash(){
   var p=calc();renderOutcomes(p);renderVars();renderTheatres(null);
   // Show cached feed + oil immediately, then fetch fresh data
   if(_lastFeed)renderFeed(_lastFeed);else renderFeed(null);
-  if(_lastOilPrice){
-    ['rpOil','drawerOil'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent='$'+_lastOilPrice;});
-    var ov=document.getElementById('oilV');if(ov)ov.textContent='$'+_lastOilPrice;
-    var strip=document.getElementById('oilS');if(strip)strip.style.display='flex';
-  }
+  if(_lastOilPrice)updateOilDisplay(_lastOilPrice);
   renderLDash();
   fetchLive();fetchNews();fetchVariables();setInterval(tick,1000);
 }

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-03T21:51:21.343Z",
+  "updated": "2026-04-03T22:38:08.289Z",
   "retention_days": 30,
   "items": [
     {
@@ -1771,7 +1771,303 @@
       "_from": "claude",
       "first_seen": "2026-04-03T21:07:04.183Z",
       "run_id": "2026-04-03T21:07"
+    },
+    {
+      "headline": "World anxious to open Hormuz Strait while Trump and Iran trade threats",
+      "summary": "Dozens of countries sought ways to restart vital energy shipments through the Strait of Hormuz on Thursday after U.S. President Donald Trump vowed more aggressive strikes on Iran, sending oil prices higher again and deepening strain on consumers. In a speech …",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/world-anxious-to-open-hormuz-strait-while-trump-and-iran-trade-threats2",
+      "bloc": "western",
+      "date": "2026-04-02",
+      "datetime": "2026-04-02T21:34:11Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-03T22:15:56.051Z",
+      "run_id": "2026-04-03T22:15"
+    },
+    {
+      "headline": "Iran's IRGC announces Tehran will leverage Strait of Hormuz closure to ensure regime survival, signals permanent blockade strategy",
+      "summary": "Multiple Iranian officials confirmed Iran views Strait of Hormuz control as essential for regime survival and will not accept ceasefire unless US-Israel halt all attacks permanently. Senior officials discussing strait's value as long-term leverage beyond war's end.",
+      "source": "Critical Threats Project",
+      "url": "https://www.criticalthreats.org/analysis/iran-update-evening-special-report-april-1-2026",
+      "bloc": "institutional",
+      "date": "2026-04-01",
+      "datetime": "2026-04-01T19:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Strait Hormuz",
+        "Iran ceasefire",
+        "Supreme Leader Iran"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "iran_survival",
+      "event_type": "leader_statement",
+      "escalation": 4,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Mojtaba Khamenei",
+        "dimension": "survival",
+        "proposed_delta": 3,
+        "rationale": "First public address emphasizing Strait leverage 'must continue to be used' for regime survival",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T22:15:56.051Z",
+      "run_id": "2026-04-03T22:15"
+    },
+    {
+      "headline": "Trump's approval rating hits new low at 35-39% as Iran war opposition reaches 59%, bipartisan war powers resolutions fail in Congress",
+      "summary": "Multiple polling shows Trump approval declining to lowest levels of second term amid Iran war fatigue. Senate rejected war powers resolution 47-53, House expected to fail similarly, marking Congress as bystander to military operations.",
+      "source": "Yahoo News",
+      "url": "https://www.yahoo.com/news/articles/donald-trumps-latest-approval-numbers-000818186.html",
+      "bloc": "western",
+      "date": "2026-04-02",
+      "datetime": "2026-04-02T12:00:00Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "approval rating",
+        "War Powers",
+        "AUMF"
+      ],
+      "dimensions": [
+        "accountability"
+      ],
+      "variable_key": "trump_approval",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Donald J. Trump",
+        "dimension": "accountability",
+        "proposed_delta": -2,
+        "rationale": "Approval rating decline to lowest levels shows reduced political accountability and public support",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T22:15:56.051Z",
+      "run_id": "2026-04-03T22:15"
+    },
+    {
+      "headline": "US Intelligence Community formally groups Pakistan with Iran and North Korea as direct threat to global stability under Asim Munir",
+      "summary": "2026 US assessment explicitly cites Pakistan's ICBM development while on IMF life support as 'strategic recklessness.' Validates India's terror concerns, specifically referencing April 2025 Pahalgam attack where 26 died.",
+      "source": "New Kerala",
+      "url": "https://www.newkerala.com/news/a/pakistans-military-pushes-icbm-ambitions-as-ordinary-citizens-817.htm",
+      "bloc": "western",
+      "date": "2026-03-27",
+      "datetime": "2026-03-27T14:00:00Z",
+      "leaders": [
+        "General Asim Munir"
+      ],
+      "watch_terms": [
+        "Pakistan nuclear",
+        "Munir",
+        "IMF Pakistan"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "pak_threat_level",
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "General Asim Munir",
+        "dimension": "impulsivity",
+        "proposed_delta": 2,
+        "rationale": "Pursuing ICBM development while nation survives on IMF aid shows strategic recklessness and impulsive decision-making",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T22:15:56.051Z",
+      "run_id": "2026-04-03T22:15"
+    },
+    {
+      "headline": "China secretly expands nuclear weapons facilities in Sichuan after village evictions, CNN investigation reveals major escalation",
+      "summary": "Satellite imagery shows massive nuclear weapons production expansion after villagers evacuated. Xi Jinping instructed military to 'accelerate strategic deterrence construction' as PLA faces leadership vacuum with 41 of 47 three-star generals purged.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/04/01/china/investigates-china-secretly-expanding-nuclear-weapons-infrastructure-intl-invs",
+      "bloc": "western",
+      "date": "2026-04-01",
+      "datetime": "2026-04-01T15:55:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "China nuclear",
+        "PLA",
+        "Xi Jinping"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "china_nuclear_expansion",
+      "event_type": "infrastructure_attack",
+      "escalation": 5,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Xi Jinping",
+        "dimension": "survival",
+        "proposed_delta": 3,
+        "rationale": "Secret nuclear expansion and military purges show heightened survival instincts amid Iran war pressures",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T22:15:56.051Z",
+      "run_id": "2026-04-03T22:15"
+    },
+    {
+      "headline": "Iran demands sovereignty recognition over Strait of Hormuz, proposes $800 million monthly toll system",
+      "summary": "Iranian official adds new demand not previously in Tehran's negotiation list. At $2 million per tanker, proposed fees could generate $600-800 million monthly, equivalent to 15-20% of Iran's pre-war oil revenue.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/03/28/middleeast/iran-strait-of-hormuz-toll-intl",
+      "bloc": "western",
+      "date": "2026-03-28",
+      "datetime": "2026-03-28T16:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Strait Hormuz",
+        "Iran ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "strait_monetization",
+      "event_type": "leader_statement",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "claude",
+      "first_seen": "2026-04-03T22:15:56.051Z",
+      "run_id": "2026-04-03T22:15"
+    },
+    {
+      "headline": "Radio Farda reports US destroys 16 Iranian mine-laying ships in Strait of Hormuz following Trump warnings",
+      "summary": "US Central Command released footage of strikes on Iranian vessels on March 10. Iran women's soccer team denounced as 'wartime traitors' by state TV for refusing to sing anthem at Asian Cup.",
+      "source": "Radio Farda",
+      "url": "https://www.rferl.org/author/rfe-rls-radio-farda/g_t_qo",
+      "bloc": "persian",
+      "date": "2026-03-11",
+      "datetime": "2026-03-11T14:00:00Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "Strait Hormuz",
+        "War Powers"
+      ],
+      "dimensions": [
+        "impulsivity"
+      ],
+      "variable_key": "mine_ship_strikes",
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "claude",
+      "first_seen": "2026-04-03T22:15:56.051Z",
+      "run_id": "2026-04-03T22:15"
+    },
+    {
+      "headline": "Iran strikes Oracle data center in Dubai, targets US tech infrastructure in retaliation for cyber operations",
+      "summary": "IRGC announced targeting American company Oracle's Dubai facility, escalating beyond traditional military targets. Represents expansion of Iran's retaliation strategy to include critical technology infrastructure.",
+      "source": "Pravda EU",
+      "url": "https://eu.news-pravda.com/russia/2026/04/02/182900.html",
+      "bloc": "regional",
+      "date": "2026-04-02",
+      "datetime": "2026-04-02T10:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "IRGC",
+        "nuclear Iran"
+      ],
+      "dimensions": [
+        "impulsivity"
+      ],
+      "variable_key": "iran_cyber_escalation",
+      "event_type": "infrastructure_attack",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "claude",
+      "first_seen": "2026-04-03T22:15:56.051Z",
+      "run_id": "2026-04-03T22:15"
+    },
+    {
+      "headline": "China and Pakistan jointly propose Iran ceasefire plan requiring immediate halt to critical infrastructure attacks",
+      "summary": "Beijing-Islamabad proposal demands cessation of attacks on energy, desalination, power generation and nuclear facilities. Pakistan Foreign Minister Ishaq Dar confirms agreement finalized with Chinese Foreign Minister Wang Yi.",
+      "source": "Atalayar",
+      "url": "https://www.atalayar.com/en/articulo/politics/china-and-pakistan-are-pushing-for-ceasefire-negotiations-in-the-iran-conflict/20260401120000224466.html",
+      "bloc": "regional",
+      "date": "2026-04-01",
+      "datetime": "2026-04-01T12:00:00Z",
+      "leaders": [
+        "Xi Jinping",
+        "General Asim Munir"
+      ],
+      "watch_terms": [
+        "China Iran",
+        "China Pakistan",
+        "Pakistan military"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "china_pak_mediation",
+      "event_type": "leader_statement",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "claude",
+      "first_seen": "2026-04-03T22:15:56.051Z",
+      "run_id": "2026-04-03T22:15"
+    },
+    {
+      "headline": "Arms Control Association warns NPT system faces uncertain future as 2026 review conference approaches amid nuclear expansion",
+      "summary": "Conference President Du Hong Viet tells Arms Control Today without consensus outcome 'we may lose credibility of NPT itself.' First time since 1972 no binding limits exist on Russian-US arsenals.",
+      "source": "Arms Control Association",
+      "url": "https://www.armscontrol.org/act/2026-04/focus/npt-system-hangs-balance",
+      "bloc": "institutional",
+      "date": "2026-04-03",
+      "datetime": "2026-04-03T09:00:00Z",
+      "leaders": [],
+      "watch_terms": [],
+      "dimensions": [
+        "accountability"
+      ],
+      "variable_key": "npt_credibility_crisis",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "claude",
+      "first_seen": "2026-04-03T22:15:56.051Z",
+      "run_id": "2026-04-03T22:15"
     }
   ],
-  "total_items_ever": 65
+  "total_items_ever": 77
 }

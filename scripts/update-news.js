@@ -384,7 +384,7 @@ Evaluate the full accumulated evidence. Identify sustained patterns. Return prop
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
       headers: { 'Content-Type':'application/json', 'x-api-key':API_KEY, 'anthropic-version':'2023-06-01' },
-      body: JSON.stringify({ model:MODEL, max_tokens:6000, system, messages:[{role:'user',content:user}] })
+      body: JSON.stringify({ model:'claude-haiku-4-5-20251001', max_tokens:12000, system, messages:[{role:'user',content:user}] })
     });
     if (!res.ok) { const t=await res.text(); throw new Error(`HTTP ${res.status}: ${t.slice(0,300)}`); }
     const data = await res.json();

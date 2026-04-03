@@ -401,18 +401,18 @@ const VAR_CONFIG = {
   // direction: 'up' = high news intensity pushes value up (bad = higher)
   //            'down' = high news intensity pushes value down (bad = lower)
   oilPrice:              { baseline: 47,  direction: 'up',   floor: 0,   ceiling: 100, sensitivity: 1.2 },
-  straitControl:         { baseline: 70,  direction: 'up',   floor: 30,  ceiling: 100, sensitivity: 1.5 },
-  weaponsDepletion:      { baseline: 58,  direction: 'up',   floor: 20,  ceiling: 100, sensitivity: 1.3 },
-  nuclearSignalling:     { baseline: 60,  direction: 'up',   floor: 20,  ceiling: 85,  sensitivity: 1.2 },
-  cyberIntensity:        { baseline: 50,  direction: 'up',   floor: 15,  ceiling: 100, sensitivity: 1.0 },
-  proxyActivation:       { baseline: 62,  direction: 'up',   floor: 20,  ceiling: 100, sensitivity: 1.2 },
-  congressConstraint:    { baseline: 20,  direction: 'down', floor: 5,   ceiling: 50,  sensitivity: 1.0 },
-  diplomaticChannels:    { baseline: 22,  direction: 'down', floor: 5,   ceiling: 60,  sensitivity: 1.2 },
+  straitControl:         { baseline: 70,  direction: 'up',   floor: 30,  ceiling: 100, sensitivity: 0.8 },
+  weaponsDepletion:      { baseline: 58,  direction: 'up',   floor: 20,  ceiling: 100, sensitivity: 0.7 },
+  nuclearSignalling:     { baseline: 60,  direction: 'up',   floor: 20,  ceiling: 100, sensitivity: 0.6 },
+  cyberIntensity:        { baseline: 50,  direction: 'up',   floor: 15,  ceiling: 100, sensitivity: 0.5 },
+  proxyActivation:       { baseline: 62,  direction: 'up',   floor: 20,  ceiling: 100, sensitivity: 0.8 },
+  congressConstraint:    { baseline: 20,  direction: 'down', floor: 5,   ceiling: 50,  sensitivity: 0.7 },
+  diplomaticChannels:    { baseline: 22,  direction: 'down', floor: 5,   ceiling: 60,  sensitivity: 0.5 },
   armsControlArchitecture:{ baseline: 15, direction: 'down', floor: 5,   ceiling: 40,  sensitivity: 0.8 },
-  netanyahuLegalJeopardy:{ baseline: 82,  direction: 'up',   floor: 50,  ceiling: 100, sensitivity: 1.0 },
-  iranRegimeCohesion:    { baseline: 40,  direction: 'up',   floor: 15,  ceiling: 75,  sensitivity: 1.5 },
-  trumpDomesticPressure: { baseline: 65,  direction: 'up',   floor: 30,  ceiling: 95,  sensitivity: 1.0 },
-  pakistanEconomicStress:{ baseline: 68,  direction: 'up',   floor: 30,  ceiling: 95,  sensitivity: 1.2 }
+  netanyahuLegalJeopardy:{ baseline: 82,  direction: 'up',   floor: 50,  ceiling: 100, sensitivity: 0.8 },
+  iranRegimeCohesion:    { baseline: 40,  direction: 'up',   floor: 15,  ceiling: 75,  sensitivity: 0.8 },
+  trumpDomesticPressure: { baseline: 65,  direction: 'up',   floor: 30,  ceiling: 95,  sensitivity: 0.6 },
+  pakistanEconomicStress:{ baseline: 68,  direction: 'up',   floor: 30,  ceiling: 95,  sensitivity: 0.7 }
 };
 
 // Also map leader watch terms to dimension signals

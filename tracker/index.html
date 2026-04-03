@@ -891,25 +891,24 @@ var WATCH_STATE={leaders:{},vars:{}};
 function loadLeaders(cb){
   if(LEADERS&&LEADERS.length){if(cb)cb();return;}
   // Try localStorage first for instant render
-  try{var cached=localStorage.getItem('agra_leaders');if(cached){var cd=JSON.parse(cached);if(cd.leaders&&cd.leaders.length){LEADERS=cd.leaders;console.log('Leaders from localStorage:',LEADERS.length);}}}catch(e){}
+  try{var cached=localStorage.getItem('agra_leaders');if(cached){var cd=JSON.parse(cached);var arr=Array.isArray(cd.leaders)?cd.leaders:(cd.leaders&&cd.leaders.leaders)||[];if(arr.length){LEADERS=arr;console.log('Leaders from localStorage:',LEADERS.length);}}}catch(e){}
   fetch(API+'/api/leaders')
     .then(function(r){if(!r.ok)throw new Error('HTTP '+r.status);return r.json();})
     .then(function(d){
-      if(d.leaders&&d.leaders.length){
-        LEADERS=d.leaders;
-        try{localStorage.setItem('agra_leaders',JSON.stringify(d));}catch(e){}
+      // Handle both {leaders:[...]} and nested {leaders:{leaders:[...]}}
+      var arr=Array.isArray(d.leaders)?d.leaders:(d.leaders&&d.leaders.leaders)||[];
+      if(arr.length){
+        LEADERS=arr;
+        try{localStorage.setItem('agra_leaders',JSON.stringify({leaders:arr}));}catch(e){}
         console.log('Leaders loaded from API:',LEADERS.length);
-      }
-      else{console.warn('API returned no leaders');}
+      } else{console.warn('API returned no leaders');}
+      // Fallback if still empty
+      if(!LEADERS.length&&LEADERS_FALLBACK&&LEADERS_FALLBACK.length){LEADERS=LEADERS_FALLBACK;console.log('Using fallback:',LEADERS.length);}
       if(cb)cb();
     })
     .catch(function(e){
       console.warn('API unavailable:',e.message);
-      // Only use hardcoded fallback if both API and localStorage failed
-      if(!LEADERS.length&&LEADERS_FALLBACK&&LEADERS_FALLBACK.length){
-        LEADERS=LEADERS_FALLBACK;
-        console.log('Using hardcoded fallback:',LEADERS.length,'leaders');
-      }
+      if(!LEADERS.length&&LEADERS_FALLBACK&&LEADERS_FALLBACK.length){LEADERS=LEADERS_FALLBACK;console.log('Using fallback:',LEADERS.length);}
       if(cb)cb();
     });
 }

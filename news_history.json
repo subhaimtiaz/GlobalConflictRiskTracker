@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-03T19:58:01.568Z",
+  "updated": "2026-04-03T21:07:04.183Z",
   "retention_days": 30,
   "items": [
     {
@@ -1468,7 +1468,379 @@
       "_from": "claude",
       "first_seen": "2026-04-03T19:58:01.568Z",
       "run_id": "2026-04-03T19:58"
+    },
+    {
+      "headline": "US Burned 14 Years of Missiles in 30 Days",
+      "summary": "The US fired 850 Tomahawk missiles in 30 days but buys only 57 a year. As munitions run dry, the Pentagon pivots to ground troops in Iran, guaranteeing the Strait of Hormuz stays closed, European gas storage hits crisis levels, and Western energy prices keep …",
+      "source": "Trendytechtribe.com",
+      "url": "https://trendytechtribe.com/energy/us-burned-14-years-missiles-30-days",
+      "bloc": "western",
+      "date": "2026-04-02",
+      "datetime": "2026-04-02T20:24:11Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-03T21:07:04.183Z",
+      "run_id": "2026-04-03T21:07"
+    },
+    {
+      "headline": "Mojtaba Khamenei Issues First Written Message as Supreme Leader Amid Questions Over Health",
+      "summary": "Iran's new Supreme Leader Mojtaba Khamenei released his first written statement without appearing on video. The message was read by a state television anchor while displaying a still photograph of him, raising questions about his condition following reports he may have been injured during strikes that killed his father.",
+      "source": "Iran International",
+      "url": null,
+      "bloc": "persian",
+      "date": "2026-03-30",
+      "datetime": "2026-03-30T15:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Supreme Leader Iran",
+        "IRGC",
+        "Strait Hormuz"
+      ],
+      "dimensions": [
+        "accountability",
+        "survival"
+      ],
+      "variable_key": "mojtaba_first_statement",
+      "event_type": "leader_statement",
+      "escalation": 4,
+      "persian_only": true,
+      "dimension_signal": {
+        "leader": "Mojtaba Khamenei",
+        "dimension": "accountability",
+        "proposed_delta": -2,
+        "rationale": "First statement delivered only in writing through TV anchor raises transparency concerns about leadership",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T21:07:04.183Z",
+      "run_id": "2026-04-03T21:07"
+    },
+    {
+      "headline": "Netanyahu Expected to Visit Hungary Despite ICC Arrest Warrant",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu is expected to travel to Hungary on March 21 to speak at Conservative Political Action Conference. Human Rights Watch urges Hungarian authorities to arrest him under ICC obligations, though Hungary previously failed to comply during his April 2025 visit.",
+      "source": "Human Rights Watch",
+      "url": null,
+      "bloc": "institutional",
+      "date": "2026-03-20",
+      "datetime": "2026-03-20T14:00:00Z",
+      "leaders": [
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "trial hearing",
+        "ICC Netanyahu"
+      ],
+      "dimensions": [
+        "accountability"
+      ],
+      "variable_key": "netanyahu_hungary_visit",
+      "event_type": "leader_statement",
+      "escalation": 3,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Benjamin Netanyahu",
+        "dimension": "accountability",
+        "proposed_delta": -1,
+        "rationale": "Deliberately avoiding ICC member states where arrest warrant would be enforced",
+        "confidence": "medium"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T21:07:04.183Z",
+      "run_id": "2026-04-03T21:07"
+    },
+    {
+      "headline": "Pakistan's Army Chief Emerges as Key Iran-US Mediator as India Feels Marginalized",
+      "summary": "Field Marshal Asim Munir has positioned himself as central mediator between US and Iran, delivering a 15-point US peace plan to Tehran. This diplomatic role marks a humiliating failure for Modi's foreign policy which sought to isolate Pakistan, leaving India relegated to a single phone call from Trump.",
+      "source": "Foreign Policy",
+      "url": null,
+      "bloc": "western",
+      "date": "2026-04-03",
+      "datetime": "2026-04-03T09:00:00Z",
+      "leaders": [
+        "General Asim Munir",
+        "Narendra Modi"
+      ],
+      "watch_terms": [
+        "Pakistan military",
+        "India Pakistan"
+      ],
+      "dimensions": [
+        "values",
+        "narcissism"
+      ],
+      "variable_key": "pakistan_mediation_role",
+      "event_type": "leader_statement",
+      "escalation": 2,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "General Asim Munir",
+        "dimension": "values",
+        "proposed_delta": 1,
+        "rationale": "Successfully positioning Pakistan as neutral mediator enhances diplomatic standing",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T21:07:04.183Z",
+      "run_id": "2026-04-03T21:07"
+    },
+    {
+      "headline": "Taiwan Opposition Leader Accepts Xi Jinping's Invitation to Visit China",
+      "summary": "Kuomintang chairperson Cheng Li-wun accepted an invitation from Chinese leader Xi Jinping to visit China from April 7-12. The visit comes amid tensions as Taiwan's DPP accuses Cheng of doing Beijing's bidding by stalling government defense spending plans.",
+      "source": "The Manila Times",
+      "url": null,
+      "bloc": "regional",
+      "date": "2026-03-31",
+      "datetime": "2026-03-31T12:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "China Taiwan",
+        "China nuclear"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "xi_taiwan_opposition",
+      "event_type": "leader_statement",
+      "escalation": 3,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Xi Jinping",
+        "dimension": "values",
+        "proposed_delta": 1,
+        "rationale": "Engaging Taiwan opposition demonstrates continued diplomatic approach over military confrontation",
+        "confidence": "medium"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T21:07:04.183Z",
+      "run_id": "2026-04-03T21:07"
+    },
+    {
+      "headline": "Trump Approaches 60-Day War Powers Deadline Without Clear Iran Exit Strategy",
+      "summary": "President Trump faces the War Powers Resolution 60-day deadline while projecting confidence about Iran campaign completion. He threatens to hit Iran 'extremely hard over next 2-3 weeks' but offers no definitive end date, creating tension between promised timeline and legal requirements.",
+      "source": "Military.com",
+      "url": null,
+      "bloc": "western",
+      "date": "2026-04-02",
+      "datetime": "2026-04-02T16:00:00Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "War Powers",
+        "Iran ceasefire",
+        "AUMF"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": "trump_war_powers_deadline",
+      "event_type": "leader_statement",
+      "escalation": 5,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Donald J. Trump",
+        "dimension": "impulsivity",
+        "proposed_delta": 1,
+        "rationale": "Continuing military operations without clear exit strategy while approaching legal deadline",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T21:07:04.183Z",
+      "run_id": "2026-04-03T21:07"
+    },
+    {
+      "headline": "North Korea Launches Massive Ballistic Missile Barrage Amid US-South Korea Drills",
+      "summary": "North Korea fired 10 ballistic missiles simultaneously in an unusual large-scale test, with 600mm-caliber ultra-precision multiple rocket launchers achieving 100 percent accuracy against targets 364.4 km away. The unprecedented scale appears calculated to project power during global volatility while US resources are stretched by Iran conflict.",
+      "source": "The Diplomat",
+      "url": null,
+      "bloc": "regional",
+      "date": "2026-03-15",
+      "datetime": "2026-03-15T07:50:00Z",
+      "leaders": [
+        "Kim Jong-un"
+      ],
+      "watch_terms": [
+        "DPRK missile",
+        "North Korea nuclear"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "survival"
+      ],
+      "variable_key": "dprk_massive_barrage",
+      "event_type": "regional_strike",
+      "escalation": 4,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Kim Jong-un",
+        "dimension": "impulsivity",
+        "proposed_delta": 1,
+        "rationale": "Unusually large-scale missile test during US-Iran conflict demonstrates opportunistic escalation",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T21:07:04.183Z",
+      "run_id": "2026-04-03T21:07"
+    },
+    {
+      "headline": "Pakistan Army Deploys 'Ghatak' Units Along India Border Amid Iran Mediation Role",
+      "summary": "Despite Pakistan's diplomatic mediation role, General Asim Munir has deployed specialized 'killer' units along the Jammu-Rajouri border. Intelligence reports indicate Pakistani terrorist groups are planning Border Action Team attacks targeting Indian Army personnel, with three separate groups active in the LoC sector.",
+      "source": "India.com",
+      "url": null,
+      "bloc": "regional",
+      "date": "2026-01-22",
+      "datetime": "2026-01-22T14:00:00Z",
+      "leaders": [
+        "General Asim Munir"
+      ],
+      "watch_terms": [
+        "Pakistan military",
+        "LoC violations",
+        "Pakistan nuclear"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "survival"
+      ],
+      "variable_key": "pakistan_ghatak_deployment",
+      "event_type": "infrastructure_attack",
+      "escalation": 4,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "General Asim Munir",
+        "dimension": "impulsivity",
+        "proposed_delta": 1,
+        "rationale": "Deploying attack units while serving as peace mediator shows contradictory military posturing",
+        "confidence": "medium"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T21:07:04.183Z",
+      "run_id": "2026-04-03T21:07"
+    },
+    {
+      "headline": "Senate Rejects War Powers Resolution to Constrain Trump on Iran by 53-47 Vote",
+      "summary": "The Senate rejected a war powers resolution seeking to force President Trump to get congressional consent for military actions against Iran. The vote reflects Congress becoming more of a bystander than decider on US military operations, as Trump reportedly prepares to request $50 billion in supplemental funding.",
+      "source": "Constitution Center",
+      "url": null,
+      "bloc": "western",
+      "date": "2026-03-04",
+      "datetime": "2026-03-04T18:00:00Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "War Powers",
+        "AUMF"
+      ],
+      "dimensions": [
+        "accountability",
+        "impulsivity"
+      ],
+      "variable_key": "senate_war_powers_reject",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Donald J. Trump",
+        "dimension": "accountability",
+        "proposed_delta": -1,
+        "rationale": "Senate failure to constrain presidential war powers reduces institutional checks on executive authority",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T21:07:04.183Z",
+      "run_id": "2026-04-03T21:07"
+    },
+    {
+      "headline": "China Increases Defense Budget 7% to $278 Billion Despite Slowing Economic Growth",
+      "summary": "The PRC Ministry of Finance proposed a defense budget of approximately $278 billion for 2026, representing a 7% increase despite GDP growth targets falling to their lowest since 1991. Xi Jinping linked PLA modernization to party building in the military during March plenary session.",
+      "source": "American Enterprise Institute",
+      "url": null,
+      "bloc": "institutional",
+      "date": "2026-03-13",
+      "datetime": "2026-03-13T10:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "China Taiwan",
+        "China nuclear",
+        "South China Sea"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "china_defense_budget_2026",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Xi Jinping",
+        "dimension": "survival",
+        "proposed_delta": 1,
+        "rationale": "Prioritizing military spending despite economic challenges shows regime security focus",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T21:07:04.183Z",
+      "run_id": "2026-04-03T21:07"
+    },
+    {
+      "headline": "Kim Jong-un Orders Massive Missile Production Increase for 2026 Operations",
+      "summary": "North Korean dictator Kim Jong-un ordered factories to significantly increase missile and munitions production in 2026 to meet growing demand. During visits to munitions plants, Kim instructed production sites to satisfy military requirements and ordered construction of new ammunition factories, calling the sector 'critical for military deterrence.'",
+      "source": "Euronews",
+      "url": null,
+      "bloc": "western",
+      "date": "2025-12-26",
+      "datetime": "2025-12-26T11:00:00Z",
+      "leaders": [
+        "Kim Jong-un"
+      ],
+      "watch_terms": [
+        "DPRK missile",
+        "North Korea nuclear"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "dprk_missile_production_2026",
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Kim Jong-un",
+        "dimension": "survival",
+        "proposed_delta": 1,
+        "rationale": "Massive military production increase demonstrates focus on regime security through deterrence",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-03T21:07:04.183Z",
+      "run_id": "2026-04-03T21:07"
     }
   ],
-  "total_items_ever": 54
+  "total_items_ever": 65
 }

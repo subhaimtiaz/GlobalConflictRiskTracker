@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-05T14:07:51.067Z",
+  "updated": "2026-04-05T19:52:34.859Z",
   "retention_days": 30,
   "items": [
     {
@@ -4174,137 +4174,6 @@
       "run_id": "2026-04-05T14:07"
     },
     {
-      "headline": "IAEA reports Iran stored most highly enriched uranium at Isfahan underground complex",
-      "summary": "UN nuclear watchdog confirms Iran stored most of its 440.9 kg stockpile of 60% enriched uranium at underground Isfahan facility. IAEA urges Iran to allow inspections as it faces growing pressure over nuclear program amid ongoing war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/2/27/iaea-eyes-isfahan-nuclear-complex-as-it-urges-iran-to-allow",
-      "bloc": "institutional",
-      "date": "2026-02-27",
-      "datetime": "2026-02-27T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Supreme Leader Iran",
-        "nuclear Iran",
-        "IRGC"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "dimension_signal": null,
-      "_from": "claude",
-      "first_seen": "2026-04-05T14:07:51.067Z",
-      "run_id": "2026-04-05T14:07"
-    },
-    {
-      "headline": "Netanyahu coalition advances bill to repeal fraud charges he faces in trial",
-      "summary": "Israeli coalition lawmakers advance legislation to eliminate fraud and breach of trust crimes from law books. Netanyahu faces these charges in all three ongoing corruption cases, with bill potentially applying retroactively.",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/coalition-advances-bill-to-repeal-criminal-charge-that-netanyahu-faces-in-his-trial/",
-      "bloc": "western",
-      "date": "2026-01-13",
-      "datetime": "2026-01-13T00:00:00Z",
-      "leaders": [
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "trial hearing",
-        "coalition collapse"
-      ],
-      "dimensions": [
-        "accountability",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Benjamin Netanyahu",
-        "dimension": "accountability",
-        "proposed_delta": -3,
-        "rationale": "Coalition advancing bill to eliminate charges Netanyahu faces demonstrates systematic evasion of legal accountability",
-        "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-05T14:07:51.067Z",
-      "run_id": "2026-04-05T14:07"
-    },
-    {
-      "headline": "Saudi Arabia executes 356 people in 2025, setting new record",
-      "summary": "Kingdom sets highest number of executions in one year since monitoring began, including 45 of political nature. Human Rights Watch documents systematic use of fabricated charges in politically motivated cases.",
-      "source": "Human Rights Watch",
-      "url": "https://www.hrw.org/news/2026/01/13/saudi-arabia-record-number-of-executions-in-2025",
-      "bloc": "institutional",
-      "date": "2026-01-13",
-      "datetime": "2026-01-13T00:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman"
-      ],
-      "watch_terms": [
-        "executions Saudi",
-        "MBS"
-      ],
-      "dimensions": [
-        "accountability",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Mohammed bin Salman",
-        "dimension": "accountability",
-        "proposed_delta": -2,
-        "rationale": "Record-setting executions including 45 political cases demonstrate systematic suppression of dissent",
-        "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-05T14:07:51.067Z",
-      "run_id": "2026-04-05T14:07"
-    },
-    {
-      "headline": "China conducts largest Taiwan military drills to date with Justice Mission 2025",
-      "summary": "PLA deployed 14 warships, 130 aircraft and fired 27 missiles in blockade simulation around Taiwan. Exercise crossed into Taiwan's contiguous zone for first time, with Chinese destroyer withdrawing only after Taiwanese radar lock.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/01/chinas-taiwan-drills-are-crossing-a-new-line/",
-      "bloc": "regional",
-      "date": "2025-12-30",
-      "datetime": "2025-12-30T00:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "China Taiwan",
-        "PLA",
-        "South China Sea"
-      ],
-      "dimensions": [
-        "escalation",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 4,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Xi Jinping",
-        "dimension": "escalation",
-        "proposed_delta": 2,
-        "rationale": "First major incursion into Taiwan's contiguous zone represents significant escalation in cross-strait tensions",
-        "confidence": "medium"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-05T14:07:51.067Z",
-      "run_id": "2026-04-05T14:07"
-    },
-    {
       "headline": "Iran downed two US C-130 planes and two helicopters in latest clashes",
       "summary": "Tehran claims successful downing of US transport aircraft as infrastructure attacks cause fires across Gulf region. Trump vows to hit power plants and bridges over Hormuz closure in escalating rhetoric.",
       "source": "Al Jazeera",
@@ -4336,68 +4205,6 @@
         "rationale": "Threatening power plant strikes after aircraft losses shows reactive escalation pattern",
         "confidence": "medium"
       },
-      "_from": "claude",
-      "first_seen": "2026-04-05T14:07:51.067Z",
-      "run_id": "2026-04-05T14:07"
-    },
-    {
-      "headline": "ICC prosecutor threatened with destruction over Netanyahu case",
-      "summary": "British-Israeli lawyer linked to Netanyahu adviser warned ICC Prosecutor Karim Khan he would be 'destroyed' if arrest warrants not withdrawn. Khan subsequently stepped down amid sexual misconduct allegations two weeks later.",
-      "source": "Middle East Eye",
-      "url": "https://www.aljazeera.com/news/2025/7/16/icc-prosecutor-warned-to-drop-netanyahu-case-or-be-destroyed-report",
-      "bloc": "western",
-      "date": "2025-07-16",
-      "datetime": "2025-07-16T00:00:00Z",
-      "leaders": [
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "ICC Netanyahu",
-        "trial hearing"
-      ],
-      "dimensions": [
-        "accountability",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Benjamin Netanyahu",
-        "dimension": "accountability",
-        "proposed_delta": -3,
-        "rationale": "Threatening ICC prosecutor through intermediary shows systematic attempt to undermine international accountability mechanisms",
-        "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-05T14:07:51.067Z",
-      "run_id": "2026-04-05T14:07"
-    },
-    {
-      "headline": "Pakistani forces violate ceasefire for 11th consecutive night along LoC",
-      "summary": "Pakistan continues unprovoked firing across Line of Control targeting Kupwara, Uri, and Akhnoor sectors. Indian military responds proportionately as tensions mount following Pahalgam terror attack and Indus Waters Treaty suspension.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/external-affairs-defence-security/news/india-pakistan-border-fire-ceasefire-breach-loc-pahalgam-attack-kashmir-125050300198_1.html",
-      "bloc": "regional",
-      "date": "2025-05-03",
-      "datetime": "2025-05-03T00:00:00Z",
-      "leaders": [
-        "Narendra Modi",
-        "General Asim Munir"
-      ],
-      "watch_terms": [
-        "LoC violations",
-        "India Pakistan border"
-      ],
-      "dimensions": [
-        "escalation"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 4,
-      "persian_only": false,
-      "dimension_signal": null,
       "_from": "claude",
       "first_seen": "2026-04-05T14:07:51.067Z",
       "run_id": "2026-04-05T14:07"
@@ -4488,7 +4295,306 @@
       "_from": "claude",
       "first_seen": "2026-04-05T14:07:51.067Z",
       "run_id": "2026-04-05T14:07"
+    },
+    {
+      "headline": "Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot",
+      "summary": "Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilotmiddletownpress.com",
+      "source": "Middletown Press",
+      "url": "https://www.middletownpress.com/business/article/us-presses-search-for-a-missing-serviceman-as-22188845.php",
+      "bloc": "western",
+      "date": "2026-04-04",
+      "datetime": "2026-04-04T19:07:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-05T19:52:34.859Z",
+      "run_id": "2026-04-05T19:52"
+    },
+    {
+      "headline": "Iran hardliners call for full nuclear armament following US-Israel attacks during negotiations",
+      "summary": "Iranian parliament hardliners are demanding advancement to full nuclear weapons capability after US-Israeli attacks occurred while nuclear negotiations were ongoing. The IAEA reported concerns about Iran's continued stockpile of 440 kg of uranium enriched to 60%.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/04/01/us/word-of-week-enriched-cec",
+      "bloc": "institutional",
+      "date": "2026-04-01",
+      "datetime": "2026-04-01T00:00:00Z",
+      "leaders": [
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "nuclear Iran",
+        "Iran ceasefire",
+        "Trump impeach"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "survival"
+      ],
+      "variable_key": "iran_nuclear_escalation",
+      "event_type": "leader_statement",
+      "escalation": 5,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Donald J. Trump",
+        "dimension": "impulsivity",
+        "proposed_delta": 3,
+        "rationale": "Launched military strikes against Iran while nuclear negotiations were actively ongoing",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-05T19:52:34.859Z",
+      "run_id": "2026-04-05T19:52"
+    },
+    {
+      "headline": "IAEA cannot access bombed Iranian nuclear sites, derailing safeguards obligations",
+      "summary": "The International Atomic Energy Agency reports inability to access any of the bombed Iranian nuclear facilities or account for nuclear material since US-Israeli strikes began. This constitutes a violation of Iran's safeguards obligations.",
+      "source": "Arms Control Association",
+      "url": "https://www.armscontrol.org/act/2026-03/focus/trumps-chaotic-and-reckless-iran-nuclear-policy",
+      "bloc": "institutional",
+      "date": "2026-03-26",
+      "datetime": "2026-03-26T00:00:00Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "nuclear Iran",
+        "AUMF"
+      ],
+      "dimensions": [
+        "accountability",
+        "impulsivity"
+      ],
+      "variable_key": "iaea_access_violation",
+      "event_type": "static_variable",
+      "escalation": 5,
+      "persian_only": false,
+      "_from": "claude",
+      "first_seen": "2026-04-05T19:52:34.859Z",
+      "run_id": "2026-04-05T19:52"
+    },
+    {
+      "headline": "Xi Jinping purges up to 100 senior PLA officers including Central Military Commission members",
+      "summary": "Chinese President Xi Jinping has detained or disappeared approximately 100 senior military officers by early 2026, including five of six Central Military Commission members. The purge likely leaves China's military command in disarray.",
+      "source": "East Asia Forum",
+      "url": "https://eastasiaforum.org/2026/04/04/xi-jinpings-forever-war-on-corruption/",
+      "bloc": "regional",
+      "date": "2026-04-04",
+      "datetime": "2026-04-04T00:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "PLA",
+        "China Taiwan"
+      ],
+      "dimensions": [
+        "survival",
+        "accountability"
+      ],
+      "variable_key": "xi_pla_purge",
+      "event_type": "personnel_killed",
+      "escalation": 4,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Xi Jinping",
+        "dimension": "survival",
+        "proposed_delta": 2,
+        "rationale": "Massive military purge indicates deep paranoia about loyalty and control within PLA ranks",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-05T19:52:34.859Z",
+      "run_id": "2026-04-05T19:52"
+    },
+    {
+      "headline": "Pakistani Forces deployed Pakistani-origin Zainebiyoun militia to Iran's Qom city",
+      "summary": "Pakistani-origin Shiite militia Zainebiyoun forces have been documented operating in Iran's Qom city alongside Afghan Fatemiyoun forces to strengthen regime control in urban areas during the ongoing conflict.",
+      "source": "Alma Research and Education Center",
+      "url": "https://israel-alma.org/daily-report-the-second-iran-war-april-5-2026-1800/",
+      "bloc": "institutional",
+      "date": "2026-04-05",
+      "datetime": "2026-04-05T18:00:00Z",
+      "leaders": [
+        "General Asim Munir",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Pakistan military",
+        "IRGC"
+      ],
+      "dimensions": [
+        "survival"
+      ],
+      "variable_key": "pakistan_militia_iran",
+      "event_type": "regional_strike",
+      "escalation": 5,
+      "persian_only": false,
+      "_from": "claude",
+      "first_seen": "2026-04-05T19:52:34.859Z",
+      "run_id": "2026-04-05T19:52"
+    },
+    {
+      "headline": "IMF imposes 11 new conditions on Pakistan as geopolitical tensions threaten bailout",
+      "summary": "International Monetary Fund has imposed 11 additional conditions on Pakistan's $7 billion bailout package and warned that escalating tensions with India may jeopardize fiscal and structural reform targets.",
+      "source": "Observer Research Foundation",
+      "url": "https://www.orfonline.org/expert-speak/munir-s-controversial-rise-and-pakistan-s-drift-to-a-hard-state",
+      "bloc": "institutional",
+      "date": "2026-04-01",
+      "datetime": "2026-04-01T00:00:00Z",
+      "leaders": [
+        "General Asim Munir"
+      ],
+      "watch_terms": [
+        "IMF Pakistan",
+        "India Pakistan"
+      ],
+      "dimensions": [
+        "survival"
+      ],
+      "variable_key": "imf_pakistan_conditions",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "claude",
+      "first_seen": "2026-04-05T19:52:34.859Z",
+      "run_id": "2026-04-05T19:52"
+    },
+    {
+      "headline": "Over 232,500 Afghans returned from Pakistan and Iran since January amid border hostilities",
+      "summary": "UNHCR reports 146,206 Afghans returned from Pakistan and 86,253 from Iran in early 2026, with thousands displaced in Kunar and Nangarhar provinces due to Afghanistan-Pakistan hostilities. Torkham border crossing currently closed.",
+      "source": "UNHCR",
+      "url": "https://www.unrefugees.org/news/2026/3/unhcr-mobilizing-across-region-as-middle-east-crisis-escalates/",
+      "bloc": "institutional",
+      "date": "2026-03-04",
+      "datetime": "2026-03-04T00:00:00Z",
+      "leaders": [
+        "General Asim Munir"
+      ],
+      "watch_terms": [
+        "Pakistan military",
+        "India Pakistan border"
+      ],
+      "dimensions": [
+        "survival"
+      ],
+      "variable_key": "afghan_refugee_crisis",
+      "event_type": "personnel_killed",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "claude",
+      "first_seen": "2026-04-05T19:52:34.859Z",
+      "run_id": "2026-04-05T19:52"
+    },
+    {
+      "headline": "Netanyahu coalition advances bill to repeal fraud and breach of trust criminal charges",
+      "summary": "Israeli coalition lawmakers are advancing legislation to eliminate the criminal offense of fraud and breach of trust from law books, charges that Netanyahu faces in all three corruption cases. Opposition calls it a 'full-fledged coup.'",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/coalition-advances-bill-to-repeal-criminal-charge-that-netanyahu-faces-in-his-trial/",
+      "bloc": "western",
+      "date": "2026-01-13",
+      "datetime": "2026-01-13T00:00:00Z",
+      "leaders": [
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "trial hearing",
+        "coalition collapse"
+      ],
+      "dimensions": [
+        "survival",
+        "accountability"
+      ],
+      "variable_key": "netanyahu_law_repeal",
+      "event_type": "leader_statement",
+      "escalation": 5,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Benjamin Netanyahu",
+        "dimension": "survival",
+        "proposed_delta": 3,
+        "rationale": "Attempting to eliminate criminal charges he faces through retroactive legislation",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-05T19:52:34.859Z",
+      "run_id": "2026-04-05T19:52"
+    },
+    {
+      "headline": "Trump negotiator Steve Witkoff shows limited understanding of uranium enrichment process",
+      "summary": "Arms control experts express concerns about US negotiator Steve Witkoff's technical knowledge after he confused nuclear reactors with centrifuge facilities and was surprised by Iran's documented uranium stockpile levels during February talks.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/04/01/us/word-of-week-enriched-cec",
+      "bloc": "western",
+      "date": "2026-04-01",
+      "datetime": "2026-04-01T00:00:00Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "Iran ceasefire",
+        "nuclear Iran"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": "trump_negotiator_competence",
+      "event_type": "leader_statement",
+      "escalation": 3,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Donald J. Trump",
+        "dimension": "accountability",
+        "proposed_delta": -2,
+        "rationale": "Deploying negotiators with insufficient technical expertise for nuclear negotiations",
+        "confidence": "medium"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-05T19:52:34.859Z",
+      "run_id": "2026-04-05T19:52"
+    },
+    {
+      "headline": "China deploys PLA Cyberspace Force to South China Sea artificial island on combat readiness",
+      "summary": "Chinese President Xi Jinping's Lunar New Year military address revealed PLA Cyberspace Force deployment to Fiery Cross Reef in disputed Spratly Islands, with commanders reporting 'combat readiness duty' status.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/military/article/3343312/xis-new-year-message-military-reveals-pla-cyberspace-force-post-south-china-sea",
+      "bloc": "regional",
+      "date": "2026-02-12",
+      "datetime": "2026-02-12T00:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "PLA",
+        "South China Sea",
+        "China Taiwan"
+      ],
+      "dimensions": [
+        "survival"
+      ],
+      "variable_key": "china_cyber_deployment",
+      "event_type": "infrastructure_attack",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "claude",
+      "first_seen": "2026-04-05T19:52:34.859Z",
+      "run_id": "2026-04-05T19:52"
     }
   ],
-  "total_items_ever": 183
+  "total_items_ever": 193
 }

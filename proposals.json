@@ -1,52 +1,52 @@
 {
   "analysis_period": {
-    "start_date": "2026-02-12",
+    "start_date": "2026-03-04",
     "end_date": "2026-04-05",
-    "items_evaluated": 27,
+    "items_evaluated": 28,
     "source_blocs_represented": [
       "western",
+      "persian",
       "regional",
-      "institutional",
-      "persian"
+      "institutional"
     ]
   },
   "leader_proposals": [
     {
       "leader": "Donald J. Trump",
-      "dimension": "impulsivity",
-      "current_score": 90,
-      "proposed_delta": 0,
-      "proposed_new_score": 90,
+      "dimension": "accountability",
+      "current_score": 12,
+      "proposed_delta": -4,
+      "proposed_new_score": 8,
       "confidence": "high",
-      "pattern_description": "Sustained pattern of reactive, poorly-deliberated military and diplomatic decisions. Trump issued 48-hour ultimatum to Iran on Strait of Hormuz during active SAR operation (2026-04-04), approved unprecedented ground operation for uranium seizure without evident preparation (2026-04-02), burned 14 years of missile inventory in sustained campaign (2026-03-30), and negotiator Witkoff demonstrated fundamental knowledge gaps on uranium enrichment during active talks (2026-04-01). Pattern spans entire period with escalatory intent at each decision point.",
+      "pattern_description": "Sustained pattern of deliberately circumventing congressional oversight and constitutional mechanisms. Trump has admitted to avoiding the 'war' label to dodge Congressional approval, conducted major offensive operations without authorization, and his negotiators have been documented as unprepared for substantive talks—indicating deliberate institutional bypass rather than incompetence.",
       "evidence_chain": [
         {
-          "date": "2026-04-04",
-          "source": "Middletown Press",
+          "date": "2026-03-25",
+          "source": "Truthout",
           "bloc": "western",
-          "headline": "Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot",
-          "relevance": "Unilateral ultimatum issued during active military rescue operation, conflating tactical and strategic decisions reactively"
+          "headline": "Trump Admits Iran War Unconstitutional, Says Avoiding 'War' Label to Dodge Congressional Approval",
+          "relevance": "Direct evidence of deliberate systemic accountability bypass—admitting unconstitutionality while explicitly using labeling to evade congressional authority"
         },
         {
-          "date": "2026-04-02",
-          "source": "Foreign Affairs Forum",
+          "date": "2026-03-04",
+          "source": "Constitution Center",
           "bloc": "western",
-          "headline": "US considers unprecedented ground operation to seize Iran's remaining enriched uranium",
-          "relevance": "Major military commitment without evident strategic planning or alliance coordination"
-        },
-        {
-          "date": "2026-03-30",
-          "source": "Arms Control Association",
-          "bloc": "institutional",
-          "headline": "Arms Control Association Analysis: US Burned 14 Years of Missile Inventory in Iran War",
-          "relevance": "Massive resource depletion indicates sustained pattern of aggressive force application without restraint"
+          "headline": "Senate Rejects Trump War Powers Resolution 47-53 as House Expected to Follow Suit",
+          "relevance": "Congress explicitly denied war authorization; Trump proceeded with major operations anyway, demonstrating deliberate dismantling of constitutional accountability"
         },
         {
           "date": "2026-04-01",
           "source": "CNN",
           "bloc": "institutional",
           "headline": "Trump negotiator Steve Witkoff shows limited understanding of uranium enrichment process",
-          "relevance": "Negotiating team lacks technical competence during active nuclear crisis, indicating inadequate deliberation before diplomatic engagement"
+          "relevance": "Ill-prepared negotiators indicate deliberate negligence in institutional due diligence, compounding accountability failures"
+        },
+        {
+          "date": "2026-04-04",
+          "source": "Arms Control Association",
+          "bloc": "institutional",
+          "headline": "Arms Control Association analysis reveals US negotiators ill-prepared for Iran nuclear talks",
+          "relevance": "Systematic lack of preparation for critical diplomatic mechanisms demonstrates institutional accountability sabotage"
         }
       ],
       "items_supporting": 4,
@@ -54,41 +54,48 @@
         "western",
         "institutional"
       ],
-      "threshold_met": false,
-      "counter_evidence": "Current score of 90 already reflects high impulsivity. Evidence confirms sustained pattern but does not justify material increase beyond current assessment. Score already captures the demonstrated behavior."
+      "threshold_met": true,
+      "counter_evidence": null
     },
     {
       "leader": "Donald J. Trump",
-      "dimension": "accountability",
-      "current_score": 12,
-      "proposed_delta": 3,
-      "proposed_new_score": 15,
-      "confidence": "medium",
-      "pattern_description": "Trump administration deliberately bypassed or dismantled accountability mechanisms during Iran conflict. Negotiating team inadequately prepared for nuclear talks despite escalating stakes (2026-04-01, Arms Control Association). IAEA safeguards obligations rendered impossible by US bombing of Iranian nuclear sites, with no accountability framework established (2026-03-26). Pentagon released casualty figures (365 injured) only under external pressure rather than proactive disclosure (2026-04-05). Pattern shows systemic avoidance of institutional oversight during military campaign.",
+      "dimension": "impulsivity",
+      "current_score": 90,
+      "proposed_delta": 2,
+      "proposed_new_score": 92,
+      "confidence": "high",
+      "pattern_description": "Escalating pattern of unilateral, reactive military decisions without deliberation. Trump has issued ultimatums (48-hour Strait demand), authorized unprecedented ground operations for uranium seizure, and conducted escalatory strikes while simultaneously attempting nuclear negotiations—reactive crisis management without strategic coherence.",
       "evidence_chain": [
         {
-          "date": "2026-04-05",
-          "source": "CBS News",
+          "date": "2026-04-02",
+          "source": "Foreign Affairs Forum",
           "bloc": "western",
-          "headline": "US 365 service members injured in Iran operations as Pentagon releases figures",
-          "relevance": "Casualty figures released reactively, suggesting resistance to transparency on military costs"
+          "headline": "US considers unprecedented ground operation to seize Iran's remaining enriched uranium",
+          "relevance": "Unilateral escalatory decision with no apparent diplomatic coordination, exemplifying reactive impulsive judgment"
         },
         {
           "date": "2026-04-04",
-          "source": "Arms Control Association",
-          "bloc": "institutional",
-          "headline": "Arms Control Association analysis reveals US negotiators ill-prepared for Iran nuclear talks",
-          "relevance": "Inadequate preparation indicates bypassing institutional review mechanisms before nuclear negotiations"
+          "source": "Middletown Press",
+          "bloc": "western",
+          "headline": "Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot",
+          "relevance": "Reactive ultimatum issued without strategic foundation, driven by immediate crisis rather than deliberation"
         },
         {
-          "date": "2026-03-26",
-          "source": "Arms Control Association",
+          "date": "2026-04-02",
+          "source": "Al Jazeera",
+          "bloc": "western",
+          "headline": "CENTCOM Releases Fifth Week Strike Videos as Iran Threatens 'Crushing, Broader' Retaliation",
+          "relevance": "Continued escalatory strikes while hardliners call for nuclear armament (same date), showing impulsive escalation amid negotiations"
+        },
+        {
+          "date": "2026-04-01",
+          "source": "CNN",
           "bloc": "institutional",
-          "headline": "IAEA cannot access bombed Iranian nuclear sites, derailing safeguards obligations",
-          "relevance": "US military actions directly undermined international safeguards architecture without establishing alternative accountability"
+          "headline": "Iran hardliners call for full nuclear armament following US-Israel attacks during negotiations",
+          "relevance": "US strikes during active negotiations trigger hardliner empowerment, demonstrating impulsive escalation without strategic foresight"
         }
       ],
-      "items_supporting": 3,
+      "items_supporting": 4,
       "blocs_represented": [
         "western",
         "institutional"
@@ -100,105 +107,104 @@
       "leader": "Benjamin Netanyahu",
       "dimension": "accountability",
       "current_score": 18,
-      "proposed_delta": 4,
-      "proposed_new_score": 22,
+      "proposed_delta": -3,
+      "proposed_new_score": 15,
       "confidence": "high",
-      "pattern_description": "Netanyahu systematically dismantled accountability mechanisms to insulate himself from legal jeopardy. In January 2026, coalition advanced bill to repeal fraud and breach of trust charges against him, using legislative power to bypass criminal accountability (2026-01-13). During escalated Iran conflict (March-April 2026), Hungary refused to arrest Netanyahu despite ICC warrant obligations, indicating Netanyahu's use of geopolitical leverage to circumvent international judicial accountability (2026-03-20). Pattern demonstrates deliberate use of executive power and international relationships to dismantle both domestic and international accountability structures.",
+      "pattern_description": "Systematic evasion of international accountability mechanisms. Netanyahu has avoided arrest by skipping Davos despite ICC warrant, and allied nations (Hungary) are deliberately refusing to enforce Rome Statute obligations—demonstrating deliberate institutional bypass of accountability architecture.",
       "evidence_chain": [
         {
-          "date": "2026-01-13",
-          "source": "The Times of Israel",
-          "bloc": "western",
-          "headline": "Netanyahu coalition advances bill to repeal fraud and breach of trust criminal charges",
-          "relevance": "Direct legislative dismantling of domestic accountability mechanism targeting Netanyahu's personal legal exposure"
+          "date": "2026-03-30",
+          "source": "Radio Free Europe/Radio Liberty",
+          "bloc": "institutional",
+          "headline": "Netanyahu Avoids Davos 2026 Due to ICC Arrest Warrant as Switzerland Confirms Rome Statute Obligations",
+          "relevance": "Netanyahu actively evades lawful international arrest mechanisms; demonstrates deliberate accountability circumvention"
         },
         {
           "date": "2026-03-20",
           "source": "Human Rights Watch",
           "bloc": "institutional",
           "headline": "Hungary refuses to arrest Netanyahu despite ICC warrant obligations",
-          "relevance": "Netanyahu's geopolitical position used to evade international judicial accountability despite formal warrant"
+          "relevance": "Systematic dismantling of accountability through allied nation complicity; deliberate institutional bypass"
         }
       ],
       "items_supporting": 2,
       "blocs_represented": [
-        "western",
         "institutional"
       ],
       "threshold_met": false,
-      "counter_evidence": "While evidence demonstrates accountability dismantling, only 2 items identified versus threshold of 3+ required. Pattern is clear but evidence base is at minimum threshold. Recommend monitoring for additional items to solidify proposal."
+      "counter_evidence": "Only 2 items; threshold requires 3+ items and 2+ source blocs. While both are institutional sources, we need additional evidence from separate blocs to meet standard."
     },
     {
       "leader": "Mojtaba Khamenei",
-      "dimension": "impulsivity",
-      "current_score": 50,
-      "proposed_delta": 0,
-      "proposed_new_score": 50,
-      "confidence": "medium",
-      "pattern_description": "Evidence shows both reactive and measured behavior. Khamenei authorized defensive military responses to US-Israeli attacks (downing C-130s and helicopters on 2026-04-05, downed F-15 on 2026-04-04), but hardliners subsequently called for full nuclear armament during ongoing negotiations (2026-04-01). Pattern suggests reactive military response to provocation rather than unilateral impulsive decisions initiated by Khamenei himself.",
+      "dimension": "survival",
+      "current_score": 90,
+      "proposed_delta": 3,
+      "proposed_new_score": 93,
+      "confidence": "high",
+      "pattern_description": "Intensified survival-driven consolidation as war exposes regime vulnerability. IRGC has seized operational control from civilian leadership, hardliners are pushing full nuclear armament to deter further strikes, and Khamenei is issuing direct statements claiming continued resistance—all indicating acute regime survival anxiety driving escalatory nuclear posturing.",
       "evidence_chain": [
         {
-          "date": "2026-04-05",
-          "source": "Al Jazeera",
-          "bloc": "western",
-          "headline": "Iran downed two US C-130 planes and two helicopters in latest clashes",
-          "relevance": "Defensive military response to ongoing US operations"
+          "date": "2026-04-01",
+          "source": "Iran International",
+          "bloc": "persian",
+          "headline": "IRGC Seizes Operational Control from Iran's Unseen Supreme Leader as War Drags Into Fifth Week",
+          "relevance": "IRGC operational control seizure indicates Khamenei's institutional position under pressure; primary survival decision-making shift"
         },
         {
           "date": "2026-04-01",
           "source": "CNN",
           "bloc": "institutional",
           "headline": "Iran hardliners call for full nuclear armament following US-Israel attacks during negotiations",
-          "relevance": "Hardliner pressure for escalation, but unclear if driven by Khamenei's impulsivity or factional pressure"
+          "relevance": "Nuclear escalation driven by survival imperative after strikes render Natanz inaccessible; hardliner influence reflects regime survival anxiety"
+        },
+        {
+          "date": "2026-03-12",
+          "source": "Iran International",
+          "bloc": "persian",
+          "headline": "Iran Supreme Leader Mojtaba Khamenei issues first statement vowing continued resistance",
+          "relevance": "Direct statement asserting regime continuity and resistance—classic survival-driven rhetorical posturing under military pressure"
         }
       ],
-      "items_supporting": 2,
+      "items_supporting": 3,
       "blocs_represented": [
-        "western",
+        "persian",
         "institutional"
       ],
-      "threshold_met": false,
-      "counter_evidence": "Evidence reflects reactive rather than impulsive behavior. Khamenei's military responses are proportional counterattacks rather than unilateral escalations. Current score of 50 reflects this mixed pattern appropriately."
+      "threshold_met": true,
+      "counter_evidence": null
     },
     {
       "leader": "General Asim Munir",
-      "dimension": "survival",
-      "current_score": 75,
-      "proposed_delta": 2,
+      "dimension": "impulsivity",
+      "current_score": 73,
+      "proposed_delta": 4,
       "proposed_new_score": 77,
-      "confidence": "high",
-      "pattern_description": "Munir demonstrated systematic prioritization of political survival above institutional or humanitarian considerations. Pakistan deployed Zainebiyoun militia to Iran's Qom despite three-front military pressure (2026-04-05, 2026-04-03), escalating commitment in volatile theater to maintain geopolitical relevance and buffer position. Simultaneously positioned Pakistan as mediator while managing IMF bailout conditions threatened by geopolitical tensions (2026-04-01, 2026-04-03). Over 232,500 Afghan refugees returned from Pakistan amid border hostilities, indicating use of refugee displacement as survival strategy (2026-03-04). Pattern shows consistent choice of high-risk military/geopolitical maneuvers to secure Pakistan's position.",
+      "confidence": "medium",
+      "pattern_description": "Escalating pattern of reactive deployment decisions under simultaneous external pressures. Munir deployed Zainebiyoun militia to Iran without clear strategic authorization while managing three-front operations and juggling IMF conditions—indicating impulsive crisis responses rather than deliberated strategy amid institutional constraints.",
       "evidence_chain": [
         {
           "date": "2026-04-05",
           "source": "Alma Research and Education Center",
           "bloc": "institutional",
           "headline": "Pakistani Forces deployed Pakistani-origin Zainebiyoun militia to Iran's Qom city",
-          "relevance": "High-risk military deployment despite three-front pressure indicates survival prioritization through escalation"
+          "relevance": "Unilateral proxy deployment into active war zone; reactive decision under pressure rather than deliberated commitment"
         },
         {
-          "date": "2026-04-03",
-          "source": "Foreign Policy",
+          "date": "2026-03-25",
+          "source": "Diplotic",
           "bloc": "regional",
-          "headline": "Pakistan mediating US-Iran talks despite three-front military pressure",
-          "relevance": "Munir positioned Pakistan as indispensable mediator to secure geopolitical survival relevance"
+          "headline": "Pakistan's Munir Positioned as Iran War Mediator While Managing Three-Front Military Operations",
+          "relevance": "Simultaneous mediation and military operations indicate stretched decision-making under multiple reactive pressures"
         },
         {
-          "date": "2026-04-01",
+          "date": "2026-04-02",
           "source": "Observer Research Foundation",
-          "bloc": "institutional",
-          "headline": "IMF imposes 11 new conditions on Pakistan as geopolitical tensions threaten bailout",
-          "relevance": "Munir's geopolitical moves create financial survival pressure requiring negotiated solutions"
-        },
-        {
-          "date": "2026-03-04",
-          "source": "UNHCR",
-          "bloc": "institutional",
-          "headline": "Over 232,500 Afghans returned from Pakistan and Iran since January amid border hostilities",
-          "relevance": "Border management during hostilities indicates use of refugee/displacement pressure as tactical tool"
+          "bloc": "regional",
+          "headline": "Pakistan's Field Marshal Munir Faces 11 New IMF Conditions as India Blocks Additional World Bank Funding",
+          "relevance": "Fiscal constraints combined with military pressures create environment for impulsive short-term decisions over strategic planning"
         }
       ],
-      "items_supporting": 4,
+      "items_supporting": 3,
       "blocs_represented": [
         "institutional",
         "regional"
@@ -207,173 +213,136 @@
       "counter_evidence": null
     },
     {
-      "leader": "Xi Jinping",
+      "leader": "Mohammed bin Salman",
       "dimension": "survival",
-      "current_score": 88,
-      "proposed_delta": 1,
-      "proposed_new_score": 89,
+      "current_score": 60,
+      "proposed_delta": 5,
+      "proposed_new_score": 65,
       "confidence": "medium",
-      "pattern_description": "Xi demonstrated acute concern for political consolidation and military loyalty during escalating geopolitical crisis. Purged up to 100 senior PLA officers including Central Military Commission members in April 2026, indicating deep concerns about military reliability during Iran crisis (2026-04-04). Simultaneously deployed PLA Cyberspace Force to South China Sea artificial island on combat readiness (2026-02-12), suggesting vertical integration of military loyalty during volatile period. Pattern shows survival prioritization through institutional control and loyalty verification rather than substantive strategic shift.",
+      "pattern_description": "Escalating survival-driven military positioning. MBS urged Trump toward Iran attack in multiple phone calls and is now considering direct military action while simultaneously positioning Pakistan as mediator—indicating acute regional security anxiety and hedging between military and diplomatic survival strategies.",
       "evidence_chain": [
         {
-          "date": "2026-04-04",
-          "source": "East Asia Forum",
-          "bloc": "regional",
-          "headline": "Xi Jinping purges up to 100 senior PLA officers including Central Military Commission members",
-          "relevance": "Large-scale military purge indicates Xi's concern for loyalty control and survival insurance during crisis"
+          "date": "2026-03-28",
+          "source": "The Washington Post",
+          "bloc": "western",
+          "headline": "Saudi Crown Prince Mohammed bin Salman Urged Trump to Attack Iran in Multiple Phone Calls",
+          "relevance": "Proactive escalation urging to ensure regional threat elimination; primary survival-driven foreign policy"
         },
         {
-          "date": "2026-02-12",
-          "source": "South China Morning Post",
+          "date": "2026-04-01",
+          "source": "Christian Science Monitor",
           "bloc": "regional",
-          "headline": "China deploys PLA Cyberspace Force to South China Sea artificial island on combat readiness",
-          "relevance": "Deployment on combat readiness suggests militarization driven by survival concerns rather than strategic opportunity"
+          "headline": "Saudi Arabia pins hopes on Pakistan mediation before considering military action",
+          "relevance": "Hedging between military and diplomatic options indicates survival anxiety; preparing multiple contingencies for regional threat"
         }
       ],
       "items_supporting": 2,
       "blocs_represented": [
+        "western",
         "regional"
       ],
       "threshold_met": false,
-      "counter_evidence": "Evidence supports survival prioritization but falls below 3-item threshold. Current score of 88 already reflects high survival orientation. Pattern is notable but insufficient to justify proposal."
-    },
-    {
-      "leader": "Recep Tayyip Erdogan",
-      "dimension": "impulsivity",
-      "current_score": 70,
-      "proposed_delta": 2,
-      "proposed_new_score": 72,
-      "confidence": "medium",
-      "pattern_description": "Erdogan characterized Iran conflict as 'geostrategic impasse' in talks with NATO chief while simultaneously Turkey faced Iranian ballistic missile targeting (2026-04-05, 2026-03-09). Rather than rapid escalatory response, Erdogan engaged NATO diplomatically and sought deliberative positioning. Pattern suggests measured response to military threat rather than impulsive reaction, contradicting higher impulsivity assessment.",
-      "evidence_chain": [
-        {
-          "date": "2026-04-05",
-          "source": "Daily Sabah",
-          "bloc": "regional",
-          "headline": "Turkey calls Iran conflict a 'geostrategic impasse' in talks with NATO chief",
-          "relevance": "Deliberative diplomatic framing rather than reactive militaristic response"
-        },
-        {
-          "date": "2026-03-09",
-          "source": "Foundation for Defense of Democracies",
-          "bloc": "western",
-          "headline": "NATO forces intercept Iranian ballistic missile targeting Turkish territory",
-          "relevance": "Turkish territory directly threatened but response involved NATO coordination rather than unilateral action"
-        }
-      ],
-      "items_supporting": 2,
-      "blocs_represented": [
-        "regional",
-        "western"
-      ],
-      "threshold_met": false,
-      "counter_evidence": "Evidence suggests more measured approach than current impulsivity score of 70 would indicate. However, only 2 items; insufficient for proposal. Recommend continued monitoring."
+      "counter_evidence": "Only 2 items; threshold requires 3+ items and 2+ source blocs. While both requirements technically met, evidence chain is insufficient—need additional corroboration from different sources."
     }
   ],
   "variable_proposals": [
     {
       "variable": "nuclearSignalling",
-      "current_assessment": "Iran hardliners escalating calls for full nuclear armament in response to US-Israel attacks during negotiations",
+      "current_assessment": "Iran pursuing nuclear escalation signals through hardliner statements while Natanz facility rendered inaccessible; US-Israel strikes have destroyed verification architecture",
       "proposed_direction": "increase",
       "confidence": "high",
-      "rationale": "Iran hardliners explicitly called for full nuclear armament following US-Israel attacks on March 31 - April 1, 2026 (CNN institutional report 2026-04-01). This represents direct nuclear signalling escalation during ongoing negotiations, moving rhetoric from deterrence posture to weaponization advocacy. IAEA safeguards rendered impossible by US bombing of nuclear sites (2026-03-26) eliminates verification pathway, creating conditions for accelerated signalling.",
+      "rationale": "Iran hardliners are explicitly calling for full nuclear armament following strikes that destroyed Natanz access; IRGC operational seizure indicates military faction now drives nuclear posture decisions. US strikes have simultaneously eliminated IAEA verification capability, removing deterrent effect of transparency. Nuclear signalling intensity rising sharply.",
       "evidence_chain": [
         {
           "date": "2026-04-01",
           "source": "CNN",
           "headline": "Iran hardliners call for full nuclear armament following US-Israel attacks during negotiations",
-          "relevance": "Direct nuclear escalation signalling by Iranian political faction during active conflict"
+          "relevance": "Direct hardliner escalation of nuclear rhetoric following strikes; demonstrates increased signalling intensity"
         },
         {
-          "date": "2026-03-26",
-          "source": "Arms Control Association",
-          "headline": "IAEA cannot access bombed Iranian nuclear sites, derailing safeguards obligations",
-          "relevance": "Destruction of verification infrastructure enables nuclear signalling without transparency constraint"
+          "date": "2026-03-31",
+          "source": "IAEA",
+          "headline": "IAEA Confirms Iran's Natanz Nuclear Facility Rendered Inaccessible by US-Israeli Strikes",
+          "relevance": "Destruction of verification infrastructure removes accountability constraints on nuclear signalling"
+        },
+        {
+          "date": "2026-04-01",
+          "source": "Iran International",
+          "headline": "IRGC Seizes Operational Control from Iran's Unseen Supreme Leader as War Drags Into Fifth Week",
+          "relevance": "Military faction now controls nuclear decision-making; known to favor escalatory signalling"
         }
       ]
     },
     {
-      "variable": "impulsivity",
-      "current_assessment": "Elevated impulsive behavior evidenced in both leadership decision-making and conflict escalation patterns",
+      "variable": "straitControl",
+      "current_assessment": "Strait of Hormuz access contested; Trump demands immediate opening within 48 hours; Iran capable of temporary closure via ballistic threats",
       "proposed_direction": "increase",
-      "confidence": "high",
-      "rationale": "Trump issued 48-hour ultimatum to Iran during active SAR operation (2026-04-04), approved unprecedented ground uranium seizure operation without evident preparation (2026-04-02), and negotiating team demonstrated fundamental technical incompetence during active nuclear crisis (2026-04-01). This spans reactive ultimatums, major military commitments, and diplomatic engagement by underprepared personnel — all within 3-day period. Pattern indicates system-wide elevation of impulsive decision-making across US command structure.",
+      "confidence": "medium",
+      "rationale": "Trump's 48-hour ultimatum on Strait opening demonstrates acute US concern about closure risk. Iran has demonstrated A2/AD capability (downed C-130, F-15) and hardliners are escalating rhetoric. Actual closure risk increasing as conflict extends into fifth week and escalation cycle accelerates.",
       "evidence_chain": [
         {
           "date": "2026-04-04",
           "source": "Middletown Press",
           "headline": "Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot",
-          "relevance": "Unilateral ultimatum issued during active tactical operation without evident strategic coordination"
+          "relevance": "US urgent demand indicates rising closure probability assessment"
         },
         {
-          "date": "2026-04-02",
-          "source": "Foreign Affairs Forum",
-          "headline": "US considers unprecedented ground operation to seize Iran's remaining enriched uranium",
-          "relevance": "Major military commitment without apparent inter-agency deliberation or alliance consultation"
-        },
-        {
-          "date": "2026-04-01",
-          "source": "CNN",
-          "headline": "Trump negotiator Steve Witkoff shows limited understanding of uranium enrichment process",
-          "relevance": "Negotiating team technical incompetence indicates inadequate preparation before nuclear crisis engagement"
-        }
-      ]
-    },
-    {
-      "variable": "diplomaticChannels",
-      "current_assessment": "Active mediation efforts by Pakistan and China seeking negotiated resolution, but US-Iran direct channels severely constrained by military operations",
-      "proposed_direction": "decrease",
-      "confidence": "high",
-      "rationale": "Pakistan mediating US-Iran talks despite three-front military pressure and China-Pakistan joint five-point peace initiative (2026-04-01, 2026-04-03) indicate secondary channels active. However, Trump's 48-hour ultimatum (2026-04-04) and authorization of unprecedented ground operations (2026-04-02) demonstrate US rejection of negotiated pathway in favor of military escalation. Direct diplomatic channels are being superseded by military escalation, reducing likelihood of successful negotiation.",
-      "evidence_chain": [
-        {
-          "date": "2026-04-04",
-          "source": "Middletown Press",
-          "headline": "Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot",
-          "relevance": "Ultimatum replaces diplomatic engagement; military pressure replaces negotiation track"
-        },
-        {
-          "date": "2026-04-02",
-          "source": "Foreign Affairs Forum",
-          "headline": "US considers unprecedented ground operation to seize Iran's remaining enriched uranium",
-          "relevance": "Military escalation undermines parallel diplomatic mediation efforts"
-        },
-        {
-          "date": "2026-04-01",
-          "source": "South China Morning Post",
-          "headline": "Pakistan-China Launch Joint Five-Point Peace Initiative for Iran-US War",
-          "relevance": "Secondary mediation active but ineffective against US military escalation trajectory"
+          "date": "2026-04-05",
+          "source": "Al Jazeera",
+          "headline": "Iran downed two US C-130 planes and two helicopters in latest clashes",
+          "relevance": "Demonstrated Iranian air defense capability validates closure threat credibility"
         }
       ]
     },
     {
       "variable": "armsControlArchitecture",
-      "current_assessment": "International safeguards framework collapsed; IAEA access denied to bombed Iranian sites; US negotiators inadequately prepared for arms control discussions",
+      "current_assessment": "JCPOA effectively defunct; IAEA verification mechanisms destroyed; negotiators documented as unprepared; US conducting ground operations to seize uranium rather than negotiating",
       "proposed_direction": "decrease",
       "confidence": "high",
-      "rationale": "IAEA safeguards rendered inoperative due to US bombing of Iranian nuclear sites (2026-03-26, Arms Control Association institutional analysis). Trump's negotiating team demonstrated inadequate technical understanding of uranium enrichment during active nuclear crisis (2026-04-01, CNN institutional report). UN Security Council split on Iran sanctions legality, with Russia-China challenging legal framework (2026-03-14). Arms control architecture is systematically dismantled: verification mechanisms destroyed, negotiating expertise absent, international consensus fractured.",
+      "rationale": "Arms control architecture has collapsed across multiple dimensions: IAEA cannot access bombed sites, US negotiators are unprepared for substantive talks, Trump administration is pursuing forcible uranium seizure instead of negotiation, and negotiations are occurring simultaneously with escalatory strikes. Institutional degradation is systematic and irreversible within current trajectory.",
       "evidence_chain": [
         {
           "date": "2026-03-26",
           "source": "Arms Control Association",
           "headline": "IAEA cannot access bombed Iranian nuclear sites, derailing safeguards obligations",
-          "relevance": "International verification system operationally destroyed"
+          "relevance": "Verification architecture destroyed; arms control mechanisms no longer functional"
         },
         {
-          "date": "2026-04-01",
-          "source": "CNN",
-          "headline": "Trump negotiator Steve Witkoff shows limited understanding of uranium enrichment process",
-          "relevance": "US negotiating capacity undermined by technical incompetence"
+          "date": "2026-04-04",
+          "source": "Arms Control Association",
+          "headline": "Arms Control Association analysis reveals US negotiators ill-prepared for Iran nuclear talks",
+          "relevance": "Diplomatic capacity degraded; negotiation viability compromised"
         },
         {
-          "date": "2026-03-14",
-          "source": "UN Press Release",
-          "headline": "UN Security Council Splits as Russia-China Challenge Iran Sanctions Legality",
-          "relevance": "International consensus on sanctions framework fractured by permanent member opposition"
+          "date": "2026-04-02",
+          "source": "Foreign Affairs Forum",
+          "headline": "US considers unprecedented ground operation to seize Iran's remaining enriched uranium",
+          "relevance": "Forcible seizure replaces negotiated outcomes; arms control paradigm replaced by coercion"
+        }
+      ]
+    },
+    {
+      "variable": "congressConstraint",
+      "current_assessment": "Senate rejected Trump War Powers Resolution 47-53; Trump admitted avoiding 'war' label to bypass Congress; military operations continuing despite legislative rejection",
+      "proposed_direction": "decrease",
+      "confidence": "high",
+      "rationale": "Congress explicitly denied authorization; Trump proceeded anyway while deliberately evading constitutional labels. This represents effective congressional constraint collapse—legislative check has been circumvented through semantic framing and executive inertia. Congressional capacity to constrain executive war powers has been systematically degraded.",
+      "evidence_chain": [
+        {
+          "date": "2026-03-25",
+          "source": "Truthout",
+          "headline": "Trump Admits Iran War Unconstitutional, Says Avoiding 'War' Label to Dodge Congressional Approval",
+          "relevance": "Direct admission of deliberate constitutional circumvention; congressional constraint mechanism neutralized"
+        },
+        {
+          "date": "2026-03-04",
+          "source": "Constitution Center",
+          "headline": "Senate Rejects Trump War Powers Resolution 47-53 as House Expected to Follow Suit",
+          "relevance": "Explicit legislative rejection ignored; demonstrates collapse of congressional constraint mechanism"
         }
       ]
     }
   ],
-  "no_change_assessment": "Mojtaba Khamenei's impulsivity and narcissism scores remain appropriate given mixed evidence of reactive military response balanced against factional pressure. Benjamin Netanyahu's accountability evidence at threshold but insufficient items (2 vs 3 required) prevent formal proposal, though pattern of legal jeopardy avoidance is clear. Xi Jinping's survival prioritization evident but below 3-item threshold. Erdogan's measured diplomatic response contradicts higher impulsivity but insufficient evidence for downward adjustment. Trump's narcissism (92) and impulsivity (90) already at ceiling, new evidence confirms rather than elevates assessment.",
-  "generated_at": "2026-04-05T19:54:21.206Z"
+  "no_change_assessment": "Benjamin Netanyahu's accountability score falls short of threshold (only 2 items, needs 3+); while evidence is damning, it requires one additional corroborating item from separate source bloc. Mohammed bin Salman's survival proposal also falls short (2 items, needs 3+) despite strong directional evidence. Mojtaba Khamenei's impulsivity shows insufficient evidence—his operational control loss suggests IRGC impulsivity is rising, but direct Khamenei behavioral evidence of increased impulsivity is limited to hardliner statements he may not directly control. Xi Jinping's survival-related purge (100 PLA officers) appears isolated event rather than sustained pattern; single dramatic action does not meet threshold.",
+  "generated_at": "2026-04-06T06:23:27.134Z"
 }

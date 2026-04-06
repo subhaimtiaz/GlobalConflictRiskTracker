@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-05T19:54:21.203Z",
+  "ts": "2026-04-06T06:23:27.130Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 122,
     "oilStress": 87,
-    "updatedAt": "2026-04-05T19:54:21.203Z"
+    "updatedAt": "2026-04-06T06:23:27.130Z"
   },
   "items": [
+    {
+      "headline": "Iran Ceasefire Claims Questioned as Hardline IRGC Figure Gains Influence",
+      "summary": "Introduction: Ceasefire Claim Amidst Internal Power Shifts U.S. President Donald Trump suggested on Wednesday, April 1, that Iran may be seeking a ceasefire, according to a post on his Truth Social channel. The post, which did not name a specific Iranian offi…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-05-ceasefire-questioned-hardline-irgc-figure-gains-influence.html",
+      "bloc": "western",
+      "date": "2026-04-05",
+      "datetime": "2026-04-05T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. Service Member Missing After Iran Shot Down Fighter Jet Has Been Rescued",
+      "summary": "It comes after a frantic search-and-rescue operation.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-war-us-crew-rescue_n_69d1e273e4b05537a7f16e1b",
+      "bloc": "western",
+      "date": "2026-04-05",
+      "datetime": "2026-04-05T04:21:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot",
       "summary": "Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilotmiddletownpress.com",
@@ -47,58 +99,6 @@
       "bloc": "western",
       "date": "2026-04-04",
       "datetime": "2026-04-04T06:57:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran's military vows to continue war until US, Israel 'regret' aggression",
-      "summary": "The senior spokesman for Iran's Armed Forces says the country will continue the war as long as it makes the United States and the Israeli regime \"regret\" their illegal act of aggression.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260403-presstv19.htm",
-      "bloc": "western",
-      "date": "2026-04-04",
-      "datetime": "2026-04-04T06:57:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War Updates: Key events in the last 24 hours",
-      "summary": "According to information reported on April 3 and 4, 2026, the American-Israeli and Iranian war, now entering its fifth week, continues to escalate. A significant event during this period was the downing of two American warplanes by Iranian air defense systems…",
-      "source": "Gossiplankanews.com",
-      "url": "https://english.gossiplankanews.com/2026/04/iran-war-updates-key-events-in-last-24_01782910339.html",
-      "bloc": "western",
-      "date": "2026-04-04",
-      "datetime": "2026-04-04T05:25:21Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -316,30 +316,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The war with Iran may be ushering in a new nuclear age",
-      "summary": "Global tensions are rising as nations consider developing nuclear weapons. Donald Trump's policies are prompting countries like Germany and Poland to explore their own nuclear deterrents. Meanwhile, China and Russia are concerned about proliferation in Japan …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/the-war-with-iran-may-be-ushering-in-a-new-nuclear-age/articleshow/129876930.cms",
-      "bloc": "regional",
-      "date": "2026-03-29",
-      "datetime": "2026-03-29T07:04:54Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -758,256 +734,307 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran hardliners call for full nuclear armament following US-Israel attacks during negotiations",
-      "summary": "Iranian parliament hardliners are demanding advancement to full nuclear weapons capability after US-Israeli attacks occurred while nuclear negotiations were ongoing. The IAEA reported concerns about Iran's continued stockpile of 440 kg of uranium enriched to 60%.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/04/01/us/word-of-week-enriched-cec",
-      "bloc": "institutional",
+      "headline": "IRGC Seizes Operational Control from Iran's Unseen Supreme Leader as War Drags Into Fifth Week",
+      "summary": "With Supreme Leader Mojtaba Khamenei reportedly staying unseen since inheriting power, the Islamic Revolutionary Guard Corps has established a 'military council' controlling information flow to President Pezeshkian, effectively reducing executive control. The IRGC is blocking presidential appointments and creating a security perimeter around core power structures as questions persist about Khamenei's health following the strikes that killed his father.",
+      "source": "Iran International",
+      "url": "https://www.theweek.in/news/middle-east/2026/04/01/is-mojtaba-khamenei-s-disappearance-behind-growing-irgc-control-in-iran-report-offers-inside-view.html",
+      "bloc": "persian",
       "date": "2026-04-01",
-      "datetime": "2026-04-01T00:00:00Z",
+      "datetime": "2026-04-01T15:10:00Z",
       "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
+        "Mojtaba Khamenei",
+        "Masoud Pezeshkian"
       ],
       "watch_terms": [
-        "nuclear Iran",
-        "Iran ceasefire",
-        "Trump impeach"
+        "Supreme Leader Iran",
+        "IRGC"
       ],
       "dimensions": [
-        "impulsivity",
-        "survival"
+        "survival",
+        "accountability"
       ],
-      "variable_key": "iran_nuclear_escalation",
-      "event_type": "leader_statement",
+      "variable_key": "iran_leadership_control",
+      "event_type": "leader_watch_term",
       "escalation": 5,
       "persian_only": false,
       "dimension_signal": {
-        "leader": "Donald J. Trump",
-        "dimension": "impulsivity",
-        "proposed_delta": 3,
-        "rationale": "Launched military strikes against Iran while nuclear negotiations were actively ongoing",
+        "leader": "Mojtaba Khamenei",
+        "dimension": "survival",
+        "proposed_delta": -3,
+        "rationale": "Complete reliance on military apparatus for power maintenance while remaining hidden from public view",
         "confidence": "high"
       },
       "_from": "claude"
     },
     {
-      "headline": "IAEA cannot access bombed Iranian nuclear sites, derailing safeguards obligations",
-      "summary": "The International Atomic Energy Agency reports inability to access any of the bombed Iranian nuclear facilities or account for nuclear material since US-Israeli strikes began. This constitutes a violation of Iran's safeguards obligations.",
-      "source": "Arms Control Association",
-      "url": "https://www.armscontrol.org/act/2026-03/focus/trumps-chaotic-and-reckless-iran-nuclear-policy",
-      "bloc": "institutional",
-      "date": "2026-03-26",
-      "datetime": "2026-03-26T00:00:00Z",
+      "headline": "Pakistan's Field Marshal Munir Faces 11 New IMF Conditions as India Blocks Additional World Bank Funding",
+      "summary": "The IMF has imposed 11 new conditions on Pakistan to release the next $7 billion bailout tranche, warning that geopolitical tensions with India may jeopardize fiscal targets. India is separately launching 'Operation Sindoor' diplomatic pressure to get Pakistan re-listed on FATF's grey list and blocking World Bank funding over cross-border terrorism concerns.",
+      "source": "Observer Research Foundation",
+      "url": "https://www.orfonline.org/expert-speak/munir-s-controversial-rise-and-pakistan-s-drift-to-a-hard-state",
+      "bloc": "regional",
+      "date": "2026-04-02",
+      "datetime": "2026-04-02T10:30:00Z",
       "leaders": [
-        "Donald J. Trump"
+        "Asim Munir"
       ],
       "watch_terms": [
-        "nuclear Iran",
-        "AUMF"
+        "Pakistan military",
+        "IMF Pakistan",
+        "India Pakistan border"
       ],
       "dimensions": [
         "accountability",
-        "impulsivity"
+        "survival"
       ],
-      "variable_key": "iaea_access_violation",
+      "variable_key": "pakistan_economic_dependency",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Asim Munir",
+        "dimension": "accountability",
+        "proposed_delta": -2,
+        "rationale": "Increasing international conditions and oversight erode autonomous decision-making capability",
+        "confidence": "medium"
+      },
+      "_from": "claude"
+    },
+    {
+      "headline": "Netanyahu Avoids Davos 2026 Due to ICC Arrest Warrant as Switzerland Confirms Rome Statute Obligations",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu skipped the World Economic Forum in Davos to avoid arrest under the ICC warrant issued in November 2024 for war crimes and crimes against humanity in Gaza. Switzerland, as a Rome Statute signatory, would be legally obliged to execute the warrant, marking the first time a sitting Western democratic leader is internationally wanted for war crimes.",
+      "source": "Radio Free Europe/Radio Liberty",
+      "url": "https://en.wikipedia.org/wiki/International_Criminal_Court_arrest_warrants_for_Israeli_leaders",
+      "bloc": "institutional",
+      "date": "2026-03-30",
+      "datetime": "2026-03-30T12:00:00Z",
+      "leaders": [
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "ICC Netanyahu",
+        "trial hearing"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "israel_international_isolation",
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Benjamin Netanyahu",
+        "dimension": "accountability",
+        "proposed_delta": 2,
+        "rationale": "International legal constraints limiting freedom of movement and diplomatic options",
+        "confidence": "high"
+      },
+      "_from": "claude"
+    },
+    {
+      "headline": "IAEA Confirms Iran's Natanz Nuclear Facility Rendered Inaccessible by US-Israeli Strikes",
+      "summary": "The International Atomic Energy Agency confirmed that while bombings failed to destroy Iran's Natanz nuclear facility, significant damage to entrance buildings has made it inaccessible. The IAEA reports no access to any of Iran's four declared enrichment facilities and cannot verify the current size or whereabouts of Iran's enriched uranium stockpile, creating a major nonproliferation blind spot.",
+      "source": "IAEA",
+      "url": "https://responsiblestatecraft.org/iran-nuclear-program/",
+      "bloc": "institutional",
+      "date": "2026-03-31",
+      "datetime": "2026-03-31T14:20:00Z",
+      "leaders": [
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "nuclear Iran",
+        "IAEA"
+      ],
+      "dimensions": [
+        "accountability",
+        "survival"
+      ],
+      "variable_key": "iran_nuclear_verification",
       "event_type": "static_variable",
       "escalation": 5,
       "persian_only": false,
       "_from": "claude"
     },
     {
-      "headline": "Xi Jinping purges up to 100 senior PLA officers including Central Military Commission members",
-      "summary": "Chinese President Xi Jinping has detained or disappeared approximately 100 senior military officers by early 2026, including five of six Central Military Commission members. The purge likely leaves China's military command in disarray.",
-      "source": "East Asia Forum",
-      "url": "https://eastasiaforum.org/2026/04/04/xi-jinpings-forever-war-on-corruption/",
-      "bloc": "regional",
-      "date": "2026-04-04",
-      "datetime": "2026-04-04T00:00:00Z",
+      "headline": "Senate Rejects Trump War Powers Resolution 47-53 as House Expected to Follow Suit",
+      "summary": "The US Senate blocked a war powers resolution requiring congressional approval for further Iran military action, with only Republican Rand Paul crossing party lines to support the measure. The House is expected to similarly reject the resolution, allowing Trump to continue operations without formal congressional authorization despite 60-day War Powers Act clock ticking since February 28.",
+      "source": "Constitution Center",
+      "url": "https://constitutioncenter.org/blog/does-the-war-powers-resolution-debate-take-on-a-new-context-in-the-iran-conflict",
+      "bloc": "western",
+      "date": "2026-03-04",
+      "datetime": "2026-03-04T16:00:00Z",
       "leaders": [
-        "Xi Jinping"
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "PLA",
-        "China Taiwan"
+        "War Powers",
+        "AUMF"
       ],
       "dimensions": [
-        "survival",
-        "accountability"
+        "accountability",
+        "narcissism"
       ],
-      "variable_key": "xi_pla_purge",
-      "event_type": "personnel_killed",
-      "escalation": 4,
+      "variable_key": "us_congressional_oversight",
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "dimension_signal": {
-        "leader": "Xi Jinping",
-        "dimension": "survival",
-        "proposed_delta": 2,
-        "rationale": "Massive military purge indicates deep paranoia about loyalty and control within PLA ranks",
-        "confidence": "high"
+        "leader": "Donald J. Trump",
+        "dimension": "narcissism",
+        "proposed_delta": 1,
+        "rationale": "Successfully avoiding institutional constraints on executive war-making powers",
+        "confidence": "medium"
       },
       "_from": "claude"
     },
     {
-      "headline": "Pakistani Forces deployed Pakistani-origin Zainebiyoun militia to Iran's Qom city",
-      "summary": "Pakistani-origin Shiite militia Zainebiyoun forces have been documented operating in Iran's Qom city alongside Afghan Fatemiyoun forces to strengthen regime control in urban areas during the ongoing conflict.",
-      "source": "Alma Research and Education Center",
-      "url": "https://israel-alma.org/daily-report-the-second-iran-war-april-5-2026-1800/",
+      "headline": "UN Human Rights Chief Warns Iran War 'Disproportionately Impacting Civilians' as Death Toll Exceeds 1,500",
+      "summary": "UN Human Rights Chief Volker Türk condemned the 'reckless' war for disproportionately impacting civilians, while Human Rights Watch reports over 1,574 civilian deaths in Iran including 236 children. The UN Fact-Finding Mission warned that Iran's human rights crisis could worsen amid military escalation and internet shutdowns that heighten risks for civilians and detainees.",
+      "source": "UN Human Rights Office",
+      "url": "https://www.ohchr.org/en/press-releases/2026/03/un-expert-warns-deepening-human-rights-crisis-iran",
       "bloc": "institutional",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T18:00:00Z",
+      "date": "2026-04-01",
+      "datetime": "2026-04-01T11:30:00Z",
       "leaders": [
-        "General Asim Munir",
-        "Mojtaba Khamenei"
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
       ],
       "watch_terms": [
-        "Pakistan military",
-        "IRGC"
+        "accountability"
       ],
       "dimensions": [
-        "survival"
+        "values",
+        "accountability"
       ],
-      "variable_key": "pakistan_militia_iran",
+      "variable_key": "civilian_casualties_iran",
+      "event_type": "personnel_killed",
+      "escalation": 5,
+      "persian_only": false,
+      "_from": "claude"
+    },
+    {
+      "headline": "CENTCOM Releases Fifth Week Strike Videos as Iran Threatens 'Crushing, Broader' Retaliation",
+      "summary": "US Central Command released footage showing strikes on Iranian drones, tanks, and missile launchers as the war enters its fifth week. Iran's armed forces responded with warnings of 'crushing, broader and more destructive' attacks to come, indicating a shift from air defense saturation to high-impact penetration strikes with payloads exceeding 1,000 kg.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/centcom-releases-video-of-air-strikes-in-fifth-week-of-war-on-iran",
+      "bloc": "western",
+      "date": "2026-04-02",
+      "datetime": "2026-04-02T09:15:00Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "CENTCOM",
+        "Iran war escalation"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "escalation"
+      ],
+      "variable_key": "us_military_operations_iran",
       "event_type": "regional_strike",
       "escalation": 5,
       "persian_only": false,
       "_from": "claude"
     },
     {
-      "headline": "IMF imposes 11 new conditions on Pakistan as geopolitical tensions threaten bailout",
-      "summary": "International Monetary Fund has imposed 11 additional conditions on Pakistan's $7 billion bailout package and warned that escalating tensions with India may jeopardize fiscal and structural reform targets.",
-      "source": "Observer Research Foundation",
-      "url": "https://www.orfonline.org/expert-speak/munir-s-controversial-rise-and-pakistan-s-drift-to-a-hard-state",
-      "bloc": "institutional",
-      "date": "2026-04-01",
-      "datetime": "2026-04-01T00:00:00Z",
-      "leaders": [
-        "General Asim Munir"
-      ],
-      "watch_terms": [
-        "IMF Pakistan",
-        "India Pakistan"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": "imf_pakistan_conditions",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "claude"
-    },
-    {
-      "headline": "Over 232,500 Afghans returned from Pakistan and Iran since January amid border hostilities",
-      "summary": "UNHCR reports 146,206 Afghans returned from Pakistan and 86,253 from Iran in early 2026, with thousands displaced in Kunar and Nangarhar provinces due to Afghanistan-Pakistan hostilities. Torkham border crossing currently closed.",
-      "source": "UNHCR",
-      "url": "https://www.unrefugees.org/news/2026/3/unhcr-mobilizing-across-region-as-middle-east-crisis-escalates/",
-      "bloc": "institutional",
-      "date": "2026-03-04",
-      "datetime": "2026-03-04T00:00:00Z",
-      "leaders": [
-        "General Asim Munir"
-      ],
-      "watch_terms": [
-        "Pakistan military",
-        "India Pakistan border"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": "afghan_refugee_crisis",
-      "event_type": "personnel_killed",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "claude"
-    },
-    {
-      "headline": "Netanyahu coalition advances bill to repeal fraud and breach of trust criminal charges",
-      "summary": "Israeli coalition lawmakers are advancing legislation to eliminate the criminal offense of fraud and breach of trust from law books, charges that Netanyahu faces in all three corruption cases. Opposition calls it a 'full-fledged coup.'",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/coalition-advances-bill-to-repeal-criminal-charge-that-netanyahu-faces-in-his-trial/",
+      "headline": "Saudi Crown Prince Mohammed bin Salman Urged Trump to Attack Iran in Multiple Phone Calls",
+      "summary": "According to The Washington Post, Crown Prince Mohammed bin Salman had multiple phone calls with Trump urging him to attack Iran, with Trump's decision coming after repeated lobbying by Saudi Arabian and Israeli governments. Iran has retaliated by striking Saudi oil facilities and US bases, with MBS now warning of regional escalation if attacks on Gulf states continue.",
+      "source": "The Washington Post",
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
       "bloc": "western",
-      "date": "2026-01-13",
-      "datetime": "2026-01-13T00:00:00Z",
+      "date": "2026-03-28",
+      "datetime": "2026-03-28T13:45:00Z",
       "leaders": [
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "trial hearing",
-        "coalition collapse"
+        "Saudi Arabia Iran",
+        "MBS"
       ],
       "dimensions": [
-        "survival",
-        "accountability"
+        "impulsivity",
+        "survival"
       ],
-      "variable_key": "netanyahu_law_repeal",
+      "variable_key": "saudi_iran_escalation",
       "event_type": "leader_statement",
       "escalation": 5,
       "persian_only": false,
       "dimension_signal": {
-        "leader": "Benjamin Netanyahu",
-        "dimension": "survival",
-        "proposed_delta": 3,
-        "rationale": "Attempting to eliminate criminal charges he faces through retroactive legislation",
+        "leader": "Mohammed bin Salman",
+        "dimension": "impulsivity",
+        "proposed_delta": 2,
+        "rationale": "Actively lobbying for military action that subsequently threatens Saudi territory and assets",
         "confidence": "high"
       },
       "_from": "claude"
     },
     {
-      "headline": "Trump negotiator Steve Witkoff shows limited understanding of uranium enrichment process",
-      "summary": "Arms control experts express concerns about US negotiator Steve Witkoff's technical knowledge after he confused nuclear reactors with centrifuge facilities and was surprised by Iran's documented uranium stockpile levels during February talks.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/04/01/us/word-of-week-enriched-cec",
-      "bloc": "western",
-      "date": "2026-04-01",
-      "datetime": "2026-04-01T00:00:00Z",
+      "headline": "Pakistan's Munir Positioned as Iran War Mediator While Managing Three-Front Military Operations",
+      "summary": "Field Marshal Asim Munir held direct phone calls with President Trump while Prime Minister Sharif contacted Iranian President Pezeshkian, positioning Pakistan as venue for potential US-Iran diplomatic talks. This remarkable positioning comes as Pakistan manages military operations on its western border with Afghanistan while maintaining a fragile ceasefire with India and running an economy recently emerged from IMF bailout.",
+      "source": "Diplotic",
+      "url": "https://www.diplotic.com/pakistaniran-wars-mediator/",
+      "bloc": "regional",
+      "date": "2026-03-25",
+      "datetime": "2026-03-25T16:20:00Z",
       "leaders": [
+        "Asim Munir",
         "Donald J. Trump"
       ],
       "watch_terms": [
-        "Iran ceasefire",
-        "nuclear Iran"
+        "Pakistan military",
+        "Munir",
+        "Iran ceasefire"
       ],
       "dimensions": [
-        "impulsivity",
-        "accountability"
+        "survival",
+        "values"
       ],
-      "variable_key": "trump_negotiator_competence",
+      "variable_key": "pakistan_diplomatic_positioning",
       "event_type": "leader_statement",
       "escalation": 3,
       "persian_only": false,
       "dimension_signal": {
-        "leader": "Donald J. Trump",
-        "dimension": "accountability",
-        "proposed_delta": -2,
-        "rationale": "Deploying negotiators with insufficient technical expertise for nuclear negotiations",
+        "leader": "Asim Munir",
+        "dimension": "survival",
+        "proposed_delta": 2,
+        "rationale": "Successfully positioning Pakistan as indispensable mediator despite multiple security challenges",
         "confidence": "medium"
       },
       "_from": "claude"
     },
     {
-      "headline": "China deploys PLA Cyberspace Force to South China Sea artificial island on combat readiness",
-      "summary": "Chinese President Xi Jinping's Lunar New Year military address revealed PLA Cyberspace Force deployment to Fiery Cross Reef in disputed Spratly Islands, with commanders reporting 'combat readiness duty' status.",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/military/article/3343312/xis-new-year-message-military-reveals-pla-cyberspace-force-post-south-china-sea",
-      "bloc": "regional",
-      "date": "2026-02-12",
-      "datetime": "2026-02-12T00:00:00Z",
+      "headline": "Trump Admits Iran War Unconstitutional, Says Avoiding 'War' Label to Dodge Congressional Approval",
+      "summary": "President Trump openly admitted at a Republican fundraising dinner that he avoids using the word 'war' for the Iran conflict because 'you're supposed to get approval' from Congress. Trump said he will use 'military operation' instead, effectively acknowledging that his Iran campaign violates constitutional requirements for congressional war authorization.",
+      "source": "Truthout",
+      "url": "https://truthout.org/articles/trump-admits-iran-war-is-unconstitutional-youre-supposed-to-get-approval/",
+      "bloc": "western",
+      "date": "2026-03-25",
+      "datetime": "2026-03-25T19:30:00Z",
       "leaders": [
-        "Xi Jinping"
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "PLA",
-        "South China Sea",
-        "China Taiwan"
+        "War Powers",
+        "Trump impeach"
       ],
       "dimensions": [
-        "survival"
+        "accountability",
+        "narcissism"
       ],
-      "variable_key": "china_cyber_deployment",
-      "event_type": "infrastructure_attack",
-      "escalation": 4,
+      "variable_key": "us_constitutional_violation",
+      "event_type": "leader_statement",
+      "escalation": 2,
       "persian_only": false,
+      "dimension_signal": {
+        "leader": "Donald J. Trump",
+        "dimension": "accountability",
+        "proposed_delta": -2,
+        "rationale": "Openly acknowledging constitutional violations while continuing unauthorized military operations",
+        "confidence": "high"
+      },
       "_from": "claude"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-07T16:20:10.929Z",
+  "ts": "2026-04-07T20:09:40.880Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 122,
     "oilStress": 87,
-    "updatedAt": "2026-04-07T16:20:10.928Z"
+    "updatedAt": "2026-04-07T20:09:40.880Z"
   },
   "items": [
+    {
+      "headline": "Iran rejects latest ceasefire proposal as Trump’s deadline approaches",
+      "summary": "Iran on Monday rejected a 45-day ceasefire proposal and said it wants a permanent end to the war, even as Israel attacked a major gas field and U.S. President Donald Trump’s ultimatum to open the Strait of Hormuz loomed. “We only accept an end of the war with…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4373868/posts",
+      "bloc": "western",
+      "date": "2026-04-06",
+      "datetime": "2026-04-06T17:10:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump confirms receiving Iran's proposal to end war, says \"not good enough\"",
+      "summary": "America's President Donald Trump received a proposal from Iran to end the West Asia conflict. He called it a significant step but not good enough. Iran rejected a US ceasefire deal. Instead, Tehran unveiled its own 10-point plan. This plan aims for a permanen…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-confirms-receiving-irans-proposal-to-end-war-says-not-good-enough/articleshow/130066616.cms",
+      "bloc": "regional",
+      "date": "2026-04-06",
+      "datetime": "2026-04-06T16:53:26Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Tehran rejects latest ceasefire proposal, wants permanent end to the war: Iran's state media",
       "summary": "Tehran rejects the ceasefire proposal, demanding a permanent end to the war with guarantees against future attacks, reports state media.",
@@ -88,58 +140,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Stone Age Showtime",
-      "summary": "If you're in many parts of the Commonwealth (although not Scotland), Happy Easter Monday. If you're in many parts of Europe, Happy Vízbevető, Happy Śmigus-dyngus Happy Velikonoční pondělí or Happy Veľkonočný pondelok, according to taste. If you're in",
-      "source": "Steynonline.com",
-      "url": "https://www.steynonline.com/16135/stone-age-showtime",
-      "bloc": "western",
-      "date": "2026-04-06",
-      "datetime": "2026-04-06T12:37:19Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Monday: Hili dialogue",
-      "summary": "Welcome to Monday, April 6, 2026 and National Carbonara Day, celebrating my favorite pasta aside from Fettuccine Alfredo. As Wikipedia notes, Carbonara (Italian: [karboˈnaːra]) is a pasta dish made with fatty cured pork, hard cheese, eggs, salt, and black pep…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/04/06/monday-hili-dialogue-563/",
-      "bloc": "western",
-      "date": "2026-04-06",
-      "datetime": "2026-04-06T11:45:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -345,6 +345,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Oil Price Shocks Make Brazil Key to Energy Security in the Americas",
+      "summary": "Oil price shocks since the U.S. and Israel first struck Iran, the world’s fifth-largest oil producer, have global markets on edge. The sudden energy crisis, which emerged after Iran closed the Strait of Hormuz, preventing the passage of around a fifth of the …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Price-Shocks-Make-Brazil-Key-to-Energy-Security-in-the-Americas.html",
+      "bloc": "western",
+      "date": "2026-04-06",
+      "datetime": "2026-04-06T19:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Current price of oil as of April 6, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
       "source": "Fortune",
@@ -445,32 +471,6 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "World anxious to open Hormuz Strait while Trump and Iran trade threats",
-      "summary": "Dozens of countries sought ways to restart vital energy shipments through the Strait of Hormuz on Thursday after U.S. President Donald Trump vowed more aggressive strikes on Iran, sending oil prices higher again and deepening strain on consumers. In a speech …",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/world-anxious-to-open-hormuz-strait-while-trump-and-iran-trade-threats2",
-      "bloc": "western",
-      "date": "2026-04-02",
-      "datetime": "2026-04-02T21:34:11Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -759,192 +759,204 @@
       "_from": "newsapi"
     },
     {
-      "headline": "IRGC pressure secured Mojtaba Khamenei as Iran's new Supreme Leader, sources confirm",
-      "summary": "Iranian sources reveal Revolutionary Guards forced Mojtaba Khamenei's selection as Supreme Leader, overcoming pragmatist opposition and Assembly of Experts concerns. IRGC threatened critics and used arguments of wartime urgency to secure his appointment by March 8.",
-      "source": "Reuters / Times of Israel",
-      "url": "https://www.timesofisrael.com/iranian-revolutionary-guards-orchestrated-selection-of-new-supreme-leader-sources/",
-      "bloc": "western",
-      "date": "2026-04-01",
-      "datetime": "2026-04-01T00:00:00Z",
+      "headline": "IAEA Reports Iran Has Not Provided Access to Nuclear Facilities Since March, Warns of Possible Radiological Release",
+      "summary": "IAEA Director General Rafael Grossi warned of potential evacuations as large as major cities if nuclear facilities are hit. Iran has not provided access to affected nuclear facilities or reports since June 2025 attacks, while maintaining storage at underground Isfahan complex.",
+      "source": "IAEA",
+      "url": "https://www.iaea.org/newscenter/statements/iaea-director-generals-introductory-statement-to-the-special-session-of-the-board-of-governors",
+      "bloc": "institutional",
+      "date": "2026-04-07",
+      "datetime": "2026-04-07T10:00:00Z",
       "leaders": [
-        "Mojtaba Khamenei"
+        "Rafael Mariano Grossi"
       ],
       "watch_terms": [
-        "Supreme Leader Iran",
-        "IRGC"
+        "nuclear Iran",
+        "IAEA"
       ],
       "dimensions": [
         "survival"
       ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 4,
+      "variable_key": "nuclear_monitoring_breakdown",
+      "event_type": "infrastructure_attack",
+      "escalation": 5,
       "persian_only": false,
       "dimension_signal": {
-        "leader": "Mojtaba Khamenei",
+        "leader": "Rafael Mariano Grossi",
         "dimension": "survival",
-        "proposed_delta": 3,
-        "rationale": "IRGC pressure tactics securing leadership position demonstrates heavy reliance on military support for political survival",
+        "proposed_delta": -2,
+        "rationale": "Warned cannot rule out radiological release with serious consequences requiring major city evacuations",
         "confidence": "high"
       },
       "_from": "claude"
     },
     {
-      "headline": "New Iran Supreme Leader issues first message via state TV, health questions persist",
-      "summary": "Mojtaba Khamenei's first message as Supreme Leader was read by TV anchor showing only his photograph, raising questions about his condition after reports he was injured in February strikes. Called for continued military resistance and keeping Strait of Hormuz closed.",
-      "source": "Iran International",
-      "url": "https://www.iranintl.com/en/202603125349",
-      "bloc": "persian",
-      "date": "2026-03-12",
-      "datetime": "2026-03-12T00:00:00Z",
+      "headline": "Pakistan Secures Initial IMF Approval for $1.2 Billion Emergency Loan Amid Iran War Economic Pressures",
+      "summary": "Pakistan reached staff-level agreement with IMF to unlock $1.2 billion from $7 billion bailout program as geopolitical risks from Middle East conflict threaten economic recovery. Country faces three-front security challenges while managing debt obligations.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-28/pakistan-gets-initial-imf-approval-for-1-2-billion-of-loans",
+      "bloc": "institutional",
+      "date": "2026-03-28",
+      "datetime": "2026-03-28T15:00:00Z",
       "leaders": [
-        "Mojtaba Khamenei"
+        "General Asim Munir"
       ],
       "watch_terms": [
-        "Supreme Leader Iran",
-        "Strait Hormuz"
+        "IMF Pakistan",
+        "Pakistan military"
       ],
       "dimensions": [
         "survival"
       ],
-      "variable_key": null,
+      "variable_key": "pakistan_imf_bailout",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "claude"
+    },
+    {
+      "headline": "Turkey Explores New Mediation Venues After Pakistan-Led Iran-US Talks Collapse",
+      "summary": "Iran told mediators it will not meet US officials in Islamabad and rejected US demands as unacceptable. Turkey and Egypt now exploring Doha or Istanbul venues with fresh proposals to break deadlock between Washington and Tehran.",
+      "source": "Pravda Turkey",
+      "url": "https://turkey.news-pravda.com/en/turkey/2026/04/03/80438.html",
+      "bloc": "regional",
+      "date": "2026-04-03",
+      "datetime": "2026-04-03T17:33:00Z",
+      "leaders": [
+        "Recep Tayyip Erdogan"
+      ],
+      "watch_terms": [
+        "Turkey mediation",
+        "Turkey Iran"
+      ],
+      "dimensions": [
+        "values"
+      ],
+      "variable_key": "turkey_mediation_role",
       "event_type": "leader_statement",
-      "escalation": 3,
-      "persian_only": true,
+      "escalation": 5,
+      "persian_only": false,
       "dimension_signal": {
-        "leader": "Mojtaba Khamenei",
-        "dimension": "survival",
-        "proposed_delta": -2,
-        "rationale": "inability to appear publicly and reliance on pre-recorded messages indicates weakened position and health concerns",
+        "leader": "Recep Tayyip Erdogan",
+        "dimension": "values",
+        "proposed_delta": 1,
+        "rationale": "Actively pursuing diplomatic mediation role to prevent regional war escalation",
         "confidence": "medium"
       },
       "_from": "claude"
     },
     {
-      "headline": "IAEA reports Iran blocks access to nuclear facilities for eight months amid war",
-      "summary": "International Atomic Energy Agency confirms Iran has denied inspectors access to several nuclear facilities since June 2025 strikes, including Isfahan facility storing 400kg of 60% enriched uranium. E3 nations express deep concern over lack of transparency.",
-      "source": "UK Government / IAEA",
-      "url": "https://www.gov.uk/government/speeches/implementation-of-the-npt-safeguards-agreement-and-unsc-resolutions-in-iran-e3-statement-to-the-iaea-board-of-governors-march-2026",
-      "bloc": "institutional",
-      "date": "2026-03-05",
-      "datetime": "2026-03-05T00:00:00Z",
+      "headline": "China and Pakistan Unveil Five-Point Initiative for Iran-US Ceasefire, Propose Strait of Hormuz Reopening",
+      "summary": "China and Pakistan presented joint peace initiative calling for immediate ceasefire and Strait of Hormuz reopening. Chinese Foreign Minister Wang Yi made 26 phone calls to regional parties, while Beijing positions itself as diplomatic mediator.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/04/01/china/china-pakistan-peace-talks-iran-us-war-intl-hnk",
+      "bloc": "regional",
+      "date": "2026-04-01",
+      "datetime": "2026-04-01T12:00:00Z",
       "leaders": [
-        "Mojtaba Khamenei"
+        "Xi Jinping",
+        "General Asim Munir"
       ],
       "watch_terms": [
-        "nuclear Iran"
+        "China Pakistan",
+        "China Iran"
       ],
       "dimensions": [
-        "accountability"
+        "values"
       ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
+      "variable_key": "china_mediation_role",
+      "event_type": "leader_statement",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "claude"
+    },
+    {
+      "headline": "India-Pakistan Exchange Daily Fire Along LOC for Eighth Consecutive Night Following Pahalgam Attack",
+      "summary": "Pakistani troops violated ceasefire along Line of Control for eighth consecutive night after April 22 Pahalgam terrorist attack that killed 26 civilians. Indian army retaliated in calibrated manner, marking most intense breakdown since 2021 ceasefire agreement.",
+      "source": "Council on Foreign Relations",
+      "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-india-and-pakistan",
+      "bloc": "institutional",
+      "date": "2026-04-07",
+      "datetime": "2026-04-07T09:00:00Z",
+      "leaders": [
+        "Narendra Modi",
+        "General Asim Munir"
+      ],
+      "watch_terms": [
+        "India Pakistan",
+        "LoC violations"
+      ],
+      "dimensions": [
+        "impulsivity"
+      ],
+      "variable_key": "loc_violations_intensity",
+      "event_type": "regional_strike",
       "escalation": 5,
       "persian_only": false,
       "_from": "claude"
     },
     {
-      "headline": "Pakistan mediates US-Iran ceasefire talks as Field Marshal Munir emerges as key broker",
-      "summary": "Field Marshal Asim Munir positioned as central mediator in US-Iran peace efforts, using Revolutionary Guard contacts to deliver 15-point ceasefire proposal. Pakistan's neutral stance aided by avoiding Iranian targeting during war.",
-      "source": "Ynet News",
-      "url": "https://www.ynetnews.com/article/skouxtzi11x",
-      "bloc": "western",
-      "date": "2026-03-20",
-      "datetime": "2026-03-20T00:00:00Z",
+      "headline": "Kim Jong-un Oversees Engine Test for Solid-Fuel ICBM Capable of Reaching US Mainland",
+      "summary": "North Korean leader observed test of upgraded solid-fuel engine with 2,500 kilonewton thrust using carbon fiber materials. Kim called test significant for putting country's strategic military muscle on highest level, part of five-year arms buildup plan.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/north-korea-conducts-engine-test-for-missile-capable-of-reaching-u-s-mainland",
+      "bloc": "institutional",
+      "date": "2026-03-29",
+      "datetime": "2026-03-29T14:00:00Z",
       "leaders": [
-        "General Asim Munir"
+        "Kim Jong-un"
       ],
       "watch_terms": [
-        "Pakistan military",
-        "Iran ceasefire"
+        "DPRK missile",
+        "North Korea nuclear"
       ],
       "dimensions": [
-        "values"
+        "narcissism"
       ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 2,
+      "variable_key": "dprk_icbm_capability",
+      "event_type": "static_variable",
+      "escalation": 5,
       "persian_only": false,
       "dimension_signal": {
-        "leader": "General Asim Munir",
-        "dimension": "values",
-        "proposed_delta": 2,
-        "rationale": "positioning as peace mediator between major powers demonstrates pragmatic diplomatic approach over ideological confrontation",
-        "confidence": "medium"
-      },
-      "_from": "claude"
-    },
-    {
-      "headline": "Xi Jinping purges 100 senior PLA officers including Central Military Commission members",
-      "summary": "By early 2026, Chinese President Xi Jinping detained or removed nearly 100 senior military officers in expanded anti-corruption campaign, including five of six Central Military Commission members. Purge leaves PLA high command in disarray, reducing credibility as Taiwan threat.",
-      "source": "East Asia Forum",
-      "url": "https://eastasiaforum.org/2026/04/04/xi-jinpings-forever-war-on-corruption/",
-      "bloc": "regional",
-      "date": "2026-04-04",
-      "datetime": "2026-04-04T00:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "PLA",
-        "China Taiwan"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 3,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Xi Jinping",
-        "dimension": "survival",
-        "proposed_delta": -2,
-        "rationale": "massive military purges removing his own appointees suggests deep trust issues and weakens military capability against Taiwan",
+        "leader": "Kim Jong-un",
+        "dimension": "narcissism",
+        "proposed_delta": 1,
+        "rationale": "Boasted that countries attacked by tested weapons cannot survive while showcasing military prowess",
         "confidence": "high"
       },
       "_from": "claude"
     },
     {
-      "headline": "Trump approval rating hits 33% on Iran war handling as Congress rejects war powers resolution",
-      "summary": "President Trump's approval for Iran war handling sits at 33%, with overall rating at 35%. Senate rejected war powers resolution 53-47 in March, House followed 219-212. Administration preparing $50 billion supplemental funding request for Iran operations.",
-      "source": "CNN Politics / Christian Science Monitor",
-      "url": "https://www.cnn.com/2026/04/01/politics/donald-trump-iran-war-white-house-speech-cnn-poll",
-      "bloc": "western",
-      "date": "2026-04-01",
-      "datetime": "2026-04-01T00:00:00Z",
+      "headline": "ICC Arrest Warrant Against Putin Remains Active Despite Mongolia Visit, Enforcement Challenges Continue",
+      "summary": "International Criminal Court arrest warrant issued March 2023 against Vladimir Putin for unlawful deportation of Ukrainian children remains binding in 125 member states. Putin traveled to Mongolia in September 2024 without detention despite legal obligations under Rome Statute.",
+      "source": "Federal Bar Association",
+      "url": "https://www.fedbar.org/blog/breaking-legal-barriers-the-icc-arrest-warrant-for-vladimir-putin/",
+      "bloc": "institutional",
+      "date": "2026-04-07",
+      "datetime": "2026-04-07T11:00:00Z",
       "leaders": [
-        "Donald J. Trump"
+        "Vladimir Putin"
       ],
       "watch_terms": [
-        "approval rating",
-        "War Powers",
-        "Iran ceasefire"
+        "ICC Putin",
+        "Putin health"
       ],
       "dimensions": [
         "accountability"
       ],
-      "variable_key": null,
+      "variable_key": "icc_putin_warrant_status",
       "event_type": "static_variable",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
-      "dimension_signal": {
-        "leader": "Donald J. Trump",
-        "dimension": "accountability",
-        "proposed_delta": -2,
-        "rationale": "low approval ratings and congressional resistance to war powers demonstrate reduced domestic political accountability",
-        "confidence": "high"
-      },
       "_from": "claude"
     },
     {
-      "headline": "Netanyahu coalition advances bill to cancel fraud charges in ongoing corruption trial",
-      "summary": "Israeli coalition lawmakers announced bill to repeal fraud and breach of trust crimes that Netanyahu faces in three corruption cases. Opposition calls measure a 'coup' as PM also submitted formal pardon request to President Herzog in November.",
-      "source": "Times of Israel",
+      "headline": "Netanyahu Coalition Advances Bill to Cancel Criminal Charges PM Faces, Opposition Calls It 'Coup'",
+      "summary": "Coalition lawmakers advance bill to repeal fraud and breach of trust crimes Netanyahu faces in corruption trial. Opposition Leader Yair Lapid called it full-fledged coup that would turn Israel into failed third-world country. Bill text unclear on retroactive application.",
+      "source": "The Times of Israel",
       "url": "https://www.timesofisrael.com/coalition-advances-bill-to-repeal-criminal-charge-that-netanyahu-faces-in-his-trial/",
       "bloc": "western",
       "date": "2026-01-13",
-      "datetime": "2026-01-13T00:00:00Z",
+      "datetime": "2026-01-13T16:00:00Z",
       "leaders": [
         "Benjamin Netanyahu"
       ],
@@ -955,78 +967,65 @@
       "dimensions": [
         "accountability"
       ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 3,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Benjamin Netanyahu",
-        "dimension": "accountability",
-        "proposed_delta": -3,
-        "rationale": "attempting to retroactively cancel criminal charges through legislative action represents direct undermining of judicial accountability",
-        "confidence": "high"
-      },
-      "_from": "claude"
-    },
-    {
-      "headline": "ICC Appeals Chamber upholds Netanyahu arrest warrants despite Israeli jurisdiction challenges",
-      "summary": "International Criminal Court Appeals Chamber rejected Israel's admissibility challenge by 3-2 vote in December 2025, keeping arrest warrants against Netanyahu and Gallant active. Two other preliminary motions challenging warrant validity remain pending.",
-      "source": "Just Security",
-      "url": "https://www.justsecurity.org/128238/complementarity-icc-israels-admissibility-challenge/",
-      "bloc": "institutional",
-      "date": "2026-01-09",
-      "datetime": "2026-01-09T00:00:00Z",
-      "leaders": [
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "ICC Netanyahu"
-      ],
-      "dimensions": [
-        "accountability"
-      ],
-      "variable_key": null,
+      "variable_key": "netanyahu_trial_legislation",
       "event_type": "leader_statement",
       "escalation": 4,
       "persian_only": false,
       "dimension_signal": {
         "leader": "Benjamin Netanyahu",
         "dimension": "accountability",
-        "proposed_delta": 2,
-        "rationale": "ICC's rejection of jurisdiction challenges maintains international legal pressure and accountability mechanisms",
+        "proposed_delta": -2,
+        "rationale": "Coalition advancing legislation to retroactively cancel criminal charges he faces in corruption trial",
         "confidence": "high"
       },
       "_from": "claude"
     },
     {
-      "headline": "Xi Jinping deploys PLA Cyberspace Force to South China Sea artificial islands",
-      "summary": "Chinese President Xi Jinping's Lunar New Year message revealed PLA Cyberspace Force stationed on Fiery Cross Reef in disputed Spratly Islands conducting 'combat readiness duty'. Rare public appearance of mysterious cyber warfare unit in South China Sea.",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/military/article/3343312/xis-new-year-message-military-reveals-pla-cyberspace-force-post-south-china-sea",
-      "bloc": "regional",
-      "date": "2026-02-12",
-      "datetime": "2026-02-12T00:00:00Z",
+      "headline": "Iran Ambassador to Pakistan Says Mediation Efforts Approaching 'Critical, Sensitive Stage'",
+      "summary": "Iranian Ambassador Reza Amiri Moghadam stated Pakistan's mediation efforts to stop the war are approaching critical and sensitive stage. China supports Pakistan's mediation role while Tehran maintains conditions for permanent ceasefire and guarantees against renewed aggression.",
+      "source": "Iran International",
+      "url": "https://www.iranintl.com/en/liveblog/202604067622",
+      "bloc": "persian",
+      "date": "2026-04-06",
+      "datetime": "2026-04-06T12:00:00Z",
       "leaders": [
-        "Xi Jinping"
+        "Mojtaba Khamenei"
       ],
       "watch_terms": [
-        "PLA",
-        "South China Sea"
+        "Iran ceasefire",
+        "Pakistan mediation"
       ],
       "dimensions": [
         "values"
       ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
+      "variable_key": "iran_mediation_response",
+      "event_type": "leader_statement",
       "escalation": 4,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Xi Jinping",
-        "dimension": "values",
-        "proposed_delta": -1,
-        "rationale": "deployment of cyber warfare capabilities to disputed territories signals increasingly aggressive military posture over territorial claims",
-        "confidence": "medium"
-      },
+      "persian_only": true,
+      "_from": "claude"
+    },
+    {
+      "headline": "Iran's Defense Council Declares Strait of Hormuz Passage Depends on Coordination with Tehran for Non-Belligerent Countries",
+      "summary": "Iran's Defense Council announced passage through Strait of Hormuz would depend on coordination with Tehran for countries described as non-belligerent. Statement comes amid Trump's threats to target Iranian energy infrastructure if strait remains closed.",
+      "source": "Iran International",
+      "url": "https://www.iranintl.com/en/202603230121",
+      "bloc": "persian",
+      "date": "2026-03-23",
+      "datetime": "2026-03-23T14:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Strait Hormuz",
+        "Iran ceasefire"
+      ],
+      "dimensions": [
+        "survival"
+      ],
+      "variable_key": "strait_hormuz_conditions",
+      "event_type": "leader_statement",
+      "escalation": 5,
+      "persian_only": true,
       "_from": "claude"
     }
   ]

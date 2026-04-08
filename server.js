@@ -10,6 +10,7 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 8080;
 const API_KEY       = process.env.COMMODITY_API_KEY || '';
+const NEWSDATA_KEY  = process.env.NEWSDATA_API_KEY || '';
 const RESEND_KEY    = process.env.RESEND_API_KEY || '';
 const WATCH_FILE    = path.join(__dirname, 'watch_state.json');
 const LEADERS_FILE  = path.join(__dirname, 'leaders.json');
@@ -48,8 +49,7 @@ function safeISODate(raw) {
 
 // ── LEADERS ENDPOINT ──
 app.get('/api/leaders', (req, res) => {
-  const data = readJSON(LEADERS_FILE, { leaders: [] });
-  const leaders = data.leaders || data;  // handle both {leaders:[...]} and bare array
+  const leaders = readJSON(LEADERS_FILE, []);
   res.set('Cache-Control', 'public, max-age=3600');
   res.json({ leaders, ts: new Date().toISOString() });
 });
@@ -122,8 +122,7 @@ function estimateImpact(gdeltResult, dimWeight) {
 
 // ── WATCH MONITORING ──
 async function runWatchMonitoring() {
-  const leadersData = readJSON(LEADERS_FILE, { leaders: [] });
-  const leaders = leadersData.leaders || leadersData;
+  const leaders = readJSON(LEADERS_FILE, []);
   const state = readJSON(WATCH_FILE, { leaders: {}, vars: {} });
   const DIM_THRESHOLDS = { narcissism: 2.5, impulsivity: 2.8, values: 3.0, survival: 2.0, accountability: 2.3 };
   const DIM_WEIGHTS = { narcissism: 20, impulsivity: 18, values: 15, survival: 25, accountability: 22 };
@@ -196,8 +195,7 @@ async function runWatchMonitoring() {
 async function sendEmailDigest() {
   if (!RESEND_KEY) { console.log('No RESEND_KEY — skipping email'); return; }
   const state = readJSON(WATCH_FILE, { leaders: {}, vars: {} });
-  const leadersData = readJSON(LEADERS_FILE, { leaders: [] });
-  const leaders = leadersData.leaders || leadersData;
+  const leaders = readJSON(LEADERS_FILE, []);
   const lines = [];
 
   for (const leader of leaders) {
@@ -281,19 +279,9 @@ app.get('/api/live', async (req, res) => {
   try {
     let oil = null;
 
-    // ── PRIMARY: read live Brent price from news.json (written by GitHub Action) ──
-    // The Action already fetches from Commodity API and stores the real price.
-    // This is more reliable than calling the Commodity API directly from Railway.
-    if (fs.existsSync(NEWS_FILE)) {
-      const news = readJSON(NEWS_FILE, {});
-      if (news.live_variables && news.live_variables.oilPrice && news.live_variables.oilPrice > 0) {
-        oil = { price: news.live_variables.oilPrice, source: 'CommodityPriceAPI', change_pct: '' };
-        console.log(`Oil from news.json: $${oil.price}/bbl (stress: ${news.live_variables.oilStress})`);
-      }
-    }
-
-    // ── SECONDARY: call Commodity API directly if news.json unavailable ──
-    if (!oil && API_KEY) {
+    // ── PRIMARY: call Commodity API directly — always real-time price ──
+    // This fires on every page refresh so oil price is never stale between Action runs.
+    if (API_KEY) {
       try {
         const d = await httpsGet(`https://commoditypriceapi.com/api/latest?access_key=${API_KEY}&base=USD&symbols=BRENT`);
         if (d && d.rates && d.rates.BRENT && d.rates.BRENT > 0) {
@@ -302,15 +290,24 @@ app.get('/api/live', async (req, res) => {
             ? Math.round((1 / rawRate) * 100) / 100
             : Math.round(rawRate * 100) / 100;
           oil = { price: pricePerBarrel, source: 'CommodityPriceAPI', change_pct: '' };
-          console.log(`Oil from Commodity API: $${pricePerBarrel}/bbl`);
+          console.log(`Oil from Commodity API (live): $${pricePerBarrel}/bbl`);
         }
       } catch(e) { console.warn('Commodity API error:', e.message); }
     }
 
-    // ── LAST RESORT: use a reasonable war-context estimate ──
+    // ── SECONDARY: fall back to news.json if commodity API fails ──
+    if (!oil && fs.existsSync(NEWS_FILE)) {
+      const news = readJSON(NEWS_FILE, {});
+      if (news.live_variables && news.live_variables.oilPrice && news.live_variables.oilPrice > 0) {
+        oil = { price: news.live_variables.oilPrice, source: 'CommodityPriceAPI', change_pct: '' };
+        console.log(`Oil from news.json (fallback): $${oil.price}/bbl`);
+      }
+    }
+
+    // ── LAST RESORT ──
     if (!oil) {
-      oil = { price: 0, source: 'Unavailable', change_pct: '' };
-      console.warn('Oil price unavailable — all sources failed');
+      oil = { price: 97 + (Math.random() - 0.5) * 4, source: 'Estimated', change_pct: '' };
+      console.warn('Using estimated oil price — all sources unavailable');
     }
 
     // ── GDELT INTELLIGENCE FEED ──
@@ -404,27 +401,21 @@ const VAR_CONFIG = {
   // direction: 'up' = high news intensity pushes value up (bad = higher)
   //            'down' = high news intensity pushes value down (bad = lower)
   oilPrice:              { baseline: 47,  direction: 'up',   floor: 0,   ceiling: 100, sensitivity: 1.2 },
-  straitControl:         { baseline: 70,  direction: 'up',   floor: 30,  ceiling: 100, sensitivity: 0.8 },
-  weaponsDepletion:      { baseline: 58,  direction: 'up',   floor: 20,  ceiling: 100, sensitivity: 0.7 },
-  nuclearSignalling:     { baseline: 60,  direction: 'up',   floor: 20,  ceiling: 100, sensitivity: 0.6 },
-  cyberIntensity:        { baseline: 50,  direction: 'up',   floor: 15,  ceiling: 100, sensitivity: 0.5 },
-  proxyActivation:       { baseline: 62,  direction: 'up',   floor: 20,  ceiling: 100, sensitivity: 0.8 },
-  congressConstraint:    { baseline: 20,  direction: 'down', floor: 5,   ceiling: 50,  sensitivity: 0.7 },
-  diplomaticChannels:    { baseline: 22,  direction: 'down', floor: 5,   ceiling: 60,  sensitivity: 0.5 },
+  straitControl:         { baseline: 70,  direction: 'up',   floor: 30,  ceiling: 100, sensitivity: 1.5 },
+  nuclearSignalling:     { baseline: 60,  direction: 'up',   floor: 20,  ceiling: 100, sensitivity: 2.0 },
+  congressConstraint:    { baseline: 20,  direction: 'down', floor: 5,   ceiling: 50,  sensitivity: 1.0 },
+  diplomaticChannels:    { baseline: 22,  direction: 'down', floor: 5,   ceiling: 60,  sensitivity: 1.2 },
   armsControlArchitecture:{ baseline: 15, direction: 'down', floor: 5,   ceiling: 40,  sensitivity: 0.8 },
-  netanyahuLegalJeopardy:{ baseline: 82,  direction: 'up',   floor: 50,  ceiling: 100, sensitivity: 0.8 },
-  iranRegimeCohesion:    { baseline: 40,  direction: 'up',   floor: 15,  ceiling: 75,  sensitivity: 0.8 },
-  trumpDomesticPressure: { baseline: 65,  direction: 'up',   floor: 30,  ceiling: 95,  sensitivity: 0.6 },
-  pakistanEconomicStress:{ baseline: 68,  direction: 'up',   floor: 30,  ceiling: 95,  sensitivity: 0.7 }
+  netanyahuLegalJeopardy:{ baseline: 82,  direction: 'up',   floor: 50,  ceiling: 100, sensitivity: 1.0 },
+  iranRegimeCohesion:    { baseline: 40,  direction: 'up',   floor: 15,  ceiling: 75,  sensitivity: 1.5 },
+  trumpDomesticPressure: { baseline: 65,  direction: 'up',   floor: 30,  ceiling: 95,  sensitivity: 1.0 },
+  pakistanEconomicStress:{ baseline: 68,  direction: 'up',   floor: 30,  ceiling: 95,  sensitivity: 1.2 }
 };
 
 // Also map leader watch terms to dimension signals
 const LEADER_VAR_MAP = {
   'straitControl':          ['Mojtaba Khamenei', 'Mohammed bin Salman', 'Xi Jinping'],
-  'weaponsDepletion':       ['Donald J. Trump'],
   'nuclearSignalling':      ['Kim Jong-un', 'Vladimir Putin', 'General Asim Munir', 'Narendra Modi'],
-  'cyberIntensity':         ['Vladimir Putin', 'Kim Jong-un', 'Xi Jinping'],
-  'proxyActivation':        ['Mojtaba Khamenei', 'Mohammed bin Salman', 'Recep Tayyip Erdogan'],
   'congressConstraint':     ['Donald J. Trump'],
   'diplomaticChannels':     ['Donald J. Trump', 'Mojtaba Khamenei', 'Recep Tayyip Erdogan'],
   'netanyahuLegalJeopardy': ['Benjamin Netanyahu'],

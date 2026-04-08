@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-07T20:07:55.970Z",
+  "updated": "2026-04-08T06:08:28.280Z",
   "retention_days": 30,
   "items": [
     {
@@ -2712,38 +2712,6 @@
       "event_type": "infrastructure_attack",
       "escalation": 5,
       "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-04T08:03:12.048Z",
-      "run_id": "2026-04-04T08:03"
-    },
-    {
-      "headline": "Tehran Protests Against New Supreme Leader Mojtaba Khamenei Continue",
-      "summary": "Video footage from Tehran neighborhoods shows continued chanting against newly appointed Supreme Leader Mojtaba Khamenei, with voices calling 'Death to Mojtaba' echoing through residential areas on March 8.",
-      "source": "Radio Farda",
-      "url": "https://www.rferl.org/author/rfe-rls-radio-farda/g_t_qo",
-      "bloc": "persian",
-      "date": "2026-03-08",
-      "datetime": "2026-03-08T20:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Supreme Leader Iran"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
-      "persian_only": true,
-      "dimension_signal": {
-        "leader": "Mojtaba Khamenei",
-        "dimension": "survival",
-        "proposed_delta": -2,
-        "rationale": "Domestic protests against new leader indicate declining regime legitimacy and survival prospects",
-        "confidence": "high"
-      },
       "_from": "claude",
       "first_seen": "2026-04-04T08:03:12.048Z",
       "run_id": "2026-04-04T08:03"
@@ -6780,39 +6748,6 @@
       "run_id": "2026-04-07T20:07"
     },
     {
-      "headline": "Netanyahu Coalition Advances Bill to Cancel Criminal Charges PM Faces, Opposition Calls It 'Coup'",
-      "summary": "Coalition lawmakers advance bill to repeal fraud and breach of trust crimes Netanyahu faces in corruption trial. Opposition Leader Yair Lapid called it full-fledged coup that would turn Israel into failed third-world country. Bill text unclear on retroactive application.",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/coalition-advances-bill-to-repeal-criminal-charge-that-netanyahu-faces-in-his-trial/",
-      "bloc": "western",
-      "date": "2026-01-13",
-      "datetime": "2026-01-13T16:00:00Z",
-      "leaders": [
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "trial hearing",
-        "coalition collapse"
-      ],
-      "dimensions": [
-        "accountability"
-      ],
-      "variable_key": "netanyahu_trial_legislation",
-      "event_type": "leader_statement",
-      "escalation": 4,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Benjamin Netanyahu",
-        "dimension": "accountability",
-        "proposed_delta": -2,
-        "rationale": "Coalition advancing legislation to retroactively cancel criminal charges he faces in corruption trial",
-        "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-07T20:07:55.970Z",
-      "run_id": "2026-04-07T20:07"
-    },
-    {
       "headline": "Iran Ambassador to Pakistan Says Mediation Efforts Approaching 'Critical, Sensitive Stage'",
       "summary": "Iranian Ambassador Reza Amiri Moghadam stated Pakistan's mediation efforts to stop the war are approaching critical and sensitive stage. China supports Pakistan's mediation role while Tehran maintains conditions for permanent ceasefire and guarantees against renewed aggression.",
       "source": "Iran International",
@@ -6863,7 +6798,514 @@
       "_from": "claude",
       "first_seen": "2026-04-07T20:07:55.970Z",
       "run_id": "2026-04-07T20:07"
+    },
+    {
+      "headline": "Trump’s Hubris and U.S. Military Incompetence Are Leading Us to Catastrophe",
+      "summary": "An Empire in Terminal Decline I believe we are witnessing the final, gasping breaths of the American empire. As an author and researcher who has studied the realities of modern warfare and the rot within our own institutions, I see a U.S. military that is not…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-07-trump-hubris-military-incompetence-leading-to-catastrophe.html",
+      "bloc": "western",
+      "date": "2026-04-07",
+      "datetime": "2026-04-07T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "Iran defiant as deadline looms for Trump threat to infrastructure",
+      "summary": "Iran showed no sign of backing down Tuesday as a U.S. deadline loomed for it to reopen the Strait of Hormuz, defying threats by President Donald Trump to \"decimate\" the country's civilian infrastructure.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/iran-defiant-as-deadline-looms-for-trump-threat-to-infrastructure-220717",
+      "bloc": "western",
+      "date": "2026-04-07",
+      "datetime": "2026-04-07T05:30:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "Iran: US adopts Israel’s Gaza/Beirut Obliteration Doctrine",
+      "summary": "The threats explicitly reference civilian infrastructure systems, including energy (electricity), water (desalination) and economy-wide assets.",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/04/israels-obliteration-doctrine.html",
+      "bloc": "western",
+      "date": "2026-04-07",
+      "datetime": "2026-04-07T04:15:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "Pentagon Considers “Weeks” of Ground Operations In Iran",
+      "summary": "The Pentagon is weighing its options in the war the United States started, and on the table are “weeks” worth of ground operations against Iran. The U.S. is also busy plotting a ground attack despite publicly engaging in diplomatic efforts allegedly aimed at …",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/pentagon-considers-weeks-of-ground-operations-in-iran/",
+      "bloc": "western",
+      "date": "2026-04-07",
+      "datetime": "2026-04-07T02:26:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "Trump's shipping waiver does not boost oil flows within US; fuel exports soar",
+      "summary": "Last month, Trump waived Jones Act limitations for 60 days starting March 17, hoping the move would help tame the ‌surge in fuel prices caused by the Iran war by increasing shipments from the US Gulf Coast to other coastal markets in the country",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/trumps-shipping-waiver-does-not-boost-oil-flows-within-us-fuel-exports-soar/article70832823.ece",
+      "bloc": "western",
+      "date": "2026-04-07",
+      "datetime": "2026-04-07T04:54:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "Trump’s Shipping Waiver Does Not Boost Oil Flows Within US; Fuel Exports Soar",
+      "summary": "U.S. President Donald Trump's move allowing foreign-flagged cargo ships to move fuel and other goods between domestic ports has so far had little impact on American oil supply,according to trade data and analysts who noted that U.S. refiners and shippers are …",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/trumps-shipping-waiver-does-not-boost-oil-flows-within-us-fuel-exports-soar/",
+      "bloc": "western",
+      "date": "2026-04-06",
+      "datetime": "2026-04-06T22:36:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "Diesel Prices Exceed $8 Per Gallon in San Francisco as Supply Disruptions Affect California",
+      "summary": "Introduction SAN FRANCISCO — The average price for a gallon of diesel fuel in San Francisco surpassed $8 on Saturday, April 5, 2026, marking the first time any U.S. city has reached that price threshold, according to data from fuel-tracking website GasBuddy. …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-07-diesel-prices-surge-sf-supply-disruptions-affect-california.html",
+      "bloc": "western",
+      "date": "2026-04-07",
+      "datetime": "2026-04-07T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "Radio Farda Persian Broadcasting Faces Infrastructure Collapse Amid Iran War",
+      "summary": "Persian-language international broadcasting services including Radio Farda are experiencing severe technical disruptions, with servers returning 502 errors and feeds going offline since February 2026. Iranian state media blackouts compound information warfare challenges.",
+      "source": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/ops/iran-news-ticker.htm",
+      "bloc": "persian",
+      "date": "2026-04-08",
+      "datetime": "2026-04-08T14:30:00Z",
+      "leaders": [],
+      "watch_terms": [],
+      "dimensions": [],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 4,
+      "persian_only": true,
+      "dimension_signal": null,
+      "_from": "claude",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "IAEA Confirms Fourth Strike Near Bushehr Nuclear Plant as Iran War Enters Day 40",
+      "summary": "International Atomic Energy Agency reported a fourth projectile strike near Iran's Bushehr nuclear facility on April 4, marking continued targeting of civilian nuclear infrastructure. IAEA Director General emphasizes seven security pillars for nuclear sites during conflict.",
+      "source": "American Nuclear Society",
+      "url": "https://www.ans.org/news/2026-04-06/article-7911/iaea-provides-updates-on-iran-nuclear-facilities/",
+      "bloc": "institutional",
+      "date": "2026-04-04",
+      "datetime": "2026-04-04T16:00:00Z",
+      "leaders": [],
+      "watch_terms": [],
+      "dimensions": [],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 5,
+      "persian_only": false,
+      "dimension_signal": null,
+      "_from": "claude",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "US Intelligence Assessment Labels Pakistan Under Munir as 'Pariah State' Threat",
+      "summary": "US Intelligence Community's 2026 Annual Threat Assessment explicitly categorizes Pakistan with North Korea and Iran as direct global security threats. Report cites 'Munir Doctrine' of nuclear blackmail and ICBM development despite IMF bailout dependency.",
+      "source": "ProKerala News",
+      "url": "https://www.prokerala.com/news/articles/a1744127.html",
+      "bloc": "institutional",
+      "date": "2026-03-14",
+      "datetime": "2026-03-14T09:00:00Z",
+      "leaders": [
+        "General Asim Munir"
+      ],
+      "watch_terms": [
+        "Pakistan military",
+        "Pakistan nuclear"
+      ],
+      "dimensions": [
+        "survival"
+      ],
+      "variable_key": "pak_military_escalation",
+      "event_type": "leader_watch_term",
+      "escalation": 5,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "General Asim Munir",
+        "dimension": "survival",
+        "proposed_delta": 3,
+        "rationale": "US formally designates Pakistan as pariah state threat under Munir's leadership",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "Dawn Reports Iranian Petrol Sales Restricted to Balochistan Province Only",
+      "summary": "Pakistani English-language newspaper Dawn confirms Iranian fuel imports limited to Balochistan province with strict prohibition on inter-provincial distribution. Energy crisis deepens as government extends fuel subsidies through digital wallet system.",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/latest-news",
+      "bloc": "regional",
+      "date": "2026-04-05",
+      "datetime": "2026-04-05T08:33:00Z",
+      "leaders": [],
+      "watch_terms": [],
+      "dimensions": [],
+      "variable_key": "pak_energy_shortage",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "dimension_signal": null,
+      "_from": "claude",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "Geo News Reports Iranian Foreign Minister Thanks Pakistan Leadership for Mediation Efforts",
+      "summary": "Pakistani broadcaster Geo News confirmed Iranian Foreign Minister Abbas Araghchi expressed gratitude to PM Sharif and Field Marshal Munir for their tireless mediation efforts in Iran-US conflict. Pakistan positions itself as key regional peace broker.",
+      "source": "Geo TV",
+      "url": "https://www.geo.tv/category/pakistan",
+      "bloc": "regional",
+      "date": "2026-04-07",
+      "datetime": "2026-04-07T12:00:00Z",
+      "leaders": [
+        "General Asim Munir"
+      ],
+      "watch_terms": [
+        "Pakistan military"
+      ],
+      "dimensions": [
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "General Asim Munir",
+        "dimension": "narcissism",
+        "proposed_delta": 2,
+        "rationale": "Iranian praise reinforces Pakistan military's self-image as indispensable regional power broker",
+        "confidence": "medium"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "SIPRI Report Warns Europe Must Step Up Arms Control as New START Expires",
+      "summary": "Stockholm International Peace Research Institute urges European-led arms control approach to mitigate NATO-Russia escalation risks. Report emphasizes need for risk-reduction regime along contact zones as bilateral US-Russia framework collapses.",
+      "source": "SIPRI",
+      "url": "https://www.sipri.org/commentary/essay/2026/after-new-start-expires-europe-needs-step-arms-control",
+      "bloc": "institutional",
+      "date": "2026-02-04",
+      "datetime": "2026-02-04T10:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "New START"
+      ],
+      "dimensions": [],
+      "variable_key": "arms_control_collapse",
+      "event_type": "static_variable",
+      "escalation": 5,
+      "persian_only": false,
+      "dimension_signal": null,
+      "_from": "claude",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "Xi Jinping Learns Real-Time US War Capabilities from Iran Conflict, Analysts Warn",
+      "summary": "China observes US military operations against Iran to assess Washington's ability to manage multiple crises simultaneously. Military strategists warn Beijing may view this as window for Taiwan action while US resources are stretched in Middle East.",
+      "source": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/04/china-260401-rferl01.htm",
+      "bloc": "institutional",
+      "date": "2026-04-01",
+      "datetime": "2026-04-01T15:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "China Taiwan",
+        "PLA"
+      ],
+      "dimensions": [
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 5,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Xi Jinping",
+        "dimension": "impulsivity",
+        "proposed_delta": -1,
+        "rationale": "Xi demonstrates patience and strategic calculation rather than opportunistic aggression during US distraction",
+        "confidence": "medium"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "China-Pakistan Five-Point Peace Plan for Iran War Dismissed as Reputation Building",
+      "summary": "American Enterprise Institute analysis concludes China-Pakistan joint peace initiative serves primarily to bolster Beijing's mediator image without addressing core dispute issues. Similar pattern observed in China's Ukraine peace plan approach.",
+      "source": "American Enterprise Institute",
+      "url": "https://www.aei.org/articles/china-taiwan-update-april-3-2026/",
+      "bloc": "institutional",
+      "date": "2026-04-03",
+      "datetime": "2026-04-03T14:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "China Iran",
+        "China Pakistan"
+      ],
+      "dimensions": [
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Xi Jinping",
+        "dimension": "narcissism",
+        "proposed_delta": 1,
+        "rationale": "China prioritizes reputation enhancement over substantive conflict resolution in peace initiatives",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "North Korea's Kim Jong-un Oversees Hypersonic Missile Tests Citing Iran War Crisis",
+      "summary": "Korean Central News Agency confirms Kim Jong-un supervised hypersonic missile tests, directly citing 'recent geopolitical crisis' and US actions in Venezuela and Iran. Tests demonstrate 1,000km range as nuclear deterrent expansion response.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/1/5/n-koreas-kim-oversaw-hypersonic-missile-tests-cites-geopolitical-crisis",
+      "bloc": "institutional",
+      "date": "2026-01-05",
+      "datetime": "2026-01-05T09:00:00Z",
+      "leaders": [
+        "Kim Jong-un"
+      ],
+      "watch_terms": [
+        "DPRK missile",
+        "Kim Jong-un"
+      ],
+      "dimensions": [
+        "survival"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Kim Jong-un",
+        "dimension": "survival",
+        "proposed_delta": 2,
+        "rationale": "Kim directly links missile tests to US regime change operations against allies",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "Erdogan Tells NATO Chief Iran Conflict Creates 'Geostrategic Impasse' Requiring International Action",
+      "summary": "Turkish President informs NATO Secretary General Mark Rutte that Middle East intervention has led to regional deadlock with broad implications. Turkey coordinates mediation efforts with Pakistan and Egypt while maintaining NATO alliance obligations.",
+      "source": "Turkish Minute",
+      "url": "https://www.turkishminute.com/2026/04/05/erdogan-tells-nato-chief-mideast-conflict-has-created-geostrategic-impasse/",
+      "bloc": "regional",
+      "date": "2026-04-05",
+      "datetime": "2026-04-05T16:00:00Z",
+      "leaders": [
+        "Recep Tayyip Erdogan"
+      ],
+      "watch_terms": [
+        "Turkey NATO",
+        "Turkey mediation"
+      ],
+      "dimensions": [
+        "values"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Recep Tayyip Erdogan",
+        "dimension": "values",
+        "proposed_delta": 1,
+        "rationale": "Erdogan balances NATO loyalty with independent regional mediation role, showing pragmatic flexibility",
+        "confidence": "medium"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
+    },
+    {
+      "headline": "Foundation for Defense of Democracies Labels Turkey 'New Iran' Threat to Western Alliance",
+      "summary": "US defense policy institute warns Turkey challenges NATO interests more brazenly over time, citing F-16 deployment to occupied Cyprus and support for Hamas operations. Analysis questions Turkey's alliance credibility amid Iran war mediation efforts.",
+      "source": "Foundation for Defense of Democracies",
+      "url": "https://www.fdd.org/analysis/2026/04/06/turkey-the-new-iran-ankaras-growing-challenge-to-western-interests/",
+      "bloc": "institutional",
+      "date": "2026-04-06",
+      "datetime": "2026-04-06T13:00:00Z",
+      "leaders": [
+        "Recep Tayyip Erdogan"
+      ],
+      "watch_terms": [
+        "Turkey NATO"
+      ],
+      "dimensions": [
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 5,
+      "persian_only": false,
+      "dimension_signal": {
+        "leader": "Recep Tayyip Erdogan",
+        "dimension": "accountability",
+        "proposed_delta": -2,
+        "rationale": "Western institutions increasingly view Turkey as adversarial to alliance interests under Erdogan",
+        "confidence": "high"
+      },
+      "_from": "claude",
+      "first_seen": "2026-04-08T06:08:28.280Z",
+      "run_id": "2026-04-08T06:08"
     }
   ],
-  "total_items_ever": 278
+  "total_items_ever": 296
 }

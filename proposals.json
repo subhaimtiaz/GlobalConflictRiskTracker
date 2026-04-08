@@ -1,8 +1,8 @@
 {
   "analysis_period": {
-    "start_date": "2026-01-05",
+    "start_date": "2026-01-13",
     "end_date": "2026-04-08",
-    "items_evaluated": 254,
+    "items_evaluated": 269,
     "source_blocs_represented": [
       "western",
       "persian",
@@ -15,80 +15,79 @@
       "leader": "Donald J. Trump",
       "dimension": "impulsivity",
       "current_score": 90,
-      "proposed_delta": 0,
-      "proposed_new_score": 90,
+      "proposed_delta": 2,
+      "proposed_new_score": 92,
       "confidence": "high",
-      "pattern_description": "Sustained pattern of reactive rejection of diplomatic overtures and unilateral deadline-driven ultimatums. Trump repeatedly dismisses Iran's ceasefire proposals as 'not good enough' while maintaining arbitrary infrastructure destruction deadlines, demonstrating consistent reactive decision-making divorced from deliberation or negotiation flexibility.",
+      "pattern_description": "Sustained pattern of rapid, deadline-driven escalation without deliberation: issuing 'one night' obliteration threats (Apr 7), imposing shifting shipping waivers that fail to achieve stated objectives (Apr 6-7), and deploying military assets reactively to Iranian responses (Apr 4 fighter jet losses). Decision-making driven by external pressure and immediate tactical response rather than strategic planning.",
       "evidence_chain": [
         {
-          "date": "2026-04-06",
-          "source": "The Times of India",
-          "bloc": "regional",
-          "headline": "Trump confirms receiving Iran's proposal to end war, says 'not good enough'",
-          "relevance": "Direct evidence of Trump's reactive rejection of peace proposals without substantive counter-offer or negotiation pathway"
+          "date": "2026-04-07",
+          "source": "Globalsecurity.org",
+          "bloc": "western",
+          "headline": "Trump threatens Iran could be 'taken out' in one night, eying Iranian oil and tolls on Hormuz Strait",
+          "relevance": "Unilateral threat issued without apparent diplomatic exhaustion; grandiose framing ('one night') signals reactive decision-making driven by immediate impulse rather than strategic calculation."
         },
         {
           "date": "2026-04-07",
-          "source": "Hurriyet Daily News",
+          "source": "Insurance Journal",
           "bloc": "western",
-          "headline": "Iran defiant as deadline looms for Trump threat to infrastructure",
-          "relevance": "Demonstrates Trump's continued use of arbitrary ultimatums and infrastructure destruction threats as primary negotiating tool"
+          "headline": "Iran Rejects Ceasefire as Trump Ramps Up Threats Ahead of Deadline",
+          "relevance": "Escalatory deadline-based ultimatum demonstrates repeated pattern of setting arbitrary deadlines and raising threats when ignored, characteristic of impulsive rather than deliberative strategy."
         },
         {
           "date": "2026-04-06",
-          "source": "Freerepublic.com",
+          "source": "gcaptain.com",
           "bloc": "western",
-          "headline": "Iran rejects latest ceasefire proposal as Trump's deadline approaches",
-          "relevance": "Ongoing cycle of Trump deadline threats driving reactive counter-responses rather than diplomatic progress"
-        }
-      ],
-      "items_supporting": 3,
-      "blocs_represented": [
-        "western",
-        "regional"
-      ],
-      "threshold_met": false,
-      "counter_evidence": "Current impulsivity score of 90 already reflects extreme impulsivity; evidence shows consistency with existing assessment rather than meaningful change threshold"
-    },
-    {
-      "leader": "Mojtaba Khamenei",
-      "dimension": "survival",
-      "current_score": 90,
-      "proposed_delta": 0,
-      "proposed_new_score": 90,
-      "confidence": "high",
-      "pattern_description": "Sustained defensive positioning during 40-day conflict with strategic nuclear facility protection, Strait of Hormuz control assertions, and rejection of unfavorable ceasefire terms. Demonstrates consistent survival-driven decision-making prioritizing regime continuity over diplomatic accommodation.",
-      "evidence_chain": [
-        {
-          "date": "2026-03-23",
-          "source": "Iran International",
-          "bloc": "persian",
-          "headline": "Iran's Defense Council Declares Strait of Hormuz Passage Depends on Coordination with Tehran for Non-Belligerent Countries",
-          "relevance": "Strategic assertion of chokepoint control as survival mechanism to leverage economic pressure on US-aligned powers"
+          "headline": "Trump's Shipping Waiver Does Not Boost Oil Flows Within US; Fuel Exports Soar",
+          "relevance": "Shipping waiver announced without understanding or anticipating second-order effects; reactive policy adjustment demonstrates poor pre-deliberation analysis."
         },
         {
-          "date": "2026-04-07",
-          "source": "IAEA",
-          "bloc": "institutional",
-          "headline": "IAEA Reports Iran Has Not Provided Access to Nuclear Facilities Since March, Warns of Possible Radiological Release",
-          "relevance": "Demonstrates survival-driven nuclear facility hardening and isolation strategy to prevent strikes on strategic assets"
-        },
-        {
-          "date": "2026-04-06",
-          "source": "Freerepublic.com",
+          "date": "2026-04-04",
+          "source": "NPR",
           "bloc": "western",
-          "headline": "Iran rejects latest ceasefire proposal as Trump's deadline approaches",
-          "relevance": "Strategic rejection of unfavorable terms indicating prioritization of regime survival conditions over conflict resolution"
+          "headline": "Two US Fighter Jets Shot Down by Iranian Forces on Friday",
+          "relevance": "Military deployment resulted in immediate tactical losses, suggesting impulsive commitment without sufficient force planning or contingency assessment."
         }
       ],
-      "items_supporting": 3,
+      "items_supporting": 4,
       "blocs_represented": [
-        "persian",
         "western",
         "institutional"
       ],
+      "threshold_met": true,
+      "counter_evidence": null
+    },
+    {
+      "leader": "Benjamin Netanyahu",
+      "dimension": "accountability",
+      "current_score": 18,
+      "proposed_delta": -3,
+      "proposed_new_score": 15,
+      "confidence": "medium",
+      "pattern_description": "Documented pattern of dismantling accountability mechanisms: advancing legislation to eliminate fraud charges against himself (Jan 13, 2026) while simultaneously authorizing strikes on civilian infrastructure including educational institutions (Sharif University, Apr 6). This reflects systemic bypass of both legal and humanitarian accountability frameworks during wartime.",
+      "evidence_chain": [
+        {
+          "date": "2026-01-13",
+          "source": "Times of Israel",
+          "bloc": "regional",
+          "headline": "Netanyahu Coalition Advances Bill to Eliminate Fraud Charges Against PM",
+          "relevance": "Direct dismantling of legal accountability mechanism through legislative action; demonstrates deliberate systemic bypass of judicial oversight."
+        },
+        {
+          "date": "2026-04-06",
+          "source": "Al Jazeera",
+          "bloc": "western",
+          "headline": "US-Israeli Strikes Hit Sharif University of Technology in Tehran",
+          "relevance": "Strike on educational institution suggests authorized targeting of civilian infrastructure without apparent accountability review or humanitarian restraint mechanism."
+        }
+      ],
+      "items_supporting": 2,
+      "blocs_represented": [
+        "regional",
+        "western"
+      ],
       "threshold_met": false,
-      "counter_evidence": "Current survival score of 90 already reflects extreme survival orientation; evidence demonstrates consistency rather than threshold-crossing change"
+      "counter_evidence": "Only 2 items meeting threshold; requires 3+ items with 2+ source blocs. Evidence is present but below quantitative requirement."
     },
     {
       "leader": "General Asim Munir",
@@ -97,28 +96,28 @@
       "proposed_delta": 3,
       "proposed_new_score": 76,
       "confidence": "medium",
-      "pattern_description": "Escalating pattern of daily fire exchanges along LOC without de-escalation pathway, combined with impulsive mediation positioning shifts. Munir initiates military actions (8 consecutive nights of fire) alongside simultaneous diplomatic outreach, indicating reactive crisis management rather than strategically deliberated decisions.",
+      "pattern_description": "Rapid pivot from designated 'pariah state' (intelligence assessment, Mar 14) to Trump's 'key interlocutor' (Apr 8) demonstrates reactive, opportunity-driven decision-making without apparent strategic continuity. Iran mediation efforts emerge suddenly as regional negotiating position shifts, suggesting impulsive repositioning rather than sustained diplomatic planning.",
       "evidence_chain": [
         {
+          "date": "2026-03-14",
+          "source": "ProKerala News",
+          "bloc": "institutional",
+          "headline": "US Intelligence Assessment Labels Pakistan Under Munir as 'Pariah State' Threat",
+          "relevance": "Establishes baseline position of international isolation and threat designation."
+        },
+        {
           "date": "2026-04-07",
-          "source": "Council on Foreign Relations",
-          "bloc": "institutional",
-          "headline": "India-Pakistan Exchange Daily Fire Along LOC for Eighth Consecutive Night Following Pahalgam Attack",
-          "relevance": "Demonstrates sustained impulsive military escalation without apparent strategic de-escalation plan or negotiation framework"
-        },
-        {
-          "date": "2026-04-01",
-          "source": "CNN",
+          "source": "Geo TV",
           "bloc": "regional",
-          "headline": "China and Pakistan Unveil Five-Point Initiative for Iran-US Ceasefire, Propose Strait of Hormuz Reopening",
-          "relevance": "Shows Munir's reactive diplomatic positioning shift simultaneous with military escalation, indicating lack of integrated strategic deliberation"
+          "headline": "Geo News Reports Iranian Foreign Minister Thanks Pakistan Leadership for Mediation Efforts",
+          "relevance": "Sudden emergence as Iran mediator following pariah designation; timing suggests reactive opportunism rather than planned diplomatic initiative."
         },
         {
-          "date": "2026-03-28",
-          "source": "Bloomberg",
-          "bloc": "institutional",
-          "headline": "Pakistan Secures Initial IMF Approval for $1.2 Billion Emergency Loan Amid Iran War Economic Pressures",
-          "relevance": "Reflects reactive crisis-driven economic decision-making responding to war spillover rather than anticipatory strategic planning"
+          "date": "2026-04-08",
+          "source": "Foreign Policy",
+          "bloc": "regional",
+          "headline": "Pakistan's Military Chief Asim Munir Emerges as Trump's Key Interlocutor in Iran Crisis",
+          "relevance": "Three-week transition from pariah to key interlocutor demonstrates rapid, reactive repositioning driven by immediate strategic opportunity rather than deliberated policy."
         }
       ],
       "items_supporting": 3,
@@ -126,237 +125,173 @@
         "institutional",
         "regional"
       ],
-      "threshold_met": false,
-      "counter_evidence": "Evidence shows tactical responsiveness rather than fundamental impulsivity shift; current score of 73 may already capture this pattern adequately. Threshold requires 4+ items with 2+ source blocs; only 3 items provided."
+      "threshold_met": true,
+      "counter_evidence": null
     },
     {
       "leader": "Recep Tayyip Erdogan",
-      "dimension": "values",
-      "current_score": 22,
-      "proposed_delta": 5,
-      "proposed_new_score": 27,
+      "dimension": "accountability",
+      "current_score": 18,
+      "proposed_delta": -4,
+      "proposed_new_score": 14,
       "confidence": "medium",
-      "pattern_description": "Sustained pattern of positioning Turkey as mediating power across Iran conflict while publicly advocating for international diplomatic frameworks. Erdogan shifts from regional proxy positioning to institutional peacemaking rhetoric, suggesting tactical adoption of values-language for strategic positioning rather than demonstrated ethical reform.",
+      "pattern_description": "Despite Foundation for Defense of Democracies label as 'New Iran' threat (Apr 6, institutional source), Erdogan simultaneously positions Turkey as broker in Iran crisis, claiming to create 'geostrategic impasse' requiring international action (Apr 5). Pattern reflects deliberate accountability evasion: advancing NATO-allied narrative while avoiding scrutiny of Turkey's own regional actions and Alliance commitments.",
       "evidence_chain": [
+        {
+          "date": "2026-04-06",
+          "source": "Foundation for Defense of Democracies",
+          "bloc": "institutional",
+          "headline": "Foundation for Defense of Democracies Labels Turkey 'New Iran' Threat to Western Alliance",
+          "relevance": "Institutional designation of Turkey as accountability threat, suggesting deliberate systemic distance from Western oversight mechanisms."
+        },
         {
           "date": "2026-04-05",
           "source": "Turkish Minute",
           "bloc": "regional",
           "headline": "Erdogan Tells NATO Chief Iran Conflict Creates 'Geostrategic Impasse' Requiring International Action",
-          "relevance": "Demonstrates Erdogan articulating institutional peacemaking framework to NATO allies, shifting from unilateral positioning"
-        },
-        {
-          "date": "2026-04-03",
-          "source": "Pravda Turkey",
-          "bloc": "regional",
-          "headline": "Turkey Explores New Mediation Venues After Pakistan-Led Iran-US Talks Collapse",
-          "relevance": "Shows repeated diplomatic initiative-taking framed as conflict resolution rather than strategic advantage-seeking"
+          "relevance": "Contemporaneous positioning as mediator/strategist while facing accountability designation suggests deliberate narrative management to evade oversight."
         }
       ],
       "items_supporting": 2,
       "blocs_represented": [
+        "institutional",
         "regional"
       ],
       "threshold_met": false,
-      "counter_evidence": "Only 2 items supporting; threshold requires 4+ items. FDD simultaneously labels Turkey 'New Iran' threat (2026-04-06), contradicting values increase narrative. Insufficient evidence of genuine reform intent at political cost; mediation framing may be pure tactical positioning."
-    },
-    {
-      "leader": "Xi Jinping",
-      "dimension": "narcissism",
-      "current_score": 75,
-      "proposed_delta": 2,
-      "proposed_new_score": 77,
-      "confidence": "low",
-      "pattern_description": "Limited evidence of narcissistic pattern expansion. China-Pakistan Five-Point Peace Plan initiative dismissed by AEI as 'reputation building,' and Xi's purported real-time learning from US war capabilities suggests opportunistic positioning, but insufficient sustained pattern specific to narcissism dimension.",
-      "evidence_chain": [
-        {
-          "date": "2026-04-03",
-          "source": "American Enterprise Institute",
-          "bloc": "institutional",
-          "headline": "China-Pakistan Five-Point Peace Plan for Iran War Dismissed as Reputation Building",
-          "relevance": "Western institutional assessment that Xi's diplomatic initiative driven by image/reputation motives rather than substantive values"
-        },
-        {
-          "date": "2026-04-01",
-          "source": "GlobalSecurity.org",
-          "bloc": "institutional",
-          "headline": "Xi Jinping Learns Real-Time US War Capabilities from Iran Conflict, Analysts Warn",
-          "relevance": "Suggests Xi extracting strategic advantage from conflict positioning, consistent with opportunistic narcissistic orientation"
-        }
-      ],
-      "items_supporting": 2,
-      "blocs_represented": [
-        "institutional"
-      ],
-      "threshold_met": false,
-      "counter_evidence": "Only 2 items; threshold requires 3+. Evidence describes strategic opportunism and reputation management, not the grandiosity or validation-seeking specific to narcissism dimension. Insufficient pattern specificity."
-    },
-    {
-      "leader": "Kim Jong-un",
-      "dimension": "narcissism",
-      "current_score": 82,
-      "proposed_delta": 2,
-      "proposed_new_score": 84,
-      "confidence": "medium",
-      "pattern_description": "Sustained pattern of public military capability demonstrations timed to maximize geopolitical visibility. Kim oversees engine tests and hypersonic missile tests, deliberately publicizing through state channels during Iran conflict period, demonstrating need for international validation of regime military prowess.",
-      "evidence_chain": [
-        {
-          "date": "2026-03-29",
-          "source": "PBS NewsHour",
-          "bloc": "institutional",
-          "headline": "Kim Jong-un Oversees Engine Test for Solid-Fuel ICBM Capable of Reaching US Mainland",
-          "relevance": "Public personal oversight of weapons test demonstrates narcissistic need for validation through military capability display"
-        },
-        {
-          "date": "2026-01-05",
-          "source": "Al Jazeera",
-          "bloc": "institutional",
-          "headline": "North Korea's Kim Jong-un Oversees Hypersonic Missile Tests Citing Iran War Crisis",
-          "relevance": "Demonstrates repeated pattern of timed weapons demonstrations with public personal oversight, using external crisis as legitimation for narcissistic display"
-        }
-      ],
-      "items_supporting": 2,
-      "blocs_represented": [
-        "institutional"
-      ],
-      "threshold_met": false,
-      "counter_evidence": "Only 2 items; threshold requires 3+. While pattern is evident, evidence base is below threshold. Kim's current narcissism score of 82 may already reflect this tendency; marginal increase not clearly justified."
+      "counter_evidence": "Only 2 items; requires 3+ items with 2+ source blocs. Insufficient evidence quantity despite clear pattern of accountability evasion."
     }
   ],
   "variable_proposals": [
     {
-      "variable": "straitControl",
-      "current_assessment": "Iran has asserted tactical control over Strait of Hormuz passage coordination; US-backed forces maintain contested presence",
-      "proposed_direction": "increase",
-      "confidence": "high",
-      "rationale": "Iran's Defense Council explicit declaration (2026-03-23) that Strait passage requires Tehran coordination, combined with IAEA confirmation of nuclear facility hardening and strategic isolation (2026-04-07), indicates Iran's deliberate shift toward leveraging chokepoint as primary survival/leverage mechanism. This represents sustained strategic assertion rather than temporary posturing.",
-      "evidence_chain": [
-        {
-          "date": "2026-03-23",
-          "source": "Iran International",
-          "headline": "Iran's Defense Council Declares Strait of Hormuz Passage Depends on Coordination with Tehran for Non-Belligerent Countries",
-          "relevance": "Direct official assertion of Strait control dependency as strategic doctrine, not tactical response"
-        },
-        {
-          "date": "2026-04-07",
-          "source": "IAEA",
-          "headline": "IAEA Reports Iran Has Not Provided Access to Nuclear Facilities Since March, Warns of Possible Radiological Release",
-          "relevance": "Strategic hardening of nuclear facilities integrated with Strait control strategy indicates comprehensive chokepoint leverage posture"
-        }
-      ]
-    },
-    {
       "variable": "oilPrice",
-      "current_assessment": "Oil prices elevated due to Iran supply disruptions and shipping disruptions; US shipping waivers ineffective at restoring flows",
+      "current_assessment": "Elevated due to Iranian supply disruptions and Strait of Hormuz tension; diesel spot prices exceed $8/gallon in California (Apr 7)",
       "proposed_direction": "increase",
       "confidence": "high",
-      "rationale": "Multiple sources document Trump's shipping waiver failure to boost US oil flows while fuel exports soar (2026-04-07 BusinessLine, OilPrice.com), diesel prices exceed $8/gallon in California (2026-04-07), and Iran petrol sales restricted to Balochistan only (2026-04-05). This indicates structural supply shock persisting despite policy interventions, supporting sustained oil price elevation.",
+      "rationale": "Sustained pattern of supply disruptions with no resolution pathway evident. Trump's shipping waiver failed to increase US oil flows; fuel exports instead accelerated (Apr 6-7). Iranian petrol sales restricted to Balochistan province only (Apr 5) indicates further supply constriction. With no ceasefire pathway moving forward (Iran rejected Apr 7) and continued military escalation, oil prices face upward pressure through at least mid-April.",
       "evidence_chain": [
-        {
-          "date": "2026-04-07",
-          "source": "BusinessLine",
-          "headline": "Trump's shipping waiver does not boost oil flows within US; fuel exports soar",
-          "relevance": "Policy intervention failure indicates structural supply constraint rather than temporary disruption"
-        },
         {
           "date": "2026-04-07",
           "source": "Naturalnews.com",
+          "bloc": "western",
           "headline": "Diesel Prices Exceed $8 Per Gallon in San Francisco as Supply Disruptions Affect California",
-          "relevance": "Extreme retail fuel prices indicate persistent supply-side pressure independent of demand shocks"
+          "relevance": "Spot price indicator of sustained supply disruption impact on consumer markets."
+        },
+        {
+          "date": "2026-04-06",
+          "source": "gcaptain.com",
+          "bloc": "western",
+          "headline": "Trump's Shipping Waiver Does Not Boost Oil Flows Within US; Fuel Exports Soar",
+          "relevance": "Policy intervention failed to stabilize supply; waiver redirected to exports, indicating structural supply shortage."
         },
         {
           "date": "2026-04-05",
           "source": "Dawn",
+          "bloc": "regional",
           "headline": "Dawn Reports Iranian Petrol Sales Restricted to Balochistan Province Only",
-          "relevance": "Iran's supply capacity severely constrained, supporting sustained crude price elevation"
+          "relevance": "Supply restriction indicates continued Iranian capacity constraints or deliberate conservation; signals no rapid supply normalization."
+        }
+      ]
+    },
+    {
+      "variable": "straitControl",
+      "current_assessment": "Iran operating toll-booth model (Apr 7): maintaining Strait transit access while extracting economic concessions; not full blockade but selective pressure",
+      "proposed_direction": "hold",
+      "confidence": "high",
+      "rationale": "Evidence shows Iran carefully calibrating Strait control as economic leverage rather than military closure. Trump threatens Hormuz toll seizure (Apr 7) but Iran rejects ceasefire; however, continued selective transit indicates Iran maintains equilibrium strategy. Shatterbelt analysis (Apr 7) distinguishes Iranian model from Houthi closure tactics, suggesting deliberately constrained blockade rather than full interdiction. This equilibrium likely holds barring major escalation or regime collapse.",
+      "evidence_chain": [
+        {
+          "date": "2026-04-07",
+          "source": "Shatterbelt.co",
+          "bloc": "western",
+          "headline": "Iran Is Not Blocking the Strait of Hormuz. It's Running a Toll Booth",
+          "relevance": "Analyst assessment distinguishes Iranian selective control from full blockade; indicates deliberate calibration of economic leverage without total interdiction."
+        },
+        {
+          "date": "2026-04-07",
+          "source": "Globalsecurity.org",
+          "bloc": "western",
+          "headline": "Trump threatens Iran could be 'taken out' in one night, eying Iranian oil and tolls on Hormuz Strait",
+          "relevance": "Trump threat targets specific economic model (tolls) rather than responding to full blockade; confirms Iran maintaining transactional rather than total Strait control."
         }
       ]
     },
     {
       "variable": "nuclearSignalling",
-      "current_assessment": "Iran has hardened nuclear facilities and restricted IAEA access; signalling strategic nuclear dimension of conflict",
+      "current_assessment": "Iranian nuclear facilities under direct military targeting; IAEA complete access loss (Feb 27); fourth Bushehr strike (Apr 4); IAEA assessment that military action alone cannot eliminate program (Mar 19)",
       "proposed_direction": "increase",
       "confidence": "high",
-      "rationale": "IAEA confirmation of nuclear facility access denial since March (2026-04-07) combined with warnings of possible radiological release represents escalation of nuclear signalling from defensive posture to implicit threat. Fourth strike near Bushehr (2026-04-04) indicates direct targeting of nuclear infrastructure, accelerating nuclear dimension signalling.",
+      "rationale": "Escalation trajectory evident: repeated strikes near Bushehr nuclear plant (Apr 4) following complete IAEA access loss (Feb 27) suggests Iran approaching decision point on nuclear weapons development or demonstration. IAEA director's statement (Mar 19) that military action cannot eliminate program signals Iran's public position hardening. Combined with regime rejection of ceasefire (Apr 7) and continued military strikes on civilian infrastructure, nuclear weapons development signals likely increase from Iranian leadership as deterrent or bargaining position.",
       "evidence_chain": [
         {
-          "date": "2026-04-07",
+          "date": "2026-02-27",
           "source": "IAEA",
-          "headline": "IAEA Reports Iran Has Not Provided Access to Nuclear Facilities Since March, Warns of Possible Radiological Release",
-          "relevance": "Explicit warning of radiological release possibility represents escalation of nuclear signalling from denial to implicit threat"
+          "bloc": "institutional",
+          "headline": "IAEA Reports Complete Loss of Access to Iran's Nuclear Facilities",
+          "relevance": "Loss of international monitoring creates space and incentive for accelerated nuclear weapons program development without external verification."
         },
         {
           "date": "2026-04-04",
           "source": "American Nuclear Society",
+          "bloc": "institutional",
           "headline": "IAEA Confirms Fourth Strike Near Bushehr Nuclear Plant as Iran War Enters Day 40",
-          "relevance": "Repeated targeting of nuclear facilities forces Iran into explicit nuclear dimension signalling for deterrence"
-        }
-      ]
-    },
-    {
-      "variable": "iranRegimeCohesion",
-      "current_assessment": "Iran regime maintaining unified military/diplomatic posture despite 40-day conflict and nuclear facility targeting",
-      "proposed_direction": "hold",
-      "confidence": "medium",
-      "rationale": "While Radio Farda infrastructure collapse (2026-04-08) indicates internal communication stress, Iran's unified rejection of ceasefire proposals, coordinated Strait of Hormuz control declaration, and strategic nuclear facility hardening demonstrate maintained regime cohesion. Internal strain evident but not yet threatening organizational unity.",
-      "evidence_chain": [
-        {
-          "date": "2026-04-08",
-          "source": "GlobalSecurity.org",
-          "headline": "Radio Farda Persian Broadcasting Faces Infrastructure Collapse Amid Iran War",
-          "relevance": "Infrastructure degradation indicates internal strain but does not yet suggest regime unity fractures"
+          "relevance": "Repeated targeting of nuclear facilities indicates military strategy targeting Iranian deterrent capability; Iran likely responding by accelerating program development."
         },
         {
-          "date": "2026-03-23",
-          "source": "Iran International",
-          "headline": "Iran's Defense Council Declares Strait of Hormuz Passage Depends on Coordination with Tehran for Non-Belligerent Countries",
-          "relevance": "Coordinated Defense Council doctrine suggests maintained institutional cohesion despite conflict stress"
+          "date": "2026-03-19",
+          "source": "The Hill",
+          "bloc": "institutional",
+          "headline": "IAEA Director General: Iranian Nuclear Program Cannot Be Eliminated by Military Action Alone",
+          "relevance": "International expert assessment that military elimination impossible likely hardens Iran's position to pursue weapons development as only viable deterrent."
         }
       ]
     },
     {
       "variable": "diplomaticChannels",
-      "current_assessment": "Multiple diplomatic initiatives ongoing (Pakistan-China mediation, Turkey exploration) but fundamental deadlock persists; channels open but ineffective",
-      "proposed_direction": "decrease",
-      "confidence": "high",
-      "rationale": "Pakistan-China Five-Point Peace Plan dismissed as reputation-building (2026-04-03); Turkey exploring new venues after initial talks collapse (2026-04-03); Trump rejects Iran proposals as 'not good enough' (2026-04-06); Iran rejects ceasefire as deadline looms (2026-04-06). Proliferation of mediation attempts masks underlying breakdown in substantive negotiation pathways and mutual willingness to compromise.",
+      "current_assessment": "Pakistan's military (Asim Munir) emerged as primary US-Iran intermediary; Iranian Foreign Minister credited Pakistan mediation (Apr 7); Munir appointed Trump key interlocutor (Apr 8)",
+      "proposed_direction": "increase",
+      "confidence": "medium",
+      "rationale": "Direct evidence of functioning diplomatic channel through Pakistan military: Iran publicly credited mediation (Apr 7, regional source), followed by US recognition of Munir as key interlocutor (Apr 8, western source). Despite ceasefire rejection (Apr 7), continued mediation signals both sides maintaining communication pathway. This represents rare sustained dialogue mechanism in conflict absent bilateral US-Iran direct talks.",
       "evidence_chain": [
         {
-          "date": "2026-04-03",
-          "source": "American Enterprise Institute",
-          "headline": "China-Pakistan Five-Point Peace Plan for Iran War Dismissed as Reputation Building",
-          "relevance": "Western institutional dismissal of major diplomatic initiative indicates credibility collapse of negotiation track"
+          "date": "2026-04-07",
+          "source": "Geo TV",
+          "bloc": "regional",
+          "headline": "Geo News Reports Iranian Foreign Minister Thanks Pakistan Leadership for Mediation Efforts",
+          "relevance": "Public Iranian crediting of Pakistan mediation indicates active, functioning diplomatic channel with regime endorsement."
         },
         {
-          "date": "2026-04-03",
-          "source": "Pravda Turkey",
-          "headline": "Turkey Explores New Mediation Venues After Pakistan-Led Iran-US Talks Collapse",
-          "relevance": "Multiple initiative failures driving search for alternative venues indicates diplomatic channel exhaustion"
-        },
-        {
-          "date": "2026-04-06",
-          "source": "The Times of India",
-          "headline": "Trump confirms receiving Iran's proposal to end war, says 'not good enough'",
-          "relevance": "Direct rejection of substantive peace proposal without counter-offer demonstrates diplomatic channel dysfunction"
+          "date": "2026-04-08",
+          "source": "Foreign Policy",
+          "bloc": "regional",
+          "headline": "Pakistan's Military Chief Asim Munir Emerges as Trump's Key Interlocutor in Iran Crisis",
+          "relevance": "Trump administration recognition of Munir as key channel confirms bilateral acceptance of mediation pathway despite ceasefire rejection."
         }
       ]
     },
     {
-      "variable": "congressConstraint",
-      "current_assessment": "ICC warrant against Putin active despite non-enforcement challenges (2026-04-07); institutional constraints on US executive authority to be assessed",
+      "variable": "iranRegimeCohesion",
+      "current_assessment": "Regime demonstrates coordinated military response, civilian mobilization (human chains around power plants Apr 7), and diplomatic messaging (mediation via Pakistan); no visible factional breakdown",
       "proposed_direction": "hold",
-      "confidence": "low",
-      "rationale": "Insufficient evidence in reviewed items regarding US Congressional constraint on Trump's Iran war executive authority. ICC warrant activity against Putin demonstrates international institutional attempts at constraint, but US domestic Congressional restraint not directly evidenced in current news cycle.",
+      "confidence": "medium",
+      "rationale": "Evidence of regime cohesion despite 40-day war and strikes on symbolic targets (Sharif University, Apr 6; intelligence chief assassination, Apr 6). Population mobilization signals maintained regime control and civilian coordination. However, intelligence chief assassination and educational infrastructure strikes represent significant targeted losses. Regime rejection of ceasefire (Apr 7) and simultaneous pursuit of mediation (Apr 7-8) reflects unified strategic posture, not factional competing signals. No evidence of internal power struggle or hardliner/softliner fracture.",
       "evidence_chain": [
         {
           "date": "2026-04-07",
-          "source": "Federal Bar Association",
-          "headline": "ICC Arrest Warrant Against Putin Remains Active Despite Mongolia Visit, Enforcement Challenges Continue",
-          "relevance": "International institutional constraint active but does not directly measure Congressional constraint on US executive authority"
+          "source": "CBS News",
+          "bloc": "western",
+          "headline": "Iran Forms Human Chains Around Power Plants Ahead of Trump's Deadline",
+          "relevance": "Coordinated civilian mobilization signals regime capacity to organize population; indicates maintained institutional control during wartime stress."
+        },
+        {
+          "date": "2026-04-06",
+          "source": "NPR",
+          "bloc": "western",
+          "headline": "Iran's Intelligence Chief Majid Khademi Killed in Israeli Strike",
+          "relevance": "Loss of senior military intelligence official represents major blow but no evidence of factional recrimination; regime continues unified response."
         }
       ]
     }
   ],
-  "no_change_assessment": "Trump's narcissism and impulsivity scores (92/90) are already at ceiling and evidence demonstrates consistency with existing assessments rather than threshold-crossing changes. Netanyahu's accountability (18) remains unchanged as evidence focuses on survival/conflict management rather than systemic accountability mechanism dismantling. Munir's impulsivity evidence is below threshold (3 items vs. 4 required). Xi Jinping's narcissism shows only 2 supporting items against 3+ requirement. Kim Jong-un's narcissism pattern evident but below 3-item threshold. Erdogan's values proposal lacks sufficient items (2 vs. 4 required) and contradicts simultaneous FDD threat designation. Putin's accountability warrant activity demonstrates institutional constraint but insufficient sustained pattern evidence for score change. Zelensky shows no evidenced change patterns in current cycle. Modi shows no active evidence in conflict dynamics during review period.",
-  "generated_at": "2026-04-08T06:10:15.497Z"
+  "no_change_assessment": "Xi Jinping's narcissism (current 75) shows limited sustained pattern: reputation-building peace plan dismissed (Apr 3) represents single institutional critique insufficient to justify dimension change. Modi's narcissism (72) similarly shows only one item (Apr 3 marginalization) insufficient for threshold. Mojtaba Khamenei's dimensions remain stable: survival (90) and impulsivity (50) are already elevated and current conflict behavior matches baseline; no sustained deviation. Volodymyr Zelensky and other peripheral actors lack sufficient accumulated evidence for proposal consideration.",
+  "generated_at": "2026-04-08T10:57:47.856Z"
 }

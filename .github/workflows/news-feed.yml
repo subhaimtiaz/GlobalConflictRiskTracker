@@ -30,10 +30,20 @@ jobs:
           NOTIFY_EMAIL:       ${{ secrets.NOTIFY_EMAIL }}
         run: node scripts/update-news.js
 
-      - name: Commit updated files
+      - name: Commit and push updated files
         run: |
           git config user.name  "AGRA News Bot"
           git config user.email "agra-bot@accidental-geopolitical-tracker"
+          # Stash data files, pull latest code, then re-apply data on top
+          cp news.json news.json.bak
+          cp news_history.json news_history.json.bak
+          cp proposals.json proposals.json.bak
+          git checkout -- news.json news_history.json proposals.json 2>/dev/null || true
+          git pull --rebase origin main || true
+          cp news.json.bak news.json
+          cp news_history.json.bak news_history.json
+          cp proposals.json.bak proposals.json
+          rm -f news.json.bak news_history.json.bak proposals.json.bak
           git add news.json news_history.json proposals.json
           if git diff --cached --quiet; then
             echo "No changes — skipping commit"
@@ -42,6 +52,5 @@ jobs:
             HISTORY=$(node -e "try{const h=require('./news_history.json');console.log(h.items.length)}catch(e){console.log('?')}")
             OIL=$(node -e "const n=require('./news.json'); const v=n.live_variables; console.log(v.oilPrice ? '\$'+v.oilPrice+' s:'+v.oilStress : 'N/A')")
             git commit -m "News feed x${ITEMS} history x${HISTORY} oil ${OIL} $(date -u +%Y-%m-%dT%H:%M)Z"
-            git pull --rebase origin main || true
             git push
           fi

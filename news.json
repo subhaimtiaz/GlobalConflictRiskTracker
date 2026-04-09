@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-09T16:50:57.949Z",
+  "ts": "2026-04-09T20:38:18.350Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,19 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 96,
-    "oilStress": 45,
-    "updatedAt": "2026-04-09T16:50:57.949Z"
+    "oilPrice": 97,
+    "oilStress": 48,
+    "updatedAt": "2026-04-09T20:38:18.350Z"
   },
   "items": [
     {
-      "headline": "Trump Bullish on Iran Deal, but Uncertainty Remains",
-      "summary": "President Donald Trump and his administration hailed a ceasefire with Iran on Wednesday morning—despite uncertainty about the terms and durability of the peace. “The United... Read More\nThe post Trump Bullish on Iran Deal, but Uncertainty Remains appeared fir…",
-      "source": "Daily Signal",
-      "url": "https://www.dailysignal.com/2026/04/08/trump-bullish-on-iran-deal-but-uncertainty-remains/",
+      "headline": "What are Israel's goals in Lebanon?",
+      "summary": "So far, more than a million people have been forcibly displaced by Israel’s invasion of southern Lebanon. Prime Minister Benjamin Netanyahu says eradicating Hezbollah is critical for Israeli security. But critics argue Israeli occupation will only reenergize …",
+      "source": "WBUR",
+      "url": "https://www.wbur.org/onpoint/2026/04/08/israel-goals-in-lebanon-netanyahu-iran",
       "bloc": "western",
       "date": "2026-04-08",
-      "datetime": "2026-04-08T16:34:35Z",
+      "datetime": "2026-04-08T20:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,39 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "How Pakistan managed to get the US and Iran to a ceasefire",
-      "summary": "Backchannel talks led by Pakistan result in temporary ceasefire after weeks of fighting.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/4/8/how-pakistan-managed-to-get-the-us-and-iran-to-a-ceasefire",
-      "bloc": "regional",
-      "date": "2026-04-08",
-      "datetime": "2026-04-08T15:49:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Splinter: This Is Who We Are to the World",
-      "summary": "Genocide has never been a red line for the American government, whether it benefits us or not has been the key question ever since the days of Manifest Destiny.",
-      "source": "Jezebel",
-      "url": "https://www.jezebel.com/this-is-who-we-are-to-the-world",
+      "headline": "Trump’s Botched Iran ‘Ceasefire’ Puts Polymarket Bettors in a Bind",
+      "summary": "Some very lucky players are sweating their Schrödinger's bet right now.",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/trumps-botched-iran-ceasefire-puts-polymarket-bettors-in-a-bind-2000744091",
       "bloc": "western",
       "date": "2026-04-08",
-      "datetime": "2026-04-08T15:46:08Z",
+      "datetime": "2026-04-08T19:40:52Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran shuts Strait of Hormuz in retaliation for Israeli strikes on Hezbollah - report",
-      "summary": "Iran has once again closed the Strait of Hormuz, blocking oil tankers from transiting the waterway, in retaliation for Israeli strikes on Hezbollah, Islamic Revolutionary Guard Corps-tied outlet Fars News reported on Wednesday. Oil tankers attempting to trans…",
+      "headline": "Iran Closes Strait of Hormuz Again Over Israeli Attacks in Lebanon",
+      "summary": "Iran closed the Strait of Hormuz again Wednesday in response to Israeli attacks against the Hezbollah terrorist group in Lebanon, casting doubt over whether an already precarious ceasefire to end more than a month of war will hold. The United States and Iran …",
       "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4374116/posts",
+      "url": "https://freerepublic.com/focus/f-news/4374132/posts",
       "bloc": "western",
       "date": "2026-04-08",
-      "datetime": "2026-04-08T15:39:41Z",
+      "datetime": "2026-04-08T19:15:49Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -114,6 +88,58 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Top Iranian Official Accuses US of Three Ceasefire Violations — Contradicting Trump Claim",
+      "summary": "A top Iranian official on Wednesday accused the U.S. of violating three terms of its 10-point proposal that was the basis of the two-week ceasefire agreement.\nThe post Top Iranian Official Accuses US of Three Ceasefire Violations — Contradicting Trump Claim f…",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/top-iranian-official-accuses-us-of-three-violations-of-ceasefire-contradicting-trump-claim/",
+      "bloc": "western",
+      "date": "2026-04-08",
+      "datetime": "2026-04-08T19:14:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "We Called Out the Pentagon for Undercounting U.S. Casualties in Iran. They Keep Doing It.",
+      "summary": "After we exposed what one source called a “casualty cover-up,” the Pentagon offered another lowball count.\nThe post We Called Out the Pentagon for Undercounting U.S. Casualties in Iran. They Keep Doing It. appeared first on The Intercept.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2026/04/08/us-military-casualties-wounded-iran-war/",
+      "bloc": "western",
+      "date": "2026-04-08",
+      "datetime": "2026-04-08T19:09:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -394,6 +420,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump Made a Deal That Gives Him Nothing He Wanted",
+      "summary": "U.S. declarations of victory ring hollow.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/national-security/2026/04/iran-strait-hormuz-us-trump-nuclear-weapons/686726/",
+      "bloc": "western",
+      "date": "2026-04-08",
+      "datetime": "2026-04-08T17:19:02Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "FTSE 100 Surges Nearly 3% to One-Month High on US-Iran Ceasefire Relief Rally",
       "summary": "LONDON — The FTSE 100 index jumped sharply Wednesday, climbing more than 300 points or nearly 3% to trade around 10,666 as investors cheered a surprise two-week ceasefire between the United States and Iran that raised hopes for a partial reopening of the Stra…",
       "source": "Ibtimes.com.au",
@@ -472,26 +524,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Global Economy Braces for Prolonged Shock From Iran War",
-      "summary": "A quiet Easter Sunday was abruptly punctured when US President Donald Trump unleashed a brutal, expletive-filled ultimatum to the Iranian regime. In a post on Truth Social, Trump wrote: “Tuesday will be power plant day, and bridge day, all wrapped up in one, …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Global-Economy-Braces-for-Prolonged-Shock-From-Iran-War.html",
-      "bloc": "western",
-      "date": "2026-04-07",
-      "datetime": "2026-04-07T16:00:00Z",
+      "headline": "How Pakistan managed to get the US and Iran to a ceasefire",
+      "summary": "Backchannel talks led by Pakistan result in temporary ceasefire after weeks of fighting.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/4/8/how-pakistan-managed-to-get-the-us-and-iran-to-a-ceasefire",
+      "bloc": "regional",
+      "date": "2026-04-08",
+      "datetime": "2026-04-08T15:49:03Z",
       "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
       ],
       "watch_terms": [
-        "oil Brent crude"
+        "Iran US diplomacy"
       ],
       "dimensions": [
-        "survival",
-        "values"
+        "values",
+        "survival"
       ],
-      "variable_key": "oilPrice",
+      "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

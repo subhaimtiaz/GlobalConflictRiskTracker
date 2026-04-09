@@ -1427,8 +1427,14 @@ function updateLandingStats(){
   ['rpNeg','drawerNeg','lpNeg'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent=p.negotiation+'%';});
   // Narcissism index — average across all leaders
   if(LEADERS&&LEADERS.length){
-    var narcSum=0;LEADERS.forEach(function(l){narcSum+=(l.dims&&l.dims.narcissism)||0;});
+    var narcSum=0,gtCount=0;LEADERS.forEach(function(l){
+      narcSum+=(l.dims&&l.dims.narcissism)||0;
+      if(l.dims&&l.dims.survival>70&&l.dims.accountability<30)gtCount++;
+    });
     var narcAvg=Math.round(narcSum/LEADERS.length);
+    V.narcissismCoefficient=narcAvg;
+    V.groupthinkRisk=Math.round(gtCount/LEADERS.length*100);
+    saveVars();
     ['rpNarc','drawerNarc','lpNarc'].forEach(function(id){var e=document.getElementById(id);if(e)e.textContent=narcAvg;});
     var nb=document.getElementById('drawerNarcBar');if(nb)nb.style.width=narcAvg+'%';
   }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-10T14:45:08.412Z",
+  "ts": "2026-04-10T20:00:30.695Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,19 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 96,
-    "oilStress": 45,
-    "updatedAt": "2026-04-10T14:45:08.412Z"
+    "oilPrice": 95,
+    "oilStress": 44,
+    "updatedAt": "2026-04-10T20:00:30.695Z"
   },
   "items": [
     {
-      "headline": "Four Major Reasons to Doubt the U.S.–Iran Ceasefire",
-      "summary": "A ceasefire hailed as victory masks deep uncertainty—fragmented leadership, conflicting terms, and Iran’s track record all suggest the pause may only delay the next escalation. On Tuesday evening, with less than two hours remaining before U.S. President Donal…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4374226/posts",
+      "headline": "U.S. officials continue to defend Iranian conflict amid criticism from top Catholic leaders",
+      "summary": "The government allegedly demanded earlier in the year that the Vatican throw support behind U.S. military actions.",
+      "source": "Ewtnnews.com",
+      "url": "https://www.ewtnnews.com/world/us/u-s-officials-continue-to-defend-iranian-conflict-amid-criticism-from-top-catholic-leaders",
       "bloc": "western",
       "date": "2026-04-09",
-      "datetime": "2026-04-09T14:25:33Z",
+      "datetime": "2026-04-09T18:11:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,39 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Fragile Iran Cease-Fire Comes Under Pressure From Lebanon Strikes",
-      "summary": "The fragile cease-fire between the United States and Iran could hang in the balance over what Washington has labeled a \"misunderstanding\" over whether the truce includes Israel’s offensive against Tehran-backed Hezbollah assets in Lebanon. US Vice President J…",
+      "headline": "Trump's Unlikely Suggestion of a Joint U.S.-Iran Shipping Tax",
+      "summary": "President Trump has floated the prospect of a “joint venture” with the Iranian leadership on administering a tax on ships passing through the Strait of Hormuz in a new peace deal for the region. Trump said both the US and Iran could jointly tax ships passing …",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Fragile-Iran-Ceasefire-Under-Pressure-From-Lebanon-Strikes.html",
+      "url": "https://oilprice.com/Energy/Energy-General/Trumps-Unlikely-Suggestion-of-a-Joint-US-Iran-Shipping-Tax.html",
       "bloc": "western",
       "date": "2026-04-09",
-      "datetime": "2026-04-09T14:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israel dismisses calls to add Lebanon to US-Iran ceasefire",
-      "summary": "Israel vowed more strikes against Hezbollah on Thursday, dismissing mounting international demands that the fragile truce between the United States and Iran in the Gulf be expanded to cover the war in Lebanon.\nThe post Israel dismisses calls to add Lebanon to…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/04/israel-dismisses-calls-to-add-lebanon-to-us-iran-ceasefire/",
-      "bloc": "western",
-      "date": "2026-04-09",
-      "datetime": "2026-04-09T13:39:00Z",
+      "datetime": "2026-04-09T18:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +66,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "'Truly Insane': Pentagon Threatened Pope After He Condemned Trump's Military Attacks",
-      "summary": "Pope Leo, the first American to be named the head of the worldwide Catholic Church, has spoken out against President Donald Trump's policies frequently this year as the US has invaded Venezuela and Iran and threatened Cuba's 10 million people with an oil bloc…",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/news/pope-leo-and-trump",
+      "headline": "Trump Family Takes Over Disneyland Paris, Smiles Ensue as U.S. War Looms",
+      "summary": "Disney parks have a way of showing up in the news when political figures decide they need a vacation. The most magical places on earth do not discriminate by party affiliation or approval rating, and the contrast between the business of government and the bus…",
+      "source": "Inside the Magic",
+      "url": "https://insidethemagic.net/2026/04/trump-family-takes-over-disneyland-paris-celebrations-ensue-as-hostile-war-looms-ad1/",
       "bloc": "western",
       "date": "2026-04-09",
-      "datetime": "2026-04-09T12:21:06Z",
+      "datetime": "2026-04-09T17:54:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How the Iran war energy crisis is echoing across Canada",
+      "summary": "The global energy crisis sparked by the Iran war is shaking up Canada coast to coast and could have a lasting legacy. Read more",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/feature/iran-war-energy-crisis-shaking-up-canada",
+      "bloc": "western",
+      "date": "2026-04-09",
+      "datetime": "2026-04-09T16:30:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why is Israel continuing to attack Lebanon, despite the ceasefire? Expert Q&A",
+      "summary": "Israel has upped the intensity of its campaign in Lebanon, despite the signing of a ceasefire in the Middle East.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/why-is-israel-continuing-to-attack-lebanon-despite-the-ceasefire-expert-qanda-280302",
+      "bloc": "western",
+      "date": "2026-04-09",
+      "datetime": "2026-04-09T15:53:04Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -177,32 +203,6 @@
       "bloc": "western",
       "date": "2026-04-09",
       "datetime": "2026-04-09T00:12:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Is Strait of Hormuz Open Now? Strait of Hormuz Partially Reopens Under Fragile US-Iran Ceasefire",
-      "summary": "DUBAI, United Arab Emirates (AP) — The Strait of Hormuz, the narrow chokepoint that carries roughly one-fifth of the world's oil and liquefied natural gas, is no longer fully closed but remains heavily restricted as a two-week ceasefire between the United Sta…",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/strait-hormuz-open-now-strait-hormuz-partially-reopens-under-fragile-us-iran-ceasefire-1865790",
-      "bloc": "western",
-      "date": "2026-04-08",
-      "datetime": "2026-04-08T10:53:33Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -428,32 +428,6 @@
       "bloc": "western",
       "date": "2026-04-08",
       "datetime": "2026-04-08T12:22:13Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Hormuz Hype: How Europe Got Played at the Oil Casino",
-      "summary": "Europe’s oil shock was sold as a tragic consequence of the war on Iran and chaos in the Strait of Hormuz. The story was simple. Blame Tehran, blame geography, tell Europeans there was no choice but to pay. Yet official documents quietly admit that the EU’s di…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/the-hormuz-hype-how-europe-got-played-at-the-oil-casino/",
-      "bloc": "western",
-      "date": "2026-04-08",
-      "datetime": "2026-04-08T00:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

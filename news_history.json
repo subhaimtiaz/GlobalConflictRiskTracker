@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-09T20:37:13.173Z",
+  "updated": "2026-04-10T06:21:05.203Z",
   "retention_days": 30,
   "items": [
     {
@@ -2658,33 +2658,6 @@
         "rationale": "Threatening to open new fronts shows escalatory risk-taking behavior under pressure",
         "confidence": "medium"
       },
-      "_from": "claude",
-      "first_seen": "2026-04-04T08:03:12.048Z",
-      "run_id": "2026-04-04T08:03"
-    },
-    {
-      "headline": "US Central Command Reports Iranian Mine-Laying Ships Destroyed",
-      "summary": "US CENTCOM confirmed that 16 Iranian mine-laying vessels were attacked in the Strait of Hormuz on March 10, following President Trump's warnings against Iranian mining operations.",
-      "source": "Radio Farda",
-      "url": "https://www.rferl.org/author/rfe-rls-radio-farda/g_t_qo",
-      "bloc": "persian",
-      "date": "2026-03-10",
-      "datetime": "2026-03-10T14:00:00Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Strait Hormuz",
-        "War Powers"
-      ],
-      "dimensions": [
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 5,
-      "persian_only": false,
       "_from": "claude",
       "first_seen": "2026-04-04T08:03:12.048Z",
       "run_id": "2026-04-04T08:03"
@@ -9310,7 +9283,147 @@
       "_from": "newsapi",
       "first_seen": "2026-04-09T20:37:13.172Z",
       "run_id": "2026-04-09T20:37"
+    },
+    {
+      "headline": "Iranian Officials: Ceasefire Must Include Cessation of Israeli Strikes in Lebanon",
+      "summary": "Introduction On Wednesday, April 8, Iranian officials stated that any ceasefire agreement to halt fighting between Tehran and Washington must explicitly include an end to Israeli military attacks in Lebanon. This condition was articulated by the Iranian Forei…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-09-iranian-official-ceasefire-must-include-lebanon-strikes.html",
+      "bloc": "western",
+      "date": "2026-04-09",
+      "datetime": "2026-04-09T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-10T06:21:05.203Z",
+      "run_id": "2026-04-10T06:21"
+    },
+    {
+      "headline": "I don’t know who'll win the war. But I am sure that Europe lost it",
+      "summary": "Resistance to Islamic totalitarianism is not supported by Western public opinion, especially not by apathetic France. The protesting Iranians remain forgotten. Opinion.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/425222",
+      "bloc": "western",
+      "date": "2026-04-09",
+      "datetime": "2026-04-09T05:49:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-10T06:21:05.203Z",
+      "run_id": "2026-04-10T06:21"
+    },
+    {
+      "headline": "Chart shows Iran may have put sea mines in Strait of Hormuz",
+      "summary": "he chart showed a large circle marked “danger zone” in Farsi over the Traffic Separation Scheme, which was the route ships used to take through the strait. That was where the Guard allegedly put the mines.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/chart-shows-iran-may-have-put-sea-mines-in-strait-of-hormuz/article70841278.ece",
+      "bloc": "western",
+      "date": "2026-04-09",
+      "datetime": "2026-04-09T05:04:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-10T06:21:05.203Z",
+      "run_id": "2026-04-10T06:21"
+    },
+    {
+      "headline": "Is Hormuz open or closed? Shiptracking data reveals true picture",
+      "summary": "Ship traffic through the Strait of Hormuz has remained at an effective standstill in the 24 hours since Iran conditionally lifted its blockade on the critical shipping lane, amid a fragile ceasefire with the US and Israel.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-04-09/is-the-strait-of-hormuz-open-oil-ships-iran-war/106542010",
+      "bloc": "western",
+      "date": "2026-04-09",
+      "datetime": "2026-04-09T00:12:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-10T06:21:05.203Z",
+      "run_id": "2026-04-10T06:21"
+    },
+    {
+      "headline": "Iran Conflict Disrupts Critical Helium, Aluminum Supplies with Global Economic Impact",
+      "summary": "A military conflict between the United States, Israel, and Iran is causing severe disruptions to global supplies of helium and aluminum, threatening semiconductor manufacturing, medical equipment production, and a wide range of consumer goods, according to in…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-09-iran-conflict-disrupts-critical-helium-aluminum-supplies.html",
+      "bloc": "western",
+      "date": "2026-04-09",
+      "datetime": "2026-04-09T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-10T06:21:05.203Z",
+      "run_id": "2026-04-10T06:21"
     }
   ],
-  "total_items_ever": 385
+  "total_items_ever": 390
 }

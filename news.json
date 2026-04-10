@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-10T06:22:10.298Z",
+  "ts": "2026-04-10T14:45:08.412Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,45 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 97,
-    "oilStress": 47,
-    "updatedAt": "2026-04-10T06:22:10.298Z"
+    "oilPrice": 96,
+    "oilStress": 45,
+    "updatedAt": "2026-04-10T14:45:08.412Z"
   },
   "items": [
     {
-      "headline": "Iranian Officials: Ceasefire Must Include Cessation of Israeli Strikes in Lebanon",
-      "summary": "Introduction On Wednesday, April 8, Iranian officials stated that any ceasefire agreement to halt fighting between Tehran and Washington must explicitly include an end to Israeli military attacks in Lebanon. This condition was articulated by the Iranian Forei…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-04-09-iranian-official-ceasefire-must-include-lebanon-strikes.html",
+      "headline": "Four Major Reasons to Doubt the U.S.–Iran Ceasefire",
+      "summary": "A ceasefire hailed as victory masks deep uncertainty—fragmented leadership, conflicting terms, and Iran’s track record all suggest the pause may only delay the next escalation. On Tuesday evening, with less than two hours remaining before U.S. President Donal…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4374226/posts",
       "bloc": "western",
       "date": "2026-04-09",
-      "datetime": "2026-04-09T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "I don’t know who'll win the war. But I am sure that Europe lost it",
-      "summary": "Resistance to Islamic totalitarianism is not supported by Western public opinion, especially not by apathetic France. The protesting Iranians remain forgotten. Opinion.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/425222",
-      "bloc": "western",
-      "date": "2026-04-09",
-      "datetime": "2026-04-09T05:49:00Z",
+      "datetime": "2026-04-09T14:25:33Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Chart shows Iran may have put sea mines in Strait of Hormuz",
-      "summary": "he chart showed a large circle marked “danger zone” in Farsi over the Traffic Separation Scheme, which was the route ships used to take through the strait. That was where the Guard allegedly put the mines.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/chart-shows-iran-may-have-put-sea-mines-in-strait-of-hormuz/article70841278.ece",
+      "headline": "Fragile Iran Cease-Fire Comes Under Pressure From Lebanon Strikes",
+      "summary": "The fragile cease-fire between the United States and Iran could hang in the balance over what Washington has labeled a \"misunderstanding\" over whether the truce includes Israel’s offensive against Tehran-backed Hezbollah assets in Lebanon. US Vice President J…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Fragile-Iran-Ceasefire-Under-Pressure-From-Lebanon-Strikes.html",
       "bloc": "western",
       "date": "2026-04-09",
-      "datetime": "2026-04-09T05:04:50Z",
+      "datetime": "2026-04-09T14:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -87,6 +61,110 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israel dismisses calls to add Lebanon to US-Iran ceasefire",
+      "summary": "Israel vowed more strikes against Hezbollah on Thursday, dismissing mounting international demands that the fragile truce between the United States and Iran in the Gulf be expanded to cover the war in Lebanon.\nThe post Israel dismisses calls to add Lebanon to…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/04/israel-dismisses-calls-to-add-lebanon-to-us-iran-ceasefire/",
+      "bloc": "western",
+      "date": "2026-04-09",
+      "datetime": "2026-04-09T13:39:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "'Truly Insane': Pentagon Threatened Pope After He Condemned Trump's Military Attacks",
+      "summary": "Pope Leo, the first American to be named the head of the worldwide Catholic Church, has spoken out against President Donald Trump's policies frequently this year as the US has invaded Venezuela and Iran and threatened Cuba's 10 million people with an oil bloc…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/news/pope-leo-and-trump",
+      "bloc": "western",
+      "date": "2026-04-09",
+      "datetime": "2026-04-09T12:21:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israeli Strikes on Lebanon Jeopardize Iran Truce; Talks Planned but Strait Still Shut",
+      "summary": "Israel bombed more targets in Lebanon on Thursday, putting the U.S.-Iran ceasefire into further jeopardy after the biggest Israeli attacks on its neighbor of the war killed more than 250 people and threatened to torpedo Donald Trump’s truce. In Pakistan, …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/04/09/865113.htm",
+      "bloc": "western",
+      "date": "2026-04-09",
+      "datetime": "2026-04-09T14:01:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The resurrection of the markets, the quarrel and OPEKEPE’s broken Wi-Fi, and the glorification of… indicted MPs, the invisible (and costly) hand in Hormuz",
+      "summary": "///\nThe post The resurrection of the markets, the quarrel and OPEKEPE’s broken Wi-Fi, and the glorification of… indicted MPs, the invisible (and costly) hand in Hormuz appeared first on ProtoThema English.",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/04/09/the-resurrection-of-the-markets-the-quarrel-and-opekepes-broken-wi-fi-and-the-glorification-of-indicted-mps-the-invisible-and-costly-hand-in-hormuz/",
+      "bloc": "western",
+      "date": "2026-04-09",
+      "datetime": "2026-04-09T08:28:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -140,84 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Qatar LNG Export Disruption Continues as Tankers Divert from Strait of Hormuz",
-      "summary": "Introduction The ongoing disruption to Qatar’s liquefied natural gas (LNG) exports entered a new phase on Monday, April 6, 2026, as two carriers aborted a rare attempt to transit the Strait of Hormuz. The vessels, ‘Al Ghariya’ and ‘Al Huwaila,’ turned around …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-04-08-qatar-lng-export-disruption-continues.html",
-      "bloc": "western",
-      "date": "2026-04-08",
-      "datetime": "2026-04-08T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Hormuz Hype: How Europe Got Played at the Oil Casino",
-      "summary": "Europe’s oil shock was sold as a tragic consequence of the war on Iran and chaos in the Strait of Hormuz. The story was simple. Blame Tehran, blame geography, tell Europeans there was no choice but to pay. Yet official documents quietly admit that the EU’s di…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/the-hormuz-hype-how-europe-got-played-at-the-oil-casino/",
-      "bloc": "western",
-      "date": "2026-04-08",
-      "datetime": "2026-04-08T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Viral research firm Citrini sent an analyst to the Strait of Hormuz. From smugglers to Iranian drones, here's what they found.",
-      "summary": "Citrini Research's \"Analyst #3\" went to the Strait of Hormuz with recording equipment, \"a pack of Cuban cigars, $15,000 in cash and a roll of Zyn.\"",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/citrini-research-analyst-strait-of-hormuz-iran-us-war-energy-2026-4",
-      "bloc": "western",
-      "date": "2026-04-07",
-      "datetime": "2026-04-07T12:28:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -428,6 +428,32 @@
       "bloc": "western",
       "date": "2026-04-08",
       "datetime": "2026-04-08T12:22:13Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Hormuz Hype: How Europe Got Played at the Oil Casino",
+      "summary": "Europe’s oil shock was sold as a tragic consequence of the war on Iran and chaos in the Strait of Hormuz. The story was simple. Blame Tehran, blame geography, tell Europeans there was no choice but to pay. Yet official documents quietly admit that the EU’s di…",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/the-hormuz-hype-how-europe-got-played-at-the-oil-casino/",
+      "bloc": "western",
+      "date": "2026-04-08",
+      "datetime": "2026-04-08T00:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

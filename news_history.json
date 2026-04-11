@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-10T19:59:25.522Z",
+  "updated": "2026-04-11T05:20:55.750Z",
   "retention_days": 30,
   "items": [
     {
@@ -1900,32 +1900,6 @@
       "variable_key": "strait_monetization",
       "event_type": "leader_statement",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-03T22:15:56.051Z",
-      "run_id": "2026-04-03T22:15"
-    },
-    {
-      "headline": "Radio Farda reports US destroys 16 Iranian mine-laying ships in Strait of Hormuz following Trump warnings",
-      "summary": "US Central Command released footage of strikes on Iranian vessels on March 10. Iran women's soccer team denounced as 'wartime traitors' by state TV for refusing to sing anthem at Asian Cup.",
-      "source": "Radio Farda",
-      "url": "https://www.rferl.org/author/rfe-rls-radio-farda/g_t_qo",
-      "bloc": "persian",
-      "date": "2026-03-11",
-      "datetime": "2026-03-11T14:00:00Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Strait Hormuz",
-        "War Powers"
-      ],
-      "dimensions": [
-        "impulsivity"
-      ],
-      "variable_key": "mine_ship_strikes",
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
       "persian_only": false,
       "_from": "claude",
       "first_seen": "2026-04-03T22:15:56.051Z",
@@ -9731,7 +9705,147 @@
       "_from": "newsapi",
       "first_seen": "2026-04-10T19:59:25.522Z",
       "run_id": "2026-04-10T19:59"
+    },
+    {
+      "headline": "Vance sets off to Pakistan to lead talks with Iran as war’s ceasefire remains shaky",
+      "summary": "President Donald Trump is tasking the member of his inner circle who has seemed to be the most reluctant defender of the conflict with Iran to now find a resolution to the war that began six weeks ago and stave off the US president's astonishing threat to wip…",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/vance-sets-off-to-pakistan-to-lead-talks-with-iran-as-wars-ceasefire-remains-shaky/article70846021.ece",
+      "bloc": "western",
+      "date": "2026-04-10",
+      "datetime": "2026-04-10T05:11:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-11T05:20:55.750Z",
+      "run_id": "2026-04-11T05:20"
+    },
+    {
+      "headline": "Feature: Israel, God’s Chosen People – And Others",
+      "summary": "“The government of Spain will not applaud those who set the world on fire just because they show up with a bucket” – Pedro Sanchez, President of Spain (08/04/2026) Why do we read History? Why read Geography? What about Religion? All these subjects have fascin…",
+      "source": "Thechronicle.com.gh",
+      "url": "https://thechronicle.com.gh/feature-israel-gods-chosen-people-and-others/",
+      "bloc": "western",
+      "date": "2026-04-10",
+      "datetime": "2026-04-10T05:07:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-11T05:20:55.750Z",
+      "run_id": "2026-04-11T05:20"
+    },
+    {
+      "headline": "How vulnerable is Ireland’s economy to global unrest and oil-price shocks?",
+      "summary": "Economists argue for targeted fuel supports and spending our taxation largesse on infrastructure to eliminate bottlenecks",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/2026/04/10/how-vulnerable-is-irelands-economy-to-global-unrest-and-oil-price-shocks/",
+      "bloc": "western",
+      "date": "2026-04-10",
+      "datetime": "2026-04-10T05:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-11T05:20:55.750Z",
+      "run_id": "2026-04-11T05:20"
+    },
+    {
+      "headline": "M-East crisis: Calls grow for inclusion of Lebanon in peace deal",
+      "summary": "By Nkiruka Nnorom with agencies report More countries, including Australia, France, United Kingdom and Iran allies – Russia and Turkey, yesterday, joined in calling for the inclusion of Lebanon in the two-week ceasefire deal agreed by the United States and Ir…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/04/m-east-crisis-calls-grow-for-inclusion-of-lebanon-in-peace-deal/",
+      "bloc": "western",
+      "date": "2026-04-10",
+      "datetime": "2026-04-10T04:10:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-11T05:20:55.750Z",
+      "run_id": "2026-04-11T05:20"
+    },
+    {
+      "headline": "Standard Chartered: Oil Price Correction Is Likely Overdone",
+      "summary": "Oil prices have declined by the biggest margin since the Iran war began in late February, with Brent crude for June delivery and WTI for May delivery retreating to the mid-$90s per barrel, alongside falling refined product prices. The United States and Iran a…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Oil-Price-Correction-Is-Likely-Overdone.html",
+      "bloc": "western",
+      "date": "2026-04-10",
+      "datetime": "2026-04-10T00:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-11T05:20:55.750Z",
+      "run_id": "2026-04-11T05:20"
     }
   ],
-  "total_items_ever": 401
+  "total_items_ever": 406
 }

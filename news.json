@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-10T20:00:30.695Z",
+  "ts": "2026-04-11T05:22:00.894Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,18 +9,18 @@
   },
   "live_variables": {
     "oilPrice": 95,
-    "oilStress": 44,
-    "updatedAt": "2026-04-10T20:00:30.695Z"
+    "oilStress": 45,
+    "updatedAt": "2026-04-11T05:22:00.894Z"
   },
   "items": [
     {
-      "headline": "U.S. officials continue to defend Iranian conflict amid criticism from top Catholic leaders",
-      "summary": "The government allegedly demanded earlier in the year that the Vatican throw support behind U.S. military actions.",
-      "source": "Ewtnnews.com",
-      "url": "https://www.ewtnnews.com/world/us/u-s-officials-continue-to-defend-iranian-conflict-amid-criticism-from-top-catholic-leaders",
+      "headline": "Vance sets off to Pakistan to lead talks with Iran as war’s ceasefire remains shaky",
+      "summary": "President Donald Trump is tasking the member of his inner circle who has seemed to be the most reluctant defender of the conflict with Iran to now find a resolution to the war that began six weeks ago and stave off the US president's astonishing threat to wip…",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/vance-sets-off-to-pakistan-to-lead-talks-with-iran-as-wars-ceasefire-remains-shaky/article70846021.ece",
       "bloc": "western",
-      "date": "2026-04-09",
-      "datetime": "2026-04-09T18:11:00Z",
+      "date": "2026-04-10",
+      "datetime": "2026-04-10T05:11:21Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump's Unlikely Suggestion of a Joint U.S.-Iran Shipping Tax",
-      "summary": "President Trump has floated the prospect of a “joint venture” with the Iranian leadership on administering a tax on ships passing through the Strait of Hormuz in a new peace deal for the region. Trump said both the US and Iran could jointly tax ships passing …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Trumps-Unlikely-Suggestion-of-a-Joint-US-Iran-Shipping-Tax.html",
+      "headline": "Feature: Israel, God’s Chosen People – And Others",
+      "summary": "“The government of Spain will not applaud those who set the world on fire just because they show up with a bucket” – Pedro Sanchez, President of Spain (08/04/2026) Why do we read History? Why read Geography? What about Religion? All these subjects have fascin…",
+      "source": "Thechronicle.com.gh",
+      "url": "https://thechronicle.com.gh/feature-israel-gods-chosen-people-and-others/",
       "bloc": "western",
-      "date": "2026-04-09",
-      "datetime": "2026-04-09T18:00:00Z",
+      "date": "2026-04-10",
+      "datetime": "2026-04-10T05:07:01Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +66,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Family Takes Over Disneyland Paris, Smiles Ensue as U.S. War Looms",
-      "summary": "Disney parks have a way of showing up in the news when political figures decide they need a vacation. The most magical places on earth do not discriminate by party affiliation or approval rating, and the contrast between the business of government and the bus…",
-      "source": "Inside the Magic",
-      "url": "https://insidethemagic.net/2026/04/trump-family-takes-over-disneyland-paris-celebrations-ensue-as-hostile-war-looms-ad1/",
+      "headline": "How vulnerable is Ireland’s economy to global unrest and oil-price shocks?",
+      "summary": "Economists argue for targeted fuel supports and spending our taxation largesse on infrastructure to eliminate bottlenecks",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/2026/04/10/how-vulnerable-is-irelands-economy-to-global-unrest-and-oil-price-shocks/",
       "bloc": "western",
-      "date": "2026-04-09",
-      "datetime": "2026-04-09T17:54:20Z",
+      "date": "2026-04-10",
+      "datetime": "2026-04-10T05:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "M-East crisis: Calls grow for inclusion of Lebanon in peace deal",
+      "summary": "By Nkiruka Nnorom with agencies report More countries, including Australia, France, United Kingdom and Iran allies – Russia and Turkey, yesterday, joined in calling for the inclusion of Lebanon in the two-week ceasefire deal agreed by the United States and Ir…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/04/m-east-crisis-calls-grow-for-inclusion-of-lebanon-in-peace-deal/",
+      "bloc": "western",
+      "date": "2026-04-10",
+      "datetime": "2026-04-10T04:10:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -101,45 +127,19 @@
       "datetime": "2026-04-09T16:30:49Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why is Israel continuing to attack Lebanon, despite the ceasefire? Expert Q&A",
-      "summary": "Israel has upped the intensity of its campaign in Lebanon, despite the signing of a ceasefire in the Middle East.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/why-is-israel-continuing-to-attack-lebanon-despite-the-ceasefire-expert-qanda-280302",
-      "bloc": "western",
-      "date": "2026-04-09",
-      "datetime": "2026-04-09T15:53:04Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -319,25 +319,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "China–Taiwan Tensions — Civil War Legacies and Geopolitical Chess",
-      "summary": "Editor-in-Chief Atul Singh and FOI Senior Partner Glenn Carle, a retired CIA officer who now advises companies, governments and organizations on geopolitical risk, turn their attention eastward to examine the sharp escalation in China–Taiwan tensions over the…",
-      "source": "Fair Observer",
-      "url": "https://www.fairobserver.com/region/asia_pacific/china-taiwan-tensions-civil-war-legacies-and-geopolitical-chess/",
+      "headline": "Standard Chartered: Oil Price Correction Is Likely Overdone",
+      "summary": "Oil prices have declined by the biggest margin since the Iran war began in late February, with Brent crude for June delivery and WTI for May delivery retreating to the mid-$90s per barrel, alongside falling refined product prices. The United States and Iran a…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Oil-Price-Correction-Is-Likely-Overdone.html",
       "bloc": "western",
-      "date": "2026-04-03",
-      "datetime": "2026-04-03T14:31:35Z",
+      "date": "2026-04-10",
+      "datetime": "2026-04-10T00:00:00Z",
       "leaders": [
-        "Xi Jinping"
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "oil Brent crude"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "values"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -421,32 +423,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran ceasefire, Delta earnings, the Navy's retail woes and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/08/5-things-to-know-before-the-market-opens.html",
-      "bloc": "western",
-      "date": "2026-04-08",
-      "datetime": "2026-04-08T12:22:13Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "How Pakistan managed to get the US and Iran to a ceasefire",
       "summary": "Backchannel talks led by Pakistan result in temporary ceasefire after weeks of fighting.",
       "source": "Al Jazeera English",
@@ -493,56 +469,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran’s former diplomat calls for US deal to end conflict as ceasefire markets dip",
-      "summary": "The call for US-Iran negotiations highlights potential diplomatic shifts, but market skepticism suggests limited immediate impact.\nThe post Iran’s former diplomat calls for US deal to end conflict as ceasefire markets dip appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/irans-former-diplomat-calls-for-us-deal-to-end-conflict-as-ceasefire-markets-dip/",
-      "bloc": "western",
-      "date": "2026-04-03",
-      "datetime": "2026-04-03T12:15:28Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran lists Gulf bridge targets after coalition strike, US ceasefire odds plummet",
-      "summary": "The escalation reduces diplomatic prospects, impacting market confidence and highlighting the need for strategic peace interventions.\nThe post Iran lists Gulf bridge targets after coalition strike, US ceasefire odds plummet appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-lists-gulf-bridge-targets-after-coalition-strike-us-ceasefire-odds-plummet/",
-      "bloc": "western",
-      "date": "2026-04-03",
-      "datetime": "2026-04-03T02:46:32Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

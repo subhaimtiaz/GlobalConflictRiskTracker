@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-11T19:52:22.738Z",
+  "updated": "2026-04-12T06:12:30.519Z",
   "retention_days": 30,
   "items": [
     {
@@ -2483,32 +2483,6 @@
       "run_id": "2026-04-04T08:03"
     },
     {
-      "headline": "Netanyahu ICC Trial Delayed Until March 2026 Amid War",
-      "summary": "Israeli legal officials secured another delay in Netanyahu's ICC evidence gathering round from January to March 2026, while appeal decisions continue on jurisdiction challenges.",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-882076",
-      "bloc": "institutional",
-      "date": "2026-03-12",
-      "datetime": "2026-03-12T10:00:00Z",
-      "leaders": [
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "ICC Netanyahu",
-        "trial hearing"
-      ],
-      "dimensions": [
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-04T08:03:12.048Z",
-      "run_id": "2026-04-04T08:03"
-    },
-    {
       "headline": "Trump Administration Approaches 60-Day War Powers Resolution Deadline on Iran",
       "summary": "President Trump faces mounting congressional pressure as the 60-day War Powers Resolution deadline approaches, with Congress yet to authorize the Iran military operation despite ongoing combat.",
       "source": "Military.com",
@@ -2869,26 +2843,6 @@
       "run_id": "2026-04-04T14:06"
     },
     {
-      "headline": "UN Security Council adopts resolution condemning Iran's attacks on Gulf states by 13-0 vote",
-      "summary": "Security Council Resolution 2817 adopted with 13 votes in favor, 135 co-sponsors, condemning Iran's attacks against Gulf neighbors. China and Russia abstained but did not veto, marking largest number of countries ever to cosponsor UNSC resolution.",
-      "source": "UN Press Release",
-      "url": "https://press.un.org/en/2026/sc16315.doc.htm",
-      "bloc": "institutional",
-      "date": "2026-03-12",
-      "datetime": "2026-03-12T00:00:00Z",
-      "leaders": [],
-      "watch_terms": [],
-      "dimensions": [],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 4,
-      "persian_only": false,
-      "dimension_signal": null,
-      "_from": "claude",
-      "first_seen": "2026-04-04T14:06:45.174Z",
-      "run_id": "2026-04-04T14:06"
-    },
-    {
       "headline": "Mohammad Javad Zarif proposes Iran ceasefire deal in Foreign Affairs magazine",
       "summary": "Iran's former nuclear negotiator Mohammad Javad Zarif published ceasefire proposal in Foreign Affairs, offering nuclear limits and Hormuz reopening for sanctions relief. Zarif maintains Iran is 'clearly winning' but suggests deal Washington might now accept.",
       "source": "NBC News",
@@ -2984,39 +2938,6 @@
       "escalation": 5,
       "persian_only": false,
       "dimension_signal": null,
-      "_from": "claude",
-      "first_seen": "2026-04-04T14:06:45.174Z",
-      "run_id": "2026-04-04T14:06"
-    },
-    {
-      "headline": "Mojtaba Khamenei vows to keep Strait of Hormuz closed as leverage against US and Israel",
-      "summary": "Iran's new Supreme Leader Mojtaba Khamenei made first public statement since succession, declaring Hormuz closure should continue as leverage. Statement read on state television emphasized continuation of attacks on Gulf Arab neighbors.",
-      "source": "PBS News",
-      "url": "https://www.pbs.org/newshour/world/irans-supreme-leader-says-closure-of-strait-of-hormuz-should-be-used-as-leverage",
-      "bloc": "western",
-      "date": "2026-03-12",
-      "datetime": "2026-03-12T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Supreme Leader Iran",
-        "Strait Hormuz"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Mojtaba Khamenei",
-        "dimension": "survival",
-        "proposed_delta": 2,
-        "rationale": "First public statement emphasizes defiant stance and continued resistance despite massive attacks",
-        "confidence": "high"
-      },
       "_from": "claude",
       "first_seen": "2026-04-04T14:06:45.174Z",
       "run_id": "2026-04-04T14:06"
@@ -3887,41 +3808,6 @@
       "event_type": "leader_statement",
       "escalation": 3,
       "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-05T08:07:06.692Z",
-      "run_id": "2026-04-05T08:07"
-    },
-    {
-      "headline": "Iran Supreme Leader Mojtaba Khamenei issues first statement vowing continued resistance",
-      "summary": "New Supreme Leader calls for national unity and declares Strait of Hormuz will remain closed to pressure enemies. Statement delivered in writing via state TV anchor as questions persist about his health and whereabouts following father's assassination.",
-      "source": "Iran International",
-      "url": "https://www.iranintl.com/en/202603125349",
-      "bloc": "persian",
-      "date": "2026-03-12",
-      "datetime": "2026-03-12T14:20:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Supreme Leader Iran",
-        "Strait Hormuz",
-        "Iran ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Mojtaba Khamenei",
-        "dimension": "narcissism",
-        "proposed_delta": 2,
-        "rationale": "First statement emphasizes defiance and resistance imagery despite regime vulnerability",
-        "confidence": "high"
-      },
       "_from": "claude",
       "first_seen": "2026-04-05T08:07:06.692Z",
       "run_id": "2026-04-05T08:07"
@@ -6220,39 +6106,6 @@
       "run_id": "2026-04-07T16:18"
     },
     {
-      "headline": "New Iran Supreme Leader issues first message via state TV, health questions persist",
-      "summary": "Mojtaba Khamenei's first message as Supreme Leader was read by TV anchor showing only his photograph, raising questions about his condition after reports he was injured in February strikes. Called for continued military resistance and keeping Strait of Hormuz closed.",
-      "source": "Iran International",
-      "url": "https://www.iranintl.com/en/202603125349",
-      "bloc": "persian",
-      "date": "2026-03-12",
-      "datetime": "2026-03-12T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Supreme Leader Iran",
-        "Strait Hormuz"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 3,
-      "persian_only": true,
-      "dimension_signal": {
-        "leader": "Mojtaba Khamenei",
-        "dimension": "survival",
-        "proposed_delta": -2,
-        "rationale": "inability to appear publicly and reliance on pre-recorded messages indicates weakened position and health concerns",
-        "confidence": "medium"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-07T16:18:16.987Z",
-      "run_id": "2026-04-07T16:18"
-    },
-    {
       "headline": "Pakistan mediates US-Iran ceasefire talks as Field Marshal Munir emerges as key broker",
       "summary": "Field Marshal Asim Munir positioned as central mediator in US-Iran peace efforts, using Revolutionary Guard contacts to deliver 15-point ceasefire proposal. Pakistan's neutral stance aided by avoiding Iranian targeting during war.",
       "source": "Ynet News",
@@ -8430,40 +8283,6 @@
       "run_id": "2026-04-08T20:10"
     },
     {
-      "headline": "New Supreme Leader Mojtaba Khamenei issues first message calling for continued military resistance via Strait of Hormuz pressure",
-      "summary": "Iran's new Supreme Leader issued first message attributed to him calling for continued military resistance and maintaining Strait of Hormuz as pressure tool. Message was read by state TV anchor with still photograph displayed, no video or audio of Khamenei himself released.",
-      "source": "Iran International",
-      "url": "https://www.iranintl.com/en/202603125349",
-      "bloc": "persian",
-      "date": "2026-03-12",
-      "datetime": "2026-03-12T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Supreme Leader Iran",
-        "Strait Hormuz"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 5,
-      "persian_only": true,
-      "dimension_signal": {
-        "leader": "Mojtaba Khamenei",
-        "dimension": "impulsivity",
-        "proposed_delta": -1,
-        "rationale": "First message delivered only in writing through proxy suggests calculated rather than impulsive communication style",
-        "confidence": "medium"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-09T01:27:58.574Z",
-      "run_id": "2026-04-09T01:27"
-    },
-    {
       "headline": "Trump impeachment odds hit record high amid Iran war threats, approval rating at 42.9%",
       "summary": "Impeachment and removal odds for President Trump reached 27% on prediction markets amid his threats against Iran including Tuesday night Strait of Hormuz deadline. Presidential approval rating declined to 42.9% with 54.4% disapproval.",
       "source": "Newsweek",
@@ -10371,7 +10190,175 @@
       "_from": "newsapi",
       "first_seen": "2026-04-11T19:52:22.738Z",
       "run_id": "2026-04-11T19:52"
+    },
+    {
+      "headline": "Trump Threatens 50% Tariffs on Nations Supplying Weapons to Iran",
+      "summary": "Introduction On April 8, 2026, U.S. President Donald Trump announced a policy to impose immediate 50% tariffs on goods from any country found supplying military weapons to Iran. The announcement was made via a post on Truth Social, according to reports from s…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-11-trump-threatens-tariffs-on-nations-supplying-weapons-iran.html",
+      "bloc": "western",
+      "date": "2026-04-11",
+      "datetime": "2026-04-11T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-12T06:12:30.519Z",
+      "run_id": "2026-04-12T06:12"
+    },
+    {
+      "headline": "Iran Limits Daily Vessel Transits Through Strait of Hormuz to 15 Under Ceasefire Terms: Report",
+      "summary": "Iran Limits Daily Vessel Transits Through Strait of Hormuz to 15 Under Ceasefire Terms: Report A new report claims Iran has agreed to a significant restriction on maritime traffic through the Strait of Hormuz as part of a broader ceasefire agreement with the …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-11-iran-limits-daily-vessel-transits-through-hormuz.html",
+      "bloc": "western",
+      "date": "2026-04-11",
+      "datetime": "2026-04-11T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-12T06:12:30.519Z",
+      "run_id": "2026-04-12T06:12"
+    },
+    {
+      "headline": "Israeli Strikes in Lebanon Continue Following Ceasefire, EU Says Iran Truce “Under Strain”",
+      "summary": "Introduction Israeli military strikes against Hezbollah targets in Lebanon have continued for the last two days following the announcement of a U.S.-Iran ceasefire, according to reports from regional authorities and international observers. The European Union…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-11-israeli-strikes-in-lebanon-continue-following-ceasefire.html",
+      "bloc": "western",
+      "date": "2026-04-11",
+      "datetime": "2026-04-11T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-12T06:12:30.519Z",
+      "run_id": "2026-04-12T06:12"
+    },
+    {
+      "headline": "‘It’s as if there’s no ceasefire at all. Life is still terrible’ – Six months into Gaza truce, little has changed for civilians",
+      "summary": "It has been six months since Gaza’s ceasefire deal took effect, a milestone largely lost in the confusion over the new and even more fragile ceasefire in the Iran war.",
+      "source": "Independent.ie",
+      "url": "https://www.independent.ie/world-news/middle-east/its-as-if-theres-no-ceasefire-at-all-life-is-still-terrible-six-months-into-gaza-truce-little-has-changed-for-civilians/a1799003413.html",
+      "bloc": "western",
+      "date": "2026-04-11",
+      "datetime": "2026-04-11T04:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-12T06:12:30.519Z",
+      "run_id": "2026-04-12T06:12"
+    },
+    {
+      "headline": "Why is Israel continuing to attack Lebanon, despite the ceasefire? Expert Q&A",
+      "summary": "There should be no confusion. Sharif’s social media post made clear that the ceasefire also applies to Israel’s campaign in Lebanon.",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/04/continuing-lebanon-ceasefire.html",
+      "bloc": "western",
+      "date": "2026-04-11",
+      "datetime": "2026-04-11T04:06:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-12T06:12:30.519Z",
+      "run_id": "2026-04-12T06:12"
+    },
+    {
+      "headline": "No retreat at Hormuz — Iran must not control the world’s energy lifeline",
+      "summary": "A comprehensive sanctions regime including China is needed to deter Iran from weaponizing the Strait of Hormuz, a vital global trade artery.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/retreat-hormuz-iran-must-control-worlds-energy-lifeline",
+      "bloc": "western",
+      "date": "2026-04-10",
+      "datetime": "2026-04-10T21:31:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-12T06:12:30.519Z",
+      "run_id": "2026-04-12T06:12"
     }
   ],
-  "total_items_ever": 425
+  "total_items_ever": 431
 }

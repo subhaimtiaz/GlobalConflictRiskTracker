@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-13T07:29:19.281Z",
+  "ts": "2026-04-13T16:42:18.734Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,45 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 102,
-    "oilStress": 55,
-    "updatedAt": "2026-04-13T07:29:19.281Z"
+    "oilPrice": 101,
+    "oilStress": 54,
+    "updatedAt": "2026-04-13T16:42:18.734Z"
   },
   "items": [
     {
-      "headline": "Peace talks between United States and Iran collapse without a deal",
-      "summary": "The US and Iran failed to reach an agreement after marathon talks in Pakistan, raising doubts about whether they can find a lasting resolution to a six-week war that has killed thousands and disrupted energy supplies across the globe.",
-      "source": "Independent.ie",
-      "url": "https://www.independent.ie/world-news/peace-talks-between-united-states-and-iran-collapse-without-a-deal/a1142495169.html",
+      "headline": "How the Strait of Hormuz Blockade Handed China a Clean Energy Windfall",
+      "summary": "There is great uncertainty as to whether and to what extent the Strait of Hormuz is reopening the flow of global oil and gas trade against the backdrop of a fragile ceasefire. What is certain, however, is that the global energy sector will see far-reaching co…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/How-the-Strait-of-Hormuz-Blockade-Handed-China-a-Clean-Energy-Windfall.html",
       "bloc": "western",
       "date": "2026-04-12",
-      "datetime": "2026-04-12T06:04:11Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US-Iran talks ended unsuccessfully",
-      "summary": "The highest-level direct talks between the United States and Iran concluded without any agreement on April 12, 2026, in Islamabad, the capital of Pakistan. With the breakdown of these historic peace talks, which lasted for nearly 21 hours, there is a risk of …",
-      "source": "Gossiplankanews.com",
-      "url": "https://english.gossiplankanews.com/2026/04/us-iran-talks-ended-unsuccessfully.html",
-      "bloc": "western",
-      "date": "2026-04-12",
-      "datetime": "2026-04-12T05:10:26Z",
+      "datetime": "2026-04-12T15:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "4 ways war in Iran has weakened United States in great power game",
-      "summary": "Throughout the weeklong conflict, China and Russia struck a delicate balance. Both declined to give Iran, seen to a varying degree as an ally of both nations, their full-throated support or incur any real costs in the conflict",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/4-ways-war-in-iran-has-weakened-united-states-in-great-power-game/article70853279.ece",
+      "headline": "Strait of Hormuz Still Restricted Today: Fragile Ceasefire Leaves Vital Oil Route Near Standstill",
+      "summary": "DUBAI, United Arab Emirates — The Strait of Hormuz, the narrow chokepoint through which nearly one-fifth of global oil supplies normally flow, remained effectively restricted Sunday as a fragile two-week ceasefire between the United States and Iran failed to …",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-still-restricted-today-fragile-ceasefire-leaves-vital-oil-route-near-standstill-1866267",
       "bloc": "western",
       "date": "2026-04-12",
-      "datetime": "2026-04-12T04:10:25Z",
+      "datetime": "2026-04-12T12:39:31Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US negotiators leaving without a peace deal with Iran",
-      "summary": "A U.S. official said several U.S. Navy ships crossed the Strait of Hormuz; three supertankers passed through, shipping data showed.",
-      "source": "Richmond.com",
-      "url": "https://richmond.com/news/nation-world/government-politics/article_2bfb7b44-6d1b-5b2e-a21e-e728904d30ef.html",
+      "headline": "'Zero lessons earned': Iran FM says US maximalism blocked progress at Islamabad talks",
+      "summary": "Iran's foreign minister said the United States' \"maximalism, shifting goalposts, and blockade\" derailed what was just inches away from becoming the \"Islamabad MoU,\" as high-level talks between the two countries failed to produce a breakthrough after 21 hours …",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260412-presstv05.htm",
       "bloc": "western",
       "date": "2026-04-12",
-      "datetime": "2026-04-12T02:15:00Z",
+      "datetime": "2026-04-12T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -118,13 +92,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israeli strikes kill at least 18 people across southern Lebanon",
-      "summary": "Lebanon's Health Ministry says more than 2,000 people have been killed in Israeli attacks since March 2.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon",
-      "bloc": "regional",
-      "date": "2026-04-11",
-      "datetime": "2026-04-11T20:25:29Z",
+      "headline": "Iran turned enemy's 'regime change' dream into 'change of governing regime in Hormuz'",
+      "summary": "Iranian government spokeswoman Fatemeh Mohajerani says the Islamic Republic has turned the enemy's \"regime change\" dream into a \"change in Iran's governing regime over the Strait of Hormuz.\"",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260412-presstv10.htm",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran begins rebuilding oil facilities hit by US-Israeli strikes; targets 80% capacity in 2 months",
+      "summary": "Iran has launched reconstruction efforts at oil infrastructure sites immediately following strikes by the US and Israel, says a senior energy official.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260412-presstv11.htm",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -140,6 +140,32 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "So Yeah, We’re Still Very Much at War With Iran",
+      "summary": "Donald Trump also found time to call negative media coverage of the Iran War \"almost treasonous,\" in another great sign for free speech.",
+      "source": "Jezebel",
+      "url": "https://www.jezebel.com/iran-war-continuing-ceasefire-broken-peace-talks-failed-us-navy-blockade-strait-of-hormuz-trump-treasonous",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T12:19:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "No retreat at Hormuz — Iran must not control the world’s energy lifeline",
-      "summary": "A comprehensive sanctions regime including China is needed to deter Iran from weaponizing the Strait of Hormuz, a vital global trade artery.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/opinion/retreat-hormuz-iran-must-control-worlds-energy-lifeline",
-      "bloc": "western",
-      "date": "2026-04-10",
-      "datetime": "2026-04-10T21:31:47Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Ambition will not counteract ambition",
       "summary": "I have no objection per se to invoking impeachment and the 25th Amendment in the context of Trump’s genocidal threats — telling the truth can be its own justification even without an immediate practical remedy, and the political context might change down the …",
       "source": "Lawyersgunsmoneyblog.com",
@@ -323,6 +323,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "In 2011, Barack Obama said it was time to ‘pivot’ to Asia. But 15 years later, the U.S. is still at war in the Middle East",
+      "summary": "“Rebalancing to Asia is highly relevant to America’s national interests, but it has been undercut by many bad decisions.”",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/12/pivot-asia-us-china-talks-trump-xi-jinping-iran-war/",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T14:46:30Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran war diverts US military and attention from Asia ahead of Trump's summit with China's leader",
       "summary": "President Barack Obama in 2011 declared it was time to leave behind the wars in Iraq and Afghanistan and “pivot” to Asia to counter China's rise",
       "source": "Abcnews.com",
@@ -354,30 +378,6 @@
       "bloc": "western",
       "date": "2026-04-12",
       "datetime": "2026-04-12T05:23:10Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Elizabeth Economy: Amanpour And Company",
-      "summary": "Hoover Institution fellow Elizabeth Economy discusses Beijing’s strategy to expand its power in the new world order.",
-      "source": "PBS",
-      "url": "https://www.pbs.org/video/april-7-2026-nfsxep/",
-      "bloc": "western",
-      "date": "2026-04-08",
-      "datetime": "2026-04-08T00:00:00Z",
       "leaders": [
         "Xi Jinping"
       ],

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-12T19:57:14.121Z",
+  "ts": "2026-04-13T07:29:19.281Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,19 +8,45 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 95,
-    "oilStress": 45,
-    "updatedAt": "2026-04-12T19:57:14.121Z"
+    "oilPrice": 102,
+    "oilStress": 55,
+    "updatedAt": "2026-04-13T07:29:19.281Z"
   },
   "items": [
     {
-      "headline": "Iranian delegation arrives in Islamabad, sets preconditions for peace",
-      "summary": "Iranian delegation led by Parliament Speaker Ghalibaf arrives in Islamabad for US talks, demanding a Lebanon ceasefire and release of frozen assets first. US VP Vance warns Iran against playing games. An Iranian negotiating delegation, led by Parliament Speak…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4374525/posts",
+      "headline": "Peace talks between United States and Iran collapse without a deal",
+      "summary": "The US and Iran failed to reach an agreement after marathon talks in Pakistan, raising doubts about whether they can find a lasting resolution to a six-week war that has killed thousands and disrupted energy supplies across the globe.",
+      "source": "Independent.ie",
+      "url": "https://www.independent.ie/world-news/peace-talks-between-united-states-and-iran-collapse-without-a-deal/a1142495169.html",
       "bloc": "western",
-      "date": "2026-04-11",
-      "datetime": "2026-04-11T19:39:35Z",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T06:04:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US-Iran talks ended unsuccessfully",
+      "summary": "The highest-level direct talks between the United States and Iran concluded without any agreement on April 12, 2026, in Islamabad, the capital of Pakistan. With the breakdown of these historic peace talks, which lasted for nearly 21 hours, there is a risk of …",
+      "source": "Gossiplankanews.com",
+      "url": "https://english.gossiplankanews.com/2026/04/us-iran-talks-ended-unsuccessfully.html",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T05:10:26Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Pope Leo Denounces The 'Delusion Of Omnipotence' He Says Fuels The U.S.-Israeli War In Iran",
-      "summary": "Pope Leo called for all people of good will to pray for peace and demand an end to war from their political leaders.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/pope-leo-denounces-delusion-omnipotence-fuels-iran-war_n_69da969de4b00247ba9b72ac",
+      "headline": "4 ways war in Iran has weakened United States in great power game",
+      "summary": "Throughout the weeklong conflict, China and Russia struck a delicate balance. Both declined to give Iran, seen to a varying degree as an ally of both nations, their full-throated support or incur any real costs in the conflict",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/4-ways-war-in-iran-has-weakened-united-states-in-great-power-game/article70853279.ece",
       "bloc": "western",
-      "date": "2026-04-11",
-      "datetime": "2026-04-11T18:58:06Z",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T04:10:25Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -61,6 +87,136 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US negotiators leaving without a peace deal with Iran",
+      "summary": "A U.S. official said several U.S. Navy ships crossed the Strait of Hormuz; three supertankers passed through, shipping data showed.",
+      "source": "Richmond.com",
+      "url": "https://richmond.com/news/nation-world/government-politics/article_2bfb7b44-6d1b-5b2e-a21e-e728904d30ef.html",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T02:15:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israeli strikes kill at least 18 people across southern Lebanon",
+      "summary": "Lebanon's Health Ministry says more than 2,000 people have been killed in Israeli attacks since March 2.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon",
+      "bloc": "regional",
+      "date": "2026-04-11",
+      "datetime": "2026-04-11T20:25:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Strait of Hormuz Transit Remains Limited to Iran-Aligned Vessels; Tankers Gather Near Entrance",
+      "summary": "Transit through the critical Strait of Hormuz remains heavily restricted as of April 2026, with passage primarily limited to vessels flagged to or linked with nations Iran considers ‘friendly,’ including China and Russia. Despite a two-week ceasefire announce…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-12-hormuz-strait-transit-remains-limited-iran-vessels.html",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire",
+      "summary": "Three supertankers laden with oil exit waterway amid global energy crunch, shipping data shows.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire",
+      "bloc": "regional",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T05:00:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How Iran’s Dark Fleet Is Quietly Keeping Oil Markets Afloat",
+      "summary": "It almost looks like an eternal story or an Australian boomerang approach, but the global oil market is once again being misread, very badly. Headlines speak of disruption, paralysis, and the near closure of the Strait of Hormuz. International tanker trackers…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/How-Irans-Dark-Fleet-Is-Quietly-Keeping-Oil-Markets-Afloat.html",
+      "bloc": "western",
+      "date": "2026-04-11",
+      "datetime": "2026-04-11T23:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -75,70 +231,18 @@
       "datetime": "2026-04-11T18:54:47Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Evangelicals amplify Trump's religious framing of Iran war",
-      "summary": "President Trump is using Christian rhetoric to rally core supporters behind the increasingly unpopular war with Iran, religious and political experts say.",
-      "source": "Richmond.com",
-      "url": "https://richmond.com/news/nation-world/government-politics/article_b1005640-1370-54d0-9e17-2da870c7ad02.html",
-      "bloc": "western",
-      "date": "2026-04-11",
-      "datetime": "2026-04-11T18:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ceasefire brings some relief for Iranians but economic outlook remains grim",
-      "summary": "Activity picks up in Tehran's Grand Bazaar compared with before the ceasefire, but vendors say sales remain slow.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim",
-      "bloc": "regional",
-      "date": "2026-04-11",
-      "datetime": "2026-04-11T17:29:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -151,84 +255,6 @@
       "bloc": "western",
       "date": "2026-04-10",
       "datetime": "2026-04-10T21:31:47Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How serious is the Iranian sea mine threat in the Strait of Hormuz?",
-      "summary": "Iran claims to have littered a central shipping passage in the Strait of Hormuz with sea mines, in a move analysts say could be a \"coercive threat\" to maintain its grip on the crucial waterway.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-04-11/how-serious-is-iranian-sea-mine-threat-strait-of-hormuz/106550020",
-      "bloc": "western",
-      "date": "2026-04-10",
-      "datetime": "2026-04-10T18:56:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump criticises Iran over continued blockade of Strait of Hormuz; oil prices rise again",
-      "summary": "Oil ‌prices climbed in early trade due to anxiety as tanker traffic through the strait remained largely frozen",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/10/trump-criticises-iran-over-continued-blockade-of-strait-of-hormuz-oil-prices-rise-again/",
-      "bloc": "western",
-      "date": "2026-04-10",
-      "datetime": "2026-04-10T06:05:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How the Iran war energy crisis is echoing across Canada",
-      "summary": "The global energy crisis sparked by the Iran war is shaking up Canada coast to coast and could have a lasting legacy. Read more",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/feature/iran-war-energy-crisis-shaking-up-canada",
-      "bloc": "western",
-      "date": "2026-04-09",
-      "datetime": "2026-04-09T16:30:49Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -297,13 +323,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Elizabeth Economy: Amanpour And Company",
-      "summary": "Hoover Institution fellow Elizabeth Economy discusses Beijing’s strategy to expand its power in the new world order.",
-      "source": "PBS",
-      "url": "https://www.pbs.org/video/april-7-2026-nfsxep/",
+      "headline": "Iran war diverts US military and attention from Asia ahead of Trump's summit with China's leader",
+      "summary": "President Barack Obama in 2011 declared it was time to leave behind the wars in Iraq and Afghanistan and “pivot” to Asia to counter China's rise",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/iran-war-diverts-us-military-attention-asia-ahead-131964994",
       "bloc": "western",
-      "date": "2026-04-08",
-      "datetime": "2026-04-08T00:00:00Z",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T06:12:37Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -321,13 +347,37 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Sign Of The Times",
-      "summary": "If you haven’t seen the movie, Project Hail Mary, then you should… it is excellent. It is faithful to Andy Weir’s 2021 book, hilarious and heart-warming, and with the Artemis II crew circling the moon, the film is just what we needed.",
-      "source": "Substack.com",
-      "url": "https://chinaarticles.substack.com/p/sign-of-the-times",
+      "headline": "Iran war diverts US military, attention from Asia ahead of Trump's summit with China's leader",
+      "summary": "NATO Secretary General Mark Rutte also said conflicts may not be confined to a single theatre, suggesting that China could call upon its “junior partners” elsewhere to divert US attention if it should move against Taiwan",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-war-diverts-us-military-attention-from-asia-ahead-of-trumps-summit-with-chinas-leader/article70853375.ece",
       "bloc": "western",
-      "date": "2026-04-06",
-      "datetime": "2026-04-06T00:00:00Z",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T05:23:10Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Elizabeth Economy: Amanpour And Company",
+      "summary": "Hoover Institution fellow Elizabeth Economy discusses Beijing’s strategy to expand its power in the new world order.",
+      "source": "PBS",
+      "url": "https://www.pbs.org/video/april-7-2026-nfsxep/",
+      "bloc": "western",
+      "date": "2026-04-08",
+      "datetime": "2026-04-08T00:00:00Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -404,6 +454,32 @@
       "bloc": "western",
       "date": "2026-04-10",
       "datetime": "2026-04-10T00:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How the Iran war energy crisis is echoing across Canada",
+      "summary": "The global energy crisis sparked by the Iran war is shaking up Canada coast to coast and could have a lasting legacy. Read more",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/feature/iran-war-energy-crisis-shaking-up-canada",
+      "bloc": "western",
+      "date": "2026-04-09",
+      "datetime": "2026-04-09T16:30:49Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -564,28 +640,6 @@
       "variable_key": null,
       "event_type": "infrastructure_attack",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump's 'English Obscenities' to Iran - Latest War News",
-      "summary": "US President Donald Trump has warned Iran that if an agreement is not reached within the next 48 hours, he will launch severe attacks on Iran's energy and transportation infrastructure, forcing Iran to allow ship traffic through the Strait of Hormuz. Trump, u…",
-      "source": "Gossiplankanews.com",
-      "url": "https://english.gossiplankanews.com/2026/04/trumps-english-obscenities-to-iran.html",
-      "bloc": "western",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T13:50:28Z",
-      "leaders": [],
-      "watch_terms": [
-        "airstrike missile drone"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     }

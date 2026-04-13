@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-12T19:56:08.967Z",
+  "updated": "2026-04-13T07:28:14.150Z",
   "retention_days": 30,
   "items": [
     {
@@ -1670,41 +1670,6 @@
         "dimension": "impulsivity",
         "proposed_delta": 1,
         "rationale": "Unusually large-scale missile test during US-Iran conflict demonstrates opportunistic escalation",
-        "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-03T21:07:04.183Z",
-      "run_id": "2026-04-03T21:07"
-    },
-    {
-      "headline": "China Increases Defense Budget 7% to $278 Billion Despite Slowing Economic Growth",
-      "summary": "The PRC Ministry of Finance proposed a defense budget of approximately $278 billion for 2026, representing a 7% increase despite GDP growth targets falling to their lowest since 1991. Xi Jinping linked PLA modernization to party building in the military during March plenary session.",
-      "source": "American Enterprise Institute",
-      "url": null,
-      "bloc": "institutional",
-      "date": "2026-03-13",
-      "datetime": "2026-03-13T10:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "China Taiwan",
-        "China nuclear",
-        "South China Sea"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "china_defense_budget_2026",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Xi Jinping",
-        "dimension": "survival",
-        "proposed_delta": 1,
-        "rationale": "Prioritizing military spending despite economic challenges shows regime security focus",
         "confidence": "high"
       },
       "_from": "claude",
@@ -10666,7 +10631,283 @@
       "_from": "newsapi",
       "first_seen": "2026-04-12T19:56:08.967Z",
       "run_id": "2026-04-12T19:56"
+    },
+    {
+      "headline": "Peace talks between United States and Iran collapse without a deal",
+      "summary": "The US and Iran failed to reach an agreement after marathon talks in Pakistan, raising doubts about whether they can find a lasting resolution to a six-week war that has killed thousands and disrupted energy supplies across the globe.",
+      "source": "Independent.ie",
+      "url": "https://www.independent.ie/world-news/peace-talks-between-united-states-and-iran-collapse-without-a-deal/a1142495169.html",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T06:04:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-13T07:28:14.150Z",
+      "run_id": "2026-04-13T07:28"
+    },
+    {
+      "headline": "US-Iran talks ended unsuccessfully",
+      "summary": "The highest-level direct talks between the United States and Iran concluded without any agreement on April 12, 2026, in Islamabad, the capital of Pakistan. With the breakdown of these historic peace talks, which lasted for nearly 21 hours, there is a risk of …",
+      "source": "Gossiplankanews.com",
+      "url": "https://english.gossiplankanews.com/2026/04/us-iran-talks-ended-unsuccessfully.html",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T05:10:26Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-13T07:28:14.150Z",
+      "run_id": "2026-04-13T07:28"
+    },
+    {
+      "headline": "4 ways war in Iran has weakened United States in great power game",
+      "summary": "Throughout the weeklong conflict, China and Russia struck a delicate balance. Both declined to give Iran, seen to a varying degree as an ally of both nations, their full-throated support or incur any real costs in the conflict",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/4-ways-war-in-iran-has-weakened-united-states-in-great-power-game/article70853279.ece",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T04:10:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-13T07:28:14.150Z",
+      "run_id": "2026-04-13T07:28"
+    },
+    {
+      "headline": "US negotiators leaving without a peace deal with Iran",
+      "summary": "A U.S. official said several U.S. Navy ships crossed the Strait of Hormuz; three supertankers passed through, shipping data showed.",
+      "source": "Richmond.com",
+      "url": "https://richmond.com/news/nation-world/government-politics/article_2bfb7b44-6d1b-5b2e-a21e-e728904d30ef.html",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T02:15:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-13T07:28:14.150Z",
+      "run_id": "2026-04-13T07:28"
+    },
+    {
+      "headline": "Israeli strikes kill at least 18 people across southern Lebanon",
+      "summary": "Lebanon's Health Ministry says more than 2,000 people have been killed in Israeli attacks since March 2.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon",
+      "bloc": "regional",
+      "date": "2026-04-11",
+      "datetime": "2026-04-11T20:25:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-13T07:28:14.150Z",
+      "run_id": "2026-04-13T07:28"
+    },
+    {
+      "headline": "Strait of Hormuz Transit Remains Limited to Iran-Aligned Vessels; Tankers Gather Near Entrance",
+      "summary": "Transit through the critical Strait of Hormuz remains heavily restricted as of April 2026, with passage primarily limited to vessels flagged to or linked with nations Iran considers ‘friendly,’ including China and Russia. Despite a two-week ceasefire announce…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-12-hormuz-strait-transit-remains-limited-iran-vessels.html",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-13T07:28:14.150Z",
+      "run_id": "2026-04-13T07:28"
+    },
+    {
+      "headline": "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire",
+      "summary": "Three supertankers laden with oil exit waterway amid global energy crunch, shipping data shows.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire",
+      "bloc": "regional",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T05:00:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-13T07:28:14.150Z",
+      "run_id": "2026-04-13T07:28"
+    },
+    {
+      "headline": "How Iran’s Dark Fleet Is Quietly Keeping Oil Markets Afloat",
+      "summary": "It almost looks like an eternal story or an Australian boomerang approach, but the global oil market is once again being misread, very badly. Headlines speak of disruption, paralysis, and the near closure of the Strait of Hormuz. International tanker trackers…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/How-Irans-Dark-Fleet-Is-Quietly-Keeping-Oil-Markets-Afloat.html",
+      "bloc": "western",
+      "date": "2026-04-11",
+      "datetime": "2026-04-11T23:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-13T07:28:14.150Z",
+      "run_id": "2026-04-13T07:28"
+    },
+    {
+      "headline": "Iran war diverts US military and attention from Asia ahead of Trump's summit with China's leader",
+      "summary": "President Barack Obama in 2011 declared it was time to leave behind the wars in Iraq and Afghanistan and “pivot” to Asia to counter China's rise",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/iran-war-diverts-us-military-attention-asia-ahead-131964994",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T06:12:37Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-13T07:28:14.150Z",
+      "run_id": "2026-04-13T07:28"
+    },
+    {
+      "headline": "Iran war diverts US military, attention from Asia ahead of Trump's summit with China's leader",
+      "summary": "NATO Secretary General Mark Rutte also said conflicts may not be confined to a single theatre, suggesting that China could call upon its “junior partners” elsewhere to divert US attention if it should move against Taiwan",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-war-diverts-us-military-attention-from-asia-ahead-of-trumps-summit-with-chinas-leader/article70853375.ece",
+      "bloc": "western",
+      "date": "2026-04-12",
+      "datetime": "2026-04-12T05:23:10Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-13T07:28:14.150Z",
+      "run_id": "2026-04-13T07:28"
     }
   ],
-  "total_items_ever": 442
+  "total_items_ever": 452
 }

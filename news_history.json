@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-14T15:57:52.766Z",
+  "updated": "2026-04-14T21:09:22.589Z",
   "retention_days": 30,
   "items": [
     {
@@ -11788,7 +11788,175 @@
       "_from": "newsapi",
       "first_seen": "2026-04-14T15:57:52.766Z",
       "run_id": "2026-04-14T15:57"
+    },
+    {
+      "headline": "WATCH: Trump says he doesn't owe Pope Leo an apology after attacking him for comments on Iran",
+      "summary": "President Donald Trump refused to apologize to Pope Leo XIV on Monday after criticizing the pontiff for his opposition to the war in Iran — and he sought to explain away a now-deleted social media post depicting himself as Jesus by saying he had thought the i…",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-he-doesnt-owe-pope-leo-an-apology-after-attacking-him-for-comments-on-iran",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T20:08:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T21:09:22.589Z",
+      "run_id": "2026-04-14T21:09"
+    },
+    {
+      "headline": "Netanyahu hails blow dealt to Iran as Israel commemorates Holocaust",
+      "summary": "The observance, held each year in April or May according to the Hebrew calendar, is separate from International Holocaust Remembrance Day on January 27.\nThe post Netanyahu hails blow dealt to Iran as Israel commemorates Holocaust appeared first on Vanguard Ne…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/04/netanyahu-hails-blow-dealt-to-iran-as-israel-commemorates-holocaust/",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T19:31:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T21:09:22.589Z",
+      "run_id": "2026-04-14T21:09"
+    },
+    {
+      "headline": "The Crisis In The Strait Of Hormuz Is The Greatest Threat To The Global Economy In My Entire Lifetime",
+      "summary": "Nobody was ready for a scenario in which the Strait of Hormuz is blocked for an indefinite period of time. The Iranians think that they will eventually get what they want by holding commercial traffic through the Strait of Hormuz hostage and causing as much p…",
+      "source": "Theeconomiccollapseblog.com",
+      "url": "http://theeconomiccollapseblog.com/the-crisis-in-the-strait-of-hormuz-is-the-greatest-threat-to-the-global-economy-in-my-entire-lifetime/",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T20:23:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T21:09:22.589Z",
+      "run_id": "2026-04-14T21:09"
+    },
+    {
+      "headline": "What’s happening with Brent crude and African crude prices, and why physical oil hits $150 as Europe pays record premiums amid Strait of Hormuz disruption and global supply shock fears",
+      "summary": "Brent crude and WTI oil prices are under sharp focus as physical crude for Europe has surged near $150 a barrel, based on LSEG data. This gap between futures and real oil signals a live supply crunch. The Strait of Hormuz disruption has tightened global flows…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/whats-happening-with-brent-crude-and-african-crude-prices-and-why-physical-oil-hits-150-as-europe-pays-record-premiums-amid-strait-of-hormuz-disruption-and-global-supply-shock-fears/articleshow/130243265.cms",
+      "bloc": "regional",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T19:20:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T21:09:22.589Z",
+      "run_id": "2026-04-14T21:09"
+    },
+    {
+      "headline": "Iran threatens to retaliate against Gulf ports for US blockade",
+      "summary": "The United States military will blockade ships leaving Iran's ports starting Monday. Iran has threatened retaliation against Gulf neighbors. Oil prices have jumped significantly as the Strait of Hormuz remains closed. Talks to end the conflict have broken dow…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-threatens-to-retaliate-against-gulf-ports-for-us-blockade/articleshow/130242316.cms",
+      "bloc": "regional",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T16:47:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T21:09:22.589Z",
+      "run_id": "2026-04-14T21:09"
+    },
+    {
+      "headline": "Trump's naval blockade raises economic pressure on Iran",
+      "summary": "A US naval blockade will cut off Iran's main source of hard currency by halting most of its oil exports. Will Donald Trump's pressure force Tehran back to negotiations or widen the conflict? How will Trump's blockade of Iranian oil work?\n\nAfter US-Iran peace …",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/trumps-naval-blockade-raises-economic-pressure-on-iran/a-76760110",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T16:31:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T21:09:22.589Z",
+      "run_id": "2026-04-14T21:09"
     }
   ],
-  "total_items_ever": 486
+  "total_items_ever": 492
 }

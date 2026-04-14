@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-13T21:11:41.472Z",
+  "ts": "2026-04-14T06:21:49.421Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,175 +8,123 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 98,
-    "oilStress": 49,
-    "updatedAt": "2026-04-13T21:11:41.472Z"
+    "oilPrice": 99,
+    "oilStress": 50,
+    "updatedAt": "2026-04-14T06:21:49.421Z"
   },
   "items": [
     {
-      "headline": "How the Iran War Is Disrupting Gulf Economies: 5 Key Effects",
-      "summary": "On Wednesday, the United States and Iran agreed to a two-week ceasefire, pausing the 42-day military campaign by the U.S. and Israel against multiple Iranian military and civilian targets. The Pakistan-brokered deal is, however, already being severely tested:…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/How-the-Iran-War-Is-Disrupting-Gulf-Economies-5-Key-Effects.html",
-      "bloc": "western",
-      "date": "2026-04-12",
-      "datetime": "2026-04-12T21:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "‘No other way’: Middle East prepares for more fighting as talks fail",
-      "summary": "Elsewhere in the Middle East, the negotiations' failure only seemed to guarantee more uncertainty.\nThe post ‘No other way’: Middle East prepares for more fighting as talks fail appeared first on Vanguard News.",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/04/no-other-way-middle-east-prepares-for-more-fighting-as-talks-fail/",
-      "bloc": "western",
-      "date": "2026-04-12",
-      "datetime": "2026-04-12T18:57:35Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Full transcript of \"Face the Nation with Margaret Brennan,\" April 12, 2026",
-      "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Israeli Ambassador to the U.S. Michael Leiter and Democratic Sen. Mark Warner of Virginia join Margaret Brennan.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-04-12-2026/",
-      "bloc": "western",
-      "date": "2026-04-12",
-      "datetime": "2026-04-12T18:22:10Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Transcript: Israeli Ambassador Michael Leiter on \"Face the Nation with Margaret Brennan\"",
-      "summary": "The following is the transcript of the interview with Israeli Ambassador to the U.S. Michael Leiter that aired on \"Face the Nation with Margaret Brennan\" on April 12, 2026.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/michael-leiter-transcript-face-the-nation-04-12-2026/",
-      "bloc": "western",
-      "date": "2026-04-12",
-      "datetime": "2026-04-12T17:10:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iranian authorities remain defiant, urge supporters to stay in streets",
-      "summary": "Mohammad Bagher Ghalibaf, who led Iran's delegation in talks to end the war, said US delegation 'failed to gain trust'.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/4/12/iranian-authorities-remain-defiant-urge-supporters-to-stay-in",
-      "bloc": "regional",
-      "date": "2026-04-12",
-      "datetime": "2026-04-12T16:51:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "So Yeah, We’re Still Very Much at War With Iran",
-      "summary": "Donald Trump also found time to call negative media coverage of the Iran War \"almost treasonous,\" in another great sign for free speech.",
-      "source": "Jezebel",
-      "url": "https://www.jezebel.com/iran-war-continuing-ceasefire-broken-peace-talks-failed-us-navy-blockade-strait-of-hormuz-trump-treasonous",
-      "bloc": "western",
-      "date": "2026-04-12",
-      "datetime": "2026-04-12T12:19:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz Transit Remains Limited to Iran-Aligned Vessels; Tankers Gather Near Entrance",
-      "summary": "Transit through the critical Strait of Hormuz remains heavily restricted as of April 2026, with passage primarily limited to vessels flagged to or linked with nations Iran considers ‘friendly,’ including China and Russia. Despite a two-week ceasefire announce…",
+      "headline": "Turkey Accuses Israeli PM of War Crimes, Issues Formal Statement Comparing Him to Hitler",
+      "summary": "Introduction On April 12, 2026, Turkey formally accused Israeli Prime Minister Benjamin Netanyahu of war crimes and crimes against humanity, issuing a statement from its foreign ministry that described him as the ‘Hitler of our time’ [1]. The accusation was m…",
       "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-04-12-hormuz-strait-transit-remains-limited-iran-vessels.html",
+      "url": "https://www.naturalnews.com/2026-04-13-erdogan-accuses-netanyahu-war-crimes-compares-to-hitler.html",
       "bloc": "western",
-      "date": "2026-04-12",
-      "datetime": "2026-04-12T06:00:00Z",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil surges, stocks fall as Trump says to blockade Strait of Hormuz",
+      "summary": "Oil prices surged and stocks sank Monday after U.S.-Iran peace talks fell apart and Donald Trump announced a blockade of the strategic Strait of Hormuz, adding to fears of energy supplies from the Middle East.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/oil-surges-stocks-fall-as-trump-says-to-blockade-strait-of-hormuz-220949",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T05:17:32Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran War Updates: Key events in the last 24 hours",
+      "summary": "With the breakdown of critical peace talks between the United States and Iran in Islamabad, Pakistan, the Middle East region is once again embroiled in intense war tensions. US Vice President J.D.These prolonged discussions, which lasted for 21 hours between …",
+      "source": "Gossiplankanews.com",
+      "url": "https://english.gossiplankanews.com/2026/04/iran-war-updates-key-events-in-last-24_0177228154.html",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T05:10:26Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US blockade of Iran will be major military endeavor, experts say",
+      "summary": "The US military's Central Command later said the blockade will\nonly apply to ships going to or from Iran, including all Iranian\nports on the Arabian Gulf and Gulf of Oman",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/us-blockade-of-iran-will-be-major-military-endeavor-experts-say/article70856138.ece",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T03:18:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Prices Surge Past $100 as Trump Announces Hormuz Blockade Amid Fragile Iran Ceasefire",
+      "summary": "NEW YORK — Global oil prices jumped sharply Monday as President Donald Trump ordered a U.S. naval blockade of the Strait of Hormuz, reigniting fears of prolonged supply disruptions in the world's most critical energy chokepoint.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/oil-prices-surge-past-100-trump-announces-hormuz-blockade-amid-fragile-iran-ceasefire-1866323",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T06:07:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire",
-      "summary": "Three supertankers laden with oil exit waterway amid global energy crunch, shipping data shows.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire",
-      "bloc": "regional",
-      "date": "2026-04-12",
-      "datetime": "2026-04-12T05:00:33Z",
+      "headline": "Why did oil prices jump above $100? #politics",
+      "summary": "Oil prices surged above $100 amid Iran crisis escalation Oil prices rose sharply above $100 per barrel as the U.S. prepared to blockade Iran linked shipping routes following failed U.S. Iran peace talks. Coverage describes West Texas Intermediate hovering jus…",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/politics/why-did-oil-prices-jump-above-100",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T06:02:24Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "How Iran’s Dark Fleet Is Quietly Keeping Oil Markets Afloat",
-      "summary": "It almost looks like an eternal story or an Australian boomerang approach, but the global oil market is once again being misread, very badly. Headlines speak of disruption, paralysis, and the near closure of the Strait of Hormuz. International tanker trackers…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/How-Irans-Dark-Fleet-Is-Quietly-Keeping-Oil-Markets-Afloat.html",
+      "headline": "Failed Hormuz Talks and Trump Blockade Trigger Global Stock Sell-Off as Oil Surges Past $103",
+      "summary": "NEW YORK — The abrupt failure of U.S.-Iran peace negotiations in Pakistan and President Donald Trump's immediate order to blockade the Strait of Hormuz sent shockwaves through world financial markets Monday, driving oil prices above $103 a barrel and triggeri…",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/failed-hormuz-talks-trump-blockade-trigger-global-stock-sell-off-oil-surges-past-103-1866311",
       "bloc": "western",
-      "date": "2026-04-11",
-      "datetime": "2026-04-11T23:00:00Z",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T04:51:54Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -248,13 +196,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "In the Gulf, states are 'paying the price' for a war they didn't start",
-      "summary": "When the Iran war ends, Gulf nations will not only have to repair the economic and physical damage caused by Iran's retaliatory campaign, but will also have to learn to live with a regime that analysts say is \"less predictable and more violent than it was two…",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-04-12/gulf-states-paying-the-price-for-a-war-they-didn-t-start/106491586",
+      "headline": "Two Oil Tankers Attempt Hormuz Exit After US Announces Blockade",
+      "summary": "Two fuel tankers are attempting to exit the Persian Gulf via the Strait of Hormuz by sailing close to the Iranian coast, the first vessels to try and pass through the waterway since the US announced a blockade.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/two-oil-tankers-attempt-hormuz-exit-after-us-announces-blockade",
       "bloc": "western",
-      "date": "2026-04-11",
-      "datetime": "2026-04-11T18:54:47Z",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T03:57:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Crude oil tankers steer clear of Hormuz ahead of US blockade",
+      "summary": "Move follows an announcement that U.S. forces would begin implementing ‌the blockade of all maritime traffic entering and exiting Iranian ports on Monday.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/crude-oil-tankers-steer-clear-of-hormuz-ahead-of-us-blockade/article70856066.ece",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T02:45:24Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -546,31 +520,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "FO Talks: The Collapse of New START Treaty Raises Global Nuclear Risks",
-      "summary": "Editor-in-Chief Atul Singh and Simon Cleobury, Head of Arms Control and Disarmament at the Geneva Centre for Security Policy, discuss the expiration of the New Strategic Arms Reduction Treaty (New START) and what its disappearance means for global nuclear sta…",
-      "source": "Fair Observer",
-      "url": "https://www.fairobserver.com/world-news/fo-talks-the-collapse-of-new-start-treaty-raises-global-nuclear-risks/",
-      "bloc": "western",
-      "date": "2026-04-06",
-      "datetime": "2026-04-06T13:30:42Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

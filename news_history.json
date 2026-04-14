@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-13T21:10:36.334Z",
+  "updated": "2026-04-14T06:20:44.238Z",
   "retention_days": 30,
   "items": [
     {
@@ -3522,42 +3522,6 @@
       "run_id": "2026-04-05T05:59"
     },
     {
-      "headline": "UN Security Council Splits as Russia-China Challenge Iran Sanctions Legality",
-      "summary": "Security Council votes 11-2 to proceed with Iran sanctions committee meeting despite Russian and Chinese objections. Moscow and Beijing argue snapback mechanism lacks legal basis, while US accuses them of protecting Iran. 1737 Committee remains operational despite procedural challenges.",
-      "source": "UN Press Release",
-      "url": "https://press.un.org/en/2026/sc16316.doc.htm",
-      "bloc": "institutional",
-      "date": "2026-03-14",
-      "datetime": "2026-03-14T10:00:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Russia nuclear",
-        "China Iran",
-        "Putin health",
-        "ICC Putin"
-      ],
-      "dimensions": [
-        "accountability"
-      ],
-      "variable_key": "un_sanctions_enforcement_iran",
-      "event_type": "static_variable",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Vladimir Putin",
-        "dimension": "accountability",
-        "proposed_delta": -2,
-        "rationale": "Systematic opposition to Iran accountability mechanisms shows contempt for international law",
-        "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-05T05:59:00.071Z",
-      "run_id": "2026-04-05T05:59"
-    },
-    {
       "headline": "Pakistan Claims Diplomatic Victory Over India as Iran Mediation Elevates Islamabad",
       "summary": "Pakistan's central role in Iran-US mediation and China partnership demonstrates diplomatic relevance despite economic challenges. Modi relegated to single Trump phone call while Pakistani military chief Munir gains direct White House access, marking shift in South Asian power dynamics.",
       "source": "Foreign Policy",
@@ -6743,39 +6707,6 @@
       "escalation": 5,
       "persian_only": false,
       "dimension_signal": null,
-      "_from": "claude",
-      "first_seen": "2026-04-08T06:08:28.280Z",
-      "run_id": "2026-04-08T06:08"
-    },
-    {
-      "headline": "US Intelligence Assessment Labels Pakistan Under Munir as 'Pariah State' Threat",
-      "summary": "US Intelligence Community's 2026 Annual Threat Assessment explicitly categorizes Pakistan with North Korea and Iran as direct global security threats. Report cites 'Munir Doctrine' of nuclear blackmail and ICBM development despite IMF bailout dependency.",
-      "source": "ProKerala News",
-      "url": "https://www.prokerala.com/news/articles/a1744127.html",
-      "bloc": "institutional",
-      "date": "2026-03-14",
-      "datetime": "2026-03-14T09:00:00Z",
-      "leaders": [
-        "General Asim Munir"
-      ],
-      "watch_terms": [
-        "Pakistan military",
-        "Pakistan nuclear"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": "pak_military_escalation",
-      "event_type": "leader_watch_term",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "General Asim Munir",
-        "dimension": "survival",
-        "proposed_delta": 3,
-        "rationale": "US formally designates Pakistan as pariah state threat under Munir's leadership",
-        "confidence": "high"
-      },
       "_from": "claude",
       "first_seen": "2026-04-08T06:08:28.280Z",
       "run_id": "2026-04-08T06:08"
@@ -11269,7 +11200,231 @@
       "_from": "newsapi",
       "first_seen": "2026-04-13T21:10:36.334Z",
       "run_id": "2026-04-13T21:10"
+    },
+    {
+      "headline": "Turkey Accuses Israeli PM of War Crimes, Issues Formal Statement Comparing Him to Hitler",
+      "summary": "Introduction On April 12, 2026, Turkey formally accused Israeli Prime Minister Benjamin Netanyahu of war crimes and crimes against humanity, issuing a statement from its foreign ministry that described him as the ‘Hitler of our time’ [1]. The accusation was m…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-13-erdogan-accuses-netanyahu-war-crimes-compares-to-hitler.html",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T06:20:44.238Z",
+      "run_id": "2026-04-14T06:20"
+    },
+    {
+      "headline": "Oil surges, stocks fall as Trump says to blockade Strait of Hormuz",
+      "summary": "Oil prices surged and stocks sank Monday after U.S.-Iran peace talks fell apart and Donald Trump announced a blockade of the strategic Strait of Hormuz, adding to fears of energy supplies from the Middle East.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/oil-surges-stocks-fall-as-trump-says-to-blockade-strait-of-hormuz-220949",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T05:17:32Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T06:20:44.238Z",
+      "run_id": "2026-04-14T06:20"
+    },
+    {
+      "headline": "US blockade of Iran will be major military endeavor, experts say",
+      "summary": "The US military's Central Command later said the blockade will\nonly apply to ships going to or from Iran, including all Iranian\nports on the Arabian Gulf and Gulf of Oman",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/us-blockade-of-iran-will-be-major-military-endeavor-experts-say/article70856138.ece",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T03:18:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T06:20:44.238Z",
+      "run_id": "2026-04-14T06:20"
+    },
+    {
+      "headline": "Oil Prices Surge Past $100 as Trump Announces Hormuz Blockade Amid Fragile Iran Ceasefire",
+      "summary": "NEW YORK — Global oil prices jumped sharply Monday as President Donald Trump ordered a U.S. naval blockade of the Strait of Hormuz, reigniting fears of prolonged supply disruptions in the world's most critical energy chokepoint.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/oil-prices-surge-past-100-trump-announces-hormuz-blockade-amid-fragile-iran-ceasefire-1866323",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T06:07:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T06:20:44.238Z",
+      "run_id": "2026-04-14T06:20"
+    },
+    {
+      "headline": "Why did oil prices jump above $100? #politics",
+      "summary": "Oil prices surged above $100 amid Iran crisis escalation Oil prices rose sharply above $100 per barrel as the U.S. prepared to blockade Iran linked shipping routes following failed U.S. Iran peace talks. Coverage describes West Texas Intermediate hovering jus…",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/politics/why-did-oil-prices-jump-above-100",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T06:02:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T06:20:44.238Z",
+      "run_id": "2026-04-14T06:20"
+    },
+    {
+      "headline": "Failed Hormuz Talks and Trump Blockade Trigger Global Stock Sell-Off as Oil Surges Past $103",
+      "summary": "NEW YORK — The abrupt failure of U.S.-Iran peace negotiations in Pakistan and President Donald Trump's immediate order to blockade the Strait of Hormuz sent shockwaves through world financial markets Monday, driving oil prices above $103 a barrel and triggeri…",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/failed-hormuz-talks-trump-blockade-trigger-global-stock-sell-off-oil-surges-past-103-1866311",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T04:51:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T06:20:44.238Z",
+      "run_id": "2026-04-14T06:20"
+    },
+    {
+      "headline": "Two Oil Tankers Attempt Hormuz Exit After US Announces Blockade",
+      "summary": "Two fuel tankers are attempting to exit the Persian Gulf via the Strait of Hormuz by sailing close to the Iranian coast, the first vessels to try and pass through the waterway since the US announced a blockade.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/two-oil-tankers-attempt-hormuz-exit-after-us-announces-blockade",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T03:57:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T06:20:44.238Z",
+      "run_id": "2026-04-14T06:20"
+    },
+    {
+      "headline": "Crude oil tankers steer clear of Hormuz ahead of US blockade",
+      "summary": "Move follows an announcement that U.S. forces would begin implementing ‌the blockade of all maritime traffic entering and exiting Iranian ports on Monday.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/crude-oil-tankers-steer-clear-of-hormuz-ahead-of-us-blockade/article70856066.ece",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T02:45:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-14T06:20:44.238Z",
+      "run_id": "2026-04-14T06:20"
     }
   ],
-  "total_items_ever": 465
+  "total_items_ever": 473
 }

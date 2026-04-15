@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-14T21:09:22.589Z",
+  "updated": "2026-04-15T06:22:11.143Z",
   "retention_days": 30,
   "items": [
     {
@@ -1643,40 +1643,6 @@
       "run_id": "2026-04-03T21:07"
     },
     {
-      "headline": "North Korea Launches Massive Ballistic Missile Barrage Amid US-South Korea Drills",
-      "summary": "North Korea fired 10 ballistic missiles simultaneously in an unusual large-scale test, with 600mm-caliber ultra-precision multiple rocket launchers achieving 100 percent accuracy against targets 364.4 km away. The unprecedented scale appears calculated to project power during global volatility while US resources are stretched by Iran conflict.",
-      "source": "The Diplomat",
-      "url": null,
-      "bloc": "regional",
-      "date": "2026-03-15",
-      "datetime": "2026-03-15T07:50:00Z",
-      "leaders": [
-        "Kim Jong-un"
-      ],
-      "watch_terms": [
-        "DPRK missile",
-        "North Korea nuclear"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival"
-      ],
-      "variable_key": "dprk_massive_barrage",
-      "event_type": "regional_strike",
-      "escalation": 4,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Kim Jong-un",
-        "dimension": "impulsivity",
-        "proposed_delta": 1,
-        "rationale": "Unusually large-scale missile test during US-Iran conflict demonstrates opportunistic escalation",
-        "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-03T21:07:04.183Z",
-      "run_id": "2026-04-03T21:07"
-    },
-    {
       "headline": "World anxious to open Hormuz Strait while Trump and Iran trade threats",
       "summary": "Dozens of countries sought ways to restart vital energy shipments through the Strait of Hormuz on Thursday after U.S. President Donald Trump vowed more aggressive strikes on Iran, sending oil prices higher again and deepening strain on consumers. In a speech …",
       "source": "Japan Today",
@@ -2149,27 +2115,6 @@
       "run_id": "2026-04-04T05:18"
     },
     {
-      "headline": "E3 Statement Confirms Iran Only Non-Nuclear State Producing 60% Enriched Uranium",
-      "summary": "France, Germany and the UK delivered joint statement to IAEA Board confirming Iran remains the only state without nuclear weapons to have produced 60% High Enriched Uranium. The E3 expressed deep concern about lack of transparency over Iran's nuclear program with no credible civilian justification for enrichment activities.",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/speeches/implementation-of-the-npt-safeguards-agreement-and-unsc-resolutions-in-iran-e3-statement-to-the-iaea-board-of-governors-march-2026",
-      "bloc": "institutional",
-      "date": "2026-03-15",
-      "datetime": "2026-03-15T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "nuclear Iran"
-      ],
-      "dimensions": [],
-      "variable_key": null,
-      "event_type": "static_variable",
-      "escalation": 5,
-      "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-04T05:18:13.742Z",
-      "run_id": "2026-04-04T05:18"
-    },
-    {
       "headline": "Istanbul Mayor Imamoglu Arrested as Erdogan Reshapes Political Field",
       "summary": "Turkish President Erdogan's main rival, Istanbul Mayor Ekrem Imamoglu, was arrested on March 19 despite ongoing Kurdish peace initiative. The arrest demonstrates Erdogan's use of state institutions to reshape the political field while pursuing constitutional changes to remove term limits for 2028 elections.",
       "source": "Just Security",
@@ -2221,27 +2166,6 @@
       "variable_key": null,
       "event_type": "leader_statement",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-04T05:18:13.742Z",
-      "run_id": "2026-04-04T05:18"
-    },
-    {
-      "headline": "UN Security Council Debates Iran Nuclear Program Amid Snapback Sanctions Dispute",
-      "summary": "The Security Council met to debate Iran's nuclear program as Russia and China challenged the legality of UN sanctions on Tehran under the snapback mechanism. Multiple countries expressed support for IAEA cooperation and concerns over Iran's nuclear program, with calls for full adherence to international obligations.",
-      "source": "UN Meetings Coverage",
-      "url": "https://press.un.org/en/2026/sc16316.doc.htm",
-      "bloc": "institutional",
-      "date": "2026-03-15",
-      "datetime": "2026-03-15T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "nuclear Iran"
-      ],
-      "dimensions": [],
-      "variable_key": null,
-      "event_type": "static_variable",
-      "escalation": 5,
       "persian_only": false,
       "_from": "claude",
       "first_seen": "2026-04-04T05:18:13.742Z",
@@ -2476,33 +2400,6 @@
         "rationale": "Approaching legal deadline without congressional authorization shows disregard for institutional constraints",
         "confidence": "high"
       },
-      "_from": "claude",
-      "first_seen": "2026-04-04T08:03:12.048Z",
-      "run_id": "2026-04-04T08:03"
-    },
-    {
-      "headline": "Mohammed bin Salman Reiterates Nuclear Response to Iran Threat",
-      "summary": "Crown Prince Mohammed bin Salman has reiterated that Saudi Arabia would develop nuclear weapons if Iran acquires them, despite the ongoing US-Israeli military campaign against Iranian nuclear facilities.",
-      "source": "Stimson Center",
-      "url": "https://www.stimson.org/2026/saudi-arabias-nuclear-path-will-not-depend-on-iran-wars-outcome/",
-      "bloc": "institutional",
-      "date": "2026-03-15",
-      "datetime": "2026-03-15T12:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman"
-      ],
-      "watch_terms": [
-        "Saudi nuclear",
-        "Saudi Arabia Iran",
-        "MBS"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 5,
-      "persian_only": false,
       "_from": "claude",
       "first_seen": "2026-04-04T08:03:12.048Z",
       "run_id": "2026-04-04T08:03"
@@ -11956,7 +11853,340 @@
       "_from": "newsapi",
       "first_seen": "2026-04-14T21:09:22.589Z",
       "run_id": "2026-04-14T21:09"
+    },
+    {
+      "headline": "Lebanon, Israel to meet for tough talks in Washington",
+      "summary": "Lebanese and Israeli representatives are scheduled to meet in Washington Tuesday for U.S.-mediated talks on ending the war in Lebanon, but the prospects of an agreement appear slim.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/lebanon-israel-to-meet-for-tough-talks-in-washington-220998",
+      "bloc": "western",
+      "date": "2026-04-14",
+      "datetime": "2026-04-14T06:01:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-15T06:22:11.143Z",
+      "run_id": "2026-04-15T06:22"
+    },
+    {
+      "headline": "Ex-Pakistani Official: Tehran Lacks Military Means to Sustain Conflict",
+      "summary": "Introduction A former senior Pakistani official has stated that Iran lacks the military capability to continue its conflict with the United States and Israel, citing severe economic pressures and the impact of a new U.S. naval blockade. The assessment was mad…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-14-former-official-tehran-lacks-means-sustain-conflict.html",
+      "bloc": "western",
+      "date": "2026-04-14",
+      "datetime": "2026-04-14T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-15T06:22:11.143Z",
+      "run_id": "2026-04-15T06:22"
+    },
+    {
+      "headline": "US stocks rebound to pre-war levels; S&P 500 nears record despite oil spike",
+      "summary": "Stocks recover pre-war losses even as oil stays near $100 and Strait of Hormuz tensions keep markets on edge.",
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/news/business/markets/us-stocks-rebound-to-pre-war-levels-s-p-500-nears-record-despite-oil-spike-13888017.html",
+      "bloc": "western",
+      "date": "2026-04-14",
+      "datetime": "2026-04-14T01:30:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-15T06:22:11.143Z",
+      "run_id": "2026-04-15T06:22"
+    },
+    {
+      "headline": "War in the Middle East Is Devastating the Global Aid System, and Women and Girls Are Paying the Price",
+      "summary": "In the weeks since the U.S. and Israel launched an attack on Iran, the conflict in the Middle East has created massive humanitarian need while further shattering the aid system. Although a fragile ceasefire has led to tentative efforts to open the Strait of H…",
+      "source": "Ms. Magazine",
+      "url": "https://msmagazine.com/2026/04/13/strait-of-hormuz-war-middle-east-iran-lebanon-israel-trump-women-girls-international-humanitarian-aid/",
+      "bloc": "western",
+      "date": "2026-04-14",
+      "datetime": "2026-04-14T00:40:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-15T06:22:11.143Z",
+      "run_id": "2026-04-15T06:22"
+    },
+    {
+      "headline": "Strait of Hormuz blockade: the complex regional realities the US ignores at its peril",
+      "summary": "The pivotal waterway is much more than a global economic choke point. It is a politically and culturally dynamic region with its own dangerous undercurrents.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/strait-of-hormuz-blockade-the-complex-regional-realities-the-us-ignores-at-its-peril-280427",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T23:53:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-15T06:22:11.143Z",
+      "run_id": "2026-04-15T06:22"
+    },
+    {
+      "headline": "The US on the naval blockade of Iran: How it could backfire on Trump",
+      "summary": "Washington targets Chinese dependence on Iranian oil, but backfire could cause new US-Peking tensions, further pressure on the global economy and a price rise of up to $150 a barrel\nThe post The US on the naval blockade of Iran: How it could backfire on Trump…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/04/14/the-us-on-the-naval-blockade-of-iran-how-it-could-backfire-on-trump/",
+      "bloc": "western",
+      "date": "2026-04-14",
+      "datetime": "2026-04-14T06:10:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-15T06:22:11.143Z",
+      "run_id": "2026-04-15T06:22"
+    },
+    {
+      "headline": "Sanctioned Chinese Tanker Passes Hormuz Despite U.S. Naval Blockade",
+      "summary": "A Chinese-owned tanker under U.S. sanctions has passed the Strait of Hormuz despite the U.S. blockade of Iranian ports that began on Monday. Citing data from Kpler and MarineTraffic, Reuters reported that the vessel had traversed the chokepoint earlier today.…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Sanctioned-Chinese-Tanker-Passes-Hormuz-Despite-US-Naval-Blockade.html",
+      "bloc": "western",
+      "date": "2026-04-14",
+      "datetime": "2026-04-14T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-15T06:22:11.143Z",
+      "run_id": "2026-04-15T06:22"
+    },
+    {
+      "headline": "Iran Limits Strait of Hormuz Transits to Friendly Vessels, Tankers Queue",
+      "summary": "Transit through the Strait of Hormuz remains severely restricted nearly a week after a U.S.-Iran ceasefire took effect, according to shipping data. Only vessels from nations deemed ‘friendly’ to Iran, primarily Chinese and Russian, have been observed making t…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-14-iran-limits-strait-hormuz-transits-friendly-vessels.html",
+      "bloc": "western",
+      "date": "2026-04-14",
+      "datetime": "2026-04-14T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-15T06:22:11.143Z",
+      "run_id": "2026-04-15T06:22"
+    },
+    {
+      "headline": "Iranian Officials Warn of Response to U.S. Threat to Blockade the Strait of Hormuz",
+      "summary": "Introduction Iranian military officials have issued warnings to the United States following statements about the intent to blockade the Strait of Hormuz. The warnings, reported by state media, threaten a forceful response targeting Gulf ports and other mariti…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-14-iranian-officials-war-response-potential-us-blockade.html",
+      "bloc": "western",
+      "date": "2026-04-14",
+      "datetime": "2026-04-14T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-15T06:22:11.143Z",
+      "run_id": "2026-04-15T06:22"
+    },
+    {
+      "headline": "Australia's Fuel Crisis Deepens: Petrol Hits Record Highs as Hormuz Blockade Bites",
+      "summary": "SYDNEY — Australian motorists are grappling with the nation's worst fuel crisis in decades, as petrol prices surge past A$2.40 a litre and diesel climbs toward A$3 amid ongoing disruptions in the Strait of Hormuz triggered by the U.S.-Iran conflict.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/australias-fuel-crisis-deepens-petrol-hits-record-highs-hormuz-blockade-bites-1866441",
+      "bloc": "western",
+      "date": "2026-04-14",
+      "datetime": "2026-04-14T05:53:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-15T06:22:11.143Z",
+      "run_id": "2026-04-15T06:22"
+    },
+    {
+      "headline": "Iran war diverts U.S. military and attention from Asia ahead of Trump's summit with China's leader",
+      "summary": "In 2011, President Barack Obama declared it was time for America to leave behind the wars in Iraq and Afghanistan and “pivot” to Asia to counter the rise of China. Fifteen years later, the U.S. finds itself still at war in the Middle East and has pulled milit…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/features/opinions/iran-war-diverts-us-military-and-attention-from-asia-ahead-of-trump%27s-summit-with-china%27s-leader",
+      "bloc": "western",
+      "date": "2026-04-13",
+      "datetime": "2026-04-13T21:37:55Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-15T06:22:11.143Z",
+      "run_id": "2026-04-15T06:22"
+    },
+    {
+      "headline": "The Art of Failure",
+      "summary": "Donald Trump sold himself to the American people as the ultimate dealmaker during his first run for President. He argued that Obama’s poor negotiating skills had impoverished the American people, and he would Make America Great Again by getting tough with bot…",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/kyle_anzalone/2026/04/13/the-art-of-failure/",
+      "bloc": "western",
+      "date": "2026-04-14",
+      "datetime": "2026-04-14T00:00:24Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-15T06:22:11.143Z",
+      "run_id": "2026-04-15T06:22"
     }
   ],
-  "total_items_ever": 492
+  "total_items_ever": 504
 }

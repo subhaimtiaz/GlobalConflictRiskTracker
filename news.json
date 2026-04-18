@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-18T05:54:06.501Z",
+  "ts": "2026-04-18T08:10:45.313Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 123,
     "oilStress": 89,
-    "updatedAt": "2026-04-18T05:54:06.501Z"
+    "updatedAt": "2026-04-18T08:10:45.313Z"
   },
   "items": [
+    {
+      "headline": "Ten-day ceasefire deal between Israel, Lebanon takes effect",
+      "summary": "A ten-day ceasefire deal agreed between Lebanon and Israel took effect on Friday, as U.S. President Donald Trump said he was trying to set up the first-ever face-to-face meeting between the leaders of the two countries.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/ten-day-ceasefire-deal-between-israel-lebanon-takes-effect-221138",
+      "bloc": "western",
+      "date": "2026-04-17",
+      "datetime": "2026-04-17T06:09:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Gold holds steady, eyes fourth weekly gain on US-Iran peace deal hopes",
       "summary": "Gold remains steady, aiming for a fourth weekly gain amid US-Iran peace deal hopes and Indian import restrictions.",
@@ -118,27 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "10-day ceasefire begins in Lebanon amid Israel-Hezbollah conflict",
-      "summary": "Announced by Donald Trump, the truce has sparked cautious optimism, though uncertainties remain as Israel plans to retain troops in southern Lebanon and Hezbollah signals possible retaliation",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/10-day-ceasefire-begins-in-lebanon-amid-israel-hezbollah-conflict/article70871228.ece",
+      "headline": "Pakistan Oil Tanker Is First to Cross Hormuz since US Blockade",
+      "summary": "A Pakistan-flagged tanker that entered the Persian Gulf over the weekend has become the first carrier to exit through the Strait of Hormuz with a crude cargo since a U.S. blockade began.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/pakistan_oil_tanker_is_first_to_cross_hormuz_since_us_blockade-17-apr-2026-183470-article/",
       "bloc": "western",
-      "date": "2026-04-16",
-      "datetime": "2026-04-16T23:58:32Z",
+      "date": "2026-04-17",
+      "datetime": "2026-04-17T06:45:37Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. Treasury Announces End of Waiver for Iranian Oil Sales",
+      "summary": "The Announcement The U.S. Department of the Treasury stated on April 14, 2026, that it will not renew a 30-day sanctions waiver that had allowed Iranian oil stranded at sea to be sold on global markets. The announcement was made via a post on the social media…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-17-treasury-announces-end-waiver-iranian-oil-sales.html",
+      "bloc": "western",
+      "date": "2026-04-17",
+      "datetime": "2026-04-17T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -177,58 +229,6 @@
       "bloc": "western",
       "date": "2026-04-16",
       "datetime": "2026-04-16T20:46:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran May Allow Ships Through Omani Side Of Strait of Hormuz",
-      "summary": "Just a few days after the United States' naval blockade of the Strait of Hormuz, Iran floated the idea of allowing free passage through the waterway on the Omani side. A source in Tehran said that Tehran could consider this option if the U.S. makes some conce…",
-      "source": "Shtfplan.com",
-      "url": "https://www.shtfplan.com/headline-news/iran-may-allow-ships-through-omani-side-of-strait-of-hormuz",
-      "bloc": "western",
-      "date": "2026-04-16",
-      "datetime": "2026-04-16T15:00:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Blockade Tightens Grip on Strait of Hormuz as Iran War Ceasefire Frays on Day 3",
-      "summary": "WASHINGTON — The U.S. naval blockade of Iranian ports along the Strait of Hormuz entered its third day Thursday with American forces turning back at least 13 vessels, according to Pentagon officials, as diplomatic efforts to extend a fragile ceasefire showed …",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/us-blockade-tightens-grip-strait-hormuz-iran-war-ceasefire-frays-day-3-1866764",
-      "bloc": "western",
-      "date": "2026-04-16",
-      "datetime": "2026-04-16T13:59:30Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

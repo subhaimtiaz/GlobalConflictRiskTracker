@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-18T05:53:01.364Z",
+  "updated": "2026-04-18T08:09:40.024Z",
   "retention_days": 30,
   "items": [
     {
@@ -14576,7 +14576,91 @@
       "_from": "newsapi",
       "first_seen": "2026-04-18T05:53:01.364Z",
       "run_id": "2026-04-18T05:53"
+    },
+    {
+      "headline": "Ten-day ceasefire deal between Israel, Lebanon takes effect",
+      "summary": "A ten-day ceasefire deal agreed between Lebanon and Israel took effect on Friday, as U.S. President Donald Trump said he was trying to set up the first-ever face-to-face meeting between the leaders of the two countries.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/ten-day-ceasefire-deal-between-israel-lebanon-takes-effect-221138",
+      "bloc": "western",
+      "date": "2026-04-17",
+      "datetime": "2026-04-17T06:09:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-18T08:09:40.024Z",
+      "run_id": "2026-04-18T08:09"
+    },
+    {
+      "headline": "Pakistan Oil Tanker Is First to Cross Hormuz since US Blockade",
+      "summary": "A Pakistan-flagged tanker that entered the Persian Gulf over the weekend has become the first carrier to exit through the Strait of Hormuz with a crude cargo since a U.S. blockade began.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/pakistan_oil_tanker_is_first_to_cross_hormuz_since_us_blockade-17-apr-2026-183470-article/",
+      "bloc": "western",
+      "date": "2026-04-17",
+      "datetime": "2026-04-17T06:45:37Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-18T08:09:40.024Z",
+      "run_id": "2026-04-18T08:09"
+    },
+    {
+      "headline": "U.S. Treasury Announces End of Waiver for Iranian Oil Sales",
+      "summary": "The Announcement The U.S. Department of the Treasury stated on April 14, 2026, that it will not renew a 30-day sanctions waiver that had allowed Iranian oil stranded at sea to be sold on global markets. The announcement was made via a post on the social media…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-17-treasury-announces-end-waiver-iranian-oil-sales.html",
+      "bloc": "western",
+      "date": "2026-04-17",
+      "datetime": "2026-04-17T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-18T08:09:40.024Z",
+      "run_id": "2026-04-18T08:09"
     }
   ],
-  "total_items_ever": 590
+  "total_items_ever": 593
 }

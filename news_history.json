@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-18T19:56:07.550Z",
+  "updated": "2026-04-19T03:21:03.080Z",
   "retention_days": 30,
   "items": [
     {
@@ -2110,40 +2110,6 @@
       "event_type": "regional_strike",
       "escalation": 4,
       "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-04T05:18:13.742Z",
-      "run_id": "2026-04-04T05:18"
-    },
-    {
-      "headline": "Istanbul Mayor Imamoglu Arrested as Erdogan Reshapes Political Field",
-      "summary": "Turkish President Erdogan's main rival, Istanbul Mayor Ekrem Imamoglu, was arrested on March 19 despite ongoing Kurdish peace initiative. The arrest demonstrates Erdogan's use of state institutions to reshape the political field while pursuing constitutional changes to remove term limits for 2028 elections.",
-      "source": "Just Security",
-      "url": "https://www.justsecurity.org/110693/turkey-erdogan-kurds-peace-imamoglu/",
-      "bloc": "institutional",
-      "date": "2026-03-19",
-      "datetime": "2026-03-19T12:00:00Z",
-      "leaders": [
-        "Recep Tayyip Erdogan"
-      ],
-      "watch_terms": [
-        "Imamoglu",
-        "Erdogan election"
-      ],
-      "dimensions": [
-        "accountability",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Recep Tayyip Erdogan",
-        "dimension": "survival",
-        "proposed_delta": 2,
-        "rationale": "Arrest of main political rival demonstrates prioritizing power retention over democratic norms",
-        "confidence": "high"
-      },
       "_from": "claude",
       "first_seen": "2026-04-04T05:18:13.742Z",
       "run_id": "2026-04-04T05:18"
@@ -7166,32 +7132,6 @@
         "rationale": "Images of undocumented Indians deported from US shattered Modi's claim of special friendship with Trump",
         "confidence": "medium"
       },
-      "_from": "claude",
-      "first_seen": "2026-04-08T10:56:05.314Z",
-      "run_id": "2026-04-08T10:56"
-    },
-    {
-      "headline": "IAEA Director General: Iranian Nuclear Program Cannot Be Eliminated by Military Action Alone",
-      "summary": "Rafael Grossi states Iran's nuclear program is 'very vast' and 'scattered across a number of places' including facilities, universities and laboratories. IAEA doesn't know status of new Isfahan enrichment facility.",
-      "source": "The Hill",
-      "url": "https://thehill.com/homenews/5790670-iran-nuclear-facilities-iaea-concerns/",
-      "bloc": "institutional",
-      "date": "2026-03-19",
-      "datetime": "2026-03-19T10:00:00Z",
-      "leaders": [
-        "Rafael Mariano Grossi"
-      ],
-      "watch_terms": [
-        "nuclear Iran",
-        "IAEA"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": "iran_nuclear_resilience",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
       "_from": "claude",
       "first_seen": "2026-04-08T10:56:05.314Z",
       "run_id": "2026-04-08T10:56"
@@ -15242,7 +15182,175 @@
       "_from": "newsapi",
       "first_seen": "2026-04-18T19:56:07.550Z",
       "run_id": "2026-04-18T19:56"
+    },
+    {
+      "headline": "Reopening the Strait of Hormuz is easier said than done. Here's why",
+      "summary": "Not for the first time in the past seven weeks of war and tenuous ceasefire, the details of developments concerning the Strait of Hormuz have been sparse, creating unease and anxiety among the shipping companies and crews whose tankers and containers slowly c…",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/strait-of-hormuz-open-oil-iran-us-israel-middle-east-war-9.7169075",
+      "bloc": "western",
+      "date": "2026-04-18",
+      "datetime": "2026-04-18T01:02:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-19T03:21:03.080Z",
+      "run_id": "2026-04-19T03:21"
+    },
+    {
+      "headline": "The truce in Lebanon is key to ending the wider Iran war, but challenges remain",
+      "summary": "A truce took hold Friday between Israel and Lebanon's Hezbollah, providing relief on both sides of the border and an opening for Iran and the United States to reach a deal to end the wider war. The ceasefire appears to have led Iran to reopen the Strait of Ho…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/the-truce-in-lebanon-is-key-to-ending-the-wider-iran-war-but-challenges-remain",
+      "bloc": "western",
+      "date": "2026-04-17",
+      "datetime": "2026-04-17T20:45:26Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-19T03:21:03.080Z",
+      "run_id": "2026-04-19T03:21"
+    },
+    {
+      "headline": "Iran says Strait of Hormuz open as Trump sees deal 'soon' to end war",
+      "summary": "Iranian Foreign Minister Abbas Araqchi said on Friday the Strait of Hormuz was open following a ceasefire agreement in Lebanon, while U.S. President Donald Trump said talks could take place this weekend and he believed a deal to end the Iran war would ‌come &…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/iran-says-strait-of-hormuz-open-as-trump-sees-deal-%27soon%27-to-end-war1",
+      "bloc": "western",
+      "date": "2026-04-17",
+      "datetime": "2026-04-17T20:45:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-19T03:21:03.080Z",
+      "run_id": "2026-04-19T03:21"
+    },
+    {
+      "headline": "Video shows ships turning away from the Strait of Hormuz as confusion persists over whether sea lane is really open",
+      "summary": "The Strait of Hormuz remained effectively closed despite Iran's declaration Friday that it is open, maritime freight and oil analysts told CNBC.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/17/iran-trump-strait-hormuz-oil-tanker-traffic.html",
+      "bloc": "western",
+      "date": "2026-04-17",
+      "datetime": "2026-04-17T22:34:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-19T03:21:03.080Z",
+      "run_id": "2026-04-19T03:21"
+    },
+    {
+      "headline": "Iran: Strait of Hormuz open during ceasefire",
+      "summary": "President Trump and Iranian officials have said the Strait of Hormuz is open to all commercial vessels, although shipping firms say they're remaining cautious. Iran's foreign minister, Abbas Araghchi, said the vital waterway would be navigable while the Leban…",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/programmes/w1730bmynddkcz9",
+      "bloc": "western",
+      "date": "2026-04-17",
+      "datetime": "2026-04-17T21:52:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-19T03:21:03.080Z",
+      "run_id": "2026-04-19T03:21"
+    },
+    {
+      "headline": "Polymarket odds of Hormuz Strait traffic normalizing by end of May spike to 73%",
+      "summary": "Polymarket traders forecast when oil tanker traffic traveling through the Strait of Hormuz, a critical oil shipping waterway, will return to normal.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/polymarket-strait-hormuz-return-normal-may-73",
+      "bloc": "western",
+      "date": "2026-04-17",
+      "datetime": "2026-04-17T21:12:19Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-19T03:21:03.080Z",
+      "run_id": "2026-04-19T03:21"
     }
   ],
-  "total_items_ever": 614
+  "total_items_ever": 620
 }

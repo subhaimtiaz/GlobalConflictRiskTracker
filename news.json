@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-18T19:57:12.820Z",
+  "ts": "2026-04-19T03:22:08.288Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 123,
     "oilStress": 89,
-    "updatedAt": "2026-04-18T19:57:12.820Z"
+    "updatedAt": "2026-04-19T03:22:08.288Z"
   },
   "items": [
+    {
+      "headline": "Reopening the Strait of Hormuz is easier said than done. Here's why",
+      "summary": "Not for the first time in the past seven weeks of war and tenuous ceasefire, the details of developments concerning the Strait of Hormuz have been sparse, creating unease and anxiety among the shipping companies and crews whose tankers and containers slowly c…",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/strait-of-hormuz-open-oil-iran-us-israel-middle-east-war-9.7169075",
+      "bloc": "western",
+      "date": "2026-04-18",
+      "datetime": "2026-04-18T01:02:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The truce in Lebanon is key to ending the wider Iran war, but challenges remain",
+      "summary": "A truce took hold Friday between Israel and Lebanon's Hezbollah, providing relief on both sides of the border and an opening for Iran and the United States to reach a deal to end the wider war. The ceasefire appears to have led Iran to reopen the Strait of Ho…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/the-truce-in-lebanon-is-key-to-ending-the-wider-iran-war-but-challenges-remain",
+      "bloc": "western",
+      "date": "2026-04-17",
+      "datetime": "2026-04-17T20:45:26Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran says Strait of Hormuz open as Trump sees deal 'soon' to end war",
+      "summary": "Iranian Foreign Minister Abbas Araqchi said on Friday the Strait of Hormuz was open following a ceasefire agreement in Lebanon, while U.S. President Donald Trump said talks could take place this weekend and he believed a deal to end the Iran war would ‌come &…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/iran-says-strait-of-hormuz-open-as-trump-sees-deal-%27soon%27-to-end-war1",
+      "bloc": "western",
+      "date": "2026-04-17",
+      "datetime": "2026-04-17T20:45:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "France, UK to lead 'defensive' force for Hormuz - Breitbart",
       "summary": "France and Britain said Friday they will lead a multinational mission to ensure freedom of navigation in the Strait of Hormuz, while emphasising the force would be entirely defensive and only deployed once lasting peace in the region was agreed. British Prime…",
@@ -40,91 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "CBS News took a boat into the Strait of Hormuz. Here's what we saw.",
-      "summary": "Reporters from CBS News carefully arranged a risky trip into the Strait of Hormuz. Here's what they saw.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/strait-of-hormuz-visit-iran-war-exclusive/",
+      "headline": "Video shows ships turning away from the Strait of Hormuz as confusion persists over whether sea lane is really open",
+      "summary": "The Strait of Hormuz remained effectively closed despite Iran's declaration Friday that it is open, maritime freight and oil analysts told CNBC.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/17/iran-trump-strait-hormuz-oil-tanker-traffic.html",
       "bloc": "western",
       "date": "2026-04-17",
-      "datetime": "2026-04-17T17:04:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
-      "summary": "Oil prices have plummeted after Iran said the Strait of Hormuz would be \"completely open\" to commercial ships for the remainder of the ceasefire. The cost of a barrel of Brent crude fell to $88 dollars a barrel, having been above $98 earlier on Friday. The St…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4375288/posts",
-      "bloc": "western",
-      "date": "2026-04-17",
-      "datetime": "2026-04-17T16:40:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Empire Backs Down, For Now",
-      "summary": "“So as things stand right now this certainly looks like a humiliating defeat for the empire.” Reading by Tim Foley: Trump has announced a two-week ceasefire with Iran after previously threatening to exterminate their “entire civilization”, citing “a 10 point …",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/the-empire-backs-down-for-now/",
-      "bloc": "western",
-      "date": "2026-04-17",
-      "datetime": "2026-04-17T16:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Says the Strait of Hormuz Is Open Again. About That …",
-      "summary": "I regret to inform you that the president of the United States may not be totally on the level this time.",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/news-and-politics/2026/04/strait-of-hormuz-trump-iran.html",
-      "bloc": "western",
-      "date": "2026-04-17",
-      "datetime": "2026-04-17T18:57:06Z",
+      "datetime": "2026-04-17T22:34:34Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -144,13 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Strait of Hormuz is ‘completely open’, Iran says, but the devil is in the detail",
-      "summary": "Mixed signals suggest there may be no quick return to the pre-war status quo",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/europe/2026/04/17/strait-of-hormuz-is-completely-open-iran-says-but-the-devil-is-in-the-detail/",
+      "headline": "Iran: Strait of Hormuz open during ceasefire",
+      "summary": "President Trump and Iranian officials have said the Strait of Hormuz is open to all commercial vessels, although shipping firms say they're remaining cautious. Iran's foreign minister, Abbas Araghchi, said the vital waterway would be navigable while the Leban…",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/programmes/w1730bmynddkcz9",
       "bloc": "western",
       "date": "2026-04-17",
-      "datetime": "2026-04-17T18:36:59Z",
+      "datetime": "2026-04-17T21:52:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,65 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "How did Iran Strait reopening affect US oil prices? #world",
-      "summary": "Oil and markets react to Hormuz reopening Oil prices dropped sharply after Iran said the Strait of Hormuz was “completely open” for commercial shipping during a ceasefire period. Multiple market updates link the move to a reduction in perceived risk for energ…",
-      "source": "Alltoc.com",
-      "url": "https://alltoc.com/world/how-did-iran-strait-reopening-affect-us-oil-prices",
+      "headline": "Polymarket odds of Hormuz Strait traffic normalizing by end of May spike to 73%",
+      "summary": "Polymarket traders forecast when oil tanker traffic traveling through the Strait of Hormuz, a critical oil shipping waterway, will return to normal.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/polymarket-strait-hormuz-return-normal-may-73",
       "bloc": "western",
       "date": "2026-04-17",
-      "datetime": "2026-04-17T18:03:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Shipowners and Oil Traders Wary as Iran Says Hormuz Fully Open",
-      "summary": "Tanker owners and oil traders responded warily after Iran said on Friday that the Strait of Hormuz is open to all ships — a statement that, if true, will free up millions of barrels of crude oil and fuel stuck inside the Persian Gulf.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/shipowners-and-oil-traders-wary-as-iran-says-hormuz-fully-open",
-      "bloc": "western",
-      "date": "2026-04-17",
-      "datetime": "2026-04-17T16:27:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Empty LNG Tankers Attempt Hormuz Crossing Into Persian Gulf",
-      "summary": "Two liquefied natural gas tankers appear to be attempting to enter the Persian Gulf via the Strait of Hormuz, which — if they succeed — would be a first during the Middle East energy crisis.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/empty-lng-tankers-attempt-hormuz-crossing-into-persian-gulf",
-      "bloc": "western",
-      "date": "2026-04-17",
-      "datetime": "2026-04-17T14:44:35Z",
+      "datetime": "2026-04-17T21:12:19Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-19T18:58:08.918Z",
+  "updated": "2026-04-20T03:23:14.012Z",
   "retention_days": 30,
   "items": [
     {
@@ -1308,33 +1308,6 @@
       "run_id": "2026-04-03T19:58"
     },
     {
-      "headline": "Netanyahu to address Hungary CPAC despite ICC arrest warrant, HRW demands detention",
-      "summary": "Israeli Prime Minister scheduled to speak at Conservative Political Action Conference in Budapest on March 21. Human Rights Watch calls on Hungarian authorities to arrest Netanyahu on sight, testing Orbán's commitment to ditch ICC membership.",
-      "source": "Human Rights Watch",
-      "url": null,
-      "bloc": "institutional",
-      "date": "2026-03-20",
-      "datetime": "2026-03-20T14:00:00Z",
-      "leaders": [
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "ICC Netanyahu",
-        "coalition collapse"
-      ],
-      "dimensions": [
-        "accountability",
-        "survival"
-      ],
-      "variable_key": "netanyahu_travel_restrictions",
-      "event_type": "leader_statement",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-03T19:58:01.568Z",
-      "run_id": "2026-04-03T19:58"
-    },
-    {
       "headline": "Russian nuclear plant at Bushehr targeted multiple times during Iran war",
       "summary": "Iran claims three incidents of projectiles striking vicinity of Russian-built Bushehr Nuclear Power Plant on March 17, 24, and 27. Putin reportedly engaged directly with Israeli leadership to secure safety of 200+ Russian specialists at facility.",
       "source": "The Moscow Times",
@@ -1500,39 +1473,6 @@
         "proposed_delta": -2,
         "rationale": "First statement delivered only in writing through TV anchor raises transparency concerns about leadership",
         "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-03T21:07:04.183Z",
-      "run_id": "2026-04-03T21:07"
-    },
-    {
-      "headline": "Netanyahu Expected to Visit Hungary Despite ICC Arrest Warrant",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu is expected to travel to Hungary on March 21 to speak at Conservative Political Action Conference. Human Rights Watch urges Hungarian authorities to arrest him under ICC obligations, though Hungary previously failed to comply during his April 2025 visit.",
-      "source": "Human Rights Watch",
-      "url": null,
-      "bloc": "institutional",
-      "date": "2026-03-20",
-      "datetime": "2026-03-20T14:00:00Z",
-      "leaders": [
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "trial hearing",
-        "ICC Netanyahu"
-      ],
-      "dimensions": [
-        "accountability"
-      ],
-      "variable_key": "netanyahu_hungary_visit",
-      "event_type": "leader_statement",
-      "escalation": 3,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Benjamin Netanyahu",
-        "dimension": "accountability",
-        "proposed_delta": -1,
-        "rationale": "Deliberately avoiding ICC member states where arrest warrant would be enforced",
-        "confidence": "medium"
       },
       "_from": "claude",
       "first_seen": "2026-04-03T21:07:04.183Z",
@@ -3094,38 +3034,6 @@
       "run_id": "2026-04-04T19:48"
     },
     {
-      "headline": "Hun­gary expected to host Netanyahu despite ICC obligations",
-      "summary": "Human Rights Watch demands Hungary arrest Netanyahu during expected March 21 visit for Conservative Political Action Conference, despite Hungary's ongoing ICC membership obligations. Visit comes shortly before Hungary's April 12 national elections.",
-      "source": "Human Rights Watch",
-      "url": "https://www.hrw.org/news/2026/03/20/hungary-arrest-netanyahu-if-he-visits",
-      "bloc": "institutional",
-      "date": "2026-03-20",
-      "datetime": "2026-03-20T00:00:00Z",
-      "leaders": [
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "ICC Netanyahu"
-      ],
-      "dimensions": [
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Benjamin Netanyahu",
-        "dimension": "accountability",
-        "proposed_delta": 1,
-        "rationale": "Some countries still willing to host him despite ICC warrant reduces immediate accountability pressure",
-        "confidence": "medium"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-04T19:48:10.669Z",
-      "run_id": "2026-04-04T19:48"
-    },
-    {
       "headline": "Modi government faces diplomatic setback as Pakistan gains US favor",
       "summary": "Analysis suggests Pakistan has successfully broken diplomatic quarantine Modi worked to impose, with Trump administration imposing 50% tariffs on India while increasing outreach to Islamabad. Brief May 2025 conflict allowed Pakistan to leverage cease-fire for diplomatic gains.",
       "source": "Foreign Policy",
@@ -3745,32 +3653,6 @@
         "rationale": "Threatening power plant strikes after aircraft losses shows reactive escalation pattern",
         "confidence": "medium"
       },
-      "_from": "claude",
-      "first_seen": "2026-04-05T14:07:51.067Z",
-      "run_id": "2026-04-05T14:07"
-    },
-    {
-      "headline": "Hungary refuses to arrest Netanyahu despite ICC warrant obligations",
-      "summary": "Human Rights Watch urges Hungarian authorities to arrest Israeli PM during expected March 21 visit for Conservative Political Action Conference. Hungary announced ICC withdrawal after failing to arrest Netanyahu in April 2025.",
-      "source": "Human Rights Watch",
-      "url": "https://www.hrw.org/news/2026/03/20/hungary-arrest-netanyahu-if-he-visits",
-      "bloc": "institutional",
-      "date": "2026-03-20",
-      "datetime": "2026-03-20T00:00:00Z",
-      "leaders": [
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "ICC Netanyahu"
-      ],
-      "dimensions": [
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "dimension_signal": null,
       "_from": "claude",
       "first_seen": "2026-04-05T14:07:51.067Z",
       "run_id": "2026-04-05T14:07"
@@ -4580,41 +4462,6 @@
         "proposed_delta": -3,
         "rationale": "Extended absence amid war suggests possible incapacitation or reduced control over power apparatus",
         "confidence": "medium"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-06T14:40:51.233Z",
-      "run_id": "2026-04-06T14:40"
-    },
-    {
-      "headline": "Netanyahu Avoids ICC Arrest by Skipping Davos 2026, Hungary Prepares Second Violation",
-      "summary": "Netanyahu cancelled World Economic Forum attendance to avoid arrest warrant, while Hungary announces intention to host him again in March despite ICC obligations. Human Rights Watch demands Hungary comply with international law.",
-      "source": "Human Rights Watch",
-      "url": "https://www.hrw.org/news/2026/03/20/hungary-arrest-netanyahu-if-he-visits",
-      "bloc": "institutional",
-      "date": "2026-03-20",
-      "datetime": "2026-03-20T00:00:00Z",
-      "leaders": [
-        "Benjamin Netanyahu",
-        "Viktor Orbán"
-      ],
-      "watch_terms": [
-        "ICC Netanyahu",
-        "trial hearing"
-      ],
-      "dimensions": [
-        "accountability",
-        "survival"
-      ],
-      "variable_key": "netanyahu_accountability",
-      "event_type": "leader_statement",
-      "escalation": 4,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Benjamin Netanyahu",
-        "dimension": "accountability",
-        "proposed_delta": -2,
-        "rationale": "Actively avoiding international jurisdiction demonstrates evasion of legal accountability mechanisms",
-        "confidence": "high"
       },
       "_from": "claude",
       "first_seen": "2026-04-06T14:40:51.233Z",
@@ -5892,39 +5739,6 @@
         "proposed_delta": 3,
         "rationale": "IRGC pressure tactics securing leadership position demonstrates heavy reliance on military support for political survival",
         "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-07T16:18:16.987Z",
-      "run_id": "2026-04-07T16:18"
-    },
-    {
-      "headline": "Pakistan mediates US-Iran ceasefire talks as Field Marshal Munir emerges as key broker",
-      "summary": "Field Marshal Asim Munir positioned as central mediator in US-Iran peace efforts, using Revolutionary Guard contacts to deliver 15-point ceasefire proposal. Pakistan's neutral stance aided by avoiding Iranian targeting during war.",
-      "source": "Ynet News",
-      "url": "https://www.ynetnews.com/article/skouxtzi11x",
-      "bloc": "western",
-      "date": "2026-03-20",
-      "datetime": "2026-03-20T00:00:00Z",
-      "leaders": [
-        "General Asim Munir"
-      ],
-      "watch_terms": [
-        "Pakistan military",
-        "Iran ceasefire"
-      ],
-      "dimensions": [
-        "values"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 2,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "General Asim Munir",
-        "dimension": "values",
-        "proposed_delta": 2,
-        "rationale": "positioning as peace mediator between major powers demonstrates pragmatic diplomatic approach over ideological confrontation",
-        "confidence": "medium"
       },
       "_from": "claude",
       "first_seen": "2026-04-07T16:18:16.987Z",
@@ -15935,7 +15749,203 @@
       "_from": "newsapi",
       "first_seen": "2026-04-19T18:58:08.918Z",
       "run_id": "2026-04-19T18:58"
+    },
+    {
+      "headline": "Iran fully closes Strait of Hormuz over US blockade, fires on ships",
+      "summary": "Iranian Revolutionary Guard forces reportedly fired on ships attempting passage, including India-flagged vessels, raising global alarm over maritime safety and energy security",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-fully-closes-strait-of-hormuz-over-us-blockade-fires-on-ships/article70879818.ece",
+      "bloc": "western",
+      "date": "2026-04-18",
+      "datetime": "2026-04-18T23:48:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-20T03:23:14.011Z",
+      "run_id": "2026-04-20T03:23"
+    },
+    {
+      "headline": "Iran fully closes Strait of Hormuz over U.S. blockade and fires on ships",
+      "summary": "The standoff over the Strait of Hormuz escalated again Saturday as Iran reversed its reopening of the crucial waterway and fired on ships attempting to pass, in retaliation after the United States pressed ahead with its blockade of Iranian ports. The strait i…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/iran-reimposes-restrictions-on-strait-of-hormuz-accusing-us-of-violating-deal-to-reopen-it",
+      "bloc": "western",
+      "date": "2026-04-18",
+      "datetime": "2026-04-18T21:43:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-20T03:23:14.011Z",
+      "run_id": "2026-04-20T03:23"
+    },
+    {
+      "headline": "Iran tightens control of Strait of Hormuz, Trump warns against 'blackmail'",
+      "summary": "Tehran said it responded to a continued U.S. blockade of Iranian ports, calling it a violation of their ceasefire.",
+      "source": "Richmond.com",
+      "url": "https://richmond.com/news/nation-world/business/economy/article_813df40c-7aeb-5ed3-8bb0-f9b0dae0b905.html",
+      "bloc": "western",
+      "date": "2026-04-18",
+      "datetime": "2026-04-18T21:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-20T03:23:14.011Z",
+      "run_id": "2026-04-20T03:23"
+    },
+    {
+      "headline": "Witnesses detail deadly Israeli strikes on medics in Lebanon",
+      "summary": "The three strikes, which killed four paramedics and wounded six others, is the latest example of Israel's willingness to target Lebanon's health sector. The attacks on the ambulances have drawn condemnation, including from the United Nations' human rights off…",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/world/witnesses-detail-deadly-israeli-strikes-on-medics-in-lebanon",
+      "bloc": "western",
+      "date": "2026-04-18",
+      "datetime": "2026-04-18T20:55:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-20T03:23:14.011Z",
+      "run_id": "2026-04-20T03:23"
+    },
+    {
+      "headline": "Hormuz standoff: Trump misread his leverage and overplayed his hand",
+      "summary": "A brief reopening of the Strait of Hormuz offered hope for US-Iran ties. Oil prices fell and markets rallied. However, Iran quickly reversed course, shutting the strait again. This move contradicted US claims about negotiations. Experts suggest President Trum…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/hormuz-standoff-trump-misread-his-leverage-and-overplayed-his-hand/articleshow/130360323.cms",
+      "bloc": "regional",
+      "date": "2026-04-19",
+      "datetime": "2026-04-19T00:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-20T03:23:14.011Z",
+      "run_id": "2026-04-20T03:23"
+    },
+    {
+      "headline": "No Strait Answer: Iran shuts off Hormuz on US 'violation'",
+      "summary": "Iran has intensified its control over the Strait of Hormuz. Mariners are warned of its closure following a US blockade of Iranian ports. This action has impacted Indian vessels, with some forced to turn back after encountering fire from the Iranian Revolution…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/no-strait-answer-iran-shuts-off-hormuz-on-us-violation/articleshow/130360584.cms",
+      "bloc": "regional",
+      "date": "2026-04-19",
+      "datetime": "2026-04-19T00:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-20T03:23:14.011Z",
+      "run_id": "2026-04-20T03:23"
+    },
+    {
+      "headline": "Uncertainty in Strait of Hormuz as ceasefire deadline approaches",
+      "summary": "There is an intense uncertainty and volatility on the vital shipping waterway which is at the centre of a growing energy crisis.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-04-19/uncertainty-in-strait-of-hormuz-as-deadline-approaches/106580284",
+      "bloc": "western",
+      "date": "2026-04-18",
+      "datetime": "2026-04-18T23:57:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-20T03:23:14.012Z",
+      "run_id": "2026-04-20T03:23"
     }
   ],
-  "total_items_ever": 641
+  "total_items_ever": 648
 }

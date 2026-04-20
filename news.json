@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-20T03:24:19.213Z",
+  "ts": "2026-04-20T08:17:59.721Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 123,
     "oilStress": 89,
-    "updatedAt": "2026-04-20T03:24:19.213Z"
+    "updatedAt": "2026-04-20T08:17:59.721Z"
   },
   "items": [
     {
@@ -118,65 +118,117 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Hormuz standoff: Trump misread his leverage and overplayed his hand",
-      "summary": "A brief reopening of the Strait of Hormuz offered hope for US-Iran ties. Oil prices fell and markets rallied. However, Iran quickly reversed course, shutting the strait again. This move contradicted US claims about negotiations. Experts suggest President Trum…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/hormuz-standoff-trump-misread-his-leverage-and-overplayed-his-hand/articleshow/130360323.cms",
-      "bloc": "regional",
-      "date": "2026-04-19",
-      "datetime": "2026-04-19T00:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "No Strait Answer: Iran shuts off Hormuz on US 'violation'",
-      "summary": "Iran has intensified its control over the Strait of Hormuz. Mariners are warned of its closure following a US blockade of Iranian ports. This action has impacted Indian vessels, with some forced to turn back after encountering fire from the Iranian Revolution…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/no-strait-answer-iran-shuts-off-hormuz-on-us-violation/articleshow/130360584.cms",
-      "bloc": "regional",
-      "date": "2026-04-19",
-      "datetime": "2026-04-19T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Uncertainty in Strait of Hormuz as ceasefire deadline approaches",
-      "summary": "There is an intense uncertainty and volatility on the vital shipping waterway which is at the centre of a growing energy crisis.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-04-19/uncertainty-in-strait-of-hormuz-as-deadline-approaches/106580284",
+      "headline": "Iran Recloses Strait of Hormuz, Fires on Ships in Escalating Standoff with US Blockade",
+      "summary": "DUBAI, United Arab Emirates — Iran declared the Strait of Hormuz fully closed again Saturday and its Revolutionary Guard forces opened fire on commercial vessels attempting to transit the vital waterway, dramatically escalating tensions just hours after both …",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/iran-recloses-strait-hormuz-fires-ships-escalating-standoff-us-blockade-1866976",
       "bloc": "western",
-      "date": "2026-04-18",
-      "datetime": "2026-04-18T23:57:22Z",
+      "date": "2026-04-19",
+      "datetime": "2026-04-19T08:00:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran says final deal still far off as Hormuz Strait shuttered",
+      "summary": "The strategic Strait of Hormuz was again closed on Sunday in the stand-off between Iran and the United States, with Iran's powerful parliament speaker signalling a final peace deal remained \"far\" off despite some movement in negotiations.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/iran-says-final-deal-still-far-off-as-hormuz-strait-shuttered-221197",
+      "bloc": "western",
+      "date": "2026-04-19",
+      "datetime": "2026-04-19T07:00:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran says final deal remains far off as Strait of Hormuz stays shut",
+      "summary": "A two-week ceasefire is set to end on Wednesday unless it is renewed.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/strait-of-hormuz-latest-7017218-Apr2026/",
+      "bloc": "western",
+      "date": "2026-04-19",
+      "datetime": "2026-04-19T06:35:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran closes Strait of Hormuz again ‘until US lifts blockade’",
+      "summary": "Top negotiator for Iran says talks with US have ‘had progress’ but gaps remain",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/19/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade/",
+      "bloc": "western",
+      "date": "2026-04-19",
+      "datetime": "2026-04-19T06:30:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran says final deal still far off as Hormuz Strait shut",
+      "summary": "The strategic Strait of Hormuz remains closed in the stand-off between Iran and the United States, with Iran's powerful parliament speaker signalling a final peace deal remained \"far\" off despite some movement in negotiations.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/world/2026/0419/1568992-middle-east-conflict/",
+      "bloc": "western",
+      "date": "2026-04-19",
+      "datetime": "2026-04-19T06:27:07Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

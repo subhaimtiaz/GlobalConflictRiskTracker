@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-20T13:52:54.208Z",
+  "ts": "2026-04-20T19:13:57.092Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,69 +10,17 @@
   "live_variables": {
     "oilPrice": 123,
     "oilStress": 89,
-    "updatedAt": "2026-04-20T13:52:54.208Z"
+    "updatedAt": "2026-04-20T19:13:57.092Z"
   },
   "items": [
     {
-      "headline": "Trump Says US Negotiators Returning To Pakistan, Threatens Iranian Power Plants",
-      "summary": "US President Donald Trump said his representatives are traveling to Islamabad, Pakistan, for another round of talks on April 20 with Iran as the Strait of Hormuz remains closed. Tehran has not yet confirmed it will take part.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260419-rferl02.htm",
+      "headline": "Full transcript of \"Face the Nation with Margaret Brennan,\" April 19, 2026",
+      "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, U.N. Ambassador Mike Waltz and former Attorney General Eric Holder join Margaret Brennan.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-04-19-2026/",
       "bloc": "western",
       "date": "2026-04-19",
-      "datetime": "2026-04-19T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran replenishing missile launchers faster than before war: IRGC commander",
-      "summary": "A top Iranian military commander says the country's capacity to replenish missile and drone launchers during the two-week ceasefire has outpaced pre-war levels.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260419-presstv07.htm",
-      "bloc": "western",
-      "date": "2026-04-19",
-      "datetime": "2026-04-19T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says US blockade of ports unlawful, criminal, and violation of ceasefire",
-      "summary": "Iran has called the US blockade of its ports an unlawful act which violates key terms of international law, including the United Nations Charter.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260419-presstv06.htm",
-      "bloc": "western",
-      "date": "2026-04-19",
-      "datetime": "2026-04-19T12:00:00Z",
+      "datetime": "2026-04-19T18:18:09Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "IRGC forces US troops to leave Hormuz Strait after attack on Iranian ship: Report",
-      "summary": "The Islamic Revolution Guards Corps (IRGC) has forced US forces stationed in the Sea of Oman to retreat and leave the area after they fired at an Iranian merchant ship, a report said.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260419-presstv05.htm",
+      "headline": "Iran rejects second round of talks with US – IRNA",
+      "summary": "Iran rejects second round of talks with US – IRNA Iran has rejected taking part in the second round of talks with the United States, the Islamic Republic News Agency (IRNA), Iran’s official state news agency, reported on Sunday.",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-bloggers/4375596/posts",
       "bloc": "western",
       "date": "2026-04-19",
-      "datetime": "2026-04-19T12:00:00Z",
+      "datetime": "2026-04-19T17:09:52Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -113,18 +61,18 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Doubles Down On Closing The Strait Of Hormuz As The Ceasefire Nears Expiration",
-      "summary": "Iran has doubled down on its pledge to restrict ships passing through the Strait of Hormuz as long as the U.S. blockade of Iranian ports remains in place.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-strait-of-hormuz-closure_n_69e4c1cae4b0555d213c7be1",
+      "headline": "EXCLUSIVE: Inside Trump’s Pivot To Try Saving The Midterms",
+      "summary": "AIR FORCE ONE – Trump embarked on a two-day swing through Nevada and Arizona, two critical purple states that could determine Republican fortunes in November.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/04/19/donald-trump-midterms-nevada-arizona-red-wall-tpusa-air-force-one/",
       "bloc": "western",
       "date": "2026-04-19",
-      "datetime": "2026-04-19T11:55:03Z",
+      "datetime": "2026-04-19T16:49:57Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -139,6 +87,84 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Transcript: Amos Hochstein on \"Face the Nation with Margaret Brennan,\" April 19, 2026",
+      "summary": "The following is the transcript of the interview with Amos Hochstein, Biden administration senior energy adviser and Middle East negotiator, that aired on \"Face the Nation with Margaret Brennan\" on April 19, 2026.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/amos-hochstein-energy-middle-east-face-the-nation-transcript-04-19-2026/",
+      "bloc": "western",
+      "date": "2026-04-19",
+      "datetime": "2026-04-19T16:48:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Transcript: U.N. Ambassador Mike Waltz on \"Face the Nation with Margaret Brennan,\" April 19, 2026",
+      "summary": "The following is the transcript of the interview with Mike Waltz, U.S. ambassador to the United Nations, that aired on \"Face the Nation with Margaret Brennan\" on April 19, 2026.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/mike-waltz-un-ambassador-face-the-nation-transcript-04-19-2026/",
+      "bloc": "western",
+      "date": "2026-04-19",
+      "datetime": "2026-04-19T16:43:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why did Iran reopen Strait of Hormuz? #world",
+      "summary": "Iran’s Hormuz reversal and what it signals Iran said it has reopened the Strait of Hormuz after hardline pressure in Tehran, and multiple officials framed the move as Tehran having an “upper hand” over the passage. That shift matters because the waterway is a…",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/world/why-did-iran-reopen-strait-of-hormuz",
+      "bloc": "western",
+      "date": "2026-04-19",
+      "datetime": "2026-04-19T18:03:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -177,32 +203,6 @@
       "bloc": "western",
       "date": "2026-04-19",
       "datetime": "2026-04-19T13:27:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sunday: Hili dialogue",
-      "summary": "Welcome to the Sabbath that was made for goyische cats: Sunday, April 19, 2020, and Rice Ball Day.  Here’s my favorite kind of rice ball:  zongzi, rice wrapped around a savory or sweet filling and steamed in bamboo leaves. Here’s one unwrapped and one still i…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/04/19/sunday-hili-dialogue-582/",
-      "bloc": "western",
-      "date": "2026-04-19",
-      "datetime": "2026-04-19T11:45:03Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

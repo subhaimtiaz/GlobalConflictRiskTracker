@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-21T13:53:28.647Z",
+  "ts": "2026-04-21T19:20:47.460Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 123,
     "oilStress": 89,
-    "updatedAt": "2026-04-21T13:53:28.647Z"
+    "updatedAt": "2026-04-21T19:20:47.460Z"
   },
   "items": [
     {
-      "headline": "US has no option but to drop excessive demands, respect Iran's rights: Deputy FM",
-      "summary": "Iran's Deputy Foreign Minister Saeed Khatibzadeh says the United States has no option but to abandon its excessive demands and fully respect the rights of the Iranian people, adding that diplomacy is the only solution to the crisis.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260420-presstv07.htm",
+      "headline": "Iran says 'no decision made' yet over whether to join second round of talks with US",
+      "summary": "Donald Trump told PBS News that “lots of bombs start going off” if the current ceasefire ends without a deal with Tehran.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/iran-no-decision-second-round-talks-washington-us-trump-7018650-Apr2026/",
       "bloc": "western",
       "date": "2026-04-20",
-      "datetime": "2026-04-20T12:00:00Z",
+      "datetime": "2026-04-20T17:38:39Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Prospects For New Round Of US-Iran Talks Clouded Two Days Before Truce Expires",
-      "summary": "The prospects for a new round of face-to-face peace talks between the United States and Iran remained unclear amid confusion over the US negotiators' plans and uncertainty over whether Tehran would agree to take part.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260420-rferl03.htm",
+      "headline": "Trump tells Post he ‘will not be rushed’ to end Iran war, lashes out at pols urging him to settle: ‘Helping the other side’",
+      "summary": "President Trump told The Post he “will not be rushed” to end the Iran war on its 52nd day — and lashed out at Democrats and Republicans trying to force him to end the conflict. “How bad is it that when you are in the middle of negotiations and you have got th…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4375720/posts",
       "bloc": "western",
       "date": "2026-04-20",
-      "datetime": "2026-04-20T12:00:00Z",
+      "datetime": "2026-04-20T17:23:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran's military vows 'decisive action' against US army after attack on Iranian vessel",
-      "summary": "Iran's military has vowed to take decisive action against the \"terrorist US Army,\" following an American attack on an Iranian commercial vessel.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260420-presstv11.htm",
+      "headline": "How the Lebanon Ceasefire Could Make It Harder to End the War on Iran",
+      "summary": "The deal is a welcome reprieve from Israel’s bombing — but separating Lebanon from the ceasefire with Iran sets a dangerous precedent.\nThe post How the Lebanon Ceasefire Could Make It Harder to End the War on Iran appeared first on The Intercept.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2026/04/20/israel-iran-war-lebanon-ceasefire/",
       "bloc": "western",
       "date": "2026-04-20",
-      "datetime": "2026-04-20T12:00:00Z",
+      "datetime": "2026-04-20T16:55:13Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -87,33 +87,163 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "World’s Biggest Physical Oil Trader Warns of Months of Price Volatility",
+      "summary": "Seasonally lower demand ahead of the peak summer driving season and the continued turbulence in the Middle East could extend the violent oil price swings for months ahead, the top executive of oil trader Gunvor has told the Financial Times. “It is a little bi…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Worlds-Biggest-Physical-Oil-Trader-Warns-of-Months-of-Price-Volatility.html",
+      "bloc": "western",
+      "date": "2026-04-20",
+      "datetime": "2026-04-20T15:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump’s “Petro-Imperialism” Is Pushing the US and Iran to the Brink",
+      "summary": "Petro-imperialism is back in a big way. On Monday, Iran’s military vowed to execute “necessary action” against US forces after it fired at and seized an Iranian-flagged ship the day before—destroying any hope for renewed peace negotiations in the near future.…",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/04/trumps-petro-imperialism-is-pushing-the-us-and-iran-to-the-brink/",
+      "bloc": "western",
+      "date": "2026-04-20",
+      "datetime": "2026-04-20T15:27:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US-Iran standoff cripples shipping in Strait of Hormuz again",
+      "summary": "The US-Iran standoff leads to blockades, crippling shipping in the Strait of Hormuz. Dozens of commercial vessels are trapped or redirected by both nations\n\nRead More: https://punchng.com/us-iran-standoff-cripples-shipping-in-strait-of-hormuz-again/",
+      "source": "The Punch",
+      "url": "https://punchng.com/?p=2121758",
+      "bloc": "western",
+      "date": "2026-04-20",
+      "datetime": "2026-04-20T18:54:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Prediction Markets Expect Prolonged Strait of Hormuz Disruption—And Oil Traders Are Betting Big",
+      "summary": "Prediction markets suggest Strait of Hormuz traffic will not return to normal any time soon, and oil traders expect higher prices.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/364914/prediction-markets-strait-of-hormuz-oil-traders",
+      "bloc": "western",
+      "date": "2026-04-20",
+      "datetime": "2026-04-20T18:30:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "‘Right Back Where We Started’: CMA CGM Ship Hit as Hormuz Attacks Resume",
+      "summary": "Analysts warn shipping risks through the conduit are at their highest level yet after this weekend's vessel strike and U.S. seizure of an Iranian-linked ship.",
+      "source": "WWD",
+      "url": "http://wwd.com/sourcing-journal/logistics/cma-cgm-ship-hit-strait-of-hormuz-iran-war-container-shipping-us-naval-blockade-south-asia-port-congestion-1238922208/",
+      "bloc": "western",
+      "date": "2026-04-20",
+      "datetime": "2026-04-20T17:38:27Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "China voices concern over US attack on Iranian merchant vessel",
-      "summary": "China has voiced its concern over the US attack on an Iranian vessel in the Sea of Oman, warning against any provocations.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260420-presstv08.htm",
-      "bloc": "western",
+      "headline": "Cloud over US-Iran talks: What are the key sticking points?",
+      "summary": "Trump announces new talks with Iran as fragile Pakistan-brokered ceasefire raises stakes for future negotiations.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points",
+      "bloc": "regional",
       "date": "2026-04-20",
-      "datetime": "2026-04-20T12:00:00Z",
+      "datetime": "2026-04-20T13:51:57Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -125,58 +255,6 @@
       "bloc": "western",
       "date": "2026-04-20",
       "datetime": "2026-04-20T13:22:19Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "What happened in U.S. seizure of Iranian tanker? #politics",
-      "summary": "U.S. said Iranian flagged ship defied Hormuz blockade The United States reported a new confrontation in the Strait of Hormuz after naval forces fired on an Iranian cargo ship and then seized the vessel , with footage released by the U.S. military showing Mari…",
-      "source": "Alltoc.com",
-      "url": "https://alltoc.com/politics/what-happened-in-u-s-seizure-of-iranian-tanker",
-      "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T12:02:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Jumps, Stocks Ease As U.S.-Iran Ceasefire Hangs In The Balance",
-      "summary": "Oil prices jumped and global equities pulled back as markets grew increasingly concerned that the ceasefire between the U.S. and Iran might not hold, while tensions over the Strait of Hormuz escalated.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/oil-prices-us-iran-tensions_n_69e60f2ae4b09c81bf19517c",
-      "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T11:38:15Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -245,6 +323,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The Strategic Aftershocks of Trump’s Iran War",
+      "summary": "The consequences will be felt long after the fighting ends.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/04/20/strategic-aftershocks-trump-iran-war-israel-oil/",
+      "bloc": "western",
+      "date": "2026-04-20",
+      "datetime": "2026-04-20T18:57:46Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "China Slams US Hormuz Blockade as Dangerous While Sanctioned Tankers Slip Through Amid Fragile Ceasefire",
       "summary": "BEIJING — China has sharply criticized the U.S. naval blockade of Iranian ports and the Strait of Hormuz as a \"dangerous and irresponsible\" escalation that threatens global energy security and undermines a fragile ceasefire, even as Chinese-owned tankers cont…",
       "source": "Ibtimes.com.au",
@@ -290,6 +392,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Traveling this summer? Major airlines cut routes — check the list to see if you are affected",
+      "summary": "Airlines Cut Routes Due to Rising Fuel Costs from the Iran War — Is Your Summer Flight at Risk? Jet fuel prices have doubled since the war in Iran began on February 28, 2026, and the global aviation industry is now paying a brutal price. Air Canada, Delta, KL…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/traveling-this-summer-major-airlines-cut-routes-check-the-list-to-see-if-you-are-affected/articleshow/130392236.cms",
+      "bloc": "regional",
+      "date": "2026-04-20",
+      "datetime": "2026-04-20T14:10:55Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -398,32 +526,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Jet fuel shortage: Why Iran war could ground flights in Europe",
-      "summary": "Europe's aviation faces fuel shortages as Hormuz tensions threaten travel at the start of the summer season.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/4/16/jet-fuel-shortage-why-iran-war-could-ground-flights-in-europe",
-      "bloc": "regional",
-      "date": "2026-04-16",
-      "datetime": "2026-04-16T15:44:23Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Pakistan ready for multi-day US-Iran talks, but Tehran unsure about joining",
       "summary": "Iranian officials are yet to commit to a second round of talks with the US, as ceasefire deadline approaches.",
       "source": "Al Jazeera English",
@@ -445,6 +547,30 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Who is Ahmad Vahidi? Iran’s new IRGC chief tied to global attacks and ‘Death to America’ ideology",
+      "summary": "Shadowy IRGC commander Ahmad Vahidi is emerging as one of Iran's most powerful figures as Trump's ceasefire deadline approaches, analysts warn.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/who-ahmad-vahidi-irans-new-irgc-chief-tied-global-attacks-death-america-ideology",
+      "bloc": "western",
+      "date": "2026-04-20",
+      "datetime": "2026-04-20T17:38:58Z",
+      "leaders": [
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran IRGC regime"
+      ],
+      "dimensions": [
+        "survival",
+        "accountability"
+      ],
+      "variable_key": "iranRegimeCohesion",
+      "event_type": "static_variable",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-21T19:19:42.160Z",
+  "updated": "2026-04-22T02:55:12.367Z",
   "retention_days": 30,
   "items": [
     {
@@ -17509,7 +17509,118 @@
       "_from": "newsapi",
       "first_seen": "2026-04-21T19:19:42.160Z",
       "run_id": "2026-04-21T19:19"
+    },
+    {
+      "headline": "Two Occupations, One Lebanon",
+      "summary": "Freddie Ponton21st Century Wire Hours after the Pakistan-brokered Iran war ceasefire took effect, Israel struck Lebanon again, killing scores of civilians and displacing tens of thousands overnight during major strikes on April 8-9, 2026. The Western press we…",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/two-occupations-one-lebanon/",
+      "bloc": "western",
+      "date": "2026-04-20",
+      "datetime": "2026-04-20T22:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-22T02:55:12.367Z",
+      "run_id": "2026-04-22T02:55"
+    },
+    {
+      "headline": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire",
+      "summary": "Iran is considering attending peace talks with the United States in Pakistan, a senior Iranian official told Reuters on Monday, following moves by Islamabad to end a U.S. blockade of Iran's ports, a significant obstacle to Tehran rejoining peace efforts. Howe…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/fate-of-iran-peace-talks-uncertain-as-deadline-approaches-for-end-of-ceasefire2",
+      "bloc": "western",
+      "date": "2026-04-20",
+      "datetime": "2026-04-20T21:26:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-22T02:55:12.367Z",
+      "run_id": "2026-04-22T02:55"
+    },
+    {
+      "headline": "Here’s what the stock market might have gotten wrong about the Iran war",
+      "summary": "Washington Post: Disconnect between markets and reality is increasingly shaping economy.",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/04/18/iran-oil-stock-market-economy/",
+      "bloc": "western",
+      "date": "2026-04-20",
+      "datetime": "2026-04-20T23:03:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-22T02:55:12.367Z",
+      "run_id": "2026-04-22T02:55"
+    },
+    {
+      "headline": "Chilling warning from Nobel physicist as date is set for humanity's final destruction",
+      "summary": "The winner of the Nobel Prize in Physics has issued a stark warning to humanity, revealing the timeline for when it could face an existential catastrophe.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/sciencetech/article-15749705/david-gross-nuclear-war-warning.html",
+      "bloc": "western",
+      "date": "2026-04-20",
+      "datetime": "2026-04-20T20:04:59Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-22T02:55:12.367Z",
+      "run_id": "2026-04-22T02:55"
     }
   ],
-  "total_items_ever": 704
+  "total_items_ever": 708
 }

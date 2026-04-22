@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-22T02:56:17.564Z",
+  "ts": "2026-04-22T07:57:27.221Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 123,
     "oilStress": 89,
-    "updatedAt": "2026-04-22T02:56:17.564Z"
+    "updatedAt": "2026-04-22T07:57:27.221Z"
   },
   "items": [
     {
-      "headline": "Two Occupations, One Lebanon",
-      "summary": "Freddie Ponton21st Century Wire Hours after the Pakistan-brokered Iran war ceasefire took effect, Israel struck Lebanon again, killing scores of civilians and displacing tens of thousands overnight during major strikes on April 8-9, 2026. The Western press we…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/two-occupations-one-lebanon/",
+      "headline": "U.S. Seizes Iranian Tanker; Talks Announced Amid Trump’s Threats",
+      "summary": "Introduction The United States Navy seized an Iranian-flagged cargo ship in the Gulf of Oman on April 19 after it attempted to breach a U.S. naval blockade, according to statements from U.S. Central Command and President Donald Trump [1]. The seizure occurred…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-21-u-s-seizes-iranian-tanker-talks-announced-amid-trumps-threats.html",
       "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T22:00:00Z",
+      "date": "2026-04-21",
+      "datetime": "2026-04-21T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -35,200 +35,200 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire",
-      "summary": "Iran is considering attending peace talks with the United States in Pakistan, a senior Iranian official told Reuters on Monday, following moves by Islamabad to end a U.S. blockade of Iran's ports, a significant obstacle to Tehran rejoining peace efforts. Howe…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/fate-of-iran-peace-talks-uncertain-as-deadline-approaches-for-end-of-ceasefire2",
-      "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T21:26:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says 'no decision made' yet over whether to join second round of talks with US",
-      "summary": "Donald Trump told PBS News that “lots of bombs start going off” if the current ceasefire ends without a deal with Tehran.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/iran-no-decision-second-round-talks-washington-us-trump-7018650-Apr2026/",
-      "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T17:38:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump tells Post he ‘will not be rushed’ to end Iran war, lashes out at pols urging him to settle: ‘Helping the other side’",
-      "summary": "President Trump told The Post he “will not be rushed” to end the Iran war on its 52nd day — and lashed out at Democrats and Republicans trying to force him to end the conflict. “How bad is it that when you are in the middle of negotiations and you have got th…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4375720/posts",
-      "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T17:23:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Here’s what the stock market might have gotten wrong about the Iran war",
-      "summary": "Washington Post: Disconnect between markets and reality is increasingly shaping economy.",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2026/04/18/iran-oil-stock-market-economy/",
-      "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T23:03:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US-Iran standoff cripples shipping in Strait of Hormuz again",
-      "summary": "The US-Iran standoff leads to blockades, crippling shipping in the Strait of Hormuz. Dozens of commercial vessels are trapped or redirected by both nations\n\nRead More: https://punchng.com/us-iran-standoff-cripples-shipping-in-strait-of-hormuz-again/",
-      "source": "The Punch",
-      "url": "https://punchng.com/?p=2121758",
-      "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T18:54:50Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Prediction Markets Expect Prolonged Strait of Hormuz Disruption—And Oil Traders Are Betting Big",
-      "summary": "Prediction markets suggest Strait of Hormuz traffic will not return to normal any time soon, and oil traders expect higher prices.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/364914/prediction-markets-strait-of-hormuz-oil-traders",
-      "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T18:30:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "‘Right Back Where We Started’: CMA CGM Ship Hit as Hormuz Attacks Resume",
-      "summary": "Analysts warn shipping risks through the conduit are at their highest level yet after this weekend's vessel strike and U.S. seizure of an Iranian-linked ship.",
-      "source": "WWD",
-      "url": "http://wwd.com/sourcing-journal/logistics/cma-cgm-ship-hit-strait-of-hormuz-iran-war-container-shipping-us-naval-blockade-south-asia-port-congestion-1238922208/",
-      "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T17:38:27Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Cloud over US-Iran talks: What are the key sticking points?",
-      "summary": "Trump announces new talks with Iran as fragile Pakistan-brokered ceasefire raises stakes for future negotiations.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points",
+      "headline": "Strait of Hormuz Closed Again After U.S. Maintains Blockade of Iranian Ports",
+      "summary": "Introduction The Strait of Hormuz was reclosed to commercial traffic by Iran on Saturday, April 18, 2026, just one day after it was conditionally reopened. This swift reversal occurred after the United States refused to lift its naval blockade of Iranian port…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-21-hormuz-closed-again-after-us-maintains-blockade.html",
+      "bloc": "western",
+      "date": "2026-04-21",
+      "datetime": "2026-04-21T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Says Ceasefire Extension “Highly Unlikely” Ahead of Pakistan Talks",
+      "summary": "Introduction U.S. President Donald Trump said he is “highly unlikely” to extend a temporary ceasefire with Iran if no broader deal is finalized by an April 22 deadline, setting a high-stakes tone for scheduled diplomatic talks in Pakistan [1]. The ceasefire, …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-21-trump-says-iran-ceasefire-extension-highly-unlikely.html",
+      "bloc": "western",
+      "date": "2026-04-21",
+      "datetime": "2026-04-21T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US, Iran warn ready for war as talks in limbo",
+      "summary": "The United States and Iran each warned they were ready for war as the clock ticked down Tuesday on a ceasefire, with uncertainty on talks that President Donald Trump had announced would resume in Pakistan.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-iran-warn-ready-for-war-as-talks-in-limbo-221277",
+      "bloc": "western",
+      "date": "2026-04-21",
+      "datetime": "2026-04-21T05:50:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran war: Talks in doubt as leaders issue threats",
+      "summary": "While the talks remain in limbo, the United States and Iran have been trading threats. Separately, media reports suggest US Vice President JD Vance is set to travel to Pakistan for ceasefire negotiations. DW has more. US and Iran send mixed signals on talks\nU…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/iran-war-talks-in-doubt-as-leaders-issue-threats/live-76874663",
+      "bloc": "western",
+      "date": "2026-04-21",
+      "datetime": "2026-04-21T03:08:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Scam Messages Are Offering Ships Safe Transit Through Hormuz, Security Firm Warns",
+      "summary": "Fraudulent messages promising safe passage through the Strait of Hormuz in exchange for cryptocurrency have been sent to some shipping companies whose vessels are stranded west of the waterway, Greek maritime risk management firm MARISKS has warned. The U.S. …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/04/21/866667.htm",
+      "bloc": "western",
+      "date": "2026-04-21",
+      "datetime": "2026-04-21T07:21:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Scam messages offering ships safe transit through Hormuz, security firm warns",
+      "summary": "Fraudsters are targeting shipping companies stranded near the Strait of Hormuz, offering safe passage in exchange for cryptocurrency payments, according to risk firm MARISKS, which confirmed the messages are scams.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/scam-messages-offering-ships-safe-transit-through-hormuz-security-firm-warns/articleshow/130410361.cms",
       "bloc": "regional",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T13:51:57Z",
+      "date": "2026-04-21",
+      "datetime": "2026-04-21T07:04:37Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iranian supertanker breaches \"blockade line\" after offloading 2 million barrels of crude oil",
+      "summary": "Iranian supertanker breaches US naval blockade, returning home after offloading 2 million barrels of crude oil amid rising tensions.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/iranian-supertanker-breaches-blockade-line-after-offloading-2-million-barrels-of-crude-oil/article70887316.ece",
+      "bloc": "western",
+      "date": "2026-04-21",
+      "datetime": "2026-04-21T06:34:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Scam alert: Ships stranded near Hormuz receive fake messages offering safe transit",
+      "summary": "Fraudulent messages promising safe passage through the Strait of Hormuz in exchange for cryptocurrency ​have been sent to some shipping companies whose vessels are ‌stranded west of the waterway, Greek maritime risk management ​firm MARISKS has warned.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/scam-alert-ships-stranded-near-hormuz-receive-fake-messages-offering-safe-transit/article70887395.ece",
+      "bloc": "western",
+      "date": "2026-04-21",
+      "datetime": "2026-04-21T06:31:43Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-22T19:20:43.467Z",
+  "updated": "2026-04-23T02:57:51.576Z",
   "retention_days": 30,
   "items": [
     {
@@ -4696,42 +4696,6 @@
       "run_id": "2026-04-06T14:40"
     },
     {
-      "headline": "Pakistan Field Marshal Munir Emerges as Key US-Iran Mediator, Delivers 15-Point Ceasefire Proposal",
-      "summary": "Asim Munir positioned as central figure in mediation efforts between Washington and Tehran, helping deliver US proposal including uranium enrichment halt and Strait of Hormuz reopening. Pakistan leverages neutral status as non-targeted regional power.",
-      "source": "YNet News",
-      "url": "https://www.ynetnews.com/article/skouxtzi11x",
-      "bloc": "regional",
-      "date": "2026-03-23",
-      "datetime": "2026-03-23T00:00:00Z",
-      "leaders": [
-        "Asim Munir",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Pakistan military",
-        "Iran ceasefire",
-        "Munir"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "pakistan_mediation_role",
-      "event_type": "leader_statement",
-      "escalation": 2,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Asim Munir",
-        "dimension": "values",
-        "proposed_delta": 1,
-        "rationale": "Taking constructive mediation role in regional conflict demonstrates diplomatic engagement over military confrontation",
-        "confidence": "medium"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-06T14:40:51.233Z",
-      "run_id": "2026-04-06T14:40"
-    },
-    {
       "headline": "Wall Street’s Eyes on the Strait",
       "summary": "With markets wobbling and bad information everywhere, Citrini Research sent an analyst to the war zone to figure out what’s really happening.",
       "source": "New York Magazine",
@@ -6121,32 +6085,6 @@
       "variable_key": "iran_mediation_response",
       "event_type": "leader_statement",
       "escalation": 4,
-      "persian_only": true,
-      "_from": "claude",
-      "first_seen": "2026-04-07T20:07:55.970Z",
-      "run_id": "2026-04-07T20:07"
-    },
-    {
-      "headline": "Iran's Defense Council Declares Strait of Hormuz Passage Depends on Coordination with Tehran for Non-Belligerent Countries",
-      "summary": "Iran's Defense Council announced passage through Strait of Hormuz would depend on coordination with Tehran for countries described as non-belligerent. Statement comes amid Trump's threats to target Iranian energy infrastructure if strait remains closed.",
-      "source": "Iran International",
-      "url": "https://www.iranintl.com/en/202603230121",
-      "bloc": "persian",
-      "date": "2026-03-23",
-      "datetime": "2026-03-23T14:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Strait Hormuz",
-        "Iran ceasefire"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": "strait_hormuz_conditions",
-      "event_type": "leader_statement",
-      "escalation": 5,
       "persian_only": true,
       "_from": "claude",
       "first_seen": "2026-04-07T20:07:55.970Z",
@@ -18486,7 +18424,174 @@
       "_from": "newsapi",
       "first_seen": "2026-04-22T19:20:43.467Z",
       "run_id": "2026-04-22T19:20"
+    },
+    {
+      "headline": "Trump extends Iran ceasefire but keeps blockade",
+      "summary": "Donald Trump extended the Iran ceasefire at Pakistan’s request but kept the US naval blockade in place, as talks stalled and uncertainty persisted over Tehran’s willingness to join negotiations",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-extends-iran-ceasefire-but-keeps-blockade/article70891195.ece",
+      "bloc": "western",
+      "date": "2026-04-22",
+      "datetime": "2026-04-22T01:16:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-23T02:57:51.576Z",
+      "run_id": "2026-04-23T02:57"
+    },
+    {
+      "headline": "Trump says U.S. will extend ceasefire with Iran at Pakistan's request",
+      "summary": "President Donald Trump says the United States is extending its ceasefire with Iran at Pakistan’s request as he waits for a unified proposal from the Islamic Republic. The president said Tuesday he’s making the move at Pakistan’s request as he waits for a “uni…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/no-delegation-from-iran-visits-islamabad-state-television-says-as-talks-speculation-grows",
+      "bloc": "western",
+      "date": "2026-04-21",
+      "datetime": "2026-04-21T21:38:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-23T02:57:51.576Z",
+      "run_id": "2026-04-23T02:57"
+    },
+    {
+      "headline": "Beware scam messages offering ships safe transit through Hormuz Strait, says security firm",
+      "summary": "ATHENS – Fraudulent messages promising safe passage through the Strait of Hormuz in exchange for cryptocurrency have been sent to some shipping firms with vessels stranded west of the waterway, said Greek maritime risk management firm Marisks. The US has main…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4375915/posts",
+      "bloc": "western",
+      "date": "2026-04-22",
+      "datetime": "2026-04-22T02:24:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-23T02:57:51.576Z",
+      "run_id": "2026-04-23T02:57"
+    },
+    {
+      "headline": "Strait of Hormuz crisis: US blockade continues despite ceasefire extension with Iran",
+      "summary": "President Trump has extended the ceasefire with Iran. This decision comes at Pakistan's request. The United States awaits a unified proposal from Tehran. However, the US military will continue its blockade of Iranian ports. Vice President JD Vance's trip to P…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/strait-of-hormuz-crisis-us-blockade-continues-despite-ceasefire-extension-with-iran/articleshow/130429601.cms",
+      "bloc": "regional",
+      "date": "2026-04-22",
+      "datetime": "2026-04-22T00:49:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-23T02:57:51.576Z",
+      "run_id": "2026-04-23T02:57"
+    },
+    {
+      "headline": "Iraq Turns to Risky Overland Routes as Oil Exports Collapse",
+      "summary": "Iraq has been facing a critical oil export crisis since tanker traffic through the Strait of Hormuz largely seized up. About a month ago, Iraq reached a temporary agreement with Iran to allow its ships to sail through the waterway; however, additional war ris…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Iraq-Turns-to-Risky-Overland-Routes-as-Oil-Exports-Collapse.html",
+      "bloc": "western",
+      "date": "2026-04-22",
+      "datetime": "2026-04-22T00:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-23T02:57:51.576Z",
+      "run_id": "2026-04-23T02:57"
+    },
+    {
+      "headline": "Trump’s Iran Fiasco’s Silver Lining – The End of NATO",
+      "summary": "The one great big positive that has come out of the Donald’s Iran fiasco is that he has not held back in blackening the name of NATO in a manner that has heretofore been unthinkable: “NATO WASN’T THERE WHEN WE NEEDED THEM, AND THEY WON’T BE THERE IF WE NEED T…",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/david_stockman/2026/04/21/trumps-iran-fiascos-silver-lining-the-end-of-nato/",
+      "bloc": "western",
+      "date": "2026-04-22",
+      "datetime": "2026-04-22T00:00:13Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-23T02:57:51.576Z",
+      "run_id": "2026-04-23T02:57"
     }
   ],
-  "total_items_ever": 739
+  "total_items_ever": 745
 }

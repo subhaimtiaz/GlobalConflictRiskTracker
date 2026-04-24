@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-24T13:46:14.199Z",
+  "ts": "2026-04-24T19:01:16.230Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-04-24T13:46:14.199Z"
+    "updatedAt": "2026-04-24T19:01:16.229Z"
   },
   "items": [
+    {
+      "headline": "Trump orders US to 'shoot and ‌kill any ​boat' laying mines in ​the ‌Strait of ⁠Hormuz",
+      "summary": "The president has warned the US will not end its blockade of Iranian ports until Tehran strikes a deal. Follow live.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-04-24/iran-war-live-updates-us-shoot-kill-hormuz/106598082",
+      "bloc": "western",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T17:12:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "FIFA rejects Trump envoy's proposal to replace Iran with Italy at 2026 World Cup",
+      "summary": "Iran remains set to participate in the World Cup this summer, as far as FIFA boss Gianni Infantino is concerned, despite a proposal from one of U.S. President Trump's envoys to replace the Iranian national football team with Italy",
+      "source": "Alloutsoccer.com",
+      "url": "https://www.alloutsoccer.com/news/fifa-trump-envoy-iran-italy-1804243",
+      "bloc": "western",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T14:05:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "War in the Middle East: latest developments",
       "summary": "The latest developments in the Middle East war: – Trump’s Hormuz order – President Donald Trump vowed the United States would destroy any vessel laying mines in the Strait of Hormuz, as he ratchets up pressure on Iran to reopen the crucial sea passage. “I hav…",
@@ -66,65 +118,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "‎US suspends arms deliveries to NATO ally Estonia as war on Iran draining US arsenal",
-      "summary": "The United States has suspended arms deliveries to NATO ally Estonia as its aggression on Iran has put a major strain on US weapons stockpiles.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260423-presstv01.htm",
+      "headline": "Iran calls US tanker seizure piracy amid Gulf tensions",
+      "summary": "Heightened Gulf tensions risk prolonged disruptions in global oil shipments, impacting market stability and geopolitical relations.\nThe post Iran calls US tanker seizure piracy amid Gulf tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-calls-us-tanker-seizure-piracy-amid-gulf-tensions/",
       "bloc": "western",
       "date": "2026-04-23",
-      "datetime": "2026-04-23T11:53:58Z",
+      "datetime": "2026-04-23T17:28:27Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Stock Market Highlights: Sensex, Nifty close in the red amid firm trend in crude oil prices",
-      "summary": "Sensex, Nifty, Share Prices Update: Sensex closed 852 points or 1.09 per cent lower at 77,664, while the Nifty ended at 24,173,down 205 points or 0.84 per cent lower",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-market-nifty-sensex-highlights-23rd-april-2026/article70895504.ece",
+      "headline": "Iran Shows Off Its Control Over Strait, Israel Warns Of Further Attacks",
+      "summary": "Iran flaunted its tightened grip over the Strait of Hormuz on Thursday with video of its commandos storming a huge cargo ship, after the collapse of peace talks.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-strait-of-hormuz-control_n_69ea5446e4b0fe81a5285a91",
       "bloc": "western",
       "date": "2026-04-23",
-      "datetime": "2026-04-23T10:58:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iranian 'threat' to invade UAE if the US carries out ground attack as peace talk hopes dwindle",
-      "summary": "IRGC-affiliated Fars News Agency has outlined what would happen should the war, which started following a major offensive by US and Israeli forces on February 28, continue.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15758719/Iranian-threat-invade-UAE-US-attack-peace-talk.html",
-      "bloc": "western",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T13:02:53Z",
+      "datetime": "2026-04-23T17:28:04Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -144,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump orders Navy to 'shoot and kill any boat' laying mines in Hormuz Strait",
-      "summary": "President Donald Trump said he has ordered the U.S. Navy \"to shoot and kill any boat\" that is laying mines in the Strait of Hormuz.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/23/trump-hormuz-strait-iran-war.html",
+      "headline": "Iran Shows Off its Control Over Strait After Collapse of Peace Talks",
+      "summary": "Iran flaunted its tightened grip over the Strait of Hormuz on Thursday with video of its commandos storming a huge cargo ship, after the collapse of peace talks that Washington had hoped would open the world’s most important shipping corridor. …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/04/23/867103.htm",
       "bloc": "western",
       "date": "2026-04-23",
-      "datetime": "2026-04-23T12:56:56Z",
+      "datetime": "2026-04-23T16:45:40Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -165,59 +191,7 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US military says it seizes another oil tanker associated with Iran",
-      "summary": "US forces seized another tanker linked to Iranian oil smuggling in the Indian Ocean, escalating tensions after Iran captured two vessels in the Strait of Hormuz. This action, part of a broader maritime enforcement effort, aims to disrupt illicit networks supp…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-seizes-another-oil-tanker-associated-with-iran/articleshow/130468280.cms",
-      "bloc": "regional",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T12:17:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. military seizes another oil tanker linked to Iran",
-      "summary": "The U.S. military on Thursday seized another tanker associated with the smuggling of Iranian oil, ratcheting up a standoff with Iran a day after its paramilitary Revolutionary Guards took control of two vessels in the crucial Strait of Hormuz.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/united-states-military-oil-tanker-iran-9.7174312",
-      "bloc": "western",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T12:16:36Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -237,6 +211,30 @@
       ],
       "dimensions": [
         "accountability",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why China is recruiting fishermen to 'maintain presence' — not to fish",
+      "summary": "Off China's southern coast, hundreds of fishing boats sit idle. The crews aren't there to fish, but rather to \"maintain presence\" as part of a shadowy, state-funded fleet.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-04-24/south-china-sea-state-funded-fishing-boat-militia/106570054",
+      "bloc": "western",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T18:55:41Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
         "impulsivity"
       ],
       "variable_key": null,
@@ -338,30 +336,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China Slams US Hormuz Blockade as Dangerous While Sanctioned Tankers Slip Through Amid Fragile Ceasefire",
-      "summary": "BEIJING — China has sharply criticized the U.S. naval blockade of Iranian ports and the Strait of Hormuz as a \"dangerous and irresponsible\" escalation that threatens global energy security and undermines a fragile ceasefire, even as Chinese-owned tankers cont…",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/china-slams-us-hormuz-blockade-dangerous-while-sanctioned-tankers-slip-through-amid-fragile-1866879",
-      "bloc": "western",
-      "date": "2026-04-17",
-      "datetime": "2026-04-17T13:56:52Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -641,6 +615,31 @@
       "variable_key": "iranRegimeCohesion",
       "event_type": "static_variable",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Art of Failure",
+      "summary": "Donald Trump sold himself to the American people as the ultimate dealmaker during his first run for President. He argued that Obama’s poor negotiating skills had impoverished the American people, and he would Make America Great Again by getting tough with bot…",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/the-art-of-failure/",
+      "bloc": "western",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T16:00:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

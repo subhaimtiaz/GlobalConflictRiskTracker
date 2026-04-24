@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-24T03:20:21.406Z",
+  "ts": "2026-04-24T08:12:06.041Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-04-24T03:20:21.406Z"
+    "updatedAt": "2026-04-24T08:12:06.041Z"
   },
   "items": [
+    {
+      "headline": "Lebanon meets Israel in Washington to request truce extension",
+      "summary": "Israel and Lebanon hold a new round of talks in Washington on Thursday, during which Beirut plans to request a one-month extension of a ceasefire due to expire within days.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/lebanon-meets-israel-in-washington-to-request-truce-extension-221377",
+      "bloc": "western",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T06:13:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Announces Clemency for Eight Iranian Protesters, Signals Renewed Nuclear Negotiations",
+      "summary": "President Donald J. Trump announced on Wednesday, April 22, that the United States has secured clemency for eight Iranian political prisoners. In a statement, Trump said that with this humanitarian issue resolved, diplomatic talks with Iran on its nuclear pro…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-23-trump-clemency-iranian-protesters-signals-renewed-negotiations.html",
+      "bloc": "western",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Risk of Being More Than an Athlete",
       "summary": "Activism\n \n \n / \n April 23, 2026\n \r\n\n Is the WNBA’s Natasha Cloud “Getting Kapped?” \r\n\n \n The conscience of the 2026 sports world remains unsigned. Is she being blackballed?\r\n\n \nThe Risk of Being More Than an Athlete\r\n\n\n\nNatasha Cloud became one of only a few…",
@@ -66,65 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "President Trump special envoy pushing for Italy to take Iran's World Cup spot",
-      "summary": "Special envoy to President Donald Trump, Paolo Zampolli, is said to be pushing for Italy to take Iran's FIFA World Cup spot this summer, amidst the ongoing uncertainty surrounding the latter's participation",
-      "source": "Alloutsoccer.com",
-      "url": "https://www.alloutsoccer.com/news/trump-italy-iran-world-cup-1803248",
-      "bloc": "western",
-      "date": "2026-04-22",
-      "datetime": "2026-04-22T22:56:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Pentagon fired US Navy Secretary John Phelan, source says",
-      "summary": "It's another wartime shakeup at the Pentagon just weeks after Defense Secretary Pete Hegseth ousted the Army's top general.",
-      "source": "Richmond.com",
-      "url": "https://richmond.com/news/nation-world/government-politics/article_edab05a0-e72d-57d1-a18b-5f80a5da8846.html",
-      "bloc": "western",
-      "date": "2026-04-22",
-      "datetime": "2026-04-22T22:20:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US intercepts three Iranian oil tankers in Asian waters, sources say",
-      "summary": "At least three Iranian-flagged tankers have been redirected from their positions near India, Malaysia and Sri Lanka, shipping and security sources said.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-intercepts-three-iranian-oil-tankers-asian-waters-6074666",
+      "headline": "Iran releases propaganda footage of their troops seizing two ships to show the world - and Trump - who controls the Strait of Hormuz as peace talks hang in the balance",
+      "summary": "Tehran has released a propaganda video showing their troops seizing two ships in an effort to show the world - and Donald Trump - who really controls the Strait of Hormuz.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15757927/Iran-releases-propaganda-footage-troops-seizing-two-ships-world-Trump-controls-Strait-Hormuz-peace-talks-hang-balance.html",
       "bloc": "western",
       "date": "2026-04-23",
-      "datetime": "2026-04-23T02:16:12Z",
+      "datetime": "2026-04-23T07:42:40Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -144,13 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran war: US intercepts three Iranian oil tankers in Asian waters, sources say",
-      "summary": "US forces have intercepted at least three Iranian oil tankers in Asian waters. These vessels were near India, Malaysia, and Sri Lanka. The US military is redirecting them away from their locations. This action is part of a broader US blockade on Iran's mariti…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-war-us-intercepts-three-iranian-oil-tankers-in-asian-waters-sources-say/articleshow/130454457.cms",
-      "bloc": "regional",
+      "headline": "Hormuz Stalls after Iran Made First Ship Seizures",
+      "summary": "Traffic through the strait ground to a halt after Iran fired on commercial ships and said it had seized at least two vessels - a first in nearly eight weeks of war.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/",
+      "bloc": "western",
       "date": "2026-04-23",
-      "datetime": "2026-04-23T01:19:02Z",
+      "datetime": "2026-04-23T07:13:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US intercepts at least three Iranian oil tankers in Asian waters: report",
-      "summary": "The U.S. military has intercepted at least three Iranian-flagged tankers in ‌Asian waters and is redirecting them away from their positions near India, Malaysia and Sri Lanka, shipping and security sources said on Wednesday.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/04/22/us-news/us-intercepts-at-least-three-iranian-oil-tankers-in-asian-waters-report/",
+      "headline": "'If only': Indonesian MP floats toll on key international shipping route",
+      "summary": "The suggestion of levying ships using the Malacca Strait was suggested and then walked back by Indonesia's finance minister, but it has prompted a response from Canberra.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-04-23/indonesia-minister-floats-malacca-strait-toll/106596990",
       "bloc": "western",
-      "date": "2026-04-22",
-      "datetime": "2026-04-22T22:03:03Z",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T06:01:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "More confusion looms over Strait of Hormuz after Iran attacks three ships near waterway",
-      "summary": "Confusion deepened Wednesday in the Strait of Hormuz as Iran attacked three ships near the crucial waterway whose closure has plunged the world into an energy crisis after tankers carrying a fifth of the world’s oil were blocked from using the channel. The at…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/more-confusion-looms-over-strait-of-hormuz-after-iran-attacks-three-ships-near-waterway",
+      "headline": "Mad Max on the High Seas – The Fall of American Naval Power and the Rise of Security Escorts for Sea Transport",
+      "summary": "Introduction I watched a recent Fox News segment where the host gleefully boasted about the U.S. Navy seizing a foreign oil tanker in international waters. To him, it was a victory. To me, it was the moment the mask slipped. The world’s self-proclaimed ‘globa…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-23-the-fall-of-american-naval-power.html",
       "bloc": "western",
-      "date": "2026-04-22",
-      "datetime": "2026-04-22T21:27:40Z",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -217,7 +217,7 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -237,6 +237,30 @@
       ],
       "dimensions": [
         "accountability",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "China to build up more than 11,000 islands",
+      "summary": "China said on Wednesday it will further build up more than 11,000 islands it calls its own, so as to better ‌govern them, in a long-term campaign to strengthen maritime power, secure more natural resources, and reinforce territorial claims. China has built ar…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/china-urges-further-build-up-on-islands-amid-territorial-disputes",
+      "bloc": "western",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T06:00:04Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
         "impulsivity"
       ],
       "variable_key": null,
@@ -314,6 +338,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Asian shares pull back from record highs as oil gains on Iran risk",
+      "summary": "Asian shares retreat from record highs as oil prices rise amid escalating tensions in the Middle East.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/asian-shares-pull-back-from-record-highs-as-oil-gains-on-iran-risk/article70895668.ece",
+      "bloc": "western",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T04:21:01Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -403,32 +453,6 @@
       "bloc": "regional",
       "date": "2026-04-20",
       "datetime": "2026-04-20T14:10:55Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of April 20, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-04-20-2026/",
-      "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T12:51:59Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

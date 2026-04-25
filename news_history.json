@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-24T19:00:11.097Z",
+  "updated": "2026-04-25T02:48:40.694Z",
   "retention_days": 30,
   "items": [
     {
@@ -4207,76 +4207,6 @@
       "run_id": "2026-04-06T06:21"
     },
     {
-      "headline": "Pakistan's Munir Positioned as Iran War Mediator While Managing Three-Front Military Operations",
-      "summary": "Field Marshal Asim Munir held direct phone calls with President Trump while Prime Minister Sharif contacted Iranian President Pezeshkian, positioning Pakistan as venue for potential US-Iran diplomatic talks. This remarkable positioning comes as Pakistan manages military operations on its western border with Afghanistan while maintaining a fragile ceasefire with India and running an economy recently emerged from IMF bailout.",
-      "source": "Diplotic",
-      "url": "https://www.diplotic.com/pakistaniran-wars-mediator/",
-      "bloc": "regional",
-      "date": "2026-03-25",
-      "datetime": "2026-03-25T16:20:00Z",
-      "leaders": [
-        "Asim Munir",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Pakistan military",
-        "Munir",
-        "Iran ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "pakistan_diplomatic_positioning",
-      "event_type": "leader_statement",
-      "escalation": 3,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Asim Munir",
-        "dimension": "survival",
-        "proposed_delta": 2,
-        "rationale": "Successfully positioning Pakistan as indispensable mediator despite multiple security challenges",
-        "confidence": "medium"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-06T06:21:45.652Z",
-      "run_id": "2026-04-06T06:21"
-    },
-    {
-      "headline": "Trump Admits Iran War Unconstitutional, Says Avoiding 'War' Label to Dodge Congressional Approval",
-      "summary": "President Trump openly admitted at a Republican fundraising dinner that he avoids using the word 'war' for the Iran conflict because 'you're supposed to get approval' from Congress. Trump said he will use 'military operation' instead, effectively acknowledging that his Iran campaign violates constitutional requirements for congressional war authorization.",
-      "source": "Truthout",
-      "url": "https://truthout.org/articles/trump-admits-iran-war-is-unconstitutional-youre-supposed-to-get-approval/",
-      "bloc": "western",
-      "date": "2026-03-25",
-      "datetime": "2026-03-25T19:30:00Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "War Powers",
-        "Trump impeach"
-      ],
-      "dimensions": [
-        "accountability",
-        "narcissism"
-      ],
-      "variable_key": "us_constitutional_violation",
-      "event_type": "leader_statement",
-      "escalation": 2,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Donald J. Trump",
-        "dimension": "accountability",
-        "proposed_delta": -2,
-        "rationale": "Openly acknowledging constitutional violations while continuing unauthorized military operations",
-        "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-06T06:21:45.652Z",
-      "run_id": "2026-04-06T06:21"
-    },
-    {
       "headline": "The rise of a Military Junta",
       "summary": "The war broke the Islamic Caliphate of Shi’ism but hardened its inner core, elevating the junta within while clerical authority is a façade. U.S. and Israeli strikes have eroded Iran’s conventional and nuclear capability while empowering the IRGC, intensifyin…",
       "source": "Israelnationalnews.com",
@@ -4462,42 +4392,6 @@
         "proposed_delta": -3,
         "rationale": "Extended absence amid war suggests possible incapacitation or reduced control over power apparatus",
         "confidence": "medium"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-06T14:40:51.233Z",
-      "run_id": "2026-04-06T14:40"
-    },
-    {
-      "headline": "Saudi Crown Prince MBS Pushes Trump to Continue Iran War Despite 'Productive' Ceasefire Claims",
-      "summary": "Mohammed bin Salman reportedly urged Trump in multiple calls to maintain military pressure on Iran, fearing failed state scenario. Crown Prince warns premature withdrawal would leave Gulf facing 'emboldened and furious' Iran without Western backing.",
-      "source": "The Jewish Chronicle",
-      "url": "https://www.thejc.com/news/world/saudi-mbs-us-continue-iran-war-ba5isi1s",
-      "bloc": "regional",
-      "date": "2026-03-25",
-      "datetime": "2026-03-25T11:24:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Saudi Arabia Iran",
-        "MBS",
-        "Iran ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "mbs_iran_stance",
-      "event_type": "leader_statement",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Mohammed bin Salman",
-        "dimension": "survival",
-        "proposed_delta": 2,
-        "rationale": "Prioritizing regime survival over regional stability by advocating continued warfare to prevent Iranian retaliation",
-        "confidence": "high"
       },
       "_from": "claude",
       "first_seen": "2026-04-06T14:40:51.233Z",
@@ -20257,7 +20151,230 @@
       "_from": "newsapi",
       "first_seen": "2026-04-24T19:00:11.097Z",
       "run_id": "2026-04-24T19:00"
+    },
+    {
+      "headline": "The Latest: Trump orders US military to shoot Iranian boats as Hormuz tensions escalate",
+      "summary": "The standoff has disrupted global oil flows, while parallel diplomatic efforts continue with an extended Israel-Lebanon ceasefire and broader regional uncertainty.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/the-latest-trump-orders-us-military-to-shoot-iranian-boats-as-hormuz-tensions-escalate/article70900127.ece",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T00:42:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-25T02:48:40.693Z",
+      "run_id": "2026-04-25T02:48"
+    },
+    {
+      "headline": "Trump says Israel-Lebanon ceasefire extended, hints at wider peace talks",
+      "summary": "Israel and Lebanon extend ceasefire by three weeks after US talks led by Trump, amid Hezbollah tensions and renewed push for broader peace negotiations.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-says-israel-lebanon-ceasefire-extended-hints-at-wider-peace-talks/article70900126.ece",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T00:39:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-25T02:48:40.693Z",
+      "run_id": "2026-04-25T02:48"
+    },
+    {
+      "headline": "US says it does not object to Iran playing in World Cup but people with ties to IRGC won't be allowed",
+      "summary": "WASHINGTON, April 23 : U.S. Secretary of State Marco Rubio said on Thursday Washington had no objections to Iranian players participating in the 2026 FIFA World Cup but he added the players will not be allowed to bring with them people with ties to Iran's Isl…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/sport/us-says-it-does-not-object-iran-playing-in-world-cup-people-ties-irgc-wont-be-allowed-6077591",
+      "bloc": "western",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T23:41:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-25T02:48:40.693Z",
+      "run_id": "2026-04-25T02:48"
+    },
+    {
+      "headline": "Lebanon-Israel ceasefire extended by three weeks after Oval Office meeting",
+      "summary": "The ceasefire between Lebanon and Israel was extended for three weeks after a high-level meeting at the White House, U.S. President Donald Trump said on Thursday. Trump hosted Israel's ambassador to ‌Washington Yechiel Leiter and Lebanese ambassador to the U.…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/lebanon-israel-ceasefire-extended-by-three-weeks-after-oval-office-meeting",
+      "bloc": "western",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T22:56:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-25T02:48:40.693Z",
+      "run_id": "2026-04-25T02:48"
+    },
+    {
+      "headline": "Iran seizes vessel in Strait of Hormuz, defying US naval superiority",
+      "summary": "US-Iran war news: Tehran showcased its power over the Strait of Hormuz with a video of commandos boarding a cargo ship. This comes after peace talks with the US collapsed. President Trump dismissed Iran's actions but warned of military action if a deal is not…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-seizes-vessel-in-strait-of-hormuz-defying-us-naval-superiority/articleshow/130481083.cms",
+      "bloc": "regional",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T00:37:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-25T02:48:40.693Z",
+      "run_id": "2026-04-25T02:48"
+    },
+    {
+      "headline": "Oil hits $105 amid renewed Middle East tensions",
+      "summary": "Oil prices rise above $105 per barrel following failed US-Iran talks over the Strait of Hormuz, escalating tensions and disrupting global oil supply.\n\nRead More: https://punchng.com/oil-hits-105-amid-renewed-middle-east-tensions/",
+      "source": "The Punch",
+      "url": "https://punchng.com/oil-hits-105-amid-renewed-middle-east-tensions/",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T00:05:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-25T02:48:40.693Z",
+      "run_id": "2026-04-25T02:48"
+    },
+    {
+      "headline": "Iran shows off its control over strait; Israel warns of further attacks",
+      "summary": "Iran flaunted its tightened grip over the Strait of Hormuz on Thursday with video of its commandos storming a huge cargo ship, after the collapse of peace talks that Washington had hoped would open the world's most important shipping corridor. Iranian ‌state …",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/iran-shows-off-its-control-over-strait-israel-warns-of-further-attacks1",
+      "bloc": "western",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T21:40:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-25T02:48:40.693Z",
+      "run_id": "2026-04-25T02:48"
+    },
+    {
+      "headline": "Anzac then and now: as trans-Tasman defence relations get closer, NZ must be on guard",
+      "summary": "In an increasingly unstable world, building the defence relationship with Australia makes sense. But New Zealand has to safeguard its military sovereignty, too.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/anzac-then-and-now-as-trans-tasman-defence-relations-get-closer-nz-must-be-on-guard-281109",
+      "bloc": "western",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T22:20:05Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-25T02:48:40.693Z",
+      "run_id": "2026-04-25T02:48"
     }
   ],
-  "total_items_ever": 805
+  "total_items_ever": 813
 }

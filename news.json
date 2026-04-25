@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-24T19:01:16.230Z",
+  "ts": "2026-04-25T02:49:45.823Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,43 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-04-24T19:01:16.229Z"
+    "updatedAt": "2026-04-25T02:49:45.823Z"
   },
   "items": [
     {
-      "headline": "Trump orders US to 'shoot and ‌kill any ​boat' laying mines in ​the ‌Strait of ⁠Hormuz",
-      "summary": "The president has warned the US will not end its blockade of Iranian ports until Tehran strikes a deal. Follow live.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-04-24/iran-war-live-updates-us-shoot-kill-hormuz/106598082",
+      "headline": "The Latest: Trump orders US military to shoot Iranian boats as Hormuz tensions escalate",
+      "summary": "The standoff has disrupted global oil flows, while parallel diplomatic efforts continue with an extended Israel-Lebanon ceasefire and broader regional uncertainty.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/the-latest-trump-orders-us-military-to-shoot-iranian-boats-as-hormuz-tensions-escalate/article70900127.ece",
       "bloc": "western",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T17:12:02Z",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T00:42:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump says Israel-Lebanon ceasefire extended, hints at wider peace talks",
+      "summary": "Israel and Lebanon extend ceasefire by three weeks after US talks led by Trump, amid Hezbollah tensions and renewed push for broader peace negotiations.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-says-israel-lebanon-ceasefire-extended-hints-at-wider-peace-talks/article70900126.ece",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T00:39:44Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "FIFA rejects Trump envoy's proposal to replace Iran with Italy at 2026 World Cup",
-      "summary": "Iran remains set to participate in the World Cup this summer, as far as FIFA boss Gianni Infantino is concerned, despite a proposal from one of U.S. President Trump's envoys to replace the Iranian national football team with Italy",
-      "source": "Alloutsoccer.com",
-      "url": "https://www.alloutsoccer.com/news/fifa-trump-envoy-iran-italy-1804243",
+      "headline": "US says it does not object to Iran playing in World Cup but people with ties to IRGC won't be allowed",
+      "summary": "WASHINGTON, April 23 : U.S. Secretary of State Marco Rubio said on Thursday Washington had no objections to Iranian players participating in the 2026 FIFA World Cup but he added the players will not be allowed to bring with them people with ties to Iran's Isl…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/sport/us-says-it-does-not-object-iran-playing-in-world-cup-people-ties-irgc-wont-be-allowed-6077591",
       "bloc": "western",
       "date": "2026-04-23",
-      "datetime": "2026-04-23T14:05:30Z",
+      "datetime": "2026-04-23T23:41:30Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +92,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "War in the Middle East: latest developments",
-      "summary": "The latest developments in the Middle East war: – Trump’s Hormuz order – President Donald Trump vowed the United States would destroy any vessel laying mines in the Strait of Hormuz, as he ratchets up pressure on Iran to reopen the crucial sea passage. “I hav…",
-      "source": "Digital Journal",
-      "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-55/article",
+      "headline": "Lebanon-Israel ceasefire extended by three weeks after Oval Office meeting",
+      "summary": "The ceasefire between Lebanon and Israel was extended for three weeks after a high-level meeting at the White House, U.S. President Donald Trump said on Thursday. Trump hosted Israel's ambassador to ‌Washington Yechiel Leiter and Lebanese ambassador to the U.…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/lebanon-israel-ceasefire-extended-by-three-weeks-after-oval-office-meeting",
       "bloc": "western",
       "date": "2026-04-23",
-      "datetime": "2026-04-23T13:42:20Z",
+      "datetime": "2026-04-23T22:56:23Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran: Daily life shadowed by war, scarcity and fear",
-      "summary": "The US naval blockade aims to put pressure on Tehran, but the effects are mostly felt by ordinary Iranians. Many of them find their lives shaped by growing exhaustion.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/iran-daily-life-shadowed-by-war-scarcity-and-fear/a-76912143",
+      "headline": "Turkey Accuses Israeli PM of War Crimes, Issues Formal Statement Comparing Him to Hitler",
+      "summary": "Introduction On April 12, 2026, Turkey formally accused Israeli Prime Minister Benjamin Netanyahu of war crimes and crimes against humanity, issuing a statement from its foreign ministry that described him as the ‘Hitler of our time’ [1]. The accusation was m…",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/turkey-accuses-israeli-pm-of-war-crimes-issues-formal-statement-comparing-him-to-hitler/",
       "bloc": "western",
       "date": "2026-04-23",
-      "datetime": "2026-04-23T13:05:00Z",
+      "datetime": "2026-04-23T22:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -118,13 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran calls US tanker seizure piracy amid Gulf tensions",
-      "summary": "Heightened Gulf tensions risk prolonged disruptions in global oil shipments, impacting market stability and geopolitical relations.\nThe post Iran calls US tanker seizure piracy amid Gulf tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-calls-us-tanker-seizure-piracy-amid-gulf-tensions/",
+      "headline": "US military says it seizes another oil tanker associated with Iran",
+      "summary": "US military says it seizes another oil tanker associated with Iranlocal10.com",
+      "source": "WPLG Local 10",
+      "url": "https://www.local10.com/business/2026/04/23/us-military-says-it-seizes-another-oil-tanker-associated-with-iran/",
       "bloc": "western",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T17:28:27Z",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T00:43:36Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -144,13 +170,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Shows Off Its Control Over Strait, Israel Warns Of Further Attacks",
-      "summary": "Iran flaunted its tightened grip over the Strait of Hormuz on Thursday with video of its commandos storming a huge cargo ship, after the collapse of peace talks.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-strait-of-hormuz-control_n_69ea5446e4b0fe81a5285a91",
+      "headline": "Iran seizes vessel in Strait of Hormuz, defying US naval superiority",
+      "summary": "US-Iran war news: Tehran showcased its power over the Strait of Hormuz with a video of commandos boarding a cargo ship. This comes after peace talks with the US collapsed. President Trump dismissed Iran's actions but warned of military action if a deal is not…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-seizes-vessel-in-strait-of-hormuz-defying-us-naval-superiority/articleshow/130481083.cms",
+      "bloc": "regional",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T00:37:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil hits $105 amid renewed Middle East tensions",
+      "summary": "Oil prices rise above $105 per barrel following failed US-Iran talks over the Strait of Hormuz, escalating tensions and disrupting global oil supply.\n\nRead More: https://punchng.com/oil-hits-105-amid-renewed-middle-east-tensions/",
+      "source": "The Punch",
+      "url": "https://punchng.com/oil-hits-105-amid-renewed-middle-east-tensions/",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T00:05:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran shows off its control over strait; Israel warns of further attacks",
+      "summary": "Iran flaunted its tightened grip over the Strait of Hormuz on Thursday with video of its commandos storming a huge cargo ship, after the collapse of peace talks that Washington had hoped would open the world's most important shipping corridor. Iranian ‌state …",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/iran-shows-off-its-control-over-strait-israel-warns-of-further-attacks1",
       "bloc": "western",
       "date": "2026-04-23",
-      "datetime": "2026-04-23T17:28:04Z",
+      "datetime": "2026-04-23T21:40:09Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -166,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Shows Off its Control Over Strait After Collapse of Peace Talks",
-      "summary": "Iran flaunted its tightened grip over the Strait of Hormuz on Thursday with video of its commandos storming a huge cargo ship, after the collapse of peace talks that Washington had hoped would open the world’s most important shipping corridor. …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/04/23/867103.htm",
-      "bloc": "western",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T16:45:40Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -619,6 +671,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Anzac then and now: as trans-Tasman defence relations get closer, NZ must be on guard",
+      "summary": "In an increasingly unstable world, building the defence relationship with Australia makes sense. But New Zealand has to safeguard its military sovereignty, too.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/anzac-then-and-now-as-trans-tasman-defence-relations-get-closer-nz-must-be-on-guard-281109",
+      "bloc": "western",
+      "date": "2026-04-23",
+      "datetime": "2026-04-23T22:20:05Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The Art of Failure",
       "summary": "Donald Trump sold himself to the American people as the ultimate dealmaker during his first run for President. He argued that Obama’s poor negotiating skills had impoverished the American people, and he would Make America Great Again by getting tough with bot…",
       "source": "Activistpost.com",
@@ -724,52 +801,6 @@
       "bloc": "western",
       "date": "2026-04-18",
       "datetime": "2026-04-18T14:14:01Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine’s long-range strikes prompt new Russian threat against Europe",
-      "summary": "Ukraine has penetrated Russian airspace with unprecedented numbers of drones, denying Russia windfall oil profits.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/4/17/ukraines-long-range-strikes-prompt-new-russian-threat-against-europe",
-      "bloc": "regional",
-      "date": "2026-04-17",
-      "datetime": "2026-04-17T15:46:03Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia Struggles to Put Out Tuapse Port Fire After Drone Strike",
-      "summary": "Russia’s emergency services are stepping up efforts to extinguish a massive fire in the Black Sea port city of Tuapse after a Ukrainian drone attack that happened more than 24 hours earlier.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/russia-struggles-to-put-out-tuapse-port-fire-after-drone-strike",
-      "bloc": "western",
-      "date": "2026-04-17",
-      "datetime": "2026-04-17T11:14:37Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

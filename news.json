@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-25T02:49:45.823Z",
+  "ts": "2026-04-25T07:25:23.337Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-04-25T02:49:45.823Z"
+    "updatedAt": "2026-04-25T07:25:23.337Z"
   },
   "items": [
     {
-      "headline": "The Latest: Trump orders US military to shoot Iranian boats as Hormuz tensions escalate",
-      "summary": "The standoff has disrupted global oil flows, while parallel diplomatic efforts continue with an extended Israel-Lebanon ceasefire and broader regional uncertainty.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/the-latest-trump-orders-us-military-to-shoot-iranian-boats-as-hormuz-tensions-escalate/article70900127.ece",
+      "headline": "Pentagon email floats suspending Spain from Nato over Iran rift, source says",
+      "summary": "Memo also includes option to consider reassessing US diplomatic support for long-standing European ‘imperial possessions’ such as the Falkland Islands",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/us/2026/04/24/pentagon-email-floats-suspending-spain-from-nato-over-iran-rift-source-says/",
       "bloc": "western",
       "date": "2026-04-24",
-      "datetime": "2026-04-24T00:42:33Z",
+      "datetime": "2026-04-24T06:22:40Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -35,18 +35,18 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Trump says Israel-Lebanon ceasefire extended, hints at wider peace talks",
-      "summary": "Israel and Lebanon extend ceasefire by three weeks after US talks led by Trump, amid Hezbollah tensions and renewed push for broader peace negotiations.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-says-israel-lebanon-ceasefire-extended-hints-at-wider-peace-talks/article70900126.ece",
+      "headline": "Diplomatic thaw or temporary truce? Trump brokers extended Israel-Lebanon ceasefire amid Hezbollah defiance",
+      "summary": "President Donald Trump announced a 3-week extension of the Israel-Lebanon ceasefire after April 23, White House talks, building on an initial 10-day truce. Lebanese President Joseph Aoun pushed for Israeli troop withdrawal, end to home demolitions, prisoner r…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-24-trump-brokers-extended-israel-lebanon-ceasefire-amid-hezbollah-defiance.html",
       "bloc": "western",
       "date": "2026-04-24",
-      "datetime": "2026-04-24T00:39:44Z",
+      "datetime": "2026-04-24T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,91 +66,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US says it does not object to Iran playing in World Cup but people with ties to IRGC won't be allowed",
-      "summary": "WASHINGTON, April 23 : U.S. Secretary of State Marco Rubio said on Thursday Washington had no objections to Iranian players participating in the 2026 FIFA World Cup but he added the players will not be allowed to bring with them people with ties to Iran's Isl…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/sport/us-says-it-does-not-object-iran-playing-in-world-cup-people-ties-irgc-wont-be-allowed-6077591",
-      "bloc": "western",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T23:41:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Lebanon-Israel ceasefire extended by three weeks after Oval Office meeting",
-      "summary": "The ceasefire between Lebanon and Israel was extended for three weeks after a high-level meeting at the White House, U.S. President Donald Trump said on Thursday. Trump hosted Israel's ambassador to ‌Washington Yechiel Leiter and Lebanese ambassador to the U.…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/lebanon-israel-ceasefire-extended-by-three-weeks-after-oval-office-meeting",
-      "bloc": "western",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T22:56:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Turkey Accuses Israeli PM of War Crimes, Issues Formal Statement Comparing Him to Hitler",
-      "summary": "Introduction On April 12, 2026, Turkey formally accused Israeli Prime Minister Benjamin Netanyahu of war crimes and crimes against humanity, issuing a statement from its foreign ministry that described him as the ‘Hitler of our time’ [1]. The accusation was m…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/turkey-accuses-israeli-pm-of-war-crimes-issues-formal-statement-comparing-him-to-hitler/",
-      "bloc": "western",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T22:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US military says it seizes another oil tanker associated with Iran",
-      "summary": "US military says it seizes another oil tanker associated with Iranlocal10.com",
-      "source": "WPLG Local 10",
-      "url": "https://www.local10.com/business/2026/04/23/us-military-says-it-seizes-another-oil-tanker-associated-with-iran/",
+      "headline": "Oil extends gains, stocks sink as peace talk hopes fade",
+      "summary": "Oil prices extended gains Friday and stocks struggled as investors worried about a lack of progress in ending the Middle East crisis, with Tehran keeping the Strait of Hormuz closed and the U.S. maintaining a blockade of Iranian ports.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/oil-extends-gains-stocks-sink-as-peace-talk-hopes-fade-221408",
       "bloc": "western",
       "date": "2026-04-24",
-      "datetime": "2026-04-24T00:43:36Z",
+      "datetime": "2026-04-24T05:51:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israel, Lebanon extend ceasefire as Iran peace talks stall",
+      "summary": "Israel and Lebanon extended a shaky ceasefire by three weeks, President Donald Trump said Thursday, as the United States remained at a standstill in negotiations with Iran to end the Middle East war.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/israel-lebanon-extend-ceasefire-as-iran-peace-talks-stall-221407",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T05:48:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Maritime Law and US Naval Power Under Stress Even Before Strait of Hormuz Standoff",
+      "summary": "The old maritime order was at best a gentleman's agreement. What comes next?",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/04/maritime-law-and-us-naval-power-under-stress-even-before-strait-of-hormuz-standoff.html",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T06:54:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,65 +144,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran seizes vessel in Strait of Hormuz, defying US naval superiority",
-      "summary": "US-Iran war news: Tehran showcased its power over the Strait of Hormuz with a video of commandos boarding a cargo ship. This comes after peace talks with the US collapsed. President Trump dismissed Iran's actions but warned of military action if a deal is not…",
+      "headline": "Israel-Lebanon ceasefire extended by three weeks, says Trump",
+      "summary": "US president Donald Trump said he had issued 'shoot and kill' order for Strait of Hormuz mine boats",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/24/us-iran-war-live-updates-israel-lebanon-trump/",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T05:45:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US troop numbers arriving at Shannon soar 80%",
+      "summary": "More than 3,000 US troops passed through airport during March after Iran conflict started",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/ireland/2026/04/24/us-troop-numbers-arriving-at-shannon-soar-80/",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T05:00:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran fast-boat swarms add to Hormuz threats for shipping",
+      "summary": "Iran's fast boats are now a key naval tactic. These small, speedy vessels pose a significant challenge to international shipping near the Strait of Hormuz. Their use highlights Iran's evolving asymmetrical warfare strategy. This development complicates effort…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-seizes-vessel-in-strait-of-hormuz-defying-us-naval-superiority/articleshow/130481083.cms",
+      "url": "https://economictimes.indiatimes.com/news/defence/irans-fast-boats-a-new-threat-to-global-shipping-in-the-strait-of-hormuz/articleshow/130482555.cms",
       "bloc": "regional",
       "date": "2026-04-24",
-      "datetime": "2026-04-24T00:37:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil hits $105 amid renewed Middle East tensions",
-      "summary": "Oil prices rise above $105 per barrel following failed US-Iran talks over the Strait of Hormuz, escalating tensions and disrupting global oil supply.\n\nRead More: https://punchng.com/oil-hits-105-amid-renewed-middle-east-tensions/",
-      "source": "The Punch",
-      "url": "https://punchng.com/oil-hits-105-amid-renewed-middle-east-tensions/",
-      "bloc": "western",
-      "date": "2026-04-24",
-      "datetime": "2026-04-24T00:05:02Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran shows off its control over strait; Israel warns of further attacks",
-      "summary": "Iran flaunted its tightened grip over the Strait of Hormuz on Thursday with video of its commandos storming a huge cargo ship, after the collapse of peace talks that Washington had hoped would open the world's most important shipping corridor. Iranian ‌state …",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/iran-shows-off-its-control-over-strait-israel-warns-of-further-attacks1",
-      "bloc": "western",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T21:40:09Z",
+      "datetime": "2026-04-24T03:32:50Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -244,6 +218,56 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
+      "summary": "Jump in prices comes as Donald Trump says vessels will need permission of US Navy to transit key waterway.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz",
+      "bloc": "regional",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T02:50:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump’s May 1 deadline: Can he continue war on Iran after that?",
+      "summary": "Trump is obliged under the War Powers Act to limit the conflict after 60 days with congressional approval.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/4/24/trumps-may-1-deadline-can-he-continue-war-on-iran-after-that",
+      "bloc": "regional",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T06:20:23Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "Trump Iran war"
+      ],
+      "dimensions": [
+        "accountability",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -392,6 +416,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Reliance seen posting quarterly profit fall on crude price surge",
+      "summary": "Jefferies said the operating profit in the oil-to-chemicals\nsegment is likely to be hit by the scarcity premium on crude,\nhigher freight ‌costs and increased production of loss-making\nliquefied petroleum gas",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/companies/reliance-seen-posting-quarterly-profit-fall-on-crude-price-surge/article70900287.ece",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T03:36:55Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Asian shares pull back from record highs as oil gains on Iran risk",
       "summary": "Asian shares retreat from record highs as oil prices rise amid escalating tensions in the Middle East.",
       "source": "BusinessLine",
@@ -477,32 +527,6 @@
       "bloc": "western",
       "date": "2026-04-21",
       "datetime": "2026-04-21T09:35:15Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Traveling this summer? Major airlines cut routes — check the list to see if you are affected",
-      "summary": "Airlines Cut Routes Due to Rising Fuel Costs from the Iran War — Is Your Summer Flight at Risk? Jet fuel prices have doubled since the war in Iran began on February 28, 2026, and the global aviation industry is now paying a brutal price. Air Canada, Delta, KL…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/traveling-this-summer-major-airlines-cut-routes-check-the-list-to-see-if-you-are-affected/articleshow/130392236.cms",
-      "bloc": "regional",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T14:10:55Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

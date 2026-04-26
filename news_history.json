@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-26T03:26:02.516Z",
+  "updated": "2026-04-26T07:45:44.939Z",
   "retention_days": 30,
   "items": [
     {
@@ -21269,7 +21269,119 @@
       "_from": "newsapi",
       "first_seen": "2026-04-26T03:26:02.516Z",
       "run_id": "2026-04-26T03:26"
+    },
+    {
+      "headline": "US envoys heading to Pakistan for uncertain Iran talks",
+      "summary": "U.S. envoys headed to the Pakistani capital on April 25 in a bid to kickstart a new round of peace negotiations with Iran amid a fragile ceasefire, though the prospect of direct talks remained uncertain.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-envoys-heading-to-pakistan-for-uncertain-iran-talks-221460",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T06:54:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-26T07:45:44.939Z",
+      "run_id": "2026-04-26T07:45"
+    },
+    {
+      "headline": "Israel Prepared for Renewed Iran Conflict, Awaiting U.S. Approval, Defense Minister Says",
+      "summary": "Israeli Defense Minister Israel Katz stated on Thursday, April 23, that the country’s military is prepared to renew the war against Iran but is waiting for a U.S. green light to proceed, according to separate reports from Israeli media and a statement posted …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-25-katz-israel-prepared-for-renewed-iran-conflict.html",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-26T07:45:44.939Z",
+      "run_id": "2026-04-26T07:45"
+    },
+    {
+      "headline": "Iran's foreign minister awaits U.S. delegation to Pakistan for peace talks",
+      "summary": "Iran's Abbas Araghchi arrived in Islamabad on Friday, as the White House confirmed Steve Witkoff and Jared Kushner will travel there Saturday to try to \"move the ball forward towards a deal.\"",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T06:35:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-26T07:45:44.939Z",
+      "run_id": "2026-04-26T07:45"
+    },
+    {
+      "headline": "Iran’s foreign minister heads to Islamabad, raising hopes for fresh peace talks with US",
+      "summary": "Iran’s foreign minister Abbas Araqchi was expected in the Pakistani capital Islamabad on Friday to discuss proposals for restarting peace talks with the United States, but Pakistani sources said he was not due to meet US negotiators there.",
+      "source": "Independent.ie",
+      "url": "https://www.independent.ie/world-news/irans-foreign-minister-heads-to-islamabad-raising-hopes-for-fresh-peace-talks-with-us/a882763531.html",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T04:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-26T07:45:44.939Z",
+      "run_id": "2026-04-26T07:45"
     }
   ],
-  "total_items_ever": 850
+  "total_items_ever": 854
 }

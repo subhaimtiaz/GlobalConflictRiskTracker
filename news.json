@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-26T03:27:07.781Z",
+  "ts": "2026-04-26T07:46:50.077Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-04-26T03:27:07.781Z"
+    "updatedAt": "2026-04-26T07:46:50.077Z"
   },
   "items": [
+    {
+      "headline": "US envoys heading to Pakistan for uncertain Iran talks",
+      "summary": "U.S. envoys headed to the Pakistani capital on April 25 in a bid to kickstart a new round of peace negotiations with Iran amid a fragile ceasefire, though the prospect of direct talks remained uncertain.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-envoys-heading-to-pakistan-for-uncertain-iran-talks-221460",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T06:54:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israel Prepared for Renewed Iran Conflict, Awaiting U.S. Approval, Defense Minister Says",
+      "summary": "Israeli Defense Minister Israel Katz stated on Thursday, April 23, that the country’s military is prepared to renew the war against Iran but is waiting for a U.S. green light to proceed, according to separate reports from Israeli media and a statement posted …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-25-katz-israel-prepared-for-renewed-iran-conflict.html",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "India Denies Ship Made Crypto Payments to Iran for Strait of Hormuz Passage",
       "summary": "After the Sanmar Herald was recently fired upon, a maritime risk management firm issued warnings about scammers pretending to represent Iranian government officials.\nThe post India Denies Ship Made Crypto Payments to Iran for Strait of Hormuz Passage first ap…",
@@ -66,79 +118,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Reality check: Israeli ambitions confront US dictates in Iran and Lebanon",
-      "summary": "Ceasefires with Iran and Lebanon appear imposed by the US rather than negotiated by Israel, much to latter's unease.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/4/24/reality-check-israeli-ambitions-confront-us-dictates-in-iran-and-lebanon",
-      "bloc": "regional",
-      "date": "2026-04-24",
-      "datetime": "2026-04-24T18:21:33Z",
+      "headline": "Iran's foreign minister awaits U.S. delegation to Pakistan for peace talks",
+      "summary": "Iran's Abbas Araghchi arrived in Islamabad on Friday, as the White House confirmed Steve Witkoff and Jared Kushner will travel there Saturday to try to \"move the ball forward towards a deal.\"",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T06:35:21Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Dispatches Witkoff And Kushner To Pakistan For New Talks With Iran's Foreign Minister",
-      "summary": "White House press secretary Karoline Leavitt said in an interview that the two will have talks with Iranian Foreign Minister Abbas Araghchi.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/witkoff-kushner-iran-pakistan-talks_n_69eba600e4b08330e41c23de",
+      "headline": "Iran’s foreign minister heads to Islamabad, raising hopes for fresh peace talks with US",
+      "summary": "Iran’s foreign minister Abbas Araqchi was expected in the Pakistani capital Islamabad on Friday to discuss proposals for restarting peace talks with the United States, but Pakistani sources said he was not due to meet US negotiators there.",
+      "source": "Independent.ie",
+      "url": "https://www.independent.ie/world-news/irans-foreign-minister-heads-to-islamabad-raising-hopes-for-fresh-peace-talks-with-us/a882763531.html",
       "bloc": "western",
-      "date": "2026-04-24",
-      "datetime": "2026-04-24T17:39:02Z",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T04:30:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "What Hormuz Whiplash Means For Markets",
-      "summary": "Daily changes in the status of shipping in the Strait of Hormuz are having grave impacts, more in volatility and uncertainty beyond anything else.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/arielcohen/2026/04/24/what-hormuz-whiplash-means-for-markets/",
-      "bloc": "western",
-      "date": "2026-04-24",
-      "datetime": "2026-04-24T17:08:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -218,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US targets China refinery in sweeping Iran oil crackdown, sanctions ‘shadow fleet’ tankers",
-      "summary": "The OFAC sanctioned a major Chinese oil refinery and dozens of Iran-linked shadow fleet vessels in an escalation of a maximum pressure campaign on Tehran.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/us-targets-china-refinery-sweeping-iran-oil-crackdown-sanctions-shadow-fleet-tankers",
-      "bloc": "western",
-      "date": "2026-04-24",
-      "datetime": "2026-04-24T19:19:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

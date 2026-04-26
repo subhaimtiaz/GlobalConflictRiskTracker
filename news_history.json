@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-25T19:00:14.504Z",
+  "updated": "2026-04-26T03:26:02.516Z",
   "retention_days": 30,
   "items": [
     {
@@ -1390,32 +1390,6 @@
       "run_id": "2026-04-03T19:58"
     },
     {
-      "headline": "NATO 2025 Annual Report emphasizes 5% GDP defense spending target amid alliance strain",
-      "summary": "Secretary General Rutte's March 26 report stresses accelerated military capability buildup with nuclear, conventional, and cyber forces. Document highlights resilience needs and hybrid threat countering as central spending justification amid US-Europe tensions.",
-      "source": "NATO",
-      "url": null,
-      "bloc": "institutional",
-      "date": "2026-03-26",
-      "datetime": "2026-03-26T10:00:00Z",
-      "leaders": [
-        "Mark Rutte"
-      ],
-      "watch_terms": [
-        "NATO Ukraine"
-      ],
-      "dimensions": [
-        "accountability",
-        "survival"
-      ],
-      "variable_key": "nato_spending_pressure",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-03T19:58:01.568Z",
-      "run_id": "2026-04-03T19:58"
-    },
-    {
       "headline": "US Burned 14 Years of Missiles in 30 Days",
       "summary": "The US fired 850 Tomahawk missiles in 30 days but buys only 57 a year. As munitions run dry, the Pentagon pivots to ground troops in Iran, guaranteeing the Strait of Hormuz stays closed, European gas storage hits crisis levels, and Western energy prices keep …",
       "source": "Trendytechtribe.com",
@@ -2251,33 +2225,6 @@
       "run_id": "2026-04-04T08:03"
     },
     {
-      "headline": "Israeli Strike Kills Iranian Navy Commander Alireza Tangsiri",
-      "summary": "Israeli Defense Minister Israel Katz confirmed that IRGC Navy Commander Alireza Tangsiri was killed in an airstrike on 26 March, accusing him of direct responsibility for the Strait of Hormuz closure.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/26/tehranstollbooth-how-iran-picks-who-to-let-through-strait-of-hormuz",
-      "bloc": "western",
-      "date": "2026-03-26",
-      "datetime": "2026-03-26T14:00:00Z",
-      "leaders": [
-        "Benjamin Netanyahu",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Strait Hormuz",
-        "IRGC"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 5,
-      "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-04T08:03:12.048Z",
-      "run_id": "2026-04-04T08:03"
-    },
-    {
       "headline": "Trump Administration Approaches 60-Day War Powers Resolution Deadline on Iran",
       "summary": "President Trump faces mounting congressional pressure as the 60-day War Powers Resolution deadline approaches, with Congress yet to authorize the Iran military operation despite ongoing combat.",
       "source": "Military.com",
@@ -2656,39 +2603,6 @@
       "run_id": "2026-04-04T14:06"
     },
     {
-      "headline": "Trump extends Iran deadline for Hormuz reopening to April 6 citing ongoing negotiations",
-      "summary": "Trump posted on Truth Social pausing energy plant destruction deadline by 10 days to April 6, citing Iranian government request. Administration claims talks going 'very well' despite Iran's denials of negotiations.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/03/26/nx-s1-5761882/iran-war-peace-conditions",
-      "bloc": "western",
-      "date": "2026-03-26",
-      "datetime": "2026-03-26T00:00:00Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Iran ceasefire",
-        "Trump"
-      ],
-      "dimensions": [
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 3,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Donald J. Trump",
-        "dimension": "impulsivity",
-        "proposed_delta": -1,
-        "rationale": "Extended deadline shows restraint from immediate action despite ultimatum rhetoric",
-        "confidence": "medium"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-04T14:06:45.174Z",
-      "run_id": "2026-04-04T14:06"
-    },
-    {
       "headline": "US forces strike 8,000 Iranian military targets including 130 vessels in Hormuz operations",
       "summary": "Admiral Brad Cooper reported US military struck over 8,000 Iranian military targets including 130 vessels in campaign to reopen Strait of Hormuz. Operations represent massive escalation of US direct military engagement against Iranian forces.",
       "source": "Wikipedia",
@@ -2703,28 +2617,6 @@
       "dimensions": [],
       "variable_key": null,
       "event_type": "regional_strike",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": null,
-      "_from": "claude",
-      "first_seen": "2026-04-04T14:06:45.174Z",
-      "run_id": "2026-04-04T14:06"
-    },
-    {
-      "headline": "Israel kills IRGC Navy commander Alireza Tangsiri in overnight strike confirmed by Pakistan mediator",
-      "summary": "Israel's Defense Minister Israel Katz announced killing of Alireza Tangsiri, head of Iranian Revolutionary Guard's navy, in overnight strike. Pakistani official following negotiations confirmed the death, representing targeted elimination of key Iranian military leader.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/03/26/nx-s1-5761882/iran-war-peace-conditions",
-      "bloc": "western",
-      "date": "2026-03-26",
-      "datetime": "2026-03-26T00:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "IRGC"
-      ],
-      "dimensions": [],
-      "variable_key": null,
-      "event_type": "personnel_killed",
       "escalation": 5,
       "persian_only": false,
       "dimension_signal": null,
@@ -3778,33 +3670,6 @@
         "rationale": "Launched military strikes against Iran while nuclear negotiations were actively ongoing",
         "confidence": "high"
       },
-      "_from": "claude",
-      "first_seen": "2026-04-05T19:52:34.859Z",
-      "run_id": "2026-04-05T19:52"
-    },
-    {
-      "headline": "IAEA cannot access bombed Iranian nuclear sites, derailing safeguards obligations",
-      "summary": "The International Atomic Energy Agency reports inability to access any of the bombed Iranian nuclear facilities or account for nuclear material since US-Israeli strikes began. This constitutes a violation of Iran's safeguards obligations.",
-      "source": "Arms Control Association",
-      "url": "https://www.armscontrol.org/act/2026-03/focus/trumps-chaotic-and-reckless-iran-nuclear-policy",
-      "bloc": "institutional",
-      "date": "2026-03-26",
-      "datetime": "2026-03-26T00:00:00Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "nuclear Iran",
-        "AUMF"
-      ],
-      "dimensions": [
-        "accountability",
-        "impulsivity"
-      ],
-      "variable_key": "iaea_access_violation",
-      "event_type": "static_variable",
-      "escalation": 5,
-      "persian_only": false,
       "_from": "claude",
       "first_seen": "2026-04-05T19:52:34.859Z",
       "run_id": "2026-04-05T19:52"
@@ -21209,7 +21074,202 @@
       "_from": "newsapi",
       "first_seen": "2026-04-25T19:00:14.504Z",
       "run_id": "2026-04-25T19:00"
+    },
+    {
+      "headline": "India Denies Ship Made Crypto Payments to Iran for Strait of Hormuz Passage",
+      "summary": "After the Sanmar Herald was recently fired upon, a maritime risk management firm issued warnings about scammers pretending to represent Iranian government officials.\nThe post India Denies Ship Made Crypto Payments to Iran for Strait of Hormuz Passage first ap…",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2026/04/india-denies-ship-made-crypto-payments-to-iran-for-strait-of-hormuz-passage/",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T23:00:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-26T03:26:02.516Z",
+      "run_id": "2026-04-26T03:26"
+    },
+    {
+      "headline": "Iran's foreign minister arrives in Pakistan, raising hopes for U.S. peace talks",
+      "summary": "Iranian Foreign Minister Abbas Araqchi arrived in the Pakistani capital Islamabad on Friday to discuss proposals for restarting peace talks with the United States, amid conflicting signals on whether he would meet with U.S. negotiators there. Pakistani source…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/iran%27s-foreign-minister-arrives-in-pakistan-raising-hopes-for-us-peace-talks",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T20:56:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-26T03:26:02.516Z",
+      "run_id": "2026-04-26T03:26"
+    },
+    {
+      "headline": "Thousands more US troops arrive in Middle East on third aircraft carrier",
+      "summary": "USS George HW Bush has arrived in the Middle East, bringing thousands more American troops and advanced fighter jets to the region.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-04-25/uss-george-hw-bush-arrives-middle-east-military-assets-boost/106601060",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T02:00:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-26T03:26:02.516Z",
+      "run_id": "2026-04-26T03:26"
+    },
+    {
+      "headline": "Iran makes frantic move to store overflowing oil supply — in sign regime is nearing brink",
+      "summary": "The frantic move comes as Kharg Island’s remaining spare storage could fill up in just 12 to 13 days.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/04/24/world-news/iran-makes-frantic-move-to-store-overflowing-oil-supply-at-kharg-island/",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T21:11:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-26T03:26:02.516Z",
+      "run_id": "2026-04-26T03:26"
+    },
+    {
+      "headline": "Iran Keeps Loading Oil Onto Tankers Even as USA Blocks Route",
+      "summary": "Iran is continuing to load millions of barrels of oil onto supertankers.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/iran_keeps_loading_oil_onto_tankers_even_as_usa_blocks_route-24-apr-2026-183536-article/",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T21:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-26T03:26:02.516Z",
+      "run_id": "2026-04-26T03:26"
+    },
+    {
+      "headline": "US targets China refinery in sweeping Iran oil crackdown, sanctions ‘shadow fleet’ tankers",
+      "summary": "The OFAC sanctioned a major Chinese oil refinery and dozens of Iran-linked shadow fleet vessels in an escalation of a maximum pressure campaign on Tehran.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/us-targets-china-refinery-sweeping-iran-oil-crackdown-sanctions-shadow-fleet-tankers",
+      "bloc": "western",
+      "date": "2026-04-24",
+      "datetime": "2026-04-24T19:19:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-26T03:26:02.516Z",
+      "run_id": "2026-04-26T03:26"
+    },
+    {
+      "headline": "Crunch nuclear proliferation meeting at UN amid raging global wars",
+      "summary": "Signatories of the landmark nuclear non-proliferation treaty will meet at the UN from Monday as hopes fade they can reach agreement and tensions soar between the atomic powers.  In 2022, during the last review of the treaty that is considered the cornerstone …",
+      "source": "Digital Journal",
+      "url": "https://www.digitaljournal.com/world/crunch-nuclear-proliferation-meeting-at-un-amid-raging-global-wars/article",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T03:07:21Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-26T03:26:02.516Z",
+      "run_id": "2026-04-26T03:26"
     }
   ],
-  "total_items_ever": 843
+  "total_items_ever": 850
 }

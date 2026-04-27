@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-27T14:04:19.015Z",
+  "updated": "2026-04-27T19:39:39.165Z",
   "retention_days": 30,
   "items": [
     {
@@ -22079,7 +22079,63 @@
       "_from": "newsapi",
       "first_seen": "2026-04-27T14:04:19.015Z",
       "run_id": "2026-04-27T14:04"
+    },
+    {
+      "headline": "Trump calls off Iran peace talks, claiming ‘we have all the cards, they have none’",
+      "summary": "US president cancelled a visit by his envoys after Iran ‘offered a lot, but not enough’ to make progress",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/26/trump-calls-off-iran-peace-talks-claiming-we-have-all-the-cards-they-have-none/",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T17:06:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-27T19:39:39.165Z",
+      "run_id": "2026-04-27T19:39"
+    },
+    {
+      "headline": "Iran minister returns to Pakistan despite US talks cancellation",
+      "summary": "Iran's foreign minister returned to Islamabad for more consultations on Sunday, as international mediators tried to keep peace talks on track despite US President Donald Trump calling off his envoys' planned trip.\nThe post Iran minister returns to Pakistan de…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/04/iran-minister-returns-to-pakistan-despite-us-talks-cancellation/",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T15:09:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-27T19:39:39.165Z",
+      "run_id": "2026-04-27T19:39"
     }
   ],
-  "total_items_ever": 883
+  "total_items_ever": 885
 }

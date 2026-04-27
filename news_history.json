@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-27T03:30:24.891Z",
+  "updated": "2026-04-27T08:32:56.594Z",
   "retention_days": 30,
   "items": [
     {
@@ -21855,7 +21855,91 @@
       "_from": "newsapi",
       "first_seen": "2026-04-27T03:30:24.891Z",
       "run_id": "2026-04-27T03:30"
+    },
+    {
+      "headline": "Russia Urges U.S. and Iran to Forge Final Agreement Following Ceasefire Extension",
+      "summary": "The Russian Foreign Ministry has called for a comprehensive peace deal between the United States and Iran following the extension of a temporary ceasefire between the two nations. Spokeswoman Maria Zakharova made the statement at a briefing in Izhevsk, Russia…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-26-russia-urges-us-iran-forge-final-agreement.html",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-27T08:32:56.594Z",
+      "run_id": "2026-04-27T08:32"
+    },
+    {
+      "headline": "Iran Claims Toll Revenue Collection from Strait of Hormuz, Straining Ceasefire",
+      "summary": "Iranian lawmakers claim the country has started depositing revenue from a toll on ships passing through the Strait of Hormuz into the state central bank, asserting control over the critical global oil chokepoint [1]. The claims, made on Thursday, April 23, 20…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-26-iran-claims-toll-revenue-collection-hormuz-strait.html",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-27T08:32:56.594Z",
+      "run_id": "2026-04-27T08:32"
+    },
+    {
+      "headline": "Is the Strait of Hormuz Iran’s most powerful Deterrent?",
+      "summary": "Geography is Iran’s greatest strategic asset. The Strait of Hormuz is shallow and narrow, with just two-mile-wide navigable shipping channels",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/04/strait-powerful-deterrent.html",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T04:04:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-27T08:32:56.594Z",
+      "run_id": "2026-04-27T08:32"
     }
   ],
-  "total_items_ever": 875
+  "total_items_ever": 878
 }

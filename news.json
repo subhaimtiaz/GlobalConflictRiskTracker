@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-27T03:31:30.068Z",
+  "ts": "2026-04-27T08:34:01.722Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-04-27T03:31:30.068Z"
+    "updatedAt": "2026-04-27T08:34:01.722Z"
   },
   "items": [
+    {
+      "headline": "Russia Urges U.S. and Iran to Forge Final Agreement Following Ceasefire Extension",
+      "summary": "The Russian Foreign Ministry has called for a comprehensive peace deal between the United States and Iran following the extension of a temporary ceasefire between the two nations. Spokeswoman Maria Zakharova made the statement at a briefing in Izhevsk, Russia…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-26-russia-urges-us-iran-forge-final-agreement.html",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Claims Toll Revenue Collection from Strait of Hormuz, Straining Ceasefire",
+      "summary": "Iranian lawmakers claim the country has started depositing revenue from a toll on ships passing through the Strait of Hormuz into the state central bank, asserting control over the critical global oil chokepoint [1]. The claims, made on Thursday, April 23, 20…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-26-iran-claims-toll-revenue-collection-hormuz-strait.html",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Hopes of US-Iran peace fade as Trump scraps talks",
       "summary": "Donald Trump cancelled a planned envoy visit to Pakistan, while Iran, led by President Masoud Pezeshkian, insisted it would not engage under pressure or blockade",
@@ -92,54 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump cancels envoys' Pakistan trip, in blow to hopes for Iran war breakthrough",
-      "summary": "President Donald Trump canceled a trip by two U.S. envoys to Iran war mediator Pakistan on Saturday, dealing a new setback to peace ‌prospects after Iran's foreign minister departed Islamabad after speaking only to Pakistani officials. Trump told reporters in…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/trump-cancels-envoys%27-pakistan-trip-in-blow-to-hopes-for-iran-war-breakthrough1",
+      "headline": "Is the Strait of Hormuz Iran’s most powerful Deterrent?",
+      "summary": "Geography is Iran’s greatest strategic asset. The Strait of Hormuz is shallow and narrow, with just two-mile-wide navigable shipping channels",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/04/strait-powerful-deterrent.html",
       "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T21:09:33Z",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T04:04:23Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Who is in-charge in Iran, and will Trump get any call from Tehran? Talks collapse after cancelled Islamabad visit",
-      "summary": "Who is in-charge in Iran, and will Trump get any call from Tehran? The United States cancelled a planned visit to Pakistan after Iranian officials left Islamabad without meeting US negotiators. President Donald Trump said talks were not worth travel and hinte…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/who-is-in-charge-in-iran-and-will-trump-get-any-call-from-tehran-talks-collapse-after-cancelled-islamabad-visit/articleshow/130522780.cms",
-      "bloc": "regional",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T20:50:36Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-04-25",
       "datetime": "2026-04-25T21:06:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran is suffering in a stand off with the US – but may be betting Trump will blink first",
-      "summary": "A United States naval blockade on Iran is strangling the Islamic Republic’s main economic corridors – leaving Tehran facing a looming oil storage crisis and ...",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/04/25/middleeast/blockade-us-iran-economy-analysis-intl",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T14:16:33Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-26T19:03:02.031Z",
+  "ts": "2026-04-27T03:31:30.068Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-04-26T19:03:02.031Z"
+    "updatedAt": "2026-04-27T03:31:30.068Z"
   },
   "items": [
     {
-      "headline": "Iran Talks: President Trump Calls Off Witkoff-Kushner Islamabad Trip",
-      "summary": "Trump: \"There is tremendous infighting and confusion within their 'leadership.' Nobody knows who is in charge, including them.\"\nThe post Iran Talks: President Trump Calls Off Witkoff-Kushner Islamabad Trip first appeared on Le·gal In·sur·rec·tion.",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/04/iran-talks-president-trump-calls-off-witkoff-kushner-islamabad-trip/",
+      "headline": "Hopes of US-Iran peace fade as Trump scraps talks",
+      "summary": "Donald Trump cancelled a planned envoy visit to Pakistan, while Iran, led by President Masoud Pezeshkian, insisted it would not engage under pressure or blockade",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/hopes-of-us-iran-peace-fade-as-trump-scraps-talks/article70907593.ece",
       "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T17:36:12Z",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T00:31:33Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran’s ethnic minorities increasingly targeted following ceasefire",
-      "summary": "While everyone inside Iran has suffered since the ceasefire came into effect, with the rampant repression gaining steam during the pause in fighting, Iran’s ethnic minorities in particular have felt the heat",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/426062",
+      "headline": "From maritime trench warfare to a ‘sloppy peace’: Here’s how the Strait of Hormuz standoff could play out, according to Goldman Sachs",
+      "summary": "\"And a sloppy peace is basically a bunch of half solutions on all the big issues.\"",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/25/iran-war-peace-deal-maritime-trench-warfare-naval-blockade-strait-of-hormuz-oil/",
       "bloc": "western",
       "date": "2026-04-25",
-      "datetime": "2026-04-25T17:31:00Z",
+      "datetime": "2026-04-25T23:30:43Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran's Foreign Minister Leaves Islamabad Without Meeting US Envoys: Pakistan Officials",
-      "summary": "Iranian Foreign Minister Abbas Araghchi had traveled to Pakistan for what he described as indirect talks with U.S. envoys, but left Saturday evening, Pakistani officials said.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_69ecd8dee4b0f3a433cb39b3",
+      "headline": "Iran War Reveals Big Weakness In America’s Energy Armor",
+      "summary": "What the U.S. needs is an all-of-the-above energy strategy that emphasizes domestic production.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/04/25/opinion-iran-war-reveals-glaring-weakness-in-americas-energy-armor-fred-fleitz/",
       "bloc": "western",
       "date": "2026-04-25",
-      "datetime": "2026-04-25T15:13:15Z",
+      "datetime": "2026-04-25T21:37:30Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -87,6 +87,136 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump cancels envoys' Pakistan trip, in blow to hopes for Iran war breakthrough",
+      "summary": "President Donald Trump canceled a trip by two U.S. envoys to Iran war mediator Pakistan on Saturday, dealing a new setback to peace ‌prospects after Iran's foreign minister departed Islamabad after speaking only to Pakistani officials. Trump told reporters in…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/trump-cancels-envoys%27-pakistan-trip-in-blow-to-hopes-for-iran-war-breakthrough1",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T21:09:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Who is in-charge in Iran, and will Trump get any call from Tehran? Talks collapse after cancelled Islamabad visit",
+      "summary": "Who is in-charge in Iran, and will Trump get any call from Tehran? The United States cancelled a planned visit to Pakistan after Iranian officials left Islamabad without meeting US negotiators. President Donald Trump said talks were not worth travel and hinte…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/who-is-in-charge-in-iran-and-will-trump-get-any-call-from-tehran-talks-collapse-after-cancelled-islamabad-visit/articleshow/130522780.cms",
+      "bloc": "regional",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T20:50:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Strait of Hormuz Remains Largely Closed as US-Iran Tensions Escalate Despite Extended Ceasefire",
+      "summary": "WASHINGTON — The Strait of Hormuz, the world's most critical energy chokepoint, stayed effectively closed to normal commercial traffic Sunday as U.S. naval forces hunted Iranian mines and Iran continued seizing vessels, even as a fragile ceasefire entered its…",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-remains-largely-closed-us-iran-tensions-escalate-despite-extended-ceasefire-1867506",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T01:31:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump’s Hormuz blockade has deepened a historic shipping crisis",
+      "summary": "The Strait of Hormuz has effectively shut to global shipping after the US, led by Donald Trump, imposed a blockade on Iran-linked vessels, triggering retaliation from Tehran and bringing daily ship transits close to zero from a normal of about 135.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/trumps-hormuz-blockade-has-deepened-a-historic-shipping-crisis/articleshow/130525151.cms",
+      "bloc": "regional",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T01:19:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "‘Shadow fleet’ vessels tied to Iran pass through Strait of Hormuz",
+      "summary": "At least two ships sanctioned by the US for serving in Iran's “shadow fleet” passed through the Strait of Hormuz Saturday morning, tracking data revealed.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/04/25/us-news/shadow-fleet-vessels-tied-to-iran-pass-through-strait-of-hormuz/",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T21:06:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -99,136 +229,6 @@
       "bloc": "western",
       "date": "2026-04-25",
       "datetime": "2026-04-25T14:16:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hamas, resistance groups decry Israeli assaults on Gaza as 'full-fledged war crimes'",
-      "summary": "Hamas and other Palestinian resistance groups have categorically denounced the latest wave of Israeli strikes on the Gaza Strip as \"a bloody Zionist escalation and full-fledged war crimes.\"",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260425-presstv03.htm",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tanker ETF surges 600% amid US-Iran conflict and rising shipping rates",
-      "summary": "The surge in tanker ETFs highlights a strategic shift in investor focus towards shipping rates, reflecting broader geopolitical tensions.\nThe post Tanker ETF surges 600% amid US-Iran conflict and rising shipping rates appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/tanker-etf-surges-600-amid-us-iran-conflict-and-rising-shipping-rates/",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T13:48:54Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says it won't accept 'maximalist demands' as Islamabad hosts peace push",
-      "summary": "Iran presented its core demands and concerns in Pakistan, seeking an end to the ongoing conflict. The United States is pushing for Iran to abandon its nuclear weapons program in a verifiable manner. Ceasefires are in place, but few ships are crossing the Stra…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-says-it-wont-accept-maximalist-demands-as-islamabad-hosts-peace-push/articleshow/130515887.cms",
-      "bloc": "regional",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T13:44:56Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz Remains Near-Empty With Just a Few Iran Ships Moving",
-      "summary": "The Strait of Hormuz remains largely empty of merchant ships, with only a few Tehran-linked vessels moving through the waterway, following a tense week that saw Iranian gunboat attacks and tanker interceptions by the US Navy.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/strait-of-hormuz-remains-near-empty-with-just-a-few-iran-ships-moving",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T13:28:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran's foreign minister awaits U.S. delegation to Pakistan for peace talks",
-      "summary": "Iran's Abbas Araghchi arrived in Islamabad on Friday, as the White House confirmed Steve Witkoff and Jared Kushner will travel there Saturday to try to \"move the ball forward towards a deal.\"",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T06:35:21Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

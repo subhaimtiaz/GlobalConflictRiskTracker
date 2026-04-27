@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-26T19:01:56.795Z",
+  "updated": "2026-04-27T03:30:24.891Z",
   "retention_days": 30,
   "items": [
     {
@@ -206,33 +206,6 @@
       "bloc": "western",
       "date": "2026-03-30",
       "datetime": "2026-03-30T07:30:58Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:23:34.131Z",
-      "run_id": "2026-04-03T18:23"
-    },
-    {
-      "headline": "Press conference by NATO Secretary General Mark Rutte at the launch of the 2025 Annual Report",
-      "summary": "Good afternoon, and thank you for joining us today for the launch of our 2025 Annual Report.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260326-nato02.htm",
-      "bloc": "western",
-      "date": "2026-03-27",
-      "datetime": "2026-03-27T10:16:18Z",
       "leaders": [
         "Vladimir Putin"
       ],
@@ -465,31 +438,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:23:34.131Z",
-      "run_id": "2026-04-03T18:23"
-    },
-    {
-      "headline": "Was the Iran War Caused by AI Psychosis?",
-      "summary": "AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic Fury. 7 planning assumptions failed in 23 days as the Iran war defied every AI prediction.",
-      "source": "Houseofsaud.com",
-      "url": "https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/",
-      "bloc": "western",
-      "date": "2026-03-27",
-      "datetime": "2026-03-27T20:16:31Z",
-      "leaders": [],
-      "watch_terms": [
-        "general commander killed"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi",
       "first_seen": "2026-04-03T18:23:34.131Z",
@@ -1308,33 +1256,6 @@
       "run_id": "2026-04-03T19:58"
     },
     {
-      "headline": "Russian nuclear plant at Bushehr targeted multiple times during Iran war",
-      "summary": "Iran claims three incidents of projectiles striking vicinity of Russian-built Bushehr Nuclear Power Plant on March 17, 24, and 27. Putin reportedly engaged directly with Israeli leadership to secure safety of 200+ Russian specialists at facility.",
-      "source": "The Moscow Times",
-      "url": null,
-      "bloc": "persian",
-      "date": "2026-03-27",
-      "datetime": "2026-03-27T20:00:00Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Russia nuclear",
-        "nuclear Iran"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "bushehr_targeting",
-      "event_type": "infrastructure_attack",
-      "escalation": 8,
-      "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-03T19:58:01.568Z",
-      "run_id": "2026-04-03T19:58"
-    },
-    {
       "headline": "Pakistan-Afghanistan conflict escalates with border outpost destructions and civilian casualties",
       "summary": "Taliban officials claim destruction of Pakistani border outpost in Nangarhar while Pakistan destroys Afghan outpost and ammunition depot. Artillery shelling in Kunar kills one civilian, injures 16 others amid broader Afghanistan-Pakistan tensions.",
       "source": "Wikipedia",
@@ -1647,41 +1568,6 @@
         "dimension": "accountability",
         "proposed_delta": -2,
         "rationale": "Approval rating decline to lowest levels shows reduced political accountability and public support",
-        "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-03T22:15:56.051Z",
-      "run_id": "2026-04-03T22:15"
-    },
-    {
-      "headline": "US Intelligence Community formally groups Pakistan with Iran and North Korea as direct threat to global stability under Asim Munir",
-      "summary": "2026 US assessment explicitly cites Pakistan's ICBM development while on IMF life support as 'strategic recklessness.' Validates India's terror concerns, specifically referencing April 2025 Pahalgam attack where 26 died.",
-      "source": "New Kerala",
-      "url": "https://www.newkerala.com/news/a/pakistans-military-pushes-icbm-ambitions-as-ordinary-citizens-817.htm",
-      "bloc": "western",
-      "date": "2026-03-27",
-      "datetime": "2026-03-27T14:00:00Z",
-      "leaders": [
-        "General Asim Munir"
-      ],
-      "watch_terms": [
-        "Pakistan nuclear",
-        "Munir",
-        "IMF Pakistan"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "pak_threat_level",
-      "event_type": "leader_watch_term",
-      "escalation": 4,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "General Asim Munir",
-        "dimension": "impulsivity",
-        "proposed_delta": 2,
-        "rationale": "Pursuing ICBM development while nation survives on IMF aid shows strategic recklessness and impulsive decision-making",
         "confidence": "high"
       },
       "_from": "claude",
@@ -21745,7 +21631,231 @@
       "_from": "newsapi",
       "first_seen": "2026-04-26T19:01:56.795Z",
       "run_id": "2026-04-26T19:01"
+    },
+    {
+      "headline": "Hopes of US-Iran peace fade as Trump scraps talks",
+      "summary": "Donald Trump cancelled a planned envoy visit to Pakistan, while Iran, led by President Masoud Pezeshkian, insisted it would not engage under pressure or blockade",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/hopes-of-us-iran-peace-fade-as-trump-scraps-talks/article70907593.ece",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T00:31:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-27T03:30:24.891Z",
+      "run_id": "2026-04-27T03:30"
+    },
+    {
+      "headline": "From maritime trench warfare to a ‘sloppy peace’: Here’s how the Strait of Hormuz standoff could play out, according to Goldman Sachs",
+      "summary": "\"And a sloppy peace is basically a bunch of half solutions on all the big issues.\"",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/25/iran-war-peace-deal-maritime-trench-warfare-naval-blockade-strait-of-hormuz-oil/",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T23:30:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-27T03:30:24.891Z",
+      "run_id": "2026-04-27T03:30"
+    },
+    {
+      "headline": "Iran War Reveals Big Weakness In America’s Energy Armor",
+      "summary": "What the U.S. needs is an all-of-the-above energy strategy that emphasizes domestic production.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/04/25/opinion-iran-war-reveals-glaring-weakness-in-americas-energy-armor-fred-fleitz/",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T21:37:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-27T03:30:24.891Z",
+      "run_id": "2026-04-27T03:30"
+    },
+    {
+      "headline": "Trump cancels envoys' Pakistan trip, in blow to hopes for Iran war breakthrough",
+      "summary": "President Donald Trump canceled a trip by two U.S. envoys to Iran war mediator Pakistan on Saturday, dealing a new setback to peace ‌prospects after Iran's foreign minister departed Islamabad after speaking only to Pakistani officials. Trump told reporters in…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/trump-cancels-envoys%27-pakistan-trip-in-blow-to-hopes-for-iran-war-breakthrough1",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T21:09:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-27T03:30:24.891Z",
+      "run_id": "2026-04-27T03:30"
+    },
+    {
+      "headline": "Who is in-charge in Iran, and will Trump get any call from Tehran? Talks collapse after cancelled Islamabad visit",
+      "summary": "Who is in-charge in Iran, and will Trump get any call from Tehran? The United States cancelled a planned visit to Pakistan after Iranian officials left Islamabad without meeting US negotiators. President Donald Trump said talks were not worth travel and hinte…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/who-is-in-charge-in-iran-and-will-trump-get-any-call-from-tehran-talks-collapse-after-cancelled-islamabad-visit/articleshow/130522780.cms",
+      "bloc": "regional",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T20:50:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-27T03:30:24.891Z",
+      "run_id": "2026-04-27T03:30"
+    },
+    {
+      "headline": "Strait of Hormuz Remains Largely Closed as US-Iran Tensions Escalate Despite Extended Ceasefire",
+      "summary": "WASHINGTON — The Strait of Hormuz, the world's most critical energy chokepoint, stayed effectively closed to normal commercial traffic Sunday as U.S. naval forces hunted Iranian mines and Iran continued seizing vessels, even as a fragile ceasefire entered its…",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-remains-largely-closed-us-iran-tensions-escalate-despite-extended-ceasefire-1867506",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T01:31:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-27T03:30:24.891Z",
+      "run_id": "2026-04-27T03:30"
+    },
+    {
+      "headline": "Trump’s Hormuz blockade has deepened a historic shipping crisis",
+      "summary": "The Strait of Hormuz has effectively shut to global shipping after the US, led by Donald Trump, imposed a blockade on Iran-linked vessels, triggering retaliation from Tehran and bringing daily ship transits close to zero from a normal of about 135.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/trumps-hormuz-blockade-has-deepened-a-historic-shipping-crisis/articleshow/130525151.cms",
+      "bloc": "regional",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T01:19:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-27T03:30:24.891Z",
+      "run_id": "2026-04-27T03:30"
+    },
+    {
+      "headline": "‘Shadow fleet’ vessels tied to Iran pass through Strait of Hormuz",
+      "summary": "At least two ships sanctioned by the US for serving in Iran's “shadow fleet” passed through the Strait of Hormuz Saturday morning, tracking data revealed.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/04/25/us-news/shadow-fleet-vessels-tied-to-iran-pass-through-strait-of-hormuz/",
+      "bloc": "western",
+      "date": "2026-04-25",
+      "datetime": "2026-04-25T21:06:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-27T03:30:24.891Z",
+      "run_id": "2026-04-27T03:30"
     }
   ],
-  "total_items_ever": 867
+  "total_items_ever": 875
 }

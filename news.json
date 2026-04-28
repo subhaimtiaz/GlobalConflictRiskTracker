@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-27T19:40:44.260Z",
+  "ts": "2026-04-28T03:36:46.616Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-04-27T19:40:44.260Z"
+    "updatedAt": "2026-04-28T03:36:46.616Z"
   },
   "items": [
+    {
+      "headline": "Global military spending surges on insecurity: report",
+      "summary": "Global military spending reached nearly $2.9 trillion in 2025, marking an 11th consecutive year of growth, researchers said Monday, as insecurity and rearmament fuelled defence budgets.  The three top spenders — the United States, China and Russia — spent a c…",
+      "source": "Digital Journal",
+      "url": "https://www.digitaljournal.com/world/global-military-spending-surges-on-insecurity-report/article",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T22:33:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump says Iran can call if it wants to talk, as Iranian envoy returns to Pakistan",
+      "summary": "President Donald Trump said on Sunday that Iran could call if it wanted to negotiate an end to the war launched by the U.S. and Israel, as Iran's ‌foreign minister returned to Pakistan for talks despite the absence of U.S. counterparts. Hopes of reviving peac…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/trump-says-iran-can-call-if-it-wants-to-talk-as-iranian-envoy-returns-to-pakistan",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T21:19:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israeli strikes kill 14 in Lebanon as Israel warns residents to leave towns beyond 'buffer zone'",
+      "summary": "Israeli strikes killed 14 people and wounded 37 on Sunday, Lebanon's health ministry said, as the Israeli military warned residents to leave seven towns beyond the &quot;buffer ‌zone&quot; it occupied before a ceasefire that has failed to fully halt hostiliti…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/israeli-strikes-kill-14-in-lebanon-as-israel-warns-residents-to-leave-towns-beyond-%27buffer-zone%27",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T21:19:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump calls off Iran peace talks, claiming ‘we have all the cards, they have none’",
       "summary": "US president cancelled a visit by his envoys after Iran ‘offered a lot, but not enough’ to make progress",
@@ -40,53 +118,79 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran minister returns to Pakistan despite US talks cancellation",
-      "summary": "Iran's foreign minister returned to Islamabad for more consultations on Sunday, as international mediators tried to keep peace talks on track despite US President Donald Trump calling off his envoys' planned trip.\nThe post Iran minister returns to Pakistan de…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/04/iran-minister-returns-to-pakistan-despite-us-talks-cancellation/",
-      "bloc": "western",
-      "date": "2026-04-26",
-      "datetime": "2026-04-26T15:09:46Z",
+      "headline": "Oil prices prediction: Goldman Sachs raises Brent crude, WTI rates. Check today's price",
+      "summary": "Oil prices today: Brent crude futures rose $2.16, or 2.05 per cent, to $107.49 a barrel, the highest since ‌April 7, ⁠and U.S. ⁠West Texas Intermediate was at $96.17 a barrel, up $1.77, or 1.88 per cent.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/oil-prices-prediction-goldman-sachs-raises-brent-crude-wti-rates-check-todays-price/articleshow/130541722.cms",
+      "bloc": "regional",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T01:36:56Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "April 26: Iran ramps up regional diplomacy as embattled Trump looks for off-ramp",
-      "summary": "Iran has intensified its diplomatic outreach to regional countries while reinforcing its uncompromising strategic posture, as contradictions deepen within US policy.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260426-presstv02.htm",
-      "bloc": "western",
-      "date": "2026-04-26",
-      "datetime": "2026-04-26T12:00:00Z",
+      "headline": "Oil climbs nearly 2% as US-Iran peace talks stall",
+      "summary": "Oil prices surged nearly 2% as stalled U.S.-Iran peace talks and limited Strait of Hormuz shipments tightened global supplies. Brent crude reached $107.49 a barrel, its highest since April 7. Goldman Sachs raised its fourth-quarter oil price forecasts, citing…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-nearly-2-as-us-iran-peace-talks-stall/articleshow/130541464.cms",
+      "bloc": "regional",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T00:39:22Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Hormuz Paradox",
+      "summary": "Defensive Asymmetry in Project Governance: What a Scenario-Based Analysis of the World's Most Consequential Chokepoint Teaches Business Analysts (BA) and Project Managers (PM) About Protecting Their Interests Against a Superior Force.\n\n\n\nConflict, Strategy & …",
+      "source": "Modernanalyst.com",
+      "url": "https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/7169/The-Hormuz-Paradox.aspx",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T23:45:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -125,58 +229,6 @@
       "bloc": "western",
       "date": "2026-04-26",
       "datetime": "2026-04-26T04:04:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz Remains Largely Closed as US-Iran Tensions Escalate Despite Extended Ceasefire",
-      "summary": "WASHINGTON — The Strait of Hormuz, the world's most critical energy chokepoint, stayed effectively closed to normal commercial traffic Sunday as U.S. naval forces hunted Iranian mines and Iran continued seizing vessels, even as a fragile ceasefire entered its…",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/strait-hormuz-remains-largely-closed-us-iran-tensions-escalate-despite-extended-ceasefire-1867506",
-      "bloc": "western",
-      "date": "2026-04-26",
-      "datetime": "2026-04-26T01:31:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump’s Hormuz blockade has deepened a historic shipping crisis",
-      "summary": "The Strait of Hormuz has effectively shut to global shipping after the US, led by Donald Trump, imposed a blockade on Iran-linked vessels, triggering retaliation from Tehran and bringing daily ship transits close to zero from a normal of about 135.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/trumps-hormuz-blockade-has-deepened-a-historic-shipping-crisis/articleshow/130525151.cms",
-      "bloc": "regional",
-      "date": "2026-04-26",
-      "datetime": "2026-04-26T01:19:25Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -240,6 +292,30 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Russia shares America’s worries about rising Chinese nuclear presence",
+      "summary": "And imbalance has U.S. complying with arms control, Russia violating, and China ignoring",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/04/russia-shares-americas-worries-about-rising-chinese-nuclear/",
+      "bloc": "western",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T22:05:33Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -323,30 +399,6 @@
       "bloc": "western",
       "date": "2026-04-21",
       "datetime": "2026-04-21T18:59:38Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Strategic Aftershocks of Trump’s Iran War",
-      "summary": "The consequences will be felt long after the fighting ends.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/04/20/strategic-aftershocks-trump-iran-war-israel-oil/",
-      "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T18:57:46Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -594,38 +646,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Pakistan ready for multi-day US-Iran talks, but Tehran unsure about joining",
-      "summary": "Iranian officials are yet to commit to a second round of talks with the US, as ceasefire deadline approaches.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining",
-      "bloc": "regional",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T06:32:03Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Who is Ahmad Vahidi? Iran’s new IRGC chief tied to global attacks and ‘Death to America’ ideology",
-      "summary": "Shadowy IRGC commander Ahmad Vahidi is emerging as one of Iran's most powerful figures as Trump's ceasefire deadline approaches, analysts warn.",
+      "headline": "Iran turmoil erupts: Ultra-hardliner who mocked Trump poised to take over nuclear talks",
+      "summary": "Reports say veteran hardliner Saeed Jalili may replace Ghalibaf on Iran's negotiating team, deepening fractures within the regime's political leadership.",
       "source": "Fox News",
-      "url": "https://www.foxnews.com/world/who-ahmad-vahidi-irans-new-irgc-chief-tied-global-attacks-death-america-ideology",
+      "url": "https://www.foxnews.com/world/iran-turmoil-erupts-ultra-hardliner-who-mocked-trump-poised-take-over-nuclear-talks",
       "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T17:38:58Z",
+      "date": "2026-04-26",
+      "datetime": "2026-04-26T21:16:42Z",
       "leaders": [
         "Mojtaba Khamenei"
       ],
@@ -638,7 +665,7 @@
       ],
       "variable_key": "iranRegimeCohesion",
       "event_type": "static_variable",
-      "escalation": 3,
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -739,31 +766,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Chilling warning from Nobel physicist as date is set for humanity's final destruction",
-      "summary": "The winner of the Nobel Prize in Physics has issued a stark warning to humanity, revealing the timeline for when it could face an existential catastrophe.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sciencetech/article-15749705/david-gross-nuclear-war-warning.html",
-      "bloc": "western",
-      "date": "2026-04-20",
-      "datetime": "2026-04-20T20:04:59Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

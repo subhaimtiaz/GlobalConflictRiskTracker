@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-28T03:36:46.616Z",
+  "ts": "2026-04-28T08:32:29.345Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-04-28T03:36:46.616Z"
+    "updatedAt": "2026-04-28T08:32:29.345Z"
   },
   "items": [
     {
-      "headline": "Global military spending surges on insecurity: report",
-      "summary": "Global military spending reached nearly $2.9 trillion in 2025, marking an 11th consecutive year of growth, researchers said Monday, as insecurity and rearmament fuelled defence budgets.  The three top spenders — the United States, China and Russia — spent a c…",
-      "source": "Digital Journal",
-      "url": "https://www.digitaljournal.com/world/global-military-spending-surges-on-insecurity-report/article",
+      "headline": "General Dan Caine prevents Trump from nuking Iran concurrently with the issuance of ‘Palantir's manifesto', by Alfredo Jalife-Rahme",
+      "summary": "President Donald Trump appears to be moving towards a strategy  of escalation regarding Teheran: Since Iran’s conventional bombing was ineffectual—or achieved very little purposes— why is a nuclear bomb not used, whether tactical or strategic? After all, the …",
+      "source": "Red Voltaire",
+      "url": "https://www.voltairenet.org/article224331.html",
       "bloc": "western",
-      "date": "2026-04-26",
-      "datetime": "2026-04-26T22:33:13Z",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T06:44:15Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump says Iran can call if it wants to talk, as Iranian envoy returns to Pakistan",
-      "summary": "President Donald Trump said on Sunday that Iran could call if it wanted to negotiate an end to the war launched by the U.S. and Israel, as Iran's ‌foreign minister returned to Pakistan for talks despite the absence of U.S. counterparts. Hopes of reviving peac…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/trump-says-iran-can-call-if-it-wants-to-talk-as-iranian-envoy-returns-to-pakistan",
+      "headline": "Mediators try to bridge US-Iran disagreements after Trump calls off envoy trip",
+      "summary": "Iran’s foreign minister lands in Moscow to seek support of Russian president Vladimir Putin",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/27/mediators-try-to-bridge-us-iran-disagreements-after-trump-calls-off-envoy-trip/",
       "bloc": "western",
-      "date": "2026-04-26",
-      "datetime": "2026-04-26T21:19:48Z",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T06:37:39Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israeli strikes kill 14 in Lebanon as Israel warns residents to leave towns beyond 'buffer zone'",
-      "summary": "Israeli strikes killed 14 people and wounded 37 on Sunday, Lebanon's health ministry said, as the Israeli military warned residents to leave seven towns beyond the &quot;buffer ‌zone&quot; it occupied before a ceasefire that has failed to fully halt hostiliti…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/israeli-strikes-kill-14-in-lebanon-as-israel-warns-residents-to-leave-towns-beyond-%27buffer-zone%27",
+      "headline": "The Cost of the Iran War for the United States: A Strategic Blunder in Five Dimensions",
+      "summary": "Abstract  The U.S. war with Iran, launched on February 28, 2026, and now in its eighth week under a Pakistani-brokered ceasefire that President Trump extended on April 21, has imposed costs on Washington that extend far beyond the battlefield. This article ar…",
+      "source": "Smallwarsjournal.com",
+      "url": "https://smallwarsjournal.com/2026/04/27/the-cost-of-the-iran-war-for-the-united-states-a-strategic-blunder-in-five-dimensions/",
       "bloc": "western",
-      "date": "2026-04-26",
-      "datetime": "2026-04-26T21:19:28Z",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T06:00:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -87,148 +87,122 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Tired and worried, seafarers have been stranded in the Persian Gulf for weeks",
+      "summary": "For about eight weeks, Indian Capt. Rahul Dhar and his crew have been stranded on their tanker in the Persian Gulf, sometimes watching drones and missiles explode as the Strait of Hormuz remained effectively shut while the Iran war dragged on. The crew’s mora…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/tired-and-worried-seafarers-have-been-stranded-in-the-persian-gulf-for-weeks",
+      "bloc": "western",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T06:25:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil rises 1% as US-Iran peace talks stall",
+      "summary": "Oil prices were up more than 1% today as peace talks between the US and Iran stalled while shipments through the Strait of Hormuz remained limited, keeping global oil supplies tight.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/0427/1570344-world-oil-prices/",
+      "bloc": "western",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T06:10:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Shuts Down Strait of HormuzâTrump Warns Tehran as Iraq’s $24B ‘Development Road’ Emerges as Critical Alternative Trade Route",
+      "summary": "The effective closure of the Strait of Hormuz in April 2026 has accelerated the development of alternative trade routes connecting the Gulf to Europe, with Iraq’s $24 billion Development Road project advancing “with discipline,” according to analysts. Iran re…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-27-iraqs-development-road-critical-alternative-trade-route.html",
+      "bloc": "western",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. Navy Intercepts Sanctioned Iranian Tanker in Arabian Sea Amid Escalating Strait of Hormuz Blockade",
+      "summary": "A U.S. Navy helicopter from the guided-missile destroyer USS Pinckney intercepted and turned back the sanctioned petrochemical tanker M/V Sevan in the Arabian Sea on April 25, according to U.S. Central Command. CENTCOM said the merchant vessel began “complyin…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-27-us-navy-intercepts-sanctioned-iranian-tanker-arabian-sea.html",
+      "bloc": "western",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Trump calls off Iran peace talks, claiming ‘we have all the cards, they have none’",
-      "summary": "US president cancelled a visit by his envoys after Iran ‘offered a lot, but not enough’ to make progress",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/26/trump-calls-off-iran-peace-talks-claiming-we-have-all-the-cards-they-have-none/",
+      "headline": "Trump faces domestic pressure to end war but says: 'If Iran want to talk, they can come to us... you know, there is a telephone’",
+      "summary": "{\n \"themeId\": \"lct_653b7fa7fed115003648bab8\",\n \"clientId\": \"64772ae4d1d7dec0c5b716af\",\n \"liveblogId\": \"69a2ae3f1c39bcc5812537fb\"\n}",
+      "source": "Independent.ie",
+      "url": "https://www.independent.ie/world-news/middle-east/trump-faces-domestic-pressure-to-end-war-but-says-if-iran-want-to-talk-they-can-come-to-us-you-know-there-is-a-telephone/a1622401180.html",
       "bloc": "western",
-      "date": "2026-04-26",
-      "datetime": "2026-04-26T17:06:10Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil prices prediction: Goldman Sachs raises Brent crude, WTI rates. Check today's price",
-      "summary": "Oil prices today: Brent crude futures rose $2.16, or 2.05 per cent, to $107.49 a barrel, the highest since ‌April 7, ⁠and U.S. ⁠West Texas Intermediate was at $96.17 a barrel, up $1.77, or 1.88 per cent.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/oil-prices-prediction-goldman-sachs-raises-brent-crude-wti-rates-check-todays-price/articleshow/130541722.cms",
-      "bloc": "regional",
       "date": "2026-04-27",
-      "datetime": "2026-04-27T01:36:56Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil climbs nearly 2% as US-Iran peace talks stall",
-      "summary": "Oil prices surged nearly 2% as stalled U.S.-Iran peace talks and limited Strait of Hormuz shipments tightened global supplies. Brent crude reached $107.49 a barrel, its highest since April 7. Goldman Sachs raised its fourth-quarter oil price forecasts, citing…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-nearly-2-as-us-iran-peace-talks-stall/articleshow/130541464.cms",
-      "bloc": "regional",
-      "date": "2026-04-27",
-      "datetime": "2026-04-27T00:39:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Hormuz Paradox",
-      "summary": "Defensive Asymmetry in Project Governance: What a Scenario-Based Analysis of the World's Most Consequential Chokepoint Teaches Business Analysts (BA) and Project Managers (PM) About Protecting Their Interests Against a Superior Force.\n\n\n\nConflict, Strategy & …",
-      "source": "Modernanalyst.com",
-      "url": "https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/7169/The-Hormuz-Paradox.aspx",
-      "bloc": "western",
-      "date": "2026-04-26",
-      "datetime": "2026-04-26T23:45:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How to demine the Strait of Hormuz? It is not easy",
-      "summary": "Clearing mines from Gulf waterway will take weeks even if the US navy gets help from Europe",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/26/how-to-demine-the-strait-of-hormuz-it-is-not-easy/",
-      "bloc": "western",
-      "date": "2026-04-26",
-      "datetime": "2026-04-26T13:18:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Is the Strait of Hormuz Iran’s most powerful Deterrent?",
-      "summary": "Geography is Iran’s greatest strategic asset. The Strait of Hormuz is shallow and narrow, with just two-mile-wide navigable shipping channels",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/04/strait-powerful-deterrent.html",
-      "bloc": "western",
-      "date": "2026-04-26",
-      "datetime": "2026-04-26T04:04:23Z",
+      "datetime": "2026-04-27T05:30:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -642,6 +616,30 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran nuclear shake-up: Hardliner poised to seize control of U.S. talks after Ghalibaf forced out",
+      "summary": "Iran’s nuclear negotiating team is undergoing a major shakeup as the head of the delegation steps down after attempting to discuss the nuclear issue with the U.S. Hardliner Saeed Jalili is expected to replace Mohammad Bagher Ghalibaf as Iran’s lead nuclear ne…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-27-iran-nuclear-hardliner-talks.html",
+      "bloc": "western",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran IRGC regime"
+      ],
+      "dimensions": [
+        "survival",
+        "accountability"
+      ],
+      "variable_key": "iranRegimeCohesion",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

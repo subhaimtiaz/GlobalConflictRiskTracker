@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-28T19:46:36.193Z",
+  "updated": "2026-04-29T03:34:13.178Z",
   "retention_days": 30,
   "items": [
     {
@@ -246,32 +246,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:23:34.131Z",
-      "run_id": "2026-04-03T18:23"
-    },
-    {
-      "headline": "The war with Iran may be ushering in a new nuclear age",
-      "summary": "Global tensions are rising as nations consider developing nuclear weapons. Donald Trump's policies are prompting countries like Germany and Poland to explore their own nuclear deterrents. Meanwhile, China and Russia are concerned about proliferation in Japan …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/the-war-with-iran-may-be-ushering-in-a-new-nuclear-age/articleshow/129876930.cms",
-      "bloc": "regional",
-      "date": "2026-03-29",
-      "datetime": "2026-03-29T07:04:54Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi",
       "first_seen": "2026-04-03T18:23:34.131Z",
@@ -809,33 +783,6 @@
       "run_id": "2026-04-03T18:57"
     },
     {
-      "headline": "Iran Warns The U.S. Against A Ground Invasion As Regional Powers Plan To Meet In Pakistan",
-      "summary": "Regional powers plan to meet in Pakistan to discuss how to end the fighting in the Middle East after about 2,500 U.S. Marines arrived in the region and Iranian-backed Houthi rebels entered the monthlong war.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/ap-ml-iran-us-war-pakistan_n_69c9173ee4b0a014076f5f1b",
-      "bloc": "western",
-      "date": "2026-03-29",
-      "datetime": "2026-03-29T12:15:31Z",
-      "leaders": [
-        "Benjamin Netanyahu",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Israel Iran airstrike"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:57:53.838Z",
-      "run_id": "2026-04-03T18:57"
-    },
-    {
       "headline": "Patriotic Purge: The Real Cost of War",
       "summary": "Fighting for corruption and profits The great Gen. Smedley Butler wrote his classic War is a Racket in response to the pointless carnage of WWI. Some 15-22 million largely adolescent boys died for absolutely nothing. That fact that they can’t provide a more a…",
       "source": "Activistpost.com",
@@ -895,32 +842,6 @@
       "bloc": "western",
       "date": "2026-03-31",
       "datetime": "2026-03-31T10:12:08Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Hegseth fired military"
-      ],
-      "dimensions": [
-        "accountability",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:57:53.838Z",
-      "run_id": "2026-04-03T18:57"
-    },
-    {
-      "headline": "Wild ultimatums and 'bombing our little hearts out': A portrait of Trump at war",
-      "summary": "President Donald Trump has taken an erratic approach to the Iran war, shifting between threats of escalation and efforts to delay action. He issued an ultimatum to reopen the Strait of Hormuz or face strikes on power plants, but repeatedly extended deadlines,…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/wild-ultimatums-and-bombing-our-little-hearts-out-a-portrait-of-trump-at-war/articleshow/129874461.cms",
-      "bloc": "regional",
-      "date": "2026-03-29",
-      "datetime": "2026-03-29T01:11:54Z",
       "leaders": [
         "Donald J. Trump"
       ],
@@ -1145,33 +1066,6 @@
       "variable_key": "russia_iran_support",
       "event_type": "infrastructure_attack",
       "escalation": 7,
-      "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-03T19:58:01.568Z",
-      "run_id": "2026-04-03T19:58"
-    },
-    {
-      "headline": "Pakistan-Afghanistan conflict escalates with border outpost destructions and civilian casualties",
-      "summary": "Taliban officials claim destruction of Pakistani border outpost in Nangarhar while Pakistan destroys Afghan outpost and ammunition depot. Artillery shelling in Kunar kills one civilian, injures 16 others amid broader Afghanistan-Pakistan tensions.",
-      "source": "Wikipedia",
-      "url": null,
-      "bloc": "regional",
-      "date": "2026-03-29",
-      "datetime": "2026-03-29T15:00:00Z",
-      "leaders": [
-        "General Asim Munir"
-      ],
-      "watch_terms": [
-        "Pakistan military",
-        "LoC"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "pak_afghan_escalation",
-      "event_type": "regional_strike",
-      "escalation": 6,
       "persian_only": false,
       "_from": "claude",
       "first_seen": "2026-04-03T19:58:01.568Z",
@@ -1717,39 +1611,6 @@
         "proposed_delta": -2,
         "rationale": "Physical absence and inability to make public appearances while military controls access suggests weakened position",
         "confidence": "medium"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-04T05:18:13.742Z",
-      "run_id": "2026-04-04T05:18"
-    },
-    {
-      "headline": "IRGC Intelligence Threatened Assembly of Experts' Families to Secure Mojtaba's Leadership",
-      "summary": "IranWire reports that IRGC intelligence pressured members of Iran's Assembly of Experts and threatened their families to secure Mojtaba Khamenei's appointment as Supreme Leader. Sources indicate the pressure was so intense that dissenting members were forced into supporting him through psychological and political coercion.",
-      "source": "IranWire",
-      "url": "https://iranwire.com/en/news/150272-exclusive-irgc-intelligence-threatened-experts-and-their-families-to-select-mojtaba-khamenei/",
-      "bloc": "persian",
-      "date": "2026-03-29",
-      "datetime": "2026-03-29T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Supreme Leader Iran",
-        "IRGC"
-      ],
-      "dimensions": [
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 5,
-      "persian_only": true,
-      "dimension_signal": {
-        "leader": "Mojtaba Khamenei",
-        "dimension": "accountability",
-        "proposed_delta": -3,
-        "rationale": "Installation through coercion and threats rather than legitimate process undermines institutional legitimacy",
-        "confidence": "high"
       },
       "_from": "claude",
       "first_seen": "2026-04-04T05:18:13.742Z",
@@ -5417,39 +5278,6 @@
       "event_type": "regional_strike",
       "escalation": 5,
       "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-07T20:07:55.970Z",
-      "run_id": "2026-04-07T20:07"
-    },
-    {
-      "headline": "Kim Jong-un Oversees Engine Test for Solid-Fuel ICBM Capable of Reaching US Mainland",
-      "summary": "North Korean leader observed test of upgraded solid-fuel engine with 2,500 kilonewton thrust using carbon fiber materials. Kim called test significant for putting country's strategic military muscle on highest level, part of five-year arms buildup plan.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/north-korea-conducts-engine-test-for-missile-capable-of-reaching-u-s-mainland",
-      "bloc": "institutional",
-      "date": "2026-03-29",
-      "datetime": "2026-03-29T14:00:00Z",
-      "leaders": [
-        "Kim Jong-un"
-      ],
-      "watch_terms": [
-        "DPRK missile",
-        "North Korea nuclear"
-      ],
-      "dimensions": [
-        "narcissism"
-      ],
-      "variable_key": "dprk_icbm_capability",
-      "event_type": "static_variable",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Kim Jong-un",
-        "dimension": "narcissism",
-        "proposed_delta": 1,
-        "rationale": "Boasted that countries attacked by tested weapons cannot survive while showcasing military prowess",
-        "confidence": "high"
-      },
       "_from": "claude",
       "first_seen": "2026-04-07T20:07:55.970Z",
       "run_id": "2026-04-07T20:07"
@@ -22820,7 +22648,174 @@
       "_from": "newsapi",
       "first_seen": "2026-04-28T19:46:36.193Z",
       "run_id": "2026-04-28T19:46"
+    },
+    {
+      "headline": "Read It and Weep: Iran is Kicking Pool Old Standard Oil to the Curb",
+      "summary": "(Comment on Scott Ritter Substack 04-26-26 'A New Middle Eastern Power Paradigm', in the 1st comment section.) The Iranian chokehold of the world's throat has an historical precedent, a very strange one, because their control succeeds the historical monopoly …",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4376674/posts",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T02:09:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-29T03:34:13.178Z",
+      "run_id": "2026-04-29T03:34"
+    },
+    {
+      "headline": "Israeli strikes hit east Lebanon, expanding scope despite ceasefire",
+      "summary": "The Israeli military began carrying out strikes in eastern Lebanon on Monday, expanding the scope of its bombing campaign during a ceasefire that has failed ‌to fully halt hostilities with Lebanese armed group Hezbollah. The strikes on Lebanon's eastern Bekaa…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/israeli-strikes-hit-east-lebanon-expanding-scope-despite-ceasefire1",
+      "bloc": "western",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T21:29:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-29T03:34:13.178Z",
+      "run_id": "2026-04-29T03:34"
+    },
+    {
+      "headline": "Where Things Stand With The Unstable Iran Ceasefire",
+      "summary": "As negotiations between the United States and Iran break down, the Iranian regime is repositioning.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/04/27/where-things-stand-with-the-unstable-iran-ceasefire/",
+      "bloc": "western",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T21:25:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-29T03:34:13.178Z",
+      "run_id": "2026-04-29T03:34"
+    },
+    {
+      "headline": "Oil prices rise as no end to Iran war stand-off seems in sight",
+      "summary": "U.S. President Donald Trump is unhappy with the latest Iranian proposal aimed at ending ‌the war, a ⁠U.S. official ⁠said on Monday. Iranian sources disclosed on Monday that Tehran's proposal avoided addressing its nuclear program ​until hostilities cease and …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-as-no-end-to-iran-war-stand-off-seems-in-sight/articleshow/130566965.cms",
+      "bloc": "regional",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T01:06:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-29T03:34:13.178Z",
+      "run_id": "2026-04-29T03:34"
+    },
+    {
+      "headline": "Oil edges higher as traders weigh Iran’s Hormuz offer and Trump’s next move",
+      "summary": "Oil prices edged higher as investors parsed fresh signals from U.S.-Iran negotiations, with uncertainty over a potential de-escalation keeping markets on edge.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/28/oil-prices-us-iran-hormuz-negotiations-wti-brent-crude.html",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T01:05:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-29T03:34:13.178Z",
+      "run_id": "2026-04-29T03:34"
+    },
+    {
+      "headline": "Nuclear Weapons Didn’t Save Lives in 1945. They Wouldn’t Today Either",
+      "summary": "This article was first published by Al Jazeera in Arabic. False historical narratives abound in our contentious and divided world, as leaders and complicit historians endeavor to use public understanding of the past to push policies and gain control in the pr…",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/ivana_nikolic_hughes/2026/04/27/nuclear-weapons-didnt-save-lives-in-1945-they-wouldnt-today-either/",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T00:00:18Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-29T03:34:13.178Z",
+      "run_id": "2026-04-29T03:34"
     }
   ],
-  "total_items_ever": 918
+  "total_items_ever": 924
 }

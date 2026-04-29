@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-28T19:47:41.289Z",
+  "ts": "2026-04-29T03:35:18.374Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-04-28T19:47:41.289Z"
+    "updatedAt": "2026-04-29T03:35:18.374Z"
   },
   "items": [
+    {
+      "headline": "Read It and Weep: Iran is Kicking Pool Old Standard Oil to the Curb",
+      "summary": "(Comment on Scott Ritter Substack 04-26-26 'A New Middle Eastern Power Paradigm', in the 1st comment section.) The Iranian chokehold of the world's throat has an historical precedent, a very strange one, because their control succeeds the historical monopoly …",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4376674/posts",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T02:09:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israeli strikes hit east Lebanon, expanding scope despite ceasefire",
+      "summary": "The Israeli military began carrying out strikes in eastern Lebanon on Monday, expanding the scope of its bombing campaign during a ceasefire that has failed ‌to fully halt hostilities with Lebanese armed group Hezbollah. The strikes on Lebanon's eastern Bekaa…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/israeli-strikes-hit-east-lebanon-expanding-scope-despite-ceasefire1",
+      "bloc": "western",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T21:29:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Where Things Stand With The Unstable Iran Ceasefire",
+      "summary": "As negotiations between the United States and Iran break down, the Iranian regime is repositioning.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/04/27/where-things-stand-with-the-unstable-iran-ceasefire/",
+      "bloc": "western",
+      "date": "2026-04-27",
+      "datetime": "2026-04-27T21:25:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump discusses new Iranian proposal with security aides as conflict remains in stalemate",
       "summary": "US secretary of state Marco Rubio tells Fox News he thinks Iran is trying to buy more time",
@@ -66,143 +144,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Will the Strait of Hormuz open soon? Here's what to know as oil prices hover near $108 per barrel, up almost 50%",
-      "summary": "Will the Strait of Hormuz Open Soon? Inside Iran's Oil Blockade Standoff: The Iran Strait of Hormuz offer arrives as oil prices hover near $108 per barrel, up almost 50% since the war began. Iran signals it may reopen the Strait of Hormuz, a route carrying ne…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/will-the-strait-of-hormuz-open-soon-heres-what-to-know-as-oil-prices-hover-near-108-per-barrel-up-almost-50/articleshow/130553587.cms",
-      "bloc": "regional",
-      "date": "2026-04-27",
-      "datetime": "2026-04-27T12:44:48Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "50 Iranian hospitals damaged in US-Israeli attacks: Health minister",
-      "summary": "Iran's Health Minister Mohammad-Reza Zafarghandi says the United States and Israel carried out nearly 240 attacks on medical facilities in the Islamic Republic during the recent war, leaving at least 50 hospitals damaged.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260427-presstv06.htm",
-      "bloc": "western",
-      "date": "2026-04-27",
-      "datetime": "2026-04-27T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran condemns US tanker seizures as piracy amid rising tensions",
-      "summary": "Rising US-Iran tensions over tanker seizures could destabilize global oil markets, impacting shipping routes and geopolitical alliances.\nThe post Iran condemns US tanker seizures as piracy amid rising tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-condemns-us-tanker-seizures-as-piracy-amid-rising-tensions/",
-      "bloc": "western",
-      "date": "2026-04-27",
-      "datetime": "2026-04-27T19:28:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Vacations under threat as California’s oil stockpile hangs on by a thread",
-      "summary": "“Fuel price is more susceptible to supply weakness on the West Coast than anywhere else in the country,” United Airlines chief executive Scott Kirby said.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/04/27/us-news/summer-vacations-under-threat-as-californias-oil-stockpile-hangs-on-by-a-thread/",
-      "bloc": "western",
-      "date": "2026-04-27",
-      "datetime": "2026-04-27T18:29:13Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Dual Hormuz Blockade Cuts Ship Transits to Near Zero",
-      "summary": "The Strait of Hormuz remains effectively shut to international shipping as the double blow of Iranian and US blockades leaves the key energy corridor largely dormant.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/dual-hormuz-blockade-cuts-ship-transits-to-near-zero/",
-      "bloc": "western",
-      "date": "2026-04-27",
-      "datetime": "2026-04-27T16:30:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Tired and worried, seafarers have been stranded in the Persian Gulf for weeks",
       "summary": "Around 20,000 seafarers on hundreds of vessels are stuck in the Persian Gulf, unable to cross the Strait of Hormuz that remains effectively shut by Iran",
       "source": "Abcnews.com",
-      "url": "https://abcnews.com/Business/wireStory/tired-worried-seafarers-stranded-persian-gulf-weeks-132410183",
+      "url": "https://abcnews.com/International/wireStory/tired-worried-seafarers-stranded-persian-gulf-weeks-132410179",
       "bloc": "western",
-      "date": "2026-04-27",
-      "datetime": "2026-04-27T12:25:36Z",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T03:27:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil prices rise as no end to Iran war stand-off seems in sight",
+      "summary": "U.S. President Donald Trump is unhappy with the latest Iranian proposal aimed at ending ‌the war, a ⁠U.S. official ⁠said on Monday. Iranian sources disclosed on Monday that Tehran's proposal avoided addressing its nuclear program ​until hostilities cease and …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-as-no-end-to-iran-war-stand-off-seems-in-sight/articleshow/130566965.cms",
+      "bloc": "regional",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T01:06:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil edges higher as traders weigh Iran’s Hormuz offer and Trump’s next move",
+      "summary": "Oil prices edged higher as investors parsed fresh signals from U.S.-Iran negotiations, with uncertainty over a potential de-escalation keeping markets on edge.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/28/oil-prices-us-iran-hormuz-negotiations-wti-brent-crude.html",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T01:05:13Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -349,30 +349,6 @@
       "bloc": "western",
       "date": "2026-04-23",
       "datetime": "2026-04-23T18:55:41Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China teases new aircraft carrier in video, vows to build up islands",
-      "summary": "China has revealed a video hinting at a new nuclear-powered aircraft carrier. The nation also plans to strengthen its island infrastructure. These moves aim to enhance China's naval strength and assert its territorial claims. Military drills are underway in t…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/china-teases-new-aircraft-carrier-in-video-vows-to-build-up-islands/articleshow/130462715.cms",
-      "bloc": "regional",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T09:00:18Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -668,6 +644,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Nuclear Weapons Didn’t Save Lives in 1945. They Wouldn’t Today Either",
+      "summary": "This article was first published by Al Jazeera in Arabic. False historical narratives abound in our contentious and divided world, as leaders and complicit historians endeavor to use public understanding of the past to push policies and gain control in the pr…",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/ivana_nikolic_hughes/2026/04/27/nuclear-weapons-didnt-save-lives-in-1945-they-wouldnt-today-either/",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T00:00:18Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Crunch nuclear proliferation meeting at UN amid raging global wars",
       "summary": "Signatories of the landmark nuclear non-proliferation treaty will meet at the UN from Monday as hopes fade they can reach agreement and tensions soar between the atomic powers.  In 2022, during the last review of the treaty that is considered the cornerstone …",
       "source": "Digital Journal",
@@ -725,31 +726,6 @@
       "bloc": "western",
       "date": "2026-04-23",
       "datetime": "2026-04-23T16:00:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump’s Iran Fiasco’s Silver Lining – The End of NATO",
-      "summary": "The one great big positive that has come out of the Donald’s Iran fiasco is that he has not held back in blackening the name of NATO in a manner that has heretofore been unthinkable: “NATO WASN’T THERE WHEN WE NEEDED THEM, AND THEY WON’T BE THERE IF WE NEED T…",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/david_stockman/2026/04/21/trumps-iran-fiascos-silver-lining-the-end-of-nato/",
-      "bloc": "western",
-      "date": "2026-04-22",
-      "datetime": "2026-04-22T00:00:13Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

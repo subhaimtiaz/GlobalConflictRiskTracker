@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-29T08:26:23.102Z",
+  "ts": "2026-04-29T14:09:20.506Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-04-29T08:26:23.102Z"
+    "updatedAt": "2026-04-29T14:09:20.506Z"
   },
   "items": [
     {
-      "headline": "Liberals promising improved bottom line in today's spring economic update",
-      "summary": "The federal Liberals will table their spring economic update today, with Prime Minister Mark Carney hinting at a rosier bottom line with smaller-than-forecasted deficits.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/politics/liberals-promising-improved-bottom-line-in-today-s-spring-economic-update-9.7178551",
+      "headline": "Iran war: Who in Tehran could shape talks with the US?",
+      "summary": "It is unclear how negotiations between the US and Iran will proceed, and a breakthrough seems far off. DW looks at who is calling the shots in Tehran.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/iran-war-who-in-tehran-could-shape-talks-with-the-us/a-76967105",
       "bloc": "western",
       "date": "2026-04-28",
-      "datetime": "2026-04-28T08:00:00Z",
+      "datetime": "2026-04-28T13:13:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US examining latest Iran proposal to unblock strait",
-      "summary": "The White House has said it is examining Iran's latest proposal to unblock the Strait of Hormuz, two months after a US and Israeli offensive sent shockwaves through the global economy.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/us/2026/0428/1570537-us-iran/",
-      "bloc": "western",
+      "headline": "What’s in Iran’s latest proposal – and how has the US responded?",
+      "summary": "Trump administration signals rejection of Iran’s offer, citing incomplete resolution of Tehran’s nuclear ambitions.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/4/28/whats-in-irans-latest-proposal-and-how-has-the-us-responded",
+      "bloc": "regional",
       "date": "2026-04-28",
-      "datetime": "2026-04-28T06:36:00Z",
+      "datetime": "2026-04-28T12:56:40Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil Prices Rise as U.S.-Iran Tensions Disrupt Strait of Hormuz Shipping",
-      "summary": "Oil Prices Rise After U.S.-Iran Tensions Threaten Strait of Hormuz Crude oil futures climbed sharply on Monday, April 27, as heightened U.S.-Iran tensions disrupted shipping through the Strait of Hormuz, a waterway that handles about 20% of global oil shipmen…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-04-28-oil-cost-rise-tensions-disrupt-hormuz-shipping.html",
-      "bloc": "western",
+      "headline": "Peace efforts stall as US examines latest Iran proposal",
+      "summary": "Efforts to end the Middle East war appeared at a standstill on Tuesday, with the US considering Tehran's latest offer to unblock the Strait of Hormuz, and Iran saying Washington could no longer dictate terms. - 'Another year of fighting' - Violence has contin…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/peace-efforts-stall-as-us-examines-latest-iran-proposal/articleshow/130579699.cms",
+      "bloc": "regional",
       "date": "2026-04-28",
-      "datetime": "2026-04-28T06:00:00Z",
+      "datetime": "2026-04-28T12:12:04Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +92,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Extends Iran Ceasefire; Selnick Cites Lack of Negotiating Partners",
-      "summary": "Ceasefire Extended Amid Stalled Talks President Donald Trump extended the ceasefire with Iran hours before its expiration on Tuesday, according to multiple reports. The truce was extended indefinitely after a two-week period, officials said. Trump wrote on Tr…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-04-28-trump-extends-ceasefire-selnick-cites-lack-negotiating-partners.html",
+      "headline": "Iran's Air Force conducted sorties to strike US bases in Iraq, Kuwait, Qatar early in war: Army",
+      "summary": "The Iranian Army's Air Force carried out multiple sorties against enemy bases in regional countries, including an anti-Iran group's base in Erbil, Iraq, as well as targets in Kuwait and Qatar, at the outset of the US-Israeli war, an Army spokesman said on Tue…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260428-presstv09.htm",
       "bloc": "western",
       "date": "2026-04-28",
-      "datetime": "2026-04-28T06:00:00Z",
+      "datetime": "2026-04-28T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Global military spending rise continues as European and Asian expenditures surge",
+      "summary": "World military expenditure reached $2887 billion in 2025, an increase of 2.9 per cent in real terms over 2024, according to Stockholm International Peace Research Institute.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260428-azertac03.htm",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -118,65 +144,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US says examining latest Iran proposal to unblock Hormuz",
-      "summary": "The White House said on Monday that it was examining Iran's latest proposal to unblock the Strait of Hormuz, two months after a U.S. and Israeli offensive sent shockwaves through the global economy.",
+      "headline": "Oil prices trim gains after UAE exits OPEC, OPEC+",
+      "summary": "LONDON: Oil prices rose more than 3 per cent on Tuesday (Apr 28) as stalled efforts to end the Iran war kept the Strait of Hormuz largely closed, constraining Middle East supplies, though the UAE's announcement that it would l",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-trim-gains-after-uae-exits-opec-opec-6086676",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T13:26:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "First tanker loaded with liquefied natural gas leaves Gulf: Kpler",
+      "summary": "A ship fully loaded with liquefied natural gas (LNG) has passed through the Strait of Hormuz for the first time since the Middle East war virtually closed the route in early March, marine tracking firm Kpler said Monday.",
       "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/us-says-examining-latest-iran-proposal-to-unblock-hormuz-221556",
+      "url": "https://www.hurriyetdailynews.com/first-tanker-loaded-with-liquefied-natural-gas-leaves-gulf-kpler-221588",
       "bloc": "western",
       "date": "2026-04-28",
-      "datetime": "2026-04-28T05:48:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Rubio warns Iran using Strait of Hormuz as ‘economic nuclear weapon’ amid nuclear deal stalemate",
-      "summary": "Secretary of State Marco Rubio has accused Iran of weaponizing the Strait of Hormuz as an “economic nuclear weapon,” threatening global energy supplies and international maritime norms. Iran has reportedly submitted a new offer to Washington proposing to reop…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-04-28-rubio-warns-iran-using-strait-of-hormuz-as-economic-nuclear-weapon-amid-nuclear-deal-stalemate.html",
-      "bloc": "western",
-      "date": "2026-04-28",
-      "datetime": "2026-04-28T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump unhappy with Iran’s new proposals to resolve two-month ‌war",
-      "summary": "Iran’s plan would set aside talks on its nuclear program ​until the war ended and disputes over shipping resolved",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/28/us-iran-war-live-updates-israel-donald-trump-oil-prices-strait-of-hormuz/",
-      "bloc": "western",
-      "date": "2026-04-28",
-      "datetime": "2026-04-28T05:44:49Z",
+      "datetime": "2026-04-28T12:48:05Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Tired and worried, seafarers have been stranded in the Persian Gulf for weeks",
-      "summary": "Around 20,000 seafarers on hundreds of vessels are stuck in the Persian Gulf, unable to cross the Strait of Hormuz that remains effectively shut by Iran",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/tired-worried-seafarers-stranded-persian-gulf-weeks-132410179",
+      "headline": "As Cease-Fire With Iran Wavers, US Expands Its Military Footprint",
+      "summary": "As its cease-fire with Iran falters, the United States is significantly expanding its military capabilities in the Middle East, giving Washington the option of escalating the two-month-long conflict.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260428-rferl01.htm",
       "bloc": "western",
       "date": "2026-04-28",
-      "datetime": "2026-04-28T03:27:24Z",
+      "datetime": "2026-04-28T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,13 +222,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Read It and Weep: Iran is Kicking Pool Old Standard Oil to the Curb",
-      "summary": "(Comment on Scott Ritter Substack 04-26-26 'A New Middle Eastern Power Paradigm', in the 1st comment section.) The Iranian chokehold of the world's throat has an historical precedent, a very strange one, because their control succeeds the historical monopoly …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4376674/posts",
+      "headline": "When will Strait of Hormuz be ‘safe’ for commercial shipping again?",
+      "summary": "Even if the strait reopens, shipping insurance could cost 20 times more than before the war, analysts say.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again",
+      "bloc": "regional",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T11:18:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil prices up 2% as no end to Iran war stand-off in sight",
+      "summary": "Oil prices rose nearly 2% today, extending gains from the previous session, as efforts to end the US-Iran war appear stalled, with the crucial Strait of Hormuz waterway still mainly shut, keeping energy supplies from the key Middle East producing region out o…",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/0428/1570569-world-oil-prices/",
       "bloc": "western",
       "date": "2026-04-28",
-      "datetime": "2026-04-28T02:09:05Z",
+      "datetime": "2026-04-28T08:45:32Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

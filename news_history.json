@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-29T14:08:15.302Z",
+  "updated": "2026-04-29T19:42:43.285Z",
   "retention_days": 30,
   "items": [
     {
@@ -23347,7 +23347,171 @@
       "_from": "newsapi",
       "first_seen": "2026-04-29T14:08:15.302Z",
       "run_id": "2026-04-29T14:08"
+    },
+    {
+      "headline": "Iran’s Guards Seize Wartime Power, Blunting Supreme Leader’s Role",
+      "summary": "Two months into a war with the U.S. and Israel, Iran no longer has a single, undisputed clerical arbiter at the pinnacle of power — an abrupt break with the past that may be hardening Tehran’s stance as it weighs renewed talks with Washington.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/irans-guards-seize-wartime-power-blunting-supreme-leaders-role/",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T16:16:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-29T19:42:43.285Z",
+      "run_id": "2026-04-29T19:42"
+    },
+    {
+      "headline": "Russian superyacht sails through Strait of Hormuz despite blockade",
+      "summary": "A superyacht linked to one of Russian President Vladimir Putin's key allies has sailed through the Strait of Hormuz, despite the ongoing blockade of the critical shipping channel. The 142m-long (465 ft) multi-deck luxury boat, named Nord, is linked to sanctio…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4376762/posts",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T19:27:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-29T19:42:43.285Z",
+      "run_id": "2026-04-29T19:42"
+    },
+    {
+      "headline": "Why Iran Isn’t Blinking Yet",
+      "summary": "Trump’s blockade aims to force damaging shutdowns at Iranian oil fields. But Tehran has been through this before.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/04/28/iran-war-hormuz-trump-oil-storage-blockade-energy/",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T17:40:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-29T19:42:43.285Z",
+      "run_id": "2026-04-29T19:42"
+    },
+    {
+      "headline": "After 60 days of war in Iran, does US Congress want a say?",
+      "summary": "Under law, Trump needs Congressional approval to continue war, experts say, but Congress may avoid the issue altogether.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/4/28/after-60-days-of-war-in-iran-does-us-congress-want-a-say",
+      "bloc": "regional",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T19:40:52Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "Trump Iran war"
+      ],
+      "dimensions": [
+        "accountability",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-29T19:42:43.285Z",
+      "run_id": "2026-04-29T19:42"
+    },
+    {
+      "headline": "You Are Not Ready For Trump And Iran And Whatever The F*ck THIS Was",
+      "summary": "It's gonna explode any minute now!",
+      "source": "Wonkette.com",
+      "url": "https://www.wonkette.com/p/you-are-not-ready-for-trump-and-iran",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T15:26:04Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-29T19:42:43.285Z",
+      "run_id": "2026-04-29T19:42"
+    },
+    {
+      "headline": "Humanity may be doomed to die in nuclear war—unless we act soon, physicist David Gross says",
+      "summary": "After winning a Breakthrough Prize, the world’s most lucrative science award, theoretical physicist David Gross is using the moment to warn of nuclear war’s existential threat—and how we can escape it",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/humanity-may-be-doomed-to-die-in-nuclear-war-unless-we-act-soon-physicist-david-gross-says/",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T19:00:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-29T19:42:43.285Z",
+      "run_id": "2026-04-29T19:42"
     }
   ],
-  "total_items_ever": 943
+  "total_items_ever": 949
 }

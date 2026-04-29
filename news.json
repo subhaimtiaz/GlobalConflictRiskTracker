@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-29T14:09:20.506Z",
+  "ts": "2026-04-29T19:43:48.465Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-04-29T14:09:20.506Z"
+    "updatedAt": "2026-04-29T19:43:48.465Z"
   },
   "items": [
+    {
+      "headline": "Iran’s Guards Seize Wartime Power, Blunting Supreme Leader’s Role",
+      "summary": "Two months into a war with the U.S. and Israel, Iran no longer has a single, undisputed clerical arbiter at the pinnacle of power — an abrupt break with the past that may be hardening Tehran’s stance as it weighs renewed talks with Washington.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/irans-guards-seize-wartime-power-blunting-supreme-leaders-role/",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T16:16:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran war: Who in Tehran could shape talks with the US?",
       "summary": "It is unclear how negotiations between the US and Iran will proceed, and a breakthrough seems far off. DW looks at who is calling the shots in Tehran.",
@@ -118,27 +144,79 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Global military spending rise continues as European and Asian expenditures surge",
-      "summary": "World military expenditure reached $2887 billion in 2025, an increase of 2.9 per cent in real terms over 2024, according to Stockholm International Peace Research Institute.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260428-azertac03.htm",
+      "headline": "Russian superyacht sails through Strait of Hormuz despite blockade",
+      "summary": "A superyacht linked to one of Russian President Vladimir Putin's key allies has sailed through the Strait of Hormuz, despite the ongoing blockade of the critical shipping channel. The 142m-long (465 ft) multi-deck luxury boat, named Nord, is linked to sanctio…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4376762/posts",
       "bloc": "western",
       "date": "2026-04-28",
-      "datetime": "2026-04-28T12:00:00Z",
+      "datetime": "2026-04-28T19:27:30Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why Iran Isn’t Blinking Yet",
+      "summary": "Trump’s blockade aims to force damaging shutdowns at Iranian oil fields. But Tehran has been through this before.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/04/28/iran-war-hormuz-trump-oil-storage-blockade-energy/",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T17:40:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "As Cease-Fire With Iran Wavers, US Expands Its Military Footprint",
+      "summary": "The United States has deployed a third aircraft carrier to the Middle East, significantly boosting its capabilities, despite a cease-fire with Iran.",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/iran-us-strait-of-hormuz-blockade/33744467.html",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T16:19:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -196,75 +274,21 @@
       "_from": "newsapi"
     },
     {
-      "headline": "As Cease-Fire With Iran Wavers, US Expands Its Military Footprint",
-      "summary": "As its cease-fire with Iran falters, the United States is significantly expanding its military capabilities in the Middle East, giving Washington the option of escalating the two-month-long conflict.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260428-rferl01.htm",
-      "bloc": "western",
-      "date": "2026-04-28",
-      "datetime": "2026-04-28T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "When will Strait of Hormuz be ‘safe’ for commercial shipping again?",
-      "summary": "Even if the strait reopens, shipping insurance could cost 20 times more than before the war, analysts say.",
+      "headline": "After 60 days of war in Iran, does US Congress want a say?",
+      "summary": "Under law, Trump needs Congressional approval to continue war, experts say, but Congress may avoid the issue altogether.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again",
+      "url": "https://www.aljazeera.com/news/2026/4/28/after-60-days-of-war-in-iran-does-us-congress-want-a-say",
       "bloc": "regional",
       "date": "2026-04-28",
-      "datetime": "2026-04-28T11:18:09Z",
+      "datetime": "2026-04-28T19:40:52Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Trump Iran war"
       ],
       "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil prices up 2% as no end to Iran war stand-off in sight",
-      "summary": "Oil prices rose nearly 2% today, extending gains from the previous session, as efforts to end the US-Iran war appear stalled, with the crucial Strait of Hormuz waterway still mainly shut, keeping energy supplies from the key Middle East producing region out o…",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/business/2026/0428/1570569-world-oil-prices/",
-      "bloc": "western",
-      "date": "2026-04-28",
-      "datetime": "2026-04-28T08:45:32Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
+        "accountability",
         "impulsivity"
       ],
       "variable_key": null,
@@ -314,6 +338,31 @@
       "dimensions": [
         "accountability",
         "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "You Are Not Ready For Trump And Iran And Whatever The F*ck THIS Was",
+      "summary": "It's gonna explode any minute now!",
+      "source": "Wonkette.com",
+      "url": "https://www.wonkette.com/p/you-are-not-ready-for-trump-and-iran",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T15:26:04Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -696,6 +745,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Humanity may be doomed to die in nuclear war—unless we act soon, physicist David Gross says",
+      "summary": "After winning a Breakthrough Prize, the world’s most lucrative science award, theoretical physicist David Gross is using the moment to warn of nuclear war’s existential threat—and how we can escape it",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/humanity-may-be-doomed-to-die-in-nuclear-war-unless-we-act-soon-physicist-david-gross-says/",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T19:00:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Nuclear Weapons Didn’t Save Lives in 1945. They Wouldn’t Today Either",
       "summary": "This article was first published by Al Jazeera in Arabic. False historical narratives abound in our contentious and divided world, as leaders and complicit historians endeavor to use public understanding of the past to push policies and gain control in the pr…",
       "source": "Antiwar.com",
@@ -753,31 +827,6 @@
       "bloc": "western",
       "date": "2026-04-23",
       "datetime": "2026-04-23T22:20:05Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Art of Failure",
-      "summary": "Donald Trump sold himself to the American people as the ultimate dealmaker during his first run for President. He argued that Obama’s poor negotiating skills had impoverished the American people, and he would Make America Great Again by getting tough with bot…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/the-art-of-failure/",
-      "bloc": "western",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T16:00:00Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

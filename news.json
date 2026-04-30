@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-29T19:43:48.465Z",
+  "ts": "2026-04-30T03:36:06.977Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 103,
-    "oilStress": 58,
-    "updatedAt": "2026-04-29T19:43:48.465Z"
+    "oilPrice": 114,
+    "oilStress": 74,
+    "updatedAt": "2026-04-30T03:36:06.977Z"
   },
   "items": [
     {
@@ -118,10 +118,10 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran's Air Force conducted sorties to strike US bases in Iraq, Kuwait, Qatar early in war: Army",
-      "summary": "The Iranian Army's Air Force carried out multiple sorties against enemy bases in regional countries, including an anti-Iran group's base in Erbil, Iraq, as well as targets in Kuwait and Qatar, at the outset of the US-Israeli war, an Army spokesman said on Tue…",
+      "headline": "Global military spending rise continues as European and Asian expenditures surge",
+      "summary": "World military expenditure reached $2887 billion in 2025, an increase of 2.9 per cent in real terms over 2024, according to Stockholm International Peace Research Institute.",
       "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260428-presstv09.htm",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260428-azertac03.htm",
       "bloc": "western",
       "date": "2026-04-28",
       "datetime": "2026-04-28T12:00:00Z",
@@ -139,7 +139,33 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 3,
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "First full gas tanker exits Strait of Hormuz since Iran war began",
+      "summary": "More than a dozen gas tankers are still trapped inside the Persian Gulf, according to analysts.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/04/28/world-news/first-full-gas-tanker-exits-strait-of-hormuz-since-iran-war-began/",
+      "bloc": "western",
+      "date": "2026-04-28",
+      "datetime": "2026-04-28T22:22:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -248,23 +274,21 @@
       "_from": "newsapi"
     },
     {
-      "headline": "First tanker loaded with liquefied natural gas leaves Gulf: Kpler",
-      "summary": "A ship fully loaded with liquefied natural gas (LNG) has passed through the Strait of Hormuz for the first time since the Middle East war virtually closed the route in early March, marine tracking firm Kpler said Monday.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/first-tanker-loaded-with-liquefied-natural-gas-leaves-gulf-kpler-221588",
+      "headline": "Dem plot to limit Trump war powers on Cuba fails as GOP falls in line with military action abroad",
+      "summary": "Republicans blocked Senate Democrats' war powers resolution seeking to prevent President Donald Trump from taking military action against Cuba without Congress' approval.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/dem-plot-limit-trump-war-powers-cuba-fails-gop-falls-line-military-action-abroad",
       "bloc": "western",
       "date": "2026-04-28",
-      "datetime": "2026-04-28T12:48:05Z",
+      "datetime": "2026-04-28T21:59:20Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Trump Iran war"
       ],
       "dimensions": [
-        "survival",
+        "accountability",
         "impulsivity"
       ],
       "variable_key": null,
@@ -305,30 +329,6 @@
       "bloc": "regional",
       "date": "2026-04-24",
       "datetime": "2026-04-24T06:20:23Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Trump Iran war"
-      ],
-      "dimensions": [
-        "accountability",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Senate GOP blocks fifth Dem bid to end Trump’s Iran war as divisions grow",
-      "summary": "Senate Republicans continue to back Trump's war in Iran as lawmakers debate the War Powers Act and a fragile ceasefire deadline approaches.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/senate-gop-blocks-fifth-dem-bid-end-trumps-iran-war-divisions-grow",
-      "bloc": "western",
-      "date": "2026-04-22",
-      "datetime": "2026-04-22T21:45:06Z",
       "leaders": [
         "Donald J. Trump"
       ],
@@ -591,106 +591,6 @@
         "values"
       ],
       "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Embassy urges Americans to leave Lebanon as ceasefire collapses",
-      "summary": "Escalating tensions in Lebanon could hinder US-Iran diplomatic efforts, impacting regional stability and complicating international relations.\nThe post US Embassy urges Americans to leave Lebanon as ceasefire collapses appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-embassy-urges-americans-to-leave-lebanon-as-ceasefire-collapses/",
-      "bloc": "western",
-      "date": "2026-04-22",
-      "datetime": "2026-04-22T21:53:59Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Day After Islamabad: When U.S. Power Meets Its Future in the Narrow Strait of Hormuz",
-      "summary": "Freddie Ponton21st Century Wire Islamabad was never a peace conference in any honest sense. It was the moment Washington tried to turn military failure into diplomatic blackmail. What it could not break with bombs, it tried to extract across a polished table.…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/the-day-after-islamabad-when-u-s-power-meets-its-future-in-the-narrow-strait-of-hormuz/",
-      "bloc": "western",
-      "date": "2026-04-22",
-      "datetime": "2026-04-22T12:00:00Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump extends Iran ceasefire indefinitely, shifting focus to diplomacy",
-      "summary": "The indefinite ceasefire fosters diplomatic avenues, reducing immediate conflict risks and altering geopolitical dynamics in the region.\nThe post Trump extends Iran ceasefire indefinitely, shifting focus to diplomacy appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-extends-iran-ceasefire-indefinitely-shifting-focus-to-diplomacy/",
-      "bloc": "western",
-      "date": "2026-04-22",
-      "datetime": "2026-04-22T11:25:33Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran calls US blockade an ‘act of war’ as ceasefire chances dwindle",
-      "summary": "Heightened tensions and dwindling ceasefire prospects could escalate regional instability, impacting global markets and diplomatic relations.\nThe post Iran calls US blockade an ‘act of war’ as ceasefire chances dwindle appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-calls-us-blockade-an-act-of-war-as-ceasefire-chances-dwindle/",
-      "bloc": "western",
-      "date": "2026-04-22",
-      "datetime": "2026-04-22T03:05:53Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

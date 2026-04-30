@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-30T08:29:05.278Z",
+  "ts": "2026-04-30T14:07:38.495Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,261 +10,285 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 74,
-    "updatedAt": "2026-04-30T08:29:05.278Z"
+    "updatedAt": "2026-04-30T14:07:38.495Z"
   },
   "items": [
     {
-      "headline": "How the Iran war is hitting the UK",
-      "summary": "The likelihood of economic woes and unrest grows as the conflict shows no sign of ending.",
+      "headline": "Can the nearly $1 trillion-a-year US military really be depleting key weapons in Iran?",
+      "summary": "Measuring US weapons stockpiles sheds light on future constraints and what Russia and China may learn from the Iran war.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/can-the-nearly-1-trillion-a-year-us-military-really-be-depleting-key-weapons-in-iran-280986",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T12:25:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran-U.S. diplomatic impasse continues despite Tehran's new proposal to end war",
+      "summary": "Iran's new proposal to the United States to reopen the Strait of Hormuz and end the two-month war -- while postponing nuclear negotiations to a later stage -- has failed to produce any breakthrough in the bilateral diplomatic impasse amid mounting global call…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260429-pdo01.htm",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "New round of war to be catastrophic for US: Leader's advisor",
+      "summary": "A senior advisor to Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei says fresh aggression towards Iran will be \"catastrophic\" for the United States.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260429-presstv01.htm",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Link 4/29/2026",
+      "summary": "Our sensatonal daily links: ghosts 'spained, ego depletion. Charles disses Trump, El Niño dangers, OpenAI miss, EU food freakout, moar Lebanon bombing, UAE to exit OPEC, MAHA betreayed, DoJ prosecutes Comey again, FCC review over Kimmel, Trump v. disabled",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/04/link-4-29-2026.html",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T10:55:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "UN-backed data undercuts viral Gaza famine claims as child malnutrition falls",
+      "summary": "United Nations data challenges viral Gaza famine claims as experts say Hamas is weaponizing humanitarian narratives to undermine a post-war coalition.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/un-backed-data-undercuts-viral-gaza-famine-claims-child-malnutrition-falls",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T10:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. Military Buildup Signals Rising Risk of Wider Middle East War",
+      "summary": "As its cease-fire with Iran falters, the United States is significantly expanding its military capabilities in the Middle East, giving Washington the option of escalating the two-month-long conflict.The US military deployed a third aircraft carrier strike gro…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/US-Military-Buildup-Signals-Rising-Risk-of-Wider-Middle-East-War.html",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T14:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Gambled on the Strait. Now the Gulf Pays the Price",
+      "summary": "The recent war in the Gulf has caused a series of crises to fall into each other like dominoes. On March 2, Iran closed the Strait of Hormuz by declaring that it would attack any ship that transgressed the waterway. Then, on April 12, US President Donald Trum…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/world-news/middle-east-news/trump-gambled-on-the-strait-now-the-gulf-pays-the-price/",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T13:50:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Is Iran’s oil storage nearly full – and will it have to cut production?",
+      "summary": "Experts predict Iran could gradually scale back oil production if the US naval blockade of Hormuz persists.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/4/29/how-the-iran-war-is-hitting-the-uk",
+      "url": "https://www.aljazeera.com/economy/2026/4/29/is-irans-oil-storage-nearly-full-and-will-it-have-to-cut-production",
       "bloc": "regional",
       "date": "2026-04-29",
-      "datetime": "2026-04-29T08:25:33Z",
+      "datetime": "2026-04-29T12:22:53Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "United Arab Emirates to Leave OPEC After 60 Years",
-      "summary": "UAE Announces Withdrawal from OPEC The United Arab Emirates (UAE) said on Tuesday, April 28, that it will leave the Organization of the Petroleum Exporting Countries (OPEC) and the wider OPEC+ group effective Friday, May 1, according to an official statement …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-04-29-uae-to-leave-opec-after-60-years.html",
+      "headline": "'Endgame' For Iran's Oil Sector? How US Blockade May Impact Tehran's Calculus",
+      "summary": "Weeks of US and Israeli air strikes, sanctions, and restrictions have hit Iran hard, but it could be geology that eventually pushes it into making concessions in its ongoing standoff with the United States.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260429-rferl02.htm",
       "bloc": "western",
       "date": "2026-04-29",
-      "datetime": "2026-04-29T06:00:00Z",
+      "datetime": "2026-04-29T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Donald Trump claims Iran in a ‘state of collapse’ as efforts to end war flounder",
-      "summary": "Donald Trump said Iran had informed him it was in a “state of collapse” and was figuring out its leadership situation, as efforts to end the conflict appeared at an impasse on Tuesday with the US president unhappy at the latest plans from Tehran.",
-      "source": "Independent.ie",
-      "url": "https://www.independent.ie/world-news/middle-east/donald-trump-claims-iran-in-a-state-of-collapse-as-efforts-to-end-war-flounder/a1734102333.html",
+      "headline": "A 22-day oil clock ticks down in Iran as Strait of Hormuz blockade tightens chokehold",
+      "summary": "Iran faces a critical shortage of oil storage. Unused capacity is dwindling, potentially leading to significant production cuts. A US-led blockade is severely impacting exports through the Strait of Hormuz. This situation is contributing to a global oil price…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/a-22-day-oil-clock-ticks-down-in-iran-as-strait-of-hormuz-blockade-tightens-chokehold/articleshow/130599616.cms",
+      "bloc": "regional",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T08:35:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Pete Hegseth heads to Capitol Hill to defend Trump's Iran war as 60-day congressional deadline looms",
+      "summary": "Department of War Secretary Pete Hegseth is set to testify before House Armed Services Committee to defend the administration's military campaign in Iran.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/pete-hegseth-heads-capitol-hill-defend-trumps-iran-war-60-day-congressional-deadline-looms",
       "bloc": "western",
       "date": "2026-04-29",
-      "datetime": "2026-04-29T04:30:00Z",
+      "datetime": "2026-04-29T12:27:56Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Trump Iran war"
       ],
       "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran’s Guards Seize Wartime Power, Blunting Supreme Leader’s Role",
-      "summary": "Two months into a war with the U.S. and Israel, Iran no longer has a single, undisputed clerical arbiter at the pinnacle of power — an abrupt break with the past that may be hardening Tehran’s stance as it weighs renewed talks with Washington.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/irans-guards-seize-wartime-power-blunting-supreme-leaders-role/",
-      "bloc": "western",
-      "date": "2026-04-28",
-      "datetime": "2026-04-28T16:16:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran war: Who in Tehran could shape talks with the US?",
-      "summary": "It is unclear how negotiations between the US and Iran will proceed, and a breakthrough seems far off. DW looks at who is calling the shots in Tehran.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/iran-war-who-in-tehran-could-shape-talks-with-the-us/a-76967105",
-      "bloc": "western",
-      "date": "2026-04-28",
-      "datetime": "2026-04-28T13:13:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "First full gas tanker exits Strait of Hormuz since Iran war began",
-      "summary": "More than a dozen gas tankers are still trapped inside the Persian Gulf, according to analysts.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/04/28/world-news/first-full-gas-tanker-exits-strait-of-hormuz-since-iran-war-began/",
-      "bloc": "western",
-      "date": "2026-04-28",
-      "datetime": "2026-04-28T22:22:12Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russian superyacht sails through Strait of Hormuz despite blockade",
-      "summary": "A superyacht linked to one of Russian President Vladimir Putin's key allies has sailed through the Strait of Hormuz, despite the ongoing blockade of the critical shipping channel. The 142m-long (465 ft) multi-deck luxury boat, named Nord, is linked to sanctio…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4376762/posts",
-      "bloc": "western",
-      "date": "2026-04-28",
-      "datetime": "2026-04-28T19:27:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why Iran Isn’t Blinking Yet",
-      "summary": "Trump’s blockade aims to force damaging shutdowns at Iranian oil fields. But Tehran has been through this before.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/04/28/iran-war-hormuz-trump-oil-storage-blockade-energy/",
-      "bloc": "western",
-      "date": "2026-04-28",
-      "datetime": "2026-04-28T17:40:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "As Cease-Fire With Iran Wavers, US Expands Its Military Footprint",
-      "summary": "The United States has deployed a third aircraft carrier to the Middle East, significantly boosting its capabilities, despite a cease-fire with Iran.",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "url": "https://www.rferl.org/a/iran-us-strait-of-hormuz-blockade/33744467.html",
-      "bloc": "western",
-      "date": "2026-04-28",
-      "datetime": "2026-04-28T16:19:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil prices trim gains after UAE exits OPEC, OPEC+",
-      "summary": "LONDON: Oil prices rose more than 3 per cent on Tuesday (Apr 28) as stalled efforts to end the Iran war kept the Strait of Hormuz largely closed, constraining Middle East supplies, though the UAE's announcement that it would l",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/oil-prices-trim-gains-after-uae-exits-opec-opec-6086676",
-      "bloc": "western",
-      "date": "2026-04-28",
-      "datetime": "2026-04-28T13:26:02Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
+        "accountability",
         "impulsivity"
       ],
       "variable_key": null,
@@ -338,6 +362,31 @@
       "dimensions": [
         "accountability",
         "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "\"Political Disaster for Donald Trump\": Jeremy Scahill on Stalled U.S.-Iran Talks",
+      "summary": "Negotiations between the United States and Iran to end the war are at an impasse as the conflict enters its third month. The Wall Street Journal reported late Tuesday that Trump has told aides to prepare for an extended blockade of Iranian ports to ramp up th…",
+      "source": "Democracy Now!",
+      "url": "https://www.democracynow.org/2026/4/29/jeremy_scahill_iran_us_negotiations_impasse",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T12:13:45Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -745,6 +794,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Revenge Is A Dish Best Served Cold. Russia Deals Germany Impeccably Timed Oil Blow",
+      "summary": "Cut off of Kazakh oil through Druzhba pipeline amid global supply crunch deepens Germany’s crises.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/04/revenge-is-a-dish-best-served-cold-russia-deals-germany-impeccably-timed-oil-blow.html",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T09:00:49Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "What caused Tuapse refinery to burn again? #world",
       "summary": "Ukraine attack hits Russian oil refinery again A Ukrainian drone strike triggered another major fire at the Tuapse oil refinery on Russia’s Black Sea coast, marking the third attack on the port area in less than two weeks . The renewed strike matters because …",
       "source": "Alltoc.com",
@@ -775,29 +847,6 @@
       "bloc": "regional",
       "date": "2026-04-24",
       "datetime": "2026-04-24T16:52:48Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Toxic Rain Falls on Russia’s Tuapse City in Oil Facility Blaze",
-      "summary": "Polluted rain fell on Russia’s Black Sea city of Tuapse as authorities struggle to extinguish a blaze at local oil facilities following a drone attack, highlighting the environmental effects from the war in Ukraine.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/toxic-rain-falls-on-russias-tuapse-city-in-oil-facility-blaze",
-      "bloc": "western",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T12:56:05Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

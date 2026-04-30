@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-30T03:35:01.852Z",
+  "updated": "2026-04-30T08:28:00.068Z",
   "retention_days": 30,
   "items": [
     {
@@ -23295,7 +23295,116 @@
       "_from": "newsapi",
       "first_seen": "2026-04-30T03:35:01.852Z",
       "run_id": "2026-04-30T03:35"
+    },
+    {
+      "headline": "How the Iran war is hitting the UK",
+      "summary": "The likelihood of economic woes and unrest grows as the conflict shows no sign of ending.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/4/29/how-the-iran-war-is-hitting-the-uk",
+      "bloc": "regional",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T08:25:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-30T08:28:00.068Z",
+      "run_id": "2026-04-30T08:28"
+    },
+    {
+      "headline": "United Arab Emirates to Leave OPEC After 60 Years",
+      "summary": "UAE Announces Withdrawal from OPEC The United Arab Emirates (UAE) said on Tuesday, April 28, that it will leave the Organization of the Petroleum Exporting Countries (OPEC) and the wider OPEC+ group effective Friday, May 1, according to an official statement …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-29-uae-to-leave-opec-after-60-years.html",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-30T08:28:00.068Z",
+      "run_id": "2026-04-30T08:28"
+    },
+    {
+      "headline": "Donald Trump claims Iran in a ‘state of collapse’ as efforts to end war flounder",
+      "summary": "Donald Trump said Iran had informed him it was in a “state of collapse” and was figuring out its leadership situation, as efforts to end the conflict appeared at an impasse on Tuesday with the US president unhappy at the latest plans from Tehran.",
+      "source": "Independent.ie",
+      "url": "https://www.independent.ie/world-news/middle-east/donald-trump-claims-iran-in-a-state-of-collapse-as-efforts-to-end-war-flounder/a1734102333.html",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T04:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-30T08:28:00.068Z",
+      "run_id": "2026-04-30T08:28"
+    },
+    {
+      "headline": "What caused Tuapse refinery to burn again? #world",
+      "summary": "Ukraine attack hits Russian oil refinery again A Ukrainian drone strike triggered another major fire at the Tuapse oil refinery on Russia’s Black Sea coast, marking the third attack on the port area in less than two weeks . The renewed strike matters because …",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/world/what-caused-tuapse-refinery-to-burn-again",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T06:04:04Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-04-30T08:28:00.068Z",
+      "run_id": "2026-04-30T08:28"
     }
   ],
-  "total_items_ever": 951
+  "total_items_ever": 955
 }

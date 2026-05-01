@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-01T13:27:56.369Z",
+  "ts": "2026-05-01T19:18:59.431Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 74,
-    "updatedAt": "2026-05-01T13:27:56.369Z"
+    "updatedAt": "2026-05-01T19:18:59.431Z"
   },
   "items": [
+    {
+      "headline": "The only hotspot dodging America's housing crisis - despite it's many issues",
+      "summary": "The ongoing conflict in Iran has rippled through everything from flight prices to grocery shelves - and the housing market has not been spared.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/real-estate/article-15779801/miami-housing-market-crisis.html",
+      "bloc": "western",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T17:20:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Threatens Painful Response if US Resumes Attacks, Oil Prices Seesaw",
+      "summary": "Iran said on Thursday it would respond with “long and painful strikes” on U.S. positions if Washington renewed attacks, and also reasserted its control over the Strait of Hormuz, complicating U.S. plans for a coalition to reopen the waterway. Two …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/04/30/867906.htm",
+      "bloc": "western",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T15:20:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "UAE oil exit from OPEC signals focus on domestic priorities",
+      "summary": "Abu Dhabi's exit from OPEC signals a geopolitical shift and a pointed message to Saudi Arabia. What are the ripple effects on ties with Riyadh, the US, and Israel in the short and long term?",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/uae-oil-exit-from-opec-signals-focus-on-domestic-priorities/a-76998152",
+      "bloc": "western",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T14:26:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "From Gaza to Iran: Israel's regional conflict expands with little accountability",
       "summary": "As activists are detained at sea, Fintan Drury says scrutiny is intensifying over Israel’s actions in Gaza and beyond, while global powers avoid any chance to intervene.",
@@ -66,80 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran FM urges global community to hold aggressors accountable for 40-day imposed war",
-      "summary": "Iranian Foreign Minister Abbas Araghchi has called on the international community to hold the United States and the Israeli regime accountable for their 40-day war of aggression against Iran, warning that the resulting insecurity in the Persian Gulf and the S…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260430-presstv02.htm",
+      "headline": "Iran’s Oil Industry Faces a Geological Time Bomb",
+      "summary": "Weeks of US and Israeli air strikes, sanctions, and restrictions have hit Iran hard, but it could be geology that eventually pushes it into making concessions in its ongoing standoff with the United States. As the US naval blockade of Iran approaches the end …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Irans-Oil-Industry-Faces-a-Geological-Time-Bomb.html",
       "bloc": "western",
       "date": "2026-04-30",
-      "datetime": "2026-04-30T12:00:00Z",
+      "datetime": "2026-04-30T14:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "April 30: Iran declares 'new chapter' in managing Strait of Hormuz as US pressure wanes",
-      "summary": "Iran has moved to redefine the balance of power in the Persian Gulf, with the Leader of the Islamic Revolution, Ayatollah Sayyed Mojtaba Khamenei, declaring the start of a \"new chapter\" in the management of the Strait of Hormuz.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260430-presstv03.htm",
-      "bloc": "western",
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran dismisses GCC's anti-Iran allegations about retaliatory strikes as 'groundless'",
-      "summary": "The spokesperson for the Iranian Ministry of Foreign Affairs has categorically dismissed as \"unfounded and baseless\" the anti-Iran allegations made in a statement issued by the Persian Gulf Cooperation Council (GCC) regarding Tehran's retaliatory operations a…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260430-presstv09.htm",
-      "bloc": "western",
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -222,49 +248,21 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Chinese naval fleet heads to Strait of Hormuz amid US blockade tensions",
-      "summary": "The Chinese naval presence in the Strait of Hormuz complicates diplomatic efforts, increasing the risk of a direct military confrontation.\nThe post Chinese naval fleet heads to Strait of Hormuz amid US blockade tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/chinese-naval-fleet-heads-to-strait-of-hormuz-amid-us-blockade-tensions/",
+      "headline": "Democrats fail to shatter Republicans' resolve on eve of crucial Iran deadline",
+      "summary": "Senate Republicans reject Democrats' sixth attempt to limit President Donald Trump's authority in Iran as a critical 60-day war powers deadline arrives on Friday.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/democrats-fail-shatter-republicans-resolve-eve-crucial-iran-deadline",
       "bloc": "western",
-      "date": "2026-04-29",
-      "datetime": "2026-04-29T18:28:20Z",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T19:11:25Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Trump Iran war"
       ],
       "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz Nears Third Month of Closure",
-      "summary": "A fully-laden Japan-linked oil tanker completed a rare transit of the Strait of Hormuz, as the effective closure of the waterway to most international traffic enters its third month.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/strait-of-hormuz-nears-third-month-of-closure/",
-      "bloc": "western",
-      "date": "2026-04-29",
-      "datetime": "2026-04-29T16:19:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
+        "accountability",
         "impulsivity"
       ],
       "variable_key": null,
@@ -516,6 +514,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Soaring food and petrol prices... and SIX interest rate hikes plunging the UK towards recession: BoE leads dire warnings over 'Trumpflation' risks - with no end in sight to Iran chaos",
+      "summary": "Brits face the possibility of six interest rate rises over the coming year as policymakers battle to contain inflation - which they fear could nearly double to 6.2 per cent.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15779619/Food-petrol-prices-rate-recession-Bank-Trumpflation-Iran.html",
+      "bloc": "western",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T14:20:19Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "US yield surge piles fresh pressure on India bonds already bruised by oil shock",
       "summary": "The Indian 6.48% 2035 bond yield is expected to range between 6.98% and 7.05%, following a close of 6.9928% on Wednesday, according to a private-bank trader",
       "source": "BusinessLine",
@@ -601,32 +625,6 @@
       "bloc": "western",
       "date": "2026-04-27",
       "datetime": "2026-04-27T19:02:33Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of April 27, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-04-27-2026/",
-      "bloc": "western",
-      "date": "2026-04-27",
-      "datetime": "2026-04-27T12:58:38Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -796,6 +794,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Zelenskyy says he's seeking details of Putin’s May 9 ceasefire proposal",
+      "summary": "Ukrainian President Volodymyr Zelenskyy says he's seeking more details about a short-term ceasefire that Russia proposed to U.S. President Donald Trump",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-seeking-details-putins-9-ceasefire-proposal-132530955",
+      "bloc": "western",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T13:28:17Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Ukraine Strikes Deep Inside Russia, Tuapse Hit Again",
       "summary": "Ukrainian forces again struck an oil refinery in Russia's Black Sea port of Tuapse early on May 1, a day after launching drones at a Russian oil facility some 1,500 kilometers from the Ukrainian border, the latest in a series of long-range strikes by Kyiv tar…",
       "source": "Globalsecurity.org",
@@ -849,29 +870,6 @@
       "bloc": "western",
       "date": "2026-04-29",
       "datetime": "2026-04-29T09:00:49Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "What caused Tuapse refinery to burn again? #world",
-      "summary": "Ukraine attack hits Russian oil refinery again A Ukrainian drone strike triggered another major fire at the Tuapse oil refinery on Russia’s Black Sea coast, marking the third attack on the port area in less than two weeks . The renewed strike matters because …",
-      "source": "Alltoc.com",
-      "url": "https://alltoc.com/world/what-caused-tuapse-refinery-to-burn-again",
-      "bloc": "western",
-      "date": "2026-04-29",
-      "datetime": "2026-04-29T06:04:04Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

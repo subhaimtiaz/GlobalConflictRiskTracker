@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-01T08:19:22.932Z",
+  "ts": "2026-05-01T13:27:56.369Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,121 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 74,
-    "updatedAt": "2026-05-01T08:19:22.932Z"
+    "updatedAt": "2026-05-01T13:27:56.369Z"
   },
   "items": [
     {
-      "headline": "US-Led Sanctions: The End of a Regime",
-      "summary": "Why the US sanctions regime has become a dead letter.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/04/us-led-sanctions-the-end-of-a-regime.html",
+      "headline": "From Gaza to Iran: Israel's regional conflict expands with little accountability",
+      "summary": "As activists are detained at sea, Fintan Drury says scrutiny is intensifying over Israel’s actions in Gaza and beyond, while global powers avoid any chance to intervene.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/readme/israel-flotilla-7027698-Apr2026/",
       "bloc": "western",
       "date": "2026-04-30",
-      "datetime": "2026-04-30T06:55:37Z",
+      "datetime": "2026-04-30T13:05:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "$25bn or $1 trillion: How much has Iran war really cost the US?",
+      "summary": "Heated exchange on Capitol Hill reflects growing unease among lawmakers over a lack of transparency in cost of Iran war.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/4/30/25bn-or-1-trillion-how-much-has-iran-war-really-cost-the-us",
+      "bloc": "regional",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T12:53:19Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran FM urges global community to hold aggressors accountable for 40-day imposed war",
+      "summary": "Iranian Foreign Minister Abbas Araghchi has called on the international community to hold the United States and the Israeli regime accountable for their 40-day war of aggression against Iran, warning that the resulting insecurity in the Persian Gulf and the S…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260430-presstv02.htm",
+      "bloc": "western",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "April 30: Iran declares 'new chapter' in managing Strait of Hormuz as US pressure wanes",
+      "summary": "Iran has moved to redefine the balance of power in the Persian Gulf, with the Leader of the Islamic Revolution, Ayatollah Sayyed Mojtaba Khamenei, declaring the start of a \"new chapter\" in the management of the Strait of Hormuz.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260430-presstv03.htm",
+      "bloc": "western",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran dismisses GCC's anti-Iran allegations about retaliatory strikes as 'groundless'",
+      "summary": "The spokesperson for the Iranian Ministry of Foreign Affairs has categorically dismissed as \"unfounded and baseless\" the anti-Iran allegations made in a statement issued by the Persian Gulf Cooperation Council (GCC) regarding Tehran's retaliatory operations a…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260430-presstv09.htm",
+      "bloc": "western",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,117 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump warns Iran blockade could last months, sending oil prices to highest level in four years",
-      "summary": "Trump has said the blockade of Iranian ports – which Tehran has demanded must end before any deal – is more effective than bombing.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/trump-warns-us-naval-blockade-against-iran-could-last-months-7027500-Apr2026/",
+      "headline": "The Strait of Hormuz is a data problem, not just a military one",
+      "summary": "GPS jamming, zombie ship IDs, and AIS blackouts have turned the world's most important oil corridor into a data void—and the real threat to global markets.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/30/the-strait-of-hormuz-is-a-data-problem-not-just-a-military-one/",
       "bloc": "western",
       "date": "2026-04-30",
-      "datetime": "2026-04-30T06:19:19Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israel’s economy and financial markets are booming — even as conflict rages in the Middle East",
-      "summary": "The Israeli economy is massively outperforming a swathe of developed-market peers, including key ally the United States.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/30/israel-economy-stock-market-tel-aviv-trump-netanyahu-gdp-us-inflation.html",
-      "bloc": "western",
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T05:31:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Cyberwarfare and the Iran Conflict",
-      "summary": "Photo Credit:\n \n Defense Visual Information Distribution ServiceIn 2026, conflict doesn’t pause just because the shooting does.",
-      "source": "Americanthinker.com",
-      "url": "https://www.americanthinker.com/articles/2026/04/cyberwarfare_and_the_iran_conflict.html",
-      "bloc": "western",
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T04:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump holds talks on prolonged Iran blockade, urges Tehran to reach a deal",
-      "summary": "President Donald Trump discussed how to mitigate the impact of a possible months-long U.S. blockade of Iran's ports with oil companies, a White House official said on Wednesday, as the president urged Tehran to &quot;get smart soon&quot; and sign a deal. Tues…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/trump-holds-talks-on-prolonged-iran-blockade-urges-tehran-to-reach-a-deal",
-      "bloc": "western",
-      "date": "2026-04-29",
-      "datetime": "2026-04-29T21:27:57Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran and United States locked in blockade standoff with no military solution in sight",
-      "summary": "The U.S. has deployed a massive naval force including three carrier groups, 240 jets, and 16 destroyers to enforce a distant blockade over 220 miles from the Strait of Hormuz. Iran has responded by seizing foreign-flagged ships and requiring permits for strai…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-04-30-iran-united-states-blockade-standoff.html",
-      "bloc": "western",
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T06:00:00Z",
+      "datetime": "2026-04-30T08:30:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -174,6 +174,32 @@
       "summary": "Oil prices surged to $100 per barrel as the Strait of Hormuz blockade entered its second week, triggering fresh panic across global markets. Bitcoin fell to one-week lows under $76,000 as risk assets sold off amid escalating US-Iran tensions over the critical…",
       "source": "Naturalnews.com",
       "url": "https://www.naturalnews.com/2026-04-30-strait-of-hormuz-blockade-sends-oil-to-100.html",
+      "bloc": "western",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran and United States locked in blockade standoff with no military solution in sight",
+      "summary": "The U.S. has deployed a massive naval force including three carrier groups, 240 jets, and 16 destroyers to enforce a distant blockade over 220 miles from the Strait of Hormuz. Iran has responded by seizing foreign-flagged ships and requiring permits for strai…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-30-iran-united-states-blockade-standoff.html",
       "bloc": "western",
       "date": "2026-04-30",
       "datetime": "2026-04-30T06:00:00Z",
@@ -229,32 +255,6 @@
       "bloc": "western",
       "date": "2026-04-29",
       "datetime": "2026-04-29T16:19:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "60 days later: the US-Israeli war on Iran so far",
-      "summary": "60 days into the US-Israeli war on Iran, RT looks at how the conflict began, how Iran retaliated, and what comes next Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/639259-iran-war-60-days/",
-      "bloc": "western",
-      "date": "2026-04-29",
-      "datetime": "2026-04-29T15:28:34Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -412,6 +412,30 @@
         "survival",
         "impulsivity",
         "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "China is Equal In Any Future Fight, General Warns...",
+      "summary": "Faced with the rapidly growing China threat, the U.S. has to start hardening its bases now, said Marine Lt. Gen. Stephen Sklenka.",
+      "source": "Twz.com",
+      "url": "http://www.twz.com/sea/china-is-americas-military-equal-now-and-in-any-future-fight-marine-general-warns",
+      "bloc": "western",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T13:00:13Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -622,6 +646,33 @@
       "_from": "newsapi"
     },
     {
+      "headline": "W.O.R.R is the worry. A four-way assault pummells Indian macro",
+      "summary": "India faces a rare convergence of four macro shocks—war-driven oil surge, a record weak rupee, and a likely poor monsoon—raising inflation and growth risks. The Finance Ministry warns these interacting pressures could strain external balances and policy choic…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/india-economy-iran-warcrude-oil-prices-rupee-record-low-rains-inflation-growth-risks-2026-w-o-r-r-is-the-worry-a-four-way-assault-pummells-indian-macro/articleshow/130628049.cms",
+      "bloc": "regional",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T08:43:25Z",
+      "leaders": [
+        "Kim Jong-un",
+        "Vladimir Putin",
+        "General Asim Munir"
+      ],
+      "watch_terms": [
+        "nuclear signalling threat"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "survival",
+        "narcissism"
+      ],
+      "variable_key": "nuclearSignalling",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran nuclear shake-up: Hardliner poised to seize control of U.S. talks after Ghalibaf forced out",
       "summary": "Iran’s nuclear negotiating team is undergoing a major shakeup as the head of the delegation steps down after attempting to discuss the nuclear issue with the U.S. Hardliner Saeed Jalili is expected to replace Mohammad Bagher Ghalibaf as Iran’s lead nuclear ne…",
       "source": "Naturalnews.com",
@@ -741,6 +792,52 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ukraine Strikes Deep Inside Russia, Tuapse Hit Again",
+      "summary": "Ukrainian forces again struck an oil refinery in Russia's Black Sea port of Tuapse early on May 1, a day after launching drones at a Russian oil facility some 1,500 kilometers from the Ukrainian border, the latest in a series of long-range strikes by Kyiv tar…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/04/ukraine-260430-rferl02.htm",
+      "bloc": "western",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "60 days later: the US-Israeli war on Iran so far",
+      "summary": "60 days into the US-Israeli war on Iran, RT looks at how the conflict began, how Iran retaliated, and what comes next Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/639259-iran-war-60-days/",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T15:28:34Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

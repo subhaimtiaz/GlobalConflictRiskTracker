@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-30T19:40:34.446Z",
+  "ts": "2026-05-01T03:47:09.415Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 74,
-    "updatedAt": "2026-04-30T19:40:34.446Z"
+    "updatedAt": "2026-05-01T03:47:09.415Z"
   },
   "items": [
+    {
+      "headline": "Trump holds talks on prolonged Iran blockade, urges Tehran to reach a deal",
+      "summary": "President Donald Trump discussed how to mitigate the impact of a possible months-long U.S. blockade of Iran's ports with oil companies, a White House official said on Wednesday, as the president urged Tehran to &quot;get smart soon&quot; and sign a deal. Tues…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/trump-holds-talks-on-prolonged-iran-blockade-urges-tehran-to-reach-a-deal",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T21:27:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Who Is the Real Base of the Democratic Party?",
       "summary": "Jamal Simmons on lessons from the 2024 election, how Democrats can win in 2028, and who the real base of the Democratic Party is. Plus: Why the White House Correspondents’ Dinner feels so out of touch, and The Magician, by Colm Tóibín.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-04-29",
       "datetime": "2026-04-29T12:25:12Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran-U.S. diplomatic impasse continues despite Tehran's new proposal to end war",
-      "summary": "Iran's new proposal to the United States to reopen the Strait of Hormuz and end the two-month war -- while postponing nuclear negotiations to a later stage -- has failed to produce any breakthrough in the bilateral diplomatic impasse amid mounting global call…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260429-pdo01.htm",
-      "bloc": "western",
-      "date": "2026-04-29",
-      "datetime": "2026-04-29T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -466,30 +466,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Why China is recruiting fishermen to 'maintain presence' — not to fish",
-      "summary": "Off China's southern coast, hundreds of fishing boats sit idle. The crews aren't there to fish, but rather to \"maintain presence\" as part of a shadowy, state-funded fleet.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-04-24/south-china-sea-state-funded-fishing-boat-militia/106570054",
-      "bloc": "western",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T18:55:41Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Pakistan PM: Oil Import Costs Up 167% Since Iran War Began",
       "summary": "Pakistan’s Prime Minister Shehbaz Sharif announced on Wednesday that the country’s oil import bill has jumped 167% to $800 million per week amid the war in Iran from around $300 million weekly before the conflict began. Brent crude for June delivery was tradi…",
       "source": "OilPrice.com",
@@ -739,31 +715,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Anzac then and now: as trans-Tasman defence relations get closer, NZ must be on guard",
-      "summary": "In an increasingly unstable world, building the defence relationship with Australia makes sense. But New Zealand has to safeguard its military sovereignty, too.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/anzac-then-and-now-as-trans-tasman-defence-relations-get-closer-nz-must-be-on-guard-281109",
-      "bloc": "western",
-      "date": "2026-04-23",
-      "datetime": "2026-04-23T22:20:05Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-04-30T19:39:29.267Z",
+  "updated": "2026-05-01T03:46:04.245Z",
   "retention_days": 30,
   "items": [
     {
@@ -199,32 +199,6 @@
       "run_id": "2026-04-03T18:23"
     },
     {
-      "headline": "Will China join Pakistan-led efforts to mediate US-Iran peace?",
-      "summary": "Pakistan's Deputy PM Ishaq Dar visits China after Islamabad talks to broker negotiations between the US and Iran.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/3/31/will-china-join-pakistan-led-efforts-to-mediate-us-iran-peace",
-      "bloc": "regional",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T13:32:24Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:23:34.131Z",
-      "run_id": "2026-04-03T18:23"
-    },
-    {
       "headline": "Trump's Iran-war address caused another oil spike. Here's what smart people in markets are saying.",
       "summary": "Business Insider gathered commentary from top expects as oil prices climbed on Thursday after Trump's remarks on the war in Iran.",
       "source": "Business Insider",
@@ -309,61 +283,6 @@
       "run_id": "2026-04-03T18:23"
     },
     {
-      "headline": "Adam Kinzinger: The Prospects in the Iran War Mess",
-      "summary": "Adam Kinzinger writes a regular blog, where this important post appeared. He was a Republican member of Congress from Illinois who agreed to serve on the January 6 Committee, knowing his Trump-aligned party would isolate him. He decided not to run again, but …",
-      "source": "Dianeravitch.net",
-      "url": "https://dianeravitch.net/2026/03/31/adam-kinzinger-the-prospects-in-the-iran-war-mess/",
-      "bloc": "western",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T18:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:23:34.131Z",
-      "run_id": "2026-04-03T18:23"
-    },
-    {
-      "headline": "Deterrent or danger: After Iran, are Saudi Arabia and Turkey next in line for nuclear weapons?",
-      "summary": "The nuclear threat in the Middle East is growing due to the Iran war, and not just because nuclear sites in Iran and Israel are being attacked. Other countries may decide they're safer with a nuclear weapon too.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/iran-war-nuclear-weapons-race-saudi-arabia-turkey-united-arab-emirates-egypt/a-76613406",
-      "bloc": "western",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T20:00:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:23:34.131Z",
-      "run_id": "2026-04-03T18:23"
-    },
-    {
       "headline": "Iran and proxies fire fewer total projectiles, increase accuracy in attacks on region (March 28–April 1 updates)",
       "summary": "Between March 28 and April 1, Iran and its allied militias continued launching drones, missiles, and rockets against regional countries—with less overall frequency but more accuracy. The attacks targeted energy infrastructure, airports, military facilities, p…",
       "source": "Longwarjournal.org",
@@ -387,186 +306,6 @@
       "_from": "newsapi",
       "first_seen": "2026-04-03T18:23:34.131Z",
       "run_id": "2026-04-03T18:23"
-    },
-    {
-      "headline": "Trump threatens to destroy Iran's desalination plants. Here’s what that could mean for the Mideast",
-      "summary": "U.S. President Donald Trump on Monday threatened to target Iran’s energy infrastructure, including the country's desalination plants. Such a move — and Iran's possible targeting of the plants of its Gulf Arab neighbors — could have devastating impacts across …",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/features/opinions/trump-threatens-to-destroy-iran%27s-desalination-plants.-here%E2%80%99s-what-that-could-mean-for-the-mideast",
-      "bloc": "western",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T21:33:24Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:23:34.131Z",
-      "run_id": "2026-04-03T18:23"
-    },
-    {
-      "headline": "Crude Slides as War Exit Signals Emerge",
-      "summary": "Oil declined as Iran and the US signaled potential de-escalation despite ongoing supply disruptions.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/crude_slides_as_war_exit_signals_emerge-31-mar-2026-183343-article/",
-      "bloc": "western",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T20:18:54Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:23:34.131Z",
-      "run_id": "2026-04-03T18:23"
-    },
-    {
-      "headline": "Iran war: What is happening on day 32 of US-Israel attacks?",
-      "summary": "In an exclusive interview with Al Jazeera, Secretary of State Rubio said US war objectives would be achieved in 'weeks'.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/3/31/iran-war-what-is-happening-on-day-32-of-us-israel-attacks",
-      "bloc": "regional",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T07:49:45Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:23:34.131Z",
-      "run_id": "2026-04-03T18:23"
-    },
-    {
-      "headline": "Satellite images begin to show damage wrought by Iran war",
-      "summary": "Satellite images are emerging, offering a view of the Iran war's damage. Ships are seen burning in an Iranian port. Military bases in the region show destroyed buildings. Information on the war's toll has been limited. High-resolution images from various firm…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/satellite-images-reveal-devastating-impact-of-iran-war-burning-ships-and-military-base-destruction/articleshow/129924680.cms",
-      "bloc": "regional",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T11:53:52Z",
-      "leaders": [],
-      "watch_terms": [
-        "airstrike missile drone"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:23:34.131Z",
-      "run_id": "2026-04-03T18:23"
-    },
-    {
-      "headline": "Gulf allies privately make case to keep fighting until Iran is decisively defeated",
-      "summary": "Saudi Arabia, the United Arab Emirates and other Gulf allies of the United States are urging President Donald Trump to keep prosecuting his war against Iran, saying the month of strikes has not weakened Tehran enough.",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/world/gulf-allies-privately-make-case-to-keep-fighting-until-iran-is-decisively-defeated",
-      "bloc": "western",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T17:43:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman"
-      ],
-      "watch_terms": [
-        "Iran missiles Gulf"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:57:53.838Z",
-      "run_id": "2026-04-03T18:57"
-    },
-    {
-      "headline": "Iran attacks Gulf, Israeli infrastructure and Trump considers a big strike to wipe out drinking water supplies",
-      "summary": "Trump threatened widespread destruction of Iran’s energy resources and other vital infrastructure, potentially including desalination plants.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/03/31/will-trump-attack-drinking-water-iran-infrastructure/",
-      "bloc": "western",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T13:03:12Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman"
-      ],
-      "watch_terms": [
-        "Iran missiles Gulf"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:57:53.838Z",
-      "run_id": "2026-04-03T18:57"
-    },
-    {
-      "headline": "Trump threatens to destroy Iran's civilian infrastructure if deal is not reached 'shortly'",
-      "summary": "Trump has repeatedly claimed to be making diplomatic progress— though Tehran denies negotiating directly — while ramping up his threats and sending thousands more US troops to West Asia",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-threatens-to-destroy-irans-civilian-infrastructure-if-deal-is-not-reached-shortly/article70805733.ece",
-      "bloc": "western",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T05:54:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman"
-      ],
-      "watch_terms": [
-        "Iran missiles Gulf"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:57:53.838Z",
-      "run_id": "2026-04-03T18:57"
     },
     {
       "headline": "Harris ripped over video previewing Trump speech she claims she wouldn't watch: 'Sit this one out'",
@@ -671,84 +410,6 @@
       "variable_key": null,
       "event_type": "regional_strike",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:57:53.838Z",
-      "run_id": "2026-04-03T18:57"
-    },
-    {
-      "headline": "Patriotic Purge: The Real Cost of War",
-      "summary": "Fighting for corruption and profits The great Gen. Smedley Butler wrote his classic War is a Racket in response to the pointless carnage of WWI. Some 15-22 million largely adolescent boys died for absolutely nothing. That fact that they can’t provide a more a…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/patriotic-purge-the-real-cost-of-war/",
-      "bloc": "western",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T14:00:00Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Hegseth fired military"
-      ],
-      "dimensions": [
-        "accountability",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:57:53.838Z",
-      "run_id": "2026-04-03T18:57"
-    },
-    {
-      "headline": "Iran hits oil tanker off Dubai as fighting continues on all fronts",
-      "summary": "Iran attacked and set on fire a massive Kuwaiti oil tanker off Dubai overnight, as Gulf states increasingly suffer the fallout from the war.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/03/31/nx-s1-5766991/iran-war-lebanon-israel-dubai",
-      "bloc": "western",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T10:12:08Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Hegseth fired military"
-      ],
-      "dimensions": [
-        "accountability",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-03T18:57:53.838Z",
-      "run_id": "2026-04-03T18:57"
-    },
-    {
-      "headline": "Trump tells Europe 'get your own oil,' Iran hits oil tanker off Dubai",
-      "summary": "Iran attacked and set on fire a massive Kuwaiti oil tanker off Dubai overnight, as Gulf states increasingly suffer the fallout from the war.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/03/31/nx-s1-5766991/iran-war-lebanon-israel-dubai-trump-oil-europe",
-      "bloc": "western",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T10:12:08Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Hegseth fired military"
-      ],
-      "dimensions": [
-        "accountability",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi",
       "first_seen": "2026-04-03T18:57:53.838Z",
@@ -939,34 +600,6 @@
       "run_id": "2026-04-03T19:58"
     },
     {
-      "headline": "Council on Foreign Relations warns of India-Pakistan conflict risk from terrorist incident",
-      "summary": "CFR's 2026 Preventive Priorities Survey places another India-Pakistan military confrontation under Tier II risk, potentially triggered by terrorist attack traced to Pakistan-based groups. Survey notes Pakistan's diplomatic momentum versus India's marginalization.",
-      "source": "Council on Foreign Relations",
-      "url": null,
-      "bloc": "institutional",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T13:00:00Z",
-      "leaders": [
-        "Narendra Modi",
-        "General Asim Munir"
-      ],
-      "watch_terms": [
-        "India Pakistan",
-        "LoC violations"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival"
-      ],
-      "variable_key": "india_pakistan_terror_risk",
-      "event_type": "static_variable",
-      "escalation": 6,
-      "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-03T19:58:01.568Z",
-      "run_id": "2026-04-03T19:58"
-    },
-    {
       "headline": "US Burned 14 Years of Missiles in 30 Days",
       "summary": "The US fired 850 Tomahawk missiles in 30 days but buys only 57 a year. As munitions run dry, the Pentagon pivots to ground troops in Iran, guaranteeing the Strait of Hormuz stays closed, European gas storage hits crisis levels, and Western energy prices keep …",
       "source": "Trendytechtribe.com",
@@ -1024,40 +657,6 @@
         "proposed_delta": 1,
         "rationale": "Successfully positioning Pakistan as neutral mediator enhances diplomatic standing",
         "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-03T21:07:04.183Z",
-      "run_id": "2026-04-03T21:07"
-    },
-    {
-      "headline": "Taiwan Opposition Leader Accepts Xi Jinping's Invitation to Visit China",
-      "summary": "Kuomintang chairperson Cheng Li-wun accepted an invitation from Chinese leader Xi Jinping to visit China from April 7-12. The visit comes amid tensions as Taiwan's DPP accuses Cheng of doing Beijing's bidding by stalling government defense spending plans.",
-      "source": "The Manila Times",
-      "url": null,
-      "bloc": "regional",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T12:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "China Taiwan",
-        "China nuclear"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "xi_taiwan_opposition",
-      "event_type": "leader_statement",
-      "escalation": 3,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Xi Jinping",
-        "dimension": "values",
-        "proposed_delta": 1,
-        "rationale": "Engaging Taiwan opposition demonstrates continued diplomatic approach over military confrontation",
-        "confidence": "medium"
       },
       "_from": "claude",
       "first_seen": "2026-04-03T21:07:04.183Z",
@@ -1444,33 +1043,6 @@
         "rationale": "Physical absence and inability to make public appearances while military controls access suggests weakened position",
         "confidence": "medium"
       },
-      "_from": "claude",
-      "first_seen": "2026-04-04T05:18:13.742Z",
-      "run_id": "2026-04-04T05:18"
-    },
-    {
-      "headline": "China and Pakistan Launch Five-Point Peace Initiative for Iran War",
-      "summary": "Pakistani Foreign Minister Mohammad Ishaq Dar met Chinese Foreign Minister Wang Yi in Beijing to announce a new initiative for ending the Iran war. The plan includes immediate ceasefire, securing the Strait of Hormuz, and UN-backed negotiations, marking China's formal entry into mediating the conflict.",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3348571/china-pledges-strategic-coordination-pakistan-help-end-us-war-iran",
-      "bloc": "regional",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T12:00:00Z",
-      "leaders": [
-        "Xi Jinping",
-        "General Asim Munir"
-      ],
-      "watch_terms": [
-        "China Pakistan",
-        "China Iran"
-      ],
-      "dimensions": [
-        "values"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 4,
-      "persian_only": false,
       "_from": "claude",
       "first_seen": "2026-04-04T05:18:13.742Z",
       "run_id": "2026-04-04T05:18"
@@ -1976,29 +1548,6 @@
       "event_type": "infrastructure_attack",
       "escalation": 4,
       "persian_only": true,
-      "dimension_signal": null,
-      "_from": "claude",
-      "first_seen": "2026-04-04T14:06:45.174Z",
-      "run_id": "2026-04-04T14:06"
-    },
-    {
-      "headline": "IAEA unable to verify location of Iran's highly enriched uranium amid underground facilities",
-      "summary": "International Atomic Energy Agency reported inability to resume inspections in Iran with highly enriched uranium location unascertained, despite eight months since June 2025 nuclear strikes. Much uranium expected at underground facilities in Isfahan amid Iran's breakout capability.",
-      "source": "UK Parliament Research Briefings",
-      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-10521/CBP-10521.pdf",
-      "bloc": "institutional",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T00:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "nuclear Iran",
-        "IAEA"
-      ],
-      "dimensions": [],
-      "variable_key": null,
-      "event_type": "static_variable",
-      "escalation": 5,
-      "persian_only": false,
       "dimension_signal": null,
       "_from": "claude",
       "first_seen": "2026-04-04T14:06:45.174Z",
@@ -3331,33 +2880,6 @@
         "rationale": "Increasing international conditions and oversight erode autonomous decision-making capability",
         "confidence": "medium"
       },
-      "_from": "claude",
-      "first_seen": "2026-04-06T06:21:45.652Z",
-      "run_id": "2026-04-06T06:21"
-    },
-    {
-      "headline": "IAEA Confirms Iran's Natanz Nuclear Facility Rendered Inaccessible by US-Israeli Strikes",
-      "summary": "The International Atomic Energy Agency confirmed that while bombings failed to destroy Iran's Natanz nuclear facility, significant damage to entrance buildings has made it inaccessible. The IAEA reports no access to any of Iran's four declared enrichment facilities and cannot verify the current size or whereabouts of Iran's enriched uranium stockpile, creating a major nonproliferation blind spot.",
-      "source": "IAEA",
-      "url": "https://responsiblestatecraft.org/iran-nuclear-program/",
-      "bloc": "institutional",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T14:20:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "nuclear Iran",
-        "IAEA"
-      ],
-      "dimensions": [
-        "accountability",
-        "survival"
-      ],
-      "variable_key": "iran_nuclear_verification",
-      "event_type": "static_variable",
-      "escalation": 5,
-      "persian_only": false,
       "_from": "claude",
       "first_seen": "2026-04-06T06:21:45.652Z",
       "run_id": "2026-04-06T06:21"
@@ -6661,33 +6183,6 @@
       "run_id": "2026-04-08T20:10"
     },
     {
-      "headline": "China-Pakistan Joint Peace Plan for Iran War Aims to Project Regional Influence",
-      "summary": "China and Pakistan announced joint five-point peace plan for Iran War following meeting between Foreign Ministers Wang Yi and Ishaq Dar, as Beijing seeks to portray itself as mediator while protecting economic interests.",
-      "source": "American Enterprise Institute",
-      "url": "https://www.aei.org/articles/china-taiwan-update-april-3-2026/",
-      "bloc": "institutional",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T15:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "China Iran",
-        "China Pakistan"
-      ],
-      "dimensions": [
-        "values"
-      ],
-      "variable_key": "china_iran_mediation",
-      "event_type": "leader_statement",
-      "escalation": 3,
-      "persian_only": false,
-      "dimension_signal": null,
-      "_from": "claude",
-      "first_seen": "2026-04-08T20:10:44.449Z",
-      "run_id": "2026-04-08T20:10"
-    },
-    {
       "headline": "Pakistan's 'Islamic NATO' Strategy Fails as Regional Isolation Deepens",
       "summary": "Field Marshal Asim Munir's ambition to position Pakistan as security leader in Muslim world faces harsh reality as ongoing wars and domestic pressures expose limits of 'Islamic NATO' strategy, leaving Pakistan increasingly isolated.",
       "source": "Zee News",
@@ -6831,39 +6326,6 @@
         "proposed_delta": 2,
         "rationale": "Accelerating nuclear weapons expansion in response to US-Israeli operations demonstrates heightened security concerns",
         "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-09T01:27:58.574Z",
-      "run_id": "2026-04-09T01:27"
-    },
-    {
-      "headline": "China and Pakistan jointly release five-point peace plan for Iran War",
-      "summary": "PRC and Pakistan announced joint peace plan following meeting between Pakistan's Ishaq Dar and Chinese Foreign Minister Wang Yi. Plan calls for immediate cessation of hostilities and peace talks while PRC opposes US-Israel attacks on Iranian nuclear facilities.",
-      "source": "AEI",
-      "url": "https://www.aei.org/articles/china-taiwan-update-april-3-2026/",
-      "bloc": "institutional",
-      "date": "2026-03-31",
-      "datetime": "2026-03-31T00:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "China Iran",
-        "China Pakistan"
-      ],
-      "dimensions": [
-        "values"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 3,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Xi Jinping",
-        "dimension": "values",
-        "proposed_delta": 1,
-        "rationale": "Proposing peace plan while opposing nuclear facility attacks demonstrates value-based diplomatic positioning",
-        "confidence": "medium"
       },
       "_from": "claude",
       "first_seen": "2026-04-09T01:27:58.574Z",
@@ -23986,7 +23448,35 @@
       "_from": "newsapi",
       "first_seen": "2026-04-30T19:39:29.267Z",
       "run_id": "2026-04-30T19:39"
+    },
+    {
+      "headline": "Trump holds talks on prolonged Iran blockade, urges Tehran to reach a deal",
+      "summary": "President Donald Trump discussed how to mitigate the impact of a possible months-long U.S. blockade of Iran's ports with oil companies, a White House official said on Wednesday, as the president urged Tehran to &quot;get smart soon&quot; and sign a deal. Tues…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/trump-holds-talks-on-prolonged-iran-blockade-urges-tehran-to-reach-a-deal",
+      "bloc": "western",
+      "date": "2026-04-29",
+      "datetime": "2026-04-29T21:27:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-01T03:46:04.245Z",
+      "run_id": "2026-05-01T03:46"
     }
   ],
-  "total_items_ever": 976
+  "total_items_ever": 977
 }

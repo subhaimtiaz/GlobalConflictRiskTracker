@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-02T03:21:40.963Z",
+  "ts": "2026-05-02T07:51:40.474Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 74,
-    "updatedAt": "2026-05-02T03:21:40.963Z"
+    "updatedAt": "2026-05-02T07:51:40.474Z"
   },
   "items": [
+    {
+      "headline": "Iran activates air defenses as Trump faces congressional deadline",
+      "summary": "Tehran's air defenses were activated to counter small aircraft and drones late Thursday, as the White House signalled that it will not be reined in by a congressional deadline on the Iran war.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/iran-activates-air-defenses-as-trump-faces-congressional-deadline-221685",
+      "bloc": "western",
+      "date": "2026-05-01",
+      "datetime": "2026-05-01T06:46:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Prominent U.S. aircraft carrier retreats from the Middle East for repairs",
+      "summary": "The world’s most advanced aircraft carrier is limping home to Virginia not victorious, but battered. The USS Gerald R. Ford endured a 30-hour laundry room fire that sickened 200 sailors, forced 600 crew members into damaged quarters, and pushed the vessel pas…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-01-prominent-us-aircraft-carrier-retreats-for-repairs.html",
+      "bloc": "western",
+      "date": "2026-05-01",
+      "datetime": "2026-05-01T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Roaming Charges: Bad Citizens",
+      "summary": "Cole Allen had been sold too many promises that didn’t pan out. The promise of hope and change. The promise of restoring the “soul of America,” whatever that really means. The promise of nostalgia restored, a reified America from the land of promise and dream…",
+      "source": "CounterPunch",
+      "url": "https://www.counterpunch.org/?p=409933",
+      "bloc": "western",
+      "date": "2026-05-01",
+      "datetime": "2026-05-01T05:58:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Hezbollah drone strikes cause Israeli operational collapse in Lebanon",
       "summary": "Hezbollah's drone strikes exacerbate Israel's security challenges, potentially impacting Netanyahu's political future and regional stability.\nThe post Hezbollah drone strikes cause Israeli operational collapse in Lebanon appeared first on Crypto Briefing.",
@@ -66,80 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The UAE just quit OPEC. US and Israel should be paying attention",
-      "summary": "Cartel membership came with Arab political expectations. Independence from it comes with Arab political freedom.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/426365",
+      "headline": "Iranian Oil Smuggling Scheme Uses Fake Iraqi Ship Identities to Evade U.S. Blockade, Intelligence Firm Says",
+      "summary": "A maritime intelligence firm reported on April 29 that a group of U.S.-sanctioned oil tankers are falsifying their location data to appear anchored off Iraq while secretly loading Iranian crude, according to Windward AI. The scheme involves four very large cr…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-01-iran-oil-smuggling-fake-iraqi-ship-identities.html",
       "bloc": "western",
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T20:05:26Z",
+      "date": "2026-05-01",
+      "datetime": "2026-05-01T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The only hotspot dodging America's housing crisis - despite it's many issues",
-      "summary": "The ongoing conflict in Iran has rippled through everything from flight prices to grocery shelves - and the housing market has not been spared.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/real-estate/article-15779801/miami-housing-market-crisis.html",
-      "bloc": "western",
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T17:20:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Threatens Painful Response if US Resumes Attacks, Oil Prices Seesaw",
-      "summary": "Iran said on Thursday it would respond with “long and painful strikes” on U.S. positions if Washington renewed attacks, and also reasserted its control over the Strait of Hormuz, complicating U.S. plans for a coalition to reopen the waterway. Two …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/04/30/867906.htm",
-      "bloc": "western",
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T15:20:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -166,6 +192,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Threatens Painful Response if US Resumes Attacks, Oil Prices Seesaw",
+      "summary": "Iran said on Thursday it would respond with “long and painful strikes” on U.S. positions if Washington renewed attacks, and also reasserted its control over the Strait of Hormuz, complicating U.S. plans for a coalition to reopen the waterway. Two …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/04/30/867906.htm",
+      "bloc": "western",
+      "date": "2026-04-30",
+      "datetime": "2026-04-30T15:20:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,32 +255,6 @@
       "bloc": "western",
       "date": "2026-04-30",
       "datetime": "2026-04-30T08:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran and United States locked in blockade standoff with no military solution in sight",
-      "summary": "The U.S. has deployed a massive naval force including three carrier groups, 240 jets, and 16 destroyers to enforce a distant blockade over 220 miles from the Strait of Hormuz. Iran has responded by seizing foreign-flagged ships and requiring permits for strai…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-04-30-iran-united-states-blockade-standoff.html",
-      "bloc": "western",
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -794,6 +820,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Zelenskyy says he's seeking details of Putin's May 9 ceasefire proposal",
+      "summary": "Ukrainian President Volodymyr Zelenskyy is seeking details of a short-term ceasefire Russia proposed to U.S. President Donald Trump.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/01/g-s1-119659/zelenskyy-seeking-details-of-putins-ceasefire-proposal",
+      "bloc": "western",
+      "date": "2026-05-01",
+      "datetime": "2026-05-01T05:04:38Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Ukrainian drone strike hits Russian Black Sea port, escalating tensions",
       "summary": "The drone strike exacerbates geopolitical instability, diminishing ceasefire prospects and impacting global markets and diplomatic efforts.\nThe post Ukrainian drone strike hits Russian Black Sea port, escalating tensions appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
@@ -824,29 +873,6 @@
       "bloc": "western",
       "date": "2026-04-30",
       "datetime": "2026-04-30T21:41:12Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine Strikes Deep Inside Russia, Tuapse Hit Again",
-      "summary": "Ukrainian forces again struck an oil refinery in Russia's Black Sea port of Tuapse early on May 1, a day after launching drones at a Russian oil facility some 1,500 kilometers from the Ukrainian border, the latest in a series of long-range strikes by Kyiv tar…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/04/ukraine-260430-rferl02.htm",
-      "bloc": "western",
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T12:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

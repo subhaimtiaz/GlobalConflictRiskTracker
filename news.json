@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-03T13:21:06.497Z",
+  "ts": "2026-05-03T19:07:06.035Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 74,
-    "updatedAt": "2026-05-03T13:21:06.497Z"
+    "updatedAt": "2026-05-03T19:07:06.035Z"
   },
   "items": [
+    {
+      "headline": "Renewed war with US still possible, says Iran",
+      "summary": "An Iranian military officer says a renewed US-Iran conflict is ‘likely’ hours after President Trump expressed dissatisfaction with a new negotiation propos\n\nRead More: https://punchng.com/renewed-war-with-us-still-possible-says-iran/",
+      "source": "The Punch",
+      "url": "https://punchng.com/renewed-war-with-us-still-possible-says-iran/",
+      "bloc": "western",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T14:20:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran military official says renewed war with US ‘likely’",
       "summary": "A senior Iranian military officer said on Saturday that renewed fighting with the US was “likely”, hours after President Donald Trump said he was not satisfied with an Iranian negotiating proposal. Iran delivered the new draft to mediator Pakistan on Thursday…",
@@ -92,27 +118,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran warns of likely war resumption amid US tensions",
-      "summary": "Increased tensions could destabilize the region, potentially leading to broader geopolitical conflicts and impacting global economic markets.\nThe post Iran warns of likely war resumption amid US tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-warns-of-likely-war-resumption-amid-us-tensions/",
+      "headline": "India-linked tanker Sarv Shakti carrying cooking fuel crosses Strait of Hormuz",
+      "summary": "India has managed to move eight LPG vessels through Hormuz during the conflict after bilateral negotiations with Tehran, and has been working on other exits.",
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/news/business/india-linked-tanker-sarv-shakti-carrying-cooking-fuel-crosses-strait-of-hormuz-13906165.html",
       "bloc": "western",
       "date": "2026-05-02",
-      "datetime": "2026-05-02T10:38:07Z",
+      "datetime": "2026-05-02T15:01:50Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran war ‘likely’ to restart, senior Tehran official warns after Trump says US might be ‘better off’ without deal",
+      "summary": "The war between the US and Iran is “likely” to restart, a senior Iranian official predicted on the heels of comments by President Trump that the US might be “better off” without an agreement.…",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/05/02/world-news/iran-war-likely-to-restart-senior-tehran-official-warns-after-trump-says-us-might-be-better-off-without-deal/",
+      "bloc": "western",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T13:40:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -151,58 +203,6 @@
       "bloc": "regional",
       "date": "2026-05-02",
       "datetime": "2026-05-02T08:47:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Prices Hit Wartime High as Iran Conflict Escalates: Brent Crude Surges Past $126, Gas Prices Soar to $6 in California Amid Strait of Hormuz Blockade",
-      "summary": "Brent crude, the international oil benchmark, topped $126 a barrel on Thursday, reaching a wartime high, according to a CBS News report. The surge in global energy prices pushed the average U.S. gasoline price to $4.30 per gallon, the highest since July 2022,…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-02-oil-prices-hit-wartime-high-iran-conflict-escalates.html",
-      "bloc": "western",
-      "date": "2026-05-02",
-      "datetime": "2026-05-02T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran standoff could leave Trump worse off than before he went to war",
-      "summary": "With both sides outwardly confident they hold the upper hand and their positions far apart, there is no obvious off-ramp in sight, even ‌as Iran submitted a fresh proposal to restart negotiations",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-standoff-could-leave-trump-worse-off-than-before-he-went-to-war/article70930895.ece",
-      "bloc": "western",
-      "date": "2026-05-02",
-      "datetime": "2026-05-02T05:46:17Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -488,6 +488,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Spirit Airlines Shuts Down, Cancels All Flights & Ends Era of Low Cost Airfare to Disney World",
+      "summary": "America’s largest ultra-low cost carrier Spirit Airlines announced an end to more than three decades of cheap flights after the company and federal government failed to reach a bailout agreement. This covers the shutdown, its immediate impact on travelers, an…",
+      "source": "Disneytouristblog.com",
+      "url": "https://www.disneytouristblog.com/spirit-airlines-shuts-down-cancels-all-flights-ends-era-of-low-cost-trips-to-disney-world/",
+      "bloc": "western",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T14:04:50Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Prices Hit Wartime High as Iran Conflict Escalates: Brent Crude Surges Past $126, Gas Prices Soar to $6 in California Amid Strait of Hormuz Blockade",
+      "summary": "Brent crude, the international oil benchmark, topped $126 a barrel on Thursday, reaching a wartime high, according to a CBS News report. The surge in global energy prices pushed the average U.S. gasoline price to $4.30 per gallon, the highest since July 2022,…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-02-oil-prices-hit-wartime-high-iran-conflict-escalates.html",
+      "bloc": "western",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran Tensions Send WTI Crude Surging Above $105",
       "summary": "June WTI crude oil futures surged this week, with the contract trading at $105.88 Thursday night, up $11.48 or 12.16%. The weekly high is $110.93, while the low is $94.59. With Friday still ahead, the market has not closed the week yet, but the move has alrea…",
       "source": "OilPrice.com",
@@ -562,32 +614,6 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Soaring food and petrol prices... and SIX interest rate hikes plunging the UK towards recession: BoE leads dire warnings over 'Trumpflation' risks - with no end in sight to Iran chaos",
-      "summary": "Brits face the possibility of six interest rate rises over the coming year as policymakers battle to contain inflation - which they fear could nearly double to 6.2 per cent.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15779619/Food-petrol-prices-rate-recession-Bank-Trumpflation-Iran.html",
-      "bloc": "western",
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T14:20:19Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -771,29 +797,6 @@
       "bloc": "western",
       "date": "2026-05-01",
       "datetime": "2026-05-01T17:26:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine Hits Russian Black Sea Oil Port Four Times in One Week",
-      "summary": "Russia's Black Sea port of Tuapse was targeted and hit by a new Ukrainian drone strike early on Friday, in the fourth attack on the port in just one week as Ukraine looks to limit Russia's oil exports and revenues amid soaring crude prices. Since internationa…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Hits-Russian-Black-Sea-Oil-Port-Four-Times-in-One-Week.html",
-      "bloc": "western",
-      "date": "2026-05-01",
-      "datetime": "2026-05-01T14:30:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

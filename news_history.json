@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-03T13:20:01.359Z",
+  "updated": "2026-05-03T19:06:00.798Z",
   "retention_days": 30,
   "items": [
     {
@@ -23718,7 +23718,119 @@
       "_from": "newsapi",
       "first_seen": "2026-05-03T13:20:01.359Z",
       "run_id": "2026-05-03T13:20"
+    },
+    {
+      "headline": "Renewed war with US still possible, says Iran",
+      "summary": "An Iranian military officer says a renewed US-Iran conflict is ‘likely’ hours after President Trump expressed dissatisfaction with a new negotiation propos\n\nRead More: https://punchng.com/renewed-war-with-us-still-possible-says-iran/",
+      "source": "The Punch",
+      "url": "https://punchng.com/renewed-war-with-us-still-possible-says-iran/",
+      "bloc": "western",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T14:20:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-03T19:06:00.798Z",
+      "run_id": "2026-05-03T19:06"
+    },
+    {
+      "headline": "India-linked tanker Sarv Shakti carrying cooking fuel crosses Strait of Hormuz",
+      "summary": "India has managed to move eight LPG vessels through Hormuz during the conflict after bilateral negotiations with Tehran, and has been working on other exits.",
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/news/business/india-linked-tanker-sarv-shakti-carrying-cooking-fuel-crosses-strait-of-hormuz-13906165.html",
+      "bloc": "western",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T15:01:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-03T19:06:00.798Z",
+      "run_id": "2026-05-03T19:06"
+    },
+    {
+      "headline": "Iran war ‘likely’ to restart, senior Tehran official warns after Trump says US might be ‘better off’ without deal",
+      "summary": "The war between the US and Iran is “likely” to restart, a senior Iranian official predicted on the heels of comments by President Trump that the US might be “better off” without an agreement.…",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/05/02/world-news/iran-war-likely-to-restart-senior-tehran-official-warns-after-trump-says-us-might-be-better-off-without-deal/",
+      "bloc": "western",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T13:40:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-03T19:06:00.798Z",
+      "run_id": "2026-05-03T19:06"
+    },
+    {
+      "headline": "Spirit Airlines Shuts Down, Cancels All Flights & Ends Era of Low Cost Airfare to Disney World",
+      "summary": "America’s largest ultra-low cost carrier Spirit Airlines announced an end to more than three decades of cheap flights after the company and federal government failed to reach a bailout agreement. This covers the shutdown, its immediate impact on travelers, an…",
+      "source": "Disneytouristblog.com",
+      "url": "https://www.disneytouristblog.com/spirit-airlines-shuts-down-cancels-all-flights-ends-era-of-low-cost-trips-to-disney-world/",
+      "bloc": "western",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T14:04:50Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-03T19:06:00.798Z",
+      "run_id": "2026-05-03T19:06"
     }
   ],
-  "total_items_ever": 1049
+  "total_items_ever": 1053
 }

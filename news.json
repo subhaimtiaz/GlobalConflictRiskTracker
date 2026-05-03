@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-03T03:39:15.207Z",
+  "ts": "2026-05-03T08:07:15.464Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 74,
-    "updatedAt": "2026-05-03T03:39:15.207Z"
+    "updatedAt": "2026-05-03T08:07:15.464Z"
   },
   "items": [
     {
-      "headline": "Trump defies Congress, extends Iran military operations without approval",
-      "summary": "Trump's defiance may strain U.S. legislative-executive relations, heighten geopolitical risks, and impact oil markets amid Iran tensions.\nThe post Trump defies Congress, extends Iran military operations without approval appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-defies-congress-extends-iran-military-operations-without-approval/",
+      "headline": "Iran military official says renewed war with US 'likely'",
+      "summary": "A senior Iranian military officer has said that renewed fighting between the US and Iran was \"likely\", hours after President Donald Trump said he was \"not satisfied\" with a new Iranian negotiating proposal.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/2026/0502/1571420-iran-war/",
       "bloc": "western",
       "date": "2026-05-02",
-      "datetime": "2026-05-02T00:34:56Z",
+      "datetime": "2026-05-02T07:50:01Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump 'not satisfied' with new Iran proposal amid ceasefire stalemate",
-      "summary": "US President Donald Trump said Friday he was \"not satisfied\" with a new Iranian negotiating proposal, as peace talks remain frozen despite a weeks-long ceasefire. \"At this moment I'm not satisfied with what they're offering,\" Trump told reporters, blaming sta…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-not-satisfied-with-new-iran-proposal-amid-ceasefire-stalemate/articleshow/130708185.cms",
+      "headline": "Trump says 'not satisfied' with new Iran proposal",
+      "summary": "U.S. President Donald Trump said on May 1 he was \"not satisfied\" with a new Iranian negotiating proposal, as peace talks remain frozen despite a weeks-long ceasefire.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/trump-says-not-satisfied-with-new-iran-proposal-221723",
+      "bloc": "western",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T06:39:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
+      "summary": "US President Donald Trump says the latest Iranian peace proposal includes demands he 'can’t agree to'.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal",
       "bloc": "regional",
       "date": "2026-05-02",
-      "datetime": "2026-05-02T00:34:11Z",
+      "datetime": "2026-05-02T06:27:32Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,53 +92,79 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump 'not satisfied' with Iran's latest proposal to end war as talks remain frozen",
-      "summary": "The US president said he would prefer not to “blast the hell out of them and finish them forever”.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/trump-not-satisfied-latest-talks-proposal-iran-7029444-May2026/",
+      "headline": "India-Linked Tanker Laden With Cooking Fuel Attempts Hormuz Exit",
+      "summary": "An India-linked supertanker laden with liquefied petroleum gas is attempting to transit the Strait of Hormuz, a rare crossing that underscores the country’s struggle to alleviate a historic energy crisis.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/india-linked-tanker-laden-with-cooking-fuel-attempts-hormuz-exit",
       "bloc": "western",
-      "date": "2026-05-01",
-      "datetime": "2026-05-01T20:56:19Z",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T06:22:51Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Trump tells U.S. Congress that ceasefire 'terminated' Iran conflict, as war powers deadline arrives",
-      "summary": "In a letter to congressional leaders on Friday, U.S. President Donald Trump declared that a ceasefire had \"terminated\" hostilities against Iran, as he sought to bolster his argument that he does not need lawmakers' permission to continue the conflict.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/trump-iran-war-ceasefire-war-powers-deadline-congress-9.7184875",
+      "headline": "Oil Prices Hit Wartime High as Iran Conflict Escalates: Brent Crude Surges Past $126, Gas Prices Soar to $6 in California Amid Strait of Hormuz Blockade",
+      "summary": "Brent crude, the international oil benchmark, topped $126 a barrel on Thursday, reaching a wartime high, according to a CBS News report. The surge in global energy prices pushed the average U.S. gasoline price to $4.30 per gallon, the highest since July 2022,…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-02-oil-prices-hit-wartime-high-iran-conflict-escalates.html",
       "bloc": "western",
-      "date": "2026-05-01",
-      "datetime": "2026-05-01T20:38:36Z",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran standoff could leave Trump worse off than before he went to war",
+      "summary": "With both sides outwardly confident they hold the upper hand and their positions far apart, there is no obvious off-ramp in sight, even ‌as Iran submitted a fresh proposal to restart negotiations",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-standoff-could-leave-trump-worse-off-than-before-he-went-to-war/article70930895.ece",
+      "bloc": "western",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T05:46:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -125,110 +177,6 @@
       "bloc": "western",
       "date": "2026-05-02",
       "datetime": "2026-05-02T01:49:53Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Donald Trump's 'wishful thinking' over his blockade of Iranian oil",
-      "summary": "Analysis of how much oil Iran is producing, shipping and having to store shows pressure is mounting on Tehran, but while experts agree the US blockade is effective, there are questions about whether it can really force Iran back to the negotiating table.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-05-02/iran-oil-stored-in-ships-tanks-as-us-blockade-tightens-grip/106622058",
-      "bloc": "western",
-      "date": "2026-05-01",
-      "datetime": "2026-05-01T19:04:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Only Iran-Linked Traffic Moves Through Hormuz Amid Blockades",
-      "summary": "A few Iran-linked vessels are making their way through the Strait of Hormuz, as the crucial waterway remains effectively closed to most international shipping amid blockades by both Tehran and the US. Just a single Iran-linked fuel tanker was observed …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/05/01/868082.htm",
-      "bloc": "western",
-      "date": "2026-05-01",
-      "datetime": "2026-05-01T08:24:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iranian Oil Smuggling Scheme Uses Fake Iraqi Ship Identities to Evade U.S. Blockade, Intelligence Firm Says",
-      "summary": "A maritime intelligence firm reported on April 29 that a group of U.S.-sanctioned oil tankers are falsifying their location data to appear anchored off Iraq while secretly loading Iranian crude, according to Windward AI. The scheme involves four very large cr…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-01-iran-oil-smuggling-fake-iraqi-ship-identities.html",
-      "bloc": "western",
-      "date": "2026-05-01",
-      "datetime": "2026-05-01T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump admin pitches new international coalition to coordinate reopening of Strait of Hormuz",
-      "summary": "The Maritime Freedom Construct is meant to be a diplomatic and military push to work with allied countries and shipping companies to help reopen the vital waterway.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/04/30/world-news/trump-admin-pitches-new-international-coalition-to-coordinate-reopening-of-strait-of-hormuz/",
-      "bloc": "western",
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T22:55:22Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -614,32 +562,6 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US yield surge piles fresh pressure on India bonds already bruised by oil shock",
-      "summary": "The Indian 6.48% 2035 bond yield is expected to range between 6.98% and 7.05%, following a close of 6.9928% on Wednesday, according to a private-bank trader",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/us-yield-surge-piles-fresh-pressure-on-india-bonds-already-bruised-by-oil-shock/article70923132.ece",
-      "bloc": "western",
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T03:47:05Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

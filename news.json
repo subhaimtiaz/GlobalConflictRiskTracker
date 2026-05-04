@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-04T03:37:42.488Z",
+  "ts": "2026-05-04T08:36:21.700Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 74,
-    "updatedAt": "2026-05-04T03:37:42.488Z"
+    "updatedAt": "2026-05-04T08:36:21.700Z"
   },
   "items": [
+    {
+      "headline": "Israeli strike on Iran petrochemical site raises military pressure",
+      "summary": "The Israeli strike heightens regional tensions, potentially destabilizing Iran's regime and impacting geopolitical and market dynamics.\nThe post Israeli strike on Iran petrochemical site raises military pressure appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/israeli-strike-on-iran-petrochemical-site-raises-military-pressure/",
+      "bloc": "western",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T06:44:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran proposes peace plan amid US tensions, seeks security assurances",
+      "summary": "Iran's peace proposal could stabilize regional tensions, impacting leadership continuity and reducing the likelihood of regime change.\nThe post Iran proposes peace plan amid US tensions, seeks security assurances appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-proposes-peace-plan-amid-us-tensions-seeks-security-assurances/",
+      "bloc": "western",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T05:16:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Israeli airstrikes kill 7 in southern Lebanon as a Catholic convent is bulldozed",
       "summary": "Israeli airstrikes on southern Lebanon killed at least seven people and wounded others on Saturday while the Israeli military demolished parts of a Catholic convent in a border village, officials said. Israel’s military on Saturday issued a new warning for re…",
@@ -66,53 +118,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Renewed war with US still possible, says Iran",
-      "summary": "An Iranian military officer says a renewed US-Iran conflict is ‘likely’ hours after President Trump expressed dissatisfaction with a new negotiation propos\n\nRead More: https://punchng.com/renewed-war-with-us-still-possible-says-iran/",
-      "source": "The Punch",
-      "url": "https://punchng.com/renewed-war-with-us-still-possible-says-iran/",
-      "bloc": "western",
-      "date": "2026-05-02",
-      "datetime": "2026-05-02T14:20:08Z",
+      "headline": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+      "summary": "Iran has sent the US a new 14-point proposal to end the war.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war",
+      "bloc": "regional",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T07:02:09Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Iran military official says renewed war with US ‘likely’",
-      "summary": "A senior Iranian military officer said on Saturday that renewed fighting with the US was “likely”, hours after President Donald Trump said he was not satisfied with an Iranian negotiating proposal. Iran delivered the new draft to mediator Pakistan on Thursday…",
-      "source": "Digital Journal",
-      "url": "https://www.digitaljournal.com/world/iran-military-official-says-renewed-war-with-us-likely/article",
-      "bloc": "western",
-      "date": "2026-05-02",
-      "datetime": "2026-05-02T13:07:20Z",
+      "headline": "The Hormuz blockade: Why a fragile ceasefire may not lower global oil prices",
+      "summary": "Brent crude has surged to $125 per barrel due to escalating West Asia conflict and severe disruption at the Strait of Hormuz, a key global oil chokepoint. Naval tensions and tanker blockades have restricted nearly one-fifth of global oil flows, intensifying s…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/the-hormuz-blockade-why-a-fragile-ceasefire-may-not-lower-global-oil-prices/articleshow/130728422.cms",
+      "bloc": "regional",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T06:33:19Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -151,58 +203,6 @@
       "bloc": "western",
       "date": "2026-05-02",
       "datetime": "2026-05-02T13:40:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US warns shipping firms over paying Iran to transit the Strait of Hormuz",
-      "summary": "America warns ships against paying Iran for safe passage in the Strait of Hormuz. Iran has been charging fees for detours. The US has also blockaded Iranian ports. Meanwhile, imprisoned Nobel laureate Narges Mohammadi's health is at high risk. President Trump…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-warns-shipping-firms-over-paying-iran-to-transit-the-strait-of-hormuz/articleshow/130716621.cms",
-      "bloc": "regional",
-      "date": "2026-05-02",
-      "datetime": "2026-05-02T12:36:54Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "India-linked tanker laden with cooking fuel attempts Hormuz exit",
-      "summary": "An India-linked supertanker, the Sarv Shakti, is attempting a rare transit of the Strait of Hormuz carrying vital LPG supplies. This passage, if successful, would be the first observed by an India-linked tanker since a US blockade began, highlighting India's …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-linked-tanker-laden-with-cooking-fuel-attempts-hormuz-exit/articleshow/130713076.cms",
-      "bloc": "regional",
-      "date": "2026-05-02",
-      "datetime": "2026-05-02T08:47:06Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

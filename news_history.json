@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-04T03:36:37.182Z",
+  "updated": "2026-05-04T08:35:16.508Z",
   "retention_days": 30,
   "items": [
     {
@@ -22812,7 +22812,119 @@
       "_from": "newsapi",
       "first_seen": "2026-05-04T03:36:37.182Z",
       "run_id": "2026-05-04T03:36"
+    },
+    {
+      "headline": "Israeli strike on Iran petrochemical site raises military pressure",
+      "summary": "The Israeli strike heightens regional tensions, potentially destabilizing Iran's regime and impacting geopolitical and market dynamics.\nThe post Israeli strike on Iran petrochemical site raises military pressure appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/israeli-strike-on-iran-petrochemical-site-raises-military-pressure/",
+      "bloc": "western",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T06:44:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-04T08:35:16.507Z",
+      "run_id": "2026-05-04T08:35"
+    },
+    {
+      "headline": "Iran proposes peace plan amid US tensions, seeks security assurances",
+      "summary": "Iran's peace proposal could stabilize regional tensions, impacting leadership continuity and reducing the likelihood of regime change.\nThe post Iran proposes peace plan amid US tensions, seeks security assurances appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-proposes-peace-plan-amid-us-tensions-seeks-security-assurances/",
+      "bloc": "western",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T05:16:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-04T08:35:16.507Z",
+      "run_id": "2026-05-04T08:35"
+    },
+    {
+      "headline": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+      "summary": "Iran has sent the US a new 14-point proposal to end the war.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war",
+      "bloc": "regional",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T07:02:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-04T08:35:16.507Z",
+      "run_id": "2026-05-04T08:35"
+    },
+    {
+      "headline": "The Hormuz blockade: Why a fragile ceasefire may not lower global oil prices",
+      "summary": "Brent crude has surged to $125 per barrel due to escalating West Asia conflict and severe disruption at the Strait of Hormuz, a key global oil chokepoint. Naval tensions and tanker blockades have restricted nearly one-fifth of global oil flows, intensifying s…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/the-hormuz-blockade-why-a-fragile-ceasefire-may-not-lower-global-oil-prices/articleshow/130728422.cms",
+      "bloc": "regional",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T06:33:19Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-04T08:35:16.507Z",
+      "run_id": "2026-05-04T08:35"
     }
   ],
-  "total_items_ever": 1057
+  "total_items_ever": 1061
 }

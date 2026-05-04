@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-04T08:36:21.700Z",
+  "ts": "2026-05-04T14:12:23.288Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,43 +10,17 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 74,
-    "updatedAt": "2026-05-04T08:36:21.700Z"
+    "updatedAt": "2026-05-04T14:12:23.288Z"
   },
   "items": [
     {
-      "headline": "Israeli strike on Iran petrochemical site raises military pressure",
-      "summary": "The Israeli strike heightens regional tensions, potentially destabilizing Iran's regime and impacting geopolitical and market dynamics.\nThe post Israeli strike on Iran petrochemical site raises military pressure appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/israeli-strike-on-iran-petrochemical-site-raises-military-pressure/",
+      "headline": "Iran Presses For An End To War Within 30 Days As Trump Expresses Doubts",
+      "summary": "Iran has proposed a 30-day resolution aiming to end the war with Israel and the U.S. rather than just extend the ceasefire.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-presses-for-end-to-war-trump-expresses-doubts_n_69f73ecde4b0f658833c2dd8",
       "bloc": "western",
       "date": "2026-05-03",
-      "datetime": "2026-05-03T06:44:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran proposes peace plan amid US tensions, seeks security assurances",
-      "summary": "Iran's peace proposal could stabilize regional tensions, impacting leadership continuity and reducing the likelihood of regime change.\nThe post Iran proposes peace plan amid US tensions, seeks security assurances appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-proposes-peace-plan-amid-us-tensions-seeks-security-assurances/",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T05:16:10Z",
+      "datetime": "2026-05-03T12:36:37Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israeli airstrikes kill 7 in southern Lebanon as a Catholic convent is bulldozed",
-      "summary": "Israeli airstrikes on southern Lebanon killed at least seven people and wounded others on Saturday while the Israeli military demolished parts of a Catholic convent in a border village, officials said. Israel’s military on Saturday issued a new warning for re…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/israeli-airstrikes-on-southern-lebanon-kill-7-amid-fragile-ceasefire",
+      "headline": "US-Iran war impacts credit markets, dims 2026 Fed rate cut prospects",
+      "summary": "The US-Iran conflict heightens economic volatility, potentially delaying Fed rate cuts due to inflationary pressures and tighter credit.\nThe post US-Iran war impacts credit markets, dims 2026 Fed rate cut prospects appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-iran-war-impacts-credit-markets-dims-2026-fed-rate-cut-prospects/",
       "bloc": "western",
-      "date": "2026-05-02",
-      "datetime": "2026-05-02T20:57:29Z",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T12:12:44Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -87,18 +61,18 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Iran offers Strait deal; Trump dissatisfied but prefers non-military path",
-      "summary": "An Iranian proposal so far rejected by U.S. President Donald Trump would open shipping in the Strait of Hormuz and end the U.S. blockade of Iran while ‌leaving talks on Iran's nuclear program for later, a senior Iranian official said on Saturday. Trump, who h…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/iran-offers-strait-deal-trump-dissatisfied-but-prefers-non-military-path",
+      "headline": "Any US interference in new Hormuz regime is ceasefire violation: Iran lawmaker",
+      "summary": "A senior Iranian parliamentarian has warned that any US interference in the new maritime regime of the Strait of Hormuz will be considered a direct violation of the ceasefire, dismissing President Donald Trump's plan to escort ships through the waterway as \"d…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv01.htm",
       "bloc": "western",
-      "date": "2026-05-02",
-      "datetime": "2026-05-02T20:57:01Z",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -113,6 +87,110 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran says it is reviewing US response to 14-point plan delivered via Pakistani intermediary",
+      "summary": "Iran confirmed on Sunday that the United States has delivered its response to Tehran's proposed 14-point plan through Pakistani mediators, and that the Islamic Republic is currently reviewing the document.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv04.htm",
+      "bloc": "western",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran's armed forces will be ultimate victors in ongoing uneven battle: IRGC spokesman",
+      "summary": "The spokesman for the Islamic Revolution Guard Corps has declared that despite an ongoing unequal battle against heavily equipped enemies, Iran's armed forces will emerge as the ultimate victors, driven by the culture of Ashura and an unwavering rejection of …",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv03.htm",
+      "bloc": "western",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "May 3: Iran tightens grip on Strait of Hormuz and defies blockade as US reels from economic fallout",
+      "summary": "Tehran confirmed it has received the US response to its 14-point proposal, delivered through the Pakistani mediators, stressing that the document will be assessed strictly on Iran's terms and within the framework of ending the US-Israeli war of aggression.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv02.htm",
+      "bloc": "western",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Kuwait exports zero barrels of oil for first time in 35 years – monitor",
+      "summary": "Kuwait has exported no crude for the first time since 1991, according to Tanker Tracker. Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/639378-kuwait-exports-zero-barrels-oil/",
+      "bloc": "western",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T09:32:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -125,84 +203,6 @@
       "bloc": "regional",
       "date": "2026-05-03",
       "datetime": "2026-05-03T07:02:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Hormuz blockade: Why a fragile ceasefire may not lower global oil prices",
-      "summary": "Brent crude has surged to $125 per barrel due to escalating West Asia conflict and severe disruption at the Strait of Hormuz, a key global oil chokepoint. Naval tensions and tanker blockades have restricted nearly one-fifth of global oil flows, intensifying s…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/the-hormuz-blockade-why-a-fragile-ceasefire-may-not-lower-global-oil-prices/articleshow/130728422.cms",
-      "bloc": "regional",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T06:33:19Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "India-linked tanker Sarv Shakti carrying cooking fuel crosses Strait of Hormuz",
-      "summary": "India has managed to move eight LPG vessels through Hormuz during the conflict after bilateral negotiations with Tehran, and has been working on other exits.",
-      "source": "Moneycontrol",
-      "url": "https://www.moneycontrol.com/news/business/india-linked-tanker-sarv-shakti-carrying-cooking-fuel-crosses-strait-of-hormuz-13906165.html",
-      "bloc": "western",
-      "date": "2026-05-02",
-      "datetime": "2026-05-02T15:01:50Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran war ‘likely’ to restart, senior Tehran official warns after Trump says US might be ‘better off’ without deal",
-      "summary": "The war between the US and Iran is “likely” to restart, a senior Iranian official predicted on the heels of comments by President Trump that the US might be “better off” without an agreement.…",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/05/02/world-news/iran-war-likely-to-restart-senior-tehran-official-warns-after-trump-says-us-might-be-better-off-without-deal/",
-      "bloc": "western",
-      "date": "2026-05-02",
-      "datetime": "2026-05-02T13:40:25Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -416,6 +416,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "U.S. lawmakers propose China threat resolution ahead of Trump-Xi summit",
+      "summary": "U.S. lawmakers across party lines on Friday introduced a resolution to express their concerns over China's threats toward Taiwan, with peace and stability across the Taiwan Strait as its stated focus, ahead of a planned summit between U.S. President Donald Tr…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260502-cna01.htm",
+      "bloc": "western",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T12:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "China is Equal In Any Future Fight, General Warns...",
       "summary": "Faced with the rapidly growing China threat, the U.S. has to start hardening its bases now, said Marine Lt. Gen. Stephen Sklenka.",
       "source": "Twz.com",
@@ -447,30 +471,6 @@
       "bloc": "western",
       "date": "2026-04-27",
       "datetime": "2026-04-27T18:14:12Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Is a Permanent U.S. Blockade of the Strait of Hormuz Part of a Much Bigger Plan?",
-      "summary": "It has been said by many from the very start of the U.S.’s ‘Epic Fury’ war against Iran that no clear endgame was in sight whereby U.S. President Donald Trump could achieve his stated aims at the outset of the conflict. These were to change regime, permanentl…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Is-a-Permanent-US-Blockade-of-the-Strait-of-Hormuz-Part-of-a-Much-Bigger-Plan.html",
-      "bloc": "western",
-      "date": "2026-04-27",
-      "datetime": "2026-04-27T15:00:00Z",
       "leaders": [
         "Xi Jinping"
       ],

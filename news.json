@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-04T14:12:23.288Z",
+  "ts": "2026-05-04T19:47:11.121Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 74,
-    "updatedAt": "2026-05-04T14:12:23.288Z"
+    "updatedAt": "2026-05-04T19:47:11.121Z"
   },
   "items": [
+    {
+      "headline": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
+      "summary": "Palestinian factions reject US-backed plans linking aid to weapons surrender, demanding clear political path forward.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays",
+      "bloc": "regional",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T15:40:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "UAE reopens airspace amid easing tensions, impacting Iran closure market",
+      "summary": "The UAE's airspace reopening signals a shift towards regional stability, potentially reducing geopolitical risks and market volatility.\nThe post UAE reopens airspace amid easing tensions, impacting Iran closure market appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/uae-reopens-airspace-amid-easing-tensions-impacting-iran-closure-market/",
+      "bloc": "western",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T14:38:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran Presses For An End To War Within 30 Days As Trump Expresses Doubts",
       "summary": "Iran has proposed a 30-day resolution aiming to end the war with Israel and the U.S. rather than just extend the ceasefire.",
@@ -21,110 +73,6 @@
       "bloc": "western",
       "date": "2026-05-03",
       "datetime": "2026-05-03T12:36:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US-Iran war impacts credit markets, dims 2026 Fed rate cut prospects",
-      "summary": "The US-Iran conflict heightens economic volatility, potentially delaying Fed rate cuts due to inflationary pressures and tighter credit.\nThe post US-Iran war impacts credit markets, dims 2026 Fed rate cut prospects appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-war-impacts-credit-markets-dims-2026-fed-rate-cut-prospects/",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T12:12:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Any US interference in new Hormuz regime is ceasefire violation: Iran lawmaker",
-      "summary": "A senior Iranian parliamentarian has warned that any US interference in the new maritime regime of the Strait of Hormuz will be considered a direct violation of the ceasefire, dismissing President Donald Trump's plan to escort ships through the waterway as \"d…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv01.htm",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says it is reviewing US response to 14-point plan delivered via Pakistani intermediary",
-      "summary": "Iran confirmed on Sunday that the United States has delivered its response to Tehran's proposed 14-point plan through Pakistani mediators, and that the Islamic Republic is currently reviewing the document.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv04.htm",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran's armed forces will be ultimate victors in ongoing uneven battle: IRGC spokesman",
-      "summary": "The spokesman for the Islamic Revolution Guard Corps has declared that despite an ongoing unequal battle against heavily equipped enemies, Iran's armed forces will emerge as the ultimate victors, driven by the culture of Ashura and an unwavering rejection of …",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv03.htm",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

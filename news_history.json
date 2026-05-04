@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-04T14:11:18.063Z",
+  "updated": "2026-05-04T19:46:05.920Z",
   "retention_days": 30,
   "items": [
     {
@@ -23146,7 +23146,63 @@
       "_from": "newsapi",
       "first_seen": "2026-05-04T14:11:18.062Z",
       "run_id": "2026-05-04T14:11"
+    },
+    {
+      "headline": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
+      "summary": "Palestinian factions reject US-backed plans linking aid to weapons surrender, demanding clear political path forward.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays",
+      "bloc": "regional",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T15:40:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-04T19:46:05.920Z",
+      "run_id": "2026-05-04T19:46"
+    },
+    {
+      "headline": "UAE reopens airspace amid easing tensions, impacting Iran closure market",
+      "summary": "The UAE's airspace reopening signals a shift towards regional stability, potentially reducing geopolitical risks and market volatility.\nThe post UAE reopens airspace amid easing tensions, impacting Iran closure market appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/uae-reopens-airspace-amid-easing-tensions-impacting-iran-closure-market/",
+      "bloc": "western",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T14:38:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-04T19:46:05.920Z",
+      "run_id": "2026-05-04T19:46"
     }
   ],
-  "total_items_ever": 1069
+  "total_items_ever": 1071
 }

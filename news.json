@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-03T19:07:06.035Z",
+  "ts": "2026-05-04T03:37:42.488Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 74,
-    "updatedAt": "2026-05-03T19:07:06.035Z"
+    "updatedAt": "2026-05-04T03:37:42.488Z"
   },
   "items": [
+    {
+      "headline": "Israeli airstrikes kill 7 in southern Lebanon as a Catholic convent is bulldozed",
+      "summary": "Israeli airstrikes on southern Lebanon killed at least seven people and wounded others on Saturday while the Israeli military demolished parts of a Catholic convent in a border village, officials said. Israel’s military on Saturday issued a new warning for re…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/israeli-airstrikes-on-southern-lebanon-kill-7-amid-fragile-ceasefire",
+      "bloc": "western",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T20:57:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran offers Strait deal; Trump dissatisfied but prefers non-military path",
+      "summary": "An Iranian proposal so far rejected by U.S. President Donald Trump would open shipping in the Strait of Hormuz and end the U.S. blockade of Iran while ‌leaving talks on Iran's nuclear program for later, a senior Iranian official said on Saturday. Trump, who h…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/iran-offers-strait-deal-trump-dissatisfied-but-prefers-non-military-path",
+      "bloc": "western",
+      "date": "2026-05-02",
+      "datetime": "2026-05-02T20:57:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Renewed war with US still possible, says Iran",
       "summary": "An Iranian military officer says a renewed US-Iran conflict is ‘likely’ hours after President Trump expressed dissatisfaction with a new negotiation propos\n\nRead More: https://punchng.com/renewed-war-with-us-still-possible-says-iran/",
@@ -62,58 +114,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Shipping Firms Could Face Sanctions For Paying Iran To Transit The Strait Of Hormuz, U.S. Warns",
-      "summary": "About a fifth of the world's trade in oil and natural gas typically passes through the Strait Of Hormuz.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/shipping-firms-could-face-sanctions-for-paying-iran-to-transit-the-strait-of-hormuz-us-warns_n_69f5ef2ce4b0ed2b90e2237d",
-      "bloc": "western",
-      "date": "2026-05-02",
-      "datetime": "2026-05-02T12:42:40Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Trump Leans Towards Another Attack on Iran as More Weapons Arrive in Theater; Further Confirmation of US Base Damage in Theater, El Niño as Famine Multiplier",
-      "summary": "Today's Iran war update: Trump still seems primed to attack again in Iran even as costs to the US and Israel mount.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-trump-leans-towards-another-attack-on-iran-as-more-weapons-arrive-in-theater-further-confirmation-of-us-base-damage-in-theater-el-nino-as-famine-multiplier.html",
-      "bloc": "western",
-      "date": "2026-05-02",
-      "datetime": "2026-05-02T10:58:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -392,6 +392,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump insists China trip will go on as planned; analysts say leaders' summit crucial to manage risks",
+      "summary": "United States President Donald Trump says his upcoming visit will be an “amazing event”, while Chinese observers say both sides need to prioritise risk management in the face of rising uncertainty worldwide.",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/trump-china-visit-summit-amazing-analysts-manage-risks-6096631",
+      "bloc": "western",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T02:27:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "China is Equal In Any Future Fight, General Warns...",
       "summary": "Faced with the rapidly growing China threat, the U.S. has to start hardening its bases now, said Marine Lt. Gen. Stephen Sklenka.",
       "source": "Twz.com",
@@ -464,26 +488,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Russia shares America’s worries about rising Chinese nuclear presence",
-      "summary": "And imbalance has U.S. complying with arms control, Russia violating, and China ignoring",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/04/russia-shares-americas-worries-about-rising-chinese-nuclear/",
+      "headline": "US-Iran war: FG earns N5tn oil windfall amid rising fuel hardship",
+      "summary": "Nigeria gains a N5.13tn oil windfall from the US-Iran conflict, boosting government revenue but leading to higher domestic fuel prices and public hardship.\n\nRead More: https://punchng.com/us-iran-war-fg-earns-n5tn-oil-windfall-amid-rising-fuel-hardship/",
+      "source": "The Punch",
+      "url": "https://punchng.com/us-iran-war-fg-earns-n5tn-oil-windfall-amid-rising-fuel-hardship/",
       "bloc": "western",
-      "date": "2026-04-26",
-      "datetime": "2026-04-26T22:05:33Z",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T00:00:21Z",
       "leaders": [
-        "Xi Jinping"
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "oil Brent crude"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "values"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -592,32 +618,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Coming Oil Collision: Why Paper Prices Are a Dangerous Illusion",
-      "summary": "You Can Only Paper Over Physical Scarcity For So Long… I’m watching the numbers flicker on the screen — Brent crude at $92, WTI hovering near $97 — and I feel a profound sense of dread. This isn’t a market; it’s a meticulously crafted fiction. We are being li…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/the-coming-oil-collision-why-paper-prices-are-a-dangerous-illusion/",
-      "bloc": "western",
-      "date": "2026-05-01",
-      "datetime": "2026-05-01T00:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "W.O.R.R is the worry. A four-way assault pummells Indian macro",
       "summary": "India faces a rare convergence of four macro shocks—war-driven oil surge, a record weak rupee, and a likely poor monsoon—raising inflation and growth risks. The Finance Ministry warns these interacting pressures could strain external balances and policy choic…",
       "source": "The Times of India",
@@ -676,30 +676,6 @@
       "bloc": "western",
       "date": "2026-04-27",
       "datetime": "2026-04-27T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran IRGC regime"
-      ],
-      "dimensions": [
-        "survival",
-        "accountability"
-      ],
-      "variable_key": "iranRegimeCohesion",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran turmoil erupts: Ultra-hardliner who mocked Trump poised to take over nuclear talks",
-      "summary": "Reports say veteran hardliner Saeed Jalili may replace Ghalibaf on Iran's negotiating team, deepening fractures within the regime's political leadership.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/iran-turmoil-erupts-ultra-hardliner-who-mocked-trump-poised-take-over-nuclear-talks",
-      "bloc": "western",
-      "date": "2026-04-26",
-      "datetime": "2026-04-26T21:16:42Z",
       "leaders": [
         "Mojtaba Khamenei"
       ],

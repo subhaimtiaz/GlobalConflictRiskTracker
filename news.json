@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-04T19:47:11.121Z",
+  "ts": "2026-05-05T03:24:21.739Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 74,
-    "updatedAt": "2026-05-04T19:47:11.121Z"
+    "updatedAt": "2026-05-05T03:24:21.739Z"
   },
   "items": [
     {
-      "headline": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
-      "summary": "Palestinian factions reject US-backed plans linking aid to weapons surrender, demanding clear political path forward.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays",
-      "bloc": "regional",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T15:40:46Z",
+      "headline": "Iran warns that any US intervention in Strait of Hormuz would violate ceasefire after Trump offers 'humanitarian gesture'",
+      "summary": "Ebrahim Azizi said that the gulf would not 'be managed by Trump's delusional posts' after the president declared he would shepherd innocent bystanders caught up in the blockage.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15787671/Irans-warns-US-intervention-Strait-Hormuz-violate-ceasefire-Trump-offers-humanitarian-gesture.html",
+      "bloc": "western",
+      "date": "2026-05-04",
+      "datetime": "2026-05-04T02:20:52Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -35,18 +35,18 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "UAE reopens airspace amid easing tensions, impacting Iran closure market",
-      "summary": "The UAE's airspace reopening signals a shift towards regional stability, potentially reducing geopolitical risks and market volatility.\nThe post UAE reopens airspace amid easing tensions, impacting Iran closure market appeared first on Crypto Briefing.",
+      "headline": "Trump signals continued Hormuz blockade as strategic measure",
+      "summary": "The prolonged blockade could escalate tensions, impacting global oil markets and complicating diplomatic efforts between the U.S. and Iran.\nThe post Trump signals continued Hormuz blockade as strategic measure appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/uae-reopens-airspace-amid-easing-tensions-impacting-iran-closure-market/",
+      "url": "https://cryptobriefing.com/trump-signals-continued-hormuz-blockade-as-strategic-measure/",
       "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T14:38:46Z",
+      "date": "2026-05-04",
+      "datetime": "2026-05-04T01:44:34Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Presses For An End To War Within 30 Days As Trump Expresses Doubts",
-      "summary": "Iran has proposed a 30-day resolution aiming to end the war with Israel and the U.S. rather than just extend the ceasefire.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-presses-for-end-to-war-trump-expresses-doubts_n_69f73ecde4b0f658833c2dd8",
+      "headline": "Trump Announces Humanitarian Mission To Free Ships Stranded By Iran War",
+      "summary": "President Donald Trump announced Sunday he was ordering the United States Navy to begin “Project Freedom” to guide ships stranded in the Persian Gulf to safety.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/05/03/donald-trump-announces-humanitarian-mission-project-freedom-free-ships-stranded-iran-war/",
       "bloc": "western",
       "date": "2026-05-03",
-      "datetime": "2026-05-03T12:36:37Z",
+      "datetime": "2026-05-03T22:45:47Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +92,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "May 3: Iran tightens grip on Strait of Hormuz and defies blockade as US reels from economic fallout",
-      "summary": "Tehran confirmed it has received the US response to its 14-point proposal, delivered through the Pakistani mediators, stressing that the document will be assessed strictly on Iran's terms and within the framework of ending the US-Israeli war of aggression.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv02.htm",
+      "headline": "Iran says it has received U.S. response to its latest offer for talks",
+      "summary": "Iran said on Sunday it had received a U.S. response to its latest offer for peace talks, a day after President Donald Trump said he would probably reject the Iranian proposal because &quot;they have not paid a big ‌enough price&quot;. Iranian state media repo…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/iran-says-it-has-received-us-response-to-its-latest-offer-for-talks",
       "bloc": "western",
       "date": "2026-05-03",
-      "datetime": "2026-05-03T12:00:00Z",
+      "datetime": "2026-05-03T21:10:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Three narratives of winning in one world",
+      "summary": "'Victory in modern conflicts is no longer a single, measurable outcome'",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/05/three-narratives-winning-one-world/",
+      "bloc": "western",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T20:30:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump says US to help ships stranded in Strait of Hormuz",
+      "summary": "A tanker reported being hit by unknown projectiles in the Strait of Hormuz, a maritime security organisation has said, shortly after President Donald Trump said the US would start helping free ships stranded in ⁠the Gulf by the US-Israeli war on Iran.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/0504/1571611-middle-east-iran/",
+      "bloc": "western",
+      "date": "2026-05-04",
+      "datetime": "2026-05-04T02:42:52Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -118,39 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Kuwait exports zero barrels of oil for first time in 35 years – monitor",
-      "summary": "Kuwait has exported no crude for the first time since 1991, according to Tanker Tracker. Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/639378-kuwait-exports-zero-barrels-oil/",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T09:32:13Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-      "summary": "Iran has sent the US a new 14-point proposal to end the war.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war",
+      "headline": "Trump says US to help ships stranded in Strait of Hormuz as tanker hit by projectiles",
+      "summary": "US-Iran war: America will now guide ships through the Strait of Hormuz. This vital waterway has been blocked for over two months. Hundreds of ships and thousands of sailors are stranded. The US military will support this effort. The goal is to restore freedom…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-says-us-to-help-ships-stranded-in-strait-of-hormuz-as-tanker-hit-by-projectiles/articleshow/130743020.cms",
       "bloc": "regional",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T07:02:09Z",
+      "date": "2026-05-04",
+      "datetime": "2026-05-04T01:49:04Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -166,6 +192,84 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S.-Iran war: Is Donald Trump losing the conflict? Key facts show all is not well",
+      "summary": "Iran war: The U.S. is already paying new strategic costs. Those include fractures with traditional European allies, who were not consulted before President Donald Trump went to war.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/u-s-iran-war-is-donald-trump-losing-the-conflict-key-facts-show-all-is-not-well/articleshow/130742968.cms",
+      "bloc": "regional",
+      "date": "2026-05-04",
+      "datetime": "2026-05-04T01:44:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump says US to escort stranded vessels through Strait of Hormuz",
+      "summary": "WASHINGTON DC: US President Donald Trump has announced that the United States will begin guiding stranded ships out of the Strait of Hormuz starting Monday. In a social media post, Trump said the move is intended to ensure safe passage for vessels stuck in th…",
+      "source": "Khabarhub.com",
+      "url": "https://english.khabarhub.com/2026/04/547056/",
+      "bloc": "western",
+      "date": "2026-05-04",
+      "datetime": "2026-05-04T01:37:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran deploys oil tankers amid US blockade, raising regional tensions",
+      "summary": "Iran's tanker deployment amid US blockade could escalate regional tensions, disrupt key maritime routes, and impact global oil prices.\nThe post Iran deploys oil tankers amid US blockade, raising regional tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-deploys-oil-tankers-amid-us-blockade-raising-regional-tensions/",
+      "bloc": "western",
+      "date": "2026-05-03",
+      "datetime": "2026-05-03T21:40:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -290,6 +394,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Medvedev warns of nuclear apocalypse amid Russia-NATO tensions",
+      "summary": "Medvedev's nuclear warning highlights escalating geopolitical tensions, increasing the risk of miscalculation and impacting global stability.\nThe post Medvedev warns of nuclear apocalypse amid Russia-NATO tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/medvedev-warns-of-nuclear-apocalypse-amid-russia-nato-tensions/",
+      "bloc": "western",
+      "date": "2026-05-04",
+      "datetime": "2026-05-04T01:40:14Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "\"Political Disaster for Donald Trump\": Jeremy Scahill on Stalled U.S.-Iran Talks",
       "summary": "Negotiations between the United States and Iran to end the war are at an impasse as the conflict enters its third month. The Wall Street Journal reported late Tuesday that Trump has told aides to prepare for an extended blockade of Iranian ports to ramp up th…",
       "source": "Democracy Now!",
@@ -395,30 +524,6 @@
       "bloc": "western",
       "date": "2026-04-30",
       "datetime": "2026-04-30T13:00:13Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The American Military Is Blowing Its Load In Iran — And China Is Noticing",
-      "summary": "As the U.S. military continuously depletes its assets in the war on Iran, China is taking notes.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/04/27/iran-war-china-noticing/",
-      "bloc": "western",
-      "date": "2026-04-27",
-      "datetime": "2026-04-27T18:14:12Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -613,30 +718,6 @@
       "variable_key": "iranRegimeCohesion",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran nuclear shake-up: Hardliner poised to seize control of U.S. talks after Ghalibaf forced out",
-      "summary": "Iran’s nuclear negotiating team is undergoing a major shakeup as the head of the delegation steps down after attempting to discuss the nuclear issue with the U.S. Hardliner Saeed Jalili is expected to replace Mohammad Bagher Ghalibaf as Iran’s lead nuclear ne…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-04-27-iran-nuclear-hardliner-talks.html",
-      "bloc": "western",
-      "date": "2026-04-27",
-      "datetime": "2026-04-27T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran IRGC regime"
-      ],
-      "dimensions": [
-        "survival",
-        "accountability"
-      ],
-      "variable_key": "iranRegimeCohesion",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

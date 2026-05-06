@@ -1,343 +1,8 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-05T19:27:17.657Z",
+  "updated": "2026-05-06T03:33:36.550Z",
   "retention_days": 30,
   "items": [
-    {
-      "headline": "Turkey calls Iran conflict a 'geostrategic impasse' in talks with NATO chief",
-      "summary": "President Erdogan told NATO Secretary General Mark Rutte that the Iran war has reached a geostrategic impasse, urging international community to step up efforts to end the conflict. Turkey positions itself as mediator while absorbing Iranian missile attacks.",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/politics/iran-war-headed-to-geostrategic-impasse-erdogan-tells-nato-chief/news",
-      "bloc": "regional",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T12:00:00Z",
-      "leaders": [
-        "Recep Tayyip Erdogan"
-      ],
-      "watch_terms": [
-        "Turkey NATO",
-        "Turkey Iran",
-        "Turkey mediation"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 2,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Recep Tayyip Erdogan",
-        "dimension": "survival",
-        "proposed_delta": 1,
-        "rationale": "Erdogan prioritizes Turkey's security by avoiding direct involvement while maintaining diplomatic relevance",
-        "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-05T08:07:06.692Z",
-      "run_id": "2026-04-05T08:07"
-    },
-    {
-      "headline": "Iran downed two US C-130 planes and two helicopters in latest clashes",
-      "summary": "Tehran claims successful downing of US transport aircraft as infrastructure attacks cause fires across Gulf region. Trump vows to hit power plants and bridges over Hormuz closure in escalating rhetoric.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex",
-      "bloc": "western",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T00:00:00Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "War Powers",
-        "Iran ceasefire",
-        "Strait Hormuz"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "escalation"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Donald J. Trump",
-        "dimension": "impulsivity",
-        "proposed_delta": 2,
-        "rationale": "Threatening power plant strikes after aircraft losses shows reactive escalation pattern",
-        "confidence": "medium"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-05T14:07:51.067Z",
-      "run_id": "2026-04-05T14:07"
-    },
-    {
-      "headline": "US 365 service members injured in Iran operations as Pentagon releases figures",
-      "summary": "Central Command reports casualties across all service branches with 247 Army, 63 Navy, 19 Marines and 36 Air Force personnel injured. Most have returned to duty as rescue operations continue for missing F-15 crew member.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-warns-more-coming-oil-gas-strait-hormuz/",
-      "bloc": "western",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T00:00:00Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "War Powers",
-        "AUMF"
-      ],
-      "dimensions": [
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": null,
-      "_from": "claude",
-      "first_seen": "2026-04-05T14:07:51.067Z",
-      "run_id": "2026-04-05T14:07"
-    },
-    {
-      "headline": "Pakistani Forces deployed Pakistani-origin Zainebiyoun militia to Iran's Qom city",
-      "summary": "Pakistani-origin Shiite militia Zainebiyoun forces have been documented operating in Iran's Qom city alongside Afghan Fatemiyoun forces to strengthen regime control in urban areas during the ongoing conflict.",
-      "source": "Alma Research and Education Center",
-      "url": "https://israel-alma.org/daily-report-the-second-iran-war-april-5-2026-1800/",
-      "bloc": "institutional",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T18:00:00Z",
-      "leaders": [
-        "General Asim Munir",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Pakistan military",
-        "IRGC"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": "pakistan_militia_iran",
-      "event_type": "regional_strike",
-      "escalation": 5,
-      "persian_only": false,
-      "_from": "claude",
-      "first_seen": "2026-04-05T19:52:34.859Z",
-      "run_id": "2026-04-05T19:52"
-    },
-    {
-      "headline": "Iran Ceasefire Claims Questioned as Hardline IRGC Figure Gains Influence",
-      "summary": "Introduction: Ceasefire Claim Amidst Internal Power Shifts U.S. President Donald Trump suggested on Wednesday, April 1, that Iran may be seeking a ceasefire, according to a post on his Truth Social channel. The post, which did not name a specific Iranian offi…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-04-05-ceasefire-questioned-hardline-irgc-figure-gains-influence.html",
-      "bloc": "western",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-06T06:21:45.652Z",
-      "run_id": "2026-04-06T06:21"
-    },
-    {
-      "headline": "U.S. Service Member Missing After Iran Shot Down Fighter Jet Has Been Rescued",
-      "summary": "It comes after a frantic search-and-rescue operation.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-war-us-crew-rescue_n_69d1e273e4b05537a7f16e1b",
-      "bloc": "western",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T04:21:50Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-06T06:21:45.652Z",
-      "run_id": "2026-04-06T06:21"
-    },
-    {
-      "headline": "The rise of a Military Junta",
-      "summary": "The war broke the Islamic Caliphate of Shi’ism but hardened its inner core, elevating the junta within while clerical authority is a façade. U.S. and Israeli strikes have eroded Iran’s conventional and nuclear capability while empowering the IRGC, intensifyin…",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/425048",
-      "bloc": "western",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T09:59:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-06T14:40:51.233Z",
-      "run_id": "2026-04-06T14:40"
-    },
-    {
-      "headline": "Iran war: What is happening on day 37 of US-Israeli attacks?",
-      "summary": "A US crew member who has been missing since Iran shot down a fighter jet has been rescued, President Donald Trump says.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/4/5/iran-war-what-is-happening-on-day-37-of-us-israeli-attacks",
-      "bloc": "regional",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T07:45:48Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-06T14:40:51.233Z",
-      "run_id": "2026-04-06T14:40"
-    },
-    {
-      "headline": "Ukraine Hits Russian Oil Facilities, Says At Least 1 Civilian Killed In Russian Strikes",
-      "summary": "Ukraine has kept up its attacks on Russian oil export and production infrastructure, hitting facilities in two regions, while widespread Russian drone attacks on Ukraine killed at least one civilian overnight and fighting persisted at the front, officials sai…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/04/ukraine-260405-rferl01.htm",
-      "bloc": "western",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-06T14:40:51.233Z",
-      "run_id": "2026-04-06T14:40"
-    },
-    {
-      "headline": "US Search For Missing Crew Member Continues, As Strike Reported Near Iran Nuclear Plant",
-      "summary": "Rescue teams are continuing to search for a US crew member missing after their fighter jet was brought down over Iran, as reports emerged of a strike near the Bushehr nuclear power plant.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260404-rferl04.htm",
-      "bloc": "western",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T08:45:13Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-06T14:40:51.233Z",
-      "run_id": "2026-04-06T14:40"
-    },
-    {
-      "headline": "Russia’s Lukoil Norsi Refinery Suffers Fire From Ukrainian Hit",
-      "summary": "A fire broke out at Lukoil PJSC’s Norsi refinery, one of the largest in Russia, following Ukraine’s latest strike on its foe’s energy infrastructure.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/russias-lukoil-norsi-refinery-suffers-fire-from-ukrainian-hit",
-      "bloc": "western",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T08:14:43Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-06T14:40:51.233Z",
-      "run_id": "2026-04-06T14:40"
-    },
-    {
-      "headline": "Trump's 'English Obscenities' to Iran - Latest War News",
-      "summary": "US President Donald Trump has warned Iran that if an agreement is not reached within the next 48 hours, he will launch severe attacks on Iran's energy and transportation infrastructure, forcing Iran to allow ship traffic through the Strait of Hormuz. Trump, u…",
-      "source": "Gossiplankanews.com",
-      "url": "https://english.gossiplankanews.com/2026/04/trumps-english-obscenities-to-iran.html",
-      "bloc": "western",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T13:50:28Z",
-      "leaders": [],
-      "watch_terms": [
-        "airstrike missile drone"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-06T14:40:51.233Z",
-      "run_id": "2026-04-06T14:40"
-    },
     {
       "headline": "IAEA Chief Grossi Warns Iran Nuclear Stockpile Mystery Could Force 'No Guarantee' Declaration",
       "summary": "Rafael Grossi stated IAEA cannot verify Iran's 440.9kg of 60% enriched uranium after seven months without inspections of bombed facilities. Iran has not submitted required special report on nuclear materials following US-Israeli strikes.",
@@ -363,68 +28,6 @@
       "_from": "claude",
       "first_seen": "2026-04-06T14:40:51.233Z",
       "run_id": "2026-04-06T14:40"
-    },
-    {
-      "headline": "Iran's Assembly of Experts Held 'Unnatural' Online Election Under IRGC Pressure, Qom Office Bombed During Vote Count",
-      "summary": "Assembly members describe March election atmosphere as pressured with limited debate time before IRGC-backed Mojtaba Khamenei selection. US-Israeli bombs struck Experts' office after votes cast but before count completed, targeting the electoral process itself.",
-      "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2026_Iranian_supreme_leader_election",
-      "bloc": "institutional",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Supreme Leader Iran",
-        "IRGC"
-      ],
-      "dimensions": [
-        "accountability",
-        "survival"
-      ],
-      "variable_key": "iran_succession_legitimacy",
-      "event_type": "leader_statement",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Mojtaba Khamenei",
-        "dimension": "accountability",
-        "proposed_delta": -3,
-        "rationale": "Selection through pressured process under military control undermines democratic legitimacy and institutional accountability",
-        "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-06T14:40:51.233Z",
-      "run_id": "2026-04-06T14:40"
-    },
-    {
-      "headline": "Wall Street’s Eyes on the Strait",
-      "summary": "With markets wobbling and bad information everywhere, Citrini Research sent an analyst to the war zone to figure out what’s really happening.",
-      "source": "New York Magazine",
-      "url": "http://nymag.com/intelligencer/article/why-citrini-research-sent-an-analyst-to-the-strait-of-hormuz.html",
-      "bloc": "western",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T16:00:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-06T20:05:49.321Z",
-      "run_id": "2026-04-06T20:05"
     },
     {
       "headline": "Iran's New Supreme Leader Issues First Statement Amid Mounting Health Questions",
@@ -516,42 +119,6 @@
         "proposed_delta": 3,
         "rationale": "public nuclear threats against specific civilian targets on foreign soil shows dangerous impulsiveness",
         "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-06T20:05:49.321Z",
-      "run_id": "2026-04-06T20:05"
-    },
-    {
-      "headline": "Trump Approval Rating Hits New Lows Amid Iran War as Impeachment Talks Intensify",
-      "summary": "President Trump's approval dropped to 38% in recent polls as Iran conflict escalates. House Democrats are reportedly just two votes away from impeachment over war powers violations, with critics arguing strikes lacked congressional authorization.",
-      "source": "IBTimes UK",
-      "url": "https://www.ibtimes.co.uk/trump-approval-ratings-iran-conflict-impeachment-1785669",
-      "bloc": "western",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T16:00:00Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "approval rating",
-        "Trump impeach",
-        "War Powers",
-        "AUMF"
-      ],
-      "dimensions": [
-        "accountability",
-        "survival"
-      ],
-      "variable_key": "trump_approval_rating",
-      "event_type": "leader_watch_term",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Donald J. Trump",
-        "dimension": "accountability",
-        "proposed_delta": -2,
-        "rationale": "declining approval and impeachment threats indicate reduced political accountability",
-        "confidence": "medium"
       },
       "_from": "claude",
       "first_seen": "2026-04-06T20:05:49.321Z",
@@ -721,131 +288,6 @@
         "dimension": "values",
         "proposed_delta": 2,
         "rationale": "intensive overnight diplomacy demonstrates commitment to regional mediation role",
-        "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-07T06:02:26.245Z",
-      "run_id": "2026-04-07T06:02"
-    },
-    {
-      "headline": "Afghanistan-Pakistan Conflict Forces 94,000 Displacement as UN Reports Sustained Cross-Border Violence",
-      "summary": "<cite index=\"5-2\">Just over 94,000 people (about 13,400 families) have been assessed as displaced to date across Khost (26,200), Kunar (25,300), Nangarhar (19,600), Paktia (18,200) and Paktika (4,900) provinces</cite>. One humanitarian worker was killed while 25 health facilities and 41 schools were damaged.",
-      "source": "UN OCHA",
-      "url": "https://www.unocha.org/publications/report/afghanistan/afghanistan-situation-update-2-humanitarian-impact-afghanistan-pakistan-military-escalation-5-april-2026",
-      "bloc": "institutional",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T15:00:00Z",
-      "leaders": [
-        "General Asim Munir"
-      ],
-      "watch_terms": [
-        "Pakistan military",
-        "LoC violations"
-      ],
-      "dimensions": [
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 5,
-      "persian_only": false,
-      "dimension_signal": null,
-      "_from": "claude",
-      "first_seen": "2026-04-07T06:02:26.245Z",
-      "run_id": "2026-04-07T06:02"
-    },
-    {
-      "headline": "Iran's New Supreme Leader Mojtaba Khamenei Issues First Statement Vowing Continued Resistance",
-      "summary": "<cite index=\"57-2,57-3\">Khamenei called for national unity and said the vital global artery of the Strait of Hormuz would continue to be closed to pressure Iran's enemies. He added that all US bases in the region should be immediately closed or will be attacked</cite>. The statement was read by anchor as no video recording exists.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/12/irans-mojtaba-khamenei-issues-first-statement-as-supreme-leader-amid-war",
-      "bloc": "persian",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Supreme Leader Iran",
-        "IRGC",
-        "Strait Hormuz",
-        "Iran ceasefire"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 5,
-      "persian_only": true,
-      "dimension_signal": {
-        "leader": "Mojtaba Khamenei",
-        "dimension": "survival",
-        "proposed_delta": 3,
-        "rationale": "doubling down on established hardline positions while facing existential threats",
-        "confidence": "high"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-07T06:02:26.245Z",
-      "run_id": "2026-04-07T06:02"
-    },
-    {
-      "headline": "Iran Foreign Minister Warns of Regional Radioactive Fallout from Bushehr Nuclear Plant Attacks",
-      "summary": "<cite index=\"20-1,20-6\">Iran's Foreign Minister Abbas Araghchi has warned that there would be a potential radioactive fallout in the Gulf region after the recent US-Israeli attack on the country's Bushehr nuclear plant. Radioactive fallout will end life in GCC capitals, not Tehran</cite>.",
-      "source": "The Week",
-      "url": "https://www.theweek.in/news/middle-east/2026/04/05/iran-fm-warns-of-radioactive-fallout-after-fourth-strike-on-bushehr-nuclear-plant.html",
-      "bloc": "persian",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T15:15:00Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "nuclear Iran",
-        "Iran ceasefire"
-      ],
-      "dimensions": [
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 5,
-      "persian_only": true,
-      "dimension_signal": null,
-      "_from": "claude",
-      "first_seen": "2026-04-07T06:02:26.245Z",
-      "run_id": "2026-04-07T06:02"
-    },
-    {
-      "headline": "Trump Administration Shows Limited Interest in China-Pakistan Mediation Efforts Despite Regional Pressure",
-      "summary": "<cite index=\"45-1\">The US has soured on third-party mediation efforts, and it has little interest in boosting China's international stature or giving it an opening to claim success in the Middle East</cite>. Three officials described administration position as \"agnostic\" toward Chinese-Pakistani peace initiative.",
-      "source": "Manila Times",
-      "url": "https://www.manilatimes.net/2026/04/05/world/china-shows-leadership-with-iran-us-no-interest/2314222",
-      "bloc": "western",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T16:00:00Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Iran ceasefire",
-        "China Iran"
-      ],
-      "dimensions": [
-        "narcissism",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_statement",
-      "escalation": 4,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Donald J. Trump",
-        "dimension": "narcissism",
-        "proposed_delta": 1,
-        "rationale": "rejecting mediation that could boost China's stature over his own diplomatic control",
         "confidence": "high"
       },
       "_from": "claude",
@@ -1510,26 +952,6 @@
       "run_id": "2026-04-08T06:08"
     },
     {
-      "headline": "Dawn Reports Iranian Petrol Sales Restricted to Balochistan Province Only",
-      "summary": "Pakistani English-language newspaper Dawn confirms Iranian fuel imports limited to Balochistan province with strict prohibition on inter-provincial distribution. Energy crisis deepens as government extends fuel subsidies through digital wallet system.",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/latest-news",
-      "bloc": "regional",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T08:33:00Z",
-      "leaders": [],
-      "watch_terms": [],
-      "dimensions": [],
-      "variable_key": "pak_energy_shortage",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "dimension_signal": null,
-      "_from": "claude",
-      "first_seen": "2026-04-08T06:08:28.280Z",
-      "run_id": "2026-04-08T06:08"
-    },
-    {
       "headline": "Geo News Reports Iranian Foreign Minister Thanks Pakistan Leadership for Mediation Efforts",
       "summary": "Pakistani broadcaster Geo News confirmed Iranian Foreign Minister Abbas Araghchi expressed gratitude to PM Sharif and Field Marshal Munir for their tireless mediation efforts in Iran-US conflict. Pakistan positions itself as key regional peace broker.",
       "source": "Geo TV",
@@ -1555,39 +977,6 @@
         "dimension": "narcissism",
         "proposed_delta": 2,
         "rationale": "Iranian praise reinforces Pakistan military's self-image as indispensable regional power broker",
-        "confidence": "medium"
-      },
-      "_from": "claude",
-      "first_seen": "2026-04-08T06:08:28.280Z",
-      "run_id": "2026-04-08T06:08"
-    },
-    {
-      "headline": "Erdogan Tells NATO Chief Iran Conflict Creates 'Geostrategic Impasse' Requiring International Action",
-      "summary": "Turkish President informs NATO Secretary General Mark Rutte that Middle East intervention has led to regional deadlock with broad implications. Turkey coordinates mediation efforts with Pakistan and Egypt while maintaining NATO alliance obligations.",
-      "source": "Turkish Minute",
-      "url": "https://www.turkishminute.com/2026/04/05/erdogan-tells-nato-chief-mideast-conflict-has-created-geostrategic-impasse/",
-      "bloc": "regional",
-      "date": "2026-04-05",
-      "datetime": "2026-04-05T16:00:00Z",
-      "leaders": [
-        "Recep Tayyip Erdogan"
-      ],
-      "watch_terms": [
-        "Turkey NATO",
-        "Turkey mediation"
-      ],
-      "dimensions": [
-        "values"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
-      "persian_only": false,
-      "dimension_signal": {
-        "leader": "Recep Tayyip Erdogan",
-        "dimension": "values",
-        "proposed_delta": 1,
-        "rationale": "Erdogan balances NATO loyalty with independent regional mediation role, showing pragmatic flexibility",
         "confidence": "medium"
       },
       "_from": "claude",
@@ -23463,7 +22852,258 @@
       "_from": "newsapi",
       "first_seen": "2026-05-05T19:27:17.656Z",
       "run_id": "2026-05-05T19:27"
+    },
+    {
+      "headline": "Lebanon's most senior Shiite politician says no to negotiations with Israel until war stops",
+      "summary": "Lebanon's parliament speaker, who is the most senior Shiite politician and a close ally of Hezbollah, said on Monday there could be no negotiations ‌with Israel without a halt to the war that has raged on in southern Lebanon in spite of a ceasefire. Nabih Ber…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/lebanon%27s-most-senior-shi%27ite-politician-says-no-to-negotiations-with-israel-until-war-stops1",
+      "bloc": "western",
+      "date": "2026-05-04",
+      "datetime": "2026-05-04T21:16:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-06T03:33:36.550Z",
+      "run_id": "2026-05-06T03:33"
+    },
+    {
+      "headline": "Trump launches operation to open Strait of Hormuz; Iran strikes ships, UAE port",
+      "summary": "U.S. President Donald Trump launched a new operation on Monday seeking to open the Strait of Hormuz to shipping, prompting Iran to lash out in an effort to keep control of the critical energy shipping route. A handful of commercial vessels were reported ‌to h…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/trump-launches-bid-to-open-strait-of-hormuz-iran-strikes-ships-uae-port",
+      "bloc": "western",
+      "date": "2026-05-04",
+      "datetime": "2026-05-04T21:14:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-06T03:33:36.550Z",
+      "run_id": "2026-05-06T03:33"
+    },
+    {
+      "headline": "Israel ready to resume military operations against Iran, awaits US approval",
+      "summary": "Potential US-backed Israeli military actions could destabilize Iran, impacting regional stability and influencing global market perceptions.\nThe post Israel ready to resume military operations against Iran, awaits US approval appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/israel-ready-to-resume-military-operations-against-iran-awaits-us-approval/",
+      "bloc": "western",
+      "date": "2026-05-04",
+      "datetime": "2026-05-04T20:24:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-06T03:33:36.550Z",
+      "run_id": "2026-05-06T03:33"
+    },
+    {
+      "headline": "US-Iran Clashes Erupt in Strait of Hormuz as Trump's 'Project Freedom' Tests Fragile Ceasefire",
+      "summary": "DUBAI, United Arab Emirates — U.S. and Iranian forces exchanged fire in the Strait of Hormuz on Monday as Washington launched an ambitious operation to escort stranded commercial vessels through the vital waterway, testing a shaky ceasefire and sending oil pr…",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/us-iran-clashes-erupt-strait-hormuz-trumps-project-freedom-tests-fragile-ceasefire-1868197",
+      "bloc": "western",
+      "date": "2026-05-05",
+      "datetime": "2026-05-05T03:20:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-06T03:33:36.550Z",
+      "run_id": "2026-05-06T03:33"
+    },
+    {
+      "headline": "US fights to reopen the Strait of Hormuz as the UAE comes under attack in a test of Iran truce",
+      "summary": "The United States said it reopened a shipping lane in the Strait of Hormuz after engaging Iranian forces, sinking six boats that were targeting civilian vessels. Two US-flagged merchant ships passed through safely under the new security operation.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/the-us-fights-to-reopen-the-strait-of-hormuz-as-the-uae-comes-under-attack-in-a-test-of-iran-truce/articleshow/130815086.cms",
+      "bloc": "regional",
+      "date": "2026-05-05",
+      "datetime": "2026-05-05T03:08:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-06T03:33:36.550Z",
+      "run_id": "2026-05-06T03:33"
+    },
+    {
+      "headline": "Renewed attacks in Hormuz suggest ongoing US-Iran tensions",
+      "summary": "Ongoing instability in Hormuz underscores persistent geopolitical tensions, affecting global oil markets and complicating diplomatic resolutions.\nThe post Renewed attacks in Hormuz suggest ongoing US-Iran tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/renewed-attacks-in-hormuz-suggest-ongoing-us-iran-tensions/",
+      "bloc": "western",
+      "date": "2026-05-05",
+      "datetime": "2026-05-05T01:30:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-06T03:33:36.550Z",
+      "run_id": "2026-05-06T03:33"
+    },
+    {
+      "headline": "Trump threatens to 'blow Iran off face of the Earth' after shots fired at ships after declaring 'Project Freedom' to end stranglehold on Strait",
+      "summary": "After he confirmed Iran had fired 'shots' at vessels, the US President warned Tehran it would be 'blown off the face of the Earth' should it target American ships in the Gulf.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15790163/Trump-threatens-blow-Iran-face-Earth.html",
+      "bloc": "western",
+      "date": "2026-05-05",
+      "datetime": "2026-05-05T00:08:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-06T03:33:36.550Z",
+      "run_id": "2026-05-06T03:33"
+    },
+    {
+      "headline": "MARK ALMOND: Tehran is suffering and the mullahs could run out of cash, but time is not on President's side",
+      "summary": "Does President Trump stand any real chance of re-opening the Strait of Hormuz, as he has promised to do? Is it, as some have claimed, an exercise doomed to fail?",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/debate/article-15789593/MARK-ALMOND-Tehran-suffering-time-Presidents.html",
+      "bloc": "western",
+      "date": "2026-05-04",
+      "datetime": "2026-05-04T23:30:26Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-06T03:33:36.550Z",
+      "run_id": "2026-05-06T03:33"
+    },
+    {
+      "headline": "Karaganov: How Russia can win the new world war",
+      "summary": "Russia must sharpen nuclear deterrence, revise doctrine and defeat Kiev to avert a wider war with the West and NATO powers Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/russia/639440-karaganov-how-russia-can-win/",
+      "bloc": "western",
+      "date": "2026-05-04",
+      "datetime": "2026-05-04T21:07:56Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-06T03:33:36.550Z",
+      "run_id": "2026-05-06T03:33"
     }
   ],
-  "total_items_ever": 1107
+  "total_items_ever": 1116
 }

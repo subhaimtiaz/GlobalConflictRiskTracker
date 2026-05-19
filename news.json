@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-19T09:54:49.140Z",
+  "ts": "2026-05-19T15:34:23.845Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 106,
     "oilStress": 62,
-    "updatedAt": "2026-05-19T09:54:49.140Z"
+    "updatedAt": "2026-05-19T15:34:23.845Z"
   },
   "items": [
     {
-      "headline": "Iran World Cup squad lands in south Türkiye for training",
-      "summary": "TEHRAN: Iran's football team arrived in Türkiye on Monday (May 18) for a training camp and to complete visa applications ahead of the 2026 World Cup, AFP correspondents said.The 22 players and coaching staff in the Team Melli delegation flew into the Turkish …",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/sport/iran-world-cup-football-team-turkiye-friendly-match-6127976",
+      "headline": "Iran World Cup squad lands in south Turkey for training",
+      "summary": "Iran's football team arrived in Turkey on Monday for a training camp and to complete visa applications ahead of the 2026 World Cup, AFP correspondents said. Iran and the United States cut diplomatic ties in 1980 and the players will use their time in Turkey t…",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/iran-world-cup-squad-lands-132747347.html",
       "bloc": "western",
       "date": "2026-05-18",
-      "datetime": "2026-05-18T09:24:00Z",
+      "datetime": "2026-05-18T14:25:11Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,39 +40,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Netanyahu, Trump discuss possible renewed fighting against Iran over phone -- state media",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu and U.S. President Donald Trump on Sunday discussed the possibility of renewing fighting against Iran over phone, Israel's state-owned Kan TV news reported.",
+      "headline": "Iran eyes challenging stock market reopening after lengthy war closure",
+      "summary": "The capital market is not Iranian economy's main financing engine, but it still matters politically and psychologically.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/5/18/iran-eyes-challenging-stock-market-reopening-after-lengthy-war-closure",
+      "bloc": "regional",
+      "date": "2026-05-18",
+      "datetime": "2026-05-18T13:03:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: April 2026: Atrocities 867-930",
+      "summary": "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to …",
+      "source": "Mcsweeneys.net",
+      "url": "https://www.mcsweeneys.net/articles/april-2026-atrocities-867-930",
+      "bloc": "western",
+      "date": "2026-05-18",
+      "datetime": "2026-05-18T12:01:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran says any agreement with US must end war on all fronts, lift blockade and sanctions",
+      "summary": "Iran's Deputy Foreign Minister Kazem Gharibabadi has said that any possible agreement with the US must ensure an end to the war on all fronts and lift the naval blockade and sanctions imposed against the country.",
       "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260518-pdo01.htm",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260518-presstv05.htm",
       "bloc": "western",
       "date": "2026-05-18",
-      "datetime": "2026-05-18T09:23:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump issues dire warning to Iran to accept peace deal",
-      "summary": "President Donald Trump issued a fresh warning to Iran on Sunday, saying it had to move quickly towards a peace deal or \"there won't be anything left of them.\"",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/trump-issues-dire-warning-to-iran-to-accept-peace-deal-222246",
-      "bloc": "western",
-      "date": "2026-05-18",
-      "datetime": "2026-05-18T07:18:56Z",
+      "datetime": "2026-05-18T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,39 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "UAE’s Failed Bid for Joint Gulf Military Response to Iran",
-      "summary": "The United Arab Emirates (UAE) made a failed bid to convince Saudi Arabia and Qatar to launch a joint military response to Iran’s attacks on the Gulf, according to a Bloomberg News report cited by Middle East Eye. [1] Emirati President Mohamed bin Zayed held …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-18-uae-failed-bid-joint-military-response-iran.html",
+      "headline": "May 18: Iran reaffirms national resolve, advances new diplomatic and maritime actions",
+      "summary": "Iran on Monday reaffirmed its national resolve against any form of foreign aggression, with President Masoud Pezeshkian stating that the country will not compromise its dignity even as officials advanced new diplomatic steps and maritime initiatives despite c…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260518-presstv03.htm",
       "bloc": "western",
       "date": "2026-05-18",
-      "datetime": "2026-05-18T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why Is It So Difficult for Iran To Reach an Agreement With the United States?",
-      "summary": "Collapse of Islamabad Talks Negotiations between Iran and the United States collapsed in February 2026 in Islamabad, Pakistan, according to analysts Amir-Hassan Boozari and Muhammad Sahimi in a report published by Antiwar.com [1]. The talks followed two prior…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-18-difficult-for-iran-reach-agreement-with-us.html",
-      "bloc": "western",
-      "date": "2026-05-18",
-      "datetime": "2026-05-18T06:00:00Z",
+      "datetime": "2026-05-18T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -490,25 +490,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Friday: Hili dialogue",
-      "summary": "Welcome to Friday, May 15, 2026, and Malcolm X Day, celebrated on the third Friday in May. Here’s a near-final scene from Spike Lee’s great movie “Malcolm X” (1992, my favorite of his). Malcolm drives to the auditorium where he’ll be assassinated, passing his…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/05/15/friday-hili-dialogue-577/",
+      "headline": "Current price of oil as of May 18, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-05-18-2026/",
       "bloc": "western",
-      "date": "2026-05-15",
-      "datetime": "2026-05-15T11:45:27Z",
+      "date": "2026-05-18",
+      "datetime": "2026-05-18T13:09:29Z",
       "leaders": [
-        "Xi Jinping"
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "oil Brent crude"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "values"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Sensex today | Stock Market Highlights: Sensex closes flat, Nifty ends at 23,650 as Iran war worries offset IT gains",
+      "summary": "Sensex, Nifty, Share Prices Highlights: India's equity benchmarks closed flat on ​Monday as persistent concerns over the impact of the ‌Iran war offset a partial rebound in IT stocks.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-18th-may-2026/article70990074.ece",
+      "bloc": "western",
+      "date": "2026-05-18",
+      "datetime": "2026-05-18T10:32:45Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -573,58 +601,6 @@
       "bloc": "regional",
       "date": "2026-05-15",
       "datetime": "2026-05-15T14:46:13Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq sink as yields jump amid inflation jitters",
-      "summary": "Inflation worries are preying on investors as they weigh the outcomes of the Trump-Xi summit in China.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-yields-jump-amid-inflation-jitters-224527705.html",
-      "bloc": "western",
-      "date": "2026-05-14",
-      "datetime": "2026-05-14T22:45:27Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Polestar says ‘pump anxiety’ has replaced range anxiety. Its balance sheet tells a more complicated story.",
-      "summary": "For years, the electric vehicle industry’s biggest problem had a name: range anxiety. Now, according to the chief executive of Polestar, the anxiety has moved to the other side of the forecourt. “People are concerned, ‘how much do I pay at the gas station?’” …",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/polestar-pump-anxiety-ev-demand-iran-oil-crisis/",
-      "bloc": "western",
-      "date": "2026-05-14",
-      "datetime": "2026-05-14T20:20:47Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

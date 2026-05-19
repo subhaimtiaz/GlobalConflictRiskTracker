@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-19T15:33:18.721Z",
+  "updated": "2026-05-19T19:56:25.476Z",
   "retention_days": 30,
   "items": [
     {
@@ -22116,7 +22116,142 @@
       "_from": "newsapi",
       "first_seen": "2026-05-19T15:33:18.720Z",
       "run_id": "2026-05-19T15:33"
+    },
+    {
+      "headline": "Iran’s President Admits Regime ‘Facing Serious Challenges’ While Demanding U.S. Concessions to End War",
+      "summary": "Tehran responds to President Trump's proposal, wants to retain nuclear program and gain access to billions in frozen funds. \nThe post Iran’s President Admits Regime ‘Facing Serious Challenges’ While Demanding U.S. Concessions to End War first appeared on Le·g…",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2026/05/irans-president-admits-regime-facing-serious-challenges-while-demanding-u-s-concessions-to-end-war/",
+      "bloc": "western",
+      "date": "2026-05-18",
+      "datetime": "2026-05-18T17:00:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-19T19:56:25.476Z",
+      "run_id": "2026-05-19T19:56"
+    },
+    {
+      "headline": "Did Trump Trade Taiwan To China To End The Iran And Russia Wars?",
+      "summary": "As U.S. President Donald Trump landed in Beijing last Wednesday for a two-day summit with his Chinese counterpart Xi Jinping, his aides would have been acutely aware that he had faced extensive criticism in the past for his cosy dealings with the Chinese lead…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/International/Did-Trump-Trade-Taiwan-To-China-To-End-The-Iran-And-Russia-Wars.html",
+      "bloc": "western",
+      "date": "2026-05-18",
+      "datetime": "2026-05-18T17:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-19T19:56:25.476Z",
+      "run_id": "2026-05-19T19:56"
+    },
+    {
+      "headline": "Pakistan’s mediation faces limits as Iran-US tensions deepen",
+      "summary": "Tehran and Washington exchange proposals via Pakistan as military escalation increasingly shadows diplomatic efforts.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/5/18/pakistans-mediation-faces-limits-as-iran-us-tensions-deepen",
+      "bloc": "regional",
+      "date": "2026-05-18",
+      "datetime": "2026-05-18T16:09:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-19T19:56:25.476Z",
+      "run_id": "2026-05-19T19:56"
+    },
+    {
+      "headline": "What’s on the Agenda for the 3rd Lee-Takaichi Summit?",
+      "summary": "Japan and South Korea are seeking to further institutionalize their security, energy, and strategic cooperation – especially after Trump’s trip to Beijing.",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/05/whats-on-the-agenda-for-the-3rd-lee-takaichi-summit/",
+      "bloc": "western",
+      "date": "2026-05-18",
+      "datetime": "2026-05-18T16:30:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-19T19:56:25.476Z",
+      "run_id": "2026-05-19T19:56"
+    },
+    {
+      "headline": "Ukraine Has a New War Strategy—and It’s Working",
+      "summary": "A year ago, the Ukrainian government decided to take the fight directly to Russia. It hasn’t looked back since.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/05/18/ukraine-russia-war-strategy-attack/",
+      "bloc": "western",
+      "date": "2026-05-18",
+      "datetime": "2026-05-18T19:43:15Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-19T19:56:25.476Z",
+      "run_id": "2026-05-19T19:56"
     }
   ],
-  "total_items_ever": 1443
+  "total_items_ever": 1448
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-19T19:57:30.766Z",
+  "ts": "2026-05-20T03:58:10.297Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 106,
     "oilStress": 62,
-    "updatedAt": "2026-05-19T19:57:30.766Z"
+    "updatedAt": "2026-05-20T03:58:10.297Z"
   },
   "items": [
+    {
+      "headline": "Trump Halts Iran Attack at Gulf Monarchs' Request as Democrats Renew War Powers Push",
+      "summary": "As President Donald Trump announced Monday that he hit pause on a planned attack against Iran at the request of three Gulf monarchs, Senate Minority Leader Chuck Schumer renewed Democrats' push for a war powers resolution to end the illegal conflict.Trump wro…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/news/trump-iran-war-powers-act",
+      "bloc": "western",
+      "date": "2026-05-18",
+      "datetime": "2026-05-18T22:06:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump says he called off imminent plans to attack Iran at request of Gulf states",
+      "summary": "Trump said in a post on social media that the attacks had been planned for tomorrow.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/trump-says-he-called-off-imminent-plans-to-attack-iran-at-request-of-gulf-states-7044072-May2026/",
+      "bloc": "western",
+      "date": "2026-05-18",
+      "datetime": "2026-05-18T21:02:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran’s President Admits Regime ‘Facing Serious Challenges’ While Demanding U.S. Concessions to End War",
       "summary": "Tehran responds to President Trump's proposal, wants to retain nuclear program and gain access to billions in frozen funds. \nThe post Iran’s President Admits Regime ‘Facing Serious Challenges’ While Demanding U.S. Concessions to End War first appeared on Le·g…",
@@ -92,53 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran World Cup squad lands in south Turkey for training",
-      "summary": "Iran's football team arrived in Turkey on Monday for a training camp and to complete visa applications ahead of the 2026 World Cup, AFP correspondents said. Iran and the United States cut diplomatic ties in 1980 and the players will use their time in Turkey t…",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/iran-world-cup-squad-lands-132747347.html",
+      "headline": "Kharg Island remains empty of tankers for 10th day amid US blockade",
+      "summary": "The blockade's disruption of Iran's oil exports could exacerbate global energy tensions and impact international economic stability.\nThe post Kharg Island remains empty of tankers for 10th day amid US blockade appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/kharg-island-empty-us-blockade/",
       "bloc": "western",
       "date": "2026-05-18",
-      "datetime": "2026-05-18T14:25:11Z",
+      "datetime": "2026-05-18T20:19:04Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran eyes challenging stock market reopening after lengthy war closure",
-      "summary": "The capital market is not Iranian economy's main financing engine, but it still matters politically and psychologically.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/5/18/iran-eyes-challenging-stock-market-reopening-after-lengthy-war-closure",
-      "bloc": "regional",
-      "date": "2026-05-18",
-      "datetime": "2026-05-18T13:03:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Tensions flare near Strait of Hormuz as one ship is seized and another is sunk",
-      "summary": "It wasn't immediately clear who was behind these incidents, but they happened as a senior Iranian official reiterated his country's claim of control over the waterway and another said it had a right to seize oil tankers connected to the U.S.",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/world/tensions-flare-near-strait-of-hormuz-as-one-ship-is-seized-and-another-is-sunk",
-      "bloc": "western",
-      "date": "2026-05-15",
-      "datetime": "2026-05-15T18:31:02Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "House vote on Iran war powers resolution fails for third time",
       "summary": "The vote on a Democratic resolution to rein in Mr. Trump's authority to strike Iran was 212-212, falling just short of a majority.",
       "source": "CBS News",
@@ -342,54 +342,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Murkowski Grills Hegseth About Getting Congressional Approval for Iran War: Law ‘Is Pretty Clear’",
-      "summary": "\"The War Powers Resolution is pretty clear here. It requires the president to terminate hostilities within 60 days absent congressional authorization.\"\nThe post Murkowski Grills Hegseth About Getting Congressional Approval for Iran War: Law ‘Is Pretty Clear’ …",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/politics/murkowski-grills-hegseth-about-getting-congressional-approval-for-iran-war-law-is-pretty-clear/",
-      "bloc": "western",
-      "date": "2026-05-12",
-      "datetime": "2026-05-12T18:34:56Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Trump Iran war"
-      ],
-      "dimensions": [
-        "accountability",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump doesn't need Congress to restart Iran strikes: Hegseth",
-      "summary": "The Iran war, now well into its third month, has caused oil prices to soar globally as Iran continues to lock down the Strait of Hormuz.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/12/trump-congress-iran-war-hegseth.html",
-      "bloc": "western",
-      "date": "2026-05-12",
-      "datetime": "2026-05-12T18:10:13Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Trump Iran war"
-      ],
-      "dimensions": [
-        "accountability",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

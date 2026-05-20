@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-20T15:31:19.692Z",
+  "updated": "2026-05-20T20:23:18.075Z",
   "retention_days": 30,
   "items": [
     {
@@ -22101,7 +22101,60 @@
       "_from": "newsapi",
       "first_seen": "2026-05-20T15:31:19.692Z",
       "run_id": "2026-05-20T15:31"
+    },
+    {
+      "headline": "UAE says drones that targeted Barakah nuclear power plant came from Iraqi territory",
+      "summary": "The United Arab Emirates says drones that targeted its Barakah nuclear power plant all came from Iraq. The announcement Tuesday means that Iranian-backed Shiite militias were likely behind Sunday’s nuclear plant attack. Meanwhile, U.S. President Donald Trump …",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-uae-nuclear-drones-uae-gulf-46f5023dc480c3fbe8061c2ed6a94a5c",
+      "bloc": "western",
+      "date": "2026-05-19",
+      "datetime": "2026-05-19T15:54:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-20T20:23:18.075Z",
+      "run_id": "2026-05-20T20:23"
+    },
+    {
+      "headline": "Women of Hormuz on their island homes that went from 'heaven' to hell",
+      "summary": "Before rising conflict pushed the Strait of Hormuz into the spotlight as a choke point vital to economies globally, tourism transformed women's lives.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-05-20/people-of-strait-of-hormuz-iran-war-women-and-culture/106679912",
+      "bloc": "western",
+      "date": "2026-05-19",
+      "datetime": "2026-05-19T18:54:59Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-20T20:23:18.075Z",
+      "run_id": "2026-05-20T20:23"
     }
   ],
-  "total_items_ever": 1469
+  "total_items_ever": 1471
 }

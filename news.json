@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-21T04:07:16.217Z",
+  "ts": "2026-05-21T09:51:37.455Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": null,
-    "oilStress": null,
-    "updatedAt": "2026-05-21T04:07:16.217Z"
+    "oilPrice": 117,
+    "oilStress": 79,
+    "updatedAt": "2026-05-21T09:51:37.455Z"
   },
   "items": [
+    {
+      "headline": "US, Iran trade threats, Trump says Tehran wants peace deal",
+      "summary": "President Donald Trump warned on May 19 that the United States may strike Iran again — a day after he said he had held off a major assault in hopes of a peace deal — but Tehran's army threatened to open \"new fronts\" if he went ahead.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-iran-trade-threats-trump-says-tehran-wants-peace-deal-222346",
+      "bloc": "western",
+      "date": "2026-05-20",
+      "datetime": "2026-05-20T06:05:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Report: U.S. Official Lobbied Saudi Arabia to Release Funds for Gaza Board of Peace",
+      "summary": "A senior U.S. official traveled to Saudi Arabia in April to urge the kingdom to deliver on its $1 billion pledge to President Donald Trump’s Board of Peace for Gaza, according to two officials familiar with the matter. Middle East Eye reported that Aryeh Ligh…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-20-official-lobbied-riyadh-release-funds-board-peace.html",
+      "bloc": "western",
+      "date": "2026-05-20",
+      "datetime": "2026-05-20T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Presents Peace Proposal to Washington with Three Key Demands",
+      "summary": "Iran has submitted a formal proposal to the Trump administration that demands reparations for past U.S. military actions, a full withdrawal of American forces from key regional positions and the lifting of all economic sanctions imposed since 2018, according …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-20-iran-presents-peace-proposal-three-key-demands.html",
+      "bloc": "western",
+      "date": "2026-05-20",
+      "datetime": "2026-05-20T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Gaza: Israel Curbs Aid, Kills Civilians During Ceasefire",
       "summary": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Aid trucks enter the Kerem Abu Salem crossing in Khan Younis, Gaza, October 12, 2025.\n © 2025 Omar al-Qatta / AFP via Getty Images \n \n \n\n\n \n(Beirut) – The humanitarian infrastructure sustaining life in Gaza remains i…",
@@ -62,84 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "UAE says drones that targeted Barakah nuclear power plant came from Iraqi territory",
-      "summary": "The United Arab Emirates says drones that targeted its Barakah nuclear power plant all came from Iraq. The announcement Tuesday means that Iranian-backed Shiite militias were likely behind Sunday’s nuclear plant attack. Meanwhile, U.S. President Donald Trump …",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/iran-us-uae-nuclear-drones-uae-gulf-46f5023dc480c3fbe8061c2ed6a94a5c",
-      "bloc": "western",
-      "date": "2026-05-19",
-      "datetime": "2026-05-19T15:54:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran, Pakistan discuss ongoing efforts to end U.S.-Israeli war",
-      "summary": "Iranian Foreign Minister Seyed Abbas Araghchi and Pakistan Interior Minister Mohsin Naqvi have exchanged views on the ongoing efforts to end the U.S. and Israeli war against Iran.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260519-pdo02.htm",
-      "bloc": "western",
-      "date": "2026-05-19",
-      "datetime": "2026-05-19T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says peace proposal includes reparations for war damage, US troop withdrawal",
-      "summary": "Tehran’s latest peace proposal to the United States involves ending hostilities on all fronts including Lebanon, the exit of U.S. forces from areas ‌close to Iran, and reparations for destruction caused by the U.S.-Israeli war, state media reported on Tuesday.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-says-peace-proposal-includes-reparations-for-war-damage-us-troop-withdrawal/article70997102.ece",
-      "bloc": "western",
-      "date": "2026-05-19",
-      "datetime": "2026-05-19T09:19:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

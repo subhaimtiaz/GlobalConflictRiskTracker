@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-21T04:06:10.981Z",
+  "updated": "2026-05-21T09:50:32.248Z",
   "retention_days": 30,
   "items": [
     {
@@ -21233,7 +21233,91 @@
       "_from": "newsapi",
       "first_seen": "2026-05-21T04:06:10.981Z",
       "run_id": "2026-05-21T04:06"
+    },
+    {
+      "headline": "US, Iran trade threats, Trump says Tehran wants peace deal",
+      "summary": "President Donald Trump warned on May 19 that the United States may strike Iran again — a day after he said he had held off a major assault in hopes of a peace deal — but Tehran's army threatened to open \"new fronts\" if he went ahead.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-iran-trade-threats-trump-says-tehran-wants-peace-deal-222346",
+      "bloc": "western",
+      "date": "2026-05-20",
+      "datetime": "2026-05-20T06:05:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-21T09:50:32.247Z",
+      "run_id": "2026-05-21T09:50"
+    },
+    {
+      "headline": "Report: U.S. Official Lobbied Saudi Arabia to Release Funds for Gaza Board of Peace",
+      "summary": "A senior U.S. official traveled to Saudi Arabia in April to urge the kingdom to deliver on its $1 billion pledge to President Donald Trump’s Board of Peace for Gaza, according to two officials familiar with the matter. Middle East Eye reported that Aryeh Ligh…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-20-official-lobbied-riyadh-release-funds-board-peace.html",
+      "bloc": "western",
+      "date": "2026-05-20",
+      "datetime": "2026-05-20T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-21T09:50:32.247Z",
+      "run_id": "2026-05-21T09:50"
+    },
+    {
+      "headline": "Iran Presents Peace Proposal to Washington with Three Key Demands",
+      "summary": "Iran has submitted a formal proposal to the Trump administration that demands reparations for past U.S. military actions, a full withdrawal of American forces from key regional positions and the lifting of all economic sanctions imposed since 2018, according …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-20-iran-presents-peace-proposal-three-key-demands.html",
+      "bloc": "western",
+      "date": "2026-05-20",
+      "datetime": "2026-05-20T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-21T09:50:32.247Z",
+      "run_id": "2026-05-21T09:50"
     }
   ],
-  "total_items_ever": 1474
+  "total_items_ever": 1477
 }

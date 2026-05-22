@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-21T19:59:39.740Z",
+  "ts": "2026-05-22T04:01:57.706Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-21T19:59:39.740Z"
+    "updatedAt": "2026-05-22T04:01:57.706Z"
   },
   "items": [
+    {
+      "headline": "Trump's 'Board of Peace' Has Only Brought More Death and Suffering to Gaza, Says Rights Group",
+      "summary": "Six months in, US President Donald Trump's so-called \"Board of Peace\" has failed to deliver on its promise of a \"secure and prosperous future\" for Palestinians in Gaza, who are still being killed, maimed, and deprived of food and other crucial supplies by Isr…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/news/trump-gaza-board-of-peace",
+      "bloc": "western",
+      "date": "2026-05-21",
+      "datetime": "2026-05-21T02:24:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "F-15s, F-35, MQ-9 Reaper Drones: US Report Says 42 Aircraft Lost In Iran War",
+      "summary": "At least 42 United States military aircraft, including fighter jets and drones, have been lost or damaged during the war in Iran, according to an official report. The losses may increase due to multiple factors, including classification, ongoing combat activi…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4380223/posts",
+      "bloc": "western",
+      "date": "2026-05-20",
+      "datetime": "2026-05-20T22:19:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump says negotiations with Iran in final stages, warns of attacks if deal fails",
+      "summary": "U.S. President Donald Trump said on Wednesday that negotiations with Iran were &quot;in the final stages&quot;, while warning of further attacks unless Tehran agrees to a peace deal. Six weeks since Trump paused Operation Epic Fury for a ceasefire, talks to e…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/trump-says-negotiations-with-iran-in-final-stages-warns-of-attacks-if-deal-fails1",
+      "bloc": "western",
+      "date": "2026-05-20",
+      "datetime": "2026-05-20T21:37:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran warns war to extend beyond region if U.S., Israel repeat \"aggression\"",
       "summary": "Iran's Islamic Revolution Guard Corps (IRGC) on Wednesday warned that if the U.S. and Israeli \"aggression\" against the country is repeated, the war will extend beyond the West Asia region.",
@@ -66,91 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Russia's Putin, China's Xi jointly denounce recent US-Israeli war of aggression against Iran",
-      "summary": "Russian President Vladimir Putin and his Chinese counterpart Xi Jinping have jointly condemned the recent US-Israeli war of aggression against Iran, calling for dialogue as the only way to end the destabilizing conflict.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260520-presstv06.htm",
-      "bloc": "western",
-      "date": "2026-05-20",
-      "datetime": "2026-05-20T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "United Arab Emirates’ Image as Middle Eastern Haven Is Tested by Iran War",
-      "summary": "The United Arab Emirates for decades has advertised itself as a haven for international business in a Middle East awash in violent upheaval. Those waves have now crashed into this nation, testing its economic model like never before. The UAE, …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/05/20/870730.htm",
-      "bloc": "western",
-      "date": "2026-05-20",
-      "datetime": "2026-05-20T11:10:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US, Iran trade threats, Trump says Tehran wants peace deal",
-      "summary": "President Donald Trump warned on May 19 that the United States may strike Iran again — a day after he said he had held off a major assault in hopes of a peace deal — but Tehran's army threatened to open \"new fronts\" if he went ahead.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/us-iran-trade-threats-trump-says-tehran-wants-peace-deal-222346",
-      "bloc": "western",
-      "date": "2026-05-20",
-      "datetime": "2026-05-20T06:05:47Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Marines board Iranian-flagged tanker amid rising tensions in Gulf of Oman",
-      "summary": "The US Marines' action may exacerbate US-Iran tensions, potentially disrupting global oil supply routes and impacting market stability.\nThe post US Marines board Iranian-flagged tanker amid rising tensions in Gulf of Oman appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-marines-board-iranian-flagged-tanker-amid-rising-tensions-in-gulf-of-oman/",
-      "bloc": "western",
-      "date": "2026-05-20",
-      "datetime": "2026-05-20T18:36:29Z",
+      "headline": "Iran warns any renewed conflict with the US could spread 'far beyond the Middle East'",
+      "summary": "Iran said on Wednesday it was examining a new US proposal to end the Middle East war, as President Donald Trump described the talks as being on the \"borderline\" between a deal and renewed strikes. Ghalibaf warned of a \"forceful response\", while Iran's Revolut…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-warns-any-renewed-conflict-with-the-us-could-spread-far-beyond-the-middle-east/articleshow/131237892.cms",
+      "bloc": "regional",
+      "date": "2026-05-21",
+      "datetime": "2026-05-21T00:47:02Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US Marines board Iranian oil tanker in Gulf of Oman as blockade enforcement intensifies",
-      "summary": "Intensified US enforcement in the Gulf of Oman heightens geopolitical risk, impacting energy markets and prompting scrutiny of Iran's crypto strategies.\nThe post US Marines board Iranian oil tanker in Gulf of Oman as blockade enforcement intensifies appeared …",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-marines-board-iranian-tanker-gulf-oman/",
+      "headline": "Iran Draws New Maritime ‘Oversight Zone’ Across Strait of Hormuz",
+      "summary": "Iran’s self-declared Persian Gulf Strait Authority (PGSA) has published what appears to be the clearest geographic definition yet of the maritime zone it claims authority over in the Strait of...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-draws-new-maritime-oversight-zone-across-strait-of-hormuz/",
       "bloc": "western",
       "date": "2026-05-20",
-      "datetime": "2026-05-20T18:34:39Z",
+      "datetime": "2026-05-20T23:19:03Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,65 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "JODI: Saudi Arabia Crude Exports Sink To Record Lows",
-      "summary": "Saudi Arabia's crude oil exports plummeted to 4.974 million barrels per day (bpd) in March, marking the lowest level on record since the Joint Organizations Data Initiative (JODI) began tracking the data. According to official figures released on May 20, 2026…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/JODI-Saudi-Arabia-Crude-Exports-Sink-To-Record-Lows.html",
+      "headline": "Iran Warns Will Take The War “Beyond The Region” If Trump Restarts Attacks",
+      "summary": "Ali Vaez, director of the Iran Project at the International Crisis Group, has summed up where things stand: \"Since the ceasefire came into effect, both Washington and Tehran appear to be operating under the illusion that time is on their side,\" he said. \"Each…",
+      "source": "Shtfplan.com",
+      "url": "https://www.shtfplan.com/war/iran-warns-will-take-the-war-beyond-the-region-if-trump-restarts-attacks",
       "bloc": "western",
       "date": "2026-05-20",
-      "datetime": "2026-05-20T16:55:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Consolidating Control of Hormuz With Checkpoints, Vetting and Sometimes ‘Fees’",
-      "summary": "The tanker crew gathered their courage and carefully navigated along a route designated by Iran, hugging the coastline and maneuvering their hulking vessel between island checkpoints through the Strait of Hormuz. The 330-meter-long Agios Fanourios I, laden wi…",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/05/20/870737.htm",
-      "bloc": "western",
-      "date": "2026-05-20",
-      "datetime": "2026-05-20T14:00:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran threatens war 'beyond the region' if US attacks",
-      "summary": "DUBAI/WASHINGTON, May 20 (Reuters) - Iran threatened on Wednesday to spread war beyond the Middle East if the United States attacks again, after President...",
-      "source": "Yahoo Entertainment",
-      "url": "https://uk.news.yahoo.com/tankers-exit-hormuz-trump-vance-034440970.html",
-      "bloc": "western",
-      "date": "2026-05-20",
-      "datetime": "2026-05-20T11:50:52Z",
+      "datetime": "2026-05-20T22:30:29Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -274,21 +222,49 @@
       "_from": "newsapi"
     },
     {
-      "headline": "House vote on Iran war powers resolution fails for third time",
-      "summary": "The vote on a Democratic resolution to rein in Mr. Trump's authority to strike Iran was 212-212, falling just short of a majority.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/house-iran-war-powers-resolution/",
+      "headline": "Trump says willing to wait for a few days to get 'right answer' on Iran peace deal",
+      "summary": "\"Believe me, if we don't get the right answers, it goes very quickly. We're all ready to go,\" said Trump.",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/iran-war-trump-wait-right-answer-peace-deal-6132091",
       "bloc": "western",
-      "date": "2026-05-14",
-      "datetime": "2026-05-14T21:05:26Z",
+      "date": "2026-05-20",
+      "datetime": "2026-05-20T22:23:00Z",
       "leaders": [
-        "Donald J. Trump"
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Trump Iran war"
+        "Strait of Hormuz"
       ],
       "dimensions": [
-        "accountability",
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
+      "summary": "The U.S. military said Wednesday that it boarded an Iranian-flagged oil tanker in the Gulf of Oman that was suspected of trying to violate the American blockade, the latest action by the Trump administration to try to push Tehran to reopen the Strait of Hormu…",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/world/u-s-military-boards-iranian-flagged-oil-tanker-suspected-of-trying-to-breach-blockade",
+      "bloc": "western",
+      "date": "2026-05-20",
+      "datetime": "2026-05-20T22:05:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
         "impulsivity"
       ],
       "variable_key": null,
@@ -654,31 +630,6 @@
       "bloc": "western",
       "date": "2026-05-15",
       "datetime": "2026-05-15T00:00:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "A proper Trump-Xi summit would deal with nukes",
-      "summary": "Nuclear weapons may not dominate discussions between US President Donald Trump and Chinese President Xi Jinping this week, but analysts argue the issue is becoming increasingly urgent as China rapidly expands and modernises its atomic arsenal.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/a-proper-trump-xi-summit-would-deal-with-nukes/articleshow/131081416.cms",
-      "bloc": "regional",
-      "date": "2026-05-14",
-      "datetime": "2026-05-14T03:19:38Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

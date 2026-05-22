@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-22T09:36:08.103Z",
+  "ts": "2026-05-22T14:48:18.581Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-22T09:36:08.103Z"
+    "updatedAt": "2026-05-22T14:48:18.581Z"
   },
   "items": [
+    {
+      "headline": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
+      "summary": "Economics of Hormuz closure are skewed towards Iran, so why won't the vessels just pay Tehran and sail away?",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade",
+      "bloc": "regional",
+      "date": "2026-05-21",
+      "datetime": "2026-05-21T13:31:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump’s ‘Board of Peace’ Has Only Brought More Death and Suffering to Gaza, Says Rights Group",
+      "summary": "Six months in, US President Donald Trump’s so-called “Board of Peace” has failed to deliver on its promise of a “secure and prosperous future” for Palestinians in Gaza, who are still being killed, maimed, and deprived of food and other crucial supplies by Isr…",
+      "source": "Antiwar.com",
+      "url": "https://www.antiwar.com/blog/2026/05/21/trumps-board-of-peace-has-only-brought-more-death-and-suffering-to-gaza-says-rights-group/",
+      "bloc": "western",
+      "date": "2026-05-21",
+      "datetime": "2026-05-21T13:24:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump says Iran talks \"in final stages\" as U.S. waits for \"right answer\"",
+      "summary": "U.S. President Donald Trump said on Wednesday that his administration is \"in final stages of\" peace talks with Iran and is willing to wait a few days for the \"right answer.\"",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260521-pdo01.htm",
+      "bloc": "western",
+      "date": "2026-05-21",
+      "datetime": "2026-05-21T11:08:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "“Why Did So Many People Think This War Was a Good Idea?”",
       "summary": "Alex Shams\n\n\n\nThe story of how millions of Iranians fell for the regime-change fantasy.\r\n\n\r\n\n\nThe post “Why Did So Many People Think This War Was a Good Idea?” appeared first on The Nation.",
@@ -40,79 +118,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Warns of Wider Conflict If U.S. Launches New Attack",
-      "summary": "Iran’s Islamic Revolutionary Guard Corps (IRGC) warned on Wednesday, May 20 that any new U.S. military strike on the country would expand the war beyond the Middle East. According to a statement carried by the semi-official Mehr News Agency, the IRGC said: “I…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-21-iran-warns-wider-conflict-us-new-attack.html",
+      "headline": "Defying The US, Iran Is Cementing Its Control Over The Strait Of Hormuz",
+      "summary": "Shortly after the outbreak of the war with the United States and Israel, Iran took control of the Strait of Hormuz, a key artery for global oil and gas supplies.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260521-rferl02.htm",
       "bloc": "western",
       "date": "2026-05-21",
-      "datetime": "2026-05-21T06:00:00Z",
+      "datetime": "2026-05-21T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "'World's most advanced fighter jet, most-expensive drone': US lost 42 aircraft worth $29 billion in Iran war in less than 2 months",
-      "summary": "United States and Israel initiated Operation Epic Fury against Iran on February 28, 2026.  The conflict involved extensive air, missile, and maritime combat.  Aircraft losses mounted, with the Department of Defense estimating costs at $29 billion.  The situat…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/worlds-most-advanced-fighter-jet-most-expensive-drone-us-lost-42-aircraft-worth-29-billion-in-iran-war-in-less-than-2-months/articleshow/131239988.cms",
-      "bloc": "regional",
+      "headline": "Iran-U.S. diplomacy intensifies as Trump seeks ‘right answers,’ Tehran signals gaps ‘reduced’",
+      "summary": "A new burst of diplomatic action intensified Thursday in a push to break the deadlock between the United States and Iran.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/iran-us-talks-trump-tehran-gaps-nuclear-deal-pakistan-war-rcna346258",
+      "bloc": "western",
       "date": "2026-05-21",
-      "datetime": "2026-05-21T05:24:02Z",
+      "datetime": "2026-05-21T09:52:15Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Gold prices drop below Rs 1.6 lakh/10 grams, silver falls Rs 1,350/kg as investors await Iran-US peace deal. What lies ahead?",
-      "summary": "Gold and silver prices on MCX edged lower on Thursday as easing US Treasury yields and a rally in global equities reduced safe-haven demand, despite ongoing Iran-US tensions.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-drop-below-rs-1-6-lakh/10-grams-silver-falls-rs-1350/kg-as-investors-await-iran-us-peace-deal-what-lies-ahead/articleshow/131239449.cms",
-      "bloc": "regional",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T04:11:13Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -151,84 +203,6 @@
       "bloc": "western",
       "date": "2026-05-21",
       "datetime": "2026-05-21T08:50:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran weighs US proposal to end war, as Trump awaits 'right answers'",
-      "summary": "“If we don’t get the right answers, it goes very quickly. We’re all ready to go,” Trump told reporters.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/iran-weighs-us-proposal-to-end-war-as-trump-waits-for-right-answers-7046158-May2026/",
-      "bloc": "western",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T06:09:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "United Nations: Strait of Hormuz Disruption Could Trigger Global Food Price Crisis Within a Year",
-      "summary": "The United Nations Food and Agriculture Organization (FAO) warned that the ongoing disruption in the Strait of Hormuz could trigger a global food price crisis within six to 12 months. In a report released on Wednesday, May 20, the agency described the situati…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-21-un-hormuz-disruption-global-food-price-crisis.html",
-      "bloc": "western",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran weighs US offer as Trump says peace talks on 'borderline'",
-      "summary": "Iran said on Wednesday it was examining a new U.S. proposal to end the Middle East war, as President Donald Trump described the talks as being on the \"borderline\" between a deal and renewed strikes.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/iran-weighs-us-offer-as-trump-says-peace-talks-on-borderline-222385",
-      "bloc": "western",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T05:50:30Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

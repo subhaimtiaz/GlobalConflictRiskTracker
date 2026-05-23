@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-23T08:25:39.229Z",
+  "ts": "2026-05-23T13:45:19.777Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-23T08:25:39.229Z"
+    "updatedAt": "2026-05-23T13:45:19.777Z"
   },
   "items": [
+    {
+      "headline": "Iran’s Drones, Defense Base Being Restored ‘Faster Than Expected’ Amid Extended Ceasefire",
+      "summary": "Reuters reported that Ayatollah ordered that the stockpile of uranium enriched to 60% remain strictly inside Iranian territory. Some Iranian officials then denied the report to Al Jazeera.",
+      "source": "Shtfplan.com",
+      "url": "https://www.shtfplan.com/war/irans-drones-defense-base-being-restored-faster-than-expected-amid-extended-ceasefire",
+      "bloc": "western",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T12:30:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Middle East: Council extends EU legal framework to target those involved in Iran's actions impeding lawful transit passage and freedom of navigation",
+      "summary": "The Council decided today to extend the scope of EU's restrictive measures originally established to address Tehran's military support for Russia's war of aggression against Ukraine and various armed groups in the Middle East and the Red Sea region.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260522-ec01.htm",
+      "bloc": "western",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "News24 | Iran Supreme Leader Ayatollah Khamenei defies Trump on highly enriched uranium stockpile",
+      "summary": "Iran’s Supreme Leader has issued a directive that the country’s near-weapons-grade uranium should not be sent abroad, two senior Iranian sources said, hardening Tehran’s stance on one of the main US demands at peace talks.",
+      "source": "News24",
+      "url": "https://www.news24.com/world/iran-supreme-leader-ayatollah-khamenei-defies-trump-on-highly-enriched-uranium-stockpile-20260522-0629",
+      "bloc": "western",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T10:51:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Roaming Charges: Peanuts From Heaven",
       "summary": "NPR interviewed a Trump voter in Georgia who said he thought the President was doing “an A+ job.” When asked how his family was dealing with rising food prices, the man replied, “My wife and I fast.” What’s the cure for this mass mesmerism that induces people…",
@@ -40,79 +118,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "In Ankara, Iran World Cup squad players start U.S. visa process",
-      "summary": "At least four Iranian footballers and one of their entourage went to the U.S. embassy in Ankara Thursday to submit visa applications for the World Cup, an AFP correspondent said. The squad arrived in Turkey's southern Antalya resort on Monday for a training c…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/2026-fifa-world-cup/in-ankara-iran-world-cup-squad-players-start-us-visa-process",
+      "headline": "Japan set to receive first Persian Gulf oil shipment since Iran war began",
+      "summary": "Japan's renewed oil imports highlight shifting global energy dynamics, while Iran's crypto tolls could reshape sanctions and crypto regulations.\nThe post Japan set to receive first Persian Gulf oil shipment since Iran war began appeared first on Crypto Briefi…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/japan-first-persian-gulf-oil-iran-war/",
       "bloc": "western",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T21:41:37Z",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T12:40:58Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "After Venezuela and Iran, Cuba? Trump says ‘it looks like I’ll be the one that does it’",
-      "summary": "He’d suggested the opposite a day earlier, saying further escalation isn’t necessary after prosecutors announced criminal charges against Raúl Castro.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/05/21/after-venezuela-and-iran-cuba-trump-says-it-looks-like-ill-be-the-one-that-does-it/",
+      "headline": "Dozens Of Iran-Linked Tankers In US Naval Blockade Area, Says Shipping Tracker",
+      "summary": "TankerTrackers, a firm that monitors global oil shipments using satellite data, says that the United States Navy has halted a large number of vessels under US sanctions off the eastern coast of Oman",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260522-rferl08.htm",
       "bloc": "western",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T18:34:11Z",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Arabia: 1.5 million join Hajj pilgrimage despite war",
-      "summary": "Saudi Arabia has been directly hit by missiles and drones during the Iran war, but the country is hosting the all-important Muslim pilgrimage anyway. This year is the first time that Saudi Arabia has chosen to go ahead with the annual Hajj pilgrimage while it…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/saudi-arabia-15-million-join-hajj-pilgrimage-despite-war/a-77213872",
-      "bloc": "western",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T17:50:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -177,58 +229,6 @@
       "bloc": "western",
       "date": "2026-05-21",
       "datetime": "2026-05-21T09:52:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Trump-Netanyahu Dust-Up Over Negotiations – Bona Fide or Deception? Oil Speculators Cheer Three Supertankers Leaving Gulf, as Continued Bond and Financial Market Decline Seems Likely",
-      "summary": "Today's Iran war news: Some oil leaving the Gulf gave markets a boost, but the US-Iran impasse remains, along with US attack threats.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-trump-netanyahu-dust-up-over-negotiations-bona-fide-or-deception-oil-speculators-cheer-three-supertankers-leaving-gulf-as-continued-bond-and-financial-market-decline-seems-likely.html",
-      "bloc": "western",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T09:17:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "News24 | Three supertankers crossing Strait of Hormuz, transporting oil bound for Asia",
-      "summary": "Three supertankers were crossing the Strait of Hormuz, carrying oil bound for Asian markets, after waiting in the Gulf for more than two months with six million barrels of Middle East crude on board, while another was entering, ‌shipping data on LSEG and Kple…",
-      "source": "News24",
-      "url": "https://www.news24.com/world/three-supertankers-crossing-strait-of-hormuz-transporting-oil-bound-for-asia-20260521-0337",
-      "bloc": "western",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T08:50:06Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -418,6 +418,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Sensex today | Stock Market Highlights: Sensex rises 231 pts, Nifty ends at 23,719 led by banks, positive global cues",
+      "summary": "Sensex, Nifty, Share Prices Highlights: Stock market benchmark indices ended higher on Friday, helped by buying in blue-chip bank shares and a rally in global peers. Hopes of progress in the US-Iran peace negotiations also added to markets' optimism.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-22nd-may-2026/article71006112.ece",
+      "bloc": "western",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T10:56:47Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "G7 debt market faces volatility as Iran war drives oil past $100 and reshapes inflation outlook",
+      "summary": "The conflict-induced inflation and market volatility challenge G7's economic stability, complicating central banks' policy decisions.\nThe post G7 debt market faces volatility as Iran war drives oil past $100 and reshapes inflation outlook appeared first on Cr…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/g7-debt-volatility-iran-war-inflation/",
+      "bloc": "western",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T09:45:34Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Gold and silver price today, 22 May: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
       "summary": "Gold prices fell on MCX on Friday morning as a stronger US dollar weighed on the yellow metal. Gold has remained under pressure over the past two months following the US-Iran conflict, with soaring crude oil prices boosting the dollar and raising concerns abo…",
       "source": "Livemint",
@@ -477,58 +529,6 @@
       "bloc": "western",
       "date": "2026-05-20",
       "datetime": "2026-05-20T10:45:23Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "From Bombs to Bargaining: Trump Calls Off Scheduled Strike on Iran at Last Minute",
-      "summary": "President Donald Trump announced Monday, May 18, that a planned U.S. military strike on Iran scheduled for Tuesday, May 19, would not proceed. In a post on his Truth Social platform, Trump stated that the attack “was scheduled for tomorrow” but had been calle…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-19-trump-calls-off-scheduled-strike-on-iran.html",
-      "bloc": "western",
-      "date": "2026-05-19",
-      "datetime": "2026-05-19T06:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of May 18, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-05-18-2026/",
-      "bloc": "western",
-      "date": "2026-05-18",
-      "datetime": "2026-05-18T13:09:29Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

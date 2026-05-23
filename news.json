@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-23T13:45:19.777Z",
+  "ts": "2026-05-23T19:18:01.280Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-23T13:45:19.777Z"
+    "updatedAt": "2026-05-23T19:18:01.280Z"
   },
   "items": [
     {
@@ -118,6 +118,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran Is Tightening Its Grip on the Strait of Hormuz",
+      "summary": "Shortly after the outbreak of the war with the United States and Israel, Iran took control of the Strait of Hormuz, a key artery for global oil and gas supplies. By threatening and attacking international shipping, Iran brought maritime traffic to a virtual s…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Iran-Is-Tightening-Its-Grip-on-the-Strait-of-Hormuz.html",
+      "bloc": "western",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T14:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Japan set to receive first Persian Gulf oil shipment since Iran war began",
       "summary": "Japan's renewed oil imports highlight shifting global energy dynamics, while Iran's crypto tolls could reshape sanctions and crypto regulations.\nThe post Japan set to receive first Persian Gulf oil shipment since Iran war began appeared first on Crypto Briefi…",
       "source": "Crypto Briefing",
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-05-21",
       "datetime": "2026-05-21T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran-U.S. diplomacy intensifies as Trump seeks ‘right answers,’ Tehran signals gaps ‘reduced’",
-      "summary": "A new burst of diplomatic action intensified Thursday in a push to break the deadlock between the United States and Iran.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/iran/iran-us-talks-trump-tehran-gaps-nuclear-deal-pakistan-war-rcna346258",
-      "bloc": "western",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T09:52:15Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -418,6 +418,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "EU economy chief rules out easing sanctions on Russian oil and gas amid energy crisis",
+      "summary": "The EU's firm stance on Russian sanctions may sustain high energy costs, impacting inflation, monetary policy, and crypto market dynamics.\nThe post EU economy chief rules out easing sanctions on Russian oil and gas amid energy crisis appeared first on Crypto …",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/eu-sanctions-russian-oil-gas-energy-crisis/",
+      "bloc": "western",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T13:59:24Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Sensex today | Stock Market Highlights: Sensex rises 231 pts, Nifty ends at 23,719 led by banks, positive global cues",
       "summary": "Sensex, Nifty, Share Prices Highlights: Stock market benchmark indices ended higher on Friday, helped by buying in blue-chip bank shares and a rally in global peers. Hopes of progress in the US-Iran peace negotiations also added to markets' optimism.",
       "source": "BusinessLine",
@@ -503,32 +529,6 @@
       "bloc": "western",
       "date": "2026-05-21",
       "datetime": "2026-05-21T06:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Stock markets rebound; Sensex climbs 117 points on fag-end buying",
-      "summary": "Sensex Today, Nifty 50 | Stock Market Highlights - Find here all the highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 20th May 2026.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-20th-may-2026/article70997810.ece",
-      "bloc": "western",
-      "date": "2026-05-20",
-      "datetime": "2026-05-20T10:45:23Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

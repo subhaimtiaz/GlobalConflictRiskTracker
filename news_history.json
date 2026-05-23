@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-23T13:44:14.578Z",
+  "updated": "2026-05-23T19:16:56.093Z",
   "retention_days": 30,
   "items": [
     {
@@ -20758,7 +20758,63 @@
       "_from": "newsapi",
       "first_seen": "2026-05-23T13:44:14.578Z",
       "run_id": "2026-05-23T13:44"
+    },
+    {
+      "headline": "Iran Is Tightening Its Grip on the Strait of Hormuz",
+      "summary": "Shortly after the outbreak of the war with the United States and Israel, Iran took control of the Strait of Hormuz, a key artery for global oil and gas supplies. By threatening and attacking international shipping, Iran brought maritime traffic to a virtual s…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Iran-Is-Tightening-Its-Grip-on-the-Strait-of-Hormuz.html",
+      "bloc": "western",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T14:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-23T19:16:56.093Z",
+      "run_id": "2026-05-23T19:16"
+    },
+    {
+      "headline": "EU economy chief rules out easing sanctions on Russian oil and gas amid energy crisis",
+      "summary": "The EU's firm stance on Russian sanctions may sustain high energy costs, impacting inflation, monetary policy, and crypto market dynamics.\nThe post EU economy chief rules out easing sanctions on Russian oil and gas amid energy crisis appeared first on Crypto …",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/eu-sanctions-russian-oil-gas-energy-crisis/",
+      "bloc": "western",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T13:59:24Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-23T19:16:56.093Z",
+      "run_id": "2026-05-23T19:16"
     }
   ],
-  "total_items_ever": 1528
+  "total_items_ever": 1530
 }

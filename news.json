@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-23T03:38:47.981Z",
+  "ts": "2026-05-23T08:25:39.229Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-23T03:38:47.981Z"
+    "updatedAt": "2026-05-23T08:25:39.229Z"
   },
   "items": [
+    {
+      "headline": "Roaming Charges: Peanuts From Heaven",
+      "summary": "NPR interviewed a Trump voter in Georgia who said he thought the President was doing “an A+ job.” When asked how his family was dealing with rising food prices, the man replied, “My wife and I fast.” What’s the cure for this mass mesmerism that induces people…",
+      "source": "CounterPunch",
+      "url": "https://www.counterpunch.org/2026/05/22/roaming-charges-peanuts-from-heaven/",
+      "bloc": "western",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T06:00:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "In Ankara, Iran World Cup squad players start U.S. visa process",
       "summary": "At least four Iranian footballers and one of their entourage went to the U.S. embassy in Ankara Thursday to submit visa applications for the World Cup, an AFP correspondent said. The squad arrived in Turkey's southern Antalya resort on Monday for a training c…",
@@ -92,32 +118,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Supreme Leader Says Enriched Uranium Must Stay In Iran, Sources Tell Reuters",
-      "summary": "Tehran is hardening its stance on one of the main U.S. demands.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-enriched-uranium-stays-supreme-leader_n_6a0f28f7e4b0f1ba1f62d822",
-      "bloc": "western",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T16:10:32Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
       "summary": "Economics of Hormuz closure are skewed towards Iran, so why won't the vessels just pay Tehran and sail away?",
       "source": "Al Jazeera English",
@@ -127,18 +127,18 @@
       "datetime": "2026-05-21T13:31:11Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -418,6 +418,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Gold and silver price today, 22 May: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
+      "summary": "Gold prices fell on MCX on Friday morning as a stronger US dollar weighed on the yellow metal. Gold has remained under pressure over the past two months following the US-Iran conflict, with soaring crude oil prices boosting the dollar and raising concerns abo…",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-price-today-22-may-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11779422168307.html",
+      "bloc": "western",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T04:51:20Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "U.S. Crude Inventories Fall 9.1 Million Barrels, Nearly Three Times Larger Than Expected",
       "summary": "The American Petroleum Institute estimated that U.S. crude oil inventories fell by 9.1 million barrels in the week ending May 15, according to a report. Analysts had forecast a draw of 3.4 million barrels, making the decline nearly three times larger than exp…",
       "source": "Naturalnews.com",
@@ -503,32 +529,6 @@
       "bloc": "western",
       "date": "2026-05-18",
       "datetime": "2026-05-18T13:09:29Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Sensex closes flat, Nifty ends at 23,650 as Iran war worries offset IT gains",
-      "summary": "Sensex, Nifty, Share Prices Highlights: India's equity benchmarks closed flat on ​Monday as persistent concerns over the impact of the ‌Iran war offset a partial rebound in IT stocks.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-18th-may-2026/article70990074.ece",
-      "bloc": "western",
-      "date": "2026-05-18",
-      "datetime": "2026-05-18T10:32:45Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

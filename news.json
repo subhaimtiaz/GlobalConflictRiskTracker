@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-24T04:01:15.975Z",
+  "ts": "2026-05-24T08:35:25.075Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-24T04:01:15.975Z"
+    "updatedAt": "2026-05-24T08:35:25.075Z"
   },
   "items": [
+    {
+      "headline": "Iran says US demands for ending war 'excessive'",
+      "summary": "Tehran accuses the United States of \"excessive demands\", Iranian media says, as U.S. media reports raise the prospect that Washington is mulling the possibility of new strikes even as leaders of the Islamic republic consider the latest peace proposal.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/iran-says-us-demands-for-ending-war-excessive-222452",
+      "bloc": "western",
+      "date": "2026-05-23",
+      "datetime": "2026-05-23T06:24:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Rights Group: Trump’s “Board of Peace” Has Not Improved Conditions in Gaza",
+      "summary": "Human Rights Watch (HRW) reported Tuesday, May 19, that six months after the October 2025 ceasefire, President Donald Trump’s “Board of Peace” has failed to deliver promised relief to Gaza. According to HRW, Israeli attacks have killed at least 856 Palestinia…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-23-hrw-peace-board-has-not-improved-gaza.html",
+      "bloc": "western",
+      "date": "2026-05-23",
+      "datetime": "2026-05-23T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Israel Accuses The New York Times Of Antisemitic Journalism, And Other Notes",
       "summary": "The highest award in all of journalism is being accused of antisemitism by the Israeli government for factual reporting. Reading by Tim Foley: ❖ The Israeli government is currently accusing The New York Times of antisemitic blood libel for publishing a report…",
@@ -88,58 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Middle East: Council extends EU legal framework to target those involved in Iran's actions impeding lawful transit passage and freedom of navigation",
-      "summary": "The Council decided today to extend the scope of EU's restrictive measures originally established to address Tehran's military support for Russia's war of aggression against Ukraine and various armed groups in the Middle East and the Red Sea region.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260522-ec01.htm",
-      "bloc": "western",
-      "date": "2026-05-22",
-      "datetime": "2026-05-22T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "News24 | Iran Supreme Leader Ayatollah Khamenei defies Trump on highly enriched uranium stockpile",
-      "summary": "Iran’s Supreme Leader has issued a directive that the country’s near-weapons-grade uranium should not be sent abroad, two senior Iranian sources said, hardening Tehran’s stance on one of the main US demands at peace talks.",
-      "source": "News24",
-      "url": "https://www.news24.com/world/iran-supreme-leader-ayatollah-khamenei-defies-trump-on-highly-enriched-uranium-stockpile-20260522-0629",
-      "bloc": "western",
-      "date": "2026-05-22",
-      "datetime": "2026-05-22T10:51:02Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

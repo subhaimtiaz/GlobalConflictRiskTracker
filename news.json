@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-24T13:45:05.498Z",
+  "ts": "2026-05-24T19:23:40.639Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-24T13:45:05.498Z"
+    "updatedAt": "2026-05-24T19:23:40.639Z"
   },
   "items": [
+    {
+      "headline": "Iran And U.S. Signal Some Progress In Talks As Trump Weighs A New Round Of Attacks",
+      "summary": "U.S. Secretary of State Marco Rubio told journalists in India that “there’s been some progress made\" and “there may be news later today.”",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-united-states-signal-some-progress-in-talks-as-trump-weighs-new-round-attacks_n_6a11c000e4b0f1ba1f665fb6",
+      "bloc": "western",
+      "date": "2026-05-23",
+      "datetime": "2026-05-23T15:04:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran's Top Negotiator Says Tehran Will Not Compromise In Talks With U.S.",
       "summary": "The talks reportedly centered on a 14-point document proposed by Iran.",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Pezeshkian: Iran seeks its legitimate rights in US talks, but past experiences demand caution",
-      "summary": "Iran's President Masoud Pezeshkian says the Islamic Republic seeks only to restore its legitimate rights in talks with the United States, but that past experiences of negotiating with Americans have led Tehran to proceed with extreme caution.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260523-presstv08.htm",
+      "headline": "As Trump Plans Next Round in Iran War, Fresh Gas Price Shocks Rattle Consumers",
+      "summary": "For most Americans, Memorial Day weekend is supposed to mark the unofficial start of summer — backyard cookouts, packed highways, beach trips, and family...",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/05/23/as-trump-plans-next-round-in-iran-war-fresh-gas-price-shocks-rattle-consumers/",
       "bloc": "western",
       "date": "2026-05-23",
-      "datetime": "2026-05-23T12:00:00Z",
+      "datetime": "2026-05-23T14:04:42Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Defying The US, Iran Is Cementing Its Control Over The Strait Of Hormuz",
-      "summary": "Shortly after the outbreak of the war with the United States and Israel, Iran took control of the Strait of Hormuz, a key artery for global oil and gas supplies.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260521-rferl02.htm",
-      "bloc": "western",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Gauging the Xi-Trump summit and its geopolitical implications",
       "summary": "After summit meetings of the kind we just had with Trump and Xi Jinping, sometimes there is a joint communique and signing ceremony outlining what the two sides agreed upon. That did not happen, leaving observers scratching their heads as to what the point of…",
       "source": "Freethoughtblogs.com",
@@ -295,6 +295,30 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "China deployed over 100 vessels near Taiwan in the wake of Trump-Xi summit, Taiwan security official claims",
+      "summary": "China deployed over 100 vessels around Taiwan after the Trump-Xi Beijing summit, Taiwan's National Security Council Secretary General Joseph Wu says.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/china-deployed-100-vessels-near-taiwan-wake-trump-xi-summit-taiwan-security-official-claims",
+      "bloc": "western",
+      "date": "2026-05-23",
+      "datetime": "2026-05-23T18:38:26Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -391,30 +415,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Xi-Trump talks cast fresh spotlight on Taiwan as part of China's maritime strategy",
-      "summary": "Chinese President Xi Jinping used his meeting with U.S. President Donald Trump last week to reiterate that Taiwan remains the most sensitive issue in U.S.-China relations, and analysts told Radio Free Asia that the Taiwan issue will be front and center accord…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260519-rfa01.htm",
-      "bloc": "western",
-      "date": "2026-05-19",
-      "datetime": "2026-05-19T12:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-23T19:18:01.280Z",
+  "ts": "2026-05-24T04:01:15.975Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-23T19:18:01.280Z"
+    "updatedAt": "2026-05-24T04:01:15.975Z"
   },
   "items": [
+    {
+      "headline": "Israel Accuses The New York Times Of Antisemitic Journalism, And Other Notes",
+      "summary": "The highest award in all of journalism is being accused of antisemitism by the Israeli government for factual reporting. Reading by Tim Foley: ❖ The Israeli government is currently accusing The New York Times of antisemitic blood libel for publishing a report…",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/israel-accuses-the-new-york-times-of-antisemitic-journalism-and-other-notes/",
+      "bloc": "western",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T22:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Rubio sees progress in Iran talks, says more work to be done",
+      "summary": "The United States has seen some progress towards a deal with Iran but more work is required, Secretary of State Marco Rubio said on Friday, while Iran's foreign ministry spokesman said the two ‌sides' differences were deep and significant. Intensifying diplom…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/us-secretary-of-state-rubio-sees-progress-in-iran-talks-says-more-work-to-be-done",
+      "bloc": "western",
+      "date": "2026-05-22",
+      "datetime": "2026-05-22T20:44:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran’s Drones, Defense Base Being Restored ‘Faster Than Expected’ Amid Extended Ceasefire",
       "summary": "Reuters reported that Ayatollah ordered that the stockpile of uranium enriched to 60% remain strictly inside Iranian territory. Some Iranian officials then denied the report to Al Jazeera.",
@@ -73,32 +125,6 @@
       "bloc": "western",
       "date": "2026-05-22",
       "datetime": "2026-05-22T10:51:02Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Roaming Charges: Peanuts From Heaven",
-      "summary": "NPR interviewed a Trump voter in Georgia who said he thought the President was doing “an A+ job.” When asked how his family was dealing with rising food prices, the man replied, “My wife and I fast.” What’s the cure for this mass mesmerism that induces people…",
-      "source": "CounterPunch",
-      "url": "https://www.counterpunch.org/2026/05/22/roaming-charges-peanuts-from-heaven/",
-      "bloc": "western",
-      "date": "2026-05-22",
-      "datetime": "2026-05-22T06:00:01Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -594,29 +620,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hezbollah: Qassam commander's martyrdom shows Israel respects no agreement",
-      "summary": "Hezbollah strongly condemns the assassination of a senior Hamas commander in an Israeli strike on the Gaza Strip, describing the attack as a violation of a standing ceasefire and denouncing the Israeli regime for disregarding negotiated commitments.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260516-presstv03.htm",
-      "bloc": "western",
-      "date": "2026-05-16",
-      "datetime": "2026-05-16T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "general commander killed"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-25T15:17:18.015Z",
+  "ts": "2026-05-25T19:48:02.046Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-25T15:17:18.015Z"
+    "updatedAt": "2026-05-25T19:48:02.046Z"
   },
   "items": [
+    {
+      "headline": "Trump's deal making leaves Iran in the driver's seat and Israel more vulnerable",
+      "summary": "Israel goes from looking like the new regional hegemon to looking like it is under greater threat now than it has in years, while Iran now has room to rebuild its proxies.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-05-25/tingle-trump-deal-iran-war-israel-vulnerable/106716792",
+      "bloc": "western",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T19:24:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Pax Silica, the Gaza genocide, and the crisis of global capitalism",
       "summary": "Gaza was the first AI war of the 21st century, and if Global Trumpism succeeds, it will become a testing ground for its vision to dominate the future: Pax Silica, or the merger of the high-tech military-surveillance complex and transnational finance.",
@@ -66,10 +92,10 @@
       "_from": "newsapi"
     },
     {
-      "headline": "May 24: Iran reaffirms military readiness for any new aggression as key gaps remain in deal",
-      "summary": "A clear message was delivered to Washington as a senior advisor to the Leader of the Islamic Revolution warned that any renewed US aggression would lead to breaking the illegal naval blockade and withdrawing from the Non-Proliferation Treaty( NPT).",
+      "headline": "Pezeshkian: Iran ready to assure world it is not seeking nuclear weapons",
+      "summary": "Iranian President Masoud Pezeshkian says the Islamic Republic is prepared to reassure the international community that it is not pursuing nuclear weapons.",
       "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-presstv03.htm",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-presstv08.htm",
       "bloc": "western",
       "date": "2026-05-24",
       "datetime": "2026-05-24T12:00:00Z",
@@ -87,7 +113,7 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 2,
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Pezeshkian: Iran ready to assure world it is not seeking nuclear weapons",
-      "summary": "Iranian President Masoud Pezeshkian says the Islamic Republic is prepared to reassure the international community that it is not pursuing nuclear weapons.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-presstv08.htm",
-      "bloc": "western",
-      "date": "2026-05-24",
-      "datetime": "2026-05-24T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -299,6 +299,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Chinese ship leaves after tense standoff near Taiwan-controlled islands",
+      "summary": "A Chinese coast guard ship departed waters near Taiwan's Pratas Islands on Sunday after a tense verbal confrontation with Taiwan's Coast Guard over sovereignty. Taiwan's vessel broadcast messages urging the Chinese ship to return and strive for democracy. Thi…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/chinese-ship-leaves-after-tense-standoff-near-taiwan-controlled-islands/articleshow/131296481.cms",
+      "bloc": "regional",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T19:40:50Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "China deployed over 100 vessels near Taiwan in the wake of Trump-Xi summit, Taiwan security official claims",
       "summary": "China deployed over 100 vessels around Taiwan after the Trump-Xi Beijing summit, Taiwan's National Security Council Secretary General Joseph Wu says.",
       "source": "Fox News",
@@ -354,30 +378,6 @@
       "bloc": "western",
       "date": "2026-05-20",
       "datetime": "2026-05-20T16:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Don’t get distracted by North Korea",
-      "summary": "Kim Jong-un is not the wild card in the Iran conflict. China is.",
-      "source": "Americanthinker.com",
-      "url": "https://www.americanthinker.com/blog/2026/05/don_t_get_distracted_by_north_korea.html",
-      "bloc": "western",
-      "date": "2026-05-20",
-      "datetime": "2026-05-20T04:00:00Z",
       "leaders": [
         "Xi Jinping"
       ],

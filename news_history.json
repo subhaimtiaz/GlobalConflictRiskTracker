@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-25T15:16:12.806Z",
+  "updated": "2026-05-25T19:46:56.688Z",
   "retention_days": 30,
   "items": [
     {
@@ -19621,7 +19621,61 @@
       "_from": "newsapi",
       "first_seen": "2026-05-25T15:16:12.806Z",
       "run_id": "2026-05-25T15:16"
+    },
+    {
+      "headline": "Trump's deal making leaves Iran in the driver's seat and Israel more vulnerable",
+      "summary": "Israel goes from looking like the new regional hegemon to looking like it is under greater threat now than it has in years, while Iran now has room to rebuild its proxies.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-05-25/tingle-trump-deal-iran-war-israel-vulnerable/106716792",
+      "bloc": "western",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T19:24:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-25T19:46:56.687Z",
+      "run_id": "2026-05-25T19:46"
+    },
+    {
+      "headline": "Chinese ship leaves after tense standoff near Taiwan-controlled islands",
+      "summary": "A Chinese coast guard ship departed waters near Taiwan's Pratas Islands on Sunday after a tense verbal confrontation with Taiwan's Coast Guard over sovereignty. Taiwan's vessel broadcast messages urging the Chinese ship to return and strive for democracy. Thi…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/chinese-ship-leaves-after-tense-standoff-near-taiwan-controlled-islands/articleshow/131296481.cms",
+      "bloc": "regional",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T19:40:50Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-25T19:46:56.687Z",
+      "run_id": "2026-05-25T19:46"
     }
   ],
-  "total_items_ever": 1556
+  "total_items_ever": 1558
 }

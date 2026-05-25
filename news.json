@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-25T04:12:44.119Z",
+  "ts": "2026-05-25T10:18:18.596Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-25T04:12:44.118Z"
+    "updatedAt": "2026-05-25T10:18:18.596Z"
   },
   "items": [
+    {
+      "headline": "Iran War: Trump Announces Iran Deal with Iran Already Disputing His Claims; Hawk Heads Exploding; Even if Pact Concluded, Strait of Hormuz Traffic Expected to Reach Only 40% of Old Level by Year End",
+      "summary": "Today's Iran war update: Trump says he has a deal. Iran begs to differ as to what it would amount to.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-trump-announces-iran-deal-with-iran-already-disputing-his-claims-hawk-heads-exploding-even-if-pact-concluded-strait-of-hormuz-traffic-expected-to-reach-only-40-of-old-level-by-year-end.html",
+      "bloc": "western",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T07:36:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. Expended Majority of THAAD Interceptors Defending Israel, Report Reveals",
+      "summary": "The United States military fired more than 200 Terminal High Altitude Area Defense (THAAD) interceptors in defense of Israel during recent hostilities with Iran – roughly half of the Department of War‘s total inventory – according to a report by the Washingto…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-24-us-expended-majority-thaad-interceptors-defending-israel.html",
+      "bloc": "western",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "GOP Sens. Lindsey Graham, Roger Wicker blast reports of 60-day ceasefire deal with Iran",
       "summary": "Key Senate Republicans are raising concerns about a reported peace deal being negotiated with Iran, arguing it would be a disaster for the United States that would make meaningless the war launched by President Trump nearly three months ago. “The rumored 60-d…",
@@ -66,53 +118,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israel hits Lebanon as Hezbollah says Iran won't abandon group",
-      "summary": "Israel struck south Lebanon on Saturday despite a ceasefire as Hezbollah said its backer Tehran had pledged not to abandon the militant group. Hezbollah said its chief Naim Qassem had received a message from Iran's Foreign Minister Abbas Araghchi, saying the …",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/lebanon-says-israeli-strike-on-army-barracks-wounded-soldier",
+      "headline": "Shipping Professionals Eye Relocation From Dubai to Greece Amid Gulf Conflict",
+      "summary": "Some shipping industry workers based in Dubai are looking to relocate from the United Arab Emirates as a result of the ongoing U.S.-Israel war on Iran, according to one ship owner and two industry sources familiar with the matter. Western expats working in th…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-24-shipping-professionals-relocation-dubai-greece-gulf-conflict.html",
       "bloc": "western",
-      "date": "2026-05-23",
-      "datetime": "2026-05-23T21:30:08Z",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump says deal with Iran and opening of Strait of Hormuz are 'largely negotiated'",
-      "summary": "President Donald Trump said Saturday that a deal with Iran, including opening the Strait of Hormuz, has been “largely negotiated” after calls with Israel and other allies in the region. “Final aspects and details of the Deal are currently being discussed, and…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/iran-and-us-signal-some-progress-in-talks-as-trump-weighs-striking-again",
-      "bloc": "western",
-      "date": "2026-05-23",
-      "datetime": "2026-05-23T21:28:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-05-22",
       "datetime": "2026-05-22T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
-      "summary": "Economics of Hormuz closure are skewed towards Iran, so why won't the vessels just pay Tehran and sail away?",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade",
-      "bloc": "regional",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T13:31:11Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -365,30 +365,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "News24 | Trump says Iran attack on ‘hold’: What we know about latest negotiations",
-      "summary": "United States President Donald Trump says he has decided to pause an attack on Iran at the behest of Gulf leaders after Tehran sent a new peace proposal to Washington through Pakistan.",
-      "source": "News24",
-      "url": "https://www.news24.com/world/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations-20260519-0823",
-      "bloc": "western",
-      "date": "2026-05-19",
-      "datetime": "2026-05-19T13:43:28Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

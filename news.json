@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-26T10:04:30.232Z",
+  "ts": "2026-05-26T15:46:05.137Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,69 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-26T10:04:30.232Z"
+    "updatedAt": "2026-05-26T15:46:05.137Z"
   },
   "items": [
     {
-      "headline": "Trump demands Arab states normalize with Israel in exchange for Iran ceasefire: Report",
-      "summary": "US President Donald Trump has told several Arab and Muslim leaders that he expects them to establish formal relations with Israel in exchange for a ceasefire deal with Iran to end the war, according to American officials.",
+      "headline": "This Tehran Music School Took Ages to Build Up. Airstrikes Turned It to Rubble.",
+      "summary": "The destruction of Honiak Music Academy shows the devastating impact of the US-Israeli war on Iran's creative spaces.",
+      "source": "Truthout",
+      "url": "https://truthout.org/articles/this-tehran-music-school-took-ages-to-build-up-airstrikes-turned-it-to-rubble/",
+      "bloc": "western",
+      "date": "2026-05-25",
+      "datetime": "2026-05-25T15:43:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "What We Know and Don't Know About the Emerging Deal to End the Iran War",
+      "summary": "Any discussion of leadership change in Tehran appears to be out.CAIRO (AP) — A deal appears to be emerging between the United States and Iran to end the war and open the Strait of Hormuz, and U.S. President Donald Trump over the weekend said it had been “larg…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4380899/posts",
+      "bloc": "western",
+      "date": "2026-05-25",
+      "datetime": "2026-05-25T15:41:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "May 25: Iran vows not to yield to US pressure in negotiations to end imposed war",
+      "summary": "Iran on Monday reaffirmed its unwavering position in ongoing negotiations to end the third imposed war, with senior officials vowing the Islamic Republic will not yield to US pressure or maximalist demands.",
       "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260525-presstv01.htm",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260525-presstv03.htm",
       "bloc": "western",
       "date": "2026-05-25",
-      "datetime": "2026-05-25T09:37:46Z",
+      "datetime": "2026-05-25T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +92,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran has no trust in US; frozen assets release red line for any deal: Source to Iranian agency",
-      "summary": "Iran harbors no optimism toward the United States and views any negotiations through a lens of deep mistrust, an informed source told Tasnim News Agency on Sunday, stressing that even if a preliminary understanding is reached, Tehran will not rely on Washingt…",
+      "headline": "Iran says US talks focus on ending war, not Hormuz management or nuclear issue",
+      "summary": "Iran's Foreign Ministry spokesman says the indirect talks with the United States are centered on ending aggression on all fronts and that the nuclear issue or the management of the Stratif of Hormuz are not part of the negotiations.",
       "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260525-presstv02.htm",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260525-presstv08.htm",
       "bloc": "western",
       "date": "2026-05-25",
-      "datetime": "2026-05-25T09:37:46Z",
+      "datetime": "2026-05-25T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -61,84 +113,58 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil prices drop 5% after Trump says Iran talks are moving ahead — but Hormuz still a wildcard",
+      "summary": "Crude remains dramatically elevated from prewar levels after surging more than 30% since US, Israel launched strikes against Iran in late February.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/05/25/business/oil-prices-drop-5-after-trump-says-iran-talks-are-moving-in-constructive-direction/",
+      "bloc": "western",
+      "date": "2026-05-25",
+      "datetime": "2026-05-25T14:20:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "U.S. still refusing to accept certain clauses of possible peace MoU with Iran -- media",
-      "summary": "The United States is still refusing to accept certain clauses of a potential memorandum of understanding (MoU) with Iran on ending the war, the semi-official Tasnim news agency reported on Sunday.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260525-pdo01.htm",
+      "headline": "Crude oil prices tumble over 4% on hopes of US-Iran breakthrough",
+      "summary": "Reports suggesting progress toward reopening the Strait of Hormuz, a critical global oil shipping route, eased fears of supply disruptions and triggered a sharp selloff in oil futures",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-tumble-over-4-on-hopes-of-us-iran-breakthrough/article71020773.ece",
       "bloc": "western",
       "date": "2026-05-25",
-      "datetime": "2026-05-25T09:37:46Z",
+      "datetime": "2026-05-25T10:52:48Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran and U.S. play down hopes for imminent breakthrough in war",
-      "summary": "Secretary of State Marco Rubio told reporters in New Delhi that the U.S. would give diplomacy every chance to succeed before exploring \"alternatives\".",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/25/iran-and-us-play-down-hopes-for-imminent-breakthrough-in-war.html",
-      "bloc": "western",
-      "date": "2026-05-25",
-      "datetime": "2026-05-25T09:12:54Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US insists makings of a deal with Iran on the table but Trump tempers expectations",
-      "summary": "The hint of optimism caused oil prices to plunge close to 5% on Monday.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/us-iran-war-negotiations-ceasefire-7050609-May2026/",
-      "bloc": "western",
-      "date": "2026-05-25",
-      "datetime": "2026-05-25T05:46:59Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -203,58 +229,6 @@
       "bloc": "western",
       "date": "2026-05-24",
       "datetime": "2026-05-24T20:11:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "India-Bound LNG Tanker Exits Strait Of Hormuz In First Such Voyage Since Iran War Began",
-      "summary": "A liquefied natural gas tanker carrying a shipment for India has reportedly exited the Strait of Hormuz, the first for the country from the Persian Gu",
-      "source": "Swarajya",
-      "url": "https://swarajyamag.com/business/india-bound-lng-tanker-exits-strait-of-hormuz-in-first-such-voyage-since-iran-war-began",
-      "bloc": "western",
-      "date": "2026-05-24",
-      "datetime": "2026-05-24T11:43:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Shipping Professionals Eye Relocation From Dubai to Greece Amid Gulf Conflict",
-      "summary": "Some shipping industry workers based in Dubai are looking to relocate from the United Arab Emirates as a result of the ongoing U.S.-Israel war on Iran, according to one ship owner and two industry sources familiar with the matter. Western expats working in th…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-24-shipping-professionals-relocation-dubai-greece-gulf-conflict.html",
-      "bloc": "western",
-      "date": "2026-05-24",
-      "datetime": "2026-05-24T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

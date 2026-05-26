@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-25T19:48:02.046Z",
+  "ts": "2026-05-26T03:58:00.685Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-25T19:48:02.046Z"
+    "updatedAt": "2026-05-26T03:58:00.685Z"
   },
   "items": [
+    {
+      "headline": "Ted Cruz and Lindsey Graham lead Republicans blasting Trump for 'disastrous mistake' on his emerging Iran deal",
+      "summary": "President Donald Trump is facing a fierce backlash from fellow Republicans including Ted Cruz and Lindsey Graham over his emerging Iran deal, with critics warning it could leave Tehran stronger.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15845201/Ted-Cruz-Lindsey-Graham-Trump-Iran-deal.html",
+      "bloc": "western",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T23:02:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Deadly Israeli strikes pound south, east Lebanon",
+      "summary": "Israeli strikes pounded south and east Lebanon Sunday despite a ceasefire as Hezbollah's chief expressed hope for an agreement between Iran and the United States to end the Middle East war that includes Lebanon. Lebanon's health ministry raised the overall to…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/deadly-israeli-strikes-pound-south-east-lebanon",
+      "bloc": "western",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T21:13:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump says there is no rush for Iran deal; U.S. blockade stays",
+      "summary": "U.S. President Donald Trump said on Sunday he had told his representatives not to rush into any deal with Iran, as his administration played down hopes of an imminent breakthrough in the three-month-old war that had been raised a day earlier. The U.S. ‌blocka…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/trump-says-there-is-no-rush-for-iran-deal-us-blockade-stays2",
+      "bloc": "western",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T21:13:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump's deal making leaves Iran in the driver's seat and Israel more vulnerable",
       "summary": "Israel goes from looking like the new regional hegemon to looking like it is under greater threat now than it has in years, while Iran now has room to rebuild its proxies.",
@@ -40,105 +118,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Pax Silica, the Gaza genocide, and the crisis of global capitalism",
-      "summary": "Gaza was the first AI war of the 21st century, and if Global Trumpism succeeds, it will become a testing ground for its vision to dominate the future: Pax Silica, or the merger of the high-tech military-surveillance complex and transnational finance.",
-      "source": "Mondoweiss",
-      "url": "https://mondoweiss.net/2026/05/pax-silica-the-gaza-genocide-and-the-crisis-of-global-capitalism/",
+      "headline": "Mass tanker blackout rattles Gulf ahead of 1.35M-barrel oil transfer amid US-Iran talks: firm",
+      "summary": "Maritime tracking signals collapse near the UAE's Fujairah oil hub hours before President Trump announced progress on a bilateral peace deal with Iran, according to an AI maritime firm.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/mass-tanker-blackout-rattles-gulf-ahead-1-35m-barrel-oil-transfer-amid-us-iran-talks-firm",
       "bloc": "western",
       "date": "2026-05-24",
-      "datetime": "2026-05-24T14:51:25Z",
+      "datetime": "2026-05-24T20:11:58Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Denies Agreement Over Enriched Uranium, Claims ‘New Sovereignty’ Over Hormuz Strait as U.S. Moves to Finalize Deal",
-      "summary": "\"There ⁠has been no agreement over ​Iran's highly enriched ​uranium ⁠stockpile to be shipped out of ⁠the ​country,\" Iranian official tells Reuters. \nThe post Iran Denies Agreement Over Enriched Uranium, Claims ‘New Sovereignty’ Over Hormuz Strait as U.S. Move…",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/05/iran-denies-agreement-over-enriched-uranium-claims-new-sovereignty-over-hormuz-strait-as-u-s-moves-to-finalize-deal/",
-      "bloc": "western",
-      "date": "2026-05-24",
-      "datetime": "2026-05-24T12:00:10Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Pezeshkian: Iran ready to assure world it is not seeking nuclear weapons",
-      "summary": "Iranian President Masoud Pezeshkian says the Islamic Republic is prepared to reassure the international community that it is not pursuing nuclear weapons.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-presstv08.htm",
-      "bloc": "western",
-      "date": "2026-05-24",
-      "datetime": "2026-05-24T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran stands alone against world's tyrannical powers, humiliated US and Israel: Hezbollah chief",
-      "summary": "The leader of the Hezbollah resistance movement on Sunday said the Islamic Republic of Iran managed to humiliate the United States and Israel and stands alone as a defiant force against the world's tyrannical powers.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260524-presstv02.htm",
-      "bloc": "western",
-      "date": "2026-05-24",
-      "datetime": "2026-05-24T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -248,32 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Japan set to receive first Persian Gulf oil shipment since Iran war began",
-      "summary": "Japan's renewed oil imports highlight shifting global energy dynamics, while Iran's crypto tolls could reshape sanctions and crypto regulations.\nThe post Japan set to receive first Persian Gulf oil shipment since Iran war began appeared first on Crypto Briefi…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/japan-first-persian-gulf-oil-iran-war/",
-      "bloc": "western",
-      "date": "2026-05-22",
-      "datetime": "2026-05-22T12:40:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Gauging the Xi-Trump summit and its geopolitical implications",
       "summary": "After summit meetings of the kind we just had with Trump and Xi Jinping, sometimes there is a joint communique and signing ceremony outlining what the two sides agreed upon. That did not happen, leaving observers scratching their heads as to what the point of…",
       "source": "Freethoughtblogs.com",
@@ -300,12 +274,12 @@
     },
     {
       "headline": "Chinese ship leaves after tense standoff near Taiwan-controlled islands",
-      "summary": "A Chinese coast guard ship departed waters near Taiwan's Pratas Islands on Sunday after a tense verbal confrontation with Taiwan's Coast Guard over sovereignty. Taiwan's vessel broadcast messages urging the Chinese ship to return and strive for democracy. Thi…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/chinese-ship-leaves-after-tense-standoff-near-taiwan-controlled-islands/articleshow/131296481.cms",
-      "bloc": "regional",
+      "summary": "A Chinese coast guard ship left waters near Taiwan's strategically located Pratas Islands at the ‌top of the South China Sea on Sunday following a tense standoff and verbal sparring between the coast guards, Taiwan's Coast Guard said. China claims democratica…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/chinese-ship-leaves-after-tense-standoff-near-taiwan-controlled-islands",
+      "bloc": "western",
       "date": "2026-05-24",
-      "datetime": "2026-05-24T19:40:50Z",
+      "datetime": "2026-05-24T21:13:40Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -367,30 +341,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump’s Iran War: America Loss Is China’s Win",
-      "summary": "Phillips O’Brien on the global fallout of Putin’s war in Russia, Trump’s war in Iran, and MAGA’s indifference toward Taiwan. Plus: Trump’s new slush fund and What Science Says About Astrology.",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/podcasts/2026/05/david-frum-show-phillis-obrien-iran-war-china/687234/",
-      "bloc": "western",
-      "date": "2026-05-20",
-      "datetime": "2026-05-20T16:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -575,31 +525,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Pakistan’s mediation faces limits as Iran-US tensions deepen",
-      "summary": "Tehran and Washington exchange proposals via Pakistan as military escalation increasingly shadows diplomatic efforts.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/5/18/pakistans-mediation-faces-limits-as-iran-us-tensions-deepen",
-      "bloc": "regional",
-      "date": "2026-05-18",
-      "datetime": "2026-05-18T16:09:05Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Ukraine Says It Attacked Russia’s Major Norsi Oil Refinery Again",
       "summary": "Ukraine said it attacked a major oil refinery in central Russia for the second time this week, as Kyiv continues to target the country’s energy infrastructure.",
       "source": "Financial Post",
@@ -653,29 +578,6 @@
       "bloc": "regional",
       "date": "2026-05-19",
       "datetime": "2026-05-19T07:34:08Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine Has a New War Strategy—and It’s Working",
-      "summary": "A year ago, the Ukrainian government decided to take the fight directly to Russia. It hasn’t looked back since.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/05/18/ukraine-russia-war-strategy-attack/",
-      "bloc": "western",
-      "date": "2026-05-18",
-      "datetime": "2026-05-18T19:43:15Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

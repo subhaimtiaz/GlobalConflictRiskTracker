@@ -1,539 +1,8 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-25T19:46:56.688Z",
+  "updated": "2026-05-26T03:56:55.476Z",
   "retention_days": 30,
   "items": [
-    {
-      "headline": "Thousands more US troops arrive in Middle East on third aircraft carrier",
-      "summary": "USS George HW Bush has arrived in the Middle East, bringing thousands more American troops and advanced fighter jets to the region.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-04-25/uss-george-hw-bush-arrives-middle-east-military-assets-boost/106601060",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T02:00:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T03:26:02.516Z",
-      "run_id": "2026-04-26T03:26"
-    },
-    {
-      "headline": "Crunch nuclear proliferation meeting at UN amid raging global wars",
-      "summary": "Signatories of the landmark nuclear non-proliferation treaty will meet at the UN from Monday as hopes fade they can reach agreement and tensions soar between the atomic powers.  In 2022, during the last review of the treaty that is considered the cornerstone …",
-      "source": "Digital Journal",
-      "url": "https://www.digitaljournal.com/world/crunch-nuclear-proliferation-meeting-at-un-amid-raging-global-wars/article",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T03:07:21Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T03:26:02.516Z",
-      "run_id": "2026-04-26T03:26"
-    },
-    {
-      "headline": "US envoys heading to Pakistan for uncertain Iran talks",
-      "summary": "U.S. envoys headed to the Pakistani capital on April 25 in a bid to kickstart a new round of peace negotiations with Iran amid a fragile ceasefire, though the prospect of direct talks remained uncertain.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/us-envoys-heading-to-pakistan-for-uncertain-iran-talks-221460",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T06:54:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T07:45:44.939Z",
-      "run_id": "2026-04-26T07:45"
-    },
-    {
-      "headline": "Israel Prepared for Renewed Iran Conflict, Awaiting U.S. Approval, Defense Minister Says",
-      "summary": "Israeli Defense Minister Israel Katz stated on Thursday, April 23, that the country’s military is prepared to renew the war against Iran but is waiting for a U.S. green light to proceed, according to separate reports from Israeli media and a statement posted …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-04-25-katz-israel-prepared-for-renewed-iran-conflict.html",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T07:45:44.939Z",
-      "run_id": "2026-04-26T07:45"
-    },
-    {
-      "headline": "Iran's foreign minister awaits U.S. delegation to Pakistan for peace talks",
-      "summary": "Iran's Abbas Araghchi arrived in Islamabad on Friday, as the White House confirmed Steve Witkoff and Jared Kushner will travel there Saturday to try to \"move the ball forward towards a deal.\"",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T06:35:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T07:45:44.939Z",
-      "run_id": "2026-04-26T07:45"
-    },
-    {
-      "headline": "Iran’s foreign minister heads to Islamabad, raising hopes for fresh peace talks with US",
-      "summary": "Iran’s foreign minister Abbas Araqchi was expected in the Pakistani capital Islamabad on Friday to discuss proposals for restarting peace talks with the United States, but Pakistani sources said he was not due to meet US negotiators there.",
-      "source": "Independent.ie",
-      "url": "https://www.independent.ie/world-news/irans-foreign-minister-heads-to-islamabad-raising-hopes-for-fresh-peace-talks-with-us/a882763531.html",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T04:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T07:45:44.939Z",
-      "run_id": "2026-04-26T07:45"
-    },
-    {
-      "headline": "Hamas, resistance groups decry Israeli assaults on Gaza as 'full-fledged war crimes'",
-      "summary": "Hamas and other Palestinian resistance groups have categorically denounced the latest wave of Israeli strikes on the Gaza Strip as \"a bloody Zionist escalation and full-fledged war crimes.\"",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260425-presstv03.htm",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T13:15:23.134Z",
-      "run_id": "2026-04-26T13:15"
-    },
-    {
-      "headline": "Iran's foreign minister leaves Pakistan as Trump cancels visit by US envoys",
-      "summary": "Iran's Foreign Minister Abbas Araghchi left Islamabad on Saturday after holding discussions with senior Pakistani officials on regional security and a ceasefire with the United States, during which he presented Iran's demands on ending the eight-week war.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260425-presstv04.htm",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T13:15:23.134Z",
-      "run_id": "2026-04-26T13:15"
-    },
-    {
-      "headline": "US blockade of Iranian ports 'collective punishment' of civilians: Top rights body",
-      "summary": "Iran's High Council for Human Rights has condemned the United States' blockade of Iranian ports and the seizure of an Iranian commercial vessel, the Touska, as crimes surpassing maritime piracy and state terrorism, and amounting to collective punishment again…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260425-presstv07.htm",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T13:15:23.134Z",
-      "run_id": "2026-04-26T13:15"
-    },
-    {
-      "headline": "Iranian FM to convey Iran's considerations regarding war's end in trip to Pakistan -- media",
-      "summary": "Iranian Foreign Minister Seyed Abbas Araghchi will convey Iran's considerations regarding the end of the war with the United States and Israel in his visit to Pakistan's capital Islamabad, the semi-official Tasnim news agency reported Friday.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260425-pdo02.htm",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T13:15:23.134Z",
-      "run_id": "2026-04-26T13:15"
-    },
-    {
-      "headline": "April 25: Iran presents 'workable framework' to end war as US sinks deeper into internal turmoil",
-      "summary": "On Day 57 of the imposed war, Iran demonstrated confidence and cohesion as the US strategy showed mutating signs of failure, contradiction, and internal turmoil.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260425-presstv02.htm",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T13:15:23.134Z",
-      "run_id": "2026-04-26T13:15"
-    },
-    {
-      "headline": "Iran Talks: President Trump Calls Off Witkoff-Kushner Islamabad Trip",
-      "summary": "Trump: \"There is tremendous infighting and confusion within their 'leadership.' Nobody knows who is in charge, including them.\"\nThe post Iran Talks: President Trump Calls Off Witkoff-Kushner Islamabad Trip first appeared on Le·gal In·sur·rec·tion.",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/04/iran-talks-president-trump-calls-off-witkoff-kushner-islamabad-trip/",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T17:36:12Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T19:01:56.795Z",
-      "run_id": "2026-04-26T19:01"
-    },
-    {
-      "headline": "Iran’s ethnic minorities increasingly targeted following ceasefire",
-      "summary": "While everyone inside Iran has suffered since the ceasefire came into effect, with the rampant repression gaining steam during the pause in fighting, Iran’s ethnic minorities in particular have felt the heat",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/426062",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T17:31:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T19:01:56.795Z",
-      "run_id": "2026-04-26T19:01"
-    },
-    {
-      "headline": "Iran's Foreign Minister Leaves Islamabad Without Meeting US Envoys: Pakistan Officials",
-      "summary": "Iranian Foreign Minister Abbas Araghchi had traveled to Pakistan for what he described as indirect talks with U.S. envoys, but left Saturday evening, Pakistani officials said.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_69ecd8dee4b0f3a433cb39b3",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T15:13:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T19:01:56.795Z",
-      "run_id": "2026-04-26T19:01"
-    },
-    {
-      "headline": "Iran is suffering in a stand off with the US – but may be betting Trump will blink first",
-      "summary": "A United States naval blockade on Iran is strangling the Islamic Republic’s main economic corridors – leaving Tehran facing a looming oil storage crisis and ...",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/04/25/middleeast/blockade-us-iran-economy-analysis-intl",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T14:16:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T19:01:56.795Z",
-      "run_id": "2026-04-26T19:01"
-    },
-    {
-      "headline": "Tanker ETF surges 600% amid US-Iran conflict and rising shipping rates",
-      "summary": "The surge in tanker ETFs highlights a strategic shift in investor focus towards shipping rates, reflecting broader geopolitical tensions.\nThe post Tanker ETF surges 600% amid US-Iran conflict and rising shipping rates appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/tanker-etf-surges-600-amid-us-iran-conflict-and-rising-shipping-rates/",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T13:48:54Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T19:01:56.795Z",
-      "run_id": "2026-04-26T19:01"
-    },
-    {
-      "headline": "Iran says it won't accept 'maximalist demands' as Islamabad hosts peace push",
-      "summary": "Iran presented its core demands and concerns in Pakistan, seeking an end to the ongoing conflict. The United States is pushing for Iran to abandon its nuclear weapons program in a verifiable manner. Ceasefires are in place, but few ships are crossing the Stra…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-says-it-wont-accept-maximalist-demands-as-islamabad-hosts-peace-push/articleshow/130515887.cms",
-      "bloc": "regional",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T13:44:56Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T19:01:56.795Z",
-      "run_id": "2026-04-26T19:01"
-    },
-    {
-      "headline": "Strait of Hormuz Remains Near-Empty With Just a Few Iran Ships Moving",
-      "summary": "The Strait of Hormuz remains largely empty of merchant ships, with only a few Tehran-linked vessels moving through the waterway, following a tense week that saw Iranian gunboat attacks and tanker interceptions by the US Navy.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/strait-of-hormuz-remains-near-empty-with-just-a-few-iran-ships-moving",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T13:28:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T19:01:56.795Z",
-      "run_id": "2026-04-26T19:01"
-    },
-    {
-      "headline": "Strait of Hormuz is choking Bitcoin, not just oil. But there's a catch",
-      "summary": "The Strait of Hormuz might be just 21 nautical miles wide, but it is a vital artery connecting the Persian Gulf to the global market. With the ongoing...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/strait-of-hormuz-is-choking-bitcoin-not-just-oil-but-theres-a-catch",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T13:49:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-26T19:01:56.795Z",
-      "run_id": "2026-04-26T19:01"
-    },
     {
       "headline": "Hopes of US-Iran peace fade as Trump scraps talks",
       "summary": "Donald Trump cancelled a planned envoy visit to Pakistan, while Iran, led by President Masoud Pezeshkian, insisted it would not engage under pressure or blockade",
@@ -557,118 +26,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-27T03:30:24.891Z",
-      "run_id": "2026-04-27T03:30"
-    },
-    {
-      "headline": "From maritime trench warfare to a ‘sloppy peace’: Here’s how the Strait of Hormuz standoff could play out, according to Goldman Sachs",
-      "summary": "\"And a sloppy peace is basically a bunch of half solutions on all the big issues.\"",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/04/25/iran-war-peace-deal-maritime-trench-warfare-naval-blockade-strait-of-hormuz-oil/",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T23:30:43Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-27T03:30:24.891Z",
-      "run_id": "2026-04-27T03:30"
-    },
-    {
-      "headline": "Iran War Reveals Big Weakness In America’s Energy Armor",
-      "summary": "What the U.S. needs is an all-of-the-above energy strategy that emphasizes domestic production.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/04/25/opinion-iran-war-reveals-glaring-weakness-in-americas-energy-armor-fred-fleitz/",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T21:37:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-27T03:30:24.891Z",
-      "run_id": "2026-04-27T03:30"
-    },
-    {
-      "headline": "Trump cancels envoys' Pakistan trip, in blow to hopes for Iran war breakthrough",
-      "summary": "President Donald Trump canceled a trip by two U.S. envoys to Iran war mediator Pakistan on Saturday, dealing a new setback to peace ‌prospects after Iran's foreign minister departed Islamabad after speaking only to Pakistani officials. Trump told reporters in…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/trump-cancels-envoys%27-pakistan-trip-in-blow-to-hopes-for-iran-war-breakthrough1",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T21:09:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-27T03:30:24.891Z",
-      "run_id": "2026-04-27T03:30"
-    },
-    {
-      "headline": "Who is in-charge in Iran, and will Trump get any call from Tehran? Talks collapse after cancelled Islamabad visit",
-      "summary": "Who is in-charge in Iran, and will Trump get any call from Tehran? The United States cancelled a planned visit to Pakistan after Iranian officials left Islamabad without meeting US negotiators. President Donald Trump said talks were not worth travel and hinte…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/who-is-in-charge-in-iran-and-will-trump-get-any-call-from-tehran-talks-collapse-after-cancelled-islamabad-visit/articleshow/130522780.cms",
-      "bloc": "regional",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T20:50:36Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi",
       "first_seen": "2026-04-27T03:30:24.891Z",
@@ -710,34 +67,6 @@
       "bloc": "regional",
       "date": "2026-04-26",
       "datetime": "2026-04-26T01:19:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-04-27T03:30:24.891Z",
-      "run_id": "2026-04-27T03:30"
-    },
-    {
-      "headline": "‘Shadow fleet’ vessels tied to Iran pass through Strait of Hormuz",
-      "summary": "At least two ships sanctioned by the US for serving in Iran's “shadow fleet” passed through the Strait of Hormuz Saturday morning, tracking data revealed.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/04/25/us-news/shadow-fleet-vessels-tied-to-iran-pass-through-strait-of-hormuz/",
-      "bloc": "western",
-      "date": "2026-04-25",
-      "datetime": "2026-04-25T21:06:15Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -19675,7 +19004,119 @@
       "_from": "newsapi",
       "first_seen": "2026-05-25T19:46:56.687Z",
       "run_id": "2026-05-25T19:46"
+    },
+    {
+      "headline": "Ted Cruz and Lindsey Graham lead Republicans blasting Trump for 'disastrous mistake' on his emerging Iran deal",
+      "summary": "President Donald Trump is facing a fierce backlash from fellow Republicans including Ted Cruz and Lindsey Graham over his emerging Iran deal, with critics warning it could leave Tehran stronger.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15845201/Ted-Cruz-Lindsey-Graham-Trump-Iran-deal.html",
+      "bloc": "western",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T23:02:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-26T03:56:55.476Z",
+      "run_id": "2026-05-26T03:56"
+    },
+    {
+      "headline": "Deadly Israeli strikes pound south, east Lebanon",
+      "summary": "Israeli strikes pounded south and east Lebanon Sunday despite a ceasefire as Hezbollah's chief expressed hope for an agreement between Iran and the United States to end the Middle East war that includes Lebanon. Lebanon's health ministry raised the overall to…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/deadly-israeli-strikes-pound-south-east-lebanon",
+      "bloc": "western",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T21:13:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-26T03:56:55.476Z",
+      "run_id": "2026-05-26T03:56"
+    },
+    {
+      "headline": "Trump says there is no rush for Iran deal; U.S. blockade stays",
+      "summary": "U.S. President Donald Trump said on Sunday he had told his representatives not to rush into any deal with Iran, as his administration played down hopes of an imminent breakthrough in the three-month-old war that had been raised a day earlier. The U.S. ‌blocka…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/trump-says-there-is-no-rush-for-iran-deal-us-blockade-stays2",
+      "bloc": "western",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T21:13:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-26T03:56:55.476Z",
+      "run_id": "2026-05-26T03:56"
+    },
+    {
+      "headline": "Mass tanker blackout rattles Gulf ahead of 1.35M-barrel oil transfer amid US-Iran talks: firm",
+      "summary": "Maritime tracking signals collapse near the UAE's Fujairah oil hub hours before President Trump announced progress on a bilateral peace deal with Iran, according to an AI maritime firm.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/mass-tanker-blackout-rattles-gulf-ahead-1-35m-barrel-oil-transfer-amid-us-iran-talks-firm",
+      "bloc": "western",
+      "date": "2026-05-24",
+      "datetime": "2026-05-24T20:11:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-26T03:56:55.476Z",
+      "run_id": "2026-05-26T03:56"
     }
   ],
-  "total_items_ever": 1558
+  "total_items_ever": 1562
 }

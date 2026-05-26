@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-26T03:58:00.685Z",
+  "ts": "2026-05-26T10:04:30.232Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-26T03:58:00.685Z"
+    "updatedAt": "2026-05-26T10:04:30.232Z"
   },
   "items": [
     {
-      "headline": "Ted Cruz and Lindsey Graham lead Republicans blasting Trump for 'disastrous mistake' on his emerging Iran deal",
-      "summary": "President Donald Trump is facing a fierce backlash from fellow Republicans including Ted Cruz and Lindsey Graham over his emerging Iran deal, with critics warning it could leave Tehran stronger.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15845201/Ted-Cruz-Lindsey-Graham-Trump-Iran-deal.html",
+      "headline": "Trump demands Arab states normalize with Israel in exchange for Iran ceasefire: Report",
+      "summary": "US President Donald Trump has told several Arab and Muslim leaders that he expects them to establish formal relations with Israel in exchange for a ceasefire deal with Iran to end the war, according to American officials.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260525-presstv01.htm",
       "bloc": "western",
-      "date": "2026-05-24",
-      "datetime": "2026-05-24T23:02:33Z",
+      "date": "2026-05-25",
+      "datetime": "2026-05-25T09:37:46Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,39 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Deadly Israeli strikes pound south, east Lebanon",
-      "summary": "Israeli strikes pounded south and east Lebanon Sunday despite a ceasefire as Hezbollah's chief expressed hope for an agreement between Iran and the United States to end the Middle East war that includes Lebanon. Lebanon's health ministry raised the overall to…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/deadly-israeli-strikes-pound-south-east-lebanon",
+      "headline": "Iran has no trust in US; frozen assets release red line for any deal: Source to Iranian agency",
+      "summary": "Iran harbors no optimism toward the United States and views any negotiations through a lens of deep mistrust, an informed source told Tasnim News Agency on Sunday, stressing that even if a preliminary understanding is reached, Tehran will not rely on Washingt…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260525-presstv02.htm",
       "bloc": "western",
-      "date": "2026-05-24",
-      "datetime": "2026-05-24T21:13:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump says there is no rush for Iran deal; U.S. blockade stays",
-      "summary": "U.S. President Donald Trump said on Sunday he had told his representatives not to rush into any deal with Iran, as his administration played down hopes of an imminent breakthrough in the three-month-old war that had been raised a day earlier. The U.S. ‌blocka…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/trump-says-there-is-no-rush-for-iran-deal-us-blockade-stays2",
-      "bloc": "western",
-      "date": "2026-05-24",
-      "datetime": "2026-05-24T21:13:08Z",
+      "date": "2026-05-25",
+      "datetime": "2026-05-25T09:37:46Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump's deal making leaves Iran in the driver's seat and Israel more vulnerable",
-      "summary": "Israel goes from looking like the new regional hegemon to looking like it is under greater threat now than it has in years, while Iran now has room to rebuild its proxies.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-05-25/tingle-trump-deal-iran-war-israel-vulnerable/106716792",
+      "headline": "U.S. still refusing to accept certain clauses of possible peace MoU with Iran -- media",
+      "summary": "The United States is still refusing to accept certain clauses of a potential memorandum of understanding (MoU) with Iran on ending the war, the semi-official Tasnim news agency reported on Sunday.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260525-pdo01.htm",
       "bloc": "western",
-      "date": "2026-05-24",
-      "datetime": "2026-05-24T19:24:30Z",
+      "date": "2026-05-25",
+      "datetime": "2026-05-25T09:37:46Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -113,6 +87,110 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran and U.S. play down hopes for imminent breakthrough in war",
+      "summary": "Secretary of State Marco Rubio told reporters in New Delhi that the U.S. would give diplomacy every chance to succeed before exploring \"alternatives\".",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/25/iran-and-us-play-down-hopes-for-imminent-breakthrough-in-war.html",
+      "bloc": "western",
+      "date": "2026-05-25",
+      "datetime": "2026-05-25T09:12:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US insists makings of a deal with Iran on the table but Trump tempers expectations",
+      "summary": "The hint of optimism caused oil prices to plunge close to 5% on Monday.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/us-iran-war-negotiations-ceasefire-7050609-May2026/",
+      "bloc": "western",
+      "date": "2026-05-25",
+      "datetime": "2026-05-25T05:46:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How to think about the Iran war — and what it means for oil and stocks",
+      "summary": "What if talks fail? Won’t inflation skyrocket? Shouldn’t I wait for this to pass before buying stocks? Those are key questions I have been getting as this conflict drags on.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/05/25/business/how-to-think-about-the-iran-war-and-what-it-means-for-oil-and-stocks/",
+      "bloc": "western",
+      "date": "2026-05-25",
+      "datetime": "2026-05-25T10:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Tsipras and Barcelona (à la SYRIZA), Samaras, K.K.-Rafina and the lessons of the past, TUI pressed the button for Greece, the mergers in IT",
+      "summary": "Germany changed its migration policy & fund managers have changed strategy\nThe post Tsipras and Barcelona (à la SYRIZA), Samaras, K.K.-Rafina and the lessons of the past, TUI pressed the button for Greece, the mergers in IT appeared first on ProtoThema Englis…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/05/25/tsipras-and-barcelona-a-la-syriza-samaras-k-k-rafina-and-the-lessons-of-the-past-tui-pressed-the-button-for-greece-the-mergers-in-it/",
+      "bloc": "western",
+      "date": "2026-05-25",
+      "datetime": "2026-05-25T05:32:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -196,58 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "As Trump Plans Next Round in Iran War, Fresh Gas Price Shocks Rattle Consumers",
-      "summary": "For most Americans, Memorial Day weekend is supposed to mark the unofficial start of summer — backyard cookouts, packed highways, beach trips, and family...",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/05/23/as-trump-plans-next-round-in-iran-war-fresh-gas-price-shocks-rattle-consumers/",
-      "bloc": "western",
-      "date": "2026-05-23",
-      "datetime": "2026-05-23T14:04:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Is Tightening Its Grip on the Strait of Hormuz",
-      "summary": "Shortly after the outbreak of the war with the United States and Israel, Iran took control of the Strait of Hormuz, a key artery for global oil and gas supplies. By threatening and attacking international shipping, Iran brought maritime traffic to a virtual s…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Iran-Is-Tightening-Its-Grip-on-the-Strait-of-Hormuz.html",
-      "bloc": "western",
-      "date": "2026-05-22",
-      "datetime": "2026-05-22T14:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Gauging the Xi-Trump summit and its geopolitical implications",
       "summary": "After summit meetings of the kind we just had with Trump and Xi Jinping, sometimes there is a joint communique and signing ceremony outlining what the two sides agreed upon. That did not happen, leaving observers scratching their heads as to what the point of…",
       "source": "Freethoughtblogs.com",
@@ -304,30 +330,6 @@
       "bloc": "western",
       "date": "2026-05-23",
       "datetime": "2026-05-23T18:38:26Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Taiwan says China deployed more than 100 vessels in regional waters",
-      "summary": "China has deployed over 100 naval and coast guard vessels across regional waters. This comes as Taiwan's security officials express concern. US President Donald Trump's remarks on arms sales to Taiwan have caused unease. Taiwan is seeking to boost its defense…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwan-says-china-deployed-more-than-100-vessels-in-regional-waters/articleshow/131278654.cms",
-      "bloc": "regional",
-      "date": "2026-05-23",
-      "datetime": "2026-05-23T11:40:56Z",
       "leaders": [
         "Xi Jinping"
       ],

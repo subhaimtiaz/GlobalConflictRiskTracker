@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-27T10:01:58.251Z",
+  "ts": "2026-05-27T15:56:01.260Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,43 +10,121 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-27T10:01:58.251Z"
+    "updatedAt": "2026-05-27T15:56:01.260Z"
   },
   "items": [
     {
-      "headline": "US Says It Carried Out 'Self-Defense' Strikes in Southern Iran Amid Fragile Cease-Fire",
-      "summary": "The United States military said it carried out \"self-defense\" strikes in southern Iran on May 25, targeting missile launch sites and Iranian boats allegedly attempting to lay mines near key shipping routes.",
+      "headline": "Iran slams U.S. strikes as sign of ‘bad faith and unreliability’",
+      "summary": "Tehran warned of \"all consequences\" after Monday's military strikes, while a tanker explosion in the Gulf of Oman signaled fresh risk.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/05/26/iran-us-strikes-ceasefire-hormuz-negotiations/",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T14:53:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Tuesday Update: Trump Posts Violent Image About his GOP Opponents, Doctors Question his Physical Health, Iran Strikes, ICE Sprays Senator",
+      "summary": "Tuesday Update: Trump Posts Violent Image About his GOP Opponents, Doctors Question his Physical Health, Iran Strikes, ICE Sprays Senatorsubstack.com",
+      "source": "Substack.com",
+      "url": "https://aaronparnas.substack.com/p/tuesday-update-trump-posts-violent",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T14:07:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. Strikes Iranian Targets as Fragile Hormuz Talks Continue",
+      "summary": "The U.S. military carried out “self-defense strikes” on Monday in southern Iran against targets including boats attempting to lay mines and missile launch sites, the U.S. Central Command (CENTCOM) said. The strikes were designed “to protect our troops from th…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/US-Strikes-Iranian-Targets-as-Fragile-Hormuz-Talks-Continue.html",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T14:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran condemns US strikes as a show of 'bad faith' and warns of consequences",
+      "summary": "Iran on Tuesday denounced U.S. strikes a day earlier as a sign of “bad faith and unreliability” as negotiations continue toward a possible deal to end the...",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/politics/articles/iran-condemns-us-strikes-show-131000230.html",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T13:10:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran says latest ceasefire violations prove US 'ill-will', vows decisive response",
+      "summary": "Iran's Foreign Ministry has condemned in the strongest terms \"flagrant and unjustified\" ceasefire violations by the United States in the Strait of Hormuz.",
       "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260526-rferl01.htm",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260526-presstv04.htm",
       "bloc": "western",
       "date": "2026-05-26",
-      "datetime": "2026-05-26T09:21:07Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "ELBIT SYSTEMS REPORTS FIRST QUARTER 2026 RESULTS",
-      "summary": "Order backlog at $30.2 billion; Revenues of $2.19 billion; GAAP net income of $160.8 million; Non-GAAP net income of $186.4 million; GAAP net EPS of $3.34; Non-GAAP net EPS of $3.87 HAIFA, Israel, May 26, 2026 /PRNewswire/ -- Elbit Systems Ltd. (NASDAQ: ESLT)…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/elbit-systems-reports-first-quarter-2026-results-302781638.html",
-      "bloc": "western",
-      "date": "2026-05-26",
-      "datetime": "2026-05-26T09:15:00Z",
+      "datetime": "2026-05-26T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,80 +144,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Nimbus Manticore Expanded Attacks With AI-Assisted Malware and Fake Zoom Installers",
-      "summary": "Nimbus Manticore accelerated cyberattacks during wartime, using AI-assisted malware, fake Zoom installers, and SEO poisoning. When the United States launched Operation Epic Fury against Iran at the end of February 2026, most analysts expected the country’s cy…",
-      "source": "Securityaffairs.com",
-      "url": "https://securityaffairs.com/192689/apt/nimbus-manticore-expanded-attacks-with-ai-assisted-malware-and-fake-zoom-installers.html",
-      "bloc": "western",
+      "headline": "Tehran labels US attacks ‘gross violation’, says it is prepared to respond",
+      "summary": "The US says it struck boats and missile sites in Iran, shortly after both sides had indicated progress in peace talks.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/5/26/tehran-labels-us-attacks-gross-violation-says-it-is-prepared-to-respond",
+      "bloc": "regional",
       "date": "2026-05-26",
-      "datetime": "2026-05-26T09:09:17Z",
+      "datetime": "2026-05-26T15:13:18Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Rejects US Demand on Uranium as Talks Continue",
-      "summary": "Iranian Foreign Ministry spokesperson Esmaeil Baghaei stated that no agreement will be reached if the United States insists on Iran handing over its enriched uranium, according to Al Jazeera reports cited by ZeroHedge [1]. The statement came as U.S. Secretary…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-26-iran-rejects-us-demand-on-uranium-talks-continue.html",
+      "headline": "Explosion On Tanker Off Oman Coast, British Maritime Monitor Says",
+      "summary": "A tanker captain has reported an explosion on his ship in waters of the coast of Oman, according to United Kingdom Maritime Trade Operations (UKMTO).",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260526-rferl04.htm",
       "bloc": "western",
       "date": "2026-05-26",
-      "datetime": "2026-05-26T06:00:00Z",
+      "datetime": "2026-05-26T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israel steps up Lebanon strikes as Netanyahu escalates offensive",
-      "summary": "The Israeli army intensified strikes in southern Lebanon on Monday, as Prime Minister Benjamin Netanyahu said he had ordered the military to escalate its offensive in an effort to \"crush\" Hezbollah.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/israel-steps-up-lebanon-strikes-as-netanyahu-escalates-offensive-222543",
-      "bloc": "western",
-      "date": "2026-05-26",
-      "datetime": "2026-05-26T05:59:57Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,58 +255,6 @@
       "bloc": "western",
       "date": "2026-05-25",
       "datetime": "2026-05-25T23:10:54Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Says U.S. Peace Talks Hit “Consensus” On Many Issues, But No Final Deal Yet",
-      "summary": "Asian and European equities climbed on Monday, while U.S. equity futures jumped and Brent crude fell, as signs of a possible U.S.-Iran deal boosted risk appetite. To note, the U.S. is on holiday.",
-      "source": "Shtfplan.com",
-      "url": "https://www.shtfplan.com/headline-news/iran-says-u-s-peace-talks-hit-consensus-on-many-issues-but-no-final-deal-yet",
-      "bloc": "western",
-      "date": "2026-05-25",
-      "datetime": "2026-05-25T22:30:27Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Swiss trader had lucrative role getting Iraqi oil through Hormuz",
-      "summary": "A little-known Swiss trading company played a key role in the transit through the Strait of Hormuz of an oil supertanker this month. Read on",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/commodities/energy/oil-gas/swiss-trader-role-oil-hormuz",
-      "bloc": "western",
-      "date": "2026-05-25",
-      "datetime": "2026-05-25T19:30:50Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -397,6 +397,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump’s Iran Signals Send Oil Markets Into Chaos",
+      "summary": "Oil prices whipsawed after reports of a possible U.S.-Iran framework deal briefly sent Brent plunging, only for fresh U.S. strikes on Iran to push crude back...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/trump-iran-signals-send-oil-152300070.html",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T15:23:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Current price of oil as of May 26, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-05-26-2026/",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T13:14:35Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "EU economy chief rules out easing sanctions on Russian oil and gas amid energy crisis",
       "summary": "The EU's firm stance on Russian sanctions may sustain high energy costs, impacting inflation, monetary policy, and crypto market dynamics.\nThe post EU economy chief rules out easing sanctions on Russian oil and gas amid energy crisis appeared first on Crypto …",
       "source": "Crypto Briefing",
@@ -449,78 +501,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "G7 debt market faces volatility as Iran war drives oil past $100 and reshapes inflation outlook",
-      "summary": "The conflict-induced inflation and market volatility challenge G7's economic stability, complicating central banks' policy decisions.\nThe post G7 debt market faces volatility as Iran war drives oil past $100 and reshapes inflation outlook appeared first on Cr…",
+      "headline": "Iran condemns US ceasefire violation, demands $12B fund release before resuming talks",
+      "summary": "The US-Iran tensions over asset release and maritime actions could destabilize oil markets, impacting global inflation and crypto trends.\nThe post Iran condemns US ceasefire violation, demands $12B fund release before resuming talks appeared first on Crypto B…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/g7-debt-volatility-iran-war-inflation/",
+      "url": "https://cryptobriefing.com/iran-us-ceasefire-violation-12b-fund-demand/",
       "bloc": "western",
-      "date": "2026-05-22",
-      "datetime": "2026-05-22T09:45:34Z",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T14:28:02Z",
       "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
       ],
       "watch_terms": [
-        "oil Brent crude"
+        "Iran US diplomacy"
       ],
       "dimensions": [
-        "survival",
-        "values"
+        "values",
+        "survival"
       ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Gold and silver price today, 22 May: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
-      "summary": "Gold prices fell on MCX on Friday morning as a stronger US dollar weighed on the yellow metal. Gold has remained under pressure over the past two months following the US-Iran conflict, with soaring crude oil prices boosting the dollar and raising concerns abo…",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-price-today-22-may-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11779422168307.html",
-      "bloc": "western",
-      "date": "2026-05-22",
-      "datetime": "2026-05-22T04:51:20Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. Crude Inventories Fall 9.1 Million Barrels, Nearly Three Times Larger Than Expected",
-      "summary": "The American Petroleum Institute estimated that U.S. crude oil inventories fell by 9.1 million barrels in the week ending May 15, according to a report. Analysts had forecast a draw of 3.4 million barrels, making the decline nearly three times larger than exp…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-21-us-crude-inventories-fall-larger-than-expected.html",
-      "bloc": "western",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T06:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
+      "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

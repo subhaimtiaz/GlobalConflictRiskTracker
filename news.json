@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-27T15:56:01.260Z",
+  "ts": "2026-05-27T20:25:01.431Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-27T15:56:01.260Z"
+    "updatedAt": "2026-05-27T20:25:01.431Z"
   },
   "items": [
+    {
+      "headline": "Trump still thinks he’s winning in Iran",
+      "summary": "There’s an old line, sometimes attributed to President Dwight D. Eisenhower, that the best way to solve a difficult problem is to make it bigger. That might be the most generous interpretation of how the Trump administration is approaching its ongoing peace t…",
+      "source": "Vox",
+      "url": "https://www.vox.com/politics/489744/trump-iran-deal-ceasefire-stalemate",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T18:54:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Says New U.S. Strikes Violate Ceasefire",
+      "summary": "Iran said the United States had violated a ceasefire after the U.S. conducted what it called defensive strikes in southern Iran, while U.S. Secretary of State Marco Rubio said negotiating a deal to halt the conflict could \"take a few days.\"",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-says-new-u-s-strikes-violate-ceasefire/",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T17:33:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran slams U.S. strikes as sign of ‘bad faith and unreliability’",
       "summary": "Tehran warned of \"all consequences\" after Monday's military strikes, while a tanker explosion in the Gulf of Oman signaled fresh risk.",
@@ -92,53 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran condemns US strikes as a show of 'bad faith' and warns of consequences",
-      "summary": "Iran on Tuesday denounced U.S. strikes a day earlier as a sign of “bad faith and unreliability” as negotiations continue toward a possible deal to end the...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/politics/articles/iran-condemns-us-strikes-show-131000230.html",
+      "headline": "U.S. Military Denies Reported Restart of U.S. Naval Escorts in Strait of Hormuz",
+      "summary": "U.S. Central Command on Tuesday publicly denied reports that the U.S. Navy has resumed escorting commercial ships through the Strait of Hormuz under the previously suspended “Project Freedom” operation, directly...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/u-s-military-denies-reported-restart-of-u-s-naval-escorts-in-strait-of-hormuz/",
       "bloc": "western",
       "date": "2026-05-26",
-      "datetime": "2026-05-26T13:10:00Z",
+      "datetime": "2026-05-26T17:29:59Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says latest ceasefire violations prove US 'ill-will', vows decisive response",
-      "summary": "Iran's Foreign Ministry has condemned in the strongest terms \"flagrant and unjustified\" ceasefire violations by the United States in the Strait of Hormuz.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260526-presstv04.htm",
-      "bloc": "western",
-      "date": "2026-05-26",
-      "datetime": "2026-05-26T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Japan Scrambles to Reshape Energy Imports",
-      "summary": "The arrival of the crude oil tanker Idemitsu Maru at Nagoya Port on May 25th marked the end of a weeks-long ordeal caused by the closure of the Strait of Hormuz, while also highlighting how dramatically Japan's oil procurement system has changed amid escalati…",
-      "source": "Newsonjapan.com",
-      "url": "https://newsonjapan.com/article/149377.php",
-      "bloc": "western",
-      "date": "2026-05-25",
-      "datetime": "2026-05-25T23:10:54Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "As Ukraine gains advantage, Russia strikes with nuclear-capable missile",
       "summary": "Russia escalates attacks on Kyiv, using a hypersonic missile in one of its largest assaults on the Ukrainian capital since the start of the four-year war, and warns foreigners to leave the city ahead of further strikes.",
       "source": "ABC News (AU)",
@@ -316,6 +316,30 @@
         "survival",
         "impulsivity",
         "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Taiwan Scrambles Fighter Jets As China Encroaches With Combat Patrols",
+      "summary": "Chinese fighter jets and warships encroach on Taiwan, but Xi says China will not invade.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/05/26/taiwan-scrambles-fighter-jets-as-china-encroaches-with-combat-patrols/",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T19:03:13Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-27T15:54:56.081Z",
+  "updated": "2026-05-27T20:23:56.237Z",
   "retention_days": 30,
   "items": [
     {
@@ -19732,7 +19732,117 @@
       "_from": "newsapi",
       "first_seen": "2026-05-27T15:54:56.081Z",
       "run_id": "2026-05-27T15:54"
+    },
+    {
+      "headline": "Trump still thinks he’s winning in Iran",
+      "summary": "There’s an old line, sometimes attributed to President Dwight D. Eisenhower, that the best way to solve a difficult problem is to make it bigger. That might be the most generous interpretation of how the Trump administration is approaching its ongoing peace t…",
+      "source": "Vox",
+      "url": "https://www.vox.com/politics/489744/trump-iran-deal-ceasefire-stalemate",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T18:54:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-27T20:23:56.237Z",
+      "run_id": "2026-05-27T20:23"
+    },
+    {
+      "headline": "Iran Says New U.S. Strikes Violate Ceasefire",
+      "summary": "Iran said the United States had violated a ceasefire after the U.S. conducted what it called defensive strikes in southern Iran, while U.S. Secretary of State Marco Rubio said negotiating a deal to halt the conflict could \"take a few days.\"",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-says-new-u-s-strikes-violate-ceasefire/",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T17:33:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-27T20:23:56.237Z",
+      "run_id": "2026-05-27T20:23"
+    },
+    {
+      "headline": "U.S. Military Denies Reported Restart of U.S. Naval Escorts in Strait of Hormuz",
+      "summary": "U.S. Central Command on Tuesday publicly denied reports that the U.S. Navy has resumed escorting commercial ships through the Strait of Hormuz under the previously suspended “Project Freedom” operation, directly...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/u-s-military-denies-reported-restart-of-u-s-naval-escorts-in-strait-of-hormuz/",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T17:29:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-27T20:23:56.237Z",
+      "run_id": "2026-05-27T20:23"
+    },
+    {
+      "headline": "Taiwan Scrambles Fighter Jets As China Encroaches With Combat Patrols",
+      "summary": "Chinese fighter jets and warships encroach on Taiwan, but Xi says China will not invade.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/05/26/taiwan-scrambles-fighter-jets-as-china-encroaches-with-combat-patrols/",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T19:03:13Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-27T20:23:56.237Z",
+      "run_id": "2026-05-27T20:23"
     }
   ],
-  "total_items_ever": 1603
+  "total_items_ever": 1607
 }

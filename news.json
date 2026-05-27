@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-26T20:14:22.104Z",
+  "ts": "2026-05-27T04:11:53.908Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-26T20:14:22.104Z"
+    "updatedAt": "2026-05-27T04:11:53.908Z"
   },
   "items": [
+    {
+      "headline": "Israel Curbs Aid, Kills Civilians During Gaza Ceasefire as Famine Looms",
+      "summary": "Palestinians in Gaza are still hungry, still cannot reach medical care, and civilians are still being killed as Board of Peace fails",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/05/israel-civilians-ceasefire.html",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T04:06:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran accuses US of missile strike killing civilians in Lamerd as crypto markets whipsaw",
+      "summary": "The incident heightens geopolitical tensions, potentially impacting global energy markets and increasing scrutiny on financial transactions.\nThe post Iran accuses US of missile strike killing civilians in Lamerd as crypto markets whipsaw appeared first on Cry…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-us-missile-strike-lamerd-crypto-impact/",
+      "bloc": "western",
+      "date": "2026-05-25",
+      "datetime": "2026-05-25T22:53:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "In Lebanon, everything and nothing has changed since 2000",
       "summary": "A local war has gone regional, drawing in Iran and the US, but its root cause is unchanged: Palestine.",
@@ -92,54 +144,80 @@
       "_from": "newsapi"
     },
     {
-      "headline": "WATCH LIVE: President Trump Delivers Remarks at Memorial Day Wreath Laying Ceremony – 12 PM ET",
-      "summary": "President Trump will participate in the annual Wreath Laying Ceremony and deliver remarks at Arlington National Cemetery this afternoon to commemorate Memorial Day.\nThe post WATCH LIVE: President Trump Delivers Remarks at Memorial Day Wreath Laying Ceremony –…",
-      "source": "Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/05/watch-live-president-trump-delivers-remarks-memorial-day/",
+      "headline": "Trump’s Iranian Nightmare",
+      "summary": "Trump’s catastrophic miscalculation in Iran and refusal to accept the inevitability of defeat is pushing us towards a global depression and ensuring the suffering and immiseration of millions. Chris Hedges America’s newest quagmire in the Middle East is like …",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/trumps-iranian-nightmare/",
       "bloc": "western",
-      "date": "2026-05-25",
-      "datetime": "2026-05-25T16:00:51Z",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T00:02:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "This Tehran Music School Took Ages to Build Up. Airstrikes Turned It to Rubble.",
-      "summary": "The destruction of Honiak Music Academy shows the devastating impact of the US-Israeli war on Iran's creative spaces.",
-      "source": "Truthout",
-      "url": "https://truthout.org/articles/this-tehran-music-school-took-ages-to-build-up-airstrikes-turned-it-to-rubble/",
+      "headline": "Japan Scrambles to Reshape Energy Imports",
+      "summary": "The arrival of the crude oil tanker Idemitsu Maru at Nagoya Port on May 25th marked the end of a weeks-long ordeal caused by the closure of the Strait of Hormuz, while also highlighting how dramatically Japan's oil procurement system has changed amid escalati…",
+      "source": "Newsonjapan.com",
+      "url": "https://newsonjapan.com/article/149377.php",
       "bloc": "western",
       "date": "2026-05-25",
-      "datetime": "2026-05-25T15:43:48Z",
+      "datetime": "2026-05-25T23:10:54Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Says U.S. Peace Talks Hit “Consensus” On Many Issues, But No Final Deal Yet",
+      "summary": "Asian and European equities climbed on Monday, while U.S. equity futures jumped and Brent crude fell, as signs of a possible U.S.-Iran deal boosted risk appetite. To note, the U.S. is on holiday.",
+      "source": "Shtfplan.com",
+      "url": "https://www.shtfplan.com/headline-news/iran-says-u-s-peace-talks-hit-consensus-on-many-issues-but-no-final-deal-yet",
+      "bloc": "western",
+      "date": "2026-05-25",
+      "datetime": "2026-05-25T22:30:27Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -151,84 +229,6 @@
       "bloc": "western",
       "date": "2026-05-25",
       "datetime": "2026-05-25T19:30:50Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil prices drop 5% after Trump says Iran talks are moving ahead — but Hormuz still a wildcard",
-      "summary": "Crude remains dramatically elevated from prewar levels after surging more than 30% since US, Israel launched strikes against Iran in late February.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/05/25/business/oil-prices-drop-5-after-trump-says-iran-talks-are-moving-in-constructive-direction/",
-      "bloc": "western",
-      "date": "2026-05-25",
-      "datetime": "2026-05-25T14:20:10Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Crude oil prices tumble over 4% on hopes of US-Iran breakthrough",
-      "summary": "Reports suggesting progress toward reopening the Strait of Hormuz, a critical global oil shipping route, eased fears of supply disruptions and triggered a sharp selloff in oil futures",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-tumble-over-4-on-hopes-of-us-iran-breakthrough/article71020773.ece",
-      "bloc": "western",
-      "date": "2026-05-25",
-      "datetime": "2026-05-25T10:52:48Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How to think about the Iran war — and what it means for oil and stocks",
-      "summary": "What if talks fail? Won’t inflation skyrocket? Shouldn’t I wait for this to pass before buying stocks? Those are key questions I have been getting as this conflict drags on.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/05/25/business/how-to-think-about-the-iran-war-and-what-it-means-for-oil-and-stocks/",
-      "bloc": "western",
-      "date": "2026-05-25",
-      "datetime": "2026-05-25T10:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -476,31 +476,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil Slides After Iran Says US Agreed To Lift Oil Sanctions During Talks",
-      "summary": "A flurry of (the somewhat typically-timed) Monday opener headlines has pushed oil prices lower, erasing weekend gains, including Al Arabia reporting that Iran is ready to accept a long-term nuclear freeze.",
-      "source": "Shtfplan.com",
-      "url": "https://www.shtfplan.com/headline-news/oil-slides-after-iran-says-us-agreed-to-lift-oil-sanctions-during-talks",
-      "bloc": "western",
-      "date": "2026-05-19",
-      "datetime": "2026-05-19T12:30:19Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Ukraine Says It Attacked Russia’s Major Norsi Oil Refinery Again",
       "summary": "Ukraine said it attacked a major oil refinery in central Russia for the second time this week, as Kyiv continues to target the country’s energy infrastructure.",
       "source": "Financial Post",
@@ -508,52 +483,6 @@
       "bloc": "western",
       "date": "2026-05-20",
       "datetime": "2026-05-20T10:38:42Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Women of Hormuz on their island homes that went from 'heaven' to hell",
-      "summary": "Before rising conflict pushed the Strait of Hormuz into the spotlight as a choke point vital to economies globally, tourism transformed women's lives.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-05-20/people-of-strait-of-hormuz-iran-war-women-and-culture/106679912",
-      "bloc": "western",
-      "date": "2026-05-19",
-      "datetime": "2026-05-19T18:54:59Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukrainian mid-range strikes deal double blow to Russia's war effort",
-      "summary": "Ukraine's growing drone strength is causing significant problems for Russia's war effort. Medium-range drone attacks are disrupting Russian advances and hitting targets deep behind front lines. This strategy is enabling Ukraine to strike Russian air defenses,…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/ukrainian-mid-range-strikes-deal-double-blow-to-russias-war-effort/articleshow/131193852.cms",
-      "bloc": "regional",
-      "date": "2026-05-19",
-      "datetime": "2026-05-19T07:34:08Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

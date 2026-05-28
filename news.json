@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-27T20:25:01.431Z",
+  "ts": "2026-05-28T04:00:05.282Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-05-27T20:25:01.431Z"
+    "updatedAt": "2026-05-28T04:00:05.282Z"
   },
   "items": [
+    {
+      "headline": "Iran condemns US strikes as show of 'bad faith', begins restoring internet after long shutdown",
+      "summary": "Iran's foreign ministry called the strikes a ceasefire violation and warned that Washington would bear responsibility for “all consequences”, without elaborating",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-condemns-us-strikes-as-show-of-bad-faith-begins-restoring-internet-after-long-shutdown/article71027594.ece",
+      "bloc": "western",
+      "date": "2026-05-27",
+      "datetime": "2026-05-27T03:46:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran says new U.S. strikes violate ceasefire",
+      "summary": "Iran said on Tuesday the United States had violated a ceasefire by striking targets near the contested Strait of Hormuz, potentially complicating efforts to bring the war to a close. Iran's foreign ministry said U.S. strikes in Iran's southern Hormozgan ‌prov…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/iran-says-new-us-strikes-violate-ceasefire2",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T21:34:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israel pounds Lebanon with more than 120 strikes, expands ground operations",
+      "summary": "Israel pounded Lebanon with more than 120 air strikes on Tuesday in one of the heaviest days of bombing in weeks, Lebanese security sources said, as Israeli Prime ‌Minister Benjamin Netanyahu said his military was deepening its operations in the country. The …",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/israel-pounds-lebanon-with-strikes-expands-ground-operations-past-security-zone",
+      "bloc": "western",
+      "date": "2026-05-26",
+      "datetime": "2026-05-26T21:34:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump still thinks he’s winning in Iran",
       "summary": "There’s an old line, sometimes attributed to President Dwight D. Eisenhower, that the best way to solve a difficult problem is to make it bigger. That might be the most generous interpretation of how the Trump administration is approaching its ongoing peace t…",
@@ -47,84 +125,6 @@
       "bloc": "western",
       "date": "2026-05-26",
       "datetime": "2026-05-26T17:33:55Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran slams U.S. strikes as sign of ‘bad faith and unreliability’",
-      "summary": "Tehran warned of \"all consequences\" after Monday's military strikes, while a tanker explosion in the Gulf of Oman signaled fresh risk.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/05/26/iran-us-strikes-ceasefire-hormuz-negotiations/",
-      "bloc": "western",
-      "date": "2026-05-26",
-      "datetime": "2026-05-26T14:53:02Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tuesday Update: Trump Posts Violent Image About his GOP Opponents, Doctors Question his Physical Health, Iran Strikes, ICE Sprays Senator",
-      "summary": "Tuesday Update: Trump Posts Violent Image About his GOP Opponents, Doctors Question his Physical Health, Iran Strikes, ICE Sprays Senatorsubstack.com",
-      "source": "Substack.com",
-      "url": "https://aaronparnas.substack.com/p/tuesday-update-trump-posts-violent",
-      "bloc": "western",
-      "date": "2026-05-26",
-      "datetime": "2026-05-26T14:07:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. Strikes Iranian Targets as Fragile Hormuz Talks Continue",
-      "summary": "The U.S. military carried out “self-defense strikes” on Monday in southern Iran against targets including boats attempting to lay mines and missile launch sites, the U.S. Central Command (CENTCOM) said. The strikes were designed “to protect our troops from th…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/US-Strikes-Iranian-Targets-as-Fragile-Hormuz-Talks-Continue.html",
-      "bloc": "western",
-      "date": "2026-05-26",
-      "datetime": "2026-05-26T14:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -396,31 +396,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Erdogan tells Trump that extending Iran ceasefire is positive, contested issues can be resolved",
-      "summary": "Erdogan's mediation efforts could stabilize regional tensions, influencing global markets by reducing geopolitical risk and energy price volatility.\nThe post Erdogan tells Trump that extending Iran ceasefire is positive, contested issues can be resolved appea…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/erdogan-trump-iran-ceasefire-extension/",
-      "bloc": "western",
-      "date": "2026-05-20",
-      "datetime": "2026-05-20T19:04:08Z",
-      "leaders": [
-        "Recep Tayyip Erdogan"
-      ],
-      "watch_terms": [
-        "Erdogan Turkey Iran"
-      ],
-      "dimensions": [
-        "survival",
-        "values",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Trump’s Iran Signals Send Oil Markets Into Chaos",
       "summary": "Oil prices whipsawed after reports of a possible U.S.-Iran framework deal briefly sent Brent plunging, only for fresh U.S. strikes on Iran to push crude back...",
       "source": "Yahoo Entertainment",
@@ -546,29 +521,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine Says It Attacked Russia’s Major Norsi Oil Refinery Again",
-      "summary": "Ukraine said it attacked a major oil refinery in central Russia for the second time this week, as Kyiv continues to target the country’s energy infrastructure.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/ukraine-says-it-attacked-russias-major-norsi-oil-refinery-again",
-      "bloc": "western",
-      "date": "2026-05-20",
-      "datetime": "2026-05-20T10:38:42Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     }

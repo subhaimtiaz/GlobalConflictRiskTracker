@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-28T20:30:02.821Z",
+  "ts": "2026-05-29T04:02:08.619Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 117,
-    "oilStress": 79,
-    "updatedAt": "2026-05-28T20:30:02.821Z"
+    "oilPrice": 103,
+    "oilStress": 57,
+    "updatedAt": "2026-05-29T04:02:08.619Z"
   },
   "items": [
+    {
+      "headline": "U.S. Military Conducts Another Strike Against Iran After Trump Says Iran Is 'Negotiating On Fumes'",
+      "summary": "U.S. forces have carried out new defensive strikes on an Iran military facility after downing Iranian attack drones.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-us-trump_n_6a17a868e4b0457678e86a16",
+      "bloc": "western",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T02:33:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump's Board of Peace fund 'has zero dollars in its World Bank fund'",
       "summary": "The US president first announced the board in January, soliciting $1bn 'lifetime membership' fees from world leaders, which included Israel , Qatar and Bahrain.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-05-27",
       "datetime": "2026-05-27T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Wednesday: Hili dialogue",
-      "summary": "Welcome to a Hump Day (“قۇمچاق كۈنى” inUyghur): Wednesday, May 27, 2026 and National Cellophane Tape Day, celebrating a luxury that’s been around For only 96 years.  Here’s how it’s made: It’s also National Grape Popsicle Day (the best flavor), and National S…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/05/27/wednesday-hili-dialogue-583/",
-      "bloc": "western",
-      "date": "2026-05-27",
-      "datetime": "2026-05-27T11:45:10Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -295,31 +295,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Gauging the Xi-Trump summit and its geopolitical implications",
-      "summary": "After summit meetings of the kind we just had with Trump and Xi Jinping, sometimes there is a joint communique and signing ceremony outlining what the two sides agreed upon. That did not happen, leaving observers scratching their heads as to what the point of…",
-      "source": "Freethoughtblogs.com",
-      "url": "https://freethoughtblogs.com/singham/2026/05/21/gauging-the-xi-trump-summit-and-its-geopolitical-implications/",
-      "bloc": "western",
-      "date": "2026-05-21",
-      "datetime": "2026-05-21T16:22:19Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

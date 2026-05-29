@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-29T15:50:07.260Z",
+  "ts": "2026-05-29T20:32:28.530Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 57,
-    "updatedAt": "2026-05-29T15:50:07.260Z"
+    "updatedAt": "2026-05-29T20:32:28.530Z"
   },
   "items": [
+    {
+      "headline": "Friday essay: How to Sell a Genocide exposes the double standards of reporting on Gaza",
+      "summary": "Almost all major human rights organisations agree the destruction of Gaza meets the legal definition of genocide. Yet liberal news outlets still do not use the word.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/friday-essay-how-to-sell-a-genocide-exposes-the-double-standards-of-reporting-on-gaza-281223",
+      "bloc": "western",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T20:10:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran urges 'unconditional' release of all its frozen assets; US defies",
       "summary": "A senior Iranian security official urges the United States to \"unconditionally\" release all the country's frozen assets, describing the demand as the \"legal right\" of the Iranian people.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-05-28",
       "datetime": "2026-05-28T11:52:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran and US Trade Air Strikes After Trump Dismisses Report of Hormuz Deal",
-      "summary": "Iran’s Revolutionary Guard targeted a U.S. airbase on Thursday after the U.S. military carried out what a Washington official said were strikes on an Iranian drone operation near the Strait of Hormuz, hours after President Donald Trump rejected a report …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/05/28/871579.htm",
-      "bloc": "western",
-      "date": "2026-05-28",
-      "datetime": "2026-05-28T08:49:31Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

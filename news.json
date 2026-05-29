@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-29T04:02:08.619Z",
+  "ts": "2026-05-29T10:01:16.348Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 57,
-    "updatedAt": "2026-05-29T04:02:08.619Z"
+    "updatedAt": "2026-05-29T10:01:16.348Z"
   },
   "items": [
+    {
+      "headline": "Iran and US Trade Air Strikes After Trump Dismisses Report of Hormuz Deal",
+      "summary": "Iran’s Revolutionary Guard targeted a U.S. airbase on Thursday after the U.S. military carried out what a Washington official said were strikes on an Iranian drone operation near the Strait of Hormuz, hours after President Donald Trump rejected a report …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/05/28/871579.htm",
+      "bloc": "western",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T08:49:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US strikes Iran, drawing retaliatory attack on American base",
+      "summary": "The United States struck southern Iran on Thursday, drawing retaliation from Tehran against a U.S. military base, in the most serious clashes since an April ceasefire began.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-strikes-iran-drawing-retaliatory-attack-on-american-base-222614",
+      "bloc": "western",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T06:06:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US military conducts another strike against Iran after Trump says Iran 'negotiating on fumes'",
+      "summary": "US Central Command forces shot down four Iranian one-way attack drones and also an Iranian ground control station in Bandar Abbas that was about to launch a fifth drone, sources said.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/us-military-conducts-another-strike-against-iran-after-trump-says-iran-negotiating-on-fumes/article71031999.ece",
+      "bloc": "western",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T05:27:37Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "U.S. Military Conducts Another Strike Against Iran After Trump Says Iran Is 'Negotiating On Fumes'",
       "summary": "U.S. forces have carried out new defensive strikes on an Iran military facility after downing Iranian attack drones.",
@@ -40,106 +118,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump's Board of Peace fund 'has zero dollars in its World Bank fund'",
-      "summary": "The US president first announced the board in January, soliciting $1bn 'lifetime membership' fees from world leaders, which included Israel , Qatar and Bahrain.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15851891/Trumps-Board-Peace-fund-membership-fees.html",
+      "headline": "Iran War: US Attacks Iran for Second Day as Trump Rejects Leaked Iranian Outline of Terms, Threatens to Bomb Oman; US Draining of Strategic Petroleum Reserve to Contain Energy Prices Means Energy Cliff Arrives Sooner",
+      "summary": "Today's Iran war update: The US and Iran trade blows as Trump forcefully rejects fundamental Iran demands and Israel pounds Lebanon.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-us-attacks-iran-for-second-day-as-trump-rejects-leaked-iranian-outline-of-terms-threatens-to-bomb-oman-us-draining-of-strategic-petroleum-reserve-to-contain-energy-prices-means-energy-clif.html",
       "bloc": "western",
-      "date": "2026-05-27",
-      "datetime": "2026-05-27T16:35:25Z",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T09:15:26Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Hamas’s New Gaza Chief Eliminated in Israeli Strike",
-      "summary": "IDF: Mohammed Odeh was \"among the last remaining senior Hamas military commanders involved in the planning and execution of the October 7th massacre.\"\nThe post Hamas’s New Gaza Chief Eliminated in Israeli Strike first appeared on Le·gal In·sur·rec·tion.",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/05/hamass-new-gaza-chief-eliminated-in-israeli-strike/",
+      "headline": "News24 | US strikes Iran drone operation, Trump vows free passage in Strait of Hormuz",
+      "summary": "The US military carried out new strikes targeting an Iranian drone operation that posed a threat to US forces and commercial shipping in the Strait of Hormuz, a US official said, hours after US President Donald Trump dismissed an Iranian ‌report of a deal to …",
+      "source": "News24",
+      "url": "https://www.news24.com/world/us-strikes-iran-drone-operation-trump-vows-free-passage-in-strait-of-hormuz-20260528-0286",
       "bloc": "western",
-      "date": "2026-05-27",
-      "datetime": "2026-05-27T12:00:44Z",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T05:00:06Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "'Unlike anything seen before': IRGC Aerospace Force warns enemies of new level of retaliation",
-      "summary": "Any renewed military aggression against Iran would trigger a different and more powerful response \"unlike anything they have seen before,\" a senior military official has warned.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260527-presstv04.htm",
-      "bloc": "western",
-      "date": "2026-05-27",
-      "datetime": "2026-05-27T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran restores South Pars production to pre-war levels: Report",
-      "summary": "Iran has restored production at the South Pars industrial hub to its pre-war capacity after a long, intensive repair operation, according to a report.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260527-presstv03.htm",
-      "bloc": "western",
-      "date": "2026-05-27",
-      "datetime": "2026-05-27T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,58 +229,6 @@
       "bloc": "western",
       "date": "2026-05-26",
       "datetime": "2026-05-26T17:29:59Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tehran labels US attacks ‘gross violation’, says it is prepared to respond",
-      "summary": "The US says it struck boats and missile sites in Iran, shortly after both sides had indicated progress in peace talks.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/5/26/tehran-labels-us-attacks-gross-violation-says-it-is-prepared-to-respond",
-      "bloc": "regional",
-      "date": "2026-05-26",
-      "datetime": "2026-05-26T15:13:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Explosion On Tanker Off Oman Coast, British Maritime Monitor Says",
-      "summary": "A tanker captain has reported an explosion on his ship in waters of the coast of Oman, according to United Kingdom Maritime Trade Operations (UKMTO).",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260526-rferl04.htm",
-      "bloc": "western",
-      "date": "2026-05-26",
-      "datetime": "2026-05-26T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

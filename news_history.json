@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-29T04:01:03.420Z",
+  "updated": "2026-05-29T10:00:11.149Z",
   "retention_days": 30,
   "items": [
     {
@@ -18699,7 +18699,147 @@
       "_from": "newsapi",
       "first_seen": "2026-05-29T04:01:03.420Z",
       "run_id": "2026-05-29T04:01"
+    },
+    {
+      "headline": "Iran and US Trade Air Strikes After Trump Dismisses Report of Hormuz Deal",
+      "summary": "Iran’s Revolutionary Guard targeted a U.S. airbase on Thursday after the U.S. military carried out what a Washington official said were strikes on an Iranian drone operation near the Strait of Hormuz, hours after President Donald Trump rejected a report …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/05/28/871579.htm",
+      "bloc": "western",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T08:49:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-29T10:00:11.149Z",
+      "run_id": "2026-05-29T10:00"
+    },
+    {
+      "headline": "US strikes Iran, drawing retaliatory attack on American base",
+      "summary": "The United States struck southern Iran on Thursday, drawing retaliation from Tehran against a U.S. military base, in the most serious clashes since an April ceasefire began.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-strikes-iran-drawing-retaliatory-attack-on-american-base-222614",
+      "bloc": "western",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T06:06:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-29T10:00:11.149Z",
+      "run_id": "2026-05-29T10:00"
+    },
+    {
+      "headline": "US military conducts another strike against Iran after Trump says Iran 'negotiating on fumes'",
+      "summary": "US Central Command forces shot down four Iranian one-way attack drones and also an Iranian ground control station in Bandar Abbas that was about to launch a fifth drone, sources said.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/us-military-conducts-another-strike-against-iran-after-trump-says-iran-negotiating-on-fumes/article71031999.ece",
+      "bloc": "western",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T05:27:37Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-29T10:00:11.149Z",
+      "run_id": "2026-05-29T10:00"
+    },
+    {
+      "headline": "Iran War: US Attacks Iran for Second Day as Trump Rejects Leaked Iranian Outline of Terms, Threatens to Bomb Oman; US Draining of Strategic Petroleum Reserve to Contain Energy Prices Means Energy Cliff Arrives Sooner",
+      "summary": "Today's Iran war update: The US and Iran trade blows as Trump forcefully rejects fundamental Iran demands and Israel pounds Lebanon.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-us-attacks-iran-for-second-day-as-trump-rejects-leaked-iranian-outline-of-terms-threatens-to-bomb-oman-us-draining-of-strategic-petroleum-reserve-to-contain-energy-prices-means-energy-clif.html",
+      "bloc": "western",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T09:15:26Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-29T10:00:11.149Z",
+      "run_id": "2026-05-29T10:00"
+    },
+    {
+      "headline": "News24 | US strikes Iran drone operation, Trump vows free passage in Strait of Hormuz",
+      "summary": "The US military carried out new strikes targeting an Iranian drone operation that posed a threat to US forces and commercial shipping in the Strait of Hormuz, a US official said, hours after US President Donald Trump dismissed an Iranian ‌report of a deal to …",
+      "source": "News24",
+      "url": "https://www.news24.com/world/us-strikes-iran-drone-operation-trump-vows-free-passage-in-strait-of-hormuz-20260528-0286",
+      "bloc": "western",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T05:00:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-29T10:00:11.149Z",
+      "run_id": "2026-05-29T10:00"
     }
   ],
-  "total_items_ever": 1626
+  "total_items_ever": 1631
 }

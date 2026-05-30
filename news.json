@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-30T13:48:48.749Z",
+  "ts": "2026-05-30T19:23:59.059Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 57,
-    "updatedAt": "2026-05-30T13:48:48.749Z"
+    "updatedAt": "2026-05-30T19:23:59.059Z"
   },
   "items": [
+    {
+      "headline": "Show HN: Simple news aggregator with source bias meters",
+      "summary": "Article URL: https://unbiasthenews.com\nComments URL: https://news.ycombinator.com/item?id=48327194\nPoints: 2\n# Comments: 0",
+      "source": "Unbiasthenews.com",
+      "url": "https://unbiasthenews.com",
+      "bloc": "western",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T18:21:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Just what are Israel’s long-term plans for Gaza?",
+      "summary": "Despite an apparent ceasefire, Israel's leaders continue to hint at annexation and ethnic cleansing.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/5/29/just-what-are-israels-long-term-plans-for",
+      "bloc": "regional",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T15:01:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Leader's advisor: Iran remains formidable obstacle to US-Israeli malicious plans in West Asia",
       "summary": "Former chief commander of the Islamic Revolution Guards Corps (IRGC), Mohsen Rezaei, has emphasized that the Islamic Republic of Iran stands as a formidable obstacle to US and Israeli objectives, particularly their attempts to redraw the map of West Asia.",
@@ -92,54 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Friday: Hili dialogue",
-      "summary": "The week has flown by fast, like a migrating mallard, and June is nearly on us; today is Friday, May 29, 2026, and International Everest Day, celebrating the first confirmed ascent of the world’s highest peak (8,848.86 meters or 29,031.7 ft) on this day in 19…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/05/29/friday-hili-dialogue-579/",
+      "headline": "Trump says US lifting naval blockade as ships may start heading home",
+      "summary": "The lifting of the blockade may stabilize global oil markets, but Iran's Bitcoin use could prompt regulatory scrutiny on cryptocurrencies.\nThe post Trump says US lifting naval blockade as ships may start heading home appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-lifting-naval-blockade-iran/",
       "bloc": "western",
       "date": "2026-05-29",
-      "datetime": "2026-05-29T11:45:04Z",
+      "datetime": "2026-05-29T15:31:44Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. And Iranian Negotiators Reach Tentative Deal To Extend Ceasefire And Start New Nuclear Talks",
-      "summary": "U.S. and Iranian negotiators have reached a tentative agreement to extend the ceasefire by 60 days and start a new round of talks on Iran’s nuclear program.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-us-ceasefire-nuclear-talks_n_6a1979b5e4b0dade602f129a",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T11:41:11Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -222,50 +248,23 @@
       "_from": "newsapi"
     },
     {
-      "headline": "News24 | Why has Trump threatened to bomb Oman, amid Iran war escalation?",
-      "summary": "United States President Donald Trump has threatened longtime ally Oman with military force if it gets involved in the dispute over shipping access to the Strait of Hormuz, as Washington’s war on Iran once again risks engulfing the Middle East.",
-      "source": "News24",
-      "url": "https://www.news24.com/world/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation-20260528-0862",
+      "headline": "With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war",
+      "summary": "Russia's warning to carry out \"consistent and systematic\" missile strikes on Kyiv, accompanied by a call for evacuating foreign embassies from the capital, signals Vladimir Putin's intention to expand Russia's barrage despite the heavy costs and potential int…",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/world/with-a-stalemate-in-ukraine-and-discontent-at-home-putin-seems-ready-to-escalate-his-war",
       "bloc": "western",
-      "date": "2026-05-28",
-      "datetime": "2026-05-28T14:26:14Z",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T17:14:15Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Vladimir Putin"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Putin Ukraine ceasefire"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Merchant Ships Desert Strait of Hormuz Amid Renewed US Strikes",
-      "summary": "Traffic through the Strait of Hormuz appeared all but deserted on Thursday as commercial operators remain wary of renewed military escalation.No commercial vessels were spotted transiting the waterway Thursday morning as tensions spiked following a second rou…",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/05/28/871619.htm",
-      "bloc": "western",
-      "date": "2026-05-28",
-      "datetime": "2026-05-28T14:06:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
+        "impulsivity",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -299,52 +298,50 @@
       "_from": "newsapi"
     },
     {
-      "headline": "With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war",
-      "summary": "President Vladimir Putin is facing a battlefield stalemate in Ukraine and growing war fatigue among Russians and appears ready to change the narrative around the conflict",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/stalemate-ukraine-discontent-home-putin-ready-escalate-war-133409450",
+      "headline": "No Enemies, Stronger Army: Kazakhstan’s Strategic Bet",
+      "summary": "Kazakhstan’s military modernization efforts reflect an adaptive response to growing great power competition.",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/05/no-enemies-stronger-army-kazakhstans-strategic-bet/",
       "bloc": "western",
       "date": "2026-05-29",
-      "datetime": "2026-05-29T06:16:58Z",
+      "datetime": "2026-05-29T14:06:00Z",
       "leaders": [
-        "Vladimir Putin"
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Putin Ukraine ceasefire"
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",
-        "impulsivity",
-        "narcissism"
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "As Ukraine gains advantage, Russia strikes with nuclear-capable missile",
-      "summary": "Russia escalates attacks on Kyiv, using a hypersonic missile in one of its largest assaults on the Ukrainian capital since the start of the four-year war, and warns foreigners to leave the city ahead of further strikes.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-05-26/russia-responds-to-ukraine-advantage-with-hypersonic-missile/106683822",
-      "bloc": "western",
-      "date": "2026-05-26",
-      "datetime": "2026-05-26T05:07:42Z",
+      "headline": "QUAD to build Fiji port: A new US-China flashpoint?",
+      "summary": "Quad kicks back to life in Asia Pacific, looking to develop ports in Fiji, in a counter to China's rise.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/5/29/quad-to-build-fiji-port-a-new-us-china-flashpoint",
+      "bloc": "regional",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T13:56:29Z",
       "leaders": [
-        "Vladimir Putin"
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Putin Ukraine ceasefire"
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",
-        "impulsivity",
-        "narcissism"
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 4,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

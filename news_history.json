@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-30T13:47:43.583Z",
+  "updated": "2026-05-30T19:22:53.866Z",
   "retention_days": 30,
   "items": [
     {
@@ -18758,7 +18758,143 @@
       "_from": "newsapi",
       "first_seen": "2026-05-30T13:47:43.583Z",
       "run_id": "2026-05-30T13:47"
+    },
+    {
+      "headline": "Show HN: Simple news aggregator with source bias meters",
+      "summary": "Article URL: https://unbiasthenews.com\nComments URL: https://news.ycombinator.com/item?id=48327194\nPoints: 2\n# Comments: 0",
+      "source": "Unbiasthenews.com",
+      "url": "https://unbiasthenews.com",
+      "bloc": "western",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T18:21:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-30T19:22:53.866Z",
+      "run_id": "2026-05-30T19:22"
+    },
+    {
+      "headline": "Just what are Israel’s long-term plans for Gaza?",
+      "summary": "Despite an apparent ceasefire, Israel's leaders continue to hint at annexation and ethnic cleansing.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/5/29/just-what-are-israels-long-term-plans-for",
+      "bloc": "regional",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T15:01:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-30T19:22:53.866Z",
+      "run_id": "2026-05-30T19:22"
+    },
+    {
+      "headline": "Trump says US lifting naval blockade as ships may start heading home",
+      "summary": "The lifting of the blockade may stabilize global oil markets, but Iran's Bitcoin use could prompt regulatory scrutiny on cryptocurrencies.\nThe post Trump says US lifting naval blockade as ships may start heading home appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-lifting-naval-blockade-iran/",
+      "bloc": "western",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T15:31:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-30T19:22:53.866Z",
+      "run_id": "2026-05-30T19:22"
+    },
+    {
+      "headline": "No Enemies, Stronger Army: Kazakhstan’s Strategic Bet",
+      "summary": "Kazakhstan’s military modernization efforts reflect an adaptive response to growing great power competition.",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/05/no-enemies-stronger-army-kazakhstans-strategic-bet/",
+      "bloc": "western",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T14:06:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-30T19:22:53.866Z",
+      "run_id": "2026-05-30T19:22"
+    },
+    {
+      "headline": "QUAD to build Fiji port: A new US-China flashpoint?",
+      "summary": "Quad kicks back to life in Asia Pacific, looking to develop ports in Fiji, in a counter to China's rise.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/5/29/quad-to-build-fiji-port-a-new-us-china-flashpoint",
+      "bloc": "regional",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T13:56:29Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-30T19:22:53.866Z",
+      "run_id": "2026-05-30T19:22"
     }
   ],
-  "total_items_ever": 1654
+  "total_items_ever": 1659
 }

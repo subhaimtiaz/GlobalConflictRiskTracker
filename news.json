@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-30T03:48:40.838Z",
+  "ts": "2026-05-30T08:33:44.808Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 57,
-    "updatedAt": "2026-05-30T03:48:40.838Z"
+    "updatedAt": "2026-05-30T08:33:44.808Z"
   },
   "items": [
+    {
+      "headline": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
+      "summary": "Pakistan finds itself in a diplomatic sweet spot, wooed by Trump and China. Indian missteps are to blame, say analysts",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired",
+      "bloc": "regional",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T07:22:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ceasefire Violations: Iranian Missiles Target Kuwait as American Drones Strike Near Bandar Abbas",
+      "summary": "Iran launched ballistic missiles and drones toward Kuwait late Wednesday night, an attack that U.S. Central Command characterized as an “egregious ceasefire violation.” According to CENTCOM, Kuwaiti forces successfully intercepted the ballistic missiles, whil…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-29-ceasefire-violations-iran-targets-kuwait-after-us-strike.html",
+      "bloc": "western",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Groundhog Day: Iran War Edition",
       "summary": "It’s an open question if negotiators can break the repetitive cycle engulfing the war.",
@@ -92,53 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Friday essay: How to Sell a Genocide exposes the double standards of reporting on Gaza",
-      "summary": "Almost all major human rights organisations agree the destruction of Gaza meets the legal definition of genocide. Yet liberal news outlets still do not use the word.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/friday-essay-how-to-sell-a-genocide-exposes-the-double-standards-of-reporting-on-gaza-281223",
+      "headline": "Iran, US Tentatively Agree to Renew Truce for 60 Days",
+      "summary": "The US and Iran have reached a tentative deal to extend a ceasefire by 60 days and launch further talks on Tehran's nuclear program, a person with knowledge of the matter said.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/iran_us_tentatively_agree_to_renew_truce_for_60_days-29-may-2026-183804-article/",
       "bloc": "western",
-      "date": "2026-05-28",
-      "datetime": "2026-05-28T20:10:17Z",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T07:10:56Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran urges 'unconditional' release of all its frozen assets; US defies",
-      "summary": "A senior Iranian security official urges the United States to \"unconditionally\" release all the country's frozen assets, describing the demand as the \"legal right\" of the Iranian people.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260528-presstv12.htm",
-      "bloc": "western",
-      "date": "2026-05-28",
-      "datetime": "2026-05-28T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -222,24 +248,48 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Ships Desert Hormuz amid Fresh US Strikes",
-      "summary": "Tensions spiked following a second round of U.S. strikes against Iranian military targets this week.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/ships_desert_hormuz_amid_fresh_us_strikes-28-may-2026-183802-article/",
+      "headline": "With stalemate in Ukraine, discontent at home, Putin seems ready to escalate his war",
+      "summary": "Russian Foreign Minister Sergey Lavrov calls US Secretary of State Marco Rubio to warn him of the coming strikes and push for the evacuation of its diplomats",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/with-stalemate-in-ukraine-discontent-at-home-putin-seems-ready-to-escalate-his-war/article71036202.ece",
       "bloc": "western",
-      "date": "2026-05-28",
-      "datetime": "2026-05-28T13:46:32Z",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T08:30:11Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Vladimir Putin"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Putin Ukraine ceasefire"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war",
+      "summary": "President Vladimir Putin is facing a battlefield stalemate in Ukraine and growing war fatigue among Russians and appears ready to change the narrative around the conflict",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/stalemate-ukraine-discontent-home-putin-ready-escalate-war-133409450",
+      "bloc": "western",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T06:16:58Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",

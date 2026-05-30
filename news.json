@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-29T20:32:28.530Z",
+  "ts": "2026-05-30T03:48:40.838Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 57,
-    "updatedAt": "2026-05-29T20:32:28.530Z"
+    "updatedAt": "2026-05-30T03:48:40.838Z"
   },
   "items": [
+    {
+      "headline": "Groundhog Day: Iran War Edition",
+      "summary": "It’s an open question if negotiators can break the repetitive cycle engulfing the war.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/05/28/iran-war-trump-mou-deal-lebanon-israel/",
+      "bloc": "western",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T22:02:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran, U.S. reach deal to extend ceasefire, pending Trump's approval",
+      "summary": "The United States and Iran reached an agreement on Thursday to extend their ceasefire and lift restrictions on shipping through the Strait of Hormuz, sources told Reuters, though U.S. President Donald Trump has ‌yet to approve it and Iranian state media said …",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/iran-us-reach-deal-to-extend-ceasefire-pending-trump%27s-approval",
+      "bloc": "western",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T21:34:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump reveals the line Iran has to cross for US to restart offensive military campaign",
+      "summary": "President Donald Trump reveals what Iranian move could trigger renewed U.S. military action during an interview on \"My View with Lara Trump.\"",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/trump-reveals-line-iran-cross-us-restart-offensive-military-campaign",
+      "bloc": "western",
+      "date": "2026-05-28",
+      "datetime": "2026-05-28T21:00:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Friday essay: How to Sell a Genocide exposes the double standards of reporting on Gaza",
       "summary": "Almost all major human rights organisations agree the destruction of Gaza meets the legal definition of genocide. Yet liberal news outlets still do not use the word.",
@@ -62,84 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "May 28: Leader warns of enemy plots to sow discord as IRGC responds to fresh US aggression",
-      "summary": "Leader of the Islamic Revolution, Ayatollah Seyyed Mojtaba Khamenei, said on Thursday that the United States and Israel are seeking to sow discord within Iran after failing to achieve their objectives through military aggression, stressing the importance of s…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260528-presstv06.htm",
-      "bloc": "western",
-      "date": "2026-05-28",
-      "datetime": "2026-05-28T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "May 27: Iran warns renewed aggression will be met with a different, more powerful response",
-      "summary": "On Wednesday,Islamic Revolution Guards Corps (IRGC) officials said any renewed military aggression would be met with a different and more powerful response.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260528-presstv03.htm",
-      "bloc": "western",
-      "date": "2026-05-28",
-      "datetime": "2026-05-28T11:52:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Confirms It Launched New Strikes In Iran, Downs Drones Near Strait of Hormuz",
-      "summary": "The US military carried out new strikes on an Iranian military site and intercepted multiple drones near the Strait of Hormuz, US officials said on May 27, in the latest exchange of military action despite signs of progress in diplomatic efforts to reach a de…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260528-rferl02.htm",
-      "bloc": "western",
-      "date": "2026-05-28",
-      "datetime": "2026-05-28T11:52:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -419,32 +419,6 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "EU economy chief rules out easing sanctions on Russian oil and gas amid energy crisis",
-      "summary": "The EU's firm stance on Russian sanctions may sustain high energy costs, impacting inflation, monetary policy, and crypto market dynamics.\nThe post EU economy chief rules out easing sanctions on Russian oil and gas amid energy crisis appeared first on Crypto …",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/eu-sanctions-russian-oil-gas-energy-crisis/",
-      "bloc": "western",
-      "date": "2026-05-22",
-      "datetime": "2026-05-22T13:59:24Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

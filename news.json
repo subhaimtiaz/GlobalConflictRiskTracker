@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-30T08:33:44.808Z",
+  "ts": "2026-05-30T13:48:48.749Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 57,
-    "updatedAt": "2026-05-30T08:33:44.808Z"
+    "updatedAt": "2026-05-30T13:48:48.749Z"
   },
   "items": [
     {
-      "headline": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
-      "summary": "Pakistan finds itself in a diplomatic sweet spot, wooed by Trump and China. Indian missteps are to blame, say analysts",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired",
-      "bloc": "regional",
+      "headline": "Leader's advisor: Iran remains formidable obstacle to US-Israeli malicious plans in West Asia",
+      "summary": "Former chief commander of the Islamic Revolution Guards Corps (IRGC), Mohsen Rezaei, has emphasized that the Islamic Republic of Iran stands as a formidable obstacle to US and Israeli objectives, particularly their attempts to redraw the map of West Asia.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260529-presstv04.htm",
+      "bloc": "western",
       "date": "2026-05-29",
-      "datetime": "2026-05-29T07:22:06Z",
+      "datetime": "2026-05-29T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Ceasefire Violations: Iranian Missiles Target Kuwait as American Drones Strike Near Bandar Abbas",
-      "summary": "Iran launched ballistic missiles and drones toward Kuwait late Wednesday night, an attack that U.S. Central Command characterized as an “egregious ceasefire violation.” According to CENTCOM, Kuwaiti forces successfully intercepted the ballistic missiles, whil…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-29-ceasefire-violations-iran-targets-kuwait-after-us-strike.html",
+      "headline": "Hezbollah lawmaker says 'no choice but resistance' as Israel expands aggression in Lebanon",
+      "summary": "A senior Lebanese parliamentarian says Hezbollah will continue its military operations against Israeli forces, rejecting a path of \"humiliation\" as Israel pressed deeper into southern Lebanon with airstrikes and ground invasions that have killed thousands of …",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260529-presstv03.htm",
       "bloc": "western",
       "date": "2026-05-29",
-      "datetime": "2026-05-29T06:00:00Z",
+      "datetime": "2026-05-29T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -61,85 +61,111 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "May 29: Iran says exchange of messages continues with US, rejects Trump's breakthrough claim",
+      "summary": "Iranian officials on Friday said the exchange of messages with Washington continues to end the war of aggression, rejecting the US president's premature claims of a breakthrough.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260529-presstv01.htm",
+      "bloc": "western",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Friday: Hili dialogue",
+      "summary": "The week has flown by fast, like a migrating mallard, and June is nearly on us; today is Friday, May 29, 2026, and International Everest Day, celebrating the first confirmed ascent of the world’s highest peak (8,848.86 meters or 29,031.7 ft) on this day in 19…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/05/29/friday-hili-dialogue-579/",
+      "bloc": "western",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T11:45:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. And Iranian Negotiators Reach Tentative Deal To Extend Ceasefire And Start New Nuclear Talks",
+      "summary": "U.S. and Iranian negotiators have reached a tentative agreement to extend the ceasefire by 60 days and start a new round of talks on Iran’s nuclear program.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-us-ceasefire-nuclear-talks_n_6a1979b5e4b0dade602f129a",
+      "bloc": "western",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T11:41:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US and Iran exchange strikes amid mixed info on peace deal",
+      "summary": "Citing two US officials and regional source involved in the mediation efforts, US media outlet Axios claimed on Thursday that US and Iranian negotiators have reached an agreement on a 60-day memorandum of understanding to extend the ceasefire, but US Presiden…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260529-globaltimes01.htm",
+      "bloc": "western",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T11:53:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Groundhog Day: Iran War Edition",
-      "summary": "It’s an open question if negotiators can break the repetitive cycle engulfing the war.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/05/28/iran-war-trump-mou-deal-lebanon-israel/",
-      "bloc": "western",
-      "date": "2026-05-28",
-      "datetime": "2026-05-28T22:02:31Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran, U.S. reach deal to extend ceasefire, pending Trump's approval",
-      "summary": "The United States and Iran reached an agreement on Thursday to extend their ceasefire and lift restrictions on shipping through the Strait of Hormuz, sources told Reuters, though U.S. President Donald Trump has ‌yet to approve it and Iranian state media said …",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/iran-us-reach-deal-to-extend-ceasefire-pending-trump%27s-approval",
-      "bloc": "western",
-      "date": "2026-05-28",
-      "datetime": "2026-05-28T21:34:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump reveals the line Iran has to cross for US to restart offensive military campaign",
-      "summary": "President Donald Trump reveals what Iranian move could trigger renewed U.S. military action during an interview on \"My View with Lara Trump.\"",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/media/trump-reveals-line-iran-cross-us-restart-offensive-military-campaign",
-      "bloc": "western",
-      "date": "2026-05-28",
-      "datetime": "2026-05-28T21:00:12Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

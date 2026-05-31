@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-30T19:23:59.059Z",
+  "ts": "2026-05-31T04:13:56.998Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 57,
-    "updatedAt": "2026-05-30T19:23:59.059Z"
+    "updatedAt": "2026-05-31T04:13:56.998Z"
   },
   "items": [
+    {
+      "headline": "Inside Jared Kushner's billion-dollar business ties to the Middle East and his central role in ending the US-Iran war",
+      "summary": "Jared Kushner's plan for his father-in-law's second term was to settle into a regular life in sun-splashed Miami.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15857023/Inside-Jared-Kushner-billion-dollar-business-Middle-East-US-Iran-war.html",
+      "bloc": "western",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T22:53:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israeli push to take more of Gaza raises alarm as Hamas warns against escalation",
+      "summary": "Hamas said on Friday that Israeli Prime Minister Benjamin Netanyahu's declaration that his country would expand its area of control in Gaza was a dangerous escalation, as European states and residents of the Palestinian ‌territory also voiced alarm at the pla…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/israeli-push-to-take-more-of-gaza-raises-alarm-as-hamas-warns-against-escalation",
+      "bloc": "western",
+      "date": "2026-05-29",
+      "datetime": "2026-05-29T21:25:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Show HN: Simple news aggregator with source bias meters",
       "summary": "Article URL: https://unbiasthenews.com\nComments URL: https://news.ycombinator.com/item?id=48327194\nPoints: 2\n# Comments: 0",
@@ -21,110 +73,6 @@
       "bloc": "western",
       "date": "2026-05-29",
       "datetime": "2026-05-29T18:21:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Just what are Israel’s long-term plans for Gaza?",
-      "summary": "Despite an apparent ceasefire, Israel's leaders continue to hint at annexation and ethnic cleansing.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/5/29/just-what-are-israels-long-term-plans-for",
-      "bloc": "regional",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T15:01:31Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Leader's advisor: Iran remains formidable obstacle to US-Israeli malicious plans in West Asia",
-      "summary": "Former chief commander of the Islamic Revolution Guards Corps (IRGC), Mohsen Rezaei, has emphasized that the Islamic Republic of Iran stands as a formidable obstacle to US and Israeli objectives, particularly their attempts to redraw the map of West Asia.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260529-presstv04.htm",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hezbollah lawmaker says 'no choice but resistance' as Israel expands aggression in Lebanon",
-      "summary": "A senior Lebanese parliamentarian says Hezbollah will continue its military operations against Israeli forces, rejecting a path of \"humiliation\" as Israel pressed deeper into southern Lebanon with airstrikes and ground invasions that have killed thousands of …",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260529-presstv03.htm",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "May 29: Iran says exchange of messages continues with US, rejects Trump's breakthrough claim",
-      "summary": "Iranian officials on Friday said the exchange of messages with Washington continues to end the war of aggression, rejecting the US president's premature claims of a breakthrough.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260529-presstv01.htm",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

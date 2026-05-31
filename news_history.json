@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-05-31T04:12:51.811Z",
+  "updated": "2026-05-31T08:51:43.331Z",
   "retention_days": 30,
   "items": [
     {
@@ -18231,7 +18231,146 @@
       "_from": "newsapi",
       "first_seen": "2026-05-31T04:12:51.811Z",
       "run_id": "2026-05-31T04:12"
+    },
+    {
+      "headline": "Israeli forces push further into Lebanon as delegations meet in US",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu said on Friday his country's forces had pushed deeper into Lebanon, even as military delegations from both countries held landmark security talks in Washington.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/israel-says-forces-pushing-further-into-lebanon-222680",
+      "bloc": "western",
+      "date": "2026-05-30",
+      "datetime": "2026-05-30T06:31:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-31T08:51:43.331Z",
+      "run_id": "2026-05-31T08:51"
+    },
+    {
+      "headline": "US warns capable of resuming war with Iran as deal remains elusive",
+      "summary": "The United States warned on May 30 it was \"more than capable\" of resuming war with Iran after President Donald Trump said any peace deal must adhere to his red lines, including Tehran never being able to develop nuclear weapons.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-warns-capable-of-resuming-war-with-iran-as-deal-remains-elusive-222678",
+      "bloc": "western",
+      "date": "2026-05-30",
+      "datetime": "2026-05-30T06:24:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-31T08:51:43.331Z",
+      "run_id": "2026-05-31T08:51"
+    },
+    {
+      "headline": "News24 | US warns capable of resuming war with Iran as deal remains elusive",
+      "summary": "The United States warned on Saturday it was “more than capable” of resuming war with Iran after President Donald Trump said any peace deal must adhere to his red lines, including Tehran never being able to develop nuclear weapons.",
+      "source": "News24",
+      "url": "https://www.news24.com/world/us-warns-capable-of-resuming-war-with-iran-as-deal-remains-elusive-20260530-0367",
+      "bloc": "western",
+      "date": "2026-05-30",
+      "datetime": "2026-05-30T06:08:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-31T08:51:43.331Z",
+      "run_id": "2026-05-31T08:51"
+    },
+    {
+      "headline": "Trump: No Sanctions Relief For Iran as Part of Deal",
+      "summary": "U.S. President Donald Trump said on Wednesday, May 27, that easing sanctions on Iran is not part of current negotiations to end the war, reopen the Strait of Hormuz and limit Iran’s nuclear program. During a White House Cabinet meeting, Trump told reporters, …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-30-trump-no-sanctions-relief-for-iran.html",
+      "bloc": "western",
+      "date": "2026-05-30",
+      "datetime": "2026-05-30T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-31T08:51:43.331Z",
+      "run_id": "2026-05-31T08:51"
+    },
+    {
+      "headline": "Hormuz, Ukraine and Japan: Three stories that mattered this week",
+      "summary": "A potential Iran deal remained the story of the week, with conflicting signals from Washington keeping investors on edge. Developments in Ukraine and Japan highlighted long-term challenges.",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/online-views/iran-war-hormuz-blockade-russia-ukraine-war-japan-ageing-population-11780115848080.html",
+      "bloc": "western",
+      "date": "2026-05-30",
+      "datetime": "2026-05-30T05:58:47Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-05-31T08:51:43.331Z",
+      "run_id": "2026-05-31T08:51"
     }
   ],
-  "total_items_ever": 1661
+  "total_items_ever": 1666
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-31T04:13:56.998Z",
+  "ts": "2026-05-31T08:52:48.508Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 57,
-    "updatedAt": "2026-05-31T04:13:56.998Z"
+    "updatedAt": "2026-05-31T08:52:48.508Z"
   },
   "items": [
     {
-      "headline": "Inside Jared Kushner's billion-dollar business ties to the Middle East and his central role in ending the US-Iran war",
-      "summary": "Jared Kushner's plan for his father-in-law's second term was to settle into a regular life in sun-splashed Miami.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15857023/Inside-Jared-Kushner-billion-dollar-business-Middle-East-US-Iran-war.html",
+      "headline": "Israeli forces push further into Lebanon as delegations meet in US",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu said on Friday his country's forces had pushed deeper into Lebanon, even as military delegations from both countries held landmark security talks in Washington.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/israel-says-forces-pushing-further-into-lebanon-222680",
       "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T22:53:11Z",
+      "date": "2026-05-30",
+      "datetime": "2026-05-30T06:31:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israeli push to take more of Gaza raises alarm as Hamas warns against escalation",
-      "summary": "Hamas said on Friday that Israeli Prime Minister Benjamin Netanyahu's declaration that his country would expand its area of control in Gaza was a dangerous escalation, as European states and residents of the Palestinian ‌territory also voiced alarm at the pla…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/israeli-push-to-take-more-of-gaza-raises-alarm-as-hamas-warns-against-escalation",
+      "headline": "US warns capable of resuming war with Iran as deal remains elusive",
+      "summary": "The United States warned on May 30 it was \"more than capable\" of resuming war with Iran after President Donald Trump said any peace deal must adhere to his red lines, including Tehran never being able to develop nuclear weapons.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-warns-capable-of-resuming-war-with-iran-as-deal-remains-elusive-222678",
       "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T21:25:23Z",
+      "date": "2026-05-30",
+      "datetime": "2026-05-30T06:24:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "News24 | US warns capable of resuming war with Iran as deal remains elusive",
+      "summary": "The United States warned on Saturday it was “more than capable” of resuming war with Iran after President Donald Trump said any peace deal must adhere to his red lines, including Tehran never being able to develop nuclear weapons.",
+      "source": "News24",
+      "url": "https://www.news24.com/world/us-warns-capable-of-resuming-war-with-iran-as-deal-remains-elusive-20260530-0367",
+      "bloc": "western",
+      "date": "2026-05-30",
+      "datetime": "2026-05-30T06:08:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump: No Sanctions Relief For Iran as Part of Deal",
+      "summary": "U.S. President Donald Trump said on Wednesday, May 27, that easing sanctions on Iran is not part of current negotiations to end the war, reopen the Strait of Hormuz and limit Iran’s nuclear program. During a White House Cabinet meeting, Trump told reporters, …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-30-trump-no-sanctions-relief-for-iran.html",
+      "bloc": "western",
+      "date": "2026-05-30",
+      "datetime": "2026-05-30T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -75,18 +127,18 @@
       "datetime": "2026-05-29T18:21:24Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -192,6 +244,31 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Hormuz, Ukraine and Japan: Three stories that mattered this week",
+      "summary": "A potential Iran deal remained the story of the week, with conflicting signals from Washington keeping investors on edge. Developments in Ukraine and Japan highlighted long-term challenges.",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/online-views/iran-war-hormuz-blockade-russia-ukraine-war-japan-ageing-population-11780115848080.html",
+      "bloc": "western",
+      "date": "2026-05-30",
+      "datetime": "2026-05-30T05:58:47Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

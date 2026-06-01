@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-01T04:28:06.654Z",
+  "ts": "2026-06-01T11:44:18.283Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 93,
-    "oilStress": 42,
-    "updatedAt": "2026-06-01T04:28:06.654Z"
+    "oilPrice": 94,
+    "oilStress": 43,
+    "updatedAt": "2026-06-01T11:44:18.283Z"
   },
   "items": [
+    {
+      "headline": "Pakistan Rejects Trump’s Demand to Normalize Ties With Israel",
+      "summary": "Pakistan’s Defense Minister Khawaja Muhammad Asif has firmly rejected U.S. President Donald Trump’s demand that Islamabad normalize relations with Israel, saying the move contradicts the country’s fundamental ideologies. Asif stated in an interview with Samaa…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-31-pakistan-rejects-trump-demand-normalize-ties-israel.html",
+      "bloc": "western",
+      "date": "2026-05-31",
+      "datetime": "2026-05-31T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "“How to Sell a Genocide:” Gaza Reporting’s Double Standards",
       "summary": "The IDF engaged in “medicide” namely, the targeted destruction of Gaza’s healthcare system and the killing of more than 1,500 healthcare workers<",
@@ -70,32 +96,6 @@
       "summary": "Trilateral military talks involving Lebanon, the Israeli regime, and the United States have concluded at the US Department of War without reaching a ceasefire agreement, a report says.",
       "source": "Globalsecurity.org",
       "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260530-presstv07.htm",
-      "bloc": "western",
-      "date": "2026-05-30",
-      "datetime": "2026-05-30T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "UAE joined US-Israeli aggression against Iran from outset: Report",
-      "summary": "A new report has revealed that the United Arab Emirates played a far more extensive role in the US-Israeli aggression against Iran than previously known, carrying out dozens of airstrikes on Iranian territory from the opening days of the war.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260530-presstv08.htm",
       "bloc": "western",
       "date": "2026-05-30",
       "datetime": "2026-05-30T12:00:00Z",
@@ -443,6 +443,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "EU considers temporary freeze on Russian oil price cap amid Iran war",
+      "summary": "The EU's potential policy shift could reshape global energy logistics, impacting oil prices and accelerating crypto's role in trade settlements.\nThe post EU considers temporary freeze on Russian oil price cap amid Iran war appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/eu-freeze-russian-oil-price-cap-iran-war/",
+      "bloc": "western",
+      "date": "2026-05-31",
+      "datetime": "2026-05-31T08:32:21Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Sensex today | Stock Market Highlights: Markets end lower amid cautious sentiment over fragile US-Iran truce",
       "summary": "Sensex Today, Nifty 50 | Stock Market Highlights: The benchmark BSE Sensex fell 0.19 per cent to close at 75,867.8, while the broader NSE Nifty 50 slipped 0.03 per cent to 23,907.15, as losses in heavyweight HDFC Bank offset gains in metal stocks amid cautiou…",
       "source": "BusinessLine",
@@ -476,32 +502,6 @@
       "bloc": "western",
       "date": "2026-05-26",
       "datetime": "2026-05-26T15:23:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of May 26, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-05-26-2026/",
-      "bloc": "western",
-      "date": "2026-05-26",
-      "datetime": "2026-05-26T13:14:35Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

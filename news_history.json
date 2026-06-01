@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-01T04:27:01.394Z",
+  "updated": "2026-06-01T11:43:13.028Z",
   "retention_days": 30,
   "items": [
     {
@@ -17777,7 +17777,63 @@
       "_from": "newsapi",
       "first_seen": "2026-06-01T04:27:01.394Z",
       "run_id": "2026-06-01T04:27"
+    },
+    {
+      "headline": "Pakistan Rejects Trump’s Demand to Normalize Ties With Israel",
+      "summary": "Pakistan’s Defense Minister Khawaja Muhammad Asif has firmly rejected U.S. President Donald Trump’s demand that Islamabad normalize relations with Israel, saying the move contradicts the country’s fundamental ideologies. Asif stated in an interview with Samaa…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-31-pakistan-rejects-trump-demand-normalize-ties-israel.html",
+      "bloc": "western",
+      "date": "2026-05-31",
+      "datetime": "2026-05-31T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-01T11:43:13.028Z",
+      "run_id": "2026-06-01T11:43"
+    },
+    {
+      "headline": "EU considers temporary freeze on Russian oil price cap amid Iran war",
+      "summary": "The EU's potential policy shift could reshape global energy logistics, impacting oil prices and accelerating crypto's role in trade settlements.\nThe post EU considers temporary freeze on Russian oil price cap amid Iran war appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/eu-freeze-russian-oil-price-cap-iran-war/",
+      "bloc": "western",
+      "date": "2026-05-31",
+      "datetime": "2026-05-31T08:32:21Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-01T11:43:13.028Z",
+      "run_id": "2026-06-01T11:43"
     }
   ],
-  "total_items_ever": 1675
+  "total_items_ever": 1677
 }

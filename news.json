@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-01T11:44:18.283Z",
+  "ts": "2026-06-01T17:50:01.860Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,19 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 94,
-    "oilStress": 43,
-    "updatedAt": "2026-06-01T11:44:18.283Z"
+    "oilPrice": 95,
+    "oilStress": 45,
+    "updatedAt": "2026-06-01T17:50:01.860Z"
   },
   "items": [
     {
-      "headline": "Pakistan Rejects Trump’s Demand to Normalize Ties With Israel",
-      "summary": "Pakistan’s Defense Minister Khawaja Muhammad Asif has firmly rejected U.S. President Donald Trump’s demand that Islamabad normalize relations with Israel, saying the move contradicts the country’s fundamental ideologies. Asif stated in an interview with Samaa…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-31-pakistan-rejects-trump-demand-normalize-ties-israel.html",
+      "headline": "IRGC Warns: We Will Bring 'Utter Ruin' If Blockade Continues",
+      "summary": "If the standoff in the Strait of Hormuz is a game of chicken, it sounds as though the Iranians will either swerve first – or accelerate. One way or the other, though, the blockade appears to have succeeded in bringing the regime to its crisis point. As discus…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4381740/posts",
       "bloc": "western",
       "date": "2026-05-31",
-      "datetime": "2026-05-31T06:00:00Z",
+      "datetime": "2026-05-31T16:20:57Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "“How to Sell a Genocide:” Gaza Reporting’s Double Standards",
-      "summary": "The IDF engaged in “medicide” namely, the targeted destruction of Gaza’s healthcare system and the killing of more than 1,500 healthcare workers<",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/05/genocide-standards-reporting.html",
+      "headline": "Iran conflict drives US household energy costs up $450, impacting oil prices",
+      "summary": "Rising energy costs due to geopolitical tensions may fuel inflation, complicating future monetary policy and impacting global economic stability.\nThe post Iran conflict drives US household energy costs up $450, impacting oil prices appeared first on Crypto Br…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-conflict-drives-us-household-energy-costs-up-450-impacting-oil-prices/",
       "bloc": "western",
       "date": "2026-05-31",
-      "datetime": "2026-05-31T04:06:44Z",
+      "datetime": "2026-05-31T16:03:30Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "China’s Oil Buying Pause Won’t Last Forever",
-      "summary": "China has been cited as an example of a country that has managed to insulate itself relatively well against oil crises. With over a billion barrels in estimated inventories before the war in the Middle East started, China was the poster child of forward plann…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Chinas-Oil-Buying-Pause-Wont-Last-Forever.html",
-      "bloc": "western",
-      "date": "2026-05-30",
-      "datetime": "2026-05-30T23:00:00Z",
+      "headline": "Satellite imagery shows erasure of southern Gaza as Israel expands control",
+      "summary": "Satellite images show transformation as Netanyahu orders military to occupy 70 percent of Gaza.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/5/31/satellite-imagery-shows-erasure-of-southern-gaza-as-israel-expands-control",
+      "bloc": "regional",
+      "date": "2026-05-31",
+      "datetime": "2026-05-31T13:28:26Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +92,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US-hosted Lebanon-Israel talks end without ceasefire agreement: Report",
-      "summary": "Trilateral military talks involving Lebanon, the Israeli regime, and the United States have concluded at the US Department of War without reaching a ceasefire agreement, a report says.",
+      "headline": "Trump faces only 'bad' or 'worse' options on Iran: IRGC general",
+      "summary": "A high-ranking commander of the Islamic Revolution Guards Corps (IRGC) says US President Donald Trump has no good option with regard to Iran and has to choose between a \"bad\" or \"worse\" path.",
       "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260530-presstv07.htm",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260531-presstv06.htm",
       "bloc": "western",
-      "date": "2026-05-30",
-      "datetime": "2026-05-30T12:00:00Z",
+      "date": "2026-05-31",
+      "datetime": "2026-05-31T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -114,6 +114,32 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Says Iran Agrees To Guarantees On Nuclear Program; US Reportedly Offers 'Tougher' Peace Proposal",
+      "summary": "US President Donald Trump said Iran had provided guarantees that it would not develop nuclear weapons, as he asserted Washington was nearing a \"very good deal\" to end the three-month-old war with Tehran.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260531-rferl03.htm",
+      "bloc": "western",
+      "date": "2026-05-31",
+      "datetime": "2026-05-31T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -323,6 +349,54 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Shangri-La conference: Asia-Pacific on path to rearmament",
+      "summary": "Military budgets are rising worldwide. At the security conference in Singapore, the focus was also on achieving greater security through more weapons. Defense ministers, military officials and security experts from around the world gathered at the Shangri-La …",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/shangri-la-conference-asia-pacific-on-path-to-rearmament/a-77366299",
+      "bloc": "western",
+      "date": "2026-05-31",
+      "datetime": "2026-05-31T16:34:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Denis Staunton: Behind the posturing, Pete Hegseth’s remarks on China told the real story",
+      "summary": "Beijing sent no high-level political representation to the Shangri-La Dialogue, Asia’s leading defence and security summit",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/05/31/behind-the-posturing-pete-hegseths-remarks-on-china-told-the-real-story/",
+      "bloc": "western",
+      "date": "2026-05-31",
+      "datetime": "2026-05-31T14:49:16Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "No Enemies, Stronger Army: Kazakhstan’s Strategic Bet",
       "summary": "Kazakhstan’s military modernization efforts reflect an adaptive response to growing great power competition.",
       "source": "The Diplomat",
@@ -378,54 +452,6 @@
       "bloc": "western",
       "date": "2026-05-27",
       "datetime": "2026-05-27T11:43:11Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Taiwan Scrambles Fighter Jets As China Encroaches With Combat Patrols",
-      "summary": "Chinese fighter jets and warships encroach on Taiwan, but Xi says China will not invade.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/05/26/taiwan-scrambles-fighter-jets-as-china-encroaches-with-combat-patrols/",
-      "bloc": "western",
-      "date": "2026-05-26",
-      "datetime": "2026-05-26T19:03:13Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Is the Quad becoming irrelevant as a group?",
-      "summary": "Trump has shown little interest in group comprising the United States, India, Japan and Australia that was at core of US efforts to counter China",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/2026/05/26/are-diverging-geopolitical-interests-among-quad-members-making-it-an-irrelevance/",
-      "bloc": "western",
-      "date": "2026-05-26",
-      "datetime": "2026-05-26T05:42:55Z",
       "leaders": [
         "Xi Jinping"
       ],

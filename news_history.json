@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-01T17:48:56.687Z",
+  "updated": "2026-06-01T21:37:30.871Z",
   "retention_days": 30,
   "items": [
     {
@@ -18025,7 +18025,117 @@
       "_from": "newsapi",
       "first_seen": "2026-06-01T17:48:56.687Z",
       "run_id": "2026-06-01T17:48"
+    },
+    {
+      "headline": "Iran says it does not trust U.S. as Trump toughens terms",
+      "summary": "Iran's chief negotiator warned on Sunday the United States was not to be trusted, saying Tehran would not agree to any deal with Washington unless it fully secured Iranian rights. Mohammad Bagher Ghalibaf's remarks came as reports emerged that U.S. President …",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/trump-says-iran-has-agreed-to-no-nuclear-weapons",
+      "bloc": "western",
+      "date": "2026-05-31",
+      "datetime": "2026-05-31T21:22:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-01T21:37:30.871Z",
+      "run_id": "2026-06-01T21:37"
+    },
+    {
+      "headline": "Don’t repeat Afghanistan in Iran",
+      "summary": "Withdrawal was 'not merely messy; it was a self-inflicted wound that signaled to the world that America's patience had run out'",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/05/dont-repeat-afghanistan-iran/",
+      "bloc": "western",
+      "date": "2026-05-31",
+      "datetime": "2026-05-31T20:46:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-01T21:37:30.871Z",
+      "run_id": "2026-06-01T21:37"
+    },
+    {
+      "headline": "Full transcript of \"Face the Nation with Margaret Brennan,\" May 31, 2026",
+      "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Ukrainian President Volodymyr Zelenskyy and former Vice President Mike Pence join Margaret Brennan.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-31-2026/",
+      "bloc": "western",
+      "date": "2026-05-31",
+      "datetime": "2026-05-31T18:21:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-01T21:37:30.871Z",
+      "run_id": "2026-06-01T21:37"
+    },
+    {
+      "headline": "Japan Is Stepping Up as Asia’s New Powerbroker",
+      "summary": "The US would have you believe it is showing leadership in Asia. Yet the nation displaying real resolve is Japan.",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/japan-is-stepping-up-as-asia-s-new-powerbroker-11780254625768.html",
+      "bloc": "western",
+      "date": "2026-05-31",
+      "datetime": "2026-05-31T19:10:25Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-01T21:37:30.871Z",
+      "run_id": "2026-06-01T21:37"
     }
   ],
-  "total_items_ever": 1684
+  "total_items_ever": 1688
 }

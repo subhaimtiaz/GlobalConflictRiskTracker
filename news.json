@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-02T10:44:32.279Z",
+  "ts": "2026-06-02T16:41:53.209Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,45 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 94,
-    "oilStress": 43,
-    "updatedAt": "2026-06-02T10:44:32.279Z"
+    "oilPrice": 96,
+    "oilStress": 46,
+    "updatedAt": "2026-06-02T16:41:53.208Z"
   },
   "items": [
     {
-      "headline": "Israel Orders Strikes On Beirut’s Southern Suburbs As Hezbollah Fires Rockets",
-      "summary": "The latest attacks came just before Lebanon and Israel hold their next round of direct talks in Washington starting Tuesday.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/lebanon-israel-hezbollah_n_6a1d54d9e4b032392fa397c0",
+      "headline": "In Iran war’s shadow, Israel’s renewed Lebanon campaign risks repeating failed lessons – and occupations – of the past",
+      "summary": "Unable to defeat Iran, Israel shifts its focus to Lebanon, fearing U.S. negotiations with Tehran could limit operations against Hezbollah.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/in-iran-wars-shadow-israels-renewed-lebanon-campaign-risks-repeating-failed-lessons-and-occupations-of-the-past-284052",
       "bloc": "western",
       "date": "2026-06-01",
-      "datetime": "2026-06-01T09:55:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump’s Fickle Iran Policy",
-      "summary": "Michael T. Klare\n\n\n\nHe is now a rudderless potentate.\r\n\n\r\n\n\nThe post Trump’s Fickle Iran Policy appeared first on The Nation.",
-      "source": "Thenation.com",
-      "url": "https://www.thenation.com/?post_type=article&p=599088",
-      "bloc": "western",
-      "date": "2026-06-01",
-      "datetime": "2026-06-01T09:00:00Z",
+      "datetime": "2026-06-01T16:30:19Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +40,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US military strikes in Iran, Lebanon amid ongoing peace negotiations",
-      "summary": "US military actions may undermine peace efforts, increasing regional instability and reducing chances for diplomatic resolutions in the Middle East.\nThe post US military strikes in Iran, Lebanon amid ongoing peace negotiations appeared first on Crypto Briefin…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-military-strikes-in-iran-lebanon-amid-ongoing-peace-negotiations/",
+      "headline": "As Israel pushes past the Litani, Lebanese question the purpose of UNIFIL",
+      "summary": "Israel has pushed past the Litani River, with the UNFIL peacekeeping force helpless to prevent an invasion.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/6/1/as-israel-pushes-past-the-litani-lebanese-question-the-purpose-of-unifil",
+      "bloc": "regional",
+      "date": "2026-06-01",
+      "datetime": "2026-06-01T15:56:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Jumps Over $6 On Iran Report Of Halted U.S.-Tehran Exchanges, Hormuz Blockade Risk",
+      "summary": "The fighting in the Middle East dimmed hopes that the U.S. and Iran could soon announce an extension to their ceasefire.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/oil-prices-rise-us-iran-halted-message-exchanges_n_6a1da673e4b0ba3173010884",
       "bloc": "western",
       "date": "2026-06-01",
-      "datetime": "2026-06-01T07:12:20Z",
+      "datetime": "2026-06-01T15:47:32Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US trades strikes with divided Iran regime as peace talks stall",
+      "summary": "Iran to halt message exchanges with US over Israel's strikes on Lebanon, Iranian media says Iran is halting its indirect talks with U.S. negotiators in protest against Israel's attacks on Hezbollah in Lebanon, Iranian state-linked media reported Monday. Iran'…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4381881/posts",
+      "bloc": "western",
+      "date": "2026-06-01",
+      "datetime": "2026-06-01T15:11:59Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,39 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "CNN: Iran has repaired the damage to most of the entrances to its underground missile facilities and is ready for new strikes",
-      "summary": "With videos and satellite photos, CNN attempts to demonstrate the limits of the US strategy, which is based mainly on the destruction of the entrances to underground installations.\nThe post CNN: Iran has repaired the damage to most of the entrances to its und…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/06/01/cnn-iran-has-repaired-the-damage-to-most-of-the-entrances-to-its-underground-missile-facilities-and-is-ready-for-new-strikes/",
+      "headline": "IDF targeting Hezbollah’s Beirut stronghold after rockets strike northern Israel",
+      "summary": "“There will not be a situation in which Hezbollah attacks our cities and our citizens while its terror headquarters in Beirut, in Dahiyeh, remain off-limits,” Netanyahu said in a statement shared by the Prime Minister’s Office.",
+      "source": "JNS.org",
+      "url": "https://www.jns.org/news/israel-news/idf-to-target-hezbollahs-beirut-stronghold-as-rocket-drone-attacks-on-galilee-persist",
       "bloc": "western",
       "date": "2026-06-01",
-      "datetime": "2026-06-01T06:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US, Iran say carried out fresh strikes",
-      "summary": "The United States and Iran said onJune 1 they had again traded strikes, straining an already fragile ceasefire as negotiations between the two sides have stalled.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/us-iran-say-carried-out-fresh-strikes-222734",
-      "bloc": "western",
-      "date": "2026-06-01",
-      "datetime": "2026-06-01T06:07:41Z",
+      "datetime": "2026-06-01T14:55:06Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -464,6 +464,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Current price of oil as of June 1, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-06-01-2026/",
+      "bloc": "western",
+      "date": "2026-06-01",
+      "datetime": "2026-06-01T12:29:57Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-01T21:38:36.016Z",
+  "ts": "2026-06-02T04:21:20.853Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 96,
-    "oilStress": 46,
-    "updatedAt": "2026-06-01T21:38:36.016Z"
+    "oilPrice": 94,
+    "oilStress": 43,
+    "updatedAt": "2026-06-02T04:21:20.852Z"
   },
   "items": [
+    {
+      "headline": "US backs Israeli military escalation against Hezbollah in Lebanon",
+      "summary": "US support for Israeli escalation may hinder peace prospects, increase regional tensions, and complicate diplomatic resolutions in the Middle East.\nThe post US backs Israeli military escalation against Hezbollah in Lebanon appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-backs-israeli-military-escalation-against-hezbollah-in-lebanon/",
+      "bloc": "western",
+      "date": "2026-06-01",
+      "datetime": "2026-06-01T02:58:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "What is Beaufort Castle and why has Israel captured it again?",
+      "summary": "Israel has advanced deeper into Lebanon than at any time since 2000, capturing Beaufort fortress and raising concerns over regional ceasefire talks.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/what-is-beaufort-castle-and-why-has-israel-captured-it-again/article71046763.ece",
+      "bloc": "western",
+      "date": "2026-06-01",
+      "datetime": "2026-06-01T00:59:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran says it does not trust U.S. as Trump toughens terms",
       "summary": "Iran's chief negotiator warned on Sunday the United States was not to be trusted, saying Tehran would not agree to any deal with Washington unless it fully secured Iranian rights. Mohammad Bagher Ghalibaf's remarks came as reports emerged that U.S. President …",
@@ -73,58 +125,6 @@
       "bloc": "western",
       "date": "2026-05-31",
       "datetime": "2026-05-31T18:21:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "IRGC Warns: We Will Bring 'Utter Ruin' If Blockade Continues",
-      "summary": "If the standoff in the Strait of Hormuz is a game of chicken, it sounds as though the Iranians will either swerve first – or accelerate. One way or the other, though, the blockade appears to have succeeded in bringing the regime to its crisis point. As discus…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4381740/posts",
-      "bloc": "western",
-      "date": "2026-05-31",
-      "datetime": "2026-05-31T16:20:57Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran conflict drives US household energy costs up $450, impacting oil prices",
-      "summary": "Rising energy costs due to geopolitical tensions may fuel inflation, complicating future monetary policy and impacting global economic stability.\nThe post Iran conflict drives US household energy costs up $450, impacting oil prices appeared first on Crypto Br…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-conflict-drives-us-household-energy-costs-up-450-impacting-oil-prices/",
-      "bloc": "western",
-      "date": "2026-05-31",
-      "datetime": "2026-05-31T16:03:30Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

@@ -1,426 +1,8 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-02T20:54:01.952Z",
+  "updated": "2026-06-03T04:40:02.952Z",
   "retention_days": 30,
   "items": [
-    {
-      "headline": "Trump insists China trip will go on as planned; analysts say leaders' summit crucial to manage risks",
-      "summary": "United States President Donald Trump says his upcoming visit will be an “amazing event”, while Chinese observers say both sides need to prioritise risk management in the face of rising uncertainty worldwide.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/trump-china-visit-summit-amazing-analysts-manage-risks-6096631",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T02:27:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T03:36:37.182Z",
-      "run_id": "2026-05-04T03:36"
-    },
-    {
-      "headline": "US-Iran war: FG earns N5tn oil windfall amid rising fuel hardship",
-      "summary": "Nigeria gains a N5.13tn oil windfall from the US-Iran conflict, boosting government revenue but leading to higher domestic fuel prices and public hardship.\n\nRead More: https://punchng.com/us-iran-war-fg-earns-n5tn-oil-windfall-amid-rising-fuel-hardship/",
-      "source": "The Punch",
-      "url": "https://punchng.com/us-iran-war-fg-earns-n5tn-oil-windfall-amid-rising-fuel-hardship/",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T00:00:21Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T03:36:37.182Z",
-      "run_id": "2026-05-04T03:36"
-    },
-    {
-      "headline": "Israeli strike on Iran petrochemical site raises military pressure",
-      "summary": "The Israeli strike heightens regional tensions, potentially destabilizing Iran's regime and impacting geopolitical and market dynamics.\nThe post Israeli strike on Iran petrochemical site raises military pressure appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/israeli-strike-on-iran-petrochemical-site-raises-military-pressure/",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T06:44:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T08:35:16.507Z",
-      "run_id": "2026-05-04T08:35"
-    },
-    {
-      "headline": "Iran proposes peace plan amid US tensions, seeks security assurances",
-      "summary": "Iran's peace proposal could stabilize regional tensions, impacting leadership continuity and reducing the likelihood of regime change.\nThe post Iran proposes peace plan amid US tensions, seeks security assurances appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-proposes-peace-plan-amid-us-tensions-seeks-security-assurances/",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T05:16:10Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T08:35:16.507Z",
-      "run_id": "2026-05-04T08:35"
-    },
-    {
-      "headline": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-      "summary": "Iran has sent the US a new 14-point proposal to end the war.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war",
-      "bloc": "regional",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T07:02:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T08:35:16.507Z",
-      "run_id": "2026-05-04T08:35"
-    },
-    {
-      "headline": "The Hormuz blockade: Why a fragile ceasefire may not lower global oil prices",
-      "summary": "Brent crude has surged to $125 per barrel due to escalating West Asia conflict and severe disruption at the Strait of Hormuz, a key global oil chokepoint. Naval tensions and tanker blockades have restricted nearly one-fifth of global oil flows, intensifying s…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/the-hormuz-blockade-why-a-fragile-ceasefire-may-not-lower-global-oil-prices/articleshow/130728422.cms",
-      "bloc": "regional",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T06:33:19Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T08:35:16.507Z",
-      "run_id": "2026-05-04T08:35"
-    },
-    {
-      "headline": "Iran Presses For An End To War Within 30 Days As Trump Expresses Doubts",
-      "summary": "Iran has proposed a 30-day resolution aiming to end the war with Israel and the U.S. rather than just extend the ceasefire.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-presses-for-end-to-war-trump-expresses-doubts_n_69f73ecde4b0f658833c2dd8",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T12:36:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T14:11:18.062Z",
-      "run_id": "2026-05-04T14:11"
-    },
-    {
-      "headline": "US-Iran war impacts credit markets, dims 2026 Fed rate cut prospects",
-      "summary": "The US-Iran conflict heightens economic volatility, potentially delaying Fed rate cuts due to inflationary pressures and tighter credit.\nThe post US-Iran war impacts credit markets, dims 2026 Fed rate cut prospects appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-war-impacts-credit-markets-dims-2026-fed-rate-cut-prospects/",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T12:12:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T14:11:18.062Z",
-      "run_id": "2026-05-04T14:11"
-    },
-    {
-      "headline": "Any US interference in new Hormuz regime is ceasefire violation: Iran lawmaker",
-      "summary": "A senior Iranian parliamentarian has warned that any US interference in the new maritime regime of the Strait of Hormuz will be considered a direct violation of the ceasefire, dismissing President Donald Trump's plan to escort ships through the waterway as \"d…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv01.htm",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T14:11:18.062Z",
-      "run_id": "2026-05-04T14:11"
-    },
-    {
-      "headline": "Iran says it is reviewing US response to 14-point plan delivered via Pakistani intermediary",
-      "summary": "Iran confirmed on Sunday that the United States has delivered its response to Tehran's proposed 14-point plan through Pakistani mediators, and that the Islamic Republic is currently reviewing the document.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv04.htm",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T14:11:18.062Z",
-      "run_id": "2026-05-04T14:11"
-    },
-    {
-      "headline": "Iran's armed forces will be ultimate victors in ongoing uneven battle: IRGC spokesman",
-      "summary": "The spokesman for the Islamic Revolution Guard Corps has declared that despite an ongoing unequal battle against heavily equipped enemies, Iran's armed forces will emerge as the ultimate victors, driven by the culture of Ashura and an unwavering rejection of …",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv03.htm",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T14:11:18.062Z",
-      "run_id": "2026-05-04T14:11"
-    },
-    {
-      "headline": "May 3: Iran tightens grip on Strait of Hormuz and defies blockade as US reels from economic fallout",
-      "summary": "Tehran confirmed it has received the US response to its 14-point proposal, delivered through the Pakistani mediators, stressing that the document will be assessed strictly on Iran's terms and within the framework of ending the US-Israeli war of aggression.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv02.htm",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T14:11:18.062Z",
-      "run_id": "2026-05-04T14:11"
-    },
-    {
-      "headline": "Kuwait exports zero barrels of oil for first time in 35 years – monitor",
-      "summary": "Kuwait has exported no crude for the first time since 1991, according to Tanker Tracker. Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/639378-kuwait-exports-zero-barrels-oil/",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T09:32:13Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T14:11:18.062Z",
-      "run_id": "2026-05-04T14:11"
-    },
-    {
-      "headline": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
-      "summary": "Palestinian factions reject US-backed plans linking aid to weapons surrender, demanding clear political path forward.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays",
-      "bloc": "regional",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T15:40:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T19:46:05.920Z",
-      "run_id": "2026-05-04T19:46"
-    },
-    {
-      "headline": "UAE reopens airspace amid easing tensions, impacting Iran closure market",
-      "summary": "The UAE's airspace reopening signals a shift towards regional stability, potentially reducing geopolitical risks and market volatility.\nThe post UAE reopens airspace amid easing tensions, impacting Iran closure market appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/uae-reopens-airspace-amid-easing-tensions-impacting-iran-closure-market/",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T14:38:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-04T19:46:05.920Z",
-      "run_id": "2026-05-04T19:46"
-    },
     {
       "headline": "Iran warns that any US intervention in Strait of Hormuz would violate ceasefire after Trump offers 'humanitarian gesture'",
       "summary": "Ebrahim Azizi said that the gulf would not 'be managed by Trump's delusional posts' after the president declared he would shepherd innocent bystanders caught up in the blockage.",
@@ -457,90 +39,6 @@
       "bloc": "western",
       "date": "2026-05-04",
       "datetime": "2026-05-04T01:44:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-05T03:23:16.513Z",
-      "run_id": "2026-05-05T03:23"
-    },
-    {
-      "headline": "Trump Announces Humanitarian Mission To Free Ships Stranded By Iran War",
-      "summary": "President Donald Trump announced Sunday he was ordering the United States Navy to begin “Project Freedom” to guide ships stranded in the Persian Gulf to safety.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/05/03/donald-trump-announces-humanitarian-mission-project-freedom-free-ships-stranded-iran-war/",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T22:45:47Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-05T03:23:16.513Z",
-      "run_id": "2026-05-05T03:23"
-    },
-    {
-      "headline": "Iran says it has received U.S. response to its latest offer for talks",
-      "summary": "Iran said on Sunday it had received a U.S. response to its latest offer for peace talks, a day after President Donald Trump said he would probably reject the Iranian proposal because &quot;they have not paid a big ‌enough price&quot;. Iranian state media repo…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/iran-says-it-has-received-us-response-to-its-latest-offer-for-talks",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T21:10:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-05T03:23:16.513Z",
-      "run_id": "2026-05-05T03:23"
-    },
-    {
-      "headline": "Three narratives of winning in one world",
-      "summary": "'Victory in modern conflicts is no longer a single, measurable outcome'",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/05/three-narratives-winning-one-world/",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T20:30:04Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -668,34 +166,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-05T03:23:16.513Z",
-      "run_id": "2026-05-05T03:23"
-    },
-    {
-      "headline": "Iran deploys oil tankers amid US blockade, raising regional tensions",
-      "summary": "Iran's tanker deployment amid US blockade could escalate regional tensions, disrupt key maritime routes, and impact global oil prices.\nThe post Iran deploys oil tankers amid US blockade, raising regional tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-deploys-oil-tankers-amid-us-blockade-raising-regional-tensions/",
-      "bloc": "western",
-      "date": "2026-05-03",
-      "datetime": "2026-05-03T21:40:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi",
       "first_seen": "2026-05-05T03:23:16.513Z",
@@ -17944,7 +17414,63 @@
       "_from": "newsapi",
       "first_seen": "2026-06-02T20:54:01.951Z",
       "run_id": "2026-06-02T20:54"
+    },
+    {
+      "headline": "Trump announces Israel-Hezbollah de-escalation after talks with Netanyahu",
+      "summary": "The renewed violence threatens ongoing diplomatic efforts involving Lebanon, Israel, Iran and the United States to prevent a broader regional conflict",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-announces-israel-hezbollah-de-escalation-after-talks-with-netanyahu/article71050909.ece",
+      "bloc": "western",
+      "date": "2026-06-02",
+      "datetime": "2026-06-02T00:54:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-03T04:40:02.952Z",
+      "run_id": "2026-06-03T04:40"
+    },
+    {
+      "headline": "Persian Gulf Oil Tanker Traffic May Never Fully Recover",
+      "summary": "Oil and gas traffic via the Strait of Hormuz may never go back to pre-war levels if Iran cements its hold over the chokepoint. The warnings come from several unrelated sources as the war continues to drag on, with some recovery in traffic but nowhere near pre…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Persian-Gulf-Oil-Tanker-Traffic-May-Never-Fully-Recover.html",
+      "bloc": "western",
+      "date": "2026-06-02",
+      "datetime": "2026-06-02T00:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-03T04:40:02.952Z",
+      "run_id": "2026-06-03T04:40"
     }
   ],
-  "total_items_ever": 1703
+  "total_items_ever": 1705
 }

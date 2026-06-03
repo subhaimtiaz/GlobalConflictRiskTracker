@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-02T20:55:07.188Z",
+  "ts": "2026-06-03T04:41:08.103Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 96,
-    "oilStress": 46,
-    "updatedAt": "2026-06-02T20:55:07.188Z"
+    "oilPrice": 97,
+    "oilStress": 48,
+    "updatedAt": "2026-06-03T04:41:08.103Z"
   },
   "items": [
+    {
+      "headline": "Trump announces Israel-Hezbollah de-escalation after talks with Netanyahu",
+      "summary": "The renewed violence threatens ongoing diplomatic efforts involving Lebanon, Israel, Iran and the United States to prevent a broader regional conflict",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-announces-israel-hezbollah-de-escalation-after-talks-with-netanyahu/article71050909.ece",
+      "bloc": "western",
+      "date": "2026-06-02",
+      "datetime": "2026-06-02T00:54:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Persian Gulf Oil Tanker Traffic May Never Fully Recover",
+      "summary": "Oil and gas traffic via the Strait of Hormuz may never go back to pre-war levels if Iran cements its hold over the chokepoint. The warnings come from several unrelated sources as the war continues to drag on, with some recovery in traffic but nowhere near pre…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Persian-Gulf-Oil-Tanker-Traffic-May-Never-Fully-Recover.html",
+      "bloc": "western",
+      "date": "2026-06-02",
+      "datetime": "2026-06-02T00:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Total Collapse Of Negotiations With Iran Threatens To Cause Global Economic Devastation",
       "summary": "This is a moment in history that we will remember for a long time to come. Even though we were told over and over again that a deal with Iran was almost “finalized”, the truth is that there never was going to be a deal with Iran. It was all smoke and mirrors.…",
@@ -88,58 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Jumps Over $6 On Iran Report Of Halted U.S.-Tehran Exchanges, Hormuz Blockade Risk",
-      "summary": "The fighting in the Middle East dimmed hopes that the U.S. and Iran could soon announce an extension to their ceasefire.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/oil-prices-rise-us-iran-halted-message-exchanges_n_6a1da673e4b0ba3173010884",
-      "bloc": "western",
-      "date": "2026-06-01",
-      "datetime": "2026-06-01T15:47:32Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US trades strikes with divided Iran regime as peace talks stall",
-      "summary": "Iran to halt message exchanges with US over Israel's strikes on Lebanon, Iranian media says Iran is halting its indirect talks with U.S. negotiators in protest against Israel's attacks on Hezbollah in Lebanon, Iranian state-linked media reported Monday. Iran'…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4381881/posts",
-      "bloc": "western",
-      "date": "2026-06-01",
-      "datetime": "2026-06-01T15:11:59Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -541,31 +541,6 @@
         "values"
       ],
       "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran condemns US ceasefire violation, demands $12B fund release before resuming talks",
-      "summary": "The US-Iran tensions over asset release and maritime actions could destabilize oil markets, impacting global inflation and crypto trends.\nThe post Iran condemns US ceasefire violation, demands $12B fund release before resuming talks appeared first on Crypto B…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-us-ceasefire-violation-12b-fund-demand/",
-      "bloc": "western",
-      "date": "2026-05-26",
-      "datetime": "2026-05-26T14:28:02Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

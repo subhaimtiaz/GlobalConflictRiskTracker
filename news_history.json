@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-03T04:40:02.952Z",
+  "updated": "2026-06-03T11:06:57.738Z",
   "retention_days": 30,
   "items": [
     {
@@ -17470,7 +17470,91 @@
       "_from": "newsapi",
       "first_seen": "2026-06-03T04:40:02.952Z",
       "run_id": "2026-06-03T04:40"
+    },
+    {
+      "headline": "Uh Oh, Trump Is Bored with Iran Peace Talks. You Know What That Means.",
+      "summary": "\"I don't care if they're over, honestly,\" said the President about Iran peace talks. \"I really don't care. I couldn't care less.\"",
+      "source": "Jezebel",
+      "url": "https://www.jezebel.com/iran-war-donald-trump-boring-bored-quote-ceasefire-negotiations-suspended-israel-lebanon",
+      "bloc": "western",
+      "date": "2026-06-02",
+      "datetime": "2026-06-02T10:37:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-03T11:06:57.738Z",
+      "run_id": "2026-06-03T11:06"
+    },
+    {
+      "headline": "Report: Trump Demanded Lebanon Ceasefire in Heated Call with Netanyahu",
+      "summary": "President Donald Trump reportedly used profanity toward Israeli Prime Minister Benjamin Netanyahu during a phone call on Monday, demanding an immediate ceasefire in Lebanon, according to a report by Axios cited by multiple news outlets. Two U.S. officials tol…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-02-trump-demanded-lebanon-ceasefire-heated-call-netanyahu.html",
+      "bloc": "western",
+      "date": "2026-06-02",
+      "datetime": "2026-06-02T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-03T11:06:57.738Z",
+      "run_id": "2026-06-03T11:06"
+    },
+    {
+      "headline": "Middle East on the brink of renewed escalation: Fighting continues in Lebanon despite Trump’s ceasefire assurances",
+      "summary": "New clashes between the Israeli military (IDF) and Hezbollah have continued just hours before a new round of negotiations in Washington. Meanwhile, Tehran accuses Israel of crossing \"red lines\" and links the developments to broader discussions about ending th…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/06/02/middle-east-on-the-brink-of-renewed-escalation-fighting-continues-in-lebanon-despite-trumps-ceasefire-assurances/",
+      "bloc": "western",
+      "date": "2026-06-02",
+      "datetime": "2026-06-02T05:55:32Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-03T11:06:57.738Z",
+      "run_id": "2026-06-03T11:06"
     }
   ],
-  "total_items_ever": 1705
+  "total_items_ever": 1708
 }

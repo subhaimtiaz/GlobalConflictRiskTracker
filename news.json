@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-03T16:58:35.930Z",
+  "ts": "2026-06-03T21:20:42.421Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 98,
     "oilStress": 49,
-    "updatedAt": "2026-06-03T16:58:35.930Z"
+    "updatedAt": "2026-06-03T21:20:42.421Z"
   },
   "items": [
     {
@@ -464,6 +464,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Commodity Markets Are Living on Borrowed Time",
+      "summary": "Commodity markets have spent the past three months performing an extraordinary balancing act. Despite one of the most significant disruptions to global energy flows in decades, the global economy has continued to function remarkably smoothly. After an initial…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Commodity-Markets-Are-Living-on-Borrowed-Time.html",
+      "bloc": "western",
+      "date": "2026-06-02",
+      "datetime": "2026-06-02T18:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

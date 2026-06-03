@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-03T11:08:02.921Z",
+  "ts": "2026-06-03T16:58:35.930Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,18 +9,18 @@
   },
   "live_variables": {
     "oilPrice": 98,
-    "oilStress": 50,
-    "updatedAt": "2026-06-03T11:08:02.921Z"
+    "oilStress": 49,
+    "updatedAt": "2026-06-03T16:58:35.930Z"
   },
   "items": [
     {
-      "headline": "Uh Oh, Trump Is Bored with Iran Peace Talks. You Know What That Means.",
-      "summary": "\"I don't care if they're over, honestly,\" said the President about Iran peace talks. \"I really don't care. I couldn't care less.\"",
-      "source": "Jezebel",
-      "url": "https://www.jezebel.com/iran-war-donald-trump-boring-bored-quote-ceasefire-negotiations-suspended-israel-lebanon",
+      "headline": "Here is India’s answer to a broken world order",
+      "summary": "Tech rivalry between the US and China and wars in the Middle East are reshaping India’s foreign policy choices Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/india/640853-indias-answer-world-order-us-china/",
       "bloc": "western",
       "date": "2026-06-02",
-      "datetime": "2026-06-02T10:37:33Z",
+      "datetime": "2026-06-02T16:13:44Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Report: Trump Demanded Lebanon Ceasefire in Heated Call with Netanyahu",
-      "summary": "President Donald Trump reportedly used profanity toward Israeli Prime Minister Benjamin Netanyahu during a phone call on Monday, demanding an immediate ceasefire in Lebanon, according to a report by Axios cited by multiple news outlets. Two U.S. officials tol…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-06-02-trump-demanded-lebanon-ceasefire-heated-call-netanyahu.html",
-      "bloc": "western",
+      "headline": "The ceasefires in Gaza, Lebanon and Iran are stretching the term's meaning",
+      "summary": "Ceasefires have been announced but fighting continues across the Middle East - Gaza, Lebanon and Iran. Israeli forces advance in Gaza and Lebanon. The US and Iran trade fire, impacting global fuel supplies. Despite agreements, hostilities persist, leaving man…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/the-ceasefires-in-gaza-lebanon-and-iran-are-stretching-the-terms-meaning/articleshow/131463540.cms",
+      "bloc": "regional",
       "date": "2026-06-02",
-      "datetime": "2026-06-02T06:00:00Z",
+      "datetime": "2026-06-02T12:08:17Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +66,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Middle East on the brink of renewed escalation: Fighting continues in Lebanon despite Trump’s ceasefire assurances",
-      "summary": "New clashes between the Israeli military (IDF) and Hezbollah have continued just hours before a new round of negotiations in Washington. Meanwhile, Tehran accuses Israel of crossing \"red lines\" and links the developments to broader discussions about ending th…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/06/02/middle-east-on-the-brink-of-renewed-escalation-fighting-continues-in-lebanon-despite-trumps-ceasefire-assurances/",
+      "headline": "US, Israel suffered heavy losses from Iranian air defenses during aggression: Commander",
+      "summary": "Iran inflicted significant losses on the aerial warfare equipment of the United States and the Israeli regime during the US-Israeli aggression on the country that came to a halt with a ceasefire in early April, according to the Commander of the Joint Headquar…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260602-presstv04.htm",
       "bloc": "western",
       "date": "2026-06-02",
-      "datetime": "2026-06-02T05:55:32Z",
+      "datetime": "2026-06-02T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Al-Qassam Brigades says Israeli assassinations fail to break resistance",
+      "summary": "The al-Qassam Brigades says Israel is deluded in thinking it can weaken the Palestinian resistance movement Hamas by assassinating its leaders.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260602-presstv06.htm",
+      "bloc": "western",
+      "date": "2026-06-02",
+      "datetime": "2026-06-02T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran has not revealed all its 'winning cards' yet, top general warns amid US-Israeli escalations",
+      "summary": "Iran has not yet revealed all of its \"winning cards\" and is ready for a potential confrontation with its enemies, a high-ranking military official has warned.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260602-presstv08.htm",
+      "bloc": "western",
+      "date": "2026-06-02",
+      "datetime": "2026-06-02T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -88,58 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump announces Israel-Hezbollah de-escalation after talks with Netanyahu",
-      "summary": "The renewed violence threatens ongoing diplomatic efforts involving Lebanon, Israel, Iran and the United States to prevent a broader regional conflict",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-announces-israel-hezbollah-de-escalation-after-talks-with-netanyahu/article71050909.ece",
-      "bloc": "western",
-      "date": "2026-06-02",
-      "datetime": "2026-06-02T00:54:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Persian Gulf Oil Tanker Traffic May Never Fully Recover",
-      "summary": "Oil and gas traffic via the Strait of Hormuz may never go back to pre-war levels if Iran cements its hold over the chokepoint. The warnings come from several unrelated sources as the war continues to drag on, with some recovery in traffic but nowhere near pre…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Persian-Gulf-Oil-Tanker-Traffic-May-Never-Fully-Recover.html",
-      "bloc": "western",
-      "date": "2026-06-02",
-      "datetime": "2026-06-02T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

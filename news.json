@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-04T04:25:41.832Z",
+  "ts": "2026-06-04T10:02:46.187Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,112 +8,164 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 97,
-    "oilStress": 47,
-    "updatedAt": "2026-06-04T04:25:41.832Z"
+    "oilPrice": 96,
+    "oilStress": 46,
+    "updatedAt": "2026-06-04T10:02:46.187Z"
   },
   "items": [
     {
-      "headline": "Why is market falling today? Sensex drops 700 points, Nifty below 23,300. 4 key factors behind today D-Street rout",
-      "summary": "Indian stock markets experienced a significant downturn today. Benchmark indices Sensex and Nifty saw substantial declines. This drop was fueled by escalating Iran-US tensions and continued selling by foreign institutional investors. Rising oil prices and a w…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-drops-700-points-nifty-below-23300-5-key-factors-behind-today-d-street-rout/articleshow/131454333.cms",
+      "headline": "Iran World Cup squad to reach Mexico Sunday",
+      "summary": "Iran’s national football team is set to arrive in Mexico on Sunday, June 7, ahead of the 2026 World Cup. Get the latest on their preparations and visa stat\n\nRead More: https://punchng.com/iran-world-cup-squad-to-reach-mexico-sunday/",
+      "source": "The Punch",
+      "url": "https://punchng.com/?p=2157464",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T08:54:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iranian drone attack hits Kuwait airport, causing injuries",
+      "summary": "Kuwait said Wednesday it had suspended commercial flights after an Iranian drone attack heavily damaged the country’s airport and caused injuries, hours after Iran and the United States traded missile strikes in the region.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/03/world-news/iranian-drone-attack-hits-kuwait-airport-causing-injuries/",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T08:25:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Drone strike damages Kuwait airport terminal amid regional chaos",
+      "summary": "A drone targeted Kuwait International Airport, causing injuries and damage to Terminal 1, Kuwaiti civil aviation authorities said, as regional tensions continued to affect Gulf security.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/drone-strike-damages-kuwait-airport-terminal-amid-regional-chaos-222830",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T06:06:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israel Captures Medieval Beaufort Castle in Southern Lebanon Amid Ongoing Operations",
+      "summary": "Israeli forces captured the 900-year-old Beaufort Castle and the strategic ridge surrounding it in southern Lebanon on May 31, 2026, according to military statements. Prime Minister Benjamin Netanyahu announced the move and ordered the military to expand its …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-03-israel-captures-beaufort-castle-in-southern-lebanon.html",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran attacks Kuwait's international airport and fires missiles at Bahrain while US strikes island in Strait of Hormuz as Trump tries to forge peace deal",
+      "summary": "Gulf hostilities flared anew on Wednesday after Iran launched drone and missile attacks targeting Kuwait's international airport and Bahrain.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15869929/Iran-attacks-Kuwaits-international-airport-fires-missiles-Bahrain-US-strikes-island-Strait-Hormuz-Trump-tries-forge-peace-deal.html",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T09:16:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iranian drone hits Kuwait’s main airport after US strikes Qeshm Island",
+      "summary": "Clashes continue as diplomacy between Washington and Tehran shows little progress.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island",
       "bloc": "regional",
       "date": "2026-06-03",
-      "datetime": "2026-06-03T03:57:23Z",
+      "datetime": "2026-06-03T08:39:47Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israel, Lebanon renew ceasefire after US-brokered talks",
-      "summary": "The statement comes after hostilities between Israel and Hezbollah had intensified. It is unclear if the renewed truce will affect stalled talks between the US and Iran. DW has more. Israel and Lebanon agree to renew their ceasefire after talks at US State De…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/israel-lebanon-renew-ceasefire-after-us-brokered-talks/live-77398874",
-      "bloc": "western",
-      "date": "2026-06-03",
-      "datetime": "2026-06-03T01:36:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Total Collapse Of Negotiations With Iran Threatens To Cause Global Economic Devastation",
-      "summary": "This is a moment in history that we will remember for a long time to come. Even though we were told over and over again that a deal with Iran was almost “finalized”, the truth is that there never was going to be a deal with Iran. It was all smoke and mirrors.…",
-      "source": "Shtfplan.com",
-      "url": "https://www.shtfplan.com/war/the-total-collapse-of-negotiations-with-iran-threatens-to-cause-global-economic-devastation",
-      "bloc": "western",
-      "date": "2026-06-02",
-      "datetime": "2026-06-02T22:30:27Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iranians speak out over possible Trump-regime deal",
-      "summary": "Iranians inside Iran express fear and frustration that a potential U.S.-Iran deal could leave the Islamic Republic intact despite economic devastation.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/iranians-speak-possible-trump-regime-deal",
-      "bloc": "western",
-      "date": "2026-06-02",
-      "datetime": "2026-06-02T21:52:35Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -170,32 +222,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "How Bitcoin will price Trump’s claim that Hormuz could reopen this weekend",
-      "summary": "Bitcoin briefly recovered the $74,000 zone on May 29, absorbing a geopolitical signal that oil futures, ETF desks, and US equity traders won't fully process until Monday. President Donald Trump said he would make a “final determination” on an Iran deal that w…",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/how-bitcoin-will-price-trumps-claim-that-hormuz-could-reopen-this-weekend/",
-      "bloc": "western",
-      "date": "2026-05-30",
-      "datetime": "2026-05-30T11:20:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Show HN: Simple news aggregator with source bias meters",
       "summary": "Article URL: https://unbiasthenews.com\nComments URL: https://news.ycombinator.com/item?id=48327194\nPoints: 2\n# Comments: 0",
       "source": "Unbiasthenews.com",
@@ -204,16 +230,15 @@
       "date": "2026-05-29",
       "datetime": "2026-05-29T18:21:24Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Benjamin Netanyahu"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Netanyahu trial ICC"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "accountability",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -293,6 +318,30 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "After America",
+      "summary": "While Washington’s war with Iran drags on, month after month, without any end in sight, the world is witnessing the very real limits of U.S. global power. As President Donald Trump lurches repeatedly from threats of devastation to promises of peace, it’s beco…",
+      "source": "CounterPunch",
+      "url": "https://www.counterpunch.org/2026/06/03/after-america/",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T06:00:21Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -393,30 +442,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "No Enemies, Stronger Army: Kazakhstan’s Strategic Bet",
-      "summary": "Kazakhstan’s military modernization efforts reflect an adaptive response to growing great power competition.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/05/no-enemies-stronger-army-kazakhstans-strategic-bet/",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T14:06:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "How Long Can Demand Destruction Keep a Lid on Oil Prices?",
       "summary": "In a somewhat puzzling market development, oil prices haven't spiked yet to record highs amid the worst supply disruption in history. That's because the market still hopes for a quick resolution to the Strait of Hormuz crisis (for more than three months now),…",
       "source": "OilPrice.com",
@@ -439,6 +464,32 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Total Collapse Of Negotiations With Iran Threatens To Cause Global Economic Devastation",
+      "summary": "This is a moment in history that we will remember for a long time to come. Even though we were told over and over again that a deal with Iran was almost “finalized”, the truth is that there never was going to be a deal with Iran. It was all smoke and mirrors.…",
+      "source": "Shtfplan.com",
+      "url": "https://www.shtfplan.com/war/the-total-collapse-of-negotiations-with-iran-threatens-to-cause-global-economic-devastation",
+      "bloc": "western",
+      "date": "2026-06-02",
+      "datetime": "2026-06-02T22:30:27Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -516,6 +567,52 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran’s New Grand Strategy",
+      "summary": "How a Remade Islamic Republic Will Reshape the Middle East Narges Bajoghli and Vali Nasr July/August 2026 Published on June 3, 2026 Illustration by Michaela Staton; Photo Source: Reuters Subscribe to unlock this feature or Sign in. Print Subscribe to unlock t…",
+      "source": "Foreign Affairs",
+      "url": "https://www.foreignaffairs.com/iran/irans-new-grand-strategy",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T00:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "general commander killed"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "personnel_killed",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ukraine hits St. Petersburg site as Putin’s Davos kicks off",
+      "summary": "Kyiv maintains drone assault on Russian oil facilities in overnight attack.",
+      "source": "POLITICO.eu",
+      "url": "https://www.politico.eu/article/ukraine-hits-st-petersburg-oil-terminal-putin-russia-davos-kicks-off/",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T08:29:23Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

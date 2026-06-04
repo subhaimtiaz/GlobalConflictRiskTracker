@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-03T21:20:42.421Z",
+  "ts": "2026-06-04T04:25:41.832Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,45 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 98,
-    "oilStress": 49,
-    "updatedAt": "2026-06-03T21:20:42.421Z"
+    "oilPrice": 97,
+    "oilStress": 47,
+    "updatedAt": "2026-06-04T04:25:41.832Z"
   },
   "items": [
     {
-      "headline": "Here is India’s answer to a broken world order",
-      "summary": "Tech rivalry between the US and China and wars in the Middle East are reshaping India’s foreign policy choices Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/india/640853-indias-answer-world-order-us-china/",
-      "bloc": "western",
-      "date": "2026-06-02",
-      "datetime": "2026-06-02T16:13:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The ceasefires in Gaza, Lebanon and Iran are stretching the term's meaning",
-      "summary": "Ceasefires have been announced but fighting continues across the Middle East - Gaza, Lebanon and Iran. Israeli forces advance in Gaza and Lebanon. The US and Iran trade fire, impacting global fuel supplies. Despite agreements, hostilities persist, leaving man…",
+      "headline": "Why is market falling today? Sensex drops 700 points, Nifty below 23,300. 4 key factors behind today D-Street rout",
+      "summary": "Indian stock markets experienced a significant downturn today. Benchmark indices Sensex and Nifty saw substantial declines. This drop was fueled by escalating Iran-US tensions and continued selling by foreign institutional investors. Rising oil prices and a w…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/the-ceasefires-in-gaza-lebanon-and-iran-are-stretching-the-terms-meaning/articleshow/131463540.cms",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-drops-700-points-nifty-below-23300-5-key-factors-behind-today-d-street-rout/articleshow/131454333.cms",
       "bloc": "regional",
-      "date": "2026-06-02",
-      "datetime": "2026-06-02T12:08:17Z",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T03:57:23Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US, Israel suffered heavy losses from Iranian air defenses during aggression: Commander",
-      "summary": "Iran inflicted significant losses on the aerial warfare equipment of the United States and the Israeli regime during the US-Israeli aggression on the country that came to a halt with a ceasefire in early April, according to the Commander of the Joint Headquar…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260602-presstv04.htm",
+      "headline": "Israel, Lebanon renew ceasefire after US-brokered talks",
+      "summary": "The statement comes after hostilities between Israel and Hezbollah had intensified. It is unclear if the renewed truce will affect stalled talks between the US and Iran. DW has more. Israel and Lebanon agree to renew their ceasefire after talks at US State De…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/israel-lebanon-renew-ceasefire-after-us-brokered-talks/live-77398874",
       "bloc": "western",
-      "date": "2026-06-02",
-      "datetime": "2026-06-02T12:00:00Z",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T01:36:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +66,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Al-Qassam Brigades says Israeli assassinations fail to break resistance",
-      "summary": "The al-Qassam Brigades says Israel is deluded in thinking it can weaken the Palestinian resistance movement Hamas by assassinating its leaders.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260602-presstv06.htm",
+      "headline": "The Total Collapse Of Negotiations With Iran Threatens To Cause Global Economic Devastation",
+      "summary": "This is a moment in history that we will remember for a long time to come. Even though we were told over and over again that a deal with Iran was almost “finalized”, the truth is that there never was going to be a deal with Iran. It was all smoke and mirrors.…",
+      "source": "Shtfplan.com",
+      "url": "https://www.shtfplan.com/war/the-total-collapse-of-negotiations-with-iran-threatens-to-cause-global-economic-devastation",
       "bloc": "western",
       "date": "2026-06-02",
-      "datetime": "2026-06-02T12:00:00Z",
+      "datetime": "2026-06-02T22:30:27Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iranians speak out over possible Trump-regime deal",
+      "summary": "Iranians inside Iran express fear and frustration that a potential U.S.-Iran deal could leave the Islamic Republic intact despite economic devastation.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/iranians-speak-possible-trump-regime-deal",
+      "bloc": "western",
+      "date": "2026-06-02",
+      "datetime": "2026-06-02T21:52:35Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -118,28 +118,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran has not revealed all its 'winning cards' yet, top general warns amid US-Israeli escalations",
-      "summary": "Iran has not yet revealed all of its \"winning cards\" and is ready for a potential confrontation with its enemies, a high-ranking military official has warned.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260602-presstv08.htm",
-      "bloc": "western",
-      "date": "2026-06-02",
-      "datetime": "2026-06-02T12:00:00Z",
+      "headline": "Iran war: Hostilities flare again, talks at a stalemate",
+      "summary": "With the Gulf region witnessing a surge in missile and drone strikes aimed at Kuwait, diplomatic efforts between Iran and the U.S. hit roadblocks. Israel's ongoing military operations in Lebanon add to the chaos, severely impacting shipping channels and obstr…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-war-hostilities-flare-again-talks-at-a-stalemate/articleshow/131473658.cms",
+      "bloc": "regional",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T00:39:12Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -222,58 +222,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump says US lifting naval blockade as ships may start heading home",
-      "summary": "The lifting of the blockade may stabilize global oil markets, but Iran's Bitcoin use could prompt regulatory scrutiny on cryptocurrencies.\nThe post Trump says US lifting naval blockade as ships may start heading home appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-lifting-naval-blockade-iran/",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T15:31:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US and Iran exchange strikes amid mixed info on peace deal",
-      "summary": "Citing two US officials and regional source involved in the mediation efforts, US media outlet Axios claimed on Thursday that US and Iranian negotiators have reached an agreement on a 60-day memorandum of understanding to extend the ceasefire, but US Presiden…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260529-globaltimes01.htm",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T11:53:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Hormuz, Ukraine and Japan: Three stories that mattered this week",
       "summary": "A potential Iran deal remained the story of the week, with conflicting signals from Washington keeping investors on edge. Developments in Ukraine and Japan highlighted long-term challenges.",
       "source": "Livemint",
@@ -345,6 +293,30 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US Petro-State Fades: Will China’s Electrostate Rise?",
+      "summary": "By the time American troops finished their humiliating retreat from Afghanistan, China had become the dominant power in Central Asia",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/06/petro-chinas-electrostate.html",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T04:04:47Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -445,25 +417,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "QUAD to build Fiji port: A new US-China flashpoint?",
-      "summary": "Quad kicks back to life in Asia Pacific, looking to develop ports in Fiji, in a counter to China's rise.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/5/29/quad-to-build-fiji-port-a-new-us-china-flashpoint",
-      "bloc": "regional",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T13:56:29Z",
+      "headline": "How Long Can Demand Destruction Keep a Lid on Oil Prices?",
+      "summary": "In a somewhat puzzling market development, oil prices haven't spiked yet to record highs amid the worst supply disruption in history. That's because the market still hopes for a quick resolution to the Strait of Hormuz crisis (for more than three months now),…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/How-Long-Can-Demand-Destruction-Keep-a-Lid-on-Oil-Prices.html",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T00:00:00Z",
       "leaders": [
-        "Xi Jinping"
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "oil Brent crude"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "values"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -495,32 +469,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Total Collapse Of Negotiations With Iran Threatens To Cause Global Economic Devastation",
-      "summary": "This is a moment in history that we will remember for a long time to come. Even though we were told over and over again that a deal with Iran was almost “finalized”, the truth is that there never was going to be a deal with Iran. It was all smoke and mirrors.…",
-      "source": "Theeconomiccollapseblog.com",
-      "url": "http://theeconomiccollapseblog.com/the-total-collapse-of-negotiations-with-iran-threatens-to-cause-global-economic-devastation/",
-      "bloc": "western",
-      "date": "2026-06-01",
-      "datetime": "2026-06-01T19:59:24Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Top 5 Commodities Impacted By The Iran War",
       "summary": "The Middle East conflict has triggered sweeping, multi-commodity supply shocks, profoundly impacting global energy, petrochemicals, agriculture and shipping industries, among others. The disruption of shipping through the Strait of Hormuz--which handles nearl…",
       "source": "OilPrice.com",
@@ -547,52 +495,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Current price of oil as of June 1, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-06-01-2026/",
+      "headline": "Fake Wars & Higher Prices: What a “Multipolar World Order” REALLY Means",
+      "summary": "The world is changing. The once dominant imperial power of the United States is faltering, hollowed out by corruption, over-extended by hubris, eaten away by the cancers of hatred, nationalism and greed. Even according to its own propaganda outlets, America h…",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/fake-wars-higher-prices-what-a-multipolar-world-order-really-means/",
       "bloc": "western",
-      "date": "2026-06-01",
-      "datetime": "2026-06-01T12:29:57Z",
+      "date": "2026-06-02",
+      "datetime": "2026-06-02T22:00:00Z",
       "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
+        "Vladimir Putin",
         "Donald J. Trump"
       ],
       "watch_terms": [
-        "oil Brent crude"
+        "arms control New"
       ],
       "dimensions": [
-        "survival",
+        "accountability",
         "values"
       ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "EU considers temporary freeze on Russian oil price cap amid Iran war",
-      "summary": "The EU's potential policy shift could reshape global energy logistics, impacting oil prices and accelerating crypto's role in trade settlements.\nThe post EU considers temporary freeze on Russian oil price cap amid Iran war appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/eu-freeze-russian-oil-price-cap-iran-war/",
-      "bloc": "western",
-      "date": "2026-05-31",
-      "datetime": "2026-05-31T08:32:21Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
@@ -606,52 +527,6 @@
       "bloc": "regional",
       "date": "2026-05-30",
       "datetime": "2026-05-30T08:54:31Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia Says Ukraine Used Storm Shadow Missiles Against Sevastopol Amid Cross-Border Air Attacks",
-      "summary": "Authorities in Russian-occupied Crimea said Ukraine attacked the port city of Sevastopol using Storm Shadow missiles, while Ukrainian officials reported Russian drone strikes on several regions.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260527-rferl02.htm",
-      "bloc": "western",
-      "date": "2026-05-27",
-      "datetime": "2026-05-27T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russian Black Sea Port of Tuapse Tackles Fire After Drone Strike",
-      "summary": "A fire broke out at Russia’s Black Sea port of Tuapse after another Ukrainian drone attack overnight, as authorities continue to clear up damage to coastline following multiple strikes in recent weeks.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/russian-black-sea-port-of-tuapse-tackles-fire-after-drone-strike",
-      "bloc": "western",
-      "date": "2026-05-27",
-      "datetime": "2026-05-27T08:07:05Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

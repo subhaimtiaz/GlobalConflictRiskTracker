@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-04T15:24:06.000Z",
+  "updated": "2026-06-04T20:09:54.370Z",
   "retention_days": 30,
   "items": [
     {
@@ -17249,7 +17249,120 @@
       "_from": "newsapi",
       "first_seen": "2026-06-04T15:24:06.000Z",
       "run_id": "2026-06-04T15:24"
+    },
+    {
+      "headline": "Chaos Reigns As New Clashes Create Cracks In Shaky Iran War Ceasefire",
+      "summary": "Repeated firefights across the Persian Gulf have left experts wondering what involved countries actually want for the Middle East.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/06/03/chaos-reigns-new-clashes-create-cracks-shaky-iran-war-ceasefire/",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T19:42:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-04T20:09:54.370Z",
+      "run_id": "2026-06-04T20:09"
+    },
+    {
+      "headline": "Donald Trump, Gianni Infantino and the Greed is Good World Cup",
+      "summary": "Ahead of the opening game on 11 June in Mexico City, controversies range from human rights abuses to price gouging.",
+      "source": "The42",
+      "url": "https://www.the42.ie/donald-trump-gianni-infantino-world-cup-7056131-May2026/",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T19:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-04T20:09:54.370Z",
+      "run_id": "2026-06-04T20:09"
+    },
+    {
+      "headline": "Israel Enhances Long-Range Strike, Missile Defense For Next Iran War",
+      "summary": "It’s already clear that Israel has concluded that it cannot solely count on the U.S. providing such extensive defense and other direct support in another war with Iran.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/pauliddon/2026/06/03/israel-enhances-long-range-strike-missile-defense-for-next-iran-war/",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T16:48:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-04T20:09:54.370Z",
+      "run_id": "2026-06-04T20:09"
+    },
+    {
+      "headline": "How AI could make wars go nuclear",
+      "summary": "The Americans were closing in, the situation was getting more dangerous by the minute — and President Xi Jinping was waiting for my recommendation. The standoff began in May, when the US announced a package of anti-aircraft and anti-ship missiles to Taiwan th…",
+      "source": "Vox",
+      "url": "https://www.vox.com/technology/490800/nuclear-ai-escalation",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T18:57:05Z",
+      "leaders": [
+        "Kim Jong-un",
+        "Vladimir Putin",
+        "General Asim Munir"
+      ],
+      "watch_terms": [
+        "nuclear signalling threat"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "survival",
+        "narcissism"
+      ],
+      "variable_key": "nuclearSignalling",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-04T20:09:54.370Z",
+      "run_id": "2026-06-04T20:09"
     }
   ],
-  "total_items_ever": 1734
+  "total_items_ever": 1738
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-04T20:10:59.561Z",
+  "ts": "2026-06-05T04:09:10.110Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 95,
     "oilStress": 45,
-    "updatedAt": "2026-06-04T20:10:59.560Z"
+    "updatedAt": "2026-06-05T04:09:10.110Z"
   },
   "items": [
+    {
+      "headline": "Hezbollah launches rockets at Israel, testing U.S.-mediated deal",
+      "summary": "The Israeli military said it had intercepted rockets fired by Hezbollah into Israel on Wednesday, while Lebanese security sources said an Israeli strike hit a car near Beirut, testing a U.S.-mediated deal that aims ‌to get the sides to curb attacks. Iran-back…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/hezbollah-launches-rockets-at-israel-testing-u.s.-mediated-deal1",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T21:46:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump confirms he called Netanyahu crazy in phone call",
+      "summary": "U.S. President Donald Trump acknowledged calling Israeli Prime Minister Benjamin Netanyahu &quot;crazy&quot; in an expletive-filled phone exchange over fighting in Lebanon, while the U.S. was trying to negotiate an ‌end to hostilities with Iran. In an intervi…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/trump-confirms-he-called-netanyahu-crazy-in-phone-call2",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T21:45:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How Pakistan became Trump’s most surprising ally",
+      "summary": "As the world waits to see if President Donald Trump will give his final approval to a deal to reopen the Strait of Hormuz and, perhaps, finally bring the 2026 US-Iran conflict to a close, it’s already clear that one of the more surprising developments of the …",
+      "source": "Vox",
+      "url": "https://www.vox.com/politics/490893/pakistan-trump-iran-war",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T20:55:26Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Chaos Reigns As New Clashes Create Cracks In Shaky Iran War Ceasefire",
       "summary": "Repeated firefights across the Persian Gulf have left experts wondering what involved countries actually want for the Middle East.",
@@ -66,54 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israel Enhances Long-Range Strike, Missile Defense For Next Iran War",
-      "summary": "It’s already clear that Israel has concluded that it cannot solely count on the U.S. providing such extensive defense and other direct support in another war with Iran.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/pauliddon/2026/06/03/israel-enhances-long-range-strike-missile-defense-for-next-iran-war/",
+      "headline": "Major blow to Trump as House passes war powers resolution to halt Pentagon from further strikes on Iran",
+      "summary": "The US House ​of Representatives on Wednesday backed a ‌Democratic-led resolution aiming to stop the Iran war until hostilities are authorized by Congress.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15872285/House-restrict-Trump-war-Iran.html",
       "bloc": "western",
       "date": "2026-06-03",
-      "datetime": "2026-06-03T16:48:31Z",
+      "datetime": "2026-06-03T23:37:10Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran war: ordinary Israelis and Lebanese remain trapped by the false promises of their leaders",
-      "summary": "Ordinary Lebanese and Israeli people are caught in the middle of a longstanding conflict between the Israeli government and Hezbollah.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/iran-war-ordinary-israelis-and-lebanese-remain-trapped-by-the-false-promises-of-their-leaders-284210",
-      "bloc": "western",
-      "date": "2026-06-03",
-      "datetime": "2026-06-03T14:58:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -196,23 +248,21 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
-      "summary": "Iran's blockade of the Strait of Hormuz has seriously challenged freedom of navigation in the sea lane, raising questions about the future.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
+      "headline": "House votes to rein in Trump on Iran as war loses GOP support",
+      "summary": "In May, the Senate advanced a similar measure to force the president to end the prolonged conflict with Iran.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/house-iran-war-powers-4th-vote-trump/",
       "bloc": "western",
-      "date": "2026-05-30",
-      "datetime": "2026-05-30T13:00:00Z",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T21:18:51Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Trump Iran war"
       ],
       "dimensions": [
-        "survival",
+        "accountability",
         "impulsivity"
       ],
       "variable_key": null,
@@ -621,6 +671,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "How Ukraine has turned the tide on rattled Putin with devastating long-range drone strikes crippling his war chest and grinding down his navy",
+      "summary": "The latest blow came on Wednesday when Ukraine staged a massive attack on a major oil port in St Petersburg.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15870577/How-Ukraine-turned-tide-rattled-Putin-devastating-long-range-drone-strikes-crippling-war-chest-grinding-navy.html",
+      "bloc": "western",
+      "date": "2026-06-03",
+      "datetime": "2026-06-03T23:46:48Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Ukraine hits St. Petersburg site as Putin’s Davos kicks off",
       "summary": "Kyiv maintains drone assault on Russian oil facilities in overnight attack.",
       "source": "POLITICO.eu",
@@ -662,28 +735,6 @@
       ],
       "variable_key": null,
       "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. military accuses Iran of ceasefire violation after Kuwait comes under missile attack",
-      "summary": "U.S. Central Command said Kuwait intercepted missiles fired from Iran late Wednesday, and military officials called the attack on one of America's top allies in the Persian Gulf an \"egregious ceasefire violation.\"",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/world/us-military-accuses-iran-of-ceasefire-violation-after-kuwait-comes-under-missile-attack",
-      "bloc": "western",
-      "date": "2026-05-28",
-      "datetime": "2026-05-28T15:18:45Z",
-      "leaders": [],
-      "watch_terms": [
-        "airstrike missile drone"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"

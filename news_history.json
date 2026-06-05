@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-05T15:12:54.789Z",
+  "updated": "2026-06-05T20:00:14.785Z",
   "retention_days": 30,
   "items": [
     {
@@ -17082,7 +17082,89 @@
       "_from": "newsapi",
       "first_seen": "2026-06-05T15:12:54.788Z",
       "run_id": "2026-06-05T15:12"
+    },
+    {
+      "headline": "The Lebanon Ceasefire was never meant to hold",
+      "summary": "By delivering a ceasefire on paper while Hezbollah's actual behavior guarantees its collapse, Israel and Washington have handed Tehran a paper concession that costs nothing real. Opinion.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/428142",
+      "bloc": "western",
+      "date": "2026-06-04",
+      "datetime": "2026-06-04T16:21:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-05T20:00:14.785Z",
+      "run_id": "2026-06-05T20:00"
+    },
+    {
+      "headline": "Little-Known Shipping ETF Turns $100K Into $2.1M in 1 Year",
+      "summary": "Put $100,000 into BWET on June 4, 2025, and you would have $2.13 million today. The setup is straightforward. The Breakwave Tanker Shipping ETF...",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/04/little-known-shipping-etf-turns-100k-into-2-1m-in-1-year/",
+      "bloc": "western",
+      "date": "2026-06-04",
+      "datetime": "2026-06-04T16:35:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-05T20:00:14.785Z",
+      "run_id": "2026-06-05T20:00"
+    },
+    {
+      "headline": "China Is Too Big for Shangri-La",
+      "summary": "Snubbing a key security forum shows Beijing’s new confidence.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/06/04/china-shangri-la-dong-jun-defense-minister/",
+      "bloc": "western",
+      "date": "2026-06-04",
+      "datetime": "2026-06-04T17:17:03Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-05T20:00:14.785Z",
+      "run_id": "2026-06-05T20:00"
     }
   ],
-  "total_items_ever": 1755
+  "total_items_ever": 1758
 }

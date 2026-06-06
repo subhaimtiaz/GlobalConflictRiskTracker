@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-05T20:01:19.970Z",
+  "ts": "2026-06-06T03:53:09.307Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 93,
     "oilStress": 41,
-    "updatedAt": "2026-06-05T20:01:19.969Z"
+    "updatedAt": "2026-06-06T03:53:09.307Z"
   },
   "items": [
+    {
+      "headline": "Explainer: How Trump's ceasefires are failing to stop West Asia violence",
+      "summary": "Trump's ceasefires in West Asia are failing, with ongoing violence despite efforts to broker peace in the region.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/how-trumps-ceasefires-are-failing-to-stop-west-asia-violence/article71063736.ece",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T03:27:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Lebanon-Israel truce faces setback after Hezbollah refuses ceasefire proposal",
+      "summary": "Hezbollah rejected a US-backed Lebanon-Israel ceasefire plan, while Israel continued strikes in southern Lebanon and ruled out a withdrawal.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/lebanon-israel-truce-faces-setback-after-hezbollah-refuses-ceasefire-proposal/article71063735.ece",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T01:57:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "CNBC Daily Open: Chips are down — but not for the Dow",
+      "summary": "Iran-backed Hezbollah rejected the U.S.-backed ceasefire terms agreed between Israel and Lebanon, demanding a full Israeli withdrawal first.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/05/iran-war-trump-ceasefire-chip-selloff-do-record.html",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T01:34:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Lebanon Ceasefire was never meant to hold",
       "summary": "By delivering a ceasefire on paper while Hezbollah's actual behavior guarantees its collapse, Israel and Washington have handed Tehran a paper concession that costs nothing real. Opinion.",
@@ -21,110 +99,6 @@
       "bloc": "western",
       "date": "2026-06-04",
       "datetime": "2026-06-04T16:21:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran footballers describe how war with US-Israel affects their World Cup",
-      "summary": "Iran national players Saeid Ezatolahi and Mohammad Ghorbani talk about how war is overshadowing a World Cup dream.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/sports/2026/6/4/iran-footballers-describe-how-war-with-us-israel-affects-their-world-cup",
-      "bloc": "regional",
-      "date": "2026-06-04",
-      "datetime": "2026-06-04T14:13:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "NEWS: Republicans Oppose Trump Publicly as Trump has Worst Week of Second Term, Screwworm is Back, Trump Health Questions",
-      "summary": "NEWS: Republicans Oppose Trump Publicly as Trump has Worst Week of Second Term, Screwworm is Back, Trump Health Questionssubstack.com",
-      "source": "Substack.com",
-      "url": "https://aaronparnas.substack.com/p/news-republicans-oppose-trump-publicly",
-      "bloc": "western",
-      "date": "2026-06-04",
-      "datetime": "2026-06-04T14:12:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Says 'No Tangible Progress' in Talks with U.S.",
-      "summary": "Iran has signaled that there has been “no tangible progress” in the talks with the U.S. on a potential deal while the Israel-Lebanon ceasefire announced by the United States overnight appears shaky. “No tangible progress has been achieved in the negotiation p…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-No-Tangible-Progress-in-Talks-with-US.html",
-      "bloc": "western",
-      "date": "2026-06-04",
-      "datetime": "2026-06-04T12:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Labour’s Love Lost",
-      "summary": "With Keir Starmer’s and his party’s future in doubt after local elections in May, there is a paucity of talent among his rivals.",
-      "source": "The New York Review of Books",
-      "url": "https://www.nybooks.com/articles/2026/06/25/labours-love-lost-british-elections-wheatcroft/",
-      "bloc": "western",
-      "date": "2026-06-04",
-      "datetime": "2026-06-04T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -298,31 +272,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Show HN: Simple news aggregator with source bias meters",
-      "summary": "Article URL: https://unbiasthenews.com\nComments URL: https://news.ycombinator.com/item?id=48327194\nPoints: 2\n# Comments: 0",
-      "source": "Unbiasthenews.com",
-      "url": "https://unbiasthenews.com",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T18:21:24Z",
-      "leaders": [
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Netanyahu trial ICC"
-      ],
-      "dimensions": [
-        "survival",
-        "accountability",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Hormuz, Ukraine and Japan: Three stories that mattered this week",
       "summary": "A potential Iran deal remained the story of the week, with conflicting signals from Washington keeping investors on edge. Developments in Ukraine and Japan highlighted long-term challenges.",
       "source": "Livemint",
@@ -344,56 +293,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war",
-      "summary": "Russia's warning to carry out \"consistent and systematic\" missile strikes on Kyiv, accompanied by a call for evacuating foreign embassies from the capital, signals Vladimir Putin's intention to expand Russia's barrage despite the heavy costs and potential int…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/world/with-a-stalemate-in-ukraine-and-discontent-at-home-putin-seems-ready-to-escalate-his-war",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T17:14:15Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "With stalemate in Ukraine, discontent at home, Putin seems ready to escalate his war",
-      "summary": "Russian Foreign Minister Sergey Lavrov calls US Secretary of State Marco Rubio to warn him of the coming strikes and push for the evacuation of its diplomats",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/with-stalemate-in-ukraine-discontent-at-home-putin-seems-ready-to-escalate-his-war/article71036202.ece",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T08:30:11Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

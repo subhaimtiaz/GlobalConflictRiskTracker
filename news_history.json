@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-06T13:51:53.683Z",
+  "updated": "2026-06-06T19:37:53.490Z",
   "retention_days": 30,
   "items": [
     {
@@ -16804,7 +16804,116 @@
       "_from": "newsapi",
       "first_seen": "2026-06-06T13:51:53.683Z",
       "run_id": "2026-06-06T13:51"
+    },
+    {
+      "headline": "Trump’s Red Line Against Iran Killing U.S. Troops Isn’t Anything New",
+      "summary": "While Trump appeared to be characteristically talking off the cuff, his answer reflects how the U.S. has, in many cases, dealt with Iranian and Iranian proxy attacks.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/pauliddon/2026/06/05/trumps-red-line-against-iran-killing-us-troops-isnt-anything-new/",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T18:24:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-06T19:37:53.489Z",
+      "run_id": "2026-06-06T19:37"
+    },
+    {
+      "headline": "Iran declares Hezbollah support, demands Israel leave Southern Lebanon — as US peace deal in is doubt",
+      "summary": "Iran has made a ‌cease-fire between Israel and Hezbollah a condition for any peace deal with Washington to resolve the regional war, now in its fourth month, and restart shipping through the Strait of Hormuz.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/05/world-news/iran-declares-support-for-hezbollah-with-us-peace-deal-in-doubt/",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T15:19:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-06T19:37:53.489Z",
+      "run_id": "2026-06-06T19:37"
+    },
+    {
+      "headline": "Exxon, Chevron Warn Another Oil Price Spike Coming Soon",
+      "summary": "Leading executives at ExxonMobil and Chevron sounded an alarm during a recent Bernstein conference.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/06/05/opinion-oil-price-spike-chevron-exxon-david-blackmon/",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T15:34:07Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-06T19:37:53.489Z",
+      "run_id": "2026-06-06T19:37"
+    },
+    {
+      "headline": "Are the US and Iran closer to war or to a deal?",
+      "summary": "As US and Iran pursue talks, both signal they are still ready to use force against each other.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/5/are-us-and-iran-closer-to-war-or-to-a-deal",
+      "bloc": "regional",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T14:33:19Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-06T19:37:53.489Z",
+      "run_id": "2026-06-06T19:37"
     }
   ],
-  "total_items_ever": 1774
+  "total_items_ever": 1778
 }

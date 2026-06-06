@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-06T08:39:56.794Z",
+  "ts": "2026-06-06T13:52:58.840Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 93,
     "oilStress": 41,
-    "updatedAt": "2026-06-06T08:39:56.794Z"
+    "updatedAt": "2026-06-06T13:52:58.840Z"
   },
   "items": [
     {
-      "headline": "News24 | Netanyahu support plunges in north Israel as Hezbollah rockets drive revolt",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu faces plunging support in the electorally vital north, where Hezbollah rocket fire has been heaviest, a new poll has shown, putting pressure on him to take a more hawkish stance as elections loom.",
+      "headline": "News24 | Ukraine’s Zelensky calls for Putin ‘direct engagement’ to end war with Russia",
+      "summary": "Ukraine’s Volodymyr Zelensky proposed a face-to-face meeting with Vladimir Putin in a rare open letter to the Russian leader, shortly after the Kremlin chief had conceded Moscow needed to strengthen its air defences following a spate of Ukrainian attacks.",
       "source": "News24",
-      "url": "https://www.news24.com/world/netanyahu-support-plunges-in-north-israel-as-hezbollah-rockets-drive-revolt-20260605-0390",
+      "url": "https://www.news24.com/world/ukraines-zelensky-calls-for-putin-direct-engagement-to-end-war-with-russia-20260605-0803",
       "bloc": "western",
       "date": "2026-06-05",
-      "datetime": "2026-06-05T07:10:28Z",
+      "datetime": "2026-06-05T13:24:15Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,65 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Live updates: Iran war, Lebanon’s president speaks out, Hezbollah-Israel attacks | CNN",
-      "summary": "Lebanese President Joseph Aoun slammed Iran in a rare, exclusive interview with CNN. Follow here for the latest.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/06/05/world/live-news/iran-trump-lebanon-israel-war-news",
-      "bloc": "western",
+      "headline": "UN boosts Lebanon aid appeal as Israeli war drives humanitarian crisis",
+      "summary": "The UN says it needs nearly $640m to help Lebanon over the next six months.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/5/un-boosts-lebanon-aid-appeal-as-israeli-war-drives-humanitarian-crisis",
+      "bloc": "regional",
       "date": "2026-06-05",
-      "datetime": "2026-06-05T06:35:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tehran Blames U.S. Patriot Missile for Damage on Kuwait Airport",
-      "summary": "Iranian state-linked media reported on Wednesday, June 3, that a US Patriot missile interceptor struck Kuwait International Airport, causing extensive damage to Terminal 1. According to the Tasnim News Agency, the Islamic Revolutionary Guard Corps (IRGC) said…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-06-05-tehran-blames-patriot-missile-damage-kuwait-airport.html",
-      "bloc": "western",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hezbollah rejects truce, demands Israeli withdrawal from Lebanon",
-      "summary": "Hezbollah's chief on June 4 rejected a conditional truce announced by Lebanese and Israeli envoys, demanding a comprehensive ceasefire and full Israeli withdrawal instead as he threatened northern Israel with new attacks.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/hezbollah-rejects-truce-demands-israeli-withdrawal-from-lebanon-222920",
-      "bloc": "western",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T05:40:15Z",
+      "datetime": "2026-06-05T12:23:52Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -118,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Explainer: How Trump's ceasefires are failing to stop West Asia violence",
-      "summary": "Trump's ceasefires in West Asia are failing, with ongoing violence despite efforts to broker peace in the region.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/how-trumps-ceasefires-are-failing-to-stop-west-asia-violence/article71063736.ece",
+      "headline": "Iran demands immediate release of 50% of frozen assets upon any understanding with US",
+      "summary": "Iran says at least 50 percent of its frozen financial assets must be released immediately upon the signing of any memorandum of understanding with the United States.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260605-presstv05.htm",
       "bloc": "western",
       "date": "2026-06-05",
-      "datetime": "2026-06-05T03:27:17Z",
+      "datetime": "2026-06-05T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -139,6 +87,136 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US-Israeli war against Iran pushing millions into hunger: WFP",
+      "summary": "The United Nations food relief organization has warned that the US-Israeli war on Iran is pushing millions of people in the West Asian region into hunger.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260605-presstv07.htm",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump's Disregard for International Humanitarian Law Won't End When the Iran War Does",
+      "summary": "Michele Goodwin, Eric A. Friedman\n\n\n\nAs political pressure to end the war grows, Americans must not overlook the president's blatant violations of the rule of law, abroad and at home. \r\n\n\r\n\n\nThe post Trump's Disregard for International Humanitarian Law Won't …",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/article/world/trump-international-humanitarian-law-iran-war/",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How the US naval blockade has bled Iran of nearly $6bn in oil revenues",
+      "summary": "Iran is exporting less than one-sixth of the oil it was shipping before the war began.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/5/how-the-us-naval-blockade-has-bled-iran-of-nearly-6bn-in-oil-revenues",
+      "bloc": "regional",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T13:18:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks",
+      "summary": "Today, the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is designating a network of individuals, entities, and vessels responsible for shipping hundreds of millions of dollars' worth of Iranian-origin liquid petroleum gas (LPG)⸺in…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260605-treasury01.htm",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US Military Says It Seized Iran-Linked Tanker In Indian Ocean",
+      "summary": "The US military's Indo-Pacific Command announced on June 5 that US forces had conducted a seizure and inspection operation against the stateless tanker MT Davina, which is currently under sanctions, in the Indian Ocean overnight.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260605-rferl05.htm",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -166,110 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows?",
-      "summary": "The Venezuelan leader, who is a devotee of Sathya Sai Baba, is in India as the two countries aim to boost energy ties.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/4/who-is-the-indian-guru-venezuelan-acting-president-delcy-rodriguez-follows",
-      "bloc": "regional",
-      "date": "2026-06-04",
-      "datetime": "2026-06-04T11:04:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: US Attempts Project Freedom 2.0 as Israel Continues Attacks in Lebanon Despite Alleged Ceasefire; Iran Economy Not Harmed by Sanctions, Performed on a Par to Saudis; Rice Prices Jump in Asia",
-      "summary": "Today's Iran war update: Iran punched back harder than the US expected in the latest exchange, but Israel still refuses to stop war-making.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/06/iran-war-us-attempts-project-freedom-2-0-as-israel-continues-attacks-in-lebanon-despite-alleged-ceasefire-iran-economy-not-harmed-by-sanctions-performed-on-a-par-to-saudis-rice-prices-jump-in-asia.html",
-      "bloc": "western",
-      "date": "2026-06-04",
-      "datetime": "2026-06-04T09:45:53Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Major blow to Trump as House passes war powers resolution to halt Pentagon from further strikes on Iran",
-      "summary": "The US House ​of Representatives on Wednesday backed a ‌Democratic-led resolution aiming to stop the Iran war until hostilities are authorized by Congress.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15872285/House-restrict-Trump-war-Iran.html",
-      "bloc": "western",
-      "date": "2026-06-03",
-      "datetime": "2026-06-03T23:37:10Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran attacks Kuwait's international airport and fires missiles at Bahrain while US strikes island in Strait of Hormuz as Trump tries to forge peace deal",
-      "summary": "Gulf hostilities flared anew on Wednesday after Iran launched drone and missile attacks targeting Kuwait's international airport and Bahrain.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15869929/Iran-attacks-Kuwaits-international-airport-fires-missiles-Bahrain-US-strikes-island-Strait-Hormuz-Trump-tries-forge-peace-deal.html",
-      "bloc": "western",
-      "date": "2026-06-03",
-      "datetime": "2026-06-03T09:16:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -618,6 +592,29 @@
       "variable_key": null,
       "event_type": "personnel_killed",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Long-range sanctions reach moscow region, oil refineries keep burning: results of deep-strike operations in May",
+      "summary": "Throughout May 2026, the geographic scope of Ukrainian deep-strike operations extended to more than ten regions of the russian federation, including Moscow, Vladimir, Kirov, and Samara oblasts. The longest-range strike reached 1,700 kilometers from the state …",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/06/ukraine-260604-ukraine-mod01.htm",
+      "bloc": "western",
+      "date": "2026-06-04",
+      "datetime": "2026-06-04T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

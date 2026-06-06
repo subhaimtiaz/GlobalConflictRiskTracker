@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-06T03:53:09.307Z",
+  "ts": "2026-06-06T08:39:56.794Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,113 @@
   "live_variables": {
     "oilPrice": 93,
     "oilStress": 41,
-    "updatedAt": "2026-06-06T03:53:09.307Z"
+    "updatedAt": "2026-06-06T08:39:56.794Z"
   },
   "items": [
+    {
+      "headline": "News24 | Netanyahu support plunges in north Israel as Hezbollah rockets drive revolt",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu faces plunging support in the electorally vital north, where Hezbollah rocket fire has been heaviest, a new poll has shown, putting pressure on him to take a more hawkish stance as elections loom.",
+      "source": "News24",
+      "url": "https://www.news24.com/world/netanyahu-support-plunges-in-north-israel-as-hezbollah-rockets-drive-revolt-20260605-0390",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T07:10:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Live updates: Iran war, Lebanon’s president speaks out, Hezbollah-Israel attacks | CNN",
+      "summary": "Lebanese President Joseph Aoun slammed Iran in a rare, exclusive interview with CNN. Follow here for the latest.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/05/world/live-news/iran-trump-lebanon-israel-war-news",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T06:35:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Tehran Blames U.S. Patriot Missile for Damage on Kuwait Airport",
+      "summary": "Iranian state-linked media reported on Wednesday, June 3, that a US Patriot missile interceptor struck Kuwait International Airport, causing extensive damage to Terminal 1. According to the Tasnim News Agency, the Islamic Revolutionary Guard Corps (IRGC) said…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-05-tehran-blames-patriot-missile-damage-kuwait-airport.html",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Hezbollah rejects truce, demands Israeli withdrawal from Lebanon",
+      "summary": "Hezbollah's chief on June 4 rejected a conditional truce announced by Lebanese and Israeli envoys, demanding a comprehensive ceasefire and full Israeli withdrawal instead as he threatened northern Israel with new attacks.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/hezbollah-rejects-truce-demands-israeli-withdrawal-from-lebanon-222920",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T05:40:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Explainer: How Trump's ceasefires are failing to stop West Asia violence",
       "summary": "Trump's ceasefires in West Asia are failing, with ongoing violence despite efforts to broker peace in the region.",
@@ -21,84 +125,6 @@
       "bloc": "western",
       "date": "2026-06-05",
       "datetime": "2026-06-05T03:27:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Lebanon-Israel truce faces setback after Hezbollah refuses ceasefire proposal",
-      "summary": "Hezbollah rejected a US-backed Lebanon-Israel ceasefire plan, while Israel continued strikes in southern Lebanon and ruled out a withdrawal.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/lebanon-israel-truce-faces-setback-after-hezbollah-refuses-ceasefire-proposal/article71063735.ece",
-      "bloc": "western",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T01:57:11Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "CNBC Daily Open: Chips are down — but not for the Dow",
-      "summary": "Iran-backed Hezbollah rejected the U.S.-backed ceasefire terms agreed between Israel and Lebanon, demanding a full Israeli withdrawal first.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/05/iran-war-trump-ceasefire-chip-selloff-do-record.html",
-      "bloc": "western",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T01:34:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Lebanon Ceasefire was never meant to hold",
-      "summary": "By delivering a ceasefire on paper while Hezbollah's actual behavior guarantees its collapse, Israel and Washington have handed Tehran a paper concession that costs nothing real. Opinion.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/428142",
-      "bloc": "western",
-      "date": "2026-06-04",
-      "datetime": "2026-06-04T16:21:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

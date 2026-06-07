@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-07T04:18:59.834Z",
+  "ts": "2026-06-07T09:21:05.496Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 93,
     "oilStress": 41,
-    "updatedAt": "2026-06-07T04:18:59.834Z"
+    "updatedAt": "2026-06-07T09:21:05.496Z"
   },
   "items": [
+    {
+      "headline": "Several Lebanese soldiers killed in Israeli strike on military vehicle, army says",
+      "summary": "It comes just days after the two countries announced a conditional truce following talks in the US.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/several-lebanese-soldiers-killed-in-israeli-strike-on-military-vehicle-7062475-Jun2026/",
+      "bloc": "western",
+      "date": "2026-06-06",
+      "datetime": "2026-06-06T08:22:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US, Iran trade strikes despite visas for World Cup footballers",
+      "summary": "New attacks in the Middle East on Friday threatened to unravel an already fragile U.S.-Iran ceasefire, even as American officials confirmed that Tehran's football players had received visas for the World Cup.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-iran-trade-strikes-despite-visas-for-world-cup-footballers-222950",
+      "bloc": "western",
+      "date": "2026-06-06",
+      "datetime": "2026-06-06T06:42:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US and Iran trade strikes in latest test of already fragile ceasefire",
+      "summary": "US Central Command said Iran launched seven ballistic missiles toward Kuwait and Bahrain.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/us-and-iran-trade-strikes-in-latest-test-of-already-fragile-ceasefire-7062444-Jun2026/",
+      "bloc": "western",
+      "date": "2026-06-06",
+      "datetime": "2026-06-06T06:26:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump Says Things Are 'Going Quite Well' As U.S. Military Shoots Down Iranian Drones Launched Toward Strait Of Hormuz",
       "summary": "The U.S. military says it shot down four Iranian drones that were launched toward the Strait of Hormuz on Friday and then struck some of the Islamic Republic’s coastal surveillance radar sites in response.",
@@ -62,84 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran using Lebanon as bargaining chip in US talks, Lebanese president says",
-      "summary": "Lebanese President Joseph Aoun accused ‌Iran of using Lebanon as a bargaining chip in its negotiations with the United States on Friday, in some of his toughest criticism yet of Tehran ‌and its Lebanese ally Hezbollah as it wages war ⁠with Israel. In a CNN in…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/iran-using-lebanon-as-bargaining-chip-in-us-talks-lebanese-president-says2",
-      "bloc": "western",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T20:43:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump’s Red Line Against Iran Killing U.S. Troops Isn’t Anything New",
-      "summary": "While Trump appeared to be characteristically talking off the cuff, his answer reflects how the U.S. has, in many cases, dealt with Iranian and Iranian proxy attacks.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/pauliddon/2026/06/05/trumps-red-line-against-iran-killing-us-troops-isnt-anything-new/",
-      "bloc": "western",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T18:24:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "News24 | Ukraine’s Zelensky calls for Putin ‘direct engagement’ to end war with Russia",
-      "summary": "Ukraine’s Volodymyr Zelensky proposed a face-to-face meeting with Vladimir Putin in a rare open letter to the Russian leader, shortly after the Kremlin chief had conceded Moscow needed to strengthen its air defences following a spate of Ukrainian attacks.",
-      "source": "News24",
-      "url": "https://www.news24.com/world/ukraines-zelensky-calls-for-putin-direct-engagement-to-end-war-with-russia-20260605-0803",
-      "bloc": "western",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T13:24:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-07T14:03:16.818Z",
+  "ts": "2026-06-07T19:39:30.280Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 93,
     "oilStress": 41,
-    "updatedAt": "2026-06-07T14:03:16.818Z"
+    "updatedAt": "2026-06-07T19:39:30.280Z"
   },
   "items": [
+    {
+      "headline": "Iran Fires Ballistic Missiles, Drones at Arab States as Conflict Approaches 100-Day Mark",
+      "summary": "Reuters: \"Iran’s Revolutionary Guard Corps said it had attacked U.S. bases in Kuwait and Bahrain in retaliation for U.S. strikes and fired at four tankers trying to cross the strait without its permission.\" \nThe post Iran Fires Ballistic Missiles, Drones at A…",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2026/06/iran-fires-ballistic-missiles-drones-at-arab-states-as-conflict-approaches-100-day-mark/",
+      "bloc": "western",
+      "date": "2026-06-06",
+      "datetime": "2026-06-06T18:00:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran World Cup squad heads to Mexico as US visa row erupts",
       "summary": "Iran has accused the United States of \"political interference in sport\" after visa denials for some of its World Cup support staff. The Iranian embassy in Turkey stated that a \"large\" number of managerial and executive staff were denied entry, escalating disc…",
@@ -66,32 +92,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Lebanese army colonel, troops killed in Israeli air raid despite ceasefire",
-      "summary": "The Lebanese army says several soldiers, including a senior officer, have been killed in an Israeli airstrike that targeted a military vehicle in southern Lebanon, despite a renewed ceasefire agreement.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260606-presstv08.htm",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Pakistan's interior minister to visit Tehran to push US-Iran mediation efforts",
       "summary": "Pakistan's Interior Minister is scheduled to travel to Iran as part of ongoing diplomatic consultations to mediate between Tehran and Washington aimed at permanently ending the war US-Israeli war of aggression against the Islamic Republic.",
       "source": "Globalsecurity.org",
@@ -118,13 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump must break negotiation deadlock, says adviser to Iranian supreme leader",
-      "summary": "A senior adviser to Iran's supreme leader has called on U.S. President Donald Trump to make decisions independently of Israel, stop the blockade in the Strait of Hormuz, and release Iran's frozen assets.",
+      "headline": "Lebanese army colonel, troops killed in Israeli air raid despite ceasefire",
+      "summary": "The Lebanese army says several soldiers, including a senior officer, have been killed in an Israeli airstrike that targeted a military vehicle in southern Lebanon, despite a renewed ceasefire agreement.",
       "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260606-pdo01.htm",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260606-presstv08.htm",
       "bloc": "western",
       "date": "2026-06-06",
-      "datetime": "2026-06-06T11:37:16Z",
+      "datetime": "2026-06-06T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -139,7 +139,7 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 2,
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

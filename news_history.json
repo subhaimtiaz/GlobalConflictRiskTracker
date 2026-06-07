@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-07T14:02:11.613Z",
+  "updated": "2026-06-07T19:38:25.069Z",
   "retention_days": 30,
   "items": [
     {
@@ -16355,7 +16355,35 @@
       "_from": "newsapi",
       "first_seen": "2026-06-07T14:02:11.613Z",
       "run_id": "2026-06-07T14:02"
+    },
+    {
+      "headline": "Iran Fires Ballistic Missiles, Drones at Arab States as Conflict Approaches 100-Day Mark",
+      "summary": "Reuters: \"Iran’s Revolutionary Guard Corps said it had attacked U.S. bases in Kuwait and Bahrain in retaliation for U.S. strikes and fired at four tankers trying to cross the strait without its permission.\" \nThe post Iran Fires Ballistic Missiles, Drones at A…",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2026/06/iran-fires-ballistic-missiles-drones-at-arab-states-as-conflict-approaches-100-day-mark/",
+      "bloc": "western",
+      "date": "2026-06-06",
+      "datetime": "2026-06-06T18:00:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-07T19:38:25.068Z",
+      "run_id": "2026-06-07T19:38"
     }
   ],
-  "total_items_ever": 1791
+  "total_items_ever": 1792
 }

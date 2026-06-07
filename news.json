@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-06T19:38:58.861Z",
+  "ts": "2026-06-07T04:18:59.834Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 93,
     "oilStress": 41,
-    "updatedAt": "2026-06-06T19:38:58.861Z"
+    "updatedAt": "2026-06-07T04:18:59.834Z"
   },
   "items": [
+    {
+      "headline": "Trump Says Things Are 'Going Quite Well' As U.S. Military Shoots Down Iranian Drones Launched Toward Strait Of Hormuz",
+      "summary": "The U.S. military says it shot down four Iranian drones that were launched toward the Strait of Hormuz on Friday and then struck some of the Islamic Republic’s coastal surveillance radar sites in response.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-us-trump_n_6a237f91e4b0423d0613a569",
+      "bloc": "western",
+      "date": "2026-06-06",
+      "datetime": "2026-06-06T02:15:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US intercepts Iranian drones and targets radar installations in Strait of Hormuz region",
+      "summary": "The US said it downed four Iranian drones near the Strait of Hormuz and struck radar sites, raising tensions as ceasefire and nuclear talks remain fragile.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/us-intercepts-iranian-drones-and-targets-radar-installations-in-strait-of-hormuz-region/article71068300.ece",
+      "bloc": "western",
+      "date": "2026-06-06",
+      "datetime": "2026-06-06T01:48:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran using Lebanon as bargaining chip in US talks, Lebanese president says",
+      "summary": "Lebanese President Joseph Aoun accused ‌Iran of using Lebanon as a bargaining chip in its negotiations with the United States on Friday, in some of his toughest criticism yet of Tehran ‌and its Lebanese ally Hezbollah as it wages war ⁠with Israel. In a CNN in…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/iran-using-lebanon-as-bargaining-chip-in-us-talks-lebanese-president-says2",
+      "bloc": "western",
+      "date": "2026-06-05",
+      "datetime": "2026-06-05T20:43:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump’s Red Line Against Iran Killing U.S. Troops Isn’t Anything New",
       "summary": "While Trump appeared to be characteristically talking off the cuff, his answer reflects how the U.S. has, in many cases, dealt with Iranian and Iranian proxy attacks.",
@@ -66,80 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "UN boosts Lebanon aid appeal as Israeli war drives humanitarian crisis",
-      "summary": "The UN says it needs nearly $640m to help Lebanon over the next six months.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/5/un-boosts-lebanon-aid-appeal-as-israeli-war-drives-humanitarian-crisis",
-      "bloc": "regional",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T12:23:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran demands immediate release of 50% of frozen assets upon any understanding with US",
-      "summary": "Iran says at least 50 percent of its frozen financial assets must be released immediately upon the signing of any memorandum of understanding with the United States.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260605-presstv05.htm",
+      "headline": "US carries out another ‘defensive’ strike on Iranian island",
+      "summary": "The US Department of War has said it shot down several Iranian drones over the Strait of Hormuz and carried out strikes against Iran’s coastal installations to prevent a further threat.",
+      "source": "RT",
+      "url": "https://www.rt.com/news/641107-us-iran-qeshm-island-strike/",
       "bloc": "western",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T12:00:00Z",
+      "date": "2026-06-06",
+      "datetime": "2026-06-06T00:05:50Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US-Israeli war against Iran pushing millions into hunger: WFP",
-      "summary": "The United Nations food relief organization has warned that the US-Israeli war on Iran is pushing millions of people in the West Asian region into hunger.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260605-presstv07.htm",
-      "bloc": "western",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -222,32 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US Military Says It Seized Iran-Linked Tanker In Indian Ocean",
-      "summary": "The US military's Indo-Pacific Command announced on June 5 that US forces had conducted a seizure and inspection operation against the stateless tanker MT Davina, which is currently under sanctions, in the Indian Ocean overnight.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260605-rferl05.htm",
-      "bloc": "western",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "House votes to rein in Trump on Iran as war loses GOP support",
       "summary": "In May, the Senate advanced a similar measure to force the president to end the prolonged conflict with Iran.",
       "source": "CBS News",
@@ -264,31 +264,6 @@
       "dimensions": [
         "accountability",
         "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz, Ukraine and Japan: Three stories that mattered this week",
-      "summary": "A potential Iran deal remained the story of the week, with conflicting signals from Washington keeping investors on edge. Developments in Ukraine and Japan highlighted long-term challenges.",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/opinion/online-views/iran-war-hormuz-blockade-russia-ukraine-war-japan-ageing-population-11780115848080.html",
-      "bloc": "western",
-      "date": "2026-05-30",
-      "datetime": "2026-05-30T05:58:47Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -672,29 +647,6 @@
       "bloc": "western",
       "date": "2026-06-03",
       "datetime": "2026-06-03T08:29:23Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows",
-      "summary": "Strikes have seen 13,000 residents without power in Zaporizhzhia as Russia and Ukraine trade drone attacks.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/5/30/ukraine-drones-strike-russian-oil-facility-as-kyiv-and-moscow-trade-blows",
-      "bloc": "regional",
-      "date": "2026-05-30",
-      "datetime": "2026-05-30T08:54:31Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

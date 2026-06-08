@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-08T15:59:59.581Z",
+  "updated": "2026-06-08T20:23:33.300Z",
   "retention_days": 30,
   "items": [
     {
@@ -15992,7 +15992,91 @@
       "_from": "newsapi",
       "first_seen": "2026-06-08T15:59:59.581Z",
       "run_id": "2026-06-08T15:59"
+    },
+    {
+      "headline": "Israel warns of severe response after intercepting multiple Iran missiles",
+      "summary": "Summary Missiles were launched from Iran toward Israel a short time ago and defense systems are operating to intercept the threat, the Israeli military said in a statement. US bases and and Israeli assets in the region have become \"legitimate targets,\" Iran's…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4382764/posts",
+      "bloc": "western",
+      "date": "2026-06-07",
+      "datetime": "2026-06-07T19:58:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-08T20:23:33.299Z",
+      "run_id": "2026-06-08T20:23"
+    },
+    {
+      "headline": "Read the transcript: President Donald Trump interviewed by NBC News’ ‘Meet the Press’ moderator Kristen Welker",
+      "summary": "Trump spoke about the war with Iran, the “anti-weaponization” fund, the economy, recent elections in California and more in June 2026 interview.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/donald-trump/read-transcript-president-donald-trump-interviewed-nbc-news-meet-press-rcna348508",
+      "bloc": "western",
+      "date": "2026-06-07",
+      "datetime": "2026-06-07T17:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-08T20:23:33.299Z",
+      "run_id": "2026-06-08T20:23"
+    },
+    {
+      "headline": "Meet the Press - June 7, 2026",
+      "summary": "President Donald Trump, Ashley Etienne, Carol Lee and Marc Short",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/meet-the-press/transcripts/meet-press-june-7-2026-rcna348859",
+      "bloc": "western",
+      "date": "2026-06-07",
+      "datetime": "2026-06-07T17:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-08T20:23:33.299Z",
+      "run_id": "2026-06-08T20:23"
     }
   ],
-  "total_items_ever": 1805
+  "total_items_ever": 1808
 }

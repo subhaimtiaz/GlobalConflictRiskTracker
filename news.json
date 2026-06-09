@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-09T15:15:49.691Z",
+  "ts": "2026-06-09T20:12:18.758Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 91,
-    "oilStress": 38,
-    "updatedAt": "2026-06-09T15:15:49.691Z"
+    "oilPrice": 92,
+    "oilStress": 39,
+    "updatedAt": "2026-06-09T20:12:18.758Z"
   },
   "items": [
+    {
+      "headline": "Finland’s foreign minister says Ukraine ‘is now holding the cards’ as Russia signals talks",
+      "summary": "Finnish Foreign Minister Elina Valtonen says Ukraine is holding the cards today as Russia renews talk of negotiations amid Kyiv's military gains.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/finlands-foreign-minister-says-ukraine-is-now-holding-cards-russia-signals-talks",
+      "bloc": "western",
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T20:01:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Airline profits plummet as US fuel costs nearly double",
+      "summary": "IATA forecasts $350bn airline fuel bill for 2026, with profits dipping to their weakest margin since the COVID-19 years.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/6/8/airline-profits-plummet-as-us-fuel-costs-nearly-double",
+      "bloc": "regional",
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T18:29:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "38 Senators Aren’t Buying Trump’s Claim That Iran War Is ‘Terminated.’ They Want To See Receipts",
       "summary": "Thirty-eight Senate Democrats demanded more information in a Sunday letter about President Donald Trump's claim that the Iran war is \"terminated.\"",
@@ -92,53 +144,105 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Pezeshkian: Iran won't retreat, will stand firm to defend nation against threats",
-      "summary": "President Masoud Pezeshkian has reaffirmed Iran's unwavering stance in the face of any threat, saying the Islamic Republic will neither retreat nor hesitate in defending its national security and peace.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260608-presstv15.htm",
+      "headline": "Oil Climbs as Israel, Iran Pause",
+      "summary": "Oil price rise was stunted as Israel and Iran signaled they may avoid further escalation.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/oil_climbs_as_israel_iran_pause-08-jun-2026-183880-article/",
       "bloc": "western",
       "date": "2026-06-08",
-      "datetime": "2026-06-08T12:00:00Z",
+      "datetime": "2026-06-08T19:58:07Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israel and Iran Appear to Pause Strikes After Trading Fire for the First Time Since April Ceasefire",
+      "summary": "The renewed hostilities raised concerns that the Middle East could be plunged back into a full-scale war.",
+      "source": "Military.com",
+      "url": "https://military.com/israel-and-iran-appear-to-pause-strikes-after-trading-fire-for-the-first-time-since-april-ceasefire",
+      "bloc": "western",
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T18:39:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Iran warns any mistake will turn region into 'hell' for US-Israeli 'evil coalition'",
-      "summary": "Iran's top security official has warned the \"evil coalition\" of the United States and Israel that the entire region will turn into hell for them should they make another mistake.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260608-presstv11.htm",
-      "bloc": "western",
+      "headline": "US military disables vessel that violated Iran port blockade",
+      "summary": "United States forces disabled an oil tanker in the Gulf of Oman. The vessel, M/T Marivex, violated a blockade of Iran's ports. US military fired a munition into the ship after crew failed to comply. The ship is no longer sailing to Iran. All 24 Indian crew me…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-military-disables-vessel-that-violated-iran-port-blockade/articleshow/131592500.cms",
+      "bloc": "regional",
       "date": "2026-06-08",
-      "datetime": "2026-06-08T12:00:00Z",
+      "datetime": "2026-06-08T16:43:58Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US forces disable oil tanker M/T Marivex in Gulf of Oman amid tensions",
+      "summary": "Heightened military tensions in the Gulf of Oman could disrupt global oil supply chains, impacting international shipping and market stability.\nThe post US forces disable oil tanker M/T Marivex in Gulf of Oman amid tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-forces-disable-oil-tanker-mt-marivex-in-gulf-of-oman-amid-tensions/",
+      "bloc": "western",
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T16:35:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -151,110 +255,6 @@
       "bloc": "regional",
       "date": "2026-06-08",
       "datetime": "2026-06-08T06:27:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump May Be Serious About ‘Taking Over’ Cuba",
-      "summary": "The US, with Donald Trump as president, has become a bizarre place. The country is at the moment in a sort of lull in a major war that Trump and his Israeli sidekick Benjamin Netanyahu launched against Iran over three months ago—not quite a cease-fire, but no…",
-      "source": "CounterPunch",
-      "url": "https://www.counterpunch.org/2026/06/08/trump-may-be-serious-about-taking-over-cuba/",
-      "bloc": "western",
-      "date": "2026-06-08",
-      "datetime": "2026-06-08T05:58:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Shipping Professionals Eye Relocation From Dubai to Greece Amid Gulf Conflict",
-      "summary": "Some shipping industry workers based in Dubai are looking to relocate from the United Arab Emirates as a result of the ongoing U.S.-Israel war on Iran, according to one ship owner and two industry sources familiar with the matter. Western expats working in th…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/shipping-professionals-eye-relocation-from-dubai-to-greece-amid-gulf-conflict/",
-      "bloc": "western",
-      "date": "2026-06-07",
-      "datetime": "2026-06-07T10:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US carries out another ‘defensive’ strike on Iranian island",
-      "summary": "The US Department of War has said it shot down several Iranian drones over the Strait of Hormuz and carried out strikes against Iran’s coastal installations to prevent a further threat.",
-      "source": "RT",
-      "url": "https://www.rt.com/news/641107-us-iran-qeshm-island-strike/",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T00:05:50Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran declares Hezbollah support, demands Israel leave Southern Lebanon — as US peace deal in is doubt",
-      "summary": "Iran has made a ‌cease-fire between Israel and Hezbollah a condition for any peace deal with Washington to resolve the regional war, now in its fourth month, and restart shipping through the Strait of Hormuz.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/05/world-news/iran-declares-support-for-hezbollah-with-us-peace-deal-in-doubt/",
-      "bloc": "western",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T15:19:52Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

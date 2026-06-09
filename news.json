@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-09T09:54:10.917Z",
+  "ts": "2026-06-09T15:15:49.691Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,71 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 92,
-    "oilStress": 40,
-    "updatedAt": "2026-06-09T09:54:10.917Z"
+    "oilPrice": 91,
+    "oilStress": 38,
+    "updatedAt": "2026-06-09T15:15:49.691Z"
   },
   "items": [
     {
-      "headline": "Israeli paper says Israel coordinated Iran strikes with US, contradicting White House",
-      "summary": "Israel coordinated its early morning strikes on positions inside Iranian territory with the United States, contrary to White House claims of non-involvement in the attacks, an Israeli newspaper says.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260608-presstv05.htm",
+      "headline": "38 Senators Aren’t Buying Trump’s Claim That Iran War Is ‘Terminated.’ They Want To See Receipts",
+      "summary": "Thirty-eight Senate Democrats demanded more information in a Sunday letter about President Donald Trump's claim that the Iran war is \"terminated.\"",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/06/08/38-senators-trumps-iran-war-terminated/",
       "bloc": "western",
       "date": "2026-06-08",
-      "datetime": "2026-06-08T09:36:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israel Hits Iranian Petrochemical Plant as War Escalates",
-      "summary": "Israel hit a petrochemical plant in southwestern Iran early on Monday, the first direct energy strike on Iranian territory since the April 8 ceasefire, as hostilities in the Middle East rapidly escalated during the weekend. Israel and Iran traded missile stri…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Israel-Hits-Iranian-Petrochemical-Plant-as-War-Escalates.html",
-      "bloc": "western",
-      "date": "2026-06-08",
-      "datetime": "2026-06-08T09:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How Lebanon and Iran’s war of words became backdrop for latest Israel war",
-      "summary": "Iran had warned that talks could be stopped and attacks would resume if Israel continued to hit Lebanon.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/6/8/how-lebanon-and-irans-war-of-words-became-backdrop-for-latest-israel-war",
-      "bloc": "regional",
-      "date": "2026-06-08",
-      "datetime": "2026-06-08T07:26:39Z",
+      "datetime": "2026-06-08T14:50:32Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +40,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Says Iranâs Top Leader Involved in Peace Talks, Injured in February Airstrike",
-      "summary": "President Donald Trump stated that Iran’s top leader, Mojtaba Khamenei, is participating in peace talks with the United States and suffered injuries during a U.S.-Israeli airstrike earlier this year. Trump’s comments were made in an interview with The New Yor…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-06-08-trump-iran-top-leader-involved-peace-talks.html",
+      "headline": "Iran, Israel exchange fire in first clash since truce",
+      "summary": "Iran and Israel on June 8 attacked each other’s territory for the first time since a shaky ceasefire put five weeks of war on hold, sparking fears the escalation could spark a new full-scale conflict.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/iran-israel-exchange-fire-in-first-clash-since-truce-223036",
       "bloc": "western",
       "date": "2026-06-08",
-      "datetime": "2026-06-08T06:00:00Z",
+      "datetime": "2026-06-08T12:19:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "JUST IN: Trump Responds After Israel and Iran Continue Fighting Overnight – UPDATE: Iran Announces It Will Halt Attacks (VIDEO)",
+      "summary": "UPDATE:  Per Fox's Trey Yingst, Iran has announced it will halt attacks on Israel.\nThe post JUST IN: Trump Responds After Israel and Iran Continue Fighting Overnight – UPDATE: Iran Announces It Will Halt Attacks (VIDEO) appeared first on The Gateway Pundit.",
+      "source": "Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/06/just-trump-responds-after-israel-iran-continue-fighting/",
+      "bloc": "western",
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T12:00:41Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -118,13 +92,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "News24 | Israel bombs Iran in defiance of Trump insisting Netanyahu ‘doesn’t call the shots’",
-      "summary": "Israel said it struck military targets in western and central Iran, even after US President Donald Trump reportedly told Israeli Prime Minister Benjamin Netanyahu to refrain from further attacks.",
-      "source": "News24",
-      "url": "https://www.news24.com/world/israel-bombs-iran-in-defiance-of-trump-insisting-netanyahu-doesnt-call-the-shots-20260608-0288",
+      "headline": "Pezeshkian: Iran won't retreat, will stand firm to defend nation against threats",
+      "summary": "President Masoud Pezeshkian has reaffirmed Iran's unwavering stance in the face of any threat, saying the Islamic Republic will neither retreat nor hesitate in defending its national security and peace.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260608-presstv15.htm",
       "bloc": "western",
       "date": "2026-06-08",
-      "datetime": "2026-06-08T04:50:12Z",
+      "datetime": "2026-06-08T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran warns any mistake will turn region into 'hell' for US-Israeli 'evil coalition'",
+      "summary": "Iran's top security official has warned the \"evil coalition\" of the United States and Israel that the entire region will turn into hell for them should they make another mistake.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260608-presstv11.htm",
+      "bloc": "western",
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -370,6 +370,110 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The Iran Stalemate Could Be the Next Oil Supercycle Trigger",
+      "summary": "As one deadline for a peace deal in the U.S./Israel-Iran war passes another, the chance of no firm agreement being struck to end the conflict in the coming months is rising dramatically. There are good reasons why Washington under President Donald Trump may b…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/The-Iran-Stalemate-Could-Be-the-Next-Oil-Supercycle-Trigger.html",
+      "bloc": "western",
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T15:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Current price of oil as of June 8, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-06-08-2026/",
+      "bloc": "western",
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T13:11:21Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "China is helping to cushion global oil prices below $100 — but analysts warn it won’t last",
+      "summary": "China has reduced oil imports since the start of the Iran war, capping global crude prices.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/08/china-oil-iran-war-us-israel-energy-prices-strait-hormuz.html",
+      "bloc": "western",
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T11:38:07Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Sensex today | Stock Market Highlights: Sensex settles at 73,524.26, down 719.08 pts (0.97%); Nifty ends at 23,123, down 243.70 pts (1.04%)",
+      "summary": "Sensex, Nifty, Stock Price Highlights:- Shares fell on Monday, tracking a sharp ​selloff across Asian markets, while crude prices spiked due to ‌an escalation of the Middle East ​conflict",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-8th-june-2026/article71072799.ece",
+      "bloc": "western",
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T10:28:12Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Exxon, Chevron Warn Another Oil Price Spike Coming Soon",
       "summary": "Leading executives at ExxonMobil and Chevron sounded an alarm during a recent Bernstein conference.",
       "source": "The Daily Caller",
@@ -377,84 +481,6 @@
       "bloc": "western",
       "date": "2026-06-05",
       "datetime": "2026-06-05T15:34:07Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How Long Can Demand Destruction Keep a Lid on Oil Prices?",
-      "summary": "In a somewhat puzzling market development, oil prices haven't spiked yet to record highs amid the worst supply disruption in history. That's because the market still hopes for a quick resolution to the Strait of Hormuz crisis (for more than three months now),…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Oil-Prices/How-Long-Can-Demand-Destruction-Keep-a-Lid-on-Oil-Prices.html",
-      "bloc": "western",
-      "date": "2026-06-03",
-      "datetime": "2026-06-03T00:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Total Collapse Of Negotiations With Iran Threatens To Cause Global Economic Devastation",
-      "summary": "This is a moment in history that we will remember for a long time to come. Even though we were told over and over again that a deal with Iran was almost “finalized”, the truth is that there never was going to be a deal with Iran. It was all smoke and mirrors.…",
-      "source": "Shtfplan.com",
-      "url": "https://www.shtfplan.com/war/the-total-collapse-of-negotiations-with-iran-threatens-to-cause-global-economic-devastation",
-      "bloc": "western",
-      "date": "2026-06-02",
-      "datetime": "2026-06-02T22:30:27Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Commodity Markets Are Living on Borrowed Time",
-      "summary": "Commodity markets have spent the past three months performing an extraordinary balancing act. Despite one of the most significant disruptions to global energy flows in decades, the global economy has continued to function remarkably smoothly. After an initial…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Commodity-Markets-Are-Living-on-Borrowed-Time.html",
-      "bloc": "western",
-      "date": "2026-06-02",
-      "datetime": "2026-06-02T18:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -650,29 +676,6 @@
       "bloc": "western",
       "date": "2026-06-03",
       "datetime": "2026-06-03T23:46:48Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine hits St. Petersburg site as Putin’s Davos kicks off",
-      "summary": "Kyiv maintains drone assault on Russian oil facilities in overnight attack.",
-      "source": "POLITICO.eu",
-      "url": "https://www.politico.eu/article/ukraine-hits-st-petersburg-oil-terminal-putin-russia-davos-kicks-off/",
-      "bloc": "western",
-      "date": "2026-06-03",
-      "datetime": "2026-06-03T08:29:23Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

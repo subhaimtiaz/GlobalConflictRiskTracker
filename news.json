@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-10T15:47:04.458Z",
+  "ts": "2026-06-10T20:36:22.509Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 93,
-    "oilStress": 41,
-    "updatedAt": "2026-06-10T15:47:04.458Z"
+    "oilPrice": 94,
+    "oilStress": 43,
+    "updatedAt": "2026-06-10T20:36:22.509Z"
   },
   "items": [
+    {
+      "headline": "Iran's soccer federation says the country's allocation of 2026 World Cup tickets has been revoked",
+      "summary": "Iran arrived in Mexico on Sunday ahead of its first World Cup game on June 15.",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/soccer/breaking-news/article/irans-soccer-federation-says-the-countrys-allocation-of-2026-world-cup-tickets-has-been-revoked-182406648.html",
+      "bloc": "western",
+      "date": "2026-06-09",
+      "datetime": "2026-06-09T18:24:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "What Iran and Israel’s latest exchange of fire is really about, and what it means for the region",
+      "summary": "The flare-up in violence between Iran and Israel on June 8 was less about the two countries’ immediate goals and more a reflection of Iran’s long-term efforts to reassert a united axis of resistance to U.S.-Israeli hegemony in the region.",
+      "source": "Mondoweiss",
+      "url": "https://mondoweiss.net/2026/06/what-iran-and-israels-latest-exchange-of-fire-is-really-about-and-what-it-means-for-the-region/",
+      "bloc": "western",
+      "date": "2026-06-09",
+      "datetime": "2026-06-09T16:46:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israel Kills Eight in Strike on Lebanon; US Rescues Helicopter Crew From Hormuz",
+      "summary": "Israel struck the historic port city of Tyre in southern Lebanon on Tuesday, killing at least eight people, in an escalation that adds strain to efforts to broker a peace deal to end the wider Middle East war. On Monday, …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/06/09/873108.htm",
+      "bloc": "western",
+      "date": "2026-06-09",
+      "datetime": "2026-06-09T16:39:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump says peace deal with Iran could come in ‘two or three days’",
       "summary": "U.S. President Donald Trump on Tuesday said that, despite the exchange of strikes between Iran and Israel, a deal to end the war in the Middle East could be reached “in two or three days.” “They were going back and forth [with strikes], and now they both agre…",
@@ -66,54 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israelis, Palestinians and Americans disagree on which countries in Iran war are doing enough to protect civilians",
-      "summary": "Views among Americans, Israelis and Palestinians diverge on whether the U.S., Israel and Iran are doing enough to avoid civilian casualties in the Iran war.",
-      "source": "Pew Research Center",
-      "url": "https://www.pewresearch.org/global/2026/06/09/israelis-palestinians-and-americans-disagree-on-which-countries-in-iran-war-are-doing-enough-to-protect-civilians/",
+      "headline": "Marivex crew issues distress call after US missile strike off Oman",
+      "summary": "Rising tensions in the Strait of Hormuz could escalate global oil prices and disrupt shipping routes, impacting international trade stability.\nThe post Marivex crew issues distress call after US missile strike off Oman appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/marivex-us-missile-strike-oman-iran-blockade/",
       "bloc": "western",
       "date": "2026-06-09",
-      "datetime": "2026-06-09T13:56:23Z",
+      "datetime": "2026-06-09T18:55:48Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israelis, Palestinians, Americans See War in Iran Differently",
-      "summary": "Three-quarters of Israelis say the U.S. made the right decision in attacking Iran, while eight-in-ten Palestinians say the opposite. Americans are more divided.",
-      "source": "Pew Research Center",
-      "url": "https://www.pewresearch.org/global/2026/06/09/israelis-palestinians-americans-see-war-in-iran-differently/",
-      "bloc": "western",
-      "date": "2026-06-09",
-      "datetime": "2026-06-09T13:56:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -177,32 +229,6 @@
       "bloc": "western",
       "date": "2026-06-09",
       "datetime": "2026-06-09T10:57:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "All 24 Indian crew rescued from tanker set ablaze off Oman after US strike",
-      "summary": "Crew members of the unladen tanker had sent distress messages saying the vessel was on fire and sinking.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq51ep28165o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "bloc": "western",
-      "date": "2026-06-09",
-      "datetime": "2026-06-09T06:15:54Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

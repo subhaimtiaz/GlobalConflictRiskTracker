@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-09T20:12:18.758Z",
+  "ts": "2026-06-10T04:06:09.164Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,18 +9,18 @@
   },
   "live_variables": {
     "oilPrice": 92,
-    "oilStress": 39,
-    "updatedAt": "2026-06-09T20:12:18.758Z"
+    "oilStress": 40,
+    "updatedAt": "2026-06-10T04:06:09.164Z"
   },
   "items": [
     {
-      "headline": "Finland’s foreign minister says Ukraine ‘is now holding the cards’ as Russia signals talks",
-      "summary": "Finnish Foreign Minister Elina Valtonen says Ukraine is holding the cards today as Russia renews talk of negotiations amid Kyiv's military gains.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/finlands-foreign-minister-says-ukraine-is-now-holding-cards-russia-signals-talks",
+      "headline": "Freedom Of Navigation In An Age Of Precision Disruption",
+      "summary": "On February 28, 2026, the United States and Israel launched coordinated airstrikes against Iran, killing Supreme Leader Ali Khamenei and destroying military and nuclear sites across the country. Iran responded with missile and drone barrages against Israel, A…",
+      "source": "Hoover.org",
+      "url": "https://www.hoover.org/research/freedom-navigation-age-precision-disruption",
       "bloc": "western",
-      "date": "2026-06-08",
-      "datetime": "2026-06-08T20:01:30Z",
+      "date": "2026-06-09",
+      "datetime": "2026-06-09T00:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,91 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Airline profits plummet as US fuel costs nearly double",
-      "summary": "IATA forecasts $350bn airline fuel bill for 2026, with profits dipping to their weakest margin since the COVID-19 years.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/6/8/airline-profits-plummet-as-us-fuel-costs-nearly-double",
-      "bloc": "regional",
-      "date": "2026-06-08",
-      "datetime": "2026-06-08T18:29:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "38 Senators Aren’t Buying Trump’s Claim That Iran War Is ‘Terminated.’ They Want To See Receipts",
-      "summary": "Thirty-eight Senate Democrats demanded more information in a Sunday letter about President Donald Trump's claim that the Iran war is \"terminated.\"",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/06/08/38-senators-trumps-iran-war-terminated/",
+      "headline": "Why the Iran-aligned Houthis Threatening Red Sea Shipping Could Mean More for the Oil Market This Time",
+      "summary": "Yemen’s Iran-aligned Houthis said on Monday that they would ban ships linked to Israel from the Red Sea after Israel renewed its military attacks on Iran, adding to concerns about global shipping and energy flows.",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-bloggers/4382919/posts",
       "bloc": "western",
       "date": "2026-06-08",
-      "datetime": "2026-06-08T14:50:32Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran, Israel exchange fire in first clash since truce",
-      "summary": "Iran and Israel on June 8 attacked each other’s territory for the first time since a shaky ceasefire put five weeks of war on hold, sparking fears the escalation could spark a new full-scale conflict.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/iran-israel-exchange-fire-in-first-clash-since-truce-223036",
-      "bloc": "western",
-      "date": "2026-06-08",
-      "datetime": "2026-06-08T12:19:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "JUST IN: Trump Responds After Israel and Iran Continue Fighting Overnight – UPDATE: Iran Announces It Will Halt Attacks (VIDEO)",
-      "summary": "UPDATE:  Per Fox's Trey Yingst, Iran has announced it will halt attacks on Israel.\nThe post JUST IN: Trump Responds After Israel and Iran Continue Fighting Overnight – UPDATE: Iran Announces It Will Halt Attacks (VIDEO) appeared first on The Gateway Pundit.",
-      "source": "Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/06/just-trump-responds-after-israel-iran-continue-fighting/",
-      "bloc": "western",
-      "date": "2026-06-08",
-      "datetime": "2026-06-08T12:00:41Z",
+      "datetime": "2026-06-08T22:01:06Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -140,6 +62,84 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Lebanese president appeals to Israeli government to pursue talks, not war",
+      "summary": "Lebanese President Joseph Aoun made a rare direct appeal to the Israeli government and its people to come to the ‌negotiating table to end the war, warning in a CNN interview aired Monday that a military solution &quot;will never provide you with security and…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/lebanese-president-appeals-to-israeli-government-to-pursue-talks-not-war",
+      "bloc": "western",
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T21:39:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran announces end to attacks on Israel after Trump says shooting must stop",
+      "summary": "Iran's military announced on Monday that its first wave of attacks on Israel since a ceasefire in April was now over, although it threatened to resume the ‌strikes if Israel continued attacks on Lebanon. There was no immediate response from Israel, which had …",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/iran-announces-end-to-attacks-on-israel-after-trump-says-foes-must-%27stop-shooting%271",
+      "bloc": "western",
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T21:37:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why are oil prices up today, and will Brent and US WTI crude futures continue to rise or fall again? Oil edges higher as investors watch Iran-Israel developments",
+      "summary": "Why are oil prices up today, and will Brent and US WTI crude futures continue to rise or fall again? Oil prices moved slightly higher as traders assessed the latest developments between Iran and Israel. Although both countries announced a halt to attacks afte…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-brent-and-us-wti-crude-futures-continue-to-rise-or-fall-again-oil-edges-higher-as-investors-watch-iran-israel-developments/articleshow/131599962.cms",
+      "bloc": "regional",
+      "date": "2026-06-09",
+      "datetime": "2026-06-09T02:51:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -229,32 +229,6 @@
       "bloc": "western",
       "date": "2026-06-08",
       "datetime": "2026-06-08T16:35:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "From trickle to torrent: Hormuz reopening may trigger a global oil flood",
-      "summary": "The reopening of the Strait of Hormuz could trigger a faster-than-expected recovery in global oil supplies. With tankers already positioned near the Gulf and oil infrastructure largely preserved during the shutdown, producers are expected to ramp up output qu…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/hormuz-strait-reopening-oil-surge-looms-as-supply-restarts-post-war/articleshow/131579416.cms",
-      "bloc": "regional",
-      "date": "2026-06-08",
-      "datetime": "2026-06-08T06:27:22Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -370,6 +344,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Global Economy Is One Oil Price Spike Away From Trouble",
+      "summary": "Oil prices began this week with a jump following the latest flare-up of hostilities in the Middle East, this time between Iran and Israel. This is worse news for the global economy than it would have been a month ago. The world’s oil reserves are starting to …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Global-Economy-Is-One-Oil-Price-Spike-Away-From-Trouble.html",
+      "bloc": "western",
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T22:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The Iran Stalemate Could Be the Next Oil Supercycle Trigger",
       "summary": "As one deadline for a peace deal in the U.S./Israel-Iran war passes another, the chance of no firm agreement being struck to end the conflict in the coming months is rising dramatically. There are good reasons why Washington under President Donald Trump may b…",
       "source": "OilPrice.com",
@@ -448,58 +448,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Sensex today | Stock Market Highlights: Sensex settles at 73,524.26, down 719.08 pts (0.97%); Nifty ends at 23,123, down 243.70 pts (1.04%)",
-      "summary": "Sensex, Nifty, Stock Price Highlights:- Shares fell on Monday, tracking a sharp ​selloff across Asian markets, while crude prices spiked due to ‌an escalation of the Middle East ​conflict",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-8th-june-2026/article71072799.ece",
-      "bloc": "western",
-      "date": "2026-06-08",
-      "datetime": "2026-06-08T10:28:12Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Exxon, Chevron Warn Another Oil Price Spike Coming Soon",
-      "summary": "Leading executives at ExxonMobil and Chevron sounded an alarm during a recent Bernstein conference.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/06/05/opinion-oil-price-spike-chevron-exxon-david-blackmon/",
-      "bloc": "western",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T15:34:07Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "How AI could make wars go nuclear",
       "summary": "The Americans were closing in, the situation was getting more dangerous by the minute — and President Xi Jinping was waiting for my recommendation. The standoff began in May, when the US announced a package of anti-aircraft and anti-ship missiles to Taiwan th…",
       "source": "Vox",
@@ -552,27 +500,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Fake Wars & Higher Prices: What a “Multipolar World Order” REALLY Means",
-      "summary": "The world is changing. The once dominant imperial power of the United States is faltering, hollowed out by corruption, over-extended by hubris, eaten away by the cancers of hatred, nationalism and greed. Even according to its own propaganda outlets, America h…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/fake-wars-higher-prices-what-a-multipolar-world-order-really-means/",
+      "headline": "IRGC chief Ahmad Vahidi reportedly killed in Israeli strike on Tehran",
+      "summary": "ALBAWABA- Unconfirmed reports circulating on social media and in several regional media outlets claim that Ahmad Vahidi, commander-in-chief of Iran’s Islamic Revolutionary Guard Corps (IRGC), was killed in recent Israeli airstrikes targeting sites in or aroun…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4382910/posts",
       "bloc": "western",
-      "date": "2026-06-02",
-      "datetime": "2026-06-02T22:00:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
+      "date": "2026-06-08",
+      "datetime": "2026-06-08T20:53:01Z",
+      "leaders": [],
       "watch_terms": [
-        "arms control New"
+        "general commander killed"
       ],
       "dimensions": [
-        "accountability",
-        "values"
+        "survival",
+        "impulsivity",
+        "narcissism"
       ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "personnel_killed",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

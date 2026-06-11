@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-11T04:19:56.014Z",
+  "ts": "2026-06-11T10:44:18.987Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,71 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 95,
-    "oilStress": 44,
-    "updatedAt": "2026-06-11T04:19:56.014Z"
+    "oilPrice": 92,
+    "oilStress": 40,
+    "updatedAt": "2026-06-11T10:44:18.987Z"
   },
   "items": [
     {
-      "headline": "Iran’s new leaders are taking risks their predecessors avoided",
-      "summary": "Iran’s strikes on Israel this week were some of its most audacious attempts yet to redefine the boundaries of a confrontation that for decades has largely be...",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/06/09/middleeast/iran-strike-israel-retaliation-strategy-analysis-intl",
+      "headline": "Iran targets US bases in Jordan and the Gulf after Trump orders strikes near Hormuz",
+      "summary": "The escalation in violence deepens doubts about the prospects for a deal to end the war that started on February 28 with joint US-Israeli strikes against Iran.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/10/world-news/iran-targets-us-bases-in-jordan-and-the-gulf-after-trump-orders-strikes-near-hormuz/",
       "bloc": "western",
       "date": "2026-06-10",
-      "datetime": "2026-06-10T04:02:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Netanyahu and Trump are at odds over the war they started together",
-      "summary": "JERUSALEM (AP) — Israel’s latest strikes on Lebanon and Iran have made clear that U.S. President Donald Trump and Israeli Prime Minister Benjamin Netanyahu, who started the war in lockstep, want different things.Trump had publicly warned Israel not to strike …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4383080/posts",
-      "bloc": "western",
-      "date": "2026-06-09",
-      "datetime": "2026-06-09T23:56:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "After Trump’s Warning, US Forces Strike Iranian Targets",
-      "summary": "President Trump: The U.S. \"must, of necessity, respond to this attack.\"\nThe post After Trump’s Warning, US Forces Strike Iranian Targets first appeared on Le·gal In·sur·rec·tion.",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/06/trump-says-us-must-respond-after-iran-downs-apache-helicopter/",
-      "bloc": "western",
-      "date": "2026-06-09",
-      "datetime": "2026-06-09T22:00:02Z",
+      "datetime": "2026-06-10T08:59:50Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +40,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump says Iran downed Apache helicopter, U.S. must react",
-      "summary": "U.S. President Donald Trump said on Tuesday Iran had shot down a U.S. Apache helicopter in the Strait of Hormuz and vowed to respond, ‌deepening doubts about prospects for peace between the two countries. Trump said the two U.S. pilots involved in the inciden…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/trump-says-iran-downed-apache-helicopter-us-must-react2",
+      "headline": "US launches airstrikes on Iran after blaming Tehran for helicopter crash, prompting retaliation",
+      "summary": "Iran retaliates with attacks on Bahrain and Kuwait, further widening the retaliatory strikes that threaten to derail talks to end the war.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/us-launches-airstrikes-on-iran-after-blaming-tehran-for-helicopter-crash-prompting-retaliation/article71084068.ece",
       "bloc": "western",
-      "date": "2026-06-09",
-      "datetime": "2026-06-09T21:27:29Z",
+      "date": "2026-06-10",
+      "datetime": "2026-06-10T08:45:56Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. Launches Airstrikes On Iran After Blaming Tehran For Helicopter Crash, Prompting Retaliation",
+      "summary": "Iran launched attacks on sites in Bahrain and Kuwait, which both sounded alerts and fired air defenses in response.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-us-trade-strikes_n_6a291ecde4b02d9edc7e943d",
+      "bloc": "western",
+      "date": "2026-06-10",
+      "datetime": "2026-06-10T08:36:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran, US trade blows as Middle East peace deal draws no nearer",
+      "summary": "Iran attacked U.S. bases in Jordan and Bahrain on June 10, the latest salvo in tit-for-tat strikes with the United States after the downing of a U.S. helicopter over the Strait of Hormuz.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/iran-us-trade-blows-as-middle-east-peace-deal-draws-no-nearer-223100",
+      "bloc": "western",
+      "date": "2026-06-10",
+      "datetime": "2026-06-10T05:54:23Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -118,13 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran's soccer federation says the country's allocation of 2026 World Cup tickets has been revoked",
-      "summary": "Iran arrived in Mexico on Sunday ahead of its first World Cup game on June 15.",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/soccer/breaking-news/article/irans-soccer-federation-says-the-countrys-allocation-of-2026-world-cup-tickets-has-been-revoked-182406648.html",
+      "headline": "Iran targets US bases in Jordan and Gulf after Trump orders strikes near Hormuz",
+      "summary": "Tit-for-tat attacks come after US helicopter downed near Strait, ‌two crew rescued",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/06/10/iran-targets-us-bases-in-jordan-and-gulf-after-trump-orders-strikes-near-hormuz/",
       "bloc": "western",
-      "date": "2026-06-09",
-      "datetime": "2026-06-09T18:24:06Z",
+      "date": "2026-06-10",
+      "datetime": "2026-06-10T05:42:57Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -139,7 +139,7 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-11T20:30:39.367Z",
+  "ts": "2026-06-12T04:21:43.913Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 89,
     "oilStress": 35,
-    "updatedAt": "2026-06-11T20:30:39.367Z"
+    "updatedAt": "2026-06-12T04:21:43.913Z"
   },
   "items": [
+    {
+      "headline": "Trump threatens to attack Iran 'very hard' following latest hostilities",
+      "summary": "President Donald Trump on Wednesday said the United States would strike Iran again if no peace deal is secured, threatening further escalation following one ‌of the most significant exchanges of hostilities in two months. &quot;We're going to be attacking the…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/trump-threatens-to-attack-iran-%27very-hard%27-following-latest-hostilities",
+      "bloc": "western",
+      "date": "2026-06-10",
+      "datetime": "2026-06-10T21:30:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump considers military strike options against Iran amid tensions",
       "summary": "Increased military considerations may hinder diplomatic efforts, reducing chances for a US-Iran nuclear deal and escalating regional tensions.\nThe post Trump considers military strike options against Iran amid tensions appeared first on Crypto Briefing.",
@@ -92,65 +118,91 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Rise of the Global South",
-      "summary": "Before going on about the US government’s decision to give disclosure, first, let’s give the subject about extraterrestrial presence some due context.  People have many worries in their lives, such as how they will survive economy crashes, energy shortages, h…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/the-rise-of-the-global-south/",
-      "bloc": "western",
-      "date": "2026-06-10",
-      "datetime": "2026-06-10T16:00:00Z",
+      "headline": "Hegseth says the US controls the Strait of Hormuz, while also warning of bomb strikes on Iran’s 'key facilities'",
+      "summary": "America is taking a firm stand in the Strait of Hormuz, demonstrating significant influence over this crucial maritime corridor. While Iranian resistance persists, commercial shipping flows uninterrupted, showcasing the effectiveness of US military operations…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/hegseth-says-the-us-controls-the-strait-of-hormuz-while-also-warning-of-bomb-strikes-on-irans-key-facilities/articleshow/131647864.cms",
+      "bloc": "regional",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T03:06:33Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran's armed forces vow 'more crushing' response to US threats",
-      "summary": "The spokesman for Iran's armed forces has vowed a \"harsher, stronger and more crushing\" response to any US threat, amid escalating rhetoric from US President Donald Trump.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260610-presstv07.htm",
-      "bloc": "western",
-      "date": "2026-06-10",
-      "datetime": "2026-06-10T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US Central Command disables oil tanker M/T Settebello for violating Iran blockade",
-      "summary": "The incident heightens US-India tensions, impacts global shipping costs, and underscores persistent challenges in enforcing the blockade.\nThe post US Central Command disables oil tanker M/T Settebello for violating Iran blockade appeared first on Crypto Brief…",
+      "headline": "Oil Prices Spike as Iran Declares Strait of Hormuz Closed",
+      "summary": "Oil prices surged again in early Asian trade on Thursday after Iran declared the Strait of Hormuz closed following a fresh round of U.S. strikes on the country. At the time of writing, Brent crude had climbed 2.26% to trade at $95.20 per barrel, while West Te…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Spike-as-Iran-Declares-Strait-of-Hormuz-Closed.html",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T02:01:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US launches new strikes after Trump threatens to attack Iran 'very hard'",
+      "summary": "The US launched a new round of overnight strikes on multiple targets in Iran, with President Donald Trump warning of further attacks unless Tehran quickly agrees to a peace deal. The strikes targeted Iranian air defence and radar sites near the Strait of Horm…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-launches-new-strikes-after-trump-threatens-to-attack-iran-very-hard/articleshow/131646590.cms",
+      "bloc": "regional",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T00:33:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US Central Command refutes Iranian claims of Strait of Hormuz closure",
+      "summary": "Geopolitical tensions in the Strait of Hormuz highlight the vulnerability of global markets, influencing energy prices and cryptocurrency dynamics.\nThe post US Central Command refutes Iranian claims of Strait of Hormuz closure appeared first on Crypto Briefin…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-centcom-disables-mt-settebello-iran-blockade/",
+      "url": "https://cryptobriefing.com/centcom-refutes-iran-strait-hormuz-closure/",
       "bloc": "western",
       "date": "2026-06-10",
-      "datetime": "2026-06-10T20:14:08Z",
+      "datetime": "2026-06-10T23:43:33Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,91 +222,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil Tankers Go Dark to Sneak More Gulf Barrels Through Hormuz",
-      "summary": "Off the coast of Oman over the weekend, 16 tankers clustered together to transfer millions of barrels of oil that had been stranded in the Persian Gulf. A month ago, that area had been entirely empty.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/oil-tankers-go-dark-to-sneak-more-gulf-barrels-through-hormuz/",
-      "bloc": "western",
-      "date": "2026-06-10",
-      "datetime": "2026-06-10T18:05:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "First Seafarer Casualties Reported in U.S. Iran Blockade Enforcement Campaign",
-      "summary": "At least two crew members were reported missing and one injured after U.S. forces disabled a tanker in the Gulf of Oman late Tuesday, in what appears to be the...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/first-seafarer-casualties-reported-in-u-s-iran-blockade-enforcement-campaign/",
-      "bloc": "western",
-      "date": "2026-06-10",
-      "datetime": "2026-06-10T16:57:38Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Tankers Go Dark to Sneak More Barrels of Oil Through Hormuz",
-      "summary": "Off the coast of Oman over the weekend, 16 tankers clustered together to transfer millions of barrels of oil that had been stranded in the Persian Gulf. A month ago, that area had been entirely empty. They’re part of a …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/06/10/873286.htm",
-      "bloc": "western",
-      "date": "2026-06-10",
-      "datetime": "2026-06-10T16:47:53Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "India condemns attack on commercial vessel off Oman coast; 21 Indian crew rescued, 3 reportedly missing",
-      "summary": "India condemns the attack on a commercial vessel off Oman, with 21 crew rescued and 3 Indians missing.",
+      "headline": "US military launches fresh strikes on Iran as Trump warns of further escalation",
+      "summary": "US military launches fresh strikes on Iran after President Trump warns of escalation, deepening West Asia tensions and disrupting Strait of Hormuz shipping rise",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/india-condemns-attack-on-commercial-vessel-off-oman-coast-21-indian-crew-rescued-3-reportedly-missing/article71086136.ece",
+      "url": "https://www.thehindubusinessline.com/news/world/us-military-launches-fresh-strikes-on-iran-as-trump-warns-of-further-escalation/article71086729.ece",
       "bloc": "western",
       "date": "2026-06-10",
-      "datetime": "2026-06-10T16:16:52Z",
+      "datetime": "2026-06-10T23:30:02Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -354,30 +328,6 @@
       "bloc": "western",
       "date": "2026-06-09",
       "datetime": "2026-06-09T10:00:38Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China Is Too Big for Shangri-La",
-      "summary": "Snubbing a key security forum shows Beijing’s new confidence.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/06/04/china-shangri-la-dong-jun-defense-minister/",
-      "bloc": "western",
-      "date": "2026-06-04",
-      "datetime": "2026-06-04T17:17:03Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -628,29 +578,6 @@
       "bloc": "regional",
       "date": "2026-06-05",
       "datetime": "2026-06-05T14:33:19Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Long-range sanctions reach moscow region, oil refineries keep burning: results of deep-strike operations in May",
-      "summary": "Throughout May 2026, the geographic scope of Ukrainian deep-strike operations extended to more than ten regions of the russian federation, including Moscow, Vladimir, Kirov, and Samara oblasts. The longest-range strike reached 1,700 kilometers from the state …",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/06/ukraine-260604-ukraine-mod01.htm",
-      "bloc": "western",
-      "date": "2026-06-04",
-      "datetime": "2026-06-04T12:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

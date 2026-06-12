@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-12T15:23:36.867Z",
+  "updated": "2026-06-12T20:15:23.777Z",
   "retention_days": 30,
   "items": [
     {
@@ -16389,7 +16389,91 @@
       "_from": "newsapi",
       "first_seen": "2026-06-12T15:23:36.867Z",
       "run_id": "2026-06-12T15:23"
+    },
+    {
+      "headline": "US-Iran war to pull global economy to post-COVID low: World Bank",
+      "summary": "Global growth forecast cut to 2.5 percent due to surging energy prices, inflation and borrowing costs.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/6/11/global-growth-to-slow-to-lowest-since-covid-due-to-iran-war-world-bank",
+      "bloc": "regional",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T16:55:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-12T20:15:23.777Z",
+      "run_id": "2026-06-12T20:15"
+    },
+    {
+      "headline": "Iran warns Elon Musk's companies are now legitimate military targets",
+      "summary": "Iran has threatened to target all of Elon Musk's companies in the Middle East, including SpaceX's Starlink service.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15892515/Iran-warns-Elon-Musks-companies-legitimate-military-targets.html",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T15:35:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-12T20:15:23.777Z",
+      "run_id": "2026-06-12T20:15"
+    },
+    {
+      "headline": "Death of 3 sailors leads India to demand an end to US attacks on ships",
+      "summary": "\"These attacks must cease and end,\" Indian foreign ministry spokesperson Randhir Jaiswal told reporters.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/11/world-news/death-of-3-sailors-leads-india-to-demand-an-end-to-us-attacks-on-ships/",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T16:45:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-12T20:15:23.777Z",
+      "run_id": "2026-06-12T20:15"
     }
   ],
-  "total_items_ever": 1916
+  "total_items_ever": 1919
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-12T04:21:43.913Z",
+  "ts": "2026-06-12T10:21:02.677Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,227 +8,227 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 89,
-    "oilStress": 35,
-    "updatedAt": "2026-06-12T04:21:43.913Z"
+    "oilPrice": 87,
+    "oilStress": 32,
+    "updatedAt": "2026-06-12T10:21:02.677Z"
   },
   "items": [
     {
-      "headline": "Trump threatens to attack Iran 'very hard' following latest hostilities",
-      "summary": "President Donald Trump on Wednesday said the United States would strike Iran again if no peace deal is secured, threatening further escalation following one ‌of the most significant exchanges of hostilities in two months. &quot;We're going to be attacking the…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/trump-threatens-to-attack-iran-%27very-hard%27-following-latest-hostilities",
-      "bloc": "western",
-      "date": "2026-06-10",
-      "datetime": "2026-06-10T21:30:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump considers military strike options against Iran amid tensions",
-      "summary": "Increased military considerations may hinder diplomatic efforts, reducing chances for a US-Iran nuclear deal and escalating regional tensions.\nThe post Trump considers military strike options against Iran amid tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-considers-military-strike-options-against-iran-amid-tensions/",
-      "bloc": "western",
-      "date": "2026-06-10",
-      "datetime": "2026-06-10T20:14:55Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Joint Statement from UK and Australia on the Australia-UK Ministerial Consultations: 10 June 2026",
-      "summary": "On 10 June 2026, the Foreign Secretary, Yvette Cooper and Defence Secretary John Healey MP, hosted the Deputy Prime Minister and Minister for Defence, the Hon Richard Marles MP, and the Minister for Foreign Affairs, Senator the Hon Penny Wong, for the Austral…",
-      "source": "Www.gov.uk",
-      "url": "https://www.gov.uk/government/news/joint-statement-from-uk-and-australia-on-the-australia-uk-ministerial-consultations-10-june-2026",
-      "bloc": "western",
-      "date": "2026-06-10",
-      "datetime": "2026-06-10T19:25:38Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Strikes Iran as President Trump Vows to ‘Hit Hard’ Today",
-      "summary": "\"We hit them hard yesterday, and we’re going to hit them hard again today.\"\nThe post US Strikes Iran as President Trump Vows to ‘Hit Hard’ Today first appeared on Le·gal In·sur·rec·tion.",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/06/us-strikes-iran-as-president-trump-vows-to-hit-hard-today/",
-      "bloc": "western",
-      "date": "2026-06-10",
-      "datetime": "2026-06-10T18:00:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hegseth says the US controls the Strait of Hormuz, while also warning of bomb strikes on Iran’s 'key facilities'",
-      "summary": "America is taking a firm stand in the Strait of Hormuz, demonstrating significant influence over this crucial maritime corridor. While Iranian resistance persists, commercial shipping flows uninterrupted, showcasing the effectiveness of US military operations…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/hegseth-says-the-us-controls-the-strait-of-hormuz-while-also-warning-of-bomb-strikes-on-irans-key-facilities/articleshow/131647864.cms",
-      "bloc": "regional",
-      "date": "2026-06-11",
-      "datetime": "2026-06-11T03:06:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Prices Spike as Iran Declares Strait of Hormuz Closed",
-      "summary": "Oil prices surged again in early Asian trade on Thursday after Iran declared the Strait of Hormuz closed following a fresh round of U.S. strikes on the country. At the time of writing, Brent crude had climbed 2.26% to trade at $95.20 per barrel, while West Te…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Spike-as-Iran-Declares-Strait-of-Hormuz-Closed.html",
+      "headline": "U.S. Launches Second Day Of Strikes On Iran And Tehran Fires Back At Gulf States And Jordan",
+      "summary": "The new U.S. assault across multiple Iranian cities came as efforts to negotiate a peace deal again appeared stuck.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-us-trade-attacks_n_6a2a6596e4b02d9edc7fc168",
       "bloc": "western",
       "date": "2026-06-11",
-      "datetime": "2026-06-11T02:01:00Z",
+      "datetime": "2026-06-11T08:58:55Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Iran war ceasefire"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US launches new strikes after Trump threatens to attack Iran 'very hard'",
-      "summary": "The US launched a new round of overnight strikes on multiple targets in Iran, with President Donald Trump warning of further attacks unless Tehran quickly agrees to a peace deal. The strikes targeted Iranian air defence and radar sites near the Strait of Horm…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-launches-new-strikes-after-trump-threatens-to-attack-iran-very-hard/articleshow/131646590.cms",
-      "bloc": "regional",
-      "date": "2026-06-11",
-      "datetime": "2026-06-11T00:33:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US Central Command refutes Iranian claims of Strait of Hormuz closure",
-      "summary": "Geopolitical tensions in the Strait of Hormuz highlight the vulnerability of global markets, influencing energy prices and cryptocurrency dynamics.\nThe post US Central Command refutes Iranian claims of Strait of Hormuz closure appeared first on Crypto Briefin…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/centcom-refutes-iran-strait-hormuz-closure/",
+      "headline": "Iran War: Trump Again Strikes Iran Out of Frustration With Refusal to Capitulate; More Reports of Trump’s Unhinged State; Iran Closes Strait of Hormuz; Doubts About Trump Claims of Covert Oil Transits",
+      "summary": "Today's Iran war news: Trump looks hopelessly mired in Iran due to his emotional instability and denialism. Billions will pay the price.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/06/iran-war-trump-again-strikes-iran-out-of-frustration-with-refusal-to-capitulate-more-reports-of-trumps-unhinged-state-iran-closes-strait-of-hormuz-doubts-about-trump-claims-of-covert-oil-transit.html",
       "bloc": "western",
-      "date": "2026-06-10",
-      "datetime": "2026-06-10T23:43:33Z",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T08:53:04Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Iran war ceasefire"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US military launches fresh strikes on Iran as Trump warns of further escalation",
-      "summary": "US military launches fresh strikes on Iran after President Trump warns of escalation, deepening West Asia tensions and disrupting Strait of Hormuz shipping rise",
+      "headline": "US and Iran trade attacks for a second day, undermining shaky ceasefire",
+      "summary": "The US and Iran escalate attacks, jeopardizing a fragile ceasefire, as Trump demands an immediate peace agreement from Tehran.",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/us-military-launches-fresh-strikes-on-iran-as-trump-warns-of-further-escalation/article71086729.ece",
+      "url": "https://www.thehindubusinessline.com/news/world/wrapup-1-us-and-iran-trade-attacks-for-a-second-day-undermining-shaky-ceasefire/article71087611.ece",
       "bloc": "western",
-      "date": "2026-06-10",
-      "datetime": "2026-06-10T23:30:02Z",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T05:16:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US, Iran hit each other again as hopes for quick peace deal fade",
+      "summary": "The United States launched fresh attacks against Iran on June 11, prompting Tehran to retaliate, as U.S. leaders accused their counterparts of dragging out negotiations for a deal to end the three-month war.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-iran-hit-each-other-again-as-hopes-for-quick-peace-deal-fade-223138",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T05:13:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "News24 | Iran to ‘pay the price’, says Trump as US hits with ‘self-defence strikes’",
+      "summary": "The United States launched fresh attacks against Iran, prompting Tehran to retaliate, as US leaders accused their counterparts of dragging out negotiations for a deal to end the three-month war.",
+      "source": "News24",
+      "url": "https://www.news24.com/world/iran-to-pay-the-price-says-trump-as-us-hits-with-self-defence-strikes-20260611-0292",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T05:00:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "India Foreign Ministry reports two attacked ships are OFAC-sanctioned",
+      "summary": "The attacks highlight escalating geopolitical tensions impacting global maritime security and could influence international trade dynamics.\nThe post India Foreign Ministry reports two attacked ships are OFAC-sanctioned appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/india-attacked-ships-ofac-sanctioned/",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T10:08:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Responds to a Second Day of US Strikes by Firing at Gulf States and Jordan",
+      "summary": "The U.S and Iran traded strikes for a second day, pushing the Middle East closer to the resumption of a full-scale war.",
+      "source": "Military.com",
+      "url": "https://military.com/iran-responds-to-a-second-day-of-us-strikes-by-firing-at-gulf-states-and-jordan",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T09:53:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Three Indian sailors killed by US missile strike near Oman as US-Iran tensions escalate",
+      "summary": "The incident heightens geopolitical tensions, risking global shipping disruptions and straining US-India relations amid strategic alliances.\nThe post Three Indian sailors killed by US missile strike near Oman as US-Iran tensions escalate appeared first on Cry…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/indian-sailors-killed-us-missile-oman/",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T09:07:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Houthis impose partial blockade of Red Sea, threatening global oil shipping routes",
+      "summary": "The blockade exacerbates global energy supply disruptions, inflating costs and heightening geopolitical tensions, impacting markets worldwide.\nThe post Houthis impose partial blockade of Red Sea, threatening global oil shipping routes appeared first on Crypto…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/houthis-red-sea-blockade-oil-shipping/",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T09:00:32Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -471,6 +471,56 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US and Iran negotiations remain on track despite overnight strikes, but crypto markets are feeling the heat",
+      "summary": "Geopolitical tensions and sanctions are reshaping crypto markets, highlighting vulnerabilities and influencing global economic stability.\nThe post US and Iran negotiations remain on track despite overnight strikes, but crypto markets are feeling the heat appe…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-iran-negotiations-crypto-market-impact/",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T08:08:08Z",
+      "leaders": [
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran US diplomacy"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Report: U.S. Nuclear Weapons Spending Exceeded All Other Nuclear-Armed Nations Combined in 2025",
+      "summary": "A new report from the International Campaign to Abolish Nuclear Weapons (ICAN) found that U.S. spending on nuclear weapons in 2025 totaled more than the combined spending of all other nuclear-armed nations. The report released on Tuesday, June 9, estimated th…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-11-report-us-nuclear-spending-exceeded-other-nations-combined.html",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T06:00:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

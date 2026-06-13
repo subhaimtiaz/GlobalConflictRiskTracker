@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-12T20:16:29.099Z",
+  "ts": "2026-06-13T04:10:42.182Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,88 @@
   },
   "live_variables": {
     "oilPrice": 87,
-    "oilStress": 32,
-    "updatedAt": "2026-06-12T20:16:29.099Z"
+    "oilStress": 31,
+    "updatedAt": "2026-06-13T04:10:42.182Z"
   },
   "items": [
+    {
+      "headline": "U.S. plans to deport Iranians to Central African Republic, sources say",
+      "summary": "The Trump administration plans to deport a number of Iranians and other migrants to Central African Republic, a chronically unstable country racked by violence and poverty, two lawyers ‌and an official briefed on the matter told Reuters. The Iranians include …",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/us-plans-to-deport-iranians-to-central-african-republic-sources-say3",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T21:43:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump says U.S., Iran could sign peace deal as soon as this weekend",
+      "summary": "President Donald Trump on Thursday said the United States and Iran could sign a peace deal ‌as soon as this weekend that would reopen shipping traffic through the Strait of Hormuz. The agreement, if finalized, would be the most significant diplomatic breakthr…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/trump-says-us-iran-could-sign-peace-deal-as-soon-as-this-weekend",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T21:42:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US-Iran memorandum of understanding likely to be signed next week",
+      "summary": "The memorandum could catalyze extended diplomatic talks, potentially stabilizing regional tensions and influencing global market dynamics.\nThe post US-Iran memorandum of understanding likely to be signed next week appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-iran-memorandum-of-understanding-likely-to-be-signed-next-week/",
+      "bloc": "western",
+      "date": "2026-06-11",
+      "datetime": "2026-06-11T21:20:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US-Iran war to pull global economy to post-COVID low: World Bank",
       "summary": "Global growth forecast cut to 2.5 percent due to surging energy prices, inflation and borrowing costs.",
@@ -62,84 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump's latest threats to Iran may collide with a hard reality",
-      "summary": "US President Trump threatens Iran with severe military action, including seizing oil infrastructure. However, the US faces a critical shortage of missiles and interceptors. This comes after extensive military aid to Ukraine and recent operations. The Pentagon…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/trumps-latest-threats-to-iran-may-collide-with-a-hard-reality/articleshow/131663015.cms",
-      "bloc": "regional",
-      "date": "2026-06-11",
-      "datetime": "2026-06-11T15:11:26Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump says US ‘will be taking Kharg Island’ oil export hub, vows to hit Iran ‘very hard tonight’",
-      "summary": "President Trump warned Thursday that the US will soon take over Kharg Island, which processes about 90% of Iran’s crude oil for export, following a second day of airstrikes against the Islamic Republic. “The United States will be hitting Iran (Whose Navy, Air…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4383318/posts",
-      "bloc": "western",
-      "date": "2026-06-11",
-      "datetime": "2026-06-11T13:52:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Says US Will Hit Iran ‘Very Hard’ After Tit-for-Tat Strikes",
-      "summary": "President Donald Trump said on Thursday the United States would hit Iran “very hard tonight” and wanted eventually to take Iran’s oil infrastructure hub Kharg Island, after tit-for-tat strikes in the Gulf that have undermined a shaky ceasefire. Iranian source…",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/06/11/873402.htm",
-      "bloc": "western",
-      "date": "2026-06-11",
-      "datetime": "2026-06-11T13:29:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -628,29 +628,6 @@
       "bloc": "western",
       "date": "2026-06-06",
       "datetime": "2026-06-06T09:46:02Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Are the US and Iran closer to war or to a deal?",
-      "summary": "As US and Iran pursue talks, both signal they are still ready to use force against each other.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/5/are-us-and-iran-closer-to-war-or-to-a-deal",
-      "bloc": "regional",
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T14:33:19Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

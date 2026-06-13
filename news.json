@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-13T14:09:00.049Z",
+  "ts": "2026-06-13T19:43:18.656Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 87,
     "oilStress": 31,
-    "updatedAt": "2026-06-13T14:09:00.049Z"
+    "updatedAt": "2026-06-13T19:43:18.656Z"
   },
   "items": [
+    {
+      "headline": "How the Gulf will manage collective security after the Iran war ends",
+      "summary": "An Iran-US deal could provide an opportunity for Gulfs to review their security arrangements.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends",
+      "bloc": "regional",
+      "date": "2026-06-12",
+      "datetime": "2026-06-12T18:48:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump's Iran peace deal rocked over LEAKED terms as president explodes at 'very dishonorable' Tehran",
+      "summary": "Donald Trump is fuming over leadership in Tehran leaking a copy of his impending Iran peace deal, claiming that the country's leadership acted in a 'very dishonorable' fashion.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15895013/Trumps-Iran-peace-deal-rocked-LEAKED-terms-president-explodes-dishonorable-Tehran.html",
+      "bloc": "western",
+      "date": "2026-06-12",
+      "datetime": "2026-06-12T14:20:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Are Iran, US really close to a breakthrough ‘deal’?",
       "summary": "Trump says a deal with Iran could be signed in Europe over the weekend. Tehran cautions against speculation.",
@@ -47,84 +99,6 @@
       "bloc": "western",
       "date": "2026-06-12",
       "datetime": "2026-06-12T12:14:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Movement?",
-      "summary": "Very hard to say anything conclusive about cease-fire negotiations but it does seem that the Iranians are both acknowledging that progress has been made and that they are actively considering a specific deal: President Trump on Thursday insisted the U.S. was …",
-      "source": "Lawyersgunsmoneyblog.com",
-      "url": "https://www.lawyersgunsmoneyblog.com/2026/06/movement",
-      "bloc": "western",
-      "date": "2026-06-12",
-      "datetime": "2026-06-12T12:10:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Text of Iran-US deal 'reached', Pakistan working to 'finalize next steps': PM Sharif",
-      "summary": "Pakistani Prime Minister Shehbaz Sharif says a final text for a peace agreement between Iran and the United States has been reached and that Islamabad is working with both sides to \"finalize the next steps.\"",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260612-presstv05.htm",
-      "bloc": "western",
-      "date": "2026-06-12",
-      "datetime": "2026-06-12T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "June 12: Iran says MoU with US nearing completion, while reaffirming red lines and military readiness",
-      "summary": "Iranian officials on Friday confirmed that negotiations have moved closer to a potential Memorandum of Understanding (MOU) with the US, reporting progress on major parts of a draft agreement while reaffirming Tehran's strict adherence to its red lines.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260612-presstv04.htm",
-      "bloc": "western",
-      "date": "2026-06-12",
-      "datetime": "2026-06-12T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -244,32 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz",
-      "summary": "The United States military has struck three vessels in the Strait of Hormuz this week, killing three Indian sailors.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz",
-      "bloc": "regional",
-      "date": "2026-06-12",
-      "datetime": "2026-06-12T07:49:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-14T14:12:35.761Z",
+  "ts": "2026-06-14T19:42:48.264Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 87,
     "oilStress": 31,
-    "updatedAt": "2026-06-14T14:12:35.761Z"
+    "updatedAt": "2026-06-14T19:42:48.264Z"
   },
   "items": [
+    {
+      "headline": "Funeral For Iran's Supreme Leader Set For July, While A Deal Nears To End The War",
+      "summary": "Khamenei was killed in the opening attack of the war that Israel and the United States launched against Iran in late February.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/funeral-iran-supreme-leader-set-july-deal-nears-war_n_6a2d6020e4b0942fb778fec6",
+      "bloc": "western",
+      "date": "2026-06-13",
+      "datetime": "2026-06-13T14:19:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "West Bank witnessing 'alarming' surge in Israeli settler violence, EU's top diplomat warns",
       "summary": "The EU's High Representative for Foreign Affairs, Kaja Kallas, has condemned the rising violence by Israeli settlers against Palestinians in the occupied West Bank, saying the issue remains central to the EU's agenda.",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "UAE and Iran hold historic face-to-face meeting amid gulf tensions: A calculated shift in the shadow of war",
-      "summary": "In June 2026, Iran and the UAE held their first direct meeting since the U.S.-Israel-Iran war erupted in October 2023, signaling a potential recalibration in Gulf politics as both nations seek to mitigate economic and strategic costs of ongoing hostilities. T…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-06-13-uae-iraq-face-to-face-meeting.html",
-      "bloc": "western",
+      "headline": "Jaishankar tells Rubio killing of Indian mariners by US forces 'cannot be justified'",
+      "summary": "India has strongly protested the killing of three Indian sailors by the US military. External Affairs Minister S Jaishankar conveyed India's protest to his US counterpart. US forces carried out strikes on merchant vessels off Oman's coast. Several Indians wer…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/jaishankar-tells-rubio-killing-of-indian-mariners-by-us-forces-cannot-be-justified/articleshow/131710288.cms",
+      "bloc": "regional",
       "date": "2026-06-13",
-      "datetime": "2026-06-13T06:00:00Z",
+      "datetime": "2026-06-13T18:04:29Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -177,32 +203,6 @@
       "bloc": "western",
       "date": "2026-06-12",
       "datetime": "2026-06-12T10:33:05Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "'Armed theft, maritime piracy': Iran condemns US attacks on Indian-crewed ships off Oman",
-      "summary": "Iran has condemned attacks carried out by the United States earlier this week on three merchant vessels carrying Indian crew members off the coast of Oman, saying the American \"maritime piracy\" poses a serious threat to international shipping.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260612-presstv01.htm",
-      "bloc": "western",
-      "date": "2026-06-12",
-      "datetime": "2026-06-12T10:09:35Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -568,6 +568,29 @@
       "variable_key": null,
       "event_type": "personnel_killed",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ukraine drone strikes kills one, sparks fire at Russian port of Temryuk, governor says",
+      "summary": "The strikes come as Ukraine continues to pummel Russia's energy infrastructure, as peace talks have stalled.",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/ukraine-drone-strikes-kills-one-sparks-fire-russian-port-temryuk-governor-says-6181026",
+      "bloc": "western",
+      "date": "2026-06-13",
+      "datetime": "2026-06-13T17:16:19Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

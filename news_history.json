@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-14T14:11:30.639Z",
+  "updated": "2026-06-14T19:41:43.119Z",
   "retention_days": 30,
   "items": [
     {
@@ -15522,7 +15522,88 @@
       "_from": "newsapi",
       "first_seen": "2026-06-14T14:11:30.639Z",
       "run_id": "2026-06-14T14:11"
+    },
+    {
+      "headline": "Funeral For Iran's Supreme Leader Set For July, While A Deal Nears To End The War",
+      "summary": "Khamenei was killed in the opening attack of the war that Israel and the United States launched against Iran in late February.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/funeral-iran-supreme-leader-set-july-deal-nears-war_n_6a2d6020e4b0942fb778fec6",
+      "bloc": "western",
+      "date": "2026-06-13",
+      "datetime": "2026-06-13T14:19:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-14T19:41:43.119Z",
+      "run_id": "2026-06-14T19:41"
+    },
+    {
+      "headline": "Jaishankar tells Rubio killing of Indian mariners by US forces 'cannot be justified'",
+      "summary": "India has strongly protested the killing of three Indian sailors by the US military. External Affairs Minister S Jaishankar conveyed India's protest to his US counterpart. US forces carried out strikes on merchant vessels off Oman's coast. Several Indians wer…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/jaishankar-tells-rubio-killing-of-indian-mariners-by-us-forces-cannot-be-justified/articleshow/131710288.cms",
+      "bloc": "regional",
+      "date": "2026-06-13",
+      "datetime": "2026-06-13T18:04:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-14T19:41:43.119Z",
+      "run_id": "2026-06-14T19:41"
+    },
+    {
+      "headline": "Ukraine drone strikes kills one, sparks fire at Russian port of Temryuk, governor says",
+      "summary": "The strikes come as Ukraine continues to pummel Russia's energy infrastructure, as peace talks have stalled.",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/ukraine-drone-strikes-kills-one-sparks-fire-russian-port-temryuk-governor-says-6181026",
+      "bloc": "western",
+      "date": "2026-06-13",
+      "datetime": "2026-06-13T17:16:19Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-14T19:41:43.119Z",
+      "run_id": "2026-06-14T19:41"
     }
   ],
-  "total_items_ever": 1948
+  "total_items_ever": 1951
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-14T09:42:34.710Z",
+  "ts": "2026-06-14T14:12:35.761Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,113 @@
   "live_variables": {
     "oilPrice": 87,
     "oilStress": 31,
-    "updatedAt": "2026-06-14T09:42:34.710Z"
+    "updatedAt": "2026-06-14T14:12:35.761Z"
   },
   "items": [
+    {
+      "headline": "West Bank witnessing 'alarming' surge in Israeli settler violence, EU's top diplomat warns",
+      "summary": "The EU's High Representative for Foreign Affairs, Kaja Kallas, has condemned the rising violence by Israeli settlers against Palestinians in the occupied West Bank, saying the issue remains central to the EU's agenda.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260613-presstv03.htm",
+      "bloc": "western",
+      "date": "2026-06-13",
+      "datetime": "2026-06-13T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Final text of a peace deal between US, Iran agreed upon, Pakistan says",
+      "summary": "\"Peace has never been this close as it is now,\" Pakistani Prime Minister Shehbaz Sharif said on X.",
+      "source": "Newsnationnow.com",
+      "url": "https://www.newsnationnow.com/world/us-iran-peace-deal-final-text-agreed-upon/",
+      "bloc": "western",
+      "date": "2026-06-13",
+      "datetime": "2026-06-13T11:59:32Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran and US agree on peace deal framework as crypto markets react to geopolitical shift",
+      "summary": "The peace framework could stabilize global markets, easing energy prices and boosting investor confidence, particularly in risk assets like crypto.\nThe post Iran and US agree on peace deal framework as crypto markets react to geopolitical shift appeared first…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-us-peace-deal-crypto-markets/",
+      "bloc": "western",
+      "date": "2026-06-13",
+      "datetime": "2026-06-13T11:19:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Pakistan PM says US-Iran peace deal signing expected within 24 hours",
+      "summary": "Pakistan's Prime Minister Shehbaz Sharif announced a significant development. The United States and Iran have reached an agreement on a peace deal framework. This accord is set to end the ongoing conflict in the Middle East. A final text has been agreed upon.…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-pm-says-us-iran-peace-deal-signing-expected-within-24-hours/articleshow/131703039.cms",
+      "bloc": "regional",
+      "date": "2026-06-13",
+      "datetime": "2026-06-13T11:15:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "UAE and Iran hold historic face-to-face meeting amid gulf tensions: A calculated shift in the shadow of war",
       "summary": "In June 2026, Iran and the UAE held their first direct meeting since the U.S.-Israel-Iran war erupted in October 2023, signaling a potential recalibration in Gulf politics as both nations seek to mitigate economic and strategic costs of ongoing hostilities. T…",
@@ -40,105 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "U.S. Airstrike Hits Iranian Water Facility, Raising Legal Questions",
-      "summary": "Strike on Critical Infrastructure Reported A U.S. precision airstrike struck a water facility in Iran that provides potable water to civilians, according to an analysis of satellite images and video published by the New York Times and cited in a report by Ant…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-06-13-us-airstrike-hits-iranian-water-facility.html",
-      "bloc": "western",
+      "headline": "‘Comply with US forces in Hormuz immediately,’ Rubio tells Jaishankar amid row over Indian sailors",
+      "summary": "US Secretary of State Marco Rubio urged compliance with US forces in the Strait of Hormuz. This follows India's strong protest over US naval attacks in the Gulf. These attacks resulted in the deaths of three Indian mariners aboard a Palau-flagged tanker. Indi…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/comply-with-us-forces-in-hormuz-immediately-rubio-tells-jaishankar-amid-row-over-indian-sailors/articleshow/131705764.cms",
+      "bloc": "regional",
       "date": "2026-06-13",
-      "datetime": "2026-06-13T06:00:00Z",
+      "datetime": "2026-06-13T13:42:51Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. And Iran Have Agreed To Wording Of A Deal To End Their War, Pakistan's Prime Minister Says",
-      "summary": "Pakistan's prime minister says the United State and Iran have agreed to wording of an agreement aimed at ending their war in the Middle East.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-us-war-agreement-pakistan_n_6a2c7b8ee4b0942fb778ece8",
-      "bloc": "western",
-      "date": "2026-06-12",
-      "datetime": "2026-06-12T21:39:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Pakistan PM Sharif confirms US-Iran peace deal text agreed",
-      "summary": "The US-Iran peace deal, mediated by Pakistan, could stabilize regional tensions, impacting global trade and energy markets significantly.\nThe post Pakistan PM Sharif confirms US-Iran peace deal text agreed appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/pakistan-us-iran-peace-deal-agreed/",
-      "bloc": "western",
-      "date": "2026-06-12",
-      "datetime": "2026-06-12T20:39:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump and Netanyahu in lockstep over Iran war, U.S. ambassador to Israel says",
-      "summary": "In one of his first on-camera interviews since the United States and Israel launched strikes against Iran in February, U.S. Ambassador to Israel Mike Huckabee brushed aside reports that tension has emerged between Trump and Israeli Prime Minister Benjamin Net…",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/huckabee-trump-netanyahu-iran-9.7233490",
-      "bloc": "western",
-      "date": "2026-06-12",
-      "datetime": "2026-06-12T20:33:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -174,32 +200,6 @@
       "summary": "Iran has condemned attacks carried out by the United States earlier this week on three merchant vessels carrying Indian crew members off the coast of Oman, saying the American \"maritime piracy\" poses a serious threat to international shipping.",
       "source": "Globalsecurity.org",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260612-presstv01.htm",
-      "bloc": "western",
-      "date": "2026-06-12",
-      "datetime": "2026-06-12T10:09:35Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Shoots Down Two Iranian Drones Near Hormuz, As Trump Hails Impending Peace Deal",
-      "summary": "The US military shot down two Iranian attack drones after Tehran's forces attempted to strike commercial vessels transiting the Strait of Hormuz, a senior US defense official told RFE/RL.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260612-rferl01.htm",
       "bloc": "western",
       "date": "2026-06-12",
       "datetime": "2026-06-12T10:09:35Z",

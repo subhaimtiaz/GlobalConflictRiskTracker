@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-14T04:26:37.750Z",
+  "updated": "2026-06-14T09:41:29.252Z",
   "retention_days": 30,
   "items": [
     {
@@ -15326,7 +15326,63 @@
       "_from": "newsapi",
       "first_seen": "2026-06-14T04:26:37.750Z",
       "run_id": "2026-06-14T04:26"
+    },
+    {
+      "headline": "UAE and Iran hold historic face-to-face meeting amid gulf tensions: A calculated shift in the shadow of war",
+      "summary": "In June 2026, Iran and the UAE held their first direct meeting since the U.S.-Israel-Iran war erupted in October 2023, signaling a potential recalibration in Gulf politics as both nations seek to mitigate economic and strategic costs of ongoing hostilities. T…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-13-uae-iraq-face-to-face-meeting.html",
+      "bloc": "western",
+      "date": "2026-06-13",
+      "datetime": "2026-06-13T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-14T09:41:29.252Z",
+      "run_id": "2026-06-14T09:41"
+    },
+    {
+      "headline": "U.S. Airstrike Hits Iranian Water Facility, Raising Legal Questions",
+      "summary": "Strike on Critical Infrastructure Reported A U.S. precision airstrike struck a water facility in Iran that provides potable water to civilians, according to an analysis of satellite images and video published by the New York Times and cited in a report by Ant…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-13-us-airstrike-hits-iranian-water-facility.html",
+      "bloc": "western",
+      "date": "2026-06-13",
+      "datetime": "2026-06-13T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-14T09:41:29.252Z",
+      "run_id": "2026-06-14T09:41"
     }
   ],
-  "total_items_ever": 1941
+  "total_items_ever": 1943
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-13T19:43:18.656Z",
+  "ts": "2026-06-14T04:27:42.912Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 87,
     "oilStress": 31,
-    "updatedAt": "2026-06-13T19:43:18.656Z"
+    "updatedAt": "2026-06-14T04:27:42.912Z"
   },
   "items": [
+    {
+      "headline": "U.S. And Iran Have Agreed To Wording Of A Deal To End Their War, Pakistan's Prime Minister Says",
+      "summary": "Pakistan's prime minister says the United State and Iran have agreed to wording of an agreement aimed at ending their war in the Middle East.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-us-war-agreement-pakistan_n_6a2c7b8ee4b0942fb778ece8",
+      "bloc": "western",
+      "date": "2026-06-12",
+      "datetime": "2026-06-12T21:39:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Pakistan PM Sharif confirms US-Iran peace deal text agreed",
+      "summary": "The US-Iran peace deal, mediated by Pakistan, could stabilize regional tensions, impacting global trade and energy markets significantly.\nThe post Pakistan PM Sharif confirms US-Iran peace deal text agreed appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/pakistan-us-iran-peace-deal-agreed/",
+      "bloc": "western",
+      "date": "2026-06-12",
+      "datetime": "2026-06-12T20:39:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump and Netanyahu in lockstep over Iran war, U.S. ambassador to Israel says",
+      "summary": "In one of his first on-camera interviews since the United States and Israel launched strikes against Iran in February, U.S. Ambassador to Israel Mike Huckabee brushed aside reports that tension has emerged between Trump and Israeli Prime Minister Benjamin Net…",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/huckabee-trump-netanyahu-iran-9.7233490",
+      "bloc": "western",
+      "date": "2026-06-12",
+      "datetime": "2026-06-12T20:33:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "How the Gulf will manage collective security after the Iran war ends",
       "summary": "An Iran-US deal could provide an opportunity for Gulfs to review their security arrangements.",
@@ -21,84 +99,6 @@
       "bloc": "regional",
       "date": "2026-06-12",
       "datetime": "2026-06-12T18:48:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump's Iran peace deal rocked over LEAKED terms as president explodes at 'very dishonorable' Tehran",
-      "summary": "Donald Trump is fuming over leadership in Tehran leaking a copy of his impending Iran peace deal, claiming that the country's leadership acted in a 'very dishonorable' fashion.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15895013/Trumps-Iran-peace-deal-rocked-LEAKED-terms-president-explodes-dishonorable-Tehran.html",
-      "bloc": "western",
-      "date": "2026-06-12",
-      "datetime": "2026-06-12T14:20:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Are Iran, US really close to a breakthrough ‘deal’?",
-      "summary": "Trump says a deal with Iran could be signed in Europe over the weekend. Tehran cautions against speculation.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/6/12/are-iran-us-really-close-to-a-breakthrough-deal",
-      "bloc": "regional",
-      "date": "2026-06-12",
-      "datetime": "2026-06-12T13:16:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US-Iran peace memorandum could be signed on Sunday in Geneva, source says",
-      "summary": "US and Iran are close to a peace deal memorandum, with Geneva likely as venue, as talks include ceasefire, sanctions relief and oil market impact.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/us-iran-peace-memorandum-could-be-signed-on-sunday-in-geneva-source-says/article71093566.ece",
-      "bloc": "western",
-      "date": "2026-06-12",
-      "datetime": "2026-06-12T12:14:01Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -192,32 +192,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump claims US conducted secret mission to escort tankers through Strait of Hormuz",
-      "summary": "The secret mission's potential to stabilize oil flow through Hormuz could ease global energy tensions, impacting markets and crypto dynamics.\nThe post Trump claims US conducted secret mission to escort tankers through Strait of Hormuz appeared first on Crypto…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-secret-mission-hormuz-tankers-oil-bitcoin/",
-      "bloc": "western",
-      "date": "2026-06-12",
-      "datetime": "2026-06-12T08:39:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -319,6 +293,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The Oil Market Could Be Weeks From a Breaking Point",
+      "summary": "Three and a half months after the blocked Strait of Hormuz created the worst oil supply disruption in history, oil prices remain below $100 per barrel amid hopes of an imminent U.S.-Iran deal. It’s not only hopes that have been keeping prices much lower than …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/The-Oil-Market-Could-Be-Weeks-From-a-Breaking-Point.html",
+      "bloc": "western",
+      "date": "2026-06-12",
+      "datetime": "2026-06-12T23:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Sensex today | Stock Market Highlights: Sensex, Nifty end lower as West Asia tensions weigh; IT stocks extend losing streak",
       "summary": "Sensex Today, Nifty 50 | Stock Market Highlights: Sensex ended 150.63 points lower, or 0.20 per cent, at 73,832.55, while the Nifty closed at 23,161.60, down 53.35 points or 0.23 per cent on Thursday. Markets remained under pressure as risk-off sentiment prev…",
       "source": "BusinessLine",
@@ -404,32 +404,6 @@
       "bloc": "western",
       "date": "2026-06-08",
       "datetime": "2026-06-08T22:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Iran Stalemate Could Be the Next Oil Supercycle Trigger",
-      "summary": "As one deadline for a peace deal in the U.S./Israel-Iran war passes another, the chance of no firm agreement being struck to end the conflict in the coming months is rising dramatically. There are good reasons why Washington under President Donald Trump may b…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/The-Iran-Stalemate-Could-Be-the-Next-Oil-Supercycle-Trigger.html",
-      "bloc": "western",
-      "date": "2026-06-08",
-      "datetime": "2026-06-08T15:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -602,29 +576,6 @@
       "bloc": "western",
       "date": "2026-06-11",
       "datetime": "2026-06-11T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine sends 400+ drones into Russia, hitting naval base and refinery",
-      "summary": "Ukraine launched one of its largest drone offensives of the war overnight into June 6, sending more than 400 unmanned aircraft deep into Russian territory and striking targets that included a naval weapons depot near Saint Petersburg, an oil refinery in Siber…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4382551/posts",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T09:46:02Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

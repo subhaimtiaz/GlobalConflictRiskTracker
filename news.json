@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-15T12:25:16.770Z",
+  "ts": "2026-06-15T21:09:58.318Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 83,
     "oilStress": 26,
-    "updatedAt": "2026-06-15T12:25:16.770Z"
+    "updatedAt": "2026-06-15T21:09:58.318Z"
   },
   "items": [
+    {
+      "headline": "Trump Wants Reporters to Know He’s Very Mad at Netanyahu",
+      "summary": "President Donald Trump is telling reporters that he expects an Iran peace deal to be signed this afternoon, giving him ample time to make it to his UFC fight beneath the White House claw this evening. The war began on February 28, when the US and Israeli mili…",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/06/trump-netanyahu-iran-deal-lebanon/",
+      "bloc": "western",
+      "date": "2026-06-14",
+      "datetime": "2026-06-14T19:32:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Senior Iranian leader blocks agreement",
+      "summary": "Iran’s decision to launch ballistic missiles at Israel after months of ceasefire was not only a military message but also an attempt to demonstrate the new balance of power in Tehran. According to a report by The Wall Street Journal, the driving force behind …",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4383727/posts",
+      "bloc": "western",
+      "date": "2026-06-14",
+      "datetime": "2026-06-14T17:17:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "There Is No Bigger Trump Lie Right Now Than Him Saying the Iran War Is Good for You—or the World",
+      "summary": "On June 1st, despite a ceasefire ostensibly underway in the US-Israeli war on Iran, Israel’s prime minister launched a major escalation against Lebanon, including threatening airstrikes against the Lebanese capital. The US president called the Israeli leader,…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/trump-iran-war-lies",
+      "bloc": "western",
+      "date": "2026-06-14",
+      "datetime": "2026-06-14T14:57:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Israel bombs southern Beirut again; Iran warns against 'miscalculations'",
       "summary": "Israel has carried out a new airstrike on Beirut's southern suburbs, escalating tensions in Lebanon despite a ceasefire that Iran says remains a key condition for any broader agreement to end the war in the region.",
@@ -40,106 +118,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran to replace all air defense equipment damaged in US-Israeli aggression: Commander",
-      "summary": "A senior Iranian commander says the Islamic Republic will rapidly replace air defense systems and equipment damaged during the US-Israeli aggression, emphasizing the country's reliance on domestically developed military technology.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260614-presstv08.htm",
-      "bloc": "western",
+      "headline": "India's protest with US over strike that killed three Indian mariners fell on deaf ears: Manish Tewari",
+      "summary": "Congress leader Manish Tewari has strongly criticized the United States' reaction to the deaths of three Indian sailors. He stated the US response was belligerent, not regretful. The US Secretary of State's remarks lacked empathy. India's External Affairs Min…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/indias-protest-with-us-over-strike-that-killed-three-indian-mariners-fell-on-deaf-ears-manish-tewari/articleshow/131722840.cms",
+      "bloc": "regional",
       "date": "2026-06-14",
-      "datetime": "2026-06-14T12:00:00Z",
+      "datetime": "2026-06-14T14:11:15Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Lebanon files complaints with UN Security Council over Israeli attacks",
-      "summary": "Lebanon has filed two separate complaints with the United Nations Security Council and the UN Secretary-General over Israeli attacks on its territory.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260614-presstv04.htm",
-      "bloc": "western",
-      "date": "2026-06-14",
-      "datetime": "2026-06-14T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Foreign Ministry warns US of 'dangerous consequences' of Israeli 'terrorist' strike on Beirut",
-      "summary": "Iran's Foreign Ministry has strongly condemned the Israeli regime's \"terrorist act\" against a residential area in the southern suburbs of Beirut, calling it a flagrant violation of Lebanon's sovereignty and a material breach of the April 8 ceasefire between I…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260614-presstv06.htm",
-      "bloc": "western",
-      "date": "2026-06-14",
-      "datetime": "2026-06-14T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Any attempt to shape regional security without Iran doomed to fail: Araghchi",
-      "summary": "Iranian Foreign Minister Abbas Araghchi says any new security arrangement in the West Asia region that disregards the Islamic Republic is bound to fail, reiterating Tehran's call for an inclusive regional framework.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260614-presstv08.htm",
-      "bloc": "western",
-      "date": "2026-06-14",
-      "datetime": "2026-06-14T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,32 +203,6 @@
       "bloc": "regional",
       "date": "2026-06-13",
       "datetime": "2026-06-13T18:04:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "‘Comply with US forces in Hormuz immediately,’ Rubio tells Jaishankar amid row over Indian sailors",
-      "summary": "US Secretary of State Marco Rubio urged compliance with US forces in the Strait of Hormuz. This follows India's strong protest over US naval attacks in the Gulf. These attacks resulted in the deaths of three Indian mariners aboard a Palau-flagged tanker. Indi…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/comply-with-us-forces-in-hormuz-immediately-rubio-tells-jaishankar-amid-row-over-indian-sailors/articleshow/131705764.cms",
-      "bloc": "regional",
-      "date": "2026-06-13",
-      "datetime": "2026-06-13T13:42:51Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

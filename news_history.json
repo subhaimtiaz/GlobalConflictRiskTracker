@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-15T12:24:11.498Z",
+  "updated": "2026-06-15T21:08:53.136Z",
   "retention_days": 30,
   "items": [
     {
@@ -15325,7 +15325,119 @@
       "_from": "newsapi",
       "first_seen": "2026-06-15T12:24:11.498Z",
       "run_id": "2026-06-15T12:24"
+    },
+    {
+      "headline": "Trump Wants Reporters to Know He’s Very Mad at Netanyahu",
+      "summary": "President Donald Trump is telling reporters that he expects an Iran peace deal to be signed this afternoon, giving him ample time to make it to his UFC fight beneath the White House claw this evening. The war began on February 28, when the US and Israeli mili…",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/06/trump-netanyahu-iran-deal-lebanon/",
+      "bloc": "western",
+      "date": "2026-06-14",
+      "datetime": "2026-06-14T19:32:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-15T21:08:53.135Z",
+      "run_id": "2026-06-15T21:08"
+    },
+    {
+      "headline": "Senior Iranian leader blocks agreement",
+      "summary": "Iran’s decision to launch ballistic missiles at Israel after months of ceasefire was not only a military message but also an attempt to demonstrate the new balance of power in Tehran. According to a report by The Wall Street Journal, the driving force behind …",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4383727/posts",
+      "bloc": "western",
+      "date": "2026-06-14",
+      "datetime": "2026-06-14T17:17:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-15T21:08:53.135Z",
+      "run_id": "2026-06-15T21:08"
+    },
+    {
+      "headline": "There Is No Bigger Trump Lie Right Now Than Him Saying the Iran War Is Good for You—or the World",
+      "summary": "On June 1st, despite a ceasefire ostensibly underway in the US-Israeli war on Iran, Israel’s prime minister launched a major escalation against Lebanon, including threatening airstrikes against the Lebanese capital. The US president called the Israeli leader,…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/trump-iran-war-lies",
+      "bloc": "western",
+      "date": "2026-06-14",
+      "datetime": "2026-06-14T14:57:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-15T21:08:53.135Z",
+      "run_id": "2026-06-15T21:08"
+    },
+    {
+      "headline": "India's protest with US over strike that killed three Indian mariners fell on deaf ears: Manish Tewari",
+      "summary": "Congress leader Manish Tewari has strongly criticized the United States' reaction to the deaths of three Indian sailors. He stated the US response was belligerent, not regretful. The US Secretary of State's remarks lacked empathy. India's External Affairs Min…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/indias-protest-with-us-over-strike-that-killed-three-indian-mariners-fell-on-deaf-ears-manish-tewari/articleshow/131722840.cms",
+      "bloc": "regional",
+      "date": "2026-06-14",
+      "datetime": "2026-06-14T14:11:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-15T21:08:53.135Z",
+      "run_id": "2026-06-15T21:08"
     }
   ],
-  "total_items_ever": 1961
+  "total_items_ever": 1965
 }

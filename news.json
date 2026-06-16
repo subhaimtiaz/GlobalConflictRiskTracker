@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-16T17:02:46.664Z",
+  "ts": "2026-06-16T20:58:26.457Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,88 @@
   },
   "live_variables": {
     "oilPrice": 79,
-    "oilStress": 18,
-    "updatedAt": "2026-06-16T17:02:46.664Z"
+    "oilStress": 20,
+    "updatedAt": "2026-06-16T20:58:26.457Z"
   },
   "items": [
+    {
+      "headline": "Obama Casts Doubts on Any Trump-Negotiated “Deal” to End Iran War",
+      "summary": "Obama also criticized Trump's foreign policy strategy of trying to “bully our way” to solutions.",
+      "source": "Truthout",
+      "url": "https://truthout.org/articles/obama-casts-doubts-on-any-trump-negotiated-deal-to-end-iran-war/",
+      "bloc": "western",
+      "date": "2026-06-15",
+      "datetime": "2026-06-15T20:28:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "What The U.S.-Iran Ceasefire Really Means For Washington, Tehran, Israel, China And The Gulf",
+      "summary": "The Hormuz ceasefire calmed markets fast, but Iran gained leverage, Israel lost tempo, and the Gulf faces a bigger resilience bill. What each actor actually won.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/guneyyildiz/2026/06/15/what-the-us-iran-ceasefire-really-means-for-washington-tehran-israel-china-and-the-gulf/",
+      "bloc": "western",
+      "date": "2026-06-15",
+      "datetime": "2026-06-15T19:45:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Iran war’s end is being greatly exaggerated",
+      "summary": "One should never underestimate President Donald Trump’s ability to use sheer obfuscation to extract “victory” from a situation where the outcome is ambiguous at best. In the days to come, following Sunday’s announcement of a US-Iran ceasefire deal, the Trump …",
+      "source": "Vox",
+      "url": "https://www.vox.com/politics/491939/iran-ceasefire-trump",
+      "bloc": "western",
+      "date": "2026-06-15",
+      "datetime": "2026-06-15T17:56:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Scouring the Strait of Hormuz for Mines Could Take Weeks",
       "summary": "Ensuring the Strait of Hormuz is safe from mines could delay a return to normal shipping traffic by weeks following a deal to reopen the waterway, shipping and maritime security sources say.",
@@ -66,91 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "How Iran gained the strategic upper hand in the war with the US and Israel",
-      "summary": "Tehran has exploited its asymmetric warfare capabilities to strengthen its position.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/how-iran-gained-the-strategic-upper-hand-in-the-war-with-the-us-and-israel-285261",
+      "headline": "How the Strait of Hormuz reopening could unfold if the U.S.-Iran deal is implemented",
+      "summary": "Tanker traffic through Hormuz could quickly increase but it is unclear whether transits will approach prewar levels, according to Kpler.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/15/oil-tanker-strait-hormuz-traffic-us-iran-deal.html",
       "bloc": "western",
       "date": "2026-06-15",
-      "datetime": "2026-06-15T14:17:12Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump’s Iran Deal Is a Humiliation for Him—and Good News for the World",
-      "summary": "Jeet Heer\n\n\n\nThe negotiations are a stark symbol of the president’s failure. But any deal is better than endless, foolish war.\r\n\n\r\n\n\nThe post Trump’s Iran Deal Is a Humiliation for Him—and Good News for the World appeared first on The Nation.",
-      "source": "Thenation.com",
-      "url": "https://www.thenation.com/article/politics/trump-iran-deal-ceasefire/",
-      "bloc": "western",
-      "date": "2026-06-15",
-      "datetime": "2026-06-15T14:05:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "A war without victors: Trump’s Iran deal delivers fragile peace with many faultlines",
-      "summary": "However Trump chooses to sell it, the agreement is not a permanent settlement",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/06/15/a-war-without-victors-trumps-iran-deal-delivers-fragile-peace-with-many-faultlines/",
-      "bloc": "western",
-      "date": "2026-06-15",
-      "datetime": "2026-06-15T12:50:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz reopening won't restore normal prewar shipping any time soon",
-      "summary": "A proposed US-Iran deal to reopen the Strait of Hormuz is raising hopes for global shipping and oil markets. But mines, high insurance costs and geopolitical risks mean disruption could persist for months.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/us-iran-war-deal-why-strait-of-hormuz-risks-wont-fade-fast/a-77553214",
-      "bloc": "western",
-      "date": "2026-06-15",
-      "datetime": "2026-06-15T15:25:00Z",
+      "datetime": "2026-06-15T20:00:38Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Federal Reserve faces reduced pressure to hike rates after US-Iran deal on Strait of Hormuz",
-      "summary": "The US-Iran deal eases global energy tensions, allowing the Fed to prioritize economic stability over crisis-driven rate hikes.\nThe post Federal Reserve faces reduced pressure to hike rates after US-Iran deal on Strait of Hormuz appeared first on Crypto Brief…",
+      "headline": "Average US gas price falls below $4 as Strait of Hormuz reopens under Iran peace deal",
+      "summary": "The reopening of the Strait of Hormuz under a peace deal may stabilize global oil markets, potentially lowering gas prices and influencing crypto trends.\nThe post Average US gas price falls below $4 as Strait of Hormuz reopens under Iran peace deal appeared f…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/fed-rate-pressure-eases-us-iran-hormuz-deal/",
+      "url": "https://cryptobriefing.com/us-gas-price-drops-strait-hormuz-reopens/",
       "bloc": "western",
       "date": "2026-06-15",
-      "datetime": "2026-06-15T14:55:11Z",
+      "datetime": "2026-06-15T19:58:28Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump reports oil-laden ships moving out of Strait of Hormuz as US military escorts tankers through Iranian blockade",
-      "summary": "The reopening of the Strait of Hormuz could stabilize global oil markets and impact cryptocurrency volatility linked to geopolitical tensions.\nThe post Trump reports oil-laden ships moving out of Strait of Hormuz as US military escorts tankers through Iranian…",
+      "headline": "Trump claims Strait of Hormuz will reopen by Friday as Bitcoin jumps past $65K",
+      "summary": "The reopening of the Strait of Hormuz could stabilize global energy markets, impacting inflation and central bank policies, with ripple effects on crypto.\nThe post Trump claims Strait of Hormuz will reopen by Friday as Bitcoin jumps past $65K appeared first o…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-strait-hormuz-oil-ships-crypto/",
+      "url": "https://cryptobriefing.com/trump-strait-hormuz-reopen-bitcoin-rally/",
       "bloc": "western",
       "date": "2026-06-15",
-      "datetime": "2026-06-15T13:19:56Z",
+      "datetime": "2026-06-15T17:41:40Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,13 +222,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Japanese Shipping Companies Hold Back Despite Hormuz Deal",
-      "summary": "Japanese shipping companies that own vessels stuck near the Strait of Hormuz are in no rush to test the veracity of news that the U.S. and Iran had agreed to end their hostilities, with Iran reopening the strait. They will wait until the formalization of the …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Japanese-Shipping-Companies-Hold-Back-Despite-Hormuz-Deal.html",
-      "bloc": "western",
+      "headline": "'Start your engines'? Shippers wary on Hormuz reopening",
+      "summary": "Shipping groups are hesitant to resume sailing through the Strait of Hormuz. An agreement between the US and Iran promises its reopening. However, details on safe routes and timings are lacking. Hundreds of ships remain stuck in the Gulf. Leaders urge caution…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/start-your-engines-shippers-wary-on-hormuz-reopening/articleshow/131751328.cms",
+      "bloc": "regional",
       "date": "2026-06-15",
-      "datetime": "2026-06-15T09:12:00Z",
+      "datetime": "2026-06-15T17:22:12Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-16T04:48:24.061Z",
+  "ts": "2026-06-16T11:20:14.610Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,45 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 83,
-    "oilStress": 25,
-    "updatedAt": "2026-06-16T04:48:24.061Z"
+    "oilPrice": 81,
+    "oilStress": 22,
+    "updatedAt": "2026-06-16T11:20:14.610Z"
   },
   "items": [
     {
-      "headline": "US-Iran peace deal announced with 'permanent' end to military action",
-      "summary": "The United States and Iran agreed to a peace deal and an \"immediate and permanent\" end to military operations on all fronts including Lebanon, signaling the apparent end to more than three months of war in Middle East.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/us-iran-peace-deal-announced-with-permanent-end-to-military-action-223284",
-      "bloc": "western",
-      "date": "2026-06-15",
-      "datetime": "2026-06-15T04:38:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "What to know about the G7 summit Trump is attending in France",
-      "summary": "Analysts speculated that tensions might rise and Trump may not stay long in Evian-les-Bains, the Alpine spa town secured for G7 leaders and guests of host President Emmanuel Macron",
+      "headline": "Sensex today | Stock Market Highlights: Sensex gains 736 points, Nifty closes above 23,850 as US-Iran deal drives crude prices lower",
+      "summary": "Sensex, Nifty, Share Prices Highlights: Benchmark equity indices ended higher for the second consecutive session on Monday, although they pared some gains in the latter half of the session amid profit booking. BSE Sensex settled 736.38 points, or 0.97 per cen…",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/what-to-know-about-the-g7-summit-trump-is-attending-in-france/article71103295.ece",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-15th-june-2026/article71101316.ece",
       "bloc": "western",
       "date": "2026-06-15",
-      "datetime": "2026-06-15T03:44:56Z",
+      "datetime": "2026-06-15T11:17:15Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Iran-America war ended decisively",
-      "summary": "An historic peace agreement framework, or a memorandum of understanding, has been announced between the United States and Iran, ending the severe armed conflicts that had been ongoing between the two parties since early 2026. This provides a diplomatic soluti…",
-      "source": "Gossiplankanews.com",
-      "url": "https://english.gossiplankanews.com/2026/06/the-iran-america-war-ended-decisively.html",
+      "headline": "U.S. and Iran agree to peace framework and the pageantry at Trump’s UFC night: Morning Rundown",
+      "summary": "In today’s newsletter: The U.S. and Iran reach an agreement to end fighting and reopen the Strait of Hormuz.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/us-iran-reach-agreement-trumps-ufc-night-morning-rundown-rcna349980",
       "bloc": "western",
       "date": "2026-06-15",
-      "datetime": "2026-06-15T03:10:24Z",
+      "datetime": "2026-06-15T11:12:33Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US-Iran peace deal: Donald Trump’s foolish war will hurt the world for some time",
-      "summary": "Oil might soon flow through the Strait of Hormuz, but the damage done by Trump’s war will linger for a very long time.",
-      "source": "The Sydney Morning Herald",
-      "url": "https://www.smh.com.au/business/markets/trump-s-deal-will-show-how-pointless-his-war-was-20260615-p606s6.html",
+      "headline": "Scouring the Strait of Hormuz for Mines Could Take Weeks",
+      "summary": "Ensuring the Strait of Hormuz is safe from mines could delay a return to normal shipping traffic by weeks following a deal to reopen the waterway, shipping and maritime security sources say. The operation by conventional minesweepers and state-of-the-art unde…",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/06/15/873726.htm",
       "bloc": "western",
       "date": "2026-06-15",
-      "datetime": "2026-06-15T01:59:48Z",
+      "datetime": "2026-06-15T11:02:18Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -118,39 +92,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US, Iran reach deal to end war, signing ceremony set in Switzerland on Friday",
-      "summary": "Under the reported agreement, both sides would halt military action, reopen the Strait of Hormuz, and begin a new phase of discussions focused on Iran’s nuclear programme.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/us-iran-reach-deal-to-end-war-signing-ceremony-set-in-switzerland-on-friday/article71103130.ece",
+      "headline": "Japanese Shipping Companies Hold Back Despite Hormuz Deal",
+      "summary": "Japanese shipping companies that own vessels stuck near the Strait of Hormuz are in no rush to test the veracity of news that the U.S. and Iran had agreed to end their hostilities, with Iran reopening the strait. They will wait until the formalization of the …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Japanese-Shipping-Companies-Hold-Back-Despite-Hormuz-Deal.html",
       "bloc": "western",
-      "date": "2026-06-14",
-      "datetime": "2026-06-14T23:47:25Z",
+      "date": "2026-06-15",
+      "datetime": "2026-06-15T09:12:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US and Iran agree on framework to end conflict and reopen Strait of Hormuz",
-      "summary": "The agreement could stabilize global oil markets, reduce geopolitical tensions, and open pathways for future diplomatic negotiations on nuclear issues.\nThe post US and Iran agree on framework to end conflict and reopen Strait of Hormuz appeared first on Crypt…",
+      "headline": "UK welcomes US-Iran deal to reopen Strait of Hormuz as Iran eyes Bitcoin-based toll system",
+      "summary": "The reopening of the Strait of Hormuz could stabilize global energy markets, while Iran's Bitcoin toll system may challenge US sanctions.\nThe post UK welcomes US-Iran deal to reopen Strait of Hormuz as Iran eyes Bitcoin-based toll system appeared first on Cry…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-framework-strait-of-hormuz/",
+      "url": "https://cryptobriefing.com/us-iran-hormuz-deal-bitcoin-toll-system/",
       "bloc": "western",
       "date": "2026-06-15",
-      "datetime": "2026-06-15T02:13:30Z",
+      "datetime": "2026-06-15T08:15:21Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,65 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Markets cheer U.S.-Iran agreement, but some investors caution deal is yet to be signed",
-      "summary": "Asian stocks rallied Monday while oil prices tumbled after the U.S. and Iran agreed to a peace deal aimed at ending nearly four months of conflict.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/15/us-iran-deal-stocks-bonds-gold-oil.html",
+      "headline": "Oil prices plummet after Iran-US deal as Trump warns he will become 'guardian of Middle East' if Tehran fails to reach final nuclear accord",
+      "summary": "Oil prices have plummeted following the announcement by US and Iranian officials that they had agreed on a framework to end the war.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15900249/Oil-prices-plummet-Iran-US-deal-Trump-warns-guardian-Middle-East-Tehran-fails-reach-final-nuclear-accord.html",
       "bloc": "western",
       "date": "2026-06-15",
-      "datetime": "2026-06-15T01:21:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Crude oil today: Live updates",
-      "summary": "\"The Deal with the Islamic Republic of Iran is now complete,\" Trump said in a Truth Social post.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/14/oil-price-iran-war-strait-hormuz-peace-deal.html",
-      "bloc": "western",
-      "date": "2026-06-14",
-      "datetime": "2026-06-14T22:06:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "India's protest with US over strike that killed three Indian mariners fell on deaf ears: Manish Tewari",
-      "summary": "Congress leader Manish Tewari has strongly criticized the United States' reaction to the deaths of three Indian sailors. He stated the US response was belligerent, not regretful. The US Secretary of State's remarks lacked empathy. India's External Affairs Min…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/indias-protest-with-us-over-strike-that-killed-three-indian-mariners-fell-on-deaf-ears-manish-tewari/articleshow/131722840.cms",
-      "bloc": "regional",
-      "date": "2026-06-14",
-      "datetime": "2026-06-14T14:11:15Z",
+      "datetime": "2026-06-15T07:58:56Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -244,6 +166,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump upends US strategy in the Middle East",
+      "summary": "Global Briefing: Washington has upended its decades-long Middle East strategy of keeping energy and trade flowing",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/2026/06/15/iran-peace-deal-will-not-restore-pre-war-status-quo-in-strait-of-hormuz/",
+      "bloc": "western",
+      "date": "2026-06-15",
+      "datetime": "2026-06-15T06:37:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -393,6 +341,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Crude oil near $80 per barrel: Could India see a drop in petrol, diesel and LPG prices?",
+      "summary": "WTI crude oil drops to around $80 per barrel today, while Brent crude falls nearly 4% to around $83.82 per barrel. However, key questions remain. Could India really see a fall in petrol, diesel and LPG prices following this development?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/crude-oil-near-80-per-barrel-could-india-see-a-drop-in-petrol-diesel-and-lpg-prices-11781502679902.html",
+      "bloc": "western",
+      "date": "2026-06-15",
+      "datetime": "2026-06-15T08:08:39Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The Oil Market Could Be Weeks From a Breaking Point",
       "summary": "Three and a half months after the blocked Strait of Hormuz created the worst oil supply disruption in history, oil prices remain below $100 per barrel amid hopes of an imminent U.S.-Iran deal. It’s not only hopes that have been keeping prices much lower than …",
       "source": "OilPrice.com",
@@ -497,6 +471,56 @@
       "_from": "newsapi"
     },
     {
+      "headline": "A history of Iran's nuclear programme and tensions with the US as an interim deal is reached",
+      "summary": "A landmark interim deal between the United States and Iran aims to end a protracted war and reopen the vital Strait of Hormuz. This agreement, planned for signing in Switzerland, follows years of escalating tensions and a complex history of nuclear negotiatio…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/a-history-of-irans-nuclear-programme-and-tensions-with-the-us-as-an-interim-deal-is-reached/articleshow/131734314.cms",
+      "bloc": "regional",
+      "date": "2026-06-15",
+      "datetime": "2026-06-15T05:28:10Z",
+      "leaders": [
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran US diplomacy"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "A history of Iran's nuclear program and tensions with the US",
+      "summary": "The United States and Iran have reached an interim deal aimed at ending their war and reopening the Strait of Hormuz",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/history-irans-nuclear-program-tensions-us-interim-deal-133878780",
+      "bloc": "western",
+      "date": "2026-06-15",
+      "datetime": "2026-06-15T05:19:00Z",
+      "leaders": [
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran US diplomacy"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "US and Iran negotiations remain on track despite overnight strikes, but crypto markets are feeling the heat",
       "summary": "Geopolitical tensions and sanctions are reshaping crypto markets, highlighting vulnerabilities and influencing global economic stability.\nThe post US and Iran negotiations remain on track despite overnight strikes, but crypto markets are feeling the heat appe…",
       "source": "Crypto Briefing",
@@ -518,6 +542,31 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Risk of nuclear catastrophe is worse than ever. We can change that",
+      "summary": "Editor of the Bulletin of the Atomic Scientists says the doomsday threat is real — but human goodness will win out",
+      "source": "Salon",
+      "url": "https://www.salon.com/2026/06/15/risk-of-nuclear-catastrophe-is-worse-than-ever-but-we-can-change-that/",
+      "bloc": "western",
+      "date": "2026-06-15",
+      "datetime": "2026-06-15T10:30:52Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

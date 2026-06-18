@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-18T15:33:56.552Z",
+  "updated": "2026-06-18T20:30:05.802Z",
   "retention_days": 30,
   "items": [
     {
@@ -16677,7 +16677,89 @@
       "_from": "newsapi",
       "first_seen": "2026-06-18T15:33:56.552Z",
       "run_id": "2026-06-18T15:33"
+    },
+    {
+      "headline": "US-Iran peace deal demands Israel withdraw from Lebanon to respect ‘territorial integrity’",
+      "summary": "\"The final deal will confirm the permanent termination of the war on all fronts, including in Lebanon, and other provisions of this paragraph.\"",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/17/world-news/us-iran-peace-deal-demands-israel-withdraw-from-lebanon-to-respect-territorial-integrity/",
+      "bloc": "western",
+      "date": "2026-06-17",
+      "datetime": "2026-06-17T19:41:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-18T20:30:05.802Z",
+      "run_id": "2026-06-18T20:30"
+    },
+    {
+      "headline": "US-Iran deal set for Friday signing as gas prices face long road to recovery",
+      "summary": "The US-Iran deal may stabilize geopolitical tensions, but energy market recovery will be gradual, impacting inflation and economic sectors.\nThe post US-Iran deal set for Friday signing as gas prices face long road to recovery appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-iran-deal-friday-gas-prices/",
+      "bloc": "western",
+      "date": "2026-06-17",
+      "datetime": "2026-06-17T19:17:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-18T20:30:05.802Z",
+      "run_id": "2026-06-18T20:30"
+    },
+    {
+      "headline": "Why Trump’s Pentagon Abandoned ‘Indo-Pacific’",
+      "summary": "A military name change signals a broader strategic and diplomatic shift.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/06/17/indo-pacific-strategy-trump-military-command-indopacom-pacom/",
+      "bloc": "western",
+      "date": "2026-06-17",
+      "datetime": "2026-06-17T18:45:41Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-18T20:30:05.802Z",
+      "run_id": "2026-06-18T20:30"
     }
   ],
-  "total_items_ever": 2051
+  "total_items_ever": 2054
 }

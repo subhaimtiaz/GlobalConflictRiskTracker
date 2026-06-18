@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-18T15:35:01.825Z",
+  "ts": "2026-06-18T20:31:10.992Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 77,
-    "oilStress": 16,
-    "updatedAt": "2026-06-18T15:35:01.825Z"
+    "oilPrice": 79,
+    "oilStress": 20,
+    "updatedAt": "2026-06-18T20:31:10.991Z"
   },
   "items": [
+    {
+      "headline": "US-Iran peace deal demands Israel withdraw from Lebanon to respect ‘territorial integrity’",
+      "summary": "\"The final deal will confirm the permanent termination of the war on all fronts, including in Lebanon, and other provisions of this paragraph.\"",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/17/world-news/us-iran-peace-deal-demands-israel-withdraw-from-lebanon-to-respect-territorial-integrity/",
+      "bloc": "western",
+      "date": "2026-06-17",
+      "datetime": "2026-06-17T19:41:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Netanyahu-Trump relations reach breaking point: Israeli media",
       "summary": "Relations between Israeli prime minister Benjamin Netanyahu and US President Donald Trump have entered a critical phase and may soon escalate into open political confrontation after the announcement of the Iran-US MoU to end the war, according to Israeli medi…",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Five Israeli occupation forces injured in drone attack in southern Lebanon",
-      "summary": "Five Israeli soldiers were wounded in a drone attack carrying explosive payloads in southern Lebanon on Wednesday, according to the Israeli military.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260617-presstv01.htm",
+      "headline": "US-Iran deal set for Friday signing as gas prices face long road to recovery",
+      "summary": "The US-Iran deal may stabilize geopolitical tensions, but energy market recovery will be gradual, impacting inflation and economic sectors.\nThe post US-Iran deal set for Friday signing as gas prices face long road to recovery appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-iran-deal-friday-gas-prices/",
       "bloc": "western",
       "date": "2026-06-17",
-      "datetime": "2026-06-17T12:00:00Z",
+      "datetime": "2026-06-17T19:17:21Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -248,20 +274,18 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump tells G7 leaders 'I'm the boss' as they back his Iran deal after 'details of agreement leaked, including $300bn for Tehran'",
-      "summary": "The remark came as the G7 threw its support behind the U.S. President's tentative agreement with Iran to reopen the Strait of Hormuz.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15907057/Trump-tells-G7-leaders-Im-boss-Iran-deal-details-agreement-leaked-including-300bn-Tehran.html",
+      "headline": "Why Trump’s Pentagon Abandoned ‘Indo-Pacific’",
+      "summary": "A military name change signals a broader strategic and diplomatic shift.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/06/17/indo-pacific-strategy-trump-military-command-indopacom-pacom/",
       "bloc": "western",
       "date": "2026-06-17",
-      "datetime": "2026-06-17T11:37:03Z",
+      "datetime": "2026-06-17T18:45:41Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
         "Xi Jinping"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",

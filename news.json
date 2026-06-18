@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-18T10:27:34.639Z",
+  "ts": "2026-06-18T15:35:01.825Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,19 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 78,
-    "oilStress": 17,
-    "updatedAt": "2026-06-18T10:27:34.639Z"
+    "oilPrice": 77,
+    "oilStress": 16,
+    "updatedAt": "2026-06-18T15:35:01.825Z"
   },
   "items": [
     {
-      "headline": "Oil Prices Crash as Traders Bet the War Is Over",
-      "summary": "Brent crude futures fell below $79 per barrel on Tuesday, its lowest level since March, according to a report by Julianne Geiger for Oilprice.com. The decline followed the United States and Iran digitally signing a peace agreement that includes the reopening …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-06-17-oil-prices-crash-traders-bet-war-is-over.html",
+      "headline": "Netanyahu-Trump relations reach breaking point: Israeli media",
+      "summary": "Relations between Israeli prime minister Benjamin Netanyahu and US President Donald Trump have entered a critical phase and may soon escalate into open political confrontation after the announcement of the Iran-US MoU to end the war, according to Israeli medi…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/israel/2026/06/israel-260617-presstv01.htm",
       "bloc": "western",
       "date": "2026-06-17",
-      "datetime": "2026-06-17T06:00:00Z",
+      "datetime": "2026-06-17T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump’s Historic Choice: Humanity Either Has a Future, or a Collapse",
-      "summary": "The Stakes Before Us We are standing at a pivot point that will echo through the generations. The decisions made in the next 90 days will determine whether humanity has a future or suffers a collapse that ripples across the planet for decades to come. Preside…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-06-17-trumps-historic-choice-humanity-has-future-or-collapse.html",
+      "headline": "Iran, U.S. both claim win over MoU amid deep rifts",
+      "summary": "The United States and Iran both claimed victory after digitally signing on Monday a memorandum of understanding (MoU) aimed at ending the three-month conflict, yet both sides continue to offer conflicting accounts of its contents as the text remains unpublish…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260617-pdo01.htm",
       "bloc": "western",
       "date": "2026-06-17",
-      "datetime": "2026-06-17T06:00:00Z",
+      "datetime": "2026-06-17T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Lebanon: 12 children killed, maimed daily, despite Hezbollah-Israel truce",
+      "summary": "More than 100 days of war reveals a shattering snapshot of life for civilians in Lebanon amid Israeli strikes and forced displacement, the UN Children's Fund (UNICEF) reported on Wednesday.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260617-unnews02.htm",
+      "bloc": "western",
+      "date": "2026-06-17",
+      "datetime": "2026-06-17T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +92,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran says US war deal requires Israel to withdraw from Lebanon",
-      "summary": "Iran says Israel must withdraw from Lebanon for US peace deal to hold, raising doubts over ceasefire as West Asia tensions continue.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-says-us-war-deal-requires-israel-to-withdraw-from-lebanon/article71111828.ece",
+      "headline": "US military used Elon Musk's Grok AI in aerial assaults on Iran: Pentagon",
+      "summary": "The United States military employed a variant of Elon Musk's Grok artificial intelligence to coordinate rapid-strike offensives during its latest war of aggression waged jointly by the Israeli regime against Iran, a senior Pentagon official has disclosed in a…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260617-presstv02.htm",
       "bloc": "western",
       "date": "2026-06-17",
-      "datetime": "2026-06-17T02:56:56Z",
+      "datetime": "2026-06-17T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Fragile US-Iran MOU and the Limits of the Trump-Netanyahu Partnership",
-      "summary": "As the fragile ceasefire hangs over the Middle East, two longtime allies who once seemed inseparable are now locked in a tense standoff. Donald Trump, the president of the United States, and Benjamin Netanyahu, Israel’s prime minister, launched this war with …",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/timothy_hopper/2026/06/16/the-fragile-us-iran-mou-and-the-limits-of-the-trump-netanyahu-partnership/",
+      "headline": "Five Israeli occupation forces injured in drone attack in southern Lebanon",
+      "summary": "Five Israeli soldiers were wounded in a drone attack carrying explosive payloads in southern Lebanon on Wednesday, according to the Israeli military.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260617-presstv01.htm",
       "bloc": "western",
       "date": "2026-06-17",
-      "datetime": "2026-06-17T00:00:08Z",
+      "datetime": "2026-06-17T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -113,44 +139,18 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "How Pakistan Turned Rare Access Into Diplomatic Currency In The U.S.-Iran Deal",
-      "summary": "Pakistan quietly brokered the U.S.-Iran pause that calmed the Strait of Hormuz. The reputational currency it just minted may outlast the oil move.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/guneyyildiz/2026/06/16/how-pakistan-turned-rare-access-into-diplomatic-currency-in-the-us-iran-deal/",
-      "bloc": "western",
-      "date": "2026-06-16",
-      "datetime": "2026-06-16T17:58:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "G7 Leaders Back Trump's Plan To End Iran War That Faces Skepticism At Home",
-      "summary": "In a declaration issued overnight, the leaders said they were \"ready to contribute\" to the implementation of Trump's tentative agreement with Tehran.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/g7-summit-trump-iran-deal_n_6a326d66e4b07b79d93c560c",
+      "headline": "Iranian oil tankers resume passage after US-Iran deal eases Strait of Hormuz tensions",
+      "summary": "The easing of Strait of Hormuz tensions could stabilize global oil prices, but the deal's performance-based terms introduce potential volatility.\nThe post Iranian oil tankers resume passage after US-Iran deal eases Strait of Hormuz tensions appeared first on …",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iranian-oil-tankers-resume-us-iran-deal/",
       "bloc": "western",
       "date": "2026-06-17",
-      "datetime": "2026-06-17T10:00:36Z",
+      "datetime": "2026-06-17T14:15:48Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,39 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iranian oil tankers pass US blockade after US-Iran deal, data shows",
-      "summary": "Iranian oil tankers are now sailing through a US blockade. This follows a deal to reopen the Strait of Hormuz. Three tankers carrying five million barrels of oil have passed. Another empty tanker is heading towards the Gulf of Oman. This signals a return of I…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/iranian-oil-tankers-pass-us-blockade-after-us-iran-deal-data-shows/articleshow/131792498.cms",
-      "bloc": "regional",
-      "date": "2026-06-17",
-      "datetime": "2026-06-17T08:13:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil little changed as investors weigh Hormuz uncertainty",
-      "summary": "Oil prices fell slightly today as investors gauged the impact of a US-Iran peace deal, while uncertainty over full resumption of shipping through the Strait of Hormuz limited price declines.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/business/2026/0617/1578869-world-oil-prices/",
+      "headline": "Iran sends loaded oil tankers past US blockade line, floats Bitcoin for Hormuz transit payments",
+      "summary": "Iran's use of Bitcoin for oil payments amid US blockade challenges global economic stability and could legitimize crypto in international trade.\nThe post Iran sends loaded oil tankers past US blockade line, floats Bitcoin for Hormuz transit payments appeared …",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-oil-tankers-us-blockade-bitcoin/",
       "bloc": "western",
       "date": "2026-06-17",
-      "datetime": "2026-06-17T07:48:41Z",
+      "datetime": "2026-06-17T13:45:51Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,39 +196,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Tehran celebrates 'victory' over America ahead of deal agreement on Friday - as first Iranian oil tankers exit US blockade",
-      "summary": "According to regime insiders, the Islamic Republic believes the conflict has ultimately made them stronger.",
+      "headline": "Strait of Hormuz threat level downgraded after Iran deal, says U.S.-led maritime security group",
+      "summary": "The behavior of Iranian forces \"has become less volatile\" and the U.S. Navy continues to provide oversight, the Joint Maritime Information Center said.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/17/iran-deal-strait-hormuz-threat-jmic-ukmto.html",
+      "bloc": "western",
+      "date": "2026-06-17",
+      "datetime": "2026-06-17T13:39:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Oil Tankers Resume Movement After US–Iran Deal Reopens Strait Of Hormuz",
+      "summary": "Several Iranian oil tankers have begun moving through previously blocked routes after a US–Iran framework deal to reopen the Strait of Hormuz. The shipments signal a gradual return of Iranian crude to global markets, potentially easing supply constraints and …",
+      "source": "Free Press Journal",
+      "url": "https://www.freepressjournal.in/business/iran-oil-tankers-resume-movement-after-usiran-deal-reopens-strait-of-hormuz",
+      "bloc": "western",
+      "date": "2026-06-17",
+      "datetime": "2026-06-17T12:07:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump tells G7 leaders 'I'm the boss' as they back his Iran deal after 'details of agreement leaked, including $300bn for Tehran'",
+      "summary": "The remark came as the G7 threw its support behind the U.S. President's tentative agreement with Iran to reopen the Strait of Hormuz.",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15906591/Tehran-celebrates-victory-America-ahead-deal-agreement-Friday-Iranian-oil-tankers-exit-US-blockade.html",
+      "url": "https://www.dailymail.com/news/article-15907057/Trump-tells-G7-leaders-Im-boss-Iran-deal-details-agreement-leaked-including-300bn-Tehran.html",
       "bloc": "western",
       "date": "2026-06-17",
-      "datetime": "2026-06-17T07:15:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iranian tankers exit US blockade zone ahead of peace talks",
-      "summary": "The first tankers carrying Iranian oil exited a U.S. blockade in the Strait of Hormuz, a tracking website said on June 16, two days before Washington and Tehran launch talks on an agreed peace deal still scant on details — including Iran's nuclear programme a…",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/iranian-tankers-exit-us-blockade-zone-ahead-of-peace-talks-223369",
-      "bloc": "western",
-      "date": "2026-06-17",
-      "datetime": "2026-06-17T06:00:18Z",
+      "datetime": "2026-06-17T11:37:03Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -341,6 +341,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Prices Crash as Traders Bet the War Is Over",
+      "summary": "Brent crude futures fell below $79 per barrel on Tuesday, its lowest level since March, according to a report by Julianne Geiger for Oilprice.com. The decline followed the United States and Iran digitally signing a peace agreement that includes the reopening …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-17-oil-prices-crash-traders-bet-war-is-over.html",
+      "bloc": "western",
+      "date": "2026-06-17",
+      "datetime": "2026-06-17T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -444,6 +470,31 @@
         "values"
       ],
       "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US government aims to release US-Iran deal text by Friday",
+      "summary": "The deal's success could stabilize energy markets and attract significant investment to Iran, contingent on Iran's compliance with nuclear terms.\nThe post US government aims to release US-Iran deal text by Friday appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-iran-deal-text-release-friday/",
+      "bloc": "western",
+      "date": "2026-06-17",
+      "datetime": "2026-06-17T13:23:58Z",
+      "leaders": [
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran US diplomacy"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

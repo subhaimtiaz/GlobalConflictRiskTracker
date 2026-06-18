@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-17T20:20:00.422Z",
+  "ts": "2026-06-18T04:21:39.918Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 79,
-    "oilStress": 19,
-    "updatedAt": "2026-06-17T20:20:00.422Z"
+    "oilPrice": 78,
+    "oilStress": 18,
+    "updatedAt": "2026-06-18T04:21:39.918Z"
   },
   "items": [
+    {
+      "headline": "Iran says US war deal requires Israel to withdraw from Lebanon",
+      "summary": "Iran says Israel must withdraw from Lebanon for US peace deal to hold, raising doubts over ceasefire as West Asia tensions continue.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-says-us-war-deal-requires-israel-to-withdraw-from-lebanon/article71111828.ece",
+      "bloc": "western",
+      "date": "2026-06-17",
+      "datetime": "2026-06-17T02:56:56Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Fragile US-Iran MOU and the Limits of the Trump-Netanyahu Partnership",
+      "summary": "As the fragile ceasefire hangs over the Middle East, two longtime allies who once seemed inseparable are now locked in a tense standoff. Donald Trump, the president of the United States, and Benjamin Netanyahu, Israel’s prime minister, launched this war with …",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/timothy_hopper/2026/06/16/the-fragile-us-iran-mou-and-the-limits-of-the-trump-netanyahu-partnership/",
+      "bloc": "western",
+      "date": "2026-06-17",
+      "datetime": "2026-06-17T00:00:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "How Pakistan Turned Rare Access Into Diplomatic Currency In The U.S.-Iran Deal",
       "summary": "Pakistan quietly brokered the U.S.-Iran pause that calmed the Strait of Hormuz. The reputational currency it just minted may outlast the oil move.",
@@ -92,53 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Lost the Iran War",
-      "summary": "President deals gave away all his leverage just to try to turn back the clock to February 27th.",
-      "source": "Jezebel",
-      "url": "https://www.jezebel.com/trump-lost-the-iran-war",
-      "bloc": "western",
-      "date": "2026-06-16",
-      "datetime": "2026-06-16T15:39:58Z",
+      "headline": "PM Modi, Trump to discuss West Asia crisis, energy partnership, trade deal on sidelines of G7 Summit: Sources",
+      "summary": "Prime Minister Modi and President Trump are set to discuss West Asia tensions, the Strait of Hormuz, and a bilateral trade agreement during their G7 meeting. Both nations aim to build a long-term energy partnership amid global supply chain concerns. The trade…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/pm-modi-trump-to-discuss-west-asia-crisis-energy-partnership-trade-deal-on-sidelines-of-g7-summit-sources/articleshow/131784201.cms",
+      "bloc": "regional",
+      "date": "2026-06-17",
+      "datetime": "2026-06-17T01:53:38Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "From JCPOA exit to the 2026 deal: How US-Iran ties soured under Trump",
-      "summary": "Ties between the US and Iran have been strained through both of Donald Trump's terms as US president.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/16/from-jcpoa-exit-to-the-2026-deal-how-us-iran-ties-soured-under-trump",
-      "bloc": "regional",
+      "headline": "Iran moves oil tankers through Strait of Hormuz ahead of US deal signing",
+      "summary": "The easing of tensions may stabilize global oil markets and spotlight crypto's role in international trade, impacting both sectors significantly.\nThe post Iran moves oil tankers through Strait of Hormuz ahead of US deal signing appeared first on Crypto Briefi…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-oil-tankers-us-deal-crypto/",
+      "bloc": "western",
       "date": "2026-06-16",
-      "datetime": "2026-06-16T15:21:32Z",
+      "datetime": "2026-06-16T20:57:57Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -203,32 +255,6 @@
       "bloc": "regional",
       "date": "2026-06-16",
       "datetime": "2026-06-16T17:17:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran can resume oil sales under Trump’s deal to end war, and crypto markets are watching closely",
-      "summary": "The tentative US-Iran oil deal could stabilize global energy markets, influencing risk assets like cryptocurrencies amid geopolitical complexities.\nThe post Iran can resume oil sales under Trump’s deal to end war, and crypto markets are watching closely appea…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-oil-deal-crypto-market-impact/",
-      "bloc": "western",
-      "date": "2026-06-16",
-      "datetime": "2026-06-16T15:54:13Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -320,6 +346,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Markets News, June 16, 2026: Dow Hits Record as Chip Stocks Lead Tech Lower; SpaceX Stock Soars on Cursor Deal",
+      "summary": "Tech stocks took a breather and the Dow extended its run of record highs on Tuesday as Federal Reserve and Group of Seven meetings got underway.",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-06162026-11999070",
+      "bloc": "western",
+      "date": "2026-06-16",
+      "datetime": "2026-06-16T12:36:25Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Current price of oil as of June 15, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
       "source": "Fortune",
@@ -405,32 +457,6 @@
       "bloc": "western",
       "date": "2026-06-12",
       "datetime": "2026-06-12T23:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Sensex, Nifty end lower as West Asia tensions weigh; IT stocks extend losing streak",
-      "summary": "Sensex Today, Nifty 50 | Stock Market Highlights: Sensex ended 150.63 points lower, or 0.20 per cent, at 73,832.55, while the Nifty closed at 23,161.60, down 53.35 points or 0.23 per cent on Thursday. Markets remained under pressure as risk-off sentiment prev…",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-11th-june-2026/article71085058.ece",
-      "bloc": "western",
-      "date": "2026-06-11",
-      "datetime": "2026-06-11T10:36:48Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

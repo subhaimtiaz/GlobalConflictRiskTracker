@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-18T20:31:10.992Z",
+  "ts": "2026-06-19T04:49:24.077Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 79,
     "oilStress": 20,
-    "updatedAt": "2026-06-18T20:31:10.991Z"
+    "updatedAt": "2026-06-19T04:49:24.077Z"
   },
   "items": [
+    {
+      "headline": "The Behavior of Coordinated SSH Brute Force Attacks over the last three months [Guest Diary], (Wed, Jun 17th)",
+      "summary": "The Behavior of Coordinated SSH Brute Force Attacks over the last three months [Guest Diary], Author: Guy Bruneau",
+      "source": "Sans.edu",
+      "url": "https://isc.sans.edu/diary/33086",
+      "bloc": "western",
+      "date": "2026-06-18",
+      "datetime": "2026-06-18T01:49:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Here's how much the the Iran war cost -- and how its effects will linger",
+      "summary": "More than three months after the U.S. and Israel launched their war on Iran, the costs and aftereffects are felt around the world.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade",
+      "bloc": "western",
+      "date": "2026-06-17",
+      "datetime": "2026-06-17T21:23:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US-Iran peace deal demands Israel withdraw from Lebanon to respect ‘territorial integrity’",
       "summary": "\"The final deal will confirm the permanent termination of the war on all fronts, including in Lebanon, and other provisions of this paragraph.\"",
@@ -70,58 +122,6 @@
       "summary": "The United States and Iran both claimed victory after digitally signing on Monday a memorandum of understanding (MoU) aimed at ending the three-month conflict, yet both sides continue to offer conflicting accounts of its contents as the text remains unpublish…",
       "source": "Globalsecurity.org",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260617-pdo01.htm",
-      "bloc": "western",
-      "date": "2026-06-17",
-      "datetime": "2026-06-17T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Lebanon: 12 children killed, maimed daily, despite Hezbollah-Israel truce",
-      "summary": "More than 100 days of war reveals a shattering snapshot of life for civilians in Lebanon amid Israeli strikes and forced displacement, the UN Children's Fund (UNICEF) reported on Wednesday.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260617-unnews02.htm",
-      "bloc": "western",
-      "date": "2026-06-17",
-      "datetime": "2026-06-17T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US military used Elon Musk's Grok AI in aerial assaults on Iran: Pentagon",
-      "summary": "The United States military employed a variant of Elon Musk's Grok artificial intelligence to coordinate rapid-strike offensives during its latest war of aggression waged jointly by the Israeli regime against Iran, a senior Pentagon official has disclosed in a…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260617-presstv02.htm",
       "bloc": "western",
       "date": "2026-06-17",
       "datetime": "2026-06-17T12:00:00Z",
@@ -575,31 +575,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US and Iran negotiations remain on track despite overnight strikes, but crypto markets are feeling the heat",
-      "summary": "Geopolitical tensions and sanctions are reshaping crypto markets, highlighting vulnerabilities and influencing global economic stability.\nThe post US and Iran negotiations remain on track despite overnight strikes, but crypto markets are feeling the heat appe…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-negotiations-crypto-market-impact/",
-      "bloc": "western",
-      "date": "2026-06-11",
-      "datetime": "2026-06-11T08:08:08Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Elon Musk and the Rise of Space Capitalism",
       "summary": "The United States is racing ahead where Europe, China, and India struggle.",
       "source": "Foreign Policy",
@@ -632,31 +607,6 @@
       "bloc": "western",
       "date": "2026-06-15",
       "datetime": "2026-06-15T10:30:52Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Report: U.S. Nuclear Weapons Spending Exceeded All Other Nuclear-Armed Nations Combined in 2025",
-      "summary": "A new report from the International Campaign to Abolish Nuclear Weapons (ICAN) found that U.S. spending on nuclear weapons in 2025 totaled more than the combined spending of all other nuclear-armed nations. The report released on Tuesday, June 9, estimated th…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-06-11-report-us-nuclear-spending-exceeded-other-nations-combined.html",
-      "bloc": "western",
-      "date": "2026-06-11",
-      "datetime": "2026-06-11T06:00:00Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"
@@ -728,29 +678,6 @@
       "bloc": "western",
       "date": "2026-06-12",
       "datetime": "2026-06-12T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Day 1,569 of WW3. UAF makes the port of orcupied Mariupol unusable without destroying the city in the process. Chonhar bridge gets double-tapped, and the Kremlin can seize assets from russians living abroad. This is your Thursday Ukraine War thread [News]",
-      "summary": "Day 1,569 of WW3. UAF makes the port of orcupied Mariupol unusable without destroying the city in the process. Chonhar bridge gets double-tapped, and the Kremlin can seize assets from russians living abroad. This is your Thursday Ukraine War thread",
-      "source": "Fark.com",
-      "url": "https://www.fark.com/comments/14095750/Day-1569-of-WW3-UAF-makes-port-of-orcupied-Mariupol-unusable-without-destroying-city-in-process-Chonhar-bridge-gets-double-tapped-the-Kremlin-can-seize-assets-from-russians-living-abroad-This-is-your-Thursday-Ukraine-War-thread",
-      "bloc": "western",
-      "date": "2026-06-11",
-      "datetime": "2026-06-11T12:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

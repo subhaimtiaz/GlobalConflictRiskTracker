@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-20T19:43:47.858Z",
+  "ts": "2026-06-21T04:45:34.359Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,95 @@
   "live_variables": {
     "oilPrice": 80,
     "oilStress": 21,
-    "updatedAt": "2026-06-20T19:43:47.858Z"
+    "updatedAt": "2026-06-21T04:45:34.359Z"
   },
   "items": [
     {
-      "headline": "America Spent a Fortune Shooting Down Cheap Drones. Now the Missile Stores Are Bare.",
-      "summary": "After burning through interceptors in the Iran war, the U.S. faces a dire math problem: Enemies can build drones faster than America can build missiles.",
-      "source": "Reason",
-      "url": "https://reason.com/2026/06/20/america-spent-a-fortune-shooting-down-cheap-drones-now-the-missile-stores-are-bare/",
+      "headline": "Trump envoy, Iranian minister head to Switzerland for talks",
+      "summary": "With the ceasefire in place, Steve Witkoff is heading to Switzerland to join Jared Kushner, President Donald Trump’s son-in-law, who is already there, Axios said",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-envoy-iranian-minister-head-to-switzerland-for-talks/article71124989.ece",
+      "bloc": "western",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T04:11:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Hormuz Is Open Again. But Gas Prices Won’t Drop Soon",
+      "summary": "The global supply chain will take the better part of a year to recover",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/06/hormuz-again-prices.html",
+      "bloc": "western",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T04:04:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran declares ships must beg permission to use Strait of Hormuz and could face extra charges - leading to higher household bills - despite Donald Trump deal backed by G7 leaders including Sir Keir Starmer",
+      "summary": "The Persian Gulf Strait Authority, an agency set up by Tehran during the earlier ceasefire, said vessels must submit requests at least 48 hours in advance.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15915361/Iran-declares-ships-permission-Strait-Hormuz-extra-charges.html",
+      "bloc": "western",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T01:34:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israel and Hezbollah agree to a ceasefire after intensified fighting threatens Iran talks",
+      "summary": "President Donald Trump told NBC News that he asked Israel to agree to a ceasefire with Hezbollah, after deadly Israeli attacks in Lebanon rattled planned Iran peace talks. Israel and militant group Hezbollah agreed to a ceasefire Friday, after a deadly escala…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4384580/posts",
       "bloc": "western",
       "date": "2026-06-19",
-      "datetime": "2026-06-19T15:48:13Z",
+      "datetime": "2026-06-19T21:09:43Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "‘They Get No Money!’: Trump Insists Iran Is ‘FINISHED’ as Peace Deal Talks Delayed by Fighting",
-      "summary": "President Trump insisted Iran is \"FINISHED\" and the U.S. will \"play out\" a 60-day ceasefire following negotiations being delayed by fighting in the region.\nThe post ‘They Get No Money!’: Trump Insists Iran Is ‘FINISHED’ as Peace Deal Talks Delayed by Fighting…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/they-get-no-money-trump-insists-iran-is-finished-as-peace-deal-talks-delayed-by-fighting/",
+      "headline": "Lebanon ceasefire agreed after U.S.-Iran talks in Switzerland scrapped",
+      "summary": "Israel and Hezbollah agreed to a ceasefire in Lebanon on Friday after an escalation in fighting there jeopardised the chances of an interim agreement on ending the war in Iran turning into a lasting Middle East peace deal. U.S.-Iran talks in Switzerland plann…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/lebanon-ceasefire-agreed-after-us-iran-talks-in-switzerland-scrapped4",
       "bloc": "western",
       "date": "2026-06-19",
-      "datetime": "2026-06-19T14:47:18Z",
+      "datetime": "2026-06-19T20:39:26Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,79 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran declares the Strait of Hormuz closed again after US lifts blockade { that was quick }",
-      "summary": "WASHINGTON — Iran re-closed the Strait of Hormuz Friday instead of heading to Switzerland for nuclear negotiations, citing Israel’s refusal to pull forces out of southern Lebanon and US forces’ ongoing presence in the region. In a statement read over maritime…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4384511/posts",
-      "bloc": "western",
-      "date": "2026-06-19",
-      "datetime": "2026-06-19T14:30:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Delays Permanent Peace Talks after Lebanon Clashes",
-      "summary": "Iran delayed the start of negotiations over a permanent peace deal with the US after fighting intensified in southern Lebanon.",
+      "headline": "Oil Rises as Iran Talks Are Delayed",
+      "summary": "Oil prices rose as delayed US-Iran negotiations and slower tanker traffic through Hormuz renewed supply concerns.",
       "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/iran_delays_permanent_peace_talks_after_lebanon_clashes-19-jun-2026-183951-article/",
+      "url": "https://www.rigzone.com/news/wire/oil_rises_as_iran_talks_are_delayed-19-jun-2026-183960-article/",
       "bloc": "western",
       "date": "2026-06-19",
-      "datetime": "2026-06-19T14:28:48Z",
+      "datetime": "2026-06-19T20:44:28Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Lebanon ceasefire agreed, US official says after US-Iran talks in Switzerland scrapped",
-      "summary": "U.S.-Iran talks in Switzerland planned for Friday were canceled as fighting flared in Lebanon.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/19/world-news/lebanon-ceasefire-agreed-us-official-says-after-us-iran-talks-in-switzerland-scrapped/",
-      "bloc": "western",
-      "date": "2026-06-19",
-      "datetime": "2026-06-19T13:52:40Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -222,49 +248,21 @@
       "_from": "newsapi"
     },
     {
-      "headline": "First LNG ship reaches India through Hormuz after peace deal",
-      "summary": "LNG tanker MT Disha became the first energy vessel to reach India via the Strait of Hormuz after the announcement of the US-Iran deal Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/india/641821-india-lng-hormuz-disha/",
-      "bloc": "western",
+      "headline": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
+      "summary": "A 2015 law requiring congressional approval for any Iran nuclear deal is in the spotlight after this week's memo.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/19/does-trump-have-to-submit-the-iran-memorandum-of-understanding-to-congress",
+      "bloc": "regional",
       "date": "2026-06-19",
-      "datetime": "2026-06-19T11:35:24Z",
+      "datetime": "2026-06-19T21:10:56Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Trump Iran war"
       ],
       "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Viewpoint: Hormuz Is Reopening, but Global Shipping Won’t Return to Normal for Months",
-      "summary": "Iran and the United States are about to sign a peace deal that will reopen the Strait of Hormuz, the narrow waterway that carries about one-fifth of the world’s oil. Oil prices reacted quickly to the announcement of the tentative …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/06/19/874503.htm",
-      "bloc": "western",
-      "date": "2026-06-19",
-      "datetime": "2026-06-19T11:32:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
+        "accountability",
         "impulsivity"
       ],
       "variable_key": null,
@@ -646,52 +644,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia is on the 'brink of social explosion', Russian politician claims as Putin urged to end war before country is plunged into 'total chaos'",
-      "summary": "Kremlin dictator Vladimir Putin came under rare criticism by Vyacheslav Markhayev, a former police general, amid Ukraine gaining the upper hand in the war.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15897613/Russia-brink-social-explosion-Russian-politician-claims-Putin-urged-end-war-country-plunged-total-chaos.html",
-      "bloc": "western",
-      "date": "2026-06-13",
-      "datetime": "2026-06-13T19:46:12Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine drone strikes kills one, sparks fire at Russian port of Temryuk, governor says",
-      "summary": "The strikes come as Ukraine continues to pummel Russia's energy infrastructure, as peace talks have stalled.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/ukraine-drone-strikes-kills-one-sparks-fire-russian-port-temryuk-governor-says-6181026",
-      "bloc": "western",
-      "date": "2026-06-13",
-      "datetime": "2026-06-13T17:16:19Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     }

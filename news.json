@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-21T09:56:25.986Z",
+  "ts": "2026-06-21T14:20:31.749Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 80,
     "oilStress": 21,
-    "updatedAt": "2026-06-21T09:56:25.986Z"
+    "updatedAt": "2026-06-21T14:20:31.749Z"
   },
   "items": [
     {
-      "headline": "Trump envoy, Iranian minister head to Switzerland for talks",
-      "summary": "With the ceasefire in place, Steve Witkoff is heading to Switzerland to join Jared Kushner, President Donald Trump’s son-in-law, who is already there, Axios said",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-envoy-iranian-minister-head-to-switzerland-for-talks/article71124989.ece",
+      "headline": "Vance to travel to Switzerland for Iran talks amid 2026 ceasefire",
+      "summary": "Vance's diplomatic efforts in Switzerland could stabilize regional tensions, influencing future U.S.-Iran relations and Middle East dynamics.\nThe post Vance to travel to Switzerland for Iran talks amid 2026 ceasefire appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/vance-to-travel-to-switzerland-for-iran-talks-amid-2026-ceasefire/",
       "bloc": "western",
       "date": "2026-06-20",
-      "datetime": "2026-06-20T04:11:36Z",
+      "datetime": "2026-06-20T13:32:26Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,65 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Hormuz Is Open Again. But Gas Prices Won’t Drop Soon",
-      "summary": "The global supply chain will take the better part of a year to recover",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/06/hormuz-again-prices.html",
+      "headline": "Israel Keeps Hammering Lebanon As Trump's Iran Deal Under Threat",
+      "summary": "Iranian and U.S. officials did not travel to Switzerland for weekend talks as planned.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/israel-keeps-hammering-lebanon-as-trumps-iran-deal-under-threat_n_6a368f97e4b057a50cee26ec",
       "bloc": "western",
       "date": "2026-06-20",
-      "datetime": "2026-06-20T04:04:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran declares ships must beg permission to use Strait of Hormuz and could face extra charges - leading to higher household bills - despite Donald Trump deal backed by G7 leaders including Sir Keir Starmer",
-      "summary": "The Persian Gulf Strait Authority, an agency set up by Tehran during the earlier ceasefire, said vessels must submit requests at least 48 hours in advance.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15915361/Iran-declares-ships-permission-Strait-Hormuz-extra-charges.html",
-      "bloc": "western",
-      "date": "2026-06-20",
-      "datetime": "2026-06-20T01:34:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israel and Hezbollah agree to a ceasefire after intensified fighting threatens Iran talks",
-      "summary": "President Donald Trump told NBC News that he asked Israel to agree to a ceasefire with Hezbollah, after deadly Israeli attacks in Lebanon rattled planned Iran peace talks. Israel and militant group Hezbollah agreed to a ceasefire Friday, after a deadly escala…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4384580/posts",
-      "bloc": "western",
-      "date": "2026-06-19",
-      "datetime": "2026-06-19T21:09:43Z",
+      "datetime": "2026-06-20T13:15:30Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -118,13 +66,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Lebanon ceasefire agreed after U.S.-Iran talks in Switzerland scrapped",
-      "summary": "Israel and Hezbollah agreed to a ceasefire in Lebanon on Friday after an escalation in fighting there jeopardised the chances of an interim agreement on ending the war in Iran turning into a lasting Middle East peace deal. U.S.-Iran talks in Switzerland plann…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/lebanon-ceasefire-agreed-after-us-iran-talks-in-switzerland-scrapped4",
-      "bloc": "western",
-      "date": "2026-06-19",
-      "datetime": "2026-06-19T20:39:26Z",
+      "headline": "UK condemns Israeli minister over inflammatory Lebanon remarks",
+      "summary": "UK foreign secretary slams Israeli minister's inflammatory remarks amid regional tensions and fragile ceasefire.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/20/uk-condemns-israeli-minister-over-inflammatory-lebanon-remarks",
+      "bloc": "regional",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T13:01:23Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -139,6 +87,110 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "What does Trump’s defeat mean for the Middle East?",
+      "summary": "After months of war, the U.S. and Iran have signed a framework agreement that excludes every U.S. war aim. Mouin Rabbani breaks down why this is a decisive defeat for Washington and Israel.",
+      "source": "Mondoweiss",
+      "url": "https://mondoweiss.net/2026/06/what-does-trumps-defeat-mean-for-the-middle-east/",
+      "bloc": "western",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T13:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Leader's advisor warns of regional energy shutdown if Iran-US MoU stays on paper",
+      "summary": "A top advisor to Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khameneihas warned that failure to implement the recently signed US-Iran memorandum of understanding beyond paper will halt energy flows across West Asia.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260620-presstv02.htm",
+      "bloc": "western",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran closes Strait of Hormuz for shipping, citing Israel ceasefire violations",
+      "summary": "The closure of the Strait of Hormuz could exacerbate global oil market volatility and potentially elevate cryptocurrency's role in international trade.\nThe post Iran closes Strait of Hormuz for shipping, citing Israel ceasefire violations appeared first on Cr…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-closes-strait-hormuz-shipping-israel/",
+      "bloc": "western",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T14:08:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Hormuz Oil Traffic Surges After Ceasefire, but Iran's New Permit Rules Spark Industry Pushback",
+      "summary": "Oil shipments through the Strait of Hormuz increased after a US-Iran ceasefire, but new Iranian conditions and mine risks pose challenges for Gulf producers aiming to boost exports.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/oil-shipments-surge-strait-hormuz-ceasefire-1870976",
+      "bloc": "western",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T12:38:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -170,6 +222,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Hormuz Is Open Again. But Gas Prices Won’t Drop Soon",
+      "summary": "The global supply chain will take the better part of a year to recover",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/06/hormuz-again-prices.html",
+      "bloc": "western",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T04:04:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Oil Rises as Iran Talks Are Delayed",
       "summary": "Oil prices rose as delayed US-Iran negotiations and slower tanker traffic through Hormuz renewed supply concerns.",
       "source": "Rigzone",
@@ -177,58 +255,6 @@
       "bloc": "western",
       "date": "2026-06-19",
       "datetime": "2026-06-19T20:44:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Shipments Rise in Hormuz Although Questions Grow Over Iran’s Transit Terms",
-      "summary": "Oil shipments through the Strait of Hormuz picked up on Friday after the United States and Iran signed a ceasefire deal, with Gulf producers preparing to raise exports despite concerns over conditions set by Tehran for using the vital waterway.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/oil-shipments-rise-in-hormuz-although-questions-grow-over-irans-transit-terms/",
-      "bloc": "western",
-      "date": "2026-06-19",
-      "datetime": "2026-06-19T16:48:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Markets Need More Than a Peace Deal to Recover",
-      "summary": "The Iran framework agreement gave an immediate boost to markets, with shares rising and oil prices dipping. But whether this translates into durable economic gains will largely depend on shipping in the Strait of Hormuz. There were signs of traffic beginning …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Oil-Markets-Need-More-Than-a-Peace-Deal-to-Recover.html",
-      "bloc": "western",
-      "date": "2026-06-19",
-      "datetime": "2026-06-19T14:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

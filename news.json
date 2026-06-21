@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-21T14:20:31.749Z",
+  "ts": "2026-06-21T19:49:41.597Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 80,
     "oilStress": 21,
-    "updatedAt": "2026-06-21T14:20:31.749Z"
+    "updatedAt": "2026-06-21T19:49:41.597Z"
   },
   "items": [
     {
-      "headline": "Vance to travel to Switzerland for Iran talks amid 2026 ceasefire",
-      "summary": "Vance's diplomatic efforts in Switzerland could stabilize regional tensions, influencing future U.S.-Iran relations and Middle East dynamics.\nThe post Vance to travel to Switzerland for Iran talks amid 2026 ceasefire appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/vance-to-travel-to-switzerland-for-iran-talks-amid-2026-ceasefire/",
+      "headline": "Iran Declares Strait Of Hormuz Closed Amid Alleged Israeli Ceasefire Violations",
+      "summary": "Iran announced Saturday it will close the Strait of Hormuz, accusing Israel of launching strikes in Lebanon in violation of a ceasefire which just took effect.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/06/20/iran-declares-hormuz-strait-closed-israel-ceasefire-violations-strikes-lebanon-hezbollah/",
       "bloc": "western",
       "date": "2026-06-20",
-      "datetime": "2026-06-20T13:32:26Z",
+      "datetime": "2026-06-20T19:29:49Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israel Keeps Hammering Lebanon As Trump's Iran Deal Under Threat",
-      "summary": "Iranian and U.S. officials did not travel to Switzerland for weekend talks as planned.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/israel-keeps-hammering-lebanon-as-trumps-iran-deal-under-threat_n_6a368f97e4b057a50cee26ec",
+      "headline": "The Surprising Reaction Inside Iran to Its War Victory",
+      "summary": "Despite extracting extraordinary concessions, the reaction in Iran isn’t entirely jubilant. Past betrayals are too recent to forget.\nThe post The Surprising Reaction Inside Iran to Its War Victory appeared first on The Intercept.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2026/06/20/iran-war-deal-ceasefire/",
       "bloc": "western",
       "date": "2026-06-20",
-      "datetime": "2026-06-20T13:15:30Z",
+      "datetime": "2026-06-20T18:35:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Closes Strait of Hormuz in Response to Israel’s Attacks on Lebanon",
+      "summary": "Israeli leaders have explicitly stated in recent days that they have no intention of abiding by any US-Iran ceasefire.",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/news/iran-mou-hormuz",
+      "bloc": "western",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T18:05:19Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,79 +92,105 @@
       "_from": "newsapi"
     },
     {
-      "headline": "UK condemns Israeli minister over inflammatory Lebanon remarks",
-      "summary": "UK foreign secretary slams Israeli minister's inflammatory remarks amid regional tensions and fragile ceasefire.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/20/uk-condemns-israeli-minister-over-inflammatory-lebanon-remarks",
+      "headline": "Iran Announces Strait of Hormuz Closure After US 'Breach'",
+      "summary": "Iran's Khatam al-Anbiya Central Headquarters said in a statement posted Saturday on Telegram that the Strait of Hormuz has been closed to vessel traffic, accusing the United States of violating the recently negotiated memorandum of understanding intended to e…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-bloggers/4384679/posts",
+      "bloc": "western",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T16:31:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Did Trump Snooker Iran?",
+      "summary": "Trump may have given Iran everything it wanted on paper—but the real question is whether Tehran fell for a deal that gives America the leverage to walk away. To evaluate the Iran Memorandum of Understanding on its merits, beyond the hype, let’s start by separ…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4384669/posts",
+      "bloc": "western",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T14:19:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran resumes crude oil loadings from Kharg Island after US Navy blockade lifted",
+      "summary": "The resumption of Iranian oil exports may destabilize global oil prices and prompt regulatory scrutiny on cryptocurrency's role in sanctions evasion.\nThe post Iran resumes crude oil loadings from Kharg Island after US Navy blockade lifted appeared first on Cr…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-crude-oil-kharg-island-blockade-lifted/",
+      "bloc": "western",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T18:19:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "3 Indian-flagged oil tankers transit through Strait of Hormuz",
+      "summary": "Three Indian oil tankers, carrying over 8.6 lakh tonnes of cargo and 94 crew members, successfully navigated the Strait of Hormuz en route to India. The vessels, Desh Vaibhav, Desh Vibhor, and Sanmar Herald, are expected to reach Indian ports between June 24 …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/3-indian-flagged-oil-tankers-transit-through-strait-of-hormuz/articleshow/131878909.cms",
       "bloc": "regional",
       "date": "2026-06-20",
-      "datetime": "2026-06-20T13:01:23Z",
+      "datetime": "2026-06-20T15:20:40Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "What does Trump’s defeat mean for the Middle East?",
-      "summary": "After months of war, the U.S. and Iran have signed a framework agreement that excludes every U.S. war aim. Mouin Rabbani breaks down why this is a decisive defeat for Washington and Israel.",
-      "source": "Mondoweiss",
-      "url": "https://mondoweiss.net/2026/06/what-does-trumps-defeat-mean-for-the-middle-east/",
-      "bloc": "western",
-      "date": "2026-06-20",
-      "datetime": "2026-06-20T13:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Leader's advisor warns of regional energy shutdown if Iran-US MoU stays on paper",
-      "summary": "A top advisor to Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khameneihas warned that failure to implement the recently signed US-Iran memorandum of understanding beyond paper will halt energy flows across West Asia.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260620-presstv02.htm",
-      "bloc": "western",
-      "date": "2026-06-20",
-      "datetime": "2026-06-20T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -203,58 +255,6 @@
       "bloc": "western",
       "date": "2026-06-20",
       "datetime": "2026-06-20T07:52:13Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz Is Open Again. But Gas Prices Won’t Drop Soon",
-      "summary": "The global supply chain will take the better part of a year to recover",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/06/hormuz-again-prices.html",
-      "bloc": "western",
-      "date": "2026-06-20",
-      "datetime": "2026-06-20T04:04:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Rises as Iran Talks Are Delayed",
-      "summary": "Oil prices rose as delayed US-Iran negotiations and slower tanker traffic through Hormuz renewed supply concerns.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/oil_rises_as_iran_talks_are_delayed-19-jun-2026-183960-article/",
-      "bloc": "western",
-      "date": "2026-06-19",
-      "datetime": "2026-06-19T20:44:28Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -669,6 +669,29 @@
       ],
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How Ukraine has humiliated Putin once again with huge drone strikes on his doorstep - prompting furious 'nuclear war' threats",
+      "summary": "The drone attack was Ukraine's largest offensive on Moscow in years and sparked fires in and around the city, forcing the airport to be evacuated.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15914257/Ukraine-humiliated-Putin-huge-drone-strikes-doorstep-furious-nuclear-war-threats.html",
+      "bloc": "western",
+      "date": "2026-06-20",
+      "datetime": "2026-06-20T18:38:56Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
       "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"

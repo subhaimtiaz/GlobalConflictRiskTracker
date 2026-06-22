@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-22T04:51:34.825Z",
+  "ts": "2026-06-22T12:12:45.691Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,17 +10,17 @@
   "live_variables": {
     "oilPrice": 79,
     "oilStress": 19,
-    "updatedAt": "2026-06-22T04:51:34.825Z"
+    "updatedAt": "2026-06-22T12:12:45.691Z"
   },
   "items": [
     {
-      "headline": "US-Iran Deal leaves Lebanon in Limbo, Israel as Spoiler",
-      "summary": "Lebanon, with its sovereignty almost entirely eroded, seems destined to remain at the mercy of its larger neighbors in Iran, Israel and Syria",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/06/leaves-lebanon-spoiler.html",
+      "headline": "Israeli troops face no restrictions in southern Lebanon despite ceasefire: Minister",
+      "summary": "Israel's minister of military affairs says Israeli troops in southern Lebanon face no restrictions in acting against perceived \"threats,\" stressing that they have no plans for withdrawal despite a ceasefire that recently took effect with the Lebanese resistan…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260621-presstv05.htm",
       "bloc": "western",
       "date": "2026-06-21",
-      "datetime": "2026-06-21T04:04:50Z",
+      "datetime": "2026-06-21T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran closes Strait of Hormuz, Trump threatens US tolls if final deal not reached in 60 days",
-      "summary": "Iran does not control the Strait of Hormuz. Traffic continues to flow, and US forces are monitoring the situation to ensure this remains the case, says Capt. Tim Hawkins, a spokesperson for US Central Command",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-threatens-to-charge-us-tolls-in-strait-of-hormuz-if-final-iran-deal-not-reached-in-60-days/article71128492.ece",
+      "headline": "First round of Iran-US mediated talks concludes after 80 minutes in Switzerland",
+      "summary": "The first round of four-way talks between Iran, the United States, and mediators Pakistan and Qatar concluded after about 80 minutes in Switzerland, with the Iranian delegation now holding internal consultations.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260621-presstv05.htm",
       "bloc": "western",
       "date": "2026-06-21",
-      "datetime": "2026-06-21T04:00:43Z",
+      "datetime": "2026-06-21T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Threatens To Hit Iran 'Very Hard' Over Hezbollah 'Proxies'",
+      "summary": "US President Donald Trump threatened to hit Iran \"very hard again\" over its \"proxies\" in Lebanon, as high-level talks are now under way between US Vice President JD Vance and Iranian representatives at the Burgenstock resort in Switzerland on June 21.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260621-rferl05.htm",
+      "bloc": "western",
+      "date": "2026-06-21",
+      "datetime": "2026-06-21T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +92,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Top Israeli Official Openly Calls For Genocide As US Seeks Peace: ‘All Of Lebanon Must Burn’",
-      "summary": "Israeli Minister of National Security Itamar Ben-Gvir openly called for genocide, demanding that all of Lebanon “must burn” while the United States works to end the war with Iran. Ben-Gvir issued a scathing rebuke of the current Memorandum of Understanding (M…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4384748/posts",
+      "headline": "Vance And Iranian Officials Arrive In Switzerland To Launch Talks On Tehran’s Nuclear Program",
+      "summary": "JD Vance and senior Iranian officials arrived in Switzerland to help launch negotiations with Iranian leaders over Tehran’s nuclear program.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/ap-us-iran-us-negotiations-vance-switzerland_n_6a37cf61e4b04f5fa0c2d536",
       "bloc": "western",
       "date": "2026-06-21",
-      "datetime": "2026-06-21T03:02:28Z",
+      "datetime": "2026-06-21T11:53:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Sunday: Hili dialogue",
+      "summary": "Welcome to Sunday, June 21: the FIRST DAY OF SUMMER and the longest day of the year. Summer officially began at 3:24 a.m. Chicago time and, sadly, rain is predicted for our area. It’s also Father’s Day, so my ducks will be fêting me, I hope.  The unnamed pair…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/06/21/sunday-hili-dialogue-591/",
+      "bloc": "western",
+      "date": "2026-06-21",
+      "datetime": "2026-06-21T11:45:11Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran negotiators head for Switzerland but Lebanon fighting continues",
-      "summary": "A high-level Iranian team departed for Switzerland on Saturday for peace talks with the United States, Iranian state media reported, while U.S. Vice President JD Vance indicated he would set off soon for meetings that Pakistan said ‌will begin on Sunday. The …",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/iran-negotiators-head-for-switzerland-but-lebanon-fighting-continues1",
+      "headline": "Oil Prices Slide After Iran Deal, But Analysts Warn Gasoline Relief Will Take Months",
+      "summary": "Brent crude futures fell 0.1% to $77.18 a barrel on Thursday, June 18, 2026, according to market data [1]. West Texas Intermediate crude slid 0.3% to $75.78 a barrel the same day [1]. The declines brought oil prices to their lowest levels since the start of t…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-21-oil-prices-slide-gasoline-relief-take-months.html",
       "bloc": "western",
-      "date": "2026-06-20",
-      "datetime": "2026-06-20T21:09:37Z",
+      "date": "2026-06-21",
+      "datetime": "2026-06-21T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -203,32 +255,6 @@
       "bloc": "western",
       "date": "2026-06-20",
       "datetime": "2026-06-20T14:08:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz Oil Traffic Surges After Ceasefire, but Iran's New Permit Rules Spark Industry Pushback",
-      "summary": "Oil shipments through the Strait of Hormuz increased after a US-Iran ceasefire, but new Iranian conditions and mine risks pose challenges for Gulf producers aiming to boost exports.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/oil-shipments-surge-strait-hormuz-ceasefire-1870976",
-      "bloc": "western",
-      "date": "2026-06-20",
-      "datetime": "2026-06-20T12:38:21Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

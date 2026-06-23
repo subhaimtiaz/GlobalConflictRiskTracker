@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-23T14:57:54.393Z",
+  "ts": "2026-06-23T20:11:57.564Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 77,
     "oilStress": 16,
-    "updatedAt": "2026-06-23T14:57:54.393Z"
+    "updatedAt": "2026-06-23T20:11:57.564Z"
   },
   "items": [
+    {
+      "headline": "Israeli Defense Researcher Suggests US Needs Another 9/11 Following Iran Deal",
+      "summary": "Beni Sabti made the comment on X, despite nearly 3,000 deaths caused by the terrorist attacks on 9/11.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/06/22/israeli-defense-researcher-another-911-iran-deal/",
+      "bloc": "western",
+      "date": "2026-06-22",
+      "datetime": "2026-06-22T19:57:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Optimism as well as obstacles after first round of US-Iran talks in Switzerland",
       "summary": "US Vice President J.D. Vance said Donald Trump’s threats briefly interrupted the Swiss talks but did not derail them, as negotiators pushed ahead with a fragile 60-day roadmap covering Iran, Lebanon and the Strait of Hormuz.\nThe post Optimism as well as obsta…",
@@ -66,27 +92,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israeli minister Ben-Gvir: 'All of Lebanon should be our playground,' no ceasefire, let it burn",
-      "summary": "Israeli minister Itamar Ben-Gvir, a key member of Benjamin Netanyahu's hawkish cabinet, has called for rejecting any ceasefire in Lebanon, declaring that the entire country \"should be Israel's playground.\"",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260622-presstv02.htm",
+      "headline": "Hormuz Traffic Slowly Picking Up as Oil and LNG Tankers Resume Transits",
+      "summary": "Oil and liquefied natural gas tankers sailed through the Strait of Hormuz on Monday, in a sign of traffic slowly picking up after Iran said it had again closed the waterway over the weekend, shipping data showed.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/hormuz-traffic-slowly-picking-up-as-oil-and-lng-tankers-resume-transits/",
       "bloc": "western",
       "date": "2026-06-22",
-      "datetime": "2026-06-22T12:00:00Z",
+      "datetime": "2026-06-22T18:25:02Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Tanker Traffic Through Hormuz Picks Up After Slower Flows Due to Crossing Concerns",
+      "summary": "Oil and liquefied natural gas tankers sailed through the Strait of Hormuz on Monday, in a sign of traffic slowly picking up after Iran said it had again closed the waterway over the weekend, shipping data showed. Iran lifted its …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/06/22/874830.htm",
+      "bloc": "western",
+      "date": "2026-06-22",
+      "datetime": "2026-06-22T16:01:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -151,58 +203,6 @@
       "bloc": "western",
       "date": "2026-06-22",
       "datetime": "2026-06-22T06:34:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Prices Slide After Iran Deal, But Analysts Warn Gasoline Relief Will Take Months",
-      "summary": "Brent crude futures fell 0.1% to $77.18 a barrel on Thursday, June 18, 2026, according to market data [1]. West Texas Intermediate crude slid 0.3% to $75.78 a barrel the same day [1]. The declines brought oil prices to their lowest levels since the start of t…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-06-21-oil-prices-slide-gasoline-relief-take-months.html",
-      "bloc": "western",
-      "date": "2026-06-21",
-      "datetime": "2026-06-21T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz closure may extend to year’s end due to 80 mines: report",
-      "summary": "The prolonged closure of the Strait of Hormuz could severely disrupt global oil supply chains, impacting energy markets and geopolitical stability.\nThe post Strait of Hormuz closure may extend to year’s end due to 80 mines: report appeared first on Crypto Bri…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/strait-of-hormuz-closure-may-extend-to-years-end-due-to-80-mines-report/",
-      "bloc": "western",
-      "date": "2026-06-20",
-      "datetime": "2026-06-20T23:18:55Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

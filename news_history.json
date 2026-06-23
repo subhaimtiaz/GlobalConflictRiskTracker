@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-23T14:56:49.179Z",
+  "updated": "2026-06-23T20:10:52.399Z",
   "retention_days": 30,
   "items": [
     {
@@ -17190,7 +17190,91 @@
       "_from": "newsapi",
       "first_seen": "2026-06-23T14:56:49.179Z",
       "run_id": "2026-06-23T14:56"
+    },
+    {
+      "headline": "Israeli Defense Researcher Suggests US Needs Another 9/11 Following Iran Deal",
+      "summary": "Beni Sabti made the comment on X, despite nearly 3,000 deaths caused by the terrorist attacks on 9/11.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/06/22/israeli-defense-researcher-another-911-iran-deal/",
+      "bloc": "western",
+      "date": "2026-06-22",
+      "datetime": "2026-06-22T19:57:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-23T20:10:52.399Z",
+      "run_id": "2026-06-23T20:10"
+    },
+    {
+      "headline": "Hormuz Traffic Slowly Picking Up as Oil and LNG Tankers Resume Transits",
+      "summary": "Oil and liquefied natural gas tankers sailed through the Strait of Hormuz on Monday, in a sign of traffic slowly picking up after Iran said it had again closed the waterway over the weekend, shipping data showed.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/hormuz-traffic-slowly-picking-up-as-oil-and-lng-tankers-resume-transits/",
+      "bloc": "western",
+      "date": "2026-06-22",
+      "datetime": "2026-06-22T18:25:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-23T20:10:52.399Z",
+      "run_id": "2026-06-23T20:10"
+    },
+    {
+      "headline": "Tanker Traffic Through Hormuz Picks Up After Slower Flows Due to Crossing Concerns",
+      "summary": "Oil and liquefied natural gas tankers sailed through the Strait of Hormuz on Monday, in a sign of traffic slowly picking up after Iran said it had again closed the waterway over the weekend, shipping data showed. Iran lifted its …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/06/22/874830.htm",
+      "bloc": "western",
+      "date": "2026-06-22",
+      "datetime": "2026-06-22T16:01:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-23T20:10:52.399Z",
+      "run_id": "2026-06-23T20:10"
     }
   ],
-  "total_items_ever": 2163
+  "total_items_ever": 2166
 }

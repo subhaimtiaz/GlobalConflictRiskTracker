@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-22T20:53:50.997Z",
+  "ts": "2026-06-23T03:55:48.786Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 78,
-    "oilStress": 18,
-    "updatedAt": "2026-06-22T20:53:50.997Z"
+    "oilStress": 17,
+    "updatedAt": "2026-06-23T03:55:48.786Z"
   },
   "items": [
+    {
+      "headline": "US-Iran negotiations go into Day 2 after Trump shakes talks with threats, Hormuz closure",
+      "summary": "Negotiators expected to work through the night after high-level US-Iran talks on their interim deal to end the war had a tense start Sunday in Switzerland, when Tehran took offence at US President Donald Trump's threat to attack and his warning that Iran's pr…",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/us-iran-negotiations-go-into-day-2-after-trump-shakes-talks-with-threats-hormuz-closure/article71131546.ece",
+      "bloc": "western",
+      "date": "2026-06-22",
+      "datetime": "2026-06-22T01:41:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Inside Israel’s intimidating Iron Dome is a nation simply ‘fighting for survival’",
+      "summary": "“Watch the sky tonight.”",
+      "source": "News.com.au",
+      "url": "https://www.news.com.au/world/middle-east/inside-israels-iron-dome-were-fighting-for-survival/news-story/46ad1f1c2153037cf4b7640124fa8a72",
+      "bloc": "western",
+      "date": "2026-06-21",
+      "datetime": "2026-06-21T21:53:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump Threatens Iran as JD Vance Announces “Great Progress” on Ceasefire",
       "summary": "This morning, Vice President JD Vance touched down in Switzerland for the first round of talks with Iran. The stated goal: extending last week’s interim mediated ceasefire and the Memorandum of Understanding signed by President Donald Trump into a more perman…",
@@ -88,58 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran flag differences, explained: What to know about World Cup ban and history before, after 1979 revolution",
-      "summary": "Why Iran's flag has caused some controversy for fans attending the World Cup in North America.",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/us/soccer/news/iran-flag-differences-explained/57cf6427610592ed8d64fa37",
-      "bloc": "western",
-      "date": "2026-06-21",
-      "datetime": "2026-06-21T18:00:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Thriller in Switzerland after Trump’s threats to Iran’s negotiators – “Better to be careful,” says Ghalibaf",
-      "summary": "The talks are stuck but have not been terminated, an Iranian source clarified to CNN, following reports in Tehran’s semi-official media. Iran’s chief negotiator reiterated the military threat\nThe post Thriller in Switzerland after Trump’s threats to Iran’s ne…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/06/21/thriller-in-switzerland-after-trumps-threats-to-irans-negotiators-better-to-be-careful-says-ghalibaf/",
-      "bloc": "western",
-      "date": "2026-06-21",
-      "datetime": "2026-06-21T17:43:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -370,30 +370,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The End of Morality",
-      "summary": "We may come to miss the hypocrisy.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/06/15/international-law-decline-united-nations-security-council-morality-legal-institutions-west/",
-      "bloc": "western",
-      "date": "2026-06-15",
-      "datetime": "2026-06-15T04:07:07Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Oil Prices Crash as Traders Bet the War Is Over",
       "summary": "Brent crude futures fell below $79 per barrel on Tuesday, its lowest level since March, according to a report by Julianne Geiger for Oilprice.com. The decline followed the United States and Iran digitally signing a peace agreement that includes the reopening …",
       "source": "Naturalnews.com",
@@ -446,84 +422,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Current price of oil as of June 15, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-06-15-2026/",
-      "bloc": "western",
-      "date": "2026-06-15",
-      "datetime": "2026-06-15T13:00:51Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China’s Return to the Oil Market Could Boost Inflation",
-      "summary": "The U.S.-Iran agreement to reopen the Strait of Hormuz could prompt China to return to buying more crude after months of multi-year-low purchases, which could reignite inflationary pressures despite the expected ease of oil flows from the Middle East.    Late…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Return-to-the-Oil-Market-Could-Boost-Inflation.html",
-      "bloc": "western",
-      "date": "2026-06-15",
-      "datetime": "2026-06-15T11:30:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Crude oil near $80 per barrel: Could India see a drop in petrol, diesel and LPG prices?",
-      "summary": "WTI crude oil drops to around $80 per barrel today, while Brent crude falls nearly 4% to around $83.82 per barrel. However, key questions remain. Could India really see a fall in petrol, diesel and LPG prices following this development?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/crude-oil-near-80-per-barrel-could-india-see-a-drop-in-petrol-diesel-and-lpg-prices-11781502679902.html",
-      "bloc": "western",
-      "date": "2026-06-15",
-      "datetime": "2026-06-15T08:08:39Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "US government aims to release US-Iran deal text by Friday",
       "summary": "The deal's success could stabilize energy markets and attract significant investment to Iran, contingent on Iran's compliance with nuclear terms.\nThe post US government aims to release US-Iran deal text by Friday appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
@@ -545,56 +443,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "A history of Iran's nuclear programme and tensions with the US as an interim deal is reached",
-      "summary": "A landmark interim deal between the United States and Iran aims to end a protracted war and reopen the vital Strait of Hormuz. This agreement, planned for signing in Switzerland, follows years of escalating tensions and a complex history of nuclear negotiatio…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/a-history-of-irans-nuclear-programme-and-tensions-with-the-us-as-an-interim-deal-is-reached/articleshow/131734314.cms",
-      "bloc": "regional",
-      "date": "2026-06-15",
-      "datetime": "2026-06-15T05:28:10Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "A history of Iran's nuclear program and tensions with the US",
-      "summary": "The United States and Iran have reached an interim deal aimed at ending their war and reopening the Strait of Hormuz",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/history-irans-nuclear-program-tensions-us-interim-deal-133878780",
-      "bloc": "western",
-      "date": "2026-06-15",
-      "datetime": "2026-06-15T05:19:00Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -645,31 +493,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Risk of nuclear catastrophe is worse than ever. We can change that",
-      "summary": "Editor of the Bulletin of the Atomic Scientists says the doomsday threat is real — but human goodness will win out",
-      "source": "Salon",
-      "url": "https://www.salon.com/2026/06/15/risk-of-nuclear-catastrophe-is-worse-than-ever-but-we-can-change-that/",
-      "bloc": "western",
-      "date": "2026-06-15",
-      "datetime": "2026-06-15T10:30:52Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

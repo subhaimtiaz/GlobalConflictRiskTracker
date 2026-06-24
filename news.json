@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-24T09:38:38.434Z",
+  "ts": "2026-06-24T14:39:58.808Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,71 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 75,
-    "oilStress": 13,
-    "updatedAt": "2026-06-24T09:38:38.434Z"
+    "oilPrice": 74,
+    "oilStress": 11,
+    "updatedAt": "2026-06-24T14:39:58.808Z"
   },
   "items": [
     {
-      "headline": "Israeli Minister Calls Syria and Turkey a Bigger Threat Than Iran",
-      "summary": "Israeli Diaspora Affairs Minister Amichai Chikli said in recent interviews that Syria and Turkey pose a greater strategic challenge to Israel than Iran, according to a report from Middle East Eye [1]. Chikli described what he called a “radical Sunni axis of e…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-06-23-israeli-minister-syria-turkey-bigger-threat-than-iran.html",
+      "headline": "Iran says won’t allow UN inspectors at bombed nuclear sites",
+      "summary": "When the US joined Israel's war with Iran in mid-2025, it bombed nuclear facilities at Fordow, Natanz and Isfahan, including with powerful bunker-busting bombs.\nThe post Iran says won’t allow UN inspectors at bombed nuclear sites appeared first on Vanguard Ne…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/06/iran-says-wont-allow-un-inspectors-at-bombed-nuclear-sites/",
       "bloc": "western",
       "date": "2026-06-23",
-      "datetime": "2026-06-23T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Prices Continue to Slide as Peace Talks Progress",
-      "summary": "Crude oil prices extended their decline today, with Brent crude sliding to $77.51 per barrel at the time of writing, and West Texas Intermediate at $73.62 per barrel, on reports that the United States and Iran were making progress in their peace talks. The la…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Continue-to-Slide-as-Peace-Talks-Progress.html",
-      "bloc": "western",
-      "date": "2026-06-23",
-      "datetime": "2026-06-23T05:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US temporarily suspends Iran oil sanctions as nuclear inspectors return",
-      "summary": "The United States suspended sanctions on Iranian oil on June 22 after Vice President JD Vance said Iran would allow U.N. nuclear inspectors to return to the country.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/us-temporarily-suspends-iran-oil-sanctions-as-nuclear-inspectors-return-223584",
-      "bloc": "western",
-      "date": "2026-06-23",
-      "datetime": "2026-06-23T05:03:51Z",
+      "datetime": "2026-06-23T14:25:25Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +40,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Optimism after first talks as U.S. waives Iran sanctions and Lebanon fighting abates",
-      "summary": "The United States waived sanctions on Iran for 60 days from Monday after the first talks under a nascent peace deal, and officials reported calm in Lebanon after fighting that had prompted Iran to declare the ‌Strait of Hormuz closed. After a weekend that had…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/optimism-after-first-talks-as-us-waives-iran-sanctions-and-lebanon-fighting-abates",
+      "headline": "Trump Gets Negative Reviews Internationally as Fewer Say U.S. Is a Reliable Partner",
+      "summary": "A 36-country survey finds declining ratings for the U.S. amid rising concerns about its foreign policy and the health of its democracy.",
+      "source": "Pew Research Center",
+      "url": "https://www.pewresearch.org/global/2026/06/23/trump-gets-negative-reviews-internationally-as-fewer-say-u-s-is-a-reliable-partner/",
       "bloc": "western",
-      "date": "2026-06-22",
-      "datetime": "2026-06-22T21:27:15Z",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T13:41:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Pezeshkian rules out talks on Iran's defense capabilities, says missiles prevented fate of Gaza",
+      "summary": "Iranian President Masoud Pezeshkian said that Tehran would never negotiate over its defense and deterrence capabilities, arguing that the country's missile arsenal had prevented it from suffering the same fate as Gaza.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260623-presstv08.htm",
+      "bloc": "western",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -118,13 +92,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israeli Defense Researcher Suggests US Needs Another 9/11 Following Iran Deal",
-      "summary": "Beni Sabti made the comment on X, despite nearly 3,000 deaths caused by the terrorist attacks on 9/11.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/06/22/israeli-defense-researcher-another-911-iran-deal/",
+      "headline": "Netanyahu says Israeli military will keep occupying southern Lebanon",
+      "summary": "Israeli prime minister Benjamin Netanyahu and top military officials have reaffirmed the regime's plans to maintain the occupation of areas in southern Lebanon.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260623-presstv01.htm",
       "bloc": "western",
-      "date": "2026-06-22",
-      "datetime": "2026-06-22T19:57:02Z",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -139,6 +113,58 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Lets Americans Buy Iranian Oil for the First Time Since the 1980s",
+      "summary": "As part of peace negotiations, the U.S. Treasury issued an unprecedented total waiver from Iranian oil sanctions.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/06/23/trump-lets-americans-buy-iranian-oil-for-the-first-time-since-the-1980s/",
+      "bloc": "western",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T14:05:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Eleven India-bound vessels have crossed Strait of Hormuz since signing of Iran-US MoU: MEA",
+      "summary": "Eleven India-bound vessels have successfully navigated the Strait of Hormuz since the US-Iran agreement on June 17, according to MEA spokesperson Randhir Jaiswal.  Ten Indian-flagged ships remain in the Persian Gulf, with two more entering the region. This cr…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/eleven-india-bound-vessels-have-crossed-strait-of-hormuz-since-signing-of-iran-us-mou-mea/articleshow/131934908.cms",
+      "bloc": "regional",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T11:12:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -222,58 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Hormuz Traffic Slowly Picking Up as Oil and LNG Tankers Resume Transits",
-      "summary": "Oil and liquefied natural gas tankers sailed through the Strait of Hormuz on Monday, in a sign of traffic slowly picking up after Iran said it had again closed the waterway over the weekend, shipping data showed.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/hormuz-traffic-slowly-picking-up-as-oil-and-lng-tankers-resume-transits/",
-      "bloc": "western",
-      "date": "2026-06-22",
-      "datetime": "2026-06-22T18:25:02Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tanker Traffic Through Hormuz Picks Up After Slower Flows Due to Crossing Concerns",
-      "summary": "Oil and liquefied natural gas tankers sailed through the Strait of Hormuz on Monday, in a sign of traffic slowly picking up after Iran said it had again closed the waterway over the weekend, shipping data showed. Iran lifted its …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/06/22/874830.htm",
-      "bloc": "western",
-      "date": "2026-06-22",
-      "datetime": "2026-06-22T16:01:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
       "summary": "A 2015 law requiring congressional approval for any Iran nuclear deal is in the spotlight after this week's memo.",
       "source": "Al Jazeera English",
@@ -299,12 +273,12 @@
     },
     {
       "headline": "Kremlin Warns NATO of a “Devastating Response” After the Largest Ukrainian Drone Attack on Moscow",
-      "summary": "Moscow’s Foreign Ministry warned on June 18 that any North Atlantic Treaty Organization (NATO) attack on Russia would trigger a “decisive and devastating” retaliation, according to officials. The warning followed what Russian authorities described as the larg…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-06-22-kremlin-devastating-response-after-largest-drone-attack.html",
+      "summary": "Moscow’s Foreign Ministry warned on June 18 that any North Atlantic Treaty Organization (NATO) attack on Russia would trigger a \"decisive and devastating\" retaliation, according to officials. The warning followed what Russian authorities described as the larg…",
+      "source": "Shtfplan.com",
+      "url": "https://www.shtfplan.com/war/kremlin-warns-nato-of-a-devastating-response-after-the-largest-ukrainian-drone-attack-on-moscow",
       "bloc": "western",
-      "date": "2026-06-22",
-      "datetime": "2026-06-22T06:00:00Z",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T12:30:46Z",
       "leaders": [
         "Vladimir Putin"
       ],
@@ -366,6 +340,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Sensex today | Stock Market Highlights: Sensex falls 893 points, Nifty ends lower as IT and metal stocks drag markets",
+      "summary": "Sensex Today, Nifty 50 | Stock Market Highlights: Markets closed in the red as Sensex dropped 893 points and Nifty fell 278 points amid sectoral weakness in IT and metals. Pharma gained. Declines dominated advances, with nearly two-thirds of stocks ending low…",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-june-2026/article71132755.ece",
+      "bloc": "western",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T10:52:20Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

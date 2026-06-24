@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-24T14:38:53.549Z",
+  "updated": "2026-06-24T19:51:27.765Z",
   "retention_days": 30,
   "items": [
     {
@@ -17192,7 +17192,91 @@
       "_from": "newsapi",
       "first_seen": "2026-06-24T14:38:53.549Z",
       "run_id": "2026-06-24T14:38"
+    },
+    {
+      "headline": "Minister Sa’ar says 'No country would tolerate what Israel faces from Lebanon'",
+      "summary": "Minister of Foreign Affairs Gideon Sa'ar addressed the situation in Lebanon at the JNS conference in Jerusalem, 'The problem was and is still Hezbollah; the main obstacle to Lebanese sovereignty and regional stability.'",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/429084",
+      "bloc": "western",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T17:16:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-24T19:51:27.765Z",
+      "run_id": "2026-06-24T19:51"
+    },
+    {
+      "headline": "Tanker Owners Are Having the Best Week of the Hormuz Crisis",
+      "summary": "The Strait of Hormuz may be reopening, but don't tell tanker owners the crisis is over. They're making too much money. As Middle Eastern producers scramble to move crude that has spent months stranded in the Persian Gulf, tanker rates have exploded higher, tu…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Owners-Are-Having-the-Best-Week-of-the-Hormuz-Crisis.html",
+      "bloc": "western",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T18:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-24T19:51:27.765Z",
+      "run_id": "2026-06-24T19:51"
+    },
+    {
+      "headline": "11 India-bound ships carrying oil, fertilisers transited Hormuz since June 17: MEA",
+      "summary": "Eleven India-bound vessels, including three Indian-flagged crude oil tankers carrying about 2.85 lakh metric tonnes of crude each, have transited the Strait of Hormuz since June 17, signalling a gradual restoration of shipping traffic through the strategic wa…",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/11-india-bound-ships-carrying-oil-fertilisers-transited-hormuz-since-june-17-mea/article71138347.ece",
+      "bloc": "western",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T15:02:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-24T19:51:27.765Z",
+      "run_id": "2026-06-24T19:51"
     }
   ],
-  "total_items_ever": 2180
+  "total_items_ever": 2183
 }

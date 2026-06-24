@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-24T14:39:58.808Z",
+  "ts": "2026-06-24T19:52:33.051Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 74,
-    "oilStress": 11,
-    "updatedAt": "2026-06-24T14:39:58.808Z"
+    "oilPrice": 73,
+    "oilStress": 10,
+    "updatedAt": "2026-06-24T19:52:33.051Z"
   },
   "items": [
+    {
+      "headline": "Minister Sa’ar says 'No country would tolerate what Israel faces from Lebanon'",
+      "summary": "Minister of Foreign Affairs Gideon Sa'ar addressed the situation in Lebanon at the JNS conference in Jerusalem, 'The problem was and is still Hezbollah; the main obstacle to Lebanese sovereignty and regional stability.'",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/429084",
+      "bloc": "western",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T17:16:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran says won’t allow UN inspectors at bombed nuclear sites",
       "summary": "When the US joined Israel's war with Iran in mid-2025, it bombed nuclear facilities at Fordow, Natanz and Isfahan, including with powerful bunker-busting bombs.\nThe post Iran says won’t allow UN inspectors at bombed nuclear sites appeared first on Vanguard Ne…",
@@ -92,27 +118,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Netanyahu says Israeli military will keep occupying southern Lebanon",
-      "summary": "Israeli prime minister Benjamin Netanyahu and top military officials have reaffirmed the regime's plans to maintain the occupation of areas in southern Lebanon.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260623-presstv01.htm",
+      "headline": "Tanker Owners Are Having the Best Week of the Hormuz Crisis",
+      "summary": "The Strait of Hormuz may be reopening, but don't tell tanker owners the crisis is over. They're making too much money. As Middle Eastern producers scramble to move crude that has spent months stranded in the Persian Gulf, tanker rates have exploded higher, tu…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Owners-Are-Having-the-Best-Week-of-the-Hormuz-Crisis.html",
       "bloc": "western",
       "date": "2026-06-23",
-      "datetime": "2026-06-23T12:00:00Z",
+      "datetime": "2026-06-23T18:30:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "11 India-bound ships carrying oil, fertilisers transited Hormuz since June 17: MEA",
+      "summary": "Eleven India-bound vessels, including three Indian-flagged crude oil tankers carrying about 2.85 lakh metric tonnes of crude each, have transited the Strait of Hormuz since June 17, signalling a gradual restoration of shipping traffic through the strategic wa…",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/11-india-bound-ships-carrying-oil-fertilisers-transited-hormuz-since-june-17-mea/article71138347.ece",
+      "bloc": "western",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T15:02:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -192,58 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz: Mines and Dual Transit Regime Complicate Return to Normal",
-      "summary": "The Strait of Hormuz is open again, but shipping companies are returning to a waterway that looks very different from the one that existed before the war. Commercial traffic is...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/strait-of-hormuz-mines-and-dual-transit-regime-complicate-return-to-normal/",
-      "bloc": "western",
-      "date": "2026-06-22",
-      "datetime": "2026-06-22T22:13:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Hormuz Threat Oil Markets Are Ignoring",
-      "summary": "Threats from President Trump to bomb Iran again and Iranian negotiators leaving the talks in Switzerland once again clouded the outlook for one of the world’s busiest oil chokepoints. Talks are progressing, but the degree of uncertainty about global oil suppl…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Oil-Prices/The-Hormuz-Threat-Oil-Markets-Are-Ignoring.html",
-      "bloc": "western",
-      "date": "2026-06-22",
-      "datetime": "2026-06-22T21:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

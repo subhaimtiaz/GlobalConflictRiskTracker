@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-24T03:55:53.496Z",
+  "updated": "2026-06-24T09:37:33.023Z",
   "retention_days": 30,
   "items": [
     {
@@ -16912,7 +16912,91 @@
       "_from": "newsapi",
       "first_seen": "2026-06-24T03:55:53.496Z",
       "run_id": "2026-06-24T03:55"
+    },
+    {
+      "headline": "Israeli Minister Calls Syria and Turkey a Bigger Threat Than Iran",
+      "summary": "Israeli Diaspora Affairs Minister Amichai Chikli said in recent interviews that Syria and Turkey pose a greater strategic challenge to Israel than Iran, according to a report from Middle East Eye [1]. Chikli described what he called a “radical Sunni axis of e…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-23-israeli-minister-syria-turkey-bigger-threat-than-iran.html",
+      "bloc": "western",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-24T09:37:33.023Z",
+      "run_id": "2026-06-24T09:37"
+    },
+    {
+      "headline": "Oil Prices Continue to Slide as Peace Talks Progress",
+      "summary": "Crude oil prices extended their decline today, with Brent crude sliding to $77.51 per barrel at the time of writing, and West Texas Intermediate at $73.62 per barrel, on reports that the United States and Iran were making progress in their peace talks. The la…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Continue-to-Slide-as-Peace-Talks-Progress.html",
+      "bloc": "western",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T05:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-24T09:37:33.023Z",
+      "run_id": "2026-06-24T09:37"
+    },
+    {
+      "headline": "US temporarily suspends Iran oil sanctions as nuclear inspectors return",
+      "summary": "The United States suspended sanctions on Iranian oil on June 22 after Vice President JD Vance said Iran would allow U.N. nuclear inspectors to return to the country.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-temporarily-suspends-iran-oil-sanctions-as-nuclear-inspectors-return-223584",
+      "bloc": "western",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T05:03:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-24T09:37:33.023Z",
+      "run_id": "2026-06-24T09:37"
     }
   ],
-  "total_items_ever": 2170
+  "total_items_ever": 2173
 }

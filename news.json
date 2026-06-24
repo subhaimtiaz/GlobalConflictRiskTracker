@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-23T20:11:57.564Z",
+  "ts": "2026-06-24T03:56:58.666Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 77,
-    "oilStress": 16,
-    "updatedAt": "2026-06-23T20:11:57.564Z"
+    "oilPrice": 76,
+    "oilStress": 15,
+    "updatedAt": "2026-06-24T03:56:58.666Z"
   },
   "items": [
+    {
+      "headline": "Optimism after first talks as U.S. waives Iran sanctions and Lebanon fighting abates",
+      "summary": "The United States waived sanctions on Iran for 60 days from Monday after the first talks under a nascent peace deal, and officials reported calm in Lebanon after fighting that had prompted Iran to declare the ‌Strait of Hormuz closed. After a weekend that had…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/optimism-after-first-talks-as-us-waives-iran-sanctions-and-lebanon-fighting-abates",
+      "bloc": "western",
+      "date": "2026-06-22",
+      "datetime": "2026-06-22T21:27:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Israeli Defense Researcher Suggests US Needs Another 9/11 Following Iran Deal",
       "summary": "Beni Sabti made the comment on X, despite nearly 3,000 deaths caused by the terrorist attacks on 9/11.",
@@ -66,27 +92,79 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Qatar urges end to Israeli occupation of Lebanon, condemns regime's attacks",
-      "summary": "Qatari Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman Al Thani has called for an end to Israel's occupation of areas in southern Lebanon, condemning the regime's deadly attacks on the Arab country.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260622-presstv01.htm",
+      "headline": "Half-Open, Half-Closed Strait of Hormuz Baffles Oil Markets",
+      "summary": "Oil prices have continued to whipsaw since the U.S. and Iran announced last week signed a deal to make a deal as traffic through the Strait of Hormuz is anything but straight and not expected to normalize within days. Contradictory messaging from Iran and the…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Half-Open-Half-Closed-Strait-of-Hormuz-Baffles-Oil-Markets.html",
       "bloc": "western",
       "date": "2026-06-22",
-      "datetime": "2026-06-22T12:00:00Z",
+      "datetime": "2026-06-22T23:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Strait of Hormuz: Mines and Dual Transit Regime Complicate Return to Normal",
+      "summary": "The Strait of Hormuz is open again, but shipping companies are returning to a waterway that looks very different from the one that existed before the war. Commercial traffic is...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/strait-of-hormuz-mines-and-dual-transit-regime-complicate-return-to-normal/",
+      "bloc": "western",
+      "date": "2026-06-22",
+      "datetime": "2026-06-22T22:13:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Hormuz Threat Oil Markets Are Ignoring",
+      "summary": "Threats from President Trump to bomb Iran again and Iranian negotiators leaving the talks in Switzerland once again clouded the outlook for one of the world’s busiest oil chokepoints. Talks are progressing, but the degree of uncertainty about global oil suppl…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/The-Hormuz-Threat-Oil-Markets-Are-Ignoring.html",
+      "bloc": "western",
+      "date": "2026-06-22",
+      "datetime": "2026-06-22T21:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
@@ -125,84 +203,6 @@
       "bloc": "western",
       "date": "2026-06-22",
       "datetime": "2026-06-22T16:01:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Shipping stalls in Strait of Hormuz after Iran declares key waterway closed again",
-      "summary": "The update comes even as industry trackers showed Iranian tankers have continued to sail through the strait.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/22/strait-of-hormuz-iran-us-shipping-oil.html",
-      "bloc": "western",
-      "date": "2026-06-22",
-      "datetime": "2026-06-22T09:02:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Qatar brings LNG tankers into Hormuz despite shipping slowdown",
-      "summary": "By Florence Tan and Emily Chow SINGAPORE, June 22 (Reuters) - Four liquefied natural gas tankers controlled by Qatar headed into the Strait of Hormuz on Mond...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/articles/shipping-slows-iran-says-again-234016449.html",
-      "bloc": "western",
-      "date": "2026-06-22",
-      "datetime": "2026-06-22T08:34:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iranian Crude Oil Exports Surge Via Hormuz as More Ships Transit",
-      "summary": "Iran has ramped up the amount of crude oil it openly sends through the Strait of Hormuz to the highest since the war started, as shipping activity in the region picks up while Tehran and Washington work toward a lasting peace deal.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/iranian-crude-oil-exports-surge-via-hormuz-as-more-ships-transit",
-      "bloc": "western",
-      "date": "2026-06-22",
-      "datetime": "2026-06-22T06:34:06Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -319,30 +319,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Fall of Fortress Singapore: Three Lessons from the Collapse of Britain’s Great Asian Bastion",
-      "summary": "Editor’s note: This is part of a running series of essays by Iskander Rehman, entitled “Applied History,” which seeks, through the study of the history of strategy and military operations, to better illuminate contemporary defense challenges.The fall of Singa…",
-      "source": "War on the Rocks",
-      "url": "https://warontherocks.com/the-fall-of-fortress-singapore-three-lessons-from-the-collapse-of-britains-great-asian-bastion/",
-      "bloc": "western",
-      "date": "2026-06-16",
-      "datetime": "2026-06-16T07:30:44Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Current price of oil as of June 22, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
       "source": "Fortune",
@@ -376,32 +352,6 @@
       "bloc": "western",
       "date": "2026-06-17",
       "datetime": "2026-06-17T06:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Markets News, June 16, 2026: Dow Hits Record as Chip Stocks Lead Tech Lower; SpaceX Stock Soars on Cursor Deal",
-      "summary": "Tech stocks took a breather and the Dow extended its run of record highs on Tuesday as Federal Reserve and Group of Seven meetings got underway.",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-06162026-11999070",
-      "bloc": "western",
-      "date": "2026-06-16",
-      "datetime": "2026-06-16T12:36:25Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

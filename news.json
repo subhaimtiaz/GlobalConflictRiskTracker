@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-24T19:52:33.051Z",
+  "ts": "2026-06-25T03:58:05.764Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 73,
-    "oilStress": 10,
-    "updatedAt": "2026-06-24T19:52:33.051Z"
+    "oilPrice": 72,
+    "oilStress": 9,
+    "updatedAt": "2026-06-25T03:58:05.764Z"
   },
   "items": [
+    {
+      "headline": "EXCLUSIVE: Foreign Policy Experts Diagnose Mike Huckabee With A Bad Case Of ‘Localitis’",
+      "summary": "U.S. Ambassador to Israel Mike Huckabee joked Sunday that he checked President Donald Trump's Truth Social feed to make sure he hadn't been fired.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/06/23/mike-huckabee-israel-mou-deal-iran-us-trump-vance-lebanon-idf-localitis/",
+      "bloc": "western",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T20:11:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Minister Sa’ar says 'No country would tolerate what Israel faces from Lebanon'",
       "summary": "Minister of Foreign Affairs Gideon Sa'ar addressed the situation in Lebanon at the JNS conference in Jerusalem, 'The problem was and is still Hezbollah; the main obstacle to Lebanese sovereignty and regional stability.'",
@@ -92,28 +118,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Pezeshkian rules out talks on Iran's defense capabilities, says missiles prevented fate of Gaza",
-      "summary": "Iranian President Masoud Pezeshkian said that Tehran would never negotiate over its defense and deterrence capabilities, arguing that the country's missile arsenal had prevented it from suffering the same fate as Gaza.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260623-presstv08.htm",
+      "headline": "Trump claims peace agreement with Iran ends Strait of Hormuz conflict",
+      "summary": "The agreement could stabilize global oil markets and foster regional diplomacy, but its success hinges on complex nuclear negotiations and compliance.\nThe post Trump claims peace agreement with Iran ends Strait of Hormuz conflict appeared first on Crypto Brie…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-iran-peace-deal-strait-hormuz/",
       "bloc": "western",
       "date": "2026-06-23",
-      "datetime": "2026-06-23T12:00:00Z",
+      "datetime": "2026-06-23T23:45:49Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "UAE oil exports rebound to 85% of pre-war levels, IEA reports",
+      "summary": "The UAE's strategic maneuvering and OPEC exit position it as a pivotal player in global oil markets, potentially impacting future oil prices.\nThe post UAE oil exports rebound to 85% of pre-war levels, IEA reports appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/uae-oil-exports-rebound-iea/",
+      "bloc": "western",
+      "date": "2026-06-23",
+      "datetime": "2026-06-23T22:39:37Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -177,58 +229,6 @@
       "bloc": "western",
       "date": "2026-06-23",
       "datetime": "2026-06-23T14:05:47Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Eleven India-bound vessels have crossed Strait of Hormuz since signing of Iran-US MoU: MEA",
-      "summary": "Eleven India-bound vessels have successfully navigated the Strait of Hormuz since the US-Iran agreement on June 17, according to MEA spokesperson Randhir Jaiswal.  Ten Indian-flagged ships remain in the Persian Gulf, with two more entering the region. This cr…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/eleven-india-bound-vessels-have-crossed-strait-of-hormuz-since-signing-of-iran-us-mou-mea/articleshow/131934908.cms",
-      "bloc": "regional",
-      "date": "2026-06-23",
-      "datetime": "2026-06-23T11:12:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Half-Open, Half-Closed Strait of Hormuz Baffles Oil Markets",
-      "summary": "Oil prices have continued to whipsaw since the U.S. and Iran announced last week signed a deal to make a deal as traffic through the Strait of Hormuz is anything but straight and not expected to normalize within days. Contradictory messaging from Iran and the…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Half-Open-Half-Closed-Strait-of-Hormuz-Baffles-Oil-Markets.html",
-      "bloc": "western",
-      "date": "2026-06-22",
-      "datetime": "2026-06-22T23:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -321,30 +321,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Why Trump’s Pentagon Abandoned ‘Indo-Pacific’",
-      "summary": "A military name change signals a broader strategic and diplomatic shift.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/06/17/indo-pacific-strategy-trump-military-command-indopacom-pacom/",
-      "bloc": "western",
-      "date": "2026-06-17",
-      "datetime": "2026-06-17T18:45:41Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Sensex today | Stock Market Highlights: Sensex falls 893 points, Nifty ends lower as IT and metal stocks drag markets",
       "summary": "Sensex Today, Nifty 50 | Stock Market Highlights: Markets closed in the red as Sensex dropped 893 points and Nifty fell 278 points amid sectoral weakness in IT and metals. Pharma gained. Declines dominated advances, with nearly two-thirds of stocks ending low…",
       "source": "BusinessLine",
@@ -397,57 +373,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil Prices Crash as Traders Bet the War Is Over",
-      "summary": "Brent crude futures fell below $79 per barrel on Tuesday, its lowest level since March, according to a report by Julianne Geiger for Oilprice.com. The decline followed the United States and Iran digitally signing a peace agreement that includes the reopening …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-06-17-oil-prices-crash-traders-bet-war-is-over.html",
-      "bloc": "western",
-      "date": "2026-06-17",
-      "datetime": "2026-06-17T06:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US government aims to release US-Iran deal text by Friday",
-      "summary": "The deal's success could stabilize energy markets and attract significant investment to Iran, contingent on Iran's compliance with nuclear terms.\nThe post US government aims to release US-Iran deal text by Friday appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-deal-text-release-friday/",
-      "bloc": "western",
-      "date": "2026-06-17",
-      "datetime": "2026-06-17T13:23:58Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "MOU: Turning Point in Iran-US relations or a False Dawn?",
       "summary": "The United States of America undertakes to terminate all types of sanctions against the Islamic Republic of Iran, including the United Nations Security Council resolutions",
       "source": "Juancole.com",
@@ -455,31 +380,6 @@
       "bloc": "western",
       "date": "2026-06-19",
       "datetime": "2026-06-19T04:15:33Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Elon Musk and the Rise of Space Capitalism",
-      "summary": "The United States is racing ahead where Europe, China, and India struggle.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/06/17/elon-musk-spacex-ipo-space-commercial-satellites-india-china/",
-      "bloc": "western",
-      "date": "2026-06-17",
-      "datetime": "2026-06-17T08:48:12Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

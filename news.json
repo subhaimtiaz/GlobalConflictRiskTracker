@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-26T14:33:54.781Z",
+  "ts": "2026-06-26T19:55:55.751Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 72,
-    "oilStress": 8,
-    "updatedAt": "2026-06-26T14:33:54.781Z"
+    "oilPrice": 76,
+    "oilStress": 15,
+    "updatedAt": "2026-06-26T19:55:55.751Z"
   },
   "items": [
+    {
+      "headline": "Iran: UK Navy reports cargo vessel hit in Strait of Hormuz",
+      "summary": "The reported attack has caused the UN maritime agency to halt its evacuations of seafarers stranded in the Gulf. Meanwhile, Rubio is finishing up his Mideast tour. Follow DW for more. UK Navy says cargo vessel attacked with projectile in Strait of Hormuz\nIn r…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/iran-uk-navy-reports-cargo-vessel-hit-in-strait-of-hormuz/live-77702733",
+      "bloc": "western",
+      "date": "2026-06-25",
+      "datetime": "2026-06-25T18:25:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?",
+      "summary": "NATO boss tries to convince Trump that European allies were there for the US during war on Iran.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/25/iran-accuses-nato-of-complicity-in-us-war-what-role-did-eu-nations-play",
+      "bloc": "regional",
+      "date": "2026-06-25",
+      "datetime": "2026-06-25T14:43:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The danger of US-Iran ceasefire agreement is what it leaves out",
       "summary": "A strong deal would build in real penalties for going back to war: automatic, reversible costs that fall on anyone who restarts the fighting.",
@@ -92,54 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War: Omani Route Tests Iran Control of Strait of Hormuz as Rubio, GCC States Reject Controlled Passage; Iran Yet to Respond to Israel Ceasefire Violations, Intent to Stay in Lebanon; More Doubts about $300 Billion Fund",
-      "summary": "Today's Iran war news: A showdown is coming soon if Iran sticks to its Memorandum of Understanding guns.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/06/iran-war-omani-route-tests-iran-control-of-strait-of-hormuz-as-rubio-gcc-states-reject-iran-management-iran-yet-to-respond-to-israel-ceasefire-violations-intent-to-stay-in-lebanon-more-doubts.html",
-      "bloc": "western",
+      "headline": "IRGC warns against new Hormuz route for ships: What we know",
+      "summary": "Experts say disagreements over shipping routes and transit fees could complicate efforts to reach a permanent agreement.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-for-ships-what-we-know",
+      "bloc": "regional",
       "date": "2026-06-25",
-      "datetime": "2026-06-25T10:54:03Z",
+      "datetime": "2026-06-25T14:33:54Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Tanker Navigates Strait Of Hormuz Despite Threats From Iran's Revolutionary Guard",
-      "summary": "The transit of the Stoic Warrior and the threats come as tensions rise between Iran and the U.S. over the terms of their interim accord.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/us-iran-strait-of-hormuz_n_6a3ce8d9e4b09ad6867857e9",
-      "bloc": "western",
-      "date": "2026-06-25",
-      "datetime": "2026-06-25T08:45:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-06-23",
       "datetime": "2026-06-23T22:39:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tanker Owners Are Having the Best Week of the Hormuz Crisis",
-      "summary": "The Strait of Hormuz may be reopening, but don't tell tanker owners the crisis is over. They're making too much money. As Middle Eastern producers scramble to move crude that has spent months stranded in the Persian Gulf, tanker rates have exploded higher, tu…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Owners-Are-Having-the-Best-Week-of-the-Hormuz-Crisis.html",
-      "bloc": "western",
-      "date": "2026-06-23",
-      "datetime": "2026-06-23T18:30:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

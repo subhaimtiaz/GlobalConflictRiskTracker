@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-25T20:06:50.273Z",
+  "ts": "2026-06-26T04:04:56.061Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 75,
-    "oilStress": 13,
-    "updatedAt": "2026-06-25T20:06:50.273Z"
+    "oilPrice": 74,
+    "oilStress": 11,
+    "updatedAt": "2026-06-26T04:04:56.061Z"
   },
   "items": [
+    {
+      "headline": "Rubio defends Iran deal on Gulf tour; Israel insists on troops in southern Lebanon",
+      "summary": "The United States' top diplomat sought backing from skeptical Gulf allies on Wednesday for President Donald Trump's deal with Iran to end their war, while in another challenge to the accord, Israel insisted it would keep troops in southern Lebanon. The U.S. a…",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/world/rubio-defends-iran-deal-on-gulf-tour-israel-insists-on-troops-in-southern-lebanon",
+      "bloc": "western",
+      "date": "2026-06-24",
+      "datetime": "2026-06-24T21:38:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Baffled Iranian negotiators 'are reading Trump's The Art of the Deal to try and understand why he threatens to \"bomb the s*** out of them\" while negotiating ceasefire'",
       "summary": "Baffled Iranian diplomats are reading Donald Trump's book, 'The Art of the Deal', in an attempt to understand his aggressive and often erratic negotiation strategy.",
@@ -96,32 +122,6 @@
       "summary": "Israeli minister of military affairs Israel Katz says the Tel Aviv regime \"will not withdraw from southern Lebanon,\" even in the event of a request made by the administration of US President Donald Trump.",
       "source": "Globalsecurity.org",
       "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260624-presstv05.htm",
-      "bloc": "western",
-      "date": "2026-06-24",
-      "datetime": "2026-06-24T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "'Children Are Not Expendable', UN Officials Stress, as Security Council Speakers Sound Alarm over Record Violations, Targeting of Schools during Armed Conflict",
-      "summary": "As violations against children in armed conflict reached record levels in 2025, senior United Nations officials today warned the Security Council of \"a deeply troubling shift\" in which Government forces have become the main perpetrators of such abuse.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260624-unsc01.htm",
       "bloc": "western",
       "date": "2026-06-24",
       "datetime": "2026-06-24T12:00:00Z",
@@ -328,30 +328,6 @@
       "bloc": "western",
       "date": "2026-06-24",
       "datetime": "2026-06-24T13:13:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Military Leaders From 25 Countries Gather in Waikiki to Talk Coastal Warfare",
-      "summary": "About 300 service members are meeting at the Asia Pacific Center for Security Studies for the 12th Pacific Amphibious Leaders Symposium.",
-      "source": "Military.com",
-      "url": "https://military.com/military-leaders-from-25-countries-gather-in-waikiki-to-talk-coastal-warfare",
-      "bloc": "western",
-      "date": "2026-06-18",
-      "datetime": "2026-06-18T17:33:39Z",
       "leaders": [
         "Xi Jinping"
       ],

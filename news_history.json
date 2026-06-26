@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-26T04:03:50.890Z",
+  "updated": "2026-06-26T09:34:01.756Z",
   "retention_days": 30,
   "items": [
     {
@@ -16297,7 +16297,147 @@
       "_from": "newsapi",
       "first_seen": "2026-06-26T04:03:50.890Z",
       "run_id": "2026-06-26T04:03"
+    },
+    {
+      "headline": "Oil Tanker Navigates Strait Of Hormuz Despite Threats From Iran's Revolutionary Guard",
+      "summary": "The transit of the Stoic Warrior and the threats come as tensions rise between Iran and the U.S. over the terms of their interim accord.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/us-iran-strait-of-hormuz_n_6a3ce8d9e4b09ad6867857e9",
+      "bloc": "western",
+      "date": "2026-06-25",
+      "datetime": "2026-06-25T08:45:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-26T09:34:01.756Z",
+      "run_id": "2026-06-26T09:34"
+    },
+    {
+      "headline": "An oil tanker navigates the Strait of Hormuz despite threats from Iran’s Revolutionary Guard",
+      "summary": "A Liberian oil tanker made its way out of the Strait of Hormuz on Thursday despite threats to shipping from Iran’s paramilitary Revolutionary Guard and using a new route close to Oman’s shore that has been promoted by a UN maritime agency.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/25/world-news/an-oil-tanker-navigates-the-strait-of-hormuz-despite-threats-from-irans-revolutionary-guard/",
+      "bloc": "western",
+      "date": "2026-06-25",
+      "datetime": "2026-06-25T07:56:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-26T09:34:01.756Z",
+      "run_id": "2026-06-26T09:34"
+    },
+    {
+      "headline": "U.S.-Iran Talks Leave Strait of Hormuz Stuck in a Dangerous Gray Zone",
+      "summary": "Talks between the United States and Iran have produced a temporary negotiation framework but no lasting agreement on the status of the Strait of Hormuz, leaving the waterway in a precarious gray zone between war and peace. U.S. President Donald Trump and Iran…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-25-us-iran-talks-strait-hormuz-gray-zone.html",
+      "bloc": "western",
+      "date": "2026-06-25",
+      "datetime": "2026-06-25T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-26T09:34:01.756Z",
+      "run_id": "2026-06-26T09:34"
+    },
+    {
+      "headline": "US promises to protect Gulf states' interests in Iran talks",
+      "summary": "Secretary of State Marco Rubio promised the United States' Gulf allies that Washington would protect their interests as it seeks to hammer out a final settlement of the Middle East war in talks with Iran.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-promises-to-protect-gulf-states-interests-in-iran-talks-223664",
+      "bloc": "western",
+      "date": "2026-06-25",
+      "datetime": "2026-06-25T04:50:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-26T09:34:01.756Z",
+      "run_id": "2026-06-26T09:34"
+    },
+    {
+      "headline": "Qatar Signs Crude Deal With Taiwan as Gulf Oil Trade Recovers",
+      "summary": "In the latest sign of recovering oil flows in the Persian Gulf, Qatar inked a deal with a Taiwanese refiner for the sale of a cargo of Al-Shaheen crude, Bloomberg reported today, citing unnamed trading sources. The deal follows the sale of Marine and Land Qat…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Signs-Crude-Deal-With-Taiwan-as-Gulf-Oil-Trade-Recovers.html",
+      "bloc": "western",
+      "date": "2026-06-25",
+      "datetime": "2026-06-25T07:30:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-26T09:34:01.756Z",
+      "run_id": "2026-06-26T09:34"
     }
   ],
-  "total_items_ever": 2195
+  "total_items_ever": 2200
 }

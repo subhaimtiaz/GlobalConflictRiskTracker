@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-27T03:50:50.853Z",
+  "ts": "2026-06-27T08:42:18.797Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 76,
     "oilStress": 15,
-    "updatedAt": "2026-06-27T03:50:50.853Z"
+    "updatedAt": "2026-06-27T08:42:18.797Z"
   },
   "items": [
+    {
+      "headline": "Ray Dalio says the U.S. just had its ‘Suez moment’—and history says what comes next could end an empire",
+      "summary": "A national debt, fading empire and military victory that wasn't: Has America met its Suez Crisis with the Hormuz affair?",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/26/what-is-suez-crisis-america-iran-hormuz-dalio-dollar-national-debt/",
+      "bloc": "western",
+      "date": "2026-06-26",
+      "datetime": "2026-06-26T07:04:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "UN halts evacuation plan for trapped sailors after attack on ship in Hormuz",
+      "summary": "An attack on a ship on June 25 in the Strait of Hormuz led the U.N. to suspend efforts to evacuate trapped mariners as the United States warned against Iran charging fees for passage through the vital waterway.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/un-halts-evacuation-plan-for-trapped-sailors-after-attack-on-ship-in-hormuz-223706",
+      "bloc": "western",
+      "date": "2026-06-26",
+      "datetime": "2026-06-26T05:41:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Netanyahu Admits He Dragged The US Into 12-Day War",
       "summary": "Benjamin Netanyahu admitted that he didn't ask Donald Trump for permission to attack in a speech in Tel Aviv.",
@@ -73,58 +125,6 @@
       "bloc": "western",
       "date": "2026-06-25",
       "datetime": "2026-06-25T20:30:40Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran: UK Navy reports cargo vessel hit in Strait of Hormuz",
-      "summary": "The reported attack has caused the UN maritime agency to halt its evacuations of seafarers stranded in the Gulf. Meanwhile, Rubio is finishing up his Mideast tour. Follow DW for more. UK Navy says cargo vessel attacked with projectile in Strait of Hormuz\nIn r…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/iran-uk-navy-reports-cargo-vessel-hit-in-strait-of-hormuz/live-77702733",
-      "bloc": "western",
-      "date": "2026-06-25",
-      "datetime": "2026-06-25T18:25:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?",
-      "summary": "NATO boss tries to convince Trump that European allies were there for the US during war on Iran.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/25/iran-accuses-nato-of-complicity-in-us-war-what-role-did-eu-nations-play",
-      "bloc": "regional",
-      "date": "2026-06-25",
-      "datetime": "2026-06-25T14:43:48Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

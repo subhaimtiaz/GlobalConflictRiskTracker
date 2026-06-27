@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-27T03:49:45.568Z",
+  "updated": "2026-06-27T08:41:13.527Z",
   "retention_days": 30,
   "items": [
     {
@@ -16333,7 +16333,63 @@
       "_from": "newsapi",
       "first_seen": "2026-06-27T03:49:45.568Z",
       "run_id": "2026-06-27T03:49"
+    },
+    {
+      "headline": "Ray Dalio says the U.S. just had its ‘Suez moment’—and history says what comes next could end an empire",
+      "summary": "A national debt, fading empire and military victory that wasn't: Has America met its Suez Crisis with the Hormuz affair?",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/26/what-is-suez-crisis-america-iran-hormuz-dalio-dollar-national-debt/",
+      "bloc": "western",
+      "date": "2026-06-26",
+      "datetime": "2026-06-26T07:04:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-27T08:41:13.527Z",
+      "run_id": "2026-06-27T08:41"
+    },
+    {
+      "headline": "UN halts evacuation plan for trapped sailors after attack on ship in Hormuz",
+      "summary": "An attack on a ship on June 25 in the Strait of Hormuz led the U.N. to suspend efforts to evacuate trapped mariners as the United States warned against Iran charging fees for passage through the vital waterway.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/un-halts-evacuation-plan-for-trapped-sailors-after-attack-on-ship-in-hormuz-223706",
+      "bloc": "western",
+      "date": "2026-06-26",
+      "datetime": "2026-06-26T05:41:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-27T08:41:13.527Z",
+      "run_id": "2026-06-27T08:41"
     }
   ],
-  "total_items_ever": 2212
+  "total_items_ever": 2214
 }

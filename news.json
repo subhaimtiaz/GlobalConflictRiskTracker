@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-27T13:51:40.701Z",
+  "ts": "2026-06-27T19:27:21.439Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 73,
     "oilStress": 10,
-    "updatedAt": "2026-06-27T13:51:40.701Z"
+    "updatedAt": "2026-06-27T19:27:21.439Z"
   },
   "items": [
+    {
+      "headline": "Iran Reasserts Its Right to Control Shipping in Strait of Hormuz After Ship Hit Near Oman",
+      "summary": "ehran reasserted its right on Friday to control shipping in the Strait of Hormuz and warned Gulf states against siding with the U.S., a day after an attack on a ship near Oman highlighted the fragility of a preliminary deal to end the Iran war.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-reasserts-its-right-to-control-shipping-in-strait-of-hormuz-after-ship-hit-near-oman/",
+      "bloc": "western",
+      "date": "2026-06-26",
+      "datetime": "2026-06-26T18:29:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Venezuela earthquakes, Sudan atrocity warnings, and undercounted heatwave tolls: The Cheat Sheet",
+      "summary": "Venezuela earthquakes, Sudan atrocity warnings, and undercounted heatwave tolls: The Cheat Sheet\n\nsofia\n\nFri, 06/26/2026 - 16:15",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/06/26/venezuela-earthquake-sudan-atrocity-europe-heatwave-cheat-sheet",
+      "bloc": "western",
+      "date": "2026-06-26",
+      "datetime": "2026-06-26T15:15:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "FIFA rejects Iran and Egypt pressure to ban rainbow flags at Seattle World Cup Pride match",
+      "summary": "FIFA will allow fans to bring rainbow Pride\r\n flags into Seattle Stadium on Friday night for the World Cup match between Iran and Egypt, rejecting pressure from both countries to limit visible support for LGBTQ\r\n+ people at a game local organizers have promot…",
+      "source": "Advocate.com",
+      "url": "https://www.advocate.com/sports/pride-flags-fifa-world-cup",
+      "bloc": "western",
+      "date": "2026-06-26",
+      "datetime": "2026-06-26T14:49:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran attacks cargo ship, asserts control over Strait of Hormuz amid 2026 war",
       "summary": "Iran's actions in the Strait of Hormuz heighten geopolitical tensions, risking disruptions to global shipping and potential military escalations.\nThe post Iran attacks cargo ship, asserts control over Strait of Hormuz amid 2026 war appeared first on Crypto Br…",
@@ -66,79 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Muslims are left drenched in blood as they cut themselves with knives to mark Islamic festival",
-      "summary": "The holiday, known as the holy Day of Ashura, is celebrated by Shi'ite Muslims, and mourns the death of Imam Hussein on the battlefield in the 7th Century.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15931877/Muslims-blood-cut-knives-Islamic-festival.html",
-      "bloc": "western",
+      "headline": "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
+      "summary": "A cargo vessel had been struck by a projectile near Oman, as Iran says all ships must pass with its permission.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/26/why-has-the-un-paused-plans-to-evacuate-sailors-from-the-strait-of-hormuz",
+      "bloc": "regional",
       "date": "2026-06-26",
-      "datetime": "2026-06-26T10:02:25Z",
+      "datetime": "2026-06-26T14:59:15Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War: Ships Still Transit Oman Channel Despite Persian Gulf Authority Opposition, Suspected Iranian Attacks; Iran Yet to Act as Israel Bombs Southern Lebanon",
-      "summary": "Today's Iran war news: Iran apparently fired on a ship in the Oman channel, in a renewed struggle for control of the Strait of Hormuz.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/06/iran-war-ships-still-transit-oman-channel-despite-persian-gulf-authority-opposition-suspected-iranian-attacks-iran-yet-to-act-as-israel-bombs-southern-lebanon.html",
-      "bloc": "western",
+      "headline": "Iran's Trump card: The risk premium hasn't gone. It just changed shape",
+      "summary": "A recent attack on a commercial vessel near the Strait of Hormuz signals a shift from fears of outright war to prolonged uncertainty. Iran's response suggests a move from threatening a complete blockade to asserting control and demanding recognition for its r…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/irans-trump-card-the-risk-premium-hasnt-gone-it-just-changed-shape/articleshow/132018670.cms",
+      "bloc": "regional",
       "date": "2026-06-26",
-      "datetime": "2026-06-26T09:50:02Z",
+      "datetime": "2026-06-26T14:33:36Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ray Dalio says the U.S. just had its ‘Suez moment’—and history says what comes next could end an empire",
-      "summary": "A national debt, fading empire and military victory that wasn't: Has America met its Suez Crisis with the Hormuz affair?",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/26/what-is-suez-crisis-america-iran-hormuz-dalio-dollar-national-debt/",
-      "bloc": "western",
-      "date": "2026-06-26",
-      "datetime": "2026-06-26T07:04:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -196,58 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump claims peace agreement with Iran ends Strait of Hormuz conflict",
-      "summary": "The agreement could stabilize global oil markets and foster regional diplomacy, but its success hinges on complex nuclear negotiations and compliance.\nThe post Trump claims peace agreement with Iran ends Strait of Hormuz conflict appeared first on Crypto Brie…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-iran-peace-deal-strait-hormuz/",
-      "bloc": "western",
-      "date": "2026-06-23",
-      "datetime": "2026-06-23T23:45:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "UAE oil exports rebound to 85% of pre-war levels, IEA reports",
-      "summary": "The UAE's strategic maneuvering and OPEC exit position it as a pivotal player in global oil markets, potentially impacting future oil prices.\nThe post UAE oil exports rebound to 85% of pre-war levels, IEA reports appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/uae-oil-exports-rebound-iea/",
-      "bloc": "western",
-      "date": "2026-06-23",
-      "datetime": "2026-06-23T22:39:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "US Senate approves Iran war powers resolution: What that means for Trump",
       "summary": "Four Republicans cross party lines to vote in favour of the measure.",
       "source": "Al Jazeera English",
@@ -293,6 +293,30 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "What in the World?",
+      "summary": "Test yourself on the week of June 20: Colombia votes, Starmer resigns, and Rutte meets with Trump.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/06/26/news-quiz-colombia-election-right-wing-starmer-resign-uk-trump-rutte-nato/",
+      "bloc": "western",
+      "date": "2026-06-26",
+      "datetime": "2026-06-26T17:29:35Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

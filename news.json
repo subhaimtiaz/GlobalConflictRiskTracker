@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-28T13:56:34.830Z",
+  "ts": "2026-06-28T19:27:44.878Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 73,
     "oilStress": 10,
-    "updatedAt": "2026-06-28T13:56:34.830Z"
+    "updatedAt": "2026-06-28T19:27:44.878Z"
   },
   "items": [
+    {
+      "headline": "Lebanon's Deal With Israel Requires Hezbollah To Disarm. That Might Be Difficult",
+      "summary": "He called the agreement a “humiliation,” adding that linking Israel’s withdrawal to Hezbollah’s disarmament as a “very dangerous suggestion.”",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/lebanons-deal-israel-requires-hezbollah-to-disarm-that-might-be-difficult_n_6a3ff5abe4b0fe0f0077da64",
+      "bloc": "western",
+      "date": "2026-06-27",
+      "datetime": "2026-06-27T16:16:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
       "summary": "Hezbollah chief calls the deal 'null and void', raising questions if the latest agreement can lead to peace in Lebanon.",
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Could Israel’s coming election see an end to Netanyahu’s political career?",
-      "summary": "Israel's Prime Minister Benjamin Netanyahu faces mounting political, legal and US pressure ahead of crucial elections.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career",
-      "bloc": "regional",
-      "date": "2026-06-27",
-      "datetime": "2026-06-27T10:35:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

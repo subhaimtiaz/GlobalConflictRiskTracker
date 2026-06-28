@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-28T09:16:23.745Z",
+  "updated": "2026-06-28T13:55:29.637Z",
   "retention_days": 30,
   "items": [
     {
@@ -16413,7 +16413,147 @@
       "_from": "newsapi",
       "first_seen": "2026-06-28T09:16:23.745Z",
       "run_id": "2026-06-28T09:16"
+    },
+    {
+      "headline": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
+      "summary": "Hezbollah chief calls the deal 'null and void', raising questions if the latest agreement can lead to peace in Lebanon.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work",
+      "bloc": "regional",
+      "date": "2026-06-27",
+      "datetime": "2026-06-27T13:54:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-28T13:55:29.636Z",
+      "run_id": "2026-06-28T13:55"
+    },
+    {
+      "headline": "Iran targets Bahrain with drone attack: \"A flagrant threat\"",
+      "summary": "Iran launched a drone assault targeting Bahrain after overnight airstrikes by the United States. The attacks across the Persian Gulf show the danger of the Iran war again spinning out of control, even after Iran and the U.S. reached an interim deal to try and…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4385659/posts",
+      "bloc": "western",
+      "date": "2026-06-27",
+      "datetime": "2026-06-27T12:07:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-28T13:55:29.636Z",
+      "run_id": "2026-06-28T13:55"
+    },
+    {
+      "headline": "Iran War: US Attacks Iran After Iran Fires on Vessels Using Oman Channel; Israel-Lebanon “Peace” Scheme Moves to Cede Southern Lebanon to Israel, Undercutting Hezbollah and Iran",
+      "summary": "Today's Iran war news: The US and Iran exchange fire over transits on the Oman side of the Strait; will an Israel-Lebanon pact undercut Iran?",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/06/iran-war-us-attacks-iran-after-iran-fires-on-vessels-using-oman-channel-israel-lebanon-peace-scheme-moves-to-cede-southern-lebanon-to-israel-undercutting-hezbollah-and-iran.html",
+      "bloc": "western",
+      "date": "2026-06-27",
+      "datetime": "2026-06-27T10:58:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-28T13:55:29.636Z",
+      "run_id": "2026-06-28T13:55"
+    },
+    {
+      "headline": "Could Israel’s coming election see an end to Netanyahu’s political career?",
+      "summary": "Israel's Prime Minister Benjamin Netanyahu faces mounting political, legal and US pressure ahead of crucial elections.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career",
+      "bloc": "regional",
+      "date": "2026-06-27",
+      "datetime": "2026-06-27T10:35:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-28T13:55:29.636Z",
+      "run_id": "2026-06-28T13:55"
+    },
+    {
+      "headline": "US, Iran trade strikes: What to know, will it unravel the MoU?",
+      "summary": "As the latest confrontations are aimed at control of the Strait of Hormuz, analysts say the deal is at risk of collapse.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou",
+      "bloc": "regional",
+      "date": "2026-06-27",
+      "datetime": "2026-06-27T10:32:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-28T13:55:29.636Z",
+      "run_id": "2026-06-28T13:55"
     }
   ],
-  "total_items_ever": 2234
+  "total_items_ever": 2239
 }

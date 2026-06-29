@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-29T15:54:32.353Z",
+  "ts": "2026-06-29T20:04:27.326Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 73,
-    "oilStress": 10,
-    "updatedAt": "2026-06-29T15:54:32.353Z"
+    "oilStress": 9,
+    "updatedAt": "2026-06-29T20:04:27.326Z"
   },
   "items": [
+    {
+      "headline": "Thirty years of Netanyahu: The man who shaped modern Israel",
+      "summary": "A career built on fear, force and survival reshaped a state’s identity – and left its legitimacy more fragile than ever Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/642315-netanyahu-israel-30-years/",
+      "bloc": "western",
+      "date": "2026-06-28",
+      "datetime": "2026-06-28T18:05:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israelis Invaded Lebanon And Then Cried Victim When Their Soldiers Got Killed, And Other Notes",
+      "summary": "From all this melodramatic garment-rending and victim-LARPing you’d assume the four Israelis were killed in their beds in Tel Aviv, not traveling by tank through a foreign country they’d invaded. Reading by Tim Foley: In a move that surprised precisely zero p…",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/israelis-invaded-lebanon-and-then-cried-victim-when-their-soldiers-got-killed-and-other-notes/",
+      "bloc": "western",
+      "date": "2026-06-28",
+      "datetime": "2026-06-28T16:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Why is Article 5 of MoU causing confrontations in the Strait of Hormuz?",
       "summary": "Iran and the US trade attacks over navigation through the Strait of Hormuz, which emerges as a major sticking point.",
@@ -92,54 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Attacks Bahrain And Kuwait Following U.S. Strikes And Threatens To Halt Talks To End The War",
-      "summary": "Iran’s paramilitary Revolutionary Guard says it launched drone and missile attacks targeting Bahrain and Kuwait in response to U.S. airstrikes that hit the Islamic Republic.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/ap-ml-iran-us-strikes-middle-east-bahrain-kuwait_n_6a4109fee4b0f259890d6049",
+      "headline": "U.S. and Iran exchange strikes, as violence escalates between Israel and Hezbollah",
+      "summary": "Tehran launched drone and missile attacks on Bahrain and Kuwait Sunday, threatening to halt negotiations with the U.S. entirely. Meanwhile, violence between Israel and Hezbollah has escalated.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
       "bloc": "western",
       "date": "2026-06-28",
-      "datetime": "2026-06-28T11:54:04Z",
+      "datetime": "2026-06-28T18:01:07Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sunday: Hili dialogue",
-      "summary": "Welcome to Sunday, June 28, 2026: Sabbath for goyische cats and National Foodie Day. Here’s one chowing down on fried chicken at Mrs. Wilkes’ Dining Room in Savannah, George last April. And here’s a terrific book of fiction I’m reading whose protagonist is a …",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/06/28/sunday-hili-dialogue-592/",
-      "bloc": "western",
-      "date": "2026-06-28",
-      "datetime": "2026-06-28T11:45:05Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -474,6 +500,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Gulf states 'colder, harder and more transactional' under US-Iran deal",
+      "summary": "Before a flare-up in fighting over the weekend, the interim deal between the United States and Iran was giving the region something it badly needs, analysts say.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-06-29/gulf-states-under-the-us-iran-deal/106839790",
+      "bloc": "western",
+      "date": "2026-06-28",
+      "datetime": "2026-06-28T18:46:32Z",
+      "leaders": [
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran US diplomacy"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Russia says nuclear weapons the ‘only’ guarantee against global war",
       "summary": "Nuclear weapons are the \"only\" bulwark preventing the world from slipping into a global war, the Kremlin said Wednesday amid fears of a fresh multi-country arms race.\nThe post Russia says nuclear weapons the ‘only’ guarantee against global war appeared first …",
       "source": "Vanguard",
@@ -495,6 +546,29 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Aramco Helicopter Crash In Ras Tanura Kills All 14 On Board",
+      "summary": "By Sara Gharaibeh Jun 28, 2026, 8:26 AM (Bloomberg) –A helicopter operated by Saudi Aramco crashed Sunday in the energy heartland of Ras Tanura, killing all 14 passengers on board. The...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/aramco-helicopter-crash-in-ras-tanura-kills-all-14-on-board/",
+      "bloc": "western",
+      "date": "2026-06-28",
+      "datetime": "2026-06-28T17:03:41Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

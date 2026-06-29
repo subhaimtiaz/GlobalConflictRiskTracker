@@ -1,478 +1,8 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-06-28T19:26:39.464Z",
+  "updated": "2026-06-29T04:17:55.229Z",
   "retention_days": 30,
   "items": [
-    {
-      "headline": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
-      "summary": "Pakistan finds itself in a diplomatic sweet spot, wooed by Trump and China. Indian missteps are to blame, say analysts",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired",
-      "bloc": "regional",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T07:22:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T08:32:39.673Z",
-      "run_id": "2026-05-30T08:32"
-    },
-    {
-      "headline": "Ceasefire Violations: Iranian Missiles Target Kuwait as American Drones Strike Near Bandar Abbas",
-      "summary": "Iran launched ballistic missiles and drones toward Kuwait late Wednesday night, an attack that U.S. Central Command characterized as an “egregious ceasefire violation.” According to CENTCOM, Kuwaiti forces successfully intercepted the ballistic missiles, whil…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-29-ceasefire-violations-iran-targets-kuwait-after-us-strike.html",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T08:32:39.673Z",
-      "run_id": "2026-05-30T08:32"
-    },
-    {
-      "headline": "Iran, US Tentatively Agree to Renew Truce for 60 Days",
-      "summary": "The US and Iran have reached a tentative deal to extend a ceasefire by 60 days and launch further talks on Tehran's nuclear program, a person with knowledge of the matter said.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/iran_us_tentatively_agree_to_renew_truce_for_60_days-29-may-2026-183804-article/",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T07:10:56Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T08:32:39.673Z",
-      "run_id": "2026-05-30T08:32"
-    },
-    {
-      "headline": "With stalemate in Ukraine, discontent at home, Putin seems ready to escalate his war",
-      "summary": "Russian Foreign Minister Sergey Lavrov calls US Secretary of State Marco Rubio to warn him of the coming strikes and push for the evacuation of its diplomats",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/with-stalemate-in-ukraine-discontent-at-home-putin-seems-ready-to-escalate-his-war/article71036202.ece",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T08:30:11Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T08:32:39.673Z",
-      "run_id": "2026-05-30T08:32"
-    },
-    {
-      "headline": "With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war",
-      "summary": "President Vladimir Putin is facing a battlefield stalemate in Ukraine and growing war fatigue among Russians and appears ready to change the narrative around the conflict",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/stalemate-ukraine-discontent-home-putin-ready-escalate-war-133409450",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T06:16:58Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T08:32:39.673Z",
-      "run_id": "2026-05-30T08:32"
-    },
-    {
-      "headline": "Leader's advisor: Iran remains formidable obstacle to US-Israeli malicious plans in West Asia",
-      "summary": "Former chief commander of the Islamic Revolution Guards Corps (IRGC), Mohsen Rezaei, has emphasized that the Islamic Republic of Iran stands as a formidable obstacle to US and Israeli objectives, particularly their attempts to redraw the map of West Asia.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260529-presstv04.htm",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T13:47:43.583Z",
-      "run_id": "2026-05-30T13:47"
-    },
-    {
-      "headline": "Hezbollah lawmaker says 'no choice but resistance' as Israel expands aggression in Lebanon",
-      "summary": "A senior Lebanese parliamentarian says Hezbollah will continue its military operations against Israeli forces, rejecting a path of \"humiliation\" as Israel pressed deeper into southern Lebanon with airstrikes and ground invasions that have killed thousands of …",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260529-presstv03.htm",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T13:47:43.583Z",
-      "run_id": "2026-05-30T13:47"
-    },
-    {
-      "headline": "May 29: Iran says exchange of messages continues with US, rejects Trump's breakthrough claim",
-      "summary": "Iranian officials on Friday said the exchange of messages with Washington continues to end the war of aggression, rejecting the US president's premature claims of a breakthrough.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260529-presstv01.htm",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T13:47:43.583Z",
-      "run_id": "2026-05-30T13:47"
-    },
-    {
-      "headline": "U.S. And Iranian Negotiators Reach Tentative Deal To Extend Ceasefire And Start New Nuclear Talks",
-      "summary": "U.S. and Iranian negotiators have reached a tentative agreement to extend the ceasefire by 60 days and start a new round of talks on Iran’s nuclear program.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-us-ceasefire-nuclear-talks_n_6a1979b5e4b0dade602f129a",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T11:41:11Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T13:47:43.583Z",
-      "run_id": "2026-05-30T13:47"
-    },
-    {
-      "headline": "US and Iran exchange strikes amid mixed info on peace deal",
-      "summary": "Citing two US officials and regional source involved in the mediation efforts, US media outlet Axios claimed on Thursday that US and Iranian negotiators have reached an agreement on a 60-day memorandum of understanding to extend the ceasefire, but US Presiden…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260529-globaltimes01.htm",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T11:53:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T13:47:43.583Z",
-      "run_id": "2026-05-30T13:47"
-    },
-    {
-      "headline": "Show HN: Simple news aggregator with source bias meters",
-      "summary": "Article URL: https://unbiasthenews.com\nComments URL: https://news.ycombinator.com/item?id=48327194\nPoints: 2\n# Comments: 0",
-      "source": "Unbiasthenews.com",
-      "url": "https://unbiasthenews.com",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T18:21:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T19:22:53.866Z",
-      "run_id": "2026-05-30T19:22"
-    },
-    {
-      "headline": "Just what are Israel’s long-term plans for Gaza?",
-      "summary": "Despite an apparent ceasefire, Israel's leaders continue to hint at annexation and ethnic cleansing.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/5/29/just-what-are-israels-long-term-plans-for",
-      "bloc": "regional",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T15:01:31Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T19:22:53.866Z",
-      "run_id": "2026-05-30T19:22"
-    },
-    {
-      "headline": "Trump says US lifting naval blockade as ships may start heading home",
-      "summary": "The lifting of the blockade may stabilize global oil markets, but Iran's Bitcoin use could prompt regulatory scrutiny on cryptocurrencies.\nThe post Trump says US lifting naval blockade as ships may start heading home appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-lifting-naval-blockade-iran/",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T15:31:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T19:22:53.866Z",
-      "run_id": "2026-05-30T19:22"
-    },
-    {
-      "headline": "No Enemies, Stronger Army: Kazakhstan’s Strategic Bet",
-      "summary": "Kazakhstan’s military modernization efforts reflect an adaptive response to growing great power competition.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/05/no-enemies-stronger-army-kazakhstans-strategic-bet/",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T14:06:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T19:22:53.866Z",
-      "run_id": "2026-05-30T19:22"
-    },
-    {
-      "headline": "QUAD to build Fiji port: A new US-China flashpoint?",
-      "summary": "Quad kicks back to life in Asia Pacific, looking to develop ports in Fiji, in a counter to China's rise.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/5/29/quad-to-build-fiji-port-a-new-us-china-flashpoint",
-      "bloc": "regional",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T13:56:29Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-30T19:22:53.866Z",
-      "run_id": "2026-05-30T19:22"
-    },
-    {
-      "headline": "Inside Jared Kushner's billion-dollar business ties to the Middle East and his central role in ending the US-Iran war",
-      "summary": "Jared Kushner's plan for his father-in-law's second term was to settle into a regular life in sun-splashed Miami.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15857023/Inside-Jared-Kushner-billion-dollar-business-Middle-East-US-Iran-war.html",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T22:53:11Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-31T04:12:51.811Z",
-      "run_id": "2026-05-31T04:12"
-    },
-    {
-      "headline": "Israeli push to take more of Gaza raises alarm as Hamas warns against escalation",
-      "summary": "Hamas said on Friday that Israeli Prime Minister Benjamin Netanyahu's declaration that his country would expand its area of control in Gaza was a dangerous escalation, as European states and residents of the Palestinian ‌territory also voiced alarm at the pla…",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/world/israeli-push-to-take-more-of-gaza-raises-alarm-as-hamas-warns-against-escalation",
-      "bloc": "western",
-      "date": "2026-05-29",
-      "datetime": "2026-05-29T21:25:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-05-31T04:12:51.811Z",
-      "run_id": "2026-05-31T04:12"
-    },
     {
       "headline": "Israeli forces push further into Lebanon as delegations meet in US",
       "summary": "Israeli Prime Minister Benjamin Netanyahu said on Friday his country's forces had pushed deeper into Lebanon, even as military delegations from both countries held landmark security talks in Washington.",
@@ -16581,7 +16111,119 @@
       "_from": "newsapi",
       "first_seen": "2026-06-28T19:26:39.463Z",
       "run_id": "2026-06-28T19:26"
+    },
+    {
+      "headline": "“Shukriya, Pakistan”: Donald Trump and the de-escalation of Iran with four huge obstacles, by Alfredo Jalife-Rahme",
+      "summary": "President Donald Trump eventually came to realize that he had been mistaken about Iran and wrong to attack that civilization-state. He signed the Islamabad Memorandum—initially electronically. He acknowledged $300 billion in war damages, while masking them wi…",
+      "source": "Red Voltaire",
+      "url": "https://www.voltairenet.org/article224788.html",
+      "bloc": "western",
+      "date": "2026-06-28",
+      "datetime": "2026-06-28T03:37:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-29T04:17:55.228Z",
+      "run_id": "2026-06-29T04:17"
+    },
+    {
+      "headline": "US Carries Out Fresh Strikes Against Iran After Tanker Struck In Hormuz, Escalating Hostilities",
+      "summary": "By Jana Choukeir and Jasper Ward DUBAI/WASHINGTON, June 28 (Reuters) – The U.S. military said it struck Iran again, hours after a tanker was hit in the Strait of Hormuz, in the...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-in-hormuz-escalating-hostilities/",
+      "bloc": "western",
+      "date": "2026-06-28",
+      "datetime": "2026-06-28T02:36:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-29T04:17:55.228Z",
+      "run_id": "2026-06-29T04:17"
+    },
+    {
+      "headline": "US military says it struck multiple targets in Iran as ceasefire strained by second day of attacks",
+      "summary": "US strikes Iranian targets after a tanker drone attack, putting the fragile ceasefire at risk and raising fears over Strait of Hormuz shipping.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/us-military-says-it-struck-multiple-targets-in-iran-as-ceasefire-strained-by-second-day-of-attacks/article71156668.ece",
+      "bloc": "western",
+      "date": "2026-06-27",
+      "datetime": "2026-06-27T23:52:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-29T04:17:55.228Z",
+      "run_id": "2026-06-29T04:17"
+    },
+    {
+      "headline": "Trump Threatens to 'Complete the Job' in Iran as US and Iran Trade Strikes Near the Strait of Hormuz",
+      "summary": "US-Iran tensions escalate as Trump threatens Iran following US strikes in response to Iranian drone attacks, challenging a fragile ceasefire agreement in the Strait of Hormuz.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/tensions-escalate-trump-threatens-iran-ceasefire-violations-1871455",
+      "bloc": "western",
+      "date": "2026-06-28",
+      "datetime": "2026-06-28T04:01:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-06-29T04:17:55.228Z",
+      "run_id": "2026-06-29T04:17"
     }
   ],
-  "total_items_ever": 2240
+  "total_items_ever": 2244
 }

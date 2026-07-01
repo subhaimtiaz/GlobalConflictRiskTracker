@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-30T20:04:29.301Z",
+  "ts": "2026-07-01T04:15:23.481Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 73,
-    "oilStress": 9,
-    "updatedAt": "2026-06-30T20:04:29.301Z"
+    "oilStress": 10,
+    "updatedAt": "2026-07-01T04:15:23.481Z"
   },
   "items": [
+    {
+      "headline": "How the Hormuz Crisis Turned Southeast Asia Into a Solar Powerhouse",
+      "summary": "The United States and Iran have stepped back from the brink of all-out war, but the ceasefire that followed nearly four months of fighting is still being tested by flare-ups around the Strait of Hormuz. One outcome of the crisis, though, is already clear: the…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/How-the-Hormuz-Crisis-Turned-Southeast-Asia-Into-a-Solar-Powerhouse.html",
+      "bloc": "western",
+      "date": "2026-06-29",
+      "datetime": "2026-06-29T21:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "NASDAQ 100 rises 2% as US and Iran agree to halt strikes, resume talks",
+      "summary": "The halt in US-Iran strikes boosts market optimism, signaling potential for diplomatic progress and stability in geopolitical and economic landscapes.\nThe post NASDAQ 100 rises 2% as US and Iran agree to halt strikes, resume talks appeared first on Crypto Bri…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/nasdaq-100-rises-2-as-us-and-iran-agree-to-halt-strikes-resume-talks/",
+      "bloc": "western",
+      "date": "2026-06-29",
+      "datetime": "2026-06-29T20:18:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Halliburton, Valero and 3 More Stocks Set Up for a Fragile Hormuz Truce",
       "summary": "Brent crude has fallen more than 20% in the past month, sliding from triple digits during the worst of the Iran war to around $72 a barrel today. WTI sits near $70. That kind of move usually means one thing: the crisis is over. It isn't, not quite. The Strait…",
@@ -88,58 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Monday: Hili dialogue",
-      "summary": "Welcome to another damn week; yes, it’s Monday, June 29, 2026, and National Darts Day.  Here’s the finals of the 2026 World Darts Championship, with the winner, getting a million pound. And that winner was Luke “The Nuke” Littler, making his last three throws…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/06/29/monday-hili-dialogue-575/",
-      "bloc": "western",
-      "date": "2026-06-29",
-      "datetime": "2026-06-29T11:45:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Axios Reports US, Iran Agree to Ceasefire Within Ceasefire, Doha Meeting on Strait of Hormuz as Iran Stands Up US on Technical Talks; Ship Transits Fall; Reports of Big US Buildup; Israel Attacks in Lebanon Continue",
-      "summary": "Today's Iran war news: As many predicted, the MOU negotiations are coming apart along side a report of a further US buildup in theater.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/06/iran-war-axios-reports-us-iran-agree-to-ceasefire-within-ceasefire-doha-meeting-on-strait-of-hormuz-as-iran-stands-up-us-on-technical-talks-ship-transits-fall-reports-of-big-us-buildup-israel-at.html",
-      "bloc": "western",
-      "date": "2026-06-29",
-      "datetime": "2026-06-29T10:54:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -343,31 +343,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Kremlin Warns NATO of a “Devastating Response” After the Largest Ukrainian Drone Attack on Moscow",
-      "summary": "Moscow’s Foreign Ministry warned on June 18 that any North Atlantic Treaty Organization (NATO) attack on Russia would trigger a \"decisive and devastating\" retaliation, according to officials. The warning followed what Russian authorities described as the larg…",
-      "source": "Shtfplan.com",
-      "url": "https://www.shtfplan.com/war/kremlin-warns-nato-of-a-devastating-response-after-the-largest-ukrainian-drone-attack-on-moscow",
-      "bloc": "western",
-      "date": "2026-06-23",
-      "datetime": "2026-06-23T12:30:46Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

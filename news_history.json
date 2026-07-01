@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-01T14:44:28.738Z",
+  "updated": "2026-07-01T20:01:04.175Z",
   "retention_days": 30,
   "items": [
     {
@@ -16633,7 +16633,60 @@
       "_from": "newsapi",
       "first_seen": "2026-07-01T14:44:28.738Z",
       "run_id": "2026-07-01T14:44"
+    },
+    {
+      "headline": "Iran exports 50M barrels of crude oil in two weeks as blockade lifts",
+      "summary": "The rapid resumption of Iranian oil exports highlights the geopolitical volatility impacting global energy markets and commodity prices.\nThe post Iran exports 50M barrels of crude oil in two weeks as blockade lifts appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-50-million-barrels-crude-oil-blockade-lifted/",
+      "bloc": "western",
+      "date": "2026-06-30",
+      "datetime": "2026-06-30T18:24:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-01T20:01:04.175Z",
+      "run_id": "2026-07-01T20:01"
+    },
+    {
+      "headline": "How severe is Russia’s energy shortage because of Ukrainian strikes?",
+      "summary": "Analysts say Russia's fuel crisis may affect its domestic economy, but the war in Ukraine will remain the priority.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/30/how-severe-is-russias-energy-shortage-because-of-ukrainian-strikes",
+      "bloc": "regional",
+      "date": "2026-06-30",
+      "datetime": "2026-06-30T16:31:28Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-01T20:01:04.175Z",
+      "run_id": "2026-07-01T20:01"
     }
   ],
-  "total_items_ever": 2286
+  "total_items_ever": 2288
 }

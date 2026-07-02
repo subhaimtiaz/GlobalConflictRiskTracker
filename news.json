@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-02T14:11:12.432Z",
+  "ts": "2026-07-02T19:37:06.842Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 71,
-    "oilStress": 6,
-    "updatedAt": "2026-07-02T14:11:12.432Z"
+    "oilPrice": 72,
+    "oilStress": 7,
+    "updatedAt": "2026-07-02T19:37:06.842Z"
   },
   "items": [
+    {
+      "headline": "Iran Risks New War Front as Kurdish Attacks Rise Amid US Ceasefire",
+      "summary": "An uptick in clashes between Iranian security forces and Kurdish rebel groups is threatening to open a new front in the Islamic Republic's conflict with the United States and Israel, testing a fragile ceasefire between Tehran and Washington.\nAs the United Sta…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bd7feeb140f601ce",
+      "bloc": "western",
+      "date": "2026-07-01",
+      "datetime": "2026-07-01T18:29:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israeli attacks kill 4,297, injure 12,196 in Lebanon since March 2: Health Ministry",
+      "summary": "The escalating conflict risks broader regional instability, potentially leading to increased military actions and further humanitarian crises.\nThe post Israeli attacks kill 4,297, injure 12,196 in Lebanon since March 2: Health Ministry appeared first on Crypt…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/israeli-attacks-kill-4297-injure-12196-in-lebanon-since-march-2-health-ministry/",
+      "bloc": "western",
+      "date": "2026-07-01",
+      "datetime": "2026-07-01T14:38:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump’s War in the Middle East Has One Clear Winner: China",
       "summary": "This story was originally published by the Guardian and is reproduced here as part of the Climate Desk collaboration. China has emerged as the sole winner in Asia from the strait of Hormuz crisis, according to a report published on Tuesday. The report by the …",
@@ -62,84 +114,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US, Iran officials to hold indirect talks in Doha",
-      "summary": "Officials from the United States and Iran will on Wednesday hold indirect technical talks on their deal aimed at ending the Middle East war, a diplomat with knowledge of the talks told AFP.\nThe post US, Iran officials to hold indirect talks in Doha appeared f…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/us-iran-officials-to-hold-indirect-talks-in-doha/",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T09:28:38Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israel-Lebanon Deal Sparks Protests, Raises Fears of Lasting Occupation",
-      "summary": "A US-brokered Israel-Lebanon deal seeks peace but leaves key questions over occupation, displacement, Hezbollah, and the laws of war unresolved.",
-      "source": "Military.com",
-      "url": "https://military.com/israel-lebanon-deal-sparks-protests-raises-fears-of-lasting-occupation",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T09:01:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Bombs for Bargains: Can a Treaty Imposed on Iran Through Military Coercion Be Valid Under International Law?",
-      "summary": "[Heybatollah Najandimanesh, associate professor of international law at Allameh Tabatabaei University, Tehran, Iran] Introduction Can a treaty concluded under sustained military pressure ever constitute a valid expression of state consent? This question lies …",
-      "source": "Opiniojuris.org",
-      "url": "http://opiniojuris.org/2026/07/01/bombs-for-bargains-can-a-treaty-imposed-on-iran-through-military-coercion-be-valid-under-international-law/",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T08:00:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

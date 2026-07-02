@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-01T20:02:09.355Z",
+  "ts": "2026-07-02T03:55:53.360Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 71,
-    "oilStress": 7,
-    "updatedAt": "2026-07-01T20:02:09.355Z"
+    "oilStress": 6,
+    "updatedAt": "2026-07-02T03:55:53.360Z"
   },
   "items": [
+    {
+      "headline": "Israel and Lebanon Sign Framework Agreement That Marks Capitulation to Israel",
+      "summary": "The agreement is “impossible to successfully implement” and concedes to Israel’s military occupation, said an expert.",
+      "source": "Truthout",
+      "url": "https://truthout.org/articles/israel-and-lebanon-sign-framework-agreement-that-marks-capitulation-to-israel/",
+      "bloc": "western",
+      "date": "2026-06-30",
+      "datetime": "2026-06-30T21:55:19Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US lifts naval blockade on Iranian ports after 2026 Iran War",
+      "summary": "The lifting of the blockade signals a potential easing of geopolitical tensions, yet market skepticism suggests uncertainty in full maritime recovery.\nThe post US lifts naval blockade on Iranian ports after 2026 Iran War appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-lifts-naval-blockade-on-iranian-ports-after-2026-iran-war/",
+      "bloc": "western",
+      "date": "2026-06-30",
+      "datetime": "2026-06-30T20:24:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran on Lebanon: US vowed to end all wars",
       "summary": "The Iranian Foreign Ministry's spokesperson Esmail Baghaei insisted on Tuesday, when asked about the ceasefire between Israel and Lebanon, that the United States had committed to ending the war on all...",
@@ -92,53 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War: Israel Makes Massive Bomb Blast in Southern Lebanon, Threatens Imminent Attack on Iran; Iran Refuses Meeting with US on Strait of Hormuz as Assembly of Experts Statement Assures Already Likely Death of MOU; Strait of Hormuz Transits Increasing as Iran and Oman Not on Same Page",
-      "summary": "Today's Iran war news: Israel is aggressively escalating in Lebanon and threatens Iran as its Assembly of Experts hardens the red lines.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/06/iran-war-israel-makes-massive-bomb-blast-in-southern-lebanon-threatens-imminent-attack-on-iran-iran-refuses-meeting-with-us-on-strait-of-hormuz-as-assembly-of-experts-statement-assures-already-like.html",
+      "headline": "Oil Steadies as Peace Talks Continue, Hormuz Traffic Recovers",
+      "summary": "Oil steadied after the biggest quarterly drop since the pandemic, as traders monitored peace talks between the US and Iran and the return of shipping through the Strait of Hormuz.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-steadies-as-peace-talks-continue-hormuz-traffic-recovers",
       "bloc": "western",
-      "date": "2026-06-30",
-      "datetime": "2026-06-30T10:57:57Z",
+      "date": "2026-07-01",
+      "datetime": "2026-07-01T02:40:14Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How the Hormuz Crisis Turned Southeast Asia Into a Solar Powerhouse",
-      "summary": "The United States and Iran have stepped back from the brink of all-out war, but the ceasefire that followed nearly four months of fighting is still being tested by flare-ups around the Strait of Hormuz. One outcome of the crisis, though, is already clear: the…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/How-the-Hormuz-Crisis-Turned-Southeast-Asia-Into-a-Solar-Powerhouse.html",
-      "bloc": "western",
-      "date": "2026-06-29",
-      "datetime": "2026-06-29T21:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Why is Article 5 of MoU causing confrontations in the Strait of Hormuz?",
-      "summary": "Iran and the US trade attacks over navigation through the Strait of Hormuz, which emerges as a major sticking point.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz",
-      "bloc": "regional",
-      "date": "2026-06-28",
-      "datetime": "2026-06-28T13:17:40Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "US strikes Iran for second day: Is it a violation of war powers resolution?",
       "summary": "Days after Congress tells Trump he needs to seek its approval or end Iran war, Trump returns to attacks. Is it legal?",
       "source": "Al Jazeera English",
@@ -294,30 +294,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Senate approves Iran war powers resolution: What that means for Trump",
-      "summary": "Four Republicans cross party lines to vote in favour of the measure.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump",
-      "bloc": "regional",
-      "date": "2026-06-24",
-      "datetime": "2026-06-24T11:25:40Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Trump Iran war"
-      ],
-      "dimensions": [
-        "accountability",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -371,25 +347,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Ray Dalio just finished a 10-day trip to China. He says global leaders know America ‘doesn’t have what it takes to fight to maintain its empire’",
-      "summary": "\"Over the past few months there has been a big shift in the world order,\" the hedge fund billionaire wrote. He sees a \"tribute\" system rising in the east.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/24/ray-dalio-china-tribute-system-america-empire/",
+      "headline": "Why a Supply Crunch From Iran Could Send Oil Back Below $40 a Barrel",
+      "summary": "There have recently been many warnings about near-term oil shortages stemming from the conflict in Iran. Most analysts assume that shortages mean higher prices. As I will explain, the dynamics of a self-organizing economy suggest the opposite outcome — lower …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Why-a-Supply-Crunch-From-Iran-Could-Send-Oil-Back-Below-40-a-Barrel.html",
       "bloc": "western",
-      "date": "2026-06-24",
-      "datetime": "2026-06-24T13:13:00Z",
+      "date": "2026-06-30",
+      "datetime": "2026-06-30T21:00:00Z",
       "leaders": [
-        "Xi Jinping"
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "oil Brent crude"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "values"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -454,32 +432,6 @@
       "bloc": "regional",
       "date": "2026-06-25",
       "datetime": "2026-06-25T12:52:02Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Qatar Signs Crude Deal With Taiwan as Gulf Oil Trade Recovers",
-      "summary": "In the latest sign of recovering oil flows in the Persian Gulf, Qatar inked a deal with a Taiwanese refiner for the sale of a cargo of Al-Shaheen crude, Bloomberg reported today, citing unnamed trading sources. The deal follows the sale of Marine and Land Qat…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Signs-Crude-Deal-With-Taiwan-as-Gulf-Oil-Trade-Recovers.html",
-      "bloc": "western",
-      "date": "2026-06-25",
-      "datetime": "2026-06-25T07:30:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -569,31 +521,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia says nuclear weapons the ‘only’ guarantee against global war",
-      "summary": "Nuclear weapons are the \"only\" bulwark preventing the world from slipping into a global war, the Kremlin said Wednesday amid fears of a fresh multi-country arms race.\nThe post Russia says nuclear weapons the ‘only’ guarantee against global war appeared first …",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/06/russia-says-nuclear-weapons-the-only-guarantee-against-global-war/",
-      "bloc": "western",
-      "date": "2026-06-24",
-      "datetime": "2026-06-24T10:21:32Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-02T03:55:53.360Z",
+  "ts": "2026-07-02T09:19:39.438Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 71,
     "oilStress": 6,
-    "updatedAt": "2026-07-02T03:55:53.360Z"
+    "updatedAt": "2026-07-02T09:19:39.438Z"
   },
   "items": [
+    {
+      "headline": "Israel-Lebanon Deal Sparks Protests, Raises Fears of Lasting Occupation",
+      "summary": "A US-brokered Israel-Lebanon deal seeks peace but leaves key questions over occupation, displacement, Hezbollah, and the laws of war unresolved.",
+      "source": "Military.com",
+      "url": "https://military.com/israel-lebanon-deal-sparks-protests-raises-fears-of-lasting-occupation",
+      "bloc": "western",
+      "date": "2026-07-01",
+      "datetime": "2026-07-01T09:01:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Bombs for Bargains: Can a Treaty Imposed on Iran Through Military Coercion Be Valid Under International Law?",
+      "summary": "[Heybatollah Najandimanesh, associate professor of international law at Allameh Tabatabaei University, Tehran, Iran] Introduction Can a treaty concluded under sustained military pressure ever constitute a valid expression of state consent? This question lies …",
+      "source": "Opiniojuris.org",
+      "url": "http://opiniojuris.org/2026/07/01/bombs-for-bargains-can-a-treaty-imposed-on-iran-through-military-coercion-be-valid-under-international-law/",
+      "bloc": "western",
+      "date": "2026-07-01",
+      "datetime": "2026-07-01T08:00:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Israel and Lebanon Sign Framework Agreement That Marks Capitulation to Israel",
       "summary": "The agreement is “impossible to successfully implement” and concedes to Israel’s military occupation, said an expert.",
@@ -92,53 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Daily Geopolitical Review - 30/06/2026",
-      "summary": "Edited by iEpikaira*\r\n\n Executive Summary\r\n\n Today's strategic landscape is characterized by a complex interplay of systemic competition, localized de-escalation efforts, and persistent regional tensions, all set against a backdrop of evolving technological a…",
-      "source": "Blogspot.com",
-      "url": "https://i-epikaira.blogspot.com/2026/06/daily-geopolitical-review-30062026.html",
+      "headline": "Oil steadies as Hormuz traffic recovers",
+      "summary": "Traders monitor peace talks between the US and Iran",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/markets/2026/07/01/oil-steadies-as-hormuz-traffic-recovers/",
       "bloc": "western",
-      "date": "2026-06-30",
-      "datetime": "2026-06-30T11:44:11Z",
+      "date": "2026-07-01",
+      "datetime": "2026-07-01T06:22:31Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "When Has Negotiating With Islamic Terrorists Ever Worked?",
-      "summary": "Nearly 250 years ago, the United States tried negotiating with Islamic pirate states to stop the capture of American ships and the enslavement of Americans. George Washington, Thomas Jefferson and John Adams all learned the painful lesson that the negotiation…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4386055/posts",
-      "bloc": "western",
-      "date": "2026-06-30",
-      "datetime": "2026-06-30T11:29:38Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran attacks Bahrain and Kuwait in response to U.S. airstrikes and threatens a ‘complete halt’ in peace talks as fighting over Hormuz continues",
-      "summary": "In recent days, Iran has twice attacked vessels going through a route on the Omani side of the strait backed by a United Nations agency.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/28/iran-drone-missile-attacks-bahrain-kuwait-us-airstrikes-peace-talks-hormuz-lebanon/",
-      "bloc": "western",
-      "date": "2026-06-28",
-      "datetime": "2026-06-28T14:03:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "US strikes Iran for second day: Is it a violation of war powers resolution?",
       "summary": "Days after Congress tells Trump he needs to seek its approval or end Iran war, Trump returns to attacks. Is it legal?",
       "source": "Al Jazeera English",
@@ -294,6 +294,31 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Daily Geopolitical Review - 30/06/2026",
+      "summary": "Edited by iEpikaira*\r\n\n Executive Summary\r\n\n Today's strategic landscape is characterized by a complex interplay of systemic competition, localized de-escalation efforts, and persistent regional tensions, all set against a backdrop of evolving technological a…",
+      "source": "Blogspot.com",
+      "url": "https://i-epikaira.blogspot.com/2026/06/daily-geopolitical-review-30062026.html",
+      "bloc": "western",
+      "date": "2026-06-30",
+      "datetime": "2026-06-30T11:44:11Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

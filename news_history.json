@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-02T03:54:48.222Z",
+  "updated": "2026-07-02T09:18:34.213Z",
   "retention_days": 30,
   "items": [
     {
@@ -16378,7 +16378,91 @@
       "_from": "newsapi",
       "first_seen": "2026-07-02T03:54:48.222Z",
       "run_id": "2026-07-02T03:54"
+    },
+    {
+      "headline": "Israel-Lebanon Deal Sparks Protests, Raises Fears of Lasting Occupation",
+      "summary": "A US-brokered Israel-Lebanon deal seeks peace but leaves key questions over occupation, displacement, Hezbollah, and the laws of war unresolved.",
+      "source": "Military.com",
+      "url": "https://military.com/israel-lebanon-deal-sparks-protests-raises-fears-of-lasting-occupation",
+      "bloc": "western",
+      "date": "2026-07-01",
+      "datetime": "2026-07-01T09:01:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-02T09:18:34.212Z",
+      "run_id": "2026-07-02T09:18"
+    },
+    {
+      "headline": "Bombs for Bargains: Can a Treaty Imposed on Iran Through Military Coercion Be Valid Under International Law?",
+      "summary": "[Heybatollah Najandimanesh, associate professor of international law at Allameh Tabatabaei University, Tehran, Iran] Introduction Can a treaty concluded under sustained military pressure ever constitute a valid expression of state consent? This question lies …",
+      "source": "Opiniojuris.org",
+      "url": "http://opiniojuris.org/2026/07/01/bombs-for-bargains-can-a-treaty-imposed-on-iran-through-military-coercion-be-valid-under-international-law/",
+      "bloc": "western",
+      "date": "2026-07-01",
+      "datetime": "2026-07-01T08:00:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-02T09:18:34.212Z",
+      "run_id": "2026-07-02T09:18"
+    },
+    {
+      "headline": "Oil steadies as Hormuz traffic recovers",
+      "summary": "Traders monitor peace talks between the US and Iran",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/markets/2026/07/01/oil-steadies-as-hormuz-traffic-recovers/",
+      "bloc": "western",
+      "date": "2026-07-01",
+      "datetime": "2026-07-01T06:22:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-02T09:18:34.212Z",
+      "run_id": "2026-07-02T09:18"
     }
   ],
-  "total_items_ever": 2292
+  "total_items_ever": 2295
 }

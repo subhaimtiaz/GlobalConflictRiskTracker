@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-02T19:37:06.842Z",
+  "ts": "2026-07-03T03:38:14.047Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 72,
-    "oilStress": 7,
-    "updatedAt": "2026-07-02T19:37:06.842Z"
+    "oilStress": 8,
+    "updatedAt": "2026-07-03T03:38:14.047Z"
   },
   "items": [
+    {
+      "headline": "Vance warns US may resume military action if Iran ceasefire fails",
+      "summary": "Vance's warning underscores the fragile state of US-Iran relations, potentially destabilizing regional peace and affecting global markets.\nThe post Vance warns US may resume military action if Iran ceasefire fails appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/vance-warns-us-may-resume-military-action-if-iran-ceasefire-fails/",
+      "bloc": "western",
+      "date": "2026-07-01",
+      "datetime": "2026-07-01T19:40:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran Risks New War Front as Kurdish Attacks Rise Amid US Ceasefire",
       "summary": "An uptick in clashes between Iranian security forces and Kurdish rebel groups is threatening to open a new front in the Islamic Republic's conflict with the United States and Israel, testing a fragile ceasefire between Tehran and Washington.\nAs the United Sta…",
@@ -66,54 +92,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump’s War in the Middle East Has One Clear Winner: China",
-      "summary": "This story was originally published by the Guardian and is reproduced here as part of the Climate Desk collaboration. China has emerged as the sole winner in Asia from the strait of Hormuz crisis, according to a report published on Tuesday. The report by the …",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/07/trump-iran-war-middle-east-winner-china-clean-energy/",
+      "headline": "Crude Extends Losses on Glut Fears",
+      "summary": "Oil prices fell as recovering Strait of Hormuz traffic and rising global supplies reinforced expectations of an oversupplied market.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/crude_extends_losses_on_glut_fears-01-jul-2026-184038-article/",
       "bloc": "western",
       "date": "2026-07-01",
-      "datetime": "2026-07-01T11:30:00Z",
+      "datetime": "2026-07-01T19:54:31Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israel threatens third attack on Iran despite US diplomacy efforts",
-      "summary": "Israel's stance may undermine US-Iran diplomacy, increasing regional instability and affecting global markets' confidence in peace prospects.\nThe post Israel threatens third attack on Iran despite US diplomacy efforts appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/israel-threatens-third-attack-on-iran-despite-us-diplomacy-efforts/",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T11:16:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -218,32 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. and Iran exchange strikes, as violence escalates between Israel and Hezbollah",
-      "summary": "Tehran launched drone and missile attacks on Bahrain and Kuwait Sunday, threatening to halt negotiations with the U.S. entirely. Meanwhile, violence between Israel and Hezbollah has escalated.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
-      "bloc": "western",
-      "date": "2026-06-28",
-      "datetime": "2026-06-28T18:01:07Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -405,32 +379,6 @@
       "bloc": "regional",
       "date": "2026-06-26",
       "datetime": "2026-06-26T10:25:20Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil falls to pre-war levels, no change in petrol and diesel prices in India",
-      "summary": "Global crude oil prices have fallen to their lowest levels since before the Iran conflict, with Brent slipping to around USD 72–73 per barrel and US crude below USD 70, effectively reversing the earlier geopolitical risk premium. Despite the global correction…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-falls-to-pre-war-levels-no-change-in-petrol-and-diesel-prices/articleshow/131994395.cms",
-      "bloc": "regional",
-      "date": "2026-06-25",
-      "datetime": "2026-06-25T12:52:02Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

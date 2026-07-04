@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-03T19:35:55.959Z",
+  "ts": "2026-07-04T03:31:19.011Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 72,
     "oilStress": 8,
-    "updatedAt": "2026-07-03T19:35:55.959Z"
+    "updatedAt": "2026-07-04T03:31:19.010Z"
   },
   "items": [
+    {
+      "headline": "Israel Reportedly Attempted To Shoot Down Iran’s Negotiators",
+      "summary": "Israel sent fighters to attack the plane carrying Iranian negotators after talks in Pakistan.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/07/02/israel-reportedly-attempted-shoot-down-iran-negotiators/",
+      "bloc": "western",
+      "date": "2026-07-02",
+      "datetime": "2026-07-02T20:40:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "GOP Senate Reaffirms Israel Support Amid Islamic Terrorism Fight",
       "summary": "Key conservative senators have intensified their support for the state of Israel amid rising support for anti-Israel intervention efforts, as well as American political candidates who champion Israel’s enemies. A recent report from Axios found support is decl…",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran turns Khamenei funeral into show of power",
-      "summary": "Iran's leadership is planning a six-day funeral for Ayatollah Ali Khamenei starting July 4, in what officials say will be the largest gathering in Tehran's history — and a demonstration of strength at home and abroad. Acting Tehran Mayor Alireza Zakani said t…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/iran-turns-khamenei-funeral-into-show-of-power/a-77805433",
+      "headline": "Tehran Is Racing the Clock to Export as Much Oil as Possible",
+      "summary": "Iran is wasting no time in returning full steam to the oil export market after the Islamic Republic and the United States agreed in mid-June on a 60-day window to negotiate a deal. Since the memorandum of understanding was signed and the U.S. blockade aimed a…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Tehran-Is-Racing-the-Clock-to-Export-as-Much-Oil-as-Possible.html",
       "bloc": "western",
       "date": "2026-07-02",
-      "datetime": "2026-07-02T14:54:00Z",
+      "datetime": "2026-07-02T22:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -229,32 +255,6 @@
       "bloc": "western",
       "date": "2026-07-01",
       "datetime": "2026-07-01T06:22:31Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Steadies as Peace Talks Continue, Hormuz Traffic Recovers",
-      "summary": "Oil steadied after the biggest quarterly drop since the pandemic, as traders monitored peace talks between the US and Iran and the return of shipping through the Strait of Hormuz.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-steadies-as-peace-talks-continue-hormuz-traffic-recovers",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T02:40:14Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -372,30 +372,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "What in the World?",
-      "summary": "Test yourself on the week of June 20: Colombia votes, Starmer resigns, and Rutte meets with Trump.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/06/26/news-quiz-colombia-election-right-wing-starmer-resign-uk-trump-rutte-nato/",
-      "bloc": "western",
-      "date": "2026-06-26",
-      "datetime": "2026-06-26T17:29:35Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Why a Supply Crunch From Iran Could Send Oil Back Below $40 a Barrel",
       "summary": "There have recently been many warnings about near-term oil shortages stemming from the conflict in Iran. Most analysts assume that shortages mean higher prices. As I will explain, the dynamics of a self-organizing economy suggest the opposite outcome — lower …",
       "source": "OilPrice.com",
@@ -429,32 +405,6 @@
       "bloc": "western",
       "date": "2026-06-29",
       "datetime": "2026-06-29T12:52:01Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Who has profited most from the war on Iran?",
-      "summary": "Defence contractors, energy companies and investment banks saw profits soar as war and uncertainty upended markets.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/26/who-has-profited-most-from-the-war-on-iran",
-      "bloc": "regional",
-      "date": "2026-06-26",
-      "datetime": "2026-06-26T10:25:20Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

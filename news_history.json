@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-04T03:30:13.634Z",
+  "updated": "2026-07-04T08:42:31.543Z",
   "retention_days": 30,
   "items": [
     {
@@ -15887,7 +15887,63 @@
       "_from": "newsapi",
       "first_seen": "2026-07-04T03:30:13.633Z",
       "run_id": "2026-07-04T03:30"
+    },
+    {
+      "headline": "Iranian President: Tehran to Honor Commitments If Washington Adheres to Memorandum",
+      "summary": "Iranian President Masoud Pezeshkian stated on Monday, June 29, that Tehran will remain committed to the June 18 memorandum of understanding with the United States as long as Washington upholds its obligations, according to a post on the social media platform …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-03-pezeshkian-tehran-honor-commitment-washington-adheres-mou.html",
+      "bloc": "western",
+      "date": "2026-07-03",
+      "datetime": "2026-07-03T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-04T08:42:31.543Z",
+      "run_id": "2026-07-04T08:42"
+    },
+    {
+      "headline": "‘We are pawns’: Indian sea captain fears for other seafarers still stuck in Persian Gulf",
+      "summary": "An Indian sea captain who was stuck on an oil tanker in the Persian Gulf for more than two months as the U.S. and Israel-Iran war raged says thousands of mariners are still at risk and don’t get the recognition they deserve.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/seafarers-stranded-persian-gulf-9.7256255",
+      "bloc": "western",
+      "date": "2026-07-03",
+      "datetime": "2026-07-03T08:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-04T08:42:31.543Z",
+      "run_id": "2026-07-04T08:42"
     }
   ],
-  "total_items_ever": 2315
+  "total_items_ever": 2317
 }

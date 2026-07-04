@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-04T03:31:19.011Z",
+  "ts": "2026-07-04T08:43:36.783Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 72,
     "oilStress": 8,
-    "updatedAt": "2026-07-04T03:31:19.010Z"
+    "updatedAt": "2026-07-04T08:43:36.783Z"
   },
   "items": [
+    {
+      "headline": "Iranian President: Tehran to Honor Commitments If Washington Adheres to Memorandum",
+      "summary": "Iranian President Masoud Pezeshkian stated on Monday, June 29, that Tehran will remain committed to the June 18 memorandum of understanding with the United States as long as Washington upholds its obligations, according to a post on the social media platform …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-03-pezeshkian-tehran-honor-commitment-washington-adheres-mou.html",
+      "bloc": "western",
+      "date": "2026-07-03",
+      "datetime": "2026-07-03T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Israel Reportedly Attempted To Shoot Down Iran’s Negotiators",
       "summary": "Israel sent fighters to attack the plane carrying Iranian negotators after talks in Pakistan.",
@@ -92,53 +118,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israeli forces intensify demolition in Bint Jbeil amid 2026 Lebanon war escalation",
-      "summary": "The intensified conflict undermines prospects for peace, complicates regional stability, and challenges international diplomatic efforts.\nThe post Israeli forces intensify demolition in Bint Jbeil amid 2026 Lebanon war escalation appeared first on Crypto Brie…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/israeli-forces-intensify-demolition-in-bint-jbeil-amid-2026-lebanon-war/",
+      "headline": "‘We are pawns’: Indian sea captain fears for other seafarers still stuck in Persian Gulf",
+      "summary": "An Indian sea captain who was stuck on an oil tanker in the Persian Gulf for more than two months as the U.S. and Israel-Iran war raged says thousands of mariners are still at risk and don’t get the recognition they deserve.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/seafarers-stranded-persian-gulf-9.7256255",
       "bloc": "western",
-      "date": "2026-07-02",
-      "datetime": "2026-07-02T16:52:29Z",
+      "date": "2026-07-03",
+      "datetime": "2026-07-03T08:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Glut Calls May Be Getting Ahead of Reality",
-      "summary": "Crude oil prices are crashing on reports that flows out of the Strait of Hormuz are recovering, and analysts are back to predicting oversupply, even though Iran just said it will not be meeting with the U.S. envoys to negotiate peace, and that comes after str…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Glut-Calls-May-Be-Getting-Ahead-of-Reality.html",
-      "bloc": "western",
-      "date": "2026-07-02",
-      "datetime": "2026-07-02T16:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -229,32 +229,6 @@
       "bloc": "western",
       "date": "2026-07-01",
       "datetime": "2026-07-01T19:54:31Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil steadies as Hormuz traffic recovers",
-      "summary": "Traders monitor peace talks between the US and Iran",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/business/markets/2026/07/01/oil-steadies-as-hormuz-traffic-recovers/",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T06:22:31Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

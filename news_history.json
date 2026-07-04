@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-04T13:41:18.209Z",
+  "updated": "2026-07-04T19:19:44.525Z",
   "retention_days": 30,
   "items": [
     {
@@ -15971,7 +15971,35 @@
       "_from": "newsapi",
       "first_seen": "2026-07-04T13:41:18.209Z",
       "run_id": "2026-07-04T13:41"
+    },
+    {
+      "headline": "The next chapter of BRICS has begun",
+      "summary": "The bloc is moving from pure economic cooperation to shaping tomorrow’s security agenda Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/642551-brics-new-chapter-security/",
+      "bloc": "western",
+      "date": "2026-07-03",
+      "datetime": "2026-07-03T16:41:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-04T19:19:44.525Z",
+      "run_id": "2026-07-04T19:19"
     }
   ],
-  "total_items_ever": 2318
+  "total_items_ever": 2319
 }

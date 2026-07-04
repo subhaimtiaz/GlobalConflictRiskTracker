@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-04T13:42:23.642Z",
+  "ts": "2026-07-04T19:20:49.658Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 72,
     "oilStress": 8,
-    "updatedAt": "2026-07-04T13:42:23.642Z"
+    "updatedAt": "2026-07-04T19:20:49.658Z"
   },
   "items": [
+    {
+      "headline": "The next chapter of BRICS has begun",
+      "summary": "The bloc is moving from pure economic cooperation to shaping tomorrow’s security agenda Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/642551-brics-new-chapter-security/",
+      "bloc": "western",
+      "date": "2026-07-03",
+      "datetime": "2026-07-03T16:41:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran calls for Islamic security alliance against Israel in Turkey talks",
       "summary": "Iran's acting defense minister has called for the creation of a joint security mechanism among Islamic countries, stating that the presence of extra-regional forces has become a source of instability, during a telephone conversation with his Turkish counterpa…",
@@ -73,32 +99,6 @@
       "bloc": "western",
       "date": "2026-07-02",
       "datetime": "2026-07-02T20:40:05Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "GOP Senate Reaffirms Israel Support Amid Islamic Terrorism Fight",
-      "summary": "Key conservative senators have intensified their support for the state of Israel amid rising support for anti-Israel intervention efforts, as well as American political candidates who champion Israel’s enemies. A recent report from Axios found support is decl…",
-      "source": "Daily Signal",
-      "url": "https://www.dailysignal.com/2026/07/02/gop-senate-reaffirms-israel-support-amid-islamic-terrorism-fight/",
-      "bloc": "western",
-      "date": "2026-07-02",
-      "datetime": "2026-07-02T19:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

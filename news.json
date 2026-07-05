@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-05T13:49:10.834Z",
+  "ts": "2026-07-05T19:24:36.174Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 72,
     "oilStress": 8,
-    "updatedAt": "2026-07-05T13:49:10.834Z"
+    "updatedAt": "2026-07-05T19:24:36.174Z"
   },
   "items": [
+    {
+      "headline": "Ayalon criticizes US-Iran MoU as ‘massive surrender’ amid strained relations",
+      "summary": "Ayalon's critique highlights potential geopolitical instability and market uncertainty, questioning the MoU's effectiveness in achieving lasting peace.\nThe post Ayalon criticizes US-Iran MoU as ‘massive surrender’ amid strained relations appeared first on Cry…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/ayalon-criticizes-us-iran-mou-as-massive-surrender-amid-strained-relations/",
+      "bloc": "western",
+      "date": "2026-07-04",
+      "datetime": "2026-07-04T13:51:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Links 7/4/2026",
       "summary": "Our rattled daily links: Record sea temps, China real estate sinks. yen crisis? >1 million Gaza deaths, Yemen threatens Saudis. grocery price emergency, Trump corruption details, quant emergency? retail dip-buying frenzy, America 250 ignorance, Cuba blackouts…",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-07-04",
       "datetime": "2026-07-04T05:43:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The next chapter of BRICS has begun",
-      "summary": "The bloc is moving from pure economic cooperation to shaping tomorrow’s security agenda Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/642551-brics-new-chapter-security/",
-      "bloc": "western",
-      "date": "2026-07-03",
-      "datetime": "2026-07-03T16:41:52Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-06T10:45:03.255Z",
+  "ts": "2026-07-06T15:41:57.452Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,113 @@
   "live_variables": {
     "oilPrice": 72,
     "oilStress": 8,
-    "updatedAt": "2026-07-06T10:45:03.255Z"
+    "updatedAt": "2026-07-06T15:41:57.452Z"
   },
   "items": [
+    {
+      "headline": "NATO Chief Faces Challenge At Summit As Trump Demands 'Loyalty' And Not Just Burden-Sharing",
+      "summary": "Since he started work as NATO secretary-general almost two years ago, Mark Rutte has spent much of his time trying to keep the U.S. anchored to the world’s biggest military alliance.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/ap-eu-nato-summit-rutte-trump_n_6a4a4ea3e4b03060a850d285",
+      "bloc": "western",
+      "date": "2026-07-05",
+      "datetime": "2026-07-05T12:34:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iranians pray for slain supreme leader Khamenei in son’s absence",
+      "summary": "Iranians gather for slain Supreme Leader Ali Khamenei’s funeral, with his son Mojtaba conspicuously absent. Thousands mourn in Tehran, demanding justice.\n\nRead More: https://punchng.com/iranians-pray-for-slain-supreme-leader-khamenei-in-sons-absence/",
+      "source": "The Punch",
+      "url": "https://punchng.com/iranians-pray-for-slain-supreme-leader-khamenei-in-sons-absence/",
+      "bloc": "western",
+      "date": "2026-07-05",
+      "datetime": "2026-07-05T12:08:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US 'defeated' as Iran MoU forces recognition of resistance allies: Qalibaf",
+      "summary": "Iranian Parliament Speaker Mohammad Baqer Qalibaf has declared that the United States and Israel were compelled to \"practically\" acknowledge Iran's regional allies under the terms of a recent memorandum of understanding, describing the agreement as a \"defeat\"…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260705-presstv01.htm",
+      "bloc": "western",
+      "date": "2026-07-05",
+      "datetime": "2026-07-05T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israel confirms it deployed Iron Dome to UAE amid war on Iran",
+      "summary": "An Israeli cabinet member has confirmed that the Iron Dome battery was deployed to the United Arab Emirates during the US-Israeli war of aggression against Iran.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260705-presstv05.htm",
+      "bloc": "western",
+      "date": "2026-07-05",
+      "datetime": "2026-07-05T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iranian Commander Warns U.S., Israel Against Attacks as Khamenei Funeral Preparations Underway",
       "summary": "Iran Issues Warning to U.S. and Israel Ahead of Khamenei Funeral A senior Iranian commander has warned the United States and Israel against carrying out any attacks during the upcoming funeral processions for former Supreme Leader Ayatollah Ali Khamenei, who …",
@@ -36,110 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Report: Saudi Crown Prince Lost Confidence in Trump After U.S. Failure in Iran",
-      "summary": "Saudi Arabia Blocks U.S. Access to Airspace, Report Says Saudi Arabia prevented the United States from using its airspace for a military mission in the Strait of Hormuz, according to a New York Times report cited by multiple sources. The report states that Sa…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-05-saudi-crown-prince-lost-faith-in-trump.html",
-      "bloc": "western",
-      "date": "2026-07-05",
-      "datetime": "2026-07-05T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Middle Eastern Experts Warn That President Trump Has Walked Into A Globalist Trap In Iran",
-      "summary": "Alex Jones & Middle Eastern researcher Syrian Girl take a look at the Iran conflict that, 125 days in, is already destroying the world economy & lowering the Republicans' chances to win the midterms. Jones & Maram Susli debate whether or not Trump can find an…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4386674/posts",
-      "bloc": "western",
-      "date": "2026-07-04",
-      "datetime": "2026-07-04T19:27:11Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ayalon criticizes US-Iran MoU as ‘massive surrender’ amid strained relations",
-      "summary": "Ayalon's critique highlights potential geopolitical instability and market uncertainty, questioning the MoU's effectiveness in achieving lasting peace.\nThe post Ayalon criticizes US-Iran MoU as ‘massive surrender’ amid strained relations appeared first on Cry…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/ayalon-criticizes-us-iran-mou-as-massive-surrender-amid-strained-relations/",
-      "bloc": "western",
-      "date": "2026-07-04",
-      "datetime": "2026-07-04T13:51:59Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Links 7/4/2026",
-      "summary": "Our rattled daily links: Record sea temps, China real estate sinks. yen crisis? >1 million Gaza deaths, Yemen threatens Saudis. grocery price emergency, Trump corruption details, quant emergency? retail dip-buying frenzy, America 250 ignorance, Cuba blackouts…",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/links-7-4-2026.html",
-      "bloc": "western",
-      "date": "2026-07-04",
-      "datetime": "2026-07-04T10:55:19Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -295,6 +295,31 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Kim Jong-un Oversees Strategic Missile Test From Destroyer Kang Kon",
+      "summary": "DPRK leader Kim Jong-un oversaw combat system tests of the destroyer Kang Kon, including the launch of a strategic cruise missile, KCNA reported.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260705-sputnik01.htm",
+      "bloc": "western",
+      "date": "2026-07-05",
+      "datetime": "2026-07-05T12:00:00Z",
+      "leaders": [
+        "Kim Jong-un"
+      ],
+      "watch_terms": [
+        "Kim Jong-un North"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "narcissism",
+        "survival"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

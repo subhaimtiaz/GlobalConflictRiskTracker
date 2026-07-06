@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-05T19:24:36.174Z",
+  "ts": "2026-07-06T03:56:38.526Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 72,
-    "oilStress": 8,
-    "updatedAt": "2026-07-05T19:24:36.174Z"
+    "oilStress": 7,
+    "updatedAt": "2026-07-06T03:56:38.526Z"
   },
   "items": [
+    {
+      "headline": "Middle Eastern Experts Warn That President Trump Has Walked Into A Globalist Trap In Iran",
+      "summary": "Alex Jones & Middle Eastern researcher Syrian Girl take a look at the Iran conflict that, 125 days in, is already destroying the world economy & lowering the Republicans' chances to win the midterms. Jones & Maram Susli debate whether or not Trump can find an…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4386674/posts",
+      "bloc": "western",
+      "date": "2026-07-04",
+      "datetime": "2026-07-04T19:27:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Ayalon criticizes US-Iran MoU as ‘massive surrender’ amid strained relations",
       "summary": "Ayalon's critique highlights potential geopolitical instability and market uncertainty, questioning the MoU's effectiveness in achieving lasting peace.\nThe post Ayalon criticizes US-Iran MoU as ‘massive surrender’ amid strained relations appeared first on Cry…",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-07-04",
       "datetime": "2026-07-04T07:55:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Fate of Gaza Strip eclipsed by Middle East war",
-      "summary": "The Gaza war was the spark that touched off years of Middle East conflict culminating in the U.S.-Israeli war with Iran, but as Washington and Tehran wrangle over terms for peace, the devastated territory's fate seems largely out of mind.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/fate-of-gaza-strip-eclipsed-by-middle-east-war-223983",
-      "bloc": "western",
-      "date": "2026-07-04",
-      "datetime": "2026-07-04T05:43:01Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -274,30 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US strikes Iran for second day: Is it a violation of war powers resolution?",
-      "summary": "Days after Congress tells Trump he needs to seek its approval or end Iran war, Trump returns to attacks. Is it legal?",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/28/us-strikes-iran-for-second-day-is-it-a-violation-of-war-powers-resolution",
-      "bloc": "regional",
-      "date": "2026-06-28",
-      "datetime": "2026-06-28T12:13:18Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Trump Iran war"
-      ],
-      "dimensions": [
-        "accountability",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Daily Geopolitical Review - 30/06/2026",
       "summary": "Edited by iEpikaira*\r\n\n Executive Summary\r\n\n Today's strategic landscape is characterized by a complex interplay of systemic competition, localized de-escalation efforts, and persistent regional tensions, all set against a backdrop of evolving technological a…",
       "source": "Blogspot.com",
@@ -393,31 +369,6 @@
         "values"
       ],
       "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Gulf states 'colder, harder and more transactional' under US-Iran deal",
-      "summary": "Before a flare-up in fighting over the weekend, the interim deal between the United States and Iran was giving the region something it badly needs, analysts say.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-06-29/gulf-states-under-the-us-iran-deal/106839790",
-      "bloc": "western",
-      "date": "2026-06-28",
-      "datetime": "2026-06-28T18:46:32Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

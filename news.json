@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-06T20:03:47.521Z",
+  "ts": "2026-07-07T03:46:48.255Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 72,
-    "oilStress": 8,
-    "updatedAt": "2026-07-06T20:03:47.521Z"
+    "oilStress": 9,
+    "updatedAt": "2026-07-07T03:46:48.255Z"
   },
   "items": [
+    {
+      "headline": "American Decline, Chinese Exposure | Sinification: June 2026",
+      "summary": "US-China & Taiwan | Middle East | Europe | Going Out | East Asia | Russia | Economy | Society & Local Governance | Tech & AI | Critical Minerals",
+      "source": "Sinocism.com",
+      "url": "https://sinocism.com/p/american-decline-chinese-exposure",
+      "bloc": "western",
+      "date": "2026-07-05",
+      "datetime": "2026-07-05T22:31:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "NATO Chief Faces Challenge At Summit As Trump Demands 'Loyalty' And Not Just Burden-Sharing",
       "summary": "Since he started work as NATO secretary-general almost two years ago, Mark Rutte has spent much of his time trying to keep the U.S. anchored to the world’s biggest military alliance.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-07-05",
       "datetime": "2026-07-05T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iranian Commander Warns U.S., Israel Against Attacks as Khamenei Funeral Preparations Underway",
-      "summary": "Iran Issues Warning to U.S. and Israel Ahead of Khamenei Funeral A senior Iranian commander has warned the United States and Israel against carrying out any attacks during the upcoming funeral processions for former Supreme Leader Ayatollah Ali Khamenei, who …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-05-iranian-commander-warns-against-attacks-khamenei-funeral.html",
-      "bloc": "western",
-      "date": "2026-07-05",
-      "datetime": "2026-07-05T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -374,32 +374,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Current price of oil as of June 29, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-06-29-2026/",
-      "bloc": "western",
-      "date": "2026-06-29",
-      "datetime": "2026-06-29T12:52:01Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Iranian Elites Are Not in Agreement About What to Do Next",
       "summary": "If the United States wants the cease-fire to last, it needs to take Tehran’s politics seriously.",
       "source": "Foreign Policy",
@@ -424,31 +398,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "With America in Retreat, Europe Now Depends on Ukraine",
-      "summary": "Europeans are gaming out their future defense, and it’s unthinkable without Kyiv.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/06/29/europe-nato-war-russia-ukraine-security-defense-trump-alliance-deterrence/",
-      "bloc": "western",
-      "date": "2026-06-29",
-      "datetime": "2026-06-29T14:11:18Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "How severe is Russia’s energy shortage because of Ukrainian strikes?",
       "summary": "Analysts say Russia's fuel crisis may affect its domestic economy, but the war in Ukraine will remain the priority.",
       "source": "Al Jazeera English",
@@ -456,75 +405,6 @@
       "bloc": "regional",
       "date": "2026-06-30",
       "datetime": "2026-06-30T16:31:28Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Indian BrahMos Cruise Missile Will Enhance UAE’s Standoff Capabilities",
-      "summary": "Lessons from the Iran war could influence future UAE military acquisitions, aside from its enduring diversification policy, which this prospective Indian deal reinforces.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/pauliddon/2026/06/29/indian-brahmos-cruise-missile-will-enhance-uaes-standoff-capabilities/",
-      "bloc": "western",
-      "date": "2026-06-29",
-      "datetime": "2026-06-29T12:09:54Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
-      "summary": "Russian president claims Ukraine, which has ramped up attacks on Russia's energy sector, proposed the limits.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes",
-      "bloc": "regional",
-      "date": "2026-06-29",
-      "datetime": "2026-06-29T09:58:08Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia's Fuel Troubles Expose Central Asia's Energy Dependence",
-      "summary": "Disruptions to Russia's energy sector due to its war with Ukraine are having a rippling effect throughout Central Asia, with fuel prices rising in the region and forcing governments to begin looking for alternative sources to keep their countries on the move.",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "url": "https://www.rferl.org/a/central-asia-gas-fuel-prices-russia-war/33791115.html",
-      "bloc": "western",
-      "date": "2026-06-29",
-      "datetime": "2026-06-29T09:47:44Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

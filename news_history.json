@@ -1,369 +1,8 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-06T20:02:42.368Z",
+  "updated": "2026-07-07T03:45:43.065Z",
   "retention_days": 30,
   "items": [
-    {
-      "headline": "Trump Says Things Are 'Going Quite Well' As U.S. Military Shoots Down Iranian Drones Launched Toward Strait Of Hormuz",
-      "summary": "The U.S. military says it shot down four Iranian drones that were launched toward the Strait of Hormuz on Friday and then struck some of the Islamic Republic’s coastal surveillance radar sites in response.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-us-trump_n_6a237f91e4b0423d0613a569",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T02:15:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-07T04:17:54.688Z",
-      "run_id": "2026-06-07T04:17"
-    },
-    {
-      "headline": "US intercepts Iranian drones and targets radar installations in Strait of Hormuz region",
-      "summary": "The US said it downed four Iranian drones near the Strait of Hormuz and struck radar sites, raising tensions as ceasefire and nuclear talks remain fragile.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/us-intercepts-iranian-drones-and-targets-radar-installations-in-strait-of-hormuz-region/article71068300.ece",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T01:48:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-07T04:17:54.688Z",
-      "run_id": "2026-06-07T04:17"
-    },
-    {
-      "headline": "US carries out another ‘defensive’ strike on Iranian island",
-      "summary": "The US Department of War has said it shot down several Iranian drones over the Strait of Hormuz and carried out strikes against Iran’s coastal installations to prevent a further threat.",
-      "source": "RT",
-      "url": "https://www.rt.com/news/641107-us-iran-qeshm-island-strike/",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T00:05:50Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-07T04:17:54.688Z",
-      "run_id": "2026-06-07T04:17"
-    },
-    {
-      "headline": "Several Lebanese soldiers killed in Israeli strike on military vehicle, army says",
-      "summary": "It comes just days after the two countries announced a conditional truce following talks in the US.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/several-lebanese-soldiers-killed-in-israeli-strike-on-military-vehicle-7062475-Jun2026/",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T08:22:13Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-07T09:20:00.293Z",
-      "run_id": "2026-06-07T09:20"
-    },
-    {
-      "headline": "US, Iran trade strikes despite visas for World Cup footballers",
-      "summary": "New attacks in the Middle East on Friday threatened to unravel an already fragile U.S.-Iran ceasefire, even as American officials confirmed that Tehran's football players had received visas for the World Cup.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/us-iran-trade-strikes-despite-visas-for-world-cup-footballers-222950",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T06:42:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-07T09:20:00.293Z",
-      "run_id": "2026-06-07T09:20"
-    },
-    {
-      "headline": "US and Iran trade strikes in latest test of already fragile ceasefire",
-      "summary": "US Central Command said Iran launched seven ballistic missiles toward Kuwait and Bahrain.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/us-and-iran-trade-strikes-in-latest-test-of-already-fragile-ceasefire-7062444-Jun2026/",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T06:26:38Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-07T09:20:00.293Z",
-      "run_id": "2026-06-07T09:20"
-    },
-    {
-      "headline": "Iran World Cup squad heads to Mexico as US visa row erupts",
-      "summary": "Iran has accused the United States of \"political interference in sport\" after visa denials for some of its World Cup support staff. The Iranian embassy in Turkey stated that a \"large\" number of managerial and executive staff were denied entry, escalating disc…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/sports/iran-world-cup-squad-heads-to-mexico-as-us-visa-row-erupts/articleshow/131552266.cms",
-      "bloc": "regional",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T12:46:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-07T14:02:11.613Z",
-      "run_id": "2026-06-07T14:02"
-    },
-    {
-      "headline": "Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts",
-      "summary": "Iranian officials say a 'large' number of key staff have been denied visas as the team is set to travel to Mexico.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/sports/2026/6/6/iran-2026-world-cup-squad-heads-to-mexico-as-us-visa-dispute-erupts",
-      "bloc": "regional",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T12:01:32Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-07T14:02:11.613Z",
-      "run_id": "2026-06-07T14:02"
-    },
-    {
-      "headline": "Lebanese army colonel, troops killed in Israeli air raid despite ceasefire",
-      "summary": "The Lebanese army says several soldiers, including a senior officer, have been killed in an Israeli airstrike that targeted a military vehicle in southern Lebanon, despite a renewed ceasefire agreement.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260606-presstv08.htm",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-07T14:02:11.613Z",
-      "run_id": "2026-06-07T14:02"
-    },
-    {
-      "headline": "Pakistan's interior minister to visit Tehran to push US-Iran mediation efforts",
-      "summary": "Pakistan's Interior Minister is scheduled to travel to Iran as part of ongoing diplomatic consultations to mediate between Tehran and Washington aimed at permanently ending the war US-Israeli war of aggression against the Islamic Republic.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260606-presstv05.htm",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-07T14:02:11.613Z",
-      "run_id": "2026-06-07T14:02"
-    },
-    {
-      "headline": "Trump must break negotiation deadlock, says adviser to Iranian supreme leader",
-      "summary": "A senior adviser to Iran's supreme leader has called on U.S. President Donald Trump to make decisions independently of Israel, stop the blockade in the Strait of Hormuz, and release Iran's frozen assets.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260606-pdo01.htm",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T11:37:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-07T14:02:11.613Z",
-      "run_id": "2026-06-07T14:02"
-    },
-    {
-      "headline": "Ukraine sends 400+ drones into Russia, hitting naval base and refinery",
-      "summary": "Ukraine launched one of its largest drone offensives of the war overnight into June 6, sending more than 400 unmanned aircraft deep into Russian territory and striking targets that included a naval weapons depot near Saint Petersburg, an oil refinery in Siber…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4382551/posts",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T09:46:02Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-07T14:02:11.613Z",
-      "run_id": "2026-06-07T14:02"
-    },
-    {
-      "headline": "Iran Fires Ballistic Missiles, Drones at Arab States as Conflict Approaches 100-Day Mark",
-      "summary": "Reuters: \"Iran’s Revolutionary Guard Corps said it had attacked U.S. bases in Kuwait and Bahrain in retaliation for U.S. strikes and fired at four tankers trying to cross the strait without its permission.\" \nThe post Iran Fires Ballistic Missiles, Drones at A…",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/06/iran-fires-ballistic-missiles-drones-at-arab-states-as-conflict-approaches-100-day-mark/",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T18:00:31Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-07T19:38:25.068Z",
-      "run_id": "2026-06-07T19:38"
-    },
     {
       "headline": "Israeli Airstrikes Kill 9 Including Lebanese Army Officers After Ceasefire Deal",
       "summary": "Israeli airstrikes on southern Lebanon on Saturday killed nine people, including three Lebanese military members, according to the Lebanese army and state media.",
@@ -415,34 +54,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-06-08T04:22:37.369Z",
-      "run_id": "2026-06-08T04:22"
-    },
-    {
-      "headline": "Iran World Cup team heads to Mexico as US visa row rages",
-      "summary": "Iran’s World Cup squad travels to Mexico under the shadow of a US visa dispute, with some support staff denied entry. The diplomatic row escalates ahead of\n\nRead More: https://punchng.com/iran-world-cup-team-heads-to-mexico-as-us-visa-row-rages/",
-      "source": "The Punch",
-      "url": "https://punchng.com/iran-world-cup-team-heads-to-mexico-as-us-visa-row-rages/",
-      "bloc": "western",
-      "date": "2026-06-06",
-      "datetime": "2026-06-06T22:53:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi",
       "first_seen": "2026-06-08T04:22:37.369Z",
@@ -15390,7 +15001,35 @@
       "_from": "newsapi",
       "first_seen": "2026-07-06T15:40:52.254Z",
       "run_id": "2026-07-06T15:40"
+    },
+    {
+      "headline": "American Decline, Chinese Exposure | Sinification: June 2026",
+      "summary": "US-China & Taiwan | Middle East | Europe | Going Out | East Asia | Russia | Economy | Society & Local Governance | Tech & AI | Critical Minerals",
+      "source": "Sinocism.com",
+      "url": "https://sinocism.com/p/american-decline-chinese-exposure",
+      "bloc": "western",
+      "date": "2026-07-05",
+      "datetime": "2026-07-05T22:31:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-07T03:45:43.065Z",
+      "run_id": "2026-07-07T03:45"
     }
   ],
-  "total_items_ever": 2332
+  "total_items_ever": 2333
 }

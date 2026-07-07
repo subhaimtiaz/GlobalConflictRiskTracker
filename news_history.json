@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-07T03:45:43.065Z",
+  "updated": "2026-07-07T09:49:07.245Z",
   "retention_days": 30,
   "items": [
     {
@@ -15029,7 +15029,116 @@
       "_from": "newsapi",
       "first_seen": "2026-07-07T03:45:43.065Z",
       "run_id": "2026-07-07T03:45"
+    },
+    {
+      "headline": "Mourners Throng Funeral Procession In Tehran For Iran's Supreme Leader Ayatollah Ali Khamenei",
+      "summary": "The massive turnout, encouraged by Iran's theocracy as a sign of strength, came as it negotiates with the U.S. over a permanent end to the war.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-us-khamenei-funeral_n_6a4b688ce4b0a7adb6d6437a",
+      "bloc": "western",
+      "date": "2026-07-06",
+      "datetime": "2026-07-06T08:44:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-07T09:49:07.245Z",
+      "run_id": "2026-07-07T09:49"
+    },
+    {
+      "headline": "Khamenei funeral procession begins in Tehran as huge crowds expected",
+      "summary": "The funeral procession for Iran’s late supreme leader Ali Khamenei began in Tehran on Monday, state television reported, as authorities prepared for crowds that could rival those that turned out for his predecessor nearly four decades ago. The ceremonies offe…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/khamenei-funeral-procession-begins-in-tehran-as-huge-crowds-expected/",
+      "bloc": "western",
+      "date": "2026-07-06",
+      "datetime": "2026-07-06T08:13:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-07T09:49:07.245Z",
+      "run_id": "2026-07-07T09:49"
+    },
+    {
+      "headline": "Iran Tightens Grip on Strait of Hormuz Tanker Traffic",
+      "summary": "Iran’s joint military command warned on Thursday that all oil tankers transiting the Strait of Hormuz must use routes approved by Tehran or face an “immediate and forceful response,” according to a statement carried by Iranian state media. The warning also ca…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-06-iran-tightens-grip-strait-of-hormuz-traffic.html",
+      "bloc": "western",
+      "date": "2026-07-06",
+      "datetime": "2026-07-06T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-07T09:49:07.245Z",
+      "run_id": "2026-07-07T09:49"
+    },
+    {
+      "headline": "Putin unleashes hell on Kyiv with 'evil' drone strikes - as Trump threatens Nato over defence ahead of key alliance summit",
+      "summary": "At least eight people were killed in Kyiv and the surrounding region with multiple residential buildings hit in the capital city where dozens were injured.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15955567/Putin-unleashes-hell-Kyiv-evil-drone-strikes-Trump-threatens-Nato-defence-ahead-key-alliance-summit.html",
+      "bloc": "western",
+      "date": "2026-07-06",
+      "datetime": "2026-07-06T06:49:21Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-07T09:49:07.245Z",
+      "run_id": "2026-07-07T09:49"
     }
   ],
-  "total_items_ever": 2333
+  "total_items_ever": 2337
 }

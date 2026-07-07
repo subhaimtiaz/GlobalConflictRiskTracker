@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-07T03:46:48.255Z",
+  "ts": "2026-07-07T09:50:12.523Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 72,
-    "oilStress": 9,
-    "updatedAt": "2026-07-07T03:46:48.255Z"
+    "oilPrice": 73,
+    "oilStress": 10,
+    "updatedAt": "2026-07-07T09:50:12.523Z"
   },
   "items": [
+    {
+      "headline": "Mourners Throng Funeral Procession In Tehran For Iran's Supreme Leader Ayatollah Ali Khamenei",
+      "summary": "The massive turnout, encouraged by Iran's theocracy as a sign of strength, came as it negotiates with the U.S. over a permanent end to the war.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-us-khamenei-funeral_n_6a4b688ce4b0a7adb6d6437a",
+      "bloc": "western",
+      "date": "2026-07-06",
+      "datetime": "2026-07-06T08:44:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Khamenei funeral procession begins in Tehran as huge crowds expected",
+      "summary": "The funeral procession for Iran’s late supreme leader Ali Khamenei began in Tehran on Monday, state television reported, as authorities prepared for crowds that could rival those that turned out for his predecessor nearly four decades ago. The ceremonies offe…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/khamenei-funeral-procession-begins-in-tehran-as-huge-crowds-expected/",
+      "bloc": "western",
+      "date": "2026-07-06",
+      "datetime": "2026-07-06T08:13:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "American Decline, Chinese Exposure | Sinification: June 2026",
       "summary": "US-China & Taiwan | Middle East | Europe | Going Out | East Asia | Russia | Economy | Society & Local Governance | Tech & AI | Critical Minerals",
@@ -92,54 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US 'defeated' as Iran MoU forces recognition of resistance allies: Qalibaf",
-      "summary": "Iranian Parliament Speaker Mohammad Baqer Qalibaf has declared that the United States and Israel were compelled to \"practically\" acknowledge Iran's regional allies under the terms of a recent memorandum of understanding, describing the agreement as a \"defeat\"…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260705-presstv01.htm",
+      "headline": "Iran Tightens Grip on Strait of Hormuz Tanker Traffic",
+      "summary": "Iran’s joint military command warned on Thursday that all oil tankers transiting the Strait of Hormuz must use routes approved by Tehran or face an “immediate and forceful response,” according to a statement carried by Iranian state media. The warning also ca…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-06-iran-tightens-grip-strait-of-hormuz-traffic.html",
       "bloc": "western",
-      "date": "2026-07-05",
-      "datetime": "2026-07-05T12:00:00Z",
+      "date": "2026-07-06",
+      "datetime": "2026-07-06T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israel confirms it deployed Iron Dome to UAE amid war on Iran",
-      "summary": "An Israeli cabinet member has confirmed that the Iron Dome battery was deployed to the United Arab Emirates during the US-Israeli war of aggression against Iran.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260705-presstv05.htm",
-      "bloc": "western",
-      "date": "2026-07-05",
-      "datetime": "2026-07-05T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -229,32 +255,6 @@
       "bloc": "western",
       "date": "2026-07-02",
       "datetime": "2026-07-02T09:42:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Crude Extends Losses on Glut Fears",
-      "summary": "Oil prices fell as recovering Strait of Hormuz traffic and rising global supplies reinforced expectations of an oversupplied market.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/crude_extends_losses_on_glut_fears-01-jul-2026-184038-article/",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T19:54:31Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -394,6 +394,29 @@
       "variable_key": "iranRegimeCohesion",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Putin unleashes hell on Kyiv with 'evil' drone strikes - as Trump threatens Nato over defence ahead of key alliance summit",
+      "summary": "At least eight people were killed in Kyiv and the surrounding region with multiple residential buildings hit in the capital city where dozens were injured.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15955567/Putin-unleashes-hell-Kyiv-evil-drone-strikes-Trump-threatens-Nato-defence-ahead-key-alliance-summit.html",
+      "bloc": "western",
+      "date": "2026-07-06",
+      "datetime": "2026-07-06T06:49:21Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

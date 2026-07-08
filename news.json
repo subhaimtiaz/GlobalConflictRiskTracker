@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-08T08:35:57.252Z",
+  "ts": "2026-07-08T14:23:46.553Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 78,
-    "oilStress": 17,
-    "updatedAt": "2026-07-08T08:35:57.252Z"
+    "oilPrice": 79,
+    "oilStress": 19,
+    "updatedAt": "2026-07-08T14:23:46.553Z"
   },
   "items": [
+    {
+      "headline": "Iran conflict disrupts global shipping as Strait of Hormuz remains closed",
+      "summary": "The prolonged closure of the Strait of Hormuz could lead to sustained global shipping disruptions, impacting oil prices and economic stability.\nThe post Iran conflict disrupts global shipping as Strait of Hormuz remains closed appeared first on Crypto Briefin…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-conflict-disrupts-global-shipping-as-strait-of-hormuz-remains-closed/",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T08:46:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Active, Articulated Silence: European Union’s Response to the War in Iran",
       "summary": "[Mohammadhossein Sedehi is a DPhil student in international law at the University of Oxford, St Edmund Hall] Everything cannot be said, therefore, silence is part of speech (Ortega y Gasset 1957, p. 246) On the morning of 28th of February 2026, the United Sta…",
@@ -92,53 +118,79 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Ημερήσια Γεωπολιτική Επισκόπηση - 06/07/2026",
-      "summary": "Edited by iEpikaira*\r\n[Σημ.: Η ανάλυση παρατίθεται παρακάτω και στα ελληνικά.]\r\n\n\n \n \n Executive Summary\r\n\n Global geopolitical dynamics on 06/07/2026 are characterized by persistent regional conflicts, intensifying great power competition, and divergent nati…",
-      "source": "Blogspot.com",
-      "url": "https://i-epikaira.blogspot.com/2026/07/06072026.html",
-      "bloc": "western",
-      "date": "2026-07-06",
-      "datetime": "2026-07-06T19:09:24Z",
+      "headline": "Ships attacked in the Strait of Hormuz: What that means for ongoing talks",
+      "summary": "While marine traffic in Hormuz has steadily risen, vague provisions on the strait remain contentious in peace talks.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/7/ships-attacked-in-the-strait-of-hormuz-what-that-means-for-ongoing-talks",
+      "bloc": "regional",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T12:19:42Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Tanker Reports Incoming Projectile, Causing Fire, Near Oman Coast",
+      "summary": "United Kingdom Maritime Trade Operations (UKMTO), a shipping security monitor, said late on July 6 that it had received a report of a tanker being hit by an unknown projectile off the coast of Oman, causing a fire.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260707-rferl01.htm",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T11:50:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Trump warns US can eliminate Iran power grid if no deal reached",
-      "summary": "Heightened tensions and market skepticism suggest increased risk of military escalation, potentially undermining diplomatic resolutions.\nThe post Trump warns US can eliminate Iran power grid if no deal reached appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-warns-us-can-eliminate-iran-power-grid-if-no-deal-reached/",
+      "headline": "Iran War: Expected Hardening of Iran Posture in Wake of Funerals for US-Israel War Martyrs; Iran Hits Two Tankers Transiting on Oman Side; China Buying Non-Iran Gulf State Oil, Opposes Iran Control Plans; Yet More on Oil Price Anomalies as Crack Spreads Widen Further",
+      "summary": "Today's Iran war news: Why the conflict is set to become more acute, with mid-August a potential crisis window.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-expected-hardening-of-iran-posture-in-wake-of-funerals-for-us-israel-war-martyrs-iran-hits-two-tankers-transiting-on-oman-side-china-buying-non-iran-gulf-state-oil-opposes-iran-control-pl.html",
       "bloc": "western",
-      "date": "2026-07-06",
-      "datetime": "2026-07-06T16:31:47Z",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T10:58:38Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -177,84 +229,6 @@
       "bloc": "western",
       "date": "2026-07-07",
       "datetime": "2026-07-07T05:51:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil tanker hit by 'projectile' near Strait of Hormuz",
-      "summary": "An \"unknown projectile\" has struck and caused a fire on an oil tanker off the coast of Oman near the Strait of Hormuz, British maritime security agency UKMTO has said.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/2026/0707/1582110-hormuz-projectile/",
-      "bloc": "western",
-      "date": "2026-07-07",
-      "datetime": "2026-07-07T00:59:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The ‘navalization’ of economic warfare sees trade routes become zones of force rather than rules",
-      "summary": "With the declining power of financial sanctions, many countries are now physically boarding ships to enforce scattershot rules of trade, conflict and commerce.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/the-navalization-of-economic-warfare-sees-trade-routes-become-zones-of-force-rather-than-rules-286057",
-      "bloc": "western",
-      "date": "2026-07-06",
-      "datetime": "2026-07-06T12:07:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "10 Japan-Linked Ships Exiting Gulf After Being Stranded For Months",
-      "summary": "Ten Japan-linked vessels have been transiting the Strait of Hormuz on July 6 as they leave the Persian Gulf, according to shipping and vessel-tracking data from the London Stock Exchange Group.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260706-rferl05.htm",
-      "bloc": "western",
-      "date": "2026-07-06",
-      "datetime": "2026-07-06T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

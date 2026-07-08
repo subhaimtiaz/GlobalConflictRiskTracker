@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-08T14:23:46.553Z",
+  "ts": "2026-07-08T19:38:58.371Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 79,
-    "oilStress": 19,
-    "updatedAt": "2026-07-08T14:23:46.553Z"
+    "oilPrice": 78,
+    "oilStress": 18,
+    "updatedAt": "2026-07-08T19:38:58.371Z"
   },
   "items": [
+    {
+      "headline": "How drones transformed Iran's Axis of Resistance militias in Lebanon, Gaza, Yemen and Iraq",
+      "summary": "Drone production, technology transfer and training have enabled Iran's regional allies to operate with far greater independence. Has this network become too resilient to be dismantled through military strikes?",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/how-drones-transformed-irans-axis-of-resistance-militias-in-lebanon-gaza-yemen-and-iraq/a-77864220",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T18:18:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How drones transformed Iran's relationships with its proxies",
+      "summary": "Drone production, technology transfer and training have enabled Iran's regional allies to operate with far greater independence. Has this network become too resilient to be dismantled through military strikes?",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/iran-war-drones-hamas-houthis-yemen-strait-of-hormuz-hezbollah/a-77864220",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T18:18:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran conflict disrupts global shipping as Strait of Hormuz remains closed",
       "summary": "The prolonged closure of the Strait of Hormuz could lead to sustained global shipping disruptions, impacting oil prices and economic stability.\nThe post Iran conflict disrupts global shipping as Strait of Hormuz remains closed appeared first on Crypto Briefin…",
@@ -47,58 +99,6 @@
       "bloc": "western",
       "date": "2026-07-07",
       "datetime": "2026-07-07T08:00:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "With Iran firing rockets, Trump uses a smart approach to deal with them UPDATE",
-      "summary": "By Andrea WidburgI still wish he’d drop a few bombs on bridges, but he’s got a lot of balls in the air, and amending his negotiating posture is a good way to handle things.",
-      "source": "Americanthinker.com",
-      "url": "https://www.americanthinker.com/blog/2026/07/with-iran-firing-rockets-trump-uses-a-smart-approach-to-deal-with-them/",
-      "bloc": "western",
-      "date": "2026-07-07",
-      "datetime": "2026-07-07T04:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom",
-      "summary": "Ayatollah Ali Khamenei’s body arrives in Qom as millions of mourners honour his leadership over past three days.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/6/body-of-irans-slain-supreme-leader-ali-khamenei-arrives-in-qom",
-      "bloc": "regional",
-      "date": "2026-07-06",
-      "datetime": "2026-07-06T19:56:09Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -415,6 +415,28 @@
       "variable_key": null,
       "event_type": "infrastructure_attack",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Show HN: Brief: a news reader that condenses ~140k daily articles to few stories",
+      "summary": "Article URL: https://briefnews.co/\nComments URL: https://news.ycombinator.com/item?id=48822209\nPoints: 2\n# Comments: 0",
+      "source": "Briefnews.co",
+      "url": "https://briefnews.co/",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T19:08:11Z",
+      "leaders": [],
+      "watch_terms": [
+        "airstrike missile drone"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "survival"
+      ],
+      "variable_key": null,
+      "event_type": "regional_strike",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     }

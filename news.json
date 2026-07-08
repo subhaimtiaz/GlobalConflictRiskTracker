@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-07T20:01:55.048Z",
+  "ts": "2026-07-08T03:15:26.547Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 76,
     "oilStress": 14,
-    "updatedAt": "2026-07-07T20:01:55.048Z"
+    "updatedAt": "2026-07-08T03:15:26.547Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Oil tanker hit by 'projectile' near Strait of Hormuz",
+      "summary": "An \"unknown projectile\" has struck and caused a fire on an oil tanker off the coast of Oman near the Strait of Hormuz, British maritime security agency UKMTO has said.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/2026/0707/1582110-hormuz-projectile/",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T00:59:37Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The ‘navalization’ of economic warfare sees trade routes become zones of force rather than rules",
       "summary": "With the declining power of financial sanctions, many countries are now physically boarding ships to enforce scattershot rules of trade, conflict and commerce.",
       "source": "The Conversation Africa",
@@ -248,57 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "‘We are pawns’: Indian sea captain fears for other seafarers still stuck in Persian Gulf",
-      "summary": "An Indian sea captain who was stuck on an oil tanker in the Persian Gulf for more than two months as the U.S. and Israel-Iran war raged says thousands of mariners are still at risk and don’t get the recognition they deserve.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/seafarers-stranded-persian-gulf-9.7256255",
-      "bloc": "western",
-      "date": "2026-07-03",
-      "datetime": "2026-07-03T08:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Daily Geopolitical Review - 30/06/2026",
-      "summary": "Edited by iEpikaira*\r\n\n Executive Summary\r\n\n Today's strategic landscape is characterized by a complex interplay of systemic competition, localized de-escalation efforts, and persistent regional tensions, all set against a backdrop of evolving technological a…",
-      "source": "Blogspot.com",
-      "url": "https://i-epikaira.blogspot.com/2026/06/daily-geopolitical-review-30062026.html",
-      "bloc": "western",
-      "date": "2026-06-30",
-      "datetime": "2026-06-30T11:44:11Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Kim Jong-un Oversees Strategic Missile Test From Destroyer Kang Kon",
       "summary": "DPRK leader Kim Jong-un oversaw combat system tests of the destroyer Kang Kon, including the launch of a strategic cruise missile, KCNA reported.",
       "source": "Globalsecurity.org",
@@ -374,32 +349,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Why a Supply Crunch From Iran Could Send Oil Back Below $40 a Barrel",
-      "summary": "There have recently been many warnings about near-term oil shortages stemming from the conflict in Iran. Most analysts assume that shortages mean higher prices. As I will explain, the dynamics of a self-organizing economy suggest the opposite outcome — lower …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Oil-Prices/Why-a-Supply-Crunch-From-Iran-Could-Send-Oil-Back-Below-40-a-Barrel.html",
-      "bloc": "western",
-      "date": "2026-06-30",
-      "datetime": "2026-06-30T21:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "American Decline, Chinese Exposure | Sinification: June 2026",
       "summary": "US-China & Taiwan | Middle East | Europe | Going Out | East Asia | Russia | Economy | Society & Local Governance | Tech & AI | Critical Minerals",
       "source": "Sinocism.com",
@@ -419,30 +368,6 @@
         "survival"
       ],
       "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iranian Elites Are Not in Agreement About What to Do Next",
-      "summary": "If the United States wants the cease-fire to last, it needs to take Tehran’s politics seriously.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/06/30/iranian-elites-debate-sanctions/",
-      "bloc": "western",
-      "date": "2026-06-30",
-      "datetime": "2026-06-30T11:37:41Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran IRGC regime"
-      ],
-      "dimensions": [
-        "survival",
-        "accountability"
-      ],
-      "variable_key": "iranRegimeCohesion",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
@@ -479,29 +404,6 @@
       "bloc": "western",
       "date": "2026-07-06",
       "datetime": "2026-07-06T06:49:21Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How severe is Russia’s energy shortage because of Ukrainian strikes?",
-      "summary": "Analysts say Russia's fuel crisis may affect its domestic economy, but the war in Ukraine will remain the priority.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/30/how-severe-is-russias-energy-shortage-because-of-ukrainian-strikes",
-      "bloc": "regional",
-      "date": "2026-06-30",
-      "datetime": "2026-06-30T16:31:28Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

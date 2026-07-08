@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-08T03:15:26.547Z",
+  "ts": "2026-07-08T08:35:57.252Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 76,
-    "oilStress": 14,
-    "updatedAt": "2026-07-08T03:15:26.547Z"
+    "oilPrice": 78,
+    "oilStress": 17,
+    "updatedAt": "2026-07-08T08:35:57.252Z"
   },
   "items": [
+    {
+      "headline": "Active, Articulated Silence: European Union’s Response to the War in Iran",
+      "summary": "[Mohammadhossein Sedehi is a DPhil student in international law at the University of Oxford, St Edmund Hall] Everything cannot be said, therefore, silence is part of speech (Ortega y Gasset 1957, p. 246) On the morning of 28th of February 2026, the United Sta…",
+      "source": "Opiniojuris.org",
+      "url": "http://opiniojuris.org/2026/07/07/active-articulated-silence-european-unions-response-to-the-war-in-iran/",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T08:00:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "With Iran firing rockets, Trump uses a smart approach to deal with them UPDATE",
+      "summary": "By Andrea WidburgI still wish he’d drop a few bombs on bridges, but he’s got a lot of balls in the air, and amending his negotiating posture is a good way to handle things.",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/07/with-iran-firing-rockets-trump-uses-a-smart-approach-to-deal-with-them/",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T04:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom",
       "summary": "Ayatollah Ali Khamenei’s body arrives in Qom as millions of mourners honour his leadership over past three days.",
@@ -92,54 +144,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump’s weekend war approach to Iran might never end",
-      "summary": "Last weekend's burst of violence might be a preview of a long-term low-boil war with Iran",
-      "source": "Salon",
-      "url": "https://www.salon.com/2026/07/06/trumps-weekend-war-approach-to-iran-might-never-end/",
+      "headline": "MRPL first state refiner to charter Iraqi crude cargo since Hormuz blockade",
+      "summary": "MRPL has booked the Aframax tanker Jasmin Joy to load ​crude from Iraq's ‌Basrah oil terminal on July 19-20, the sources said.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/mrpl-first-state-refiner-to-charter-iraqi-crude-cargo-since-hormuz-blockade/article71192337.ece",
       "bloc": "western",
-      "date": "2026-07-06",
-      "datetime": "2026-07-06T15:02:54Z",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T05:54:48Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Fresh Israeli attacks kill at least 6 in Gaza amid continued ceasefire violations",
-      "summary": "A series of new Israeli air attacks on the besieged Gaza Strip have killed at least six Palestinians and wounded more than 20 amid relentless ceasefire violations by the occupying entity.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260706-presstv02.htm",
+      "headline": "Oil tanker hit by 'unknown projectile' in Strait of Hormuz region",
+      "summary": "There were no reports of casualties or environmental damage.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/oil-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-region-7093726-Jul2026/",
       "bloc": "western",
-      "date": "2026-07-06",
-      "datetime": "2026-07-06T12:00:00Z",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T05:51:03Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,58 +255,6 @@
       "bloc": "western",
       "date": "2026-07-06",
       "datetime": "2026-07-06T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Iran Stance Hardening in Connection with Funerals for Supreme Leader and Other Martyrs; Strait of Hormuz Dominance Struggle Continues; More on Oil Price Anomalies",
-      "summary": "Today's Iran war update: Why things are not as quiet as they might seem.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-iran-stance-hardening-in-connection-with-funerals-for-supreme-leader-and-other-martyrs-strait-of-hormuz-dominance-struggle-continues-more-on-oil-price-anomalies.html",
-      "bloc": "western",
-      "date": "2026-07-06",
-      "datetime": "2026-07-06T10:53:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Tightens Grip on Strait of Hormuz Tanker Traffic",
-      "summary": "Iran’s joint military command warned on Thursday that all oil tankers transiting the Strait of Hormuz must use routes approved by Tehran or face an “immediate and forceful response,” according to a statement carried by Iranian state media. The warning also ca…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-06-iran-tightens-grip-strait-of-hormuz-traffic.html",
-      "bloc": "western",
-      "date": "2026-07-06",
-      "datetime": "2026-07-06T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -370,6 +370,31 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US leads international concern after China test-fires missile into Pacific",
+      "summary": "The United States voiced alarm on July 6 over Beijing's nuclear program after China test-fired a purported long-range missile into the Pacific Ocean, the latest move in its rapid military modernization.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-leads-international-concern-after-china-test-fires-missile-into-pacific-224076",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T05:31:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

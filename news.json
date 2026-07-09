@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-08T19:38:58.371Z",
+  "ts": "2026-07-09T03:39:24.071Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,115 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 78,
-    "oilStress": 18,
-    "updatedAt": "2026-07-08T19:38:58.371Z"
+    "oilPrice": 79,
+    "oilStress": 19,
+    "updatedAt": "2026-07-09T03:39:24.071Z"
   },
   "items": [
+    {
+      "headline": "US-Iran conflict reshapes Africa’s energy strategy amid Hormuz disruptions",
+      "summary": "Africa's shift towards renewables amid rising import costs may redefine its global alliances, potentially influencing future US-Iran negotiations.\nThe post US-Iran conflict reshapes Africa’s energy strategy amid Hormuz disruptions appeared first on Crypto Bri…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-iran-conflict-reshapes-africas-energy-strategy-amid-hormuz-disruptions/",
+      "bloc": "western",
+      "date": "2026-07-08",
+      "datetime": "2026-07-08T01:25:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Netanyahu claims Iran has chemical weapons amid stalled 2026 peace talks",
+      "summary": "Netanyahu's claims may heighten regional tensions, complicating stalled peace talks and reducing prospects for a US-Iran diplomatic resolution.\nThe post Netanyahu claims Iran has chemical weapons amid stalled 2026 peace talks appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/netanyahu-claims-iran-has-chemical-weapons-amid-stalled-2026-peace-talks/",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T23:39:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran vows dual revenge for Khamenei’s assassination amid 2026 war escalation",
+      "summary": "Iran's vow for dual revenge signals potential for prolonged conflict, impacting regional stability and global market confidence in leadership.\nThe post Iran vows dual revenge for Khamenei’s assassination amid 2026 war escalation appeared first on Crypto Brief…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-vows-dual-revenge-for-khameneis-assassination-amid-2026-war-escalation/",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T22:30:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. Launches New Strikes Against Iranian Targets",
+      "summary": "The U.S. military launched a series of strikes against Iranian targets early Wednesday after three merchant ships were struck in the waters off Oman.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-us-strikes_n_6a4d701de4b0a7adb6d813b2",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T21:35:26Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "How drones transformed Iran's Axis of Resistance militias in Lebanon, Gaza, Yemen and Iraq",
       "summary": "Drone production, technology transfer and training have enabled Iran's regional allies to operate with far greater independence. Has this network become too resilient to be dismantled through military strikes?",
@@ -36,84 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How drones transformed Iran's relationships with its proxies",
-      "summary": "Drone production, technology transfer and training have enabled Iran's regional allies to operate with far greater independence. Has this network become too resilient to be dismantled through military strikes?",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/iran-war-drones-hamas-houthis-yemen-strait-of-hormuz-hezbollah/a-77864220",
-      "bloc": "western",
-      "date": "2026-07-07",
-      "datetime": "2026-07-07T18:18:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran conflict disrupts global shipping as Strait of Hormuz remains closed",
-      "summary": "The prolonged closure of the Strait of Hormuz could lead to sustained global shipping disruptions, impacting oil prices and economic stability.\nThe post Iran conflict disrupts global shipping as Strait of Hormuz remains closed appeared first on Crypto Briefin…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-conflict-disrupts-global-shipping-as-strait-of-hormuz-remains-closed/",
-      "bloc": "western",
-      "date": "2026-07-07",
-      "datetime": "2026-07-07T08:46:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Active, Articulated Silence: European Union’s Response to the War in Iran",
-      "summary": "[Mohammadhossein Sedehi is a DPhil student in international law at the University of Oxford, St Edmund Hall] Everything cannot be said, therefore, silence is part of speech (Ortega y Gasset 1957, p. 246) On the morning of 28th of February 2026, the United Sta…",
-      "source": "Opiniojuris.org",
-      "url": "http://opiniojuris.org/2026/07/07/active-articulated-silence-european-unions-response-to-the-war-in-iran/",
-      "bloc": "western",
-      "date": "2026-07-07",
-      "datetime": "2026-07-07T08:00:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -222,32 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil tanker hit by 'unknown projectile' in Strait of Hormuz region",
-      "summary": "There were no reports of casualties or environmental damage.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/oil-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-region-7093726-Jul2026/",
-      "bloc": "western",
-      "date": "2026-07-07",
-      "datetime": "2026-07-07T05:51:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Kim Jong-un Oversees Strategic Missile Test From Destroyer Kang Kon",
       "summary": "DPRK leader Kim Jong-un oversaw combat system tests of the destroyer Kang Kon, including the launch of a strategic cruise missile, KCNA reported.",
       "source": "Globalsecurity.org",
@@ -273,6 +273,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The Myth of Chinese Birth Tourism",
+      "summary": "The United States has recast a small industry as a national security threat.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/07/07/china-us-birth-tourism-immigration-citizenship/",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T21:14:09Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Reckoning With the Evolving China-Russia Threat",
       "summary": "Don't underestimate the China-Russia partnership; Beijing and Moscow have already cooperated in ways that seemed unthinkable not long ago.",
       "source": "The Diplomat",
@@ -293,6 +317,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Next Oil Price Spike Could Come Sooner Than Traders Think",
+      "summary": "Oil prices have dropped back to pre-war levels since the United States and Iran agreed to negotiate a deal under a framework that included the reopening of the Strait of Hormuz. With oil flows out of the Middle East starting to return to the market, analysts,…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/The-Next-Oil-Price-Spike-Could-Come-Sooner-Than-Traders-Think.html",
+      "bloc": "western",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T23:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-09T15:18:22.058Z",
+  "ts": "2026-07-09T19:52:20.075Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,19 +8,71 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 77,
-    "oilStress": 16,
-    "updatedAt": "2026-07-09T15:18:22.058Z"
+    "oilPrice": 76,
+    "oilStress": 14,
+    "updatedAt": "2026-07-09T19:52:20.075Z"
   },
   "items": [
     {
-      "headline": "US-Iran conflict escalates as ceasefire collapses in 2026 Iran War",
-      "summary": "The collapse of the ceasefire exacerbates regional instability, complicating diplomatic efforts and impacting global markets and oil supply.\nThe post US-Iran conflict escalates as ceasefire collapses in 2026 Iran War appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-conflict-escalates-as-ceasefire-collapses-in-2026-iran-war/",
+      "headline": "Trump Says US May Strike Iran Again, Threatens New Blockade",
+      "summary": "Trump spoke hours after the U.S. launched strikes on Iran, with almost 40 fighter jets hitting targets with precision-guided weapons.",
+      "source": "Military.com",
+      "url": "https://military.com/trump-says-us-may-strike-iran-again-threatens-new-blockade",
       "bloc": "western",
       "date": "2026-07-08",
-      "datetime": "2026-07-08T15:10:23Z",
+      "datetime": "2026-07-08T19:45:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Five key takeaways from the NATO summit in Ankara",
+      "summary": "Trump dominates summit with anti-Europe and Iran diatribes as NATO pledges to expand defence budgets and Ukraine support",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara",
+      "bloc": "regional",
+      "date": "2026-07-08",
+      "datetime": "2026-07-08T19:06:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran’s ‘golden weapon’ of Strait of Hormuz became a greater priority than its nuclear program — here’s how",
+      "summary": "\"Recognize the new Iranian order in the Strait of Hormuz: this is the only way forward,\" wrote Ebrahim Azizi, a member of the Iranian parliament's national ​security and foreign policy committee on social media, addressing the US.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/08/world-news/irans-golden-weapon-of-hormuz-became-a-greater-priority-than-its-nuclear-program-heres-how/",
+      "bloc": "western",
+      "date": "2026-07-08",
+      "datetime": "2026-07-08T18:32:26Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,91 +92,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump hints at potential large-scale military strike against Iran",
-      "summary": "Increased military tensions could hinder diplomatic resolutions and impact geopolitical stability, affecting global markets and reconstruction efforts.\nThe post Trump hints at potential large-scale military strike against Iran appeared first on Crypto Briefin…",
+      "headline": "UN chief warns of Persian Gulf conflict risks amid Iran-Israel tensions",
+      "summary": "Escalating tensions in the Persian Gulf could destabilize regional peace and disrupt global oil markets, complicating diplomatic efforts.\nThe post UN chief warns of Persian Gulf conflict risks amid Iran-Israel tensions appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-hints-at-potential-large-scale-military-strike-against-iran/",
+      "url": "https://cryptobriefing.com/un-chief-warns-of-persian-gulf-conflict-risks-amid-iran-israel-tensions/",
       "bloc": "western",
       "date": "2026-07-08",
-      "datetime": "2026-07-08T13:48:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump signals renewed US military actions amid 2026 Iran War escalation",
-      "summary": "Heightened US-Iran tensions may destabilize Iran's leadership perception, impacting market confidence and geopolitical dynamics.\nThe post Trump signals renewed US military actions amid 2026 Iran War escalation appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-signals-renewed-us-military-actions-amid-2026-iran-war-escalation/",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T13:14:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump announces probable strike on Iran tonight amid escalating tensions",
-      "summary": "Heightened military tensions reduce prospects for a US-Iran deal, impacting market confidence and diplomatic resolution perceptions.\nThe post Trump announces probable strike on Iran tonight amid escalating tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-announces-probable-strike-on-iran-tonight-amid-escalating-tensions/",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T12:59:35Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Wedneday: Hili dialogue",
-      "summary": "Welcome to a Hump Day (“dina bonggol” in Javanese): Wednesday, July 8, 2026 and National Blueberry Day. If you can get the smaller wild lowbush blueberries rather than the big bland blue balls that are the commercial highbush form, do. The best blueberries I …",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/07/08/wedneday-hili-dialogue-6/",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T11:45:59Z",
+      "datetime": "2026-07-08T18:29:18Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -144,13 +118,91 @@
       "_from": "newsapi"
     },
     {
-      "headline": "How Iran uses the Strait of Hormuz to pressure the US",
-      "summary": "Iran's latest attacks show it can easily disrupt shipping, energy markets and draw in Gulf neighbors. DW asks how much leverage Tehran really has over Washington and if its high-risk strategy could backfire.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/how-iran-uses-the-strait-of-hormuz-to-pressure-the-us/a-77870807",
+      "headline": "Poll: Israelis lose confidence in Trump after Iran deal",
+      "summary": "A new JPPI survey found record-low trust in President Trump, broad opposition to the US-Iran deal, and strong support for the Lebanon agreement.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/429859",
       "bloc": "western",
       "date": "2026-07-08",
-      "datetime": "2026-07-08T12:55:00Z",
+      "datetime": "2026-07-08T17:18:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Declares Iran Ceasefire Over After US Strikes; Hormuz Threat Level Raised",
+      "summary": "Shipping in the Strait of Hormuz faces renewed uncertainty after attacks on tankers prompted President Trump to declare the U.S.-Iran ceasefire over.",
+      "source": "WWD",
+      "url": "http://wwd.com/sourcing-journal/logistics/donald-trump-declares-iran-ceasefire-over-strait-of-hormuz-threat-level-raised-1239059141/",
+      "bloc": "western",
+      "date": "2026-07-08",
+      "datetime": "2026-07-08T18:03:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "No strait answer as US and Iran are stuck in cycle of strikes",
+      "summary": "Trump pushes to get ships moving through Strait of Hormuz while Iran resists dilution of its control over waterway",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/08/no-strait-answer-as-us-and-iran-are-stuck-in-cycle-of-strikes/",
+      "bloc": "western",
+      "date": "2026-07-08",
+      "datetime": "2026-07-08T17:55:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Shipowners Wrestle With Hormuz Risks as US-Iran Deal Crumbles",
+      "summary": "Shipowners painted a mixed picture of their willingness to continue transiting the Strait of Hormuz in the hours after President Donald Trump said the US ceasefire with Iran is “over.”",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/shipowners-wrestle-with-hormuz-risks-as-us-iran-deal-crumbles",
+      "bloc": "western",
+      "date": "2026-07-08",
+      "datetime": "2026-07-08T17:22:53Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +222,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US Strikes Targets In Iran Hours After Trump Vows To Hit 'Hard'",
-      "summary": "The US military said it had launched new strikes on targets in Iran just hours after President Donald Trump said a cease-fire accord with Tehran was \"over\" and threatened to \"hit them [Iran] hard tonight.\"",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260708-rferl02.htm",
+      "headline": "What Will Happen to Iran’s Sea Mines?",
+      "summary": "The overlooked technology wreaked havoc on the Strait of Hormuz—and global trade.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/07/08/iran-hormuz-strait-mines-trade-economy-china-us/",
       "bloc": "western",
       "date": "2026-07-08",
-      "datetime": "2026-07-08T12:00:00Z",
+      "datetime": "2026-07-08T16:44:09Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -191,59 +243,7 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Trump Declares MOU Over After Biggest US-Iran Exchange of Strikes Since Signing in Struggle Over Strait of Hormuz Control; US Suspends Iran Oil Sanction Waiver",
-      "summary": "Today's Iran war news: As many expected, the MOU is coming apart as the US-Iran fight for control of the Strait of Hormuz escalates.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-declares-mou-over-after-biggest-us-iran-exchange-of-strikes-since-signing-in-struggle-over-strait-of-hormuz-control-us-suspends-iran-oil-sanction-waiver.html",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T10:54:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US strikes Iran after Hormuz attacks, Tehran threatens response",
-      "summary": "U.S. forces launched strikes on Iran on July 7 after three commercial vessels were attacked in the Strait of Hormuz, the U.S. military said, sharply escalating a confrontation that has already shaken efforts to end the Middle East war.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/us-strikes-iran-after-hormuz-attacks-tehran-threatens-response-224125",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T04:43:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -449,28 +449,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Current price of oil as of July 6, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-07-06-2026/",
+      "headline": "Iran War: Trump Declares MOU Over After Biggest US-Iran Exchange of Strikes Since Signing in Struggle Over Strait of Hormuz Control; US Suspends Iran Oil Sanction Waiver",
+      "summary": "Today's Iran war news: As many expected, the MOU is coming apart as the US-Iran fight for control of the Strait of Hormuz escalates.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-declares-mou-over-after-biggest-us-iran-exchange-of-strikes-since-signing-in-struggle-over-strait-of-hormuz-control-us-suspends-iran-oil-sanction-waiver.html",
       "bloc": "western",
-      "date": "2026-07-06",
-      "datetime": "2026-07-06T12:32:12Z",
+      "date": "2026-07-08",
+      "datetime": "2026-07-08T10:54:17Z",
       "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
       ],
       "watch_terms": [
-        "oil Brent crude"
+        "Iran US diplomacy"
       ],
       "dimensions": [
-        "survival",
-        "values"
+        "values",
+        "survival"
       ],
-      "variable_key": "oilPrice",
+      "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

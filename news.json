@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-10T09:42:34.715Z",
+  "ts": "2026-07-10T14:36:23.939Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 76,
-    "oilStress": 14,
-    "updatedAt": "2026-07-10T09:42:34.715Z"
+    "oilPrice": 77,
+    "oilStress": 16,
+    "updatedAt": "2026-07-10T14:36:23.939Z"
   },
   "items": [
+    {
+      "headline": "Iran after Khamenei: A new order takes shape",
+      "summary": "Mojtaba Khamenei, Iran's new supreme leader, has inherited a political system that his father spent decades building and shaping in his own image. The Islamic Republic of Iran is entering a new political era as Iranians on Thursday prepared to bury their slai…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/iran-after-khamenei-a-new-order-takes-shape/a-77887756",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T11:40:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Links 7/9/2026",
+      "summary": "Our daily links, including Platner suspends campaign, NATO doubles down, earth energy imbalance, Meta poisons a city's water, and healthcare less accessible.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-9-2026.html",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T10:58:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Carney in Saudi Arabia seeking economic partnerships amid human rights concerns",
+      "summary": "Prime Minister Mark Carney has arrived in Saudi Arabia as he seeks economic partnerships with a strategically important country whose notorious human rights record is only getting worse.",
+      "source": "National Observer",
+      "url": "https://www.nationalobserver.com/2026/07/09/news/carney-saudi-arabia-seeking-economic-partnerships-amid-human-rights-concerns",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T10:22:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran War: US and Iran Continue Escalation With New Exchange of Harsher Strikes; Iran Options Include Closing",
       "summary": "Today's Iran war news: Trump doubles down on Strait of Hormuz control as experts view the strikes as preparation for a ground operation.",
@@ -66,79 +144,79 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Warns: No Final Deal If U.S. Threats Persist",
-      "summary": "Iranian Foreign Minister Abbas Araghchi warned on Tuesday, July 7, that negotiations for a final agreement with the United States will not begin if Washington continues its threats, according to a post on X. Araghchi cited Paragraph 13 of the U.S.-Iran memora…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-09-iran-no-final-deal-if-threats-persist.html",
+      "headline": "Oil eases as investors assess US-Iran peace prospects",
+      "summary": "By Anushree Mukherjee July 9 (Reuters) - Oil prices eased on Thursday after earlier gains as markets assessed the escalating conflict between the U.S. and Ir...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/oil-rises-us-launches-fresh-010522978.html",
       "bloc": "western",
       "date": "2026-07-09",
-      "datetime": "2026-07-09T06:00:00Z",
+      "datetime": "2026-07-09T13:37:39Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Declares Iran Truce “Over” After IRGC Retaliates Against U.S. Airstrikes",
-      "summary": "President Donald Trump declared the tentative ceasefire with Iran “over” during a press conference at the North Atlantic Treaty Organization (NATO) summit in Ankara on Wednesday, July 8. His announcement came hours after the Islamic Revolutionary Guard Corps …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-09-president-trump-declares-truce-with-iran-over.html",
+      "headline": "The Iran Deal Couldn't Restore Old Maritime Order, Analyst Raydan Says",
+      "summary": "As Washington and Tehran trade accusations over the collapse of their latest cease-fire, the real battle may be unfolding far from the headlines -- in the shipping lanes of the Strait of Hormuz.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-rferl01.htm",
       "bloc": "western",
       "date": "2026-07-09",
-      "datetime": "2026-07-09T06:00:00Z",
+      "datetime": "2026-07-09T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
-      "summary": "Global economy to grow 3 percent in 2026, as AI demand partly offsets energy shock from Iran war, IMF says.",
+      "headline": "Mediator Pakistan says renewed US-Iran conflict is ‘in no one’s interest’",
+      "summary": "Islamabad urges both sides to honour their MoU as renewed attacks raise fears of a wider regional conflict.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/7/9/imf-cuts-2026-world-growth-forecast-citing-iran-war-fallout",
+      "url": "https://www.aljazeera.com/news/2026/7/9/mediator-pakistan-says-renewed-us-iran-conflict-is-in-no-ones-interest",
       "bloc": "regional",
       "date": "2026-07-09",
-      "datetime": "2026-07-09T02:58:20Z",
+      "datetime": "2026-07-09T11:47:46Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -151,84 +229,6 @@
       "bloc": "western",
       "date": "2026-07-09",
       "datetime": "2026-07-09T07:51:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Crude oil futures rise as US continues attacks on Iran",
-      "summary": "“The past few days’ price action makes one thing clear: markets were far too relaxed about the risks surrounding the deal -- and far too bullish on how quickly regional supply could rebound”",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-rise-as-us-continues-attacks-on-iran/article71200872.ece",
-      "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T04:10:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US strikes Iran, reinstates oil sanctions, but Tehran has already raked in billions",
-      "summary": "The ceasefire between the United States and Iran is fraying and Washington has attempted to crush the regime's oil sales, but Tehran made its move when the blockade lifted weeks ago.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-09/iran-united-states-tehran-makes-billions-as-blockade-lifts/106884040",
-      "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T02:00:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Iran Deal Couldn’t Restore Old Maritime Order, Analyst Raydan Says",
-      "summary": "The unraveling of the 60-day memorandum of understanding (MoU) was always likely to expose unresolved disputes over who controls one of the world's most strategic waterways, Noam Raydan, the William Sudhaus Senior Fellow at The Washington Institute for Near E…",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "url": "https://www.rferl.org/a/iran-strait-hormuz-raydan-shipping/33799680.html",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T22:31:39Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -346,6 +346,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Meeting of 10-11 June 2026",
+      "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "Europa.eu",
+      "url": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg260709~0e7f8241c9.en.html",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T11:30:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
+      "summary": "Global economy to grow 3 percent in 2026, as AI demand partly offsets energy shock from Iran war, IMF says.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/7/9/imf-cuts-2026-world-growth-forecast-citing-iran-war-fallout",
+      "bloc": "regional",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T02:58:20Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Sensex today | Stock Market Highlights: Sensex tumbles 1,677 points, Nifty slips below 23,900 after Trump’s Iran comments",
       "summary": "Sensex Today, Nifty 50 | Stock Market Highlights - 8th July 2026: Indian equity markets suffered a sharp sell-off in the final hour of trading after US President Donald Trump signalled that negotiations with Iran were effectively over and confirmed renewed US…",
       "source": "BusinessLine",
@@ -394,32 +446,6 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran strikes 85 U.S. military sites in the Gulf, sparking a global selloff in stocks and a spike in the price of oil",
-      "summary": "Everything you need to know before you reach the office this morning.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/08/iran-strikes-gulf-global-selloff-stocks-oil-price/",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T10:02:31Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -494,6 +520,29 @@
       ],
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Furious Putin rounded on his advisers for suggesting a ceasefire - and plans to escalate the war within weeks, Kremlin sources tell Reuters",
+      "summary": "A source close to Putin, who spoke on condition of anonymity, told Reuters that there was a 'high probability' of escalation in the coming months.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15965321/Putin-escalate-war-rejecting-suggested-ceasefire.html",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T13:31:37Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"

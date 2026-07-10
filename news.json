@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-10T14:36:23.939Z",
+  "ts": "2026-07-10T19:38:58.922Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 77,
-    "oilStress": 16,
-    "updatedAt": "2026-07-10T14:36:23.939Z"
+    "oilPrice": 76,
+    "oilStress": 15,
+    "updatedAt": "2026-07-10T19:38:58.922Z"
   },
   "items": [
+    {
+      "headline": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
+      "summary": "More than 500 ships have passed through the strait since June 17, but many remain stuck.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17",
+      "bloc": "regional",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T15:34:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran after Khamenei: A new order takes shape",
       "summary": "Mojtaba Khamenei, Iran's new supreme leader, has inherited a political system that his father spent decades building and shaping in his own image. The Islamic Republic of Iran is entering a new political era as Iranians on Thursday prepared to bury their slai…",
@@ -118,27 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Blown to pieces: Iran releases first footage showing complete destruction inside Ayatollah Khamenei's compound following deadly US-Israel airstrike",
-      "summary": "Footage showing the complete destruction inside the late Ayatollah Khamenei's compound following a deadly US-Israel airstrike has been released for the first time by the Iranian regime.",
+      "headline": "Iran strikes back at US targets in Gulf states and warns Trump faces a 'crushing response' if attacks continue as ceasefire crumbles",
+      "summary": "The US military said on Wednesday that its latest strikes were aimed at keeping the Strait open after it said Iranian forces had struck three tankers in the area.",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15964549/Blown-pieces-Iran-releases-footage-showing-complete-destruction-inside-Ayatollah-Khameneis-compound-following-deadly-US-Israel-airstrike.html",
+      "url": "https://www.dailymail.com/news/article-15966051/Iran-strikes-US-targets-Gulf-states-warns-Trump-faces-crushing-response-attacks-continue-ceasefire-crumbles.html",
       "bloc": "western",
       "date": "2026-07-09",
-      "datetime": "2026-07-09T08:16:29Z",
+      "datetime": "2026-07-09T17:18:01Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran ships 10 million barrels of oil amid US blockade threat, rattling crypto and energy markets",
+      "summary": "Iran's oil export surge amid US tensions could destabilize energy markets, impact inflation, and trigger regulatory scrutiny on crypto.\nThe post Iran ships 10 million barrels of oil amid US blockade threat, rattling crypto and energy markets appeared first on…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-oil-exports-us-blockade-crypto-impact/",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T15:38:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
@@ -151,84 +203,6 @@
       "bloc": "western",
       "date": "2026-07-09",
       "datetime": "2026-07-09T13:37:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Iran Deal Couldn't Restore Old Maritime Order, Analyst Raydan Says",
-      "summary": "As Washington and Tehran trade accusations over the collapse of their latest cease-fire, the real battle may be unfolding far from the headlines -- in the shipping lanes of the Strait of Hormuz.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-rferl01.htm",
-      "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Mediator Pakistan says renewed US-Iran conflict is ‘in no one’s interest’",
-      "summary": "Islamabad urges both sides to honour their MoU as renewed attacks raise fears of a wider regional conflict.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/9/mediator-pakistan-says-renewed-us-iran-conflict-is-in-no-ones-interest",
-      "bloc": "regional",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T11:47:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Is the Strait of Hormuz still Iran's trump card?",
-      "summary": "Iran's latest attacks show it can easily disrupt shipping, energy markets and draw in Gulf neighbors. DW asks how much leverage Tehran really has over Washington and if its high-risk strategy could backfire. Has the fragile US-Iran ceasefire collapsed?\n\nThe I…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/is-the-strait-of-hormuz-still-irans-trump-card/a-77870807",
-      "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T07:51:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -321,13 +295,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "New attacks raise questions about what comes next in the Iran war",
-      "summary": "President Donald Trump says he believes the ceasefire with Iran is over",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/wireStory/new-attacks-raise-questions-iran-war-134599224",
+      "headline": "New Attacks Raise Questions About What Comes Next in the Iran War",
+      "summary": "The confusion and uncertainty in Trump’s mixed messaging and his approval of back-to-back military strikes leave major questions about what comes next",
+      "source": "Military.com",
+      "url": "https://military.com/new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
       "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T21:47:11Z",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T17:17:29Z",
       "leaders": [
         "Recep Tayyip Erdogan"
       ],
@@ -521,6 +495,29 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Baghdad: The Illusion of Peace",
+      "summary": "Close to midnight on Tuesday, April 7, a loud explosion rattled my family’s house in a suburb of Baghdad. A column of white smoke shadowed the alleys nearby. Men murmured, milling about in the street. Policemen drove past, unsure what had landed where. Downst…",
+      "source": "The New York Review of Books",
+      "url": "https://www.nybooks.com/online/2026/07/09/baghdad-the-illusion-of-peace/",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T16:40:46Z",
+      "leaders": [],
+      "watch_terms": [
+        "general commander killed"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "personnel_killed",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

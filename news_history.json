@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-10T14:35:18.722Z",
+  "updated": "2026-07-10T19:37:53.787Z",
   "retention_days": 30,
   "items": [
     {
@@ -15162,7 +15162,116 @@
       "_from": "newsapi",
       "first_seen": "2026-07-10T14:35:18.722Z",
       "run_id": "2026-07-10T14:35"
+    },
+    {
+      "headline": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
+      "summary": "More than 500 ships have passed through the strait since June 17, but many remain stuck.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17",
+      "bloc": "regional",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T15:34:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-10T19:37:53.787Z",
+      "run_id": "2026-07-10T19:37"
+    },
+    {
+      "headline": "Iran strikes back at US targets in Gulf states and warns Trump faces a 'crushing response' if attacks continue as ceasefire crumbles",
+      "summary": "The US military said on Wednesday that its latest strikes were aimed at keeping the Strait open after it said Iranian forces had struck three tankers in the area.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15966051/Iran-strikes-US-targets-Gulf-states-warns-Trump-faces-crushing-response-attacks-continue-ceasefire-crumbles.html",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T17:18:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-10T19:37:53.787Z",
+      "run_id": "2026-07-10T19:37"
+    },
+    {
+      "headline": "Iran ships 10 million barrels of oil amid US blockade threat, rattling crypto and energy markets",
+      "summary": "Iran's oil export surge amid US tensions could destabilize energy markets, impact inflation, and trigger regulatory scrutiny on crypto.\nThe post Iran ships 10 million barrels of oil amid US blockade threat, rattling crypto and energy markets appeared first on…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-oil-exports-us-blockade-crypto-impact/",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T15:38:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-10T19:37:53.787Z",
+      "run_id": "2026-07-10T19:37"
+    },
+    {
+      "headline": "Baghdad: The Illusion of Peace",
+      "summary": "Close to midnight on Tuesday, April 7, a loud explosion rattled my family’s house in a suburb of Baghdad. A column of white smoke shadowed the alleys nearby. Men murmured, milling about in the street. Policemen drove past, unsure what had landed where. Downst…",
+      "source": "The New York Review of Books",
+      "url": "https://www.nybooks.com/online/2026/07/09/baghdad-the-illusion-of-peace/",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T16:40:46Z",
+      "leaders": [],
+      "watch_terms": [
+        "general commander killed"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "personnel_killed",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-10T19:37:53.787Z",
+      "run_id": "2026-07-10T19:37"
     }
   ],
-  "total_items_ever": 2414
+  "total_items_ever": 2418
 }

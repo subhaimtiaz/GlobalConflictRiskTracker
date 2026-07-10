@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-09T19:52:20.075Z",
+  "ts": "2026-07-10T03:41:02.505Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 76,
-    "oilStress": 14,
-    "updatedAt": "2026-07-09T19:52:20.075Z"
+    "oilStress": 15,
+    "updatedAt": "2026-07-10T03:41:02.505Z"
   },
   "items": [
+    {
+      "headline": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
+      "summary": "Global economy to grow 3 percent in 2026, as AI demand partly offsets energy shock from Iran war, IMF says.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/7/9/imf-cuts-2026-world-growth-forecast-citing-iran-war-fallout",
+      "bloc": "regional",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T02:58:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US strikes Iran, reinstates oil sanctions, but Tehran has already raked in billions",
+      "summary": "The ceasefire between the United States and Iran is fraying and Washington has attempted to crush the regime's oil sales, but Tehran made its move when the blockade lifted weeks ago.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-09/iran-united-states-tehran-makes-billions-as-blockade-lifts/106884040",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T02:00:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump Says US May Strike Iran Again, Threatens New Blockade",
       "summary": "Trump spoke hours after the U.S. launched strikes on Iran, with almost 40 fighter jets hitting targets with precision-guided weapons.",
@@ -92,54 +144,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "UN chief warns of Persian Gulf conflict risks amid Iran-Israel tensions",
-      "summary": "Escalating tensions in the Persian Gulf could destabilize regional peace and disrupt global oil markets, complicating diplomatic efforts.\nThe post UN chief warns of Persian Gulf conflict risks amid Iran-Israel tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/un-chief-warns-of-persian-gulf-conflict-risks-amid-iran-israel-tensions/",
+      "headline": "The Iran Deal Couldn’t Restore Old Maritime Order, Analyst Raydan Says",
+      "summary": "The unraveling of the 60-day memorandum of understanding (MoU) was always likely to expose unresolved disputes over who controls one of the world's most strategic waterways, Noam Raydan, the William Sudhaus Senior Fellow at The Washington Institute for Near E…",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/iran-strait-hormuz-raydan-shipping/33799680.html",
       "bloc": "western",
       "date": "2026-07-08",
-      "datetime": "2026-07-08T18:29:18Z",
+      "datetime": "2026-07-08T22:31:39Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Poll: Israelis lose confidence in Trump after Iran deal",
-      "summary": "A new JPPI survey found record-low trust in President Trump, broad opposition to the US-Iran deal, and strong support for the Lebanon agreement.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/429859",
+      "headline": "US Strikes Targets In Iran Hours After Trump Vows To Hit 'Hard'",
+      "summary": "The US military said it had launched new strikes on targets in Iran just hours after President Donald Trump said a cease-fire accord with Tehran was \"over\" and threatened to \"hit them [Iran] hard tonight.\"",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/us-strikes-iran-trump-threat/33799674.html",
       "bloc": "western",
       "date": "2026-07-08",
-      "datetime": "2026-07-08T17:18:53Z",
+      "datetime": "2026-07-08T21:36:42Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -166,84 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "No strait answer as US and Iran are stuck in cycle of strikes",
-      "summary": "Trump pushes to get ships moving through Strait of Hormuz while Iran resists dilution of its control over waterway",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/08/no-strait-answer-as-us-and-iran-are-stuck-in-cycle-of-strikes/",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T17:55:48Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Shipowners Wrestle With Hormuz Risks as US-Iran Deal Crumbles",
-      "summary": "Shipowners painted a mixed picture of their willingness to continue transiting the Strait of Hormuz in the hours after President Donald Trump said the US ceasefire with Iran is “over.”",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/shipowners-wrestle-with-hormuz-risks-as-us-iran-deal-crumbles",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T17:22:53Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "What Will Happen to Iran’s Sea Mines?",
-      "summary": "The overlooked technology wreaked havoc on the Strait of Hormuz—and global trade.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/07/08/iran-hormuz-strait-mines-trade-economy-china-us/",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T16:44:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -321,21 +295,22 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Reckoning With the Evolving China-Russia Threat",
-      "summary": "Don't underestimate the China-Russia partnership; Beijing and Moscow have already cooperated in ways that seemed unthinkable not long ago.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/07/reckoning-with-the-evolving-china-russia-threat/",
+      "headline": "New attacks raise questions about what comes next in the Iran war",
+      "summary": "President Donald Trump says he believes the ceasefire with Iran is over",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/new-attacks-raise-questions-iran-war-134599224",
       "bloc": "western",
-      "date": "2026-07-02",
-      "datetime": "2026-07-02T12:03:00Z",
+      "date": "2026-07-08",
+      "datetime": "2026-07-08T21:47:11Z",
       "leaders": [
-        "Xi Jinping"
+        "Recep Tayyip Erdogan"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "Erdogan Turkey Iran"
       ],
       "dimensions": [
         "survival",
+        "values",
         "impulsivity"
       ],
       "variable_key": null,
@@ -419,32 +394,6 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Next Oil Price Spike Could Come Sooner Than Traders Think",
-      "summary": "Oil prices have dropped back to pre-war levels since the United States and Iran agreed to negotiate a deal under a framework that included the reopening of the Strait of Hormuz. With oil flows out of the Middle East starting to return to the market, analysts,…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/The-Next-Oil-Price-Spike-Could-Come-Sooner-Than-Traders-Think.html",
-      "bloc": "western",
-      "date": "2026-07-07",
-      "datetime": "2026-07-07T23:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

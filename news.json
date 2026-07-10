@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-10T03:41:02.505Z",
+  "ts": "2026-07-10T09:42:34.715Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,114 @@
   },
   "live_variables": {
     "oilPrice": 76,
-    "oilStress": 15,
-    "updatedAt": "2026-07-10T03:41:02.505Z"
+    "oilStress": 14,
+    "updatedAt": "2026-07-10T09:42:34.715Z"
   },
   "items": [
+    {
+      "headline": "Iran War: US and Iran Continue Escalation With New Exchange of Harsher Strikes; Iran Options Include Closing",
+      "summary": "Today's Iran war news: Trump doubles down on Strait of Hormuz control as experts view the strikes as preparation for a ground operation.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-us-and-iran-continue-escalation-with-new-exchange-of-harsher-strikes-iran-options-include-closing.html",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T08:55:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Blown to pieces: Iran releases first footage showing complete destruction inside Ayatollah Khamenei's compound following deadly US-Israel airstrike",
+      "summary": "Footage showing the complete destruction inside the late Ayatollah Khamenei's compound following a deadly US-Israel airstrike has been released for the first time by the Iranian regime.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15964549/Blown-pieces-Iran-releases-footage-showing-complete-destruction-inside-Ayatollah-Khameneis-compound-following-deadly-US-Israel-airstrike.html",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T08:16:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Warns: No Final Deal If U.S. Threats Persist",
+      "summary": "Iranian Foreign Minister Abbas Araghchi warned on Tuesday, July 7, that negotiations for a final agreement with the United States will not begin if Washington continues its threats, according to a post on X. Araghchi cited Paragraph 13 of the U.S.-Iran memora…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-09-iran-no-final-deal-if-threats-persist.html",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Declares Iran Truce “Over” After IRGC Retaliates Against U.S. Airstrikes",
+      "summary": "President Donald Trump declared the tentative ceasefire with Iran “over” during a press conference at the North Atlantic Treaty Organization (NATO) summit in Ankara on Wednesday, July 8. His announcement came hours after the Islamic Revolutionary Guard Corps …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-09-president-trump-declares-truce-with-iran-over.html",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
       "summary": "Global economy to grow 3 percent in 2026, as AI demand partly offsets energy shock from Iran war, IMF says.",
@@ -40,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Is the Strait of Hormuz still Iran's trump card?",
+      "summary": "Iran's latest attacks show it can easily disrupt shipping, energy markets and draw in Gulf neighbors. DW asks how much leverage Tehran really has over Washington and if its high-risk strategy could backfire. Has the fragile US-Iran ceasefire collapsed?\n\nThe I…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/is-the-strait-of-hormuz-still-irans-trump-card/a-77870807",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T07:51:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Crude oil futures rise as US continues attacks on Iran",
+      "summary": "“The past few days’ price action makes one thing clear: markets were far too relaxed about the risks surrounding the deal -- and far too bullish on how quickly regional supply could rebound”",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-rise-as-us-continues-attacks-on-iran/article71200872.ece",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T04:10:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "US strikes Iran, reinstates oil sanctions, but Tehran has already raked in billions",
       "summary": "The ceasefire between the United States and Iran is fraying and Washington has attempted to crush the regime's oil sales, but Tehran made its move when the blockade lifted weeks ago.",
       "source": "ABC News (AU)",
@@ -49,97 +205,19 @@
       "datetime": "2026-07-09T02:00:46Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Says US May Strike Iran Again, Threatens New Blockade",
-      "summary": "Trump spoke hours after the U.S. launched strikes on Iran, with almost 40 fighter jets hitting targets with precision-guided weapons.",
-      "source": "Military.com",
-      "url": "https://military.com/trump-says-us-may-strike-iran-again-threatens-new-blockade",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T19:45:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Five key takeaways from the NATO summit in Ankara",
-      "summary": "Trump dominates summit with anti-Europe and Iran diatribes as NATO pledges to expand defence budgets and Ukraine support",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara",
-      "bloc": "regional",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T19:06:35Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran’s ‘golden weapon’ of Strait of Hormuz became a greater priority than its nuclear program — here’s how",
-      "summary": "\"Recognize the new Iranian order in the Strait of Hormuz: this is the only way forward,\" wrote Ebrahim Azizi, a member of the Iranian parliament's national ​security and foreign policy committee on social media, addressing the US.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/08/world-news/irans-golden-weapon-of-hormuz-became-a-greater-priority-than-its-nuclear-program-heres-how/",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T18:32:26Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -166,58 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Strikes Targets In Iran Hours After Trump Vows To Hit 'Hard'",
-      "summary": "The US military said it had launched new strikes on targets in Iran just hours after President Donald Trump said a cease-fire accord with Tehran was \"over\" and threatened to \"hit them [Iran] hard tonight.\"",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "url": "https://www.rferl.org/a/us-strikes-iran-trump-threat/33799674.html",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T21:36:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Declares Iran Ceasefire Over After US Strikes; Hormuz Threat Level Raised",
-      "summary": "Shipping in the Strait of Hormuz faces renewed uncertainty after attacks on tankers prompted President Trump to declare the U.S.-Iran ceasefire over.",
-      "source": "WWD",
-      "url": "http://wwd.com/sourcing-journal/logistics/donald-trump-declares-iran-ceasefire-over-strait-of-hormuz-threat-level-raised-1239059141/",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T18:03:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

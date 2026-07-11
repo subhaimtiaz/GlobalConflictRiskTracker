@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-10T19:38:58.922Z",
+  "ts": "2026-07-11T02:55:39.470Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 76,
-    "oilStress": 15,
-    "updatedAt": "2026-07-10T19:38:58.922Z"
+    "oilPrice": 75,
+    "oilStress": 13,
+    "updatedAt": "2026-07-11T02:55:39.470Z"
   },
   "items": [
+    {
+      "headline": "Iran War 3 Is Here, And This Sequel Is Going To Be The Most Dramatic Of Them All",
+      "summary": "Massive explosions are being reported all over Iran as the U.S. conducts airstrikes in Iranian territory for a second night in a row. This isn’t exactly a surprise because just hours ago President Trump declared that the ceasefire is “over” and he openly warn…",
+      "source": "Shtfplan.com",
+      "url": "https://www.shtfplan.com/war/iran-war-3-is-here-and-this-sequel-is-going-to-be-the-most-dramatic-of-them-all",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T22:30:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Washington Draws a Line for Iraq’s New Leader",
+      "summary": "Iraq’s new prime minister, Ali Al-Zaidi, will meet U.S. President Donald Trump in Washington, D.C. on 14 July - shortly after America’s Independence Day on July 4th. Trump will no doubt highlight America’s struggle for independence and will press Al-Zaidi to …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Washington-Draws-a-Line-for-Iraqs-New-Leader.html",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T20:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
       "summary": "More than 500 ships have passed through the strait since June 17, but many remain stuck.",
@@ -92,54 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Carney in Saudi Arabia seeking economic partnerships amid human rights concerns",
-      "summary": "Prime Minister Mark Carney has arrived in Saudi Arabia as he seeks economic partnerships with a strategically important country whose notorious human rights record is only getting worse.",
-      "source": "National Observer",
-      "url": "https://www.nationalobserver.com/2026/07/09/news/carney-saudi-arabia-seeking-economic-partnerships-amid-human-rights-concerns",
+      "headline": "How the US-Iran ceasefire and MOU broke down -- a timeline",
+      "summary": "US-Iran cease-fire teetered on the edge when the US completed a second round of strikes in retaliation for Iranian strikes on commercial vessels in the Strait of Hormuz.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Politics/us-iran-ceasefire-mou-broke-timeline/story?id=134622392",
       "bloc": "western",
       "date": "2026-07-09",
-      "datetime": "2026-07-09T10:22:29Z",
+      "datetime": "2026-07-09T23:36:11Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: US and Iran Continue Escalation With New Exchange of Harsher Strikes; Iran Options Include Closing",
-      "summary": "Today's Iran war news: Trump doubles down on Strait of Hormuz control as experts view the strikes as preparation for a ground operation.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-us-and-iran-continue-escalation-with-new-exchange-of-harsher-strikes-iran-options-include-closing.html",
-      "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T08:55:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -192,32 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil eases as investors assess US-Iran peace prospects",
-      "summary": "By Anushree Mukherjee July 9 (Reuters) - Oil prices eased on Thursday after earlier gains as markets assessed the escalating conflict between the U.S. and Ir...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/news/oil-rises-us-launches-fresh-010522978.html",
-      "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T13:37:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -320,6 +320,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Investors eye strong second half after oil price drop – Stock Takes",
+      "summary": "Harbour Asset Management expects the local sharemarket to improve in the second half.",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/business/markets/stock-takes/investors-eye-strong-second-half-after-oil-price-drop-stock-takes/premium/LQQ4NOOUY5ELHCLTHVO6DHEM5I/",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T21:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Meeting of 10-11 June 2026",
       "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
       "source": "Europa.eu",
@@ -379,32 +405,6 @@
       "bloc": "western",
       "date": "2026-07-08",
       "datetime": "2026-07-08T10:54:25Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Rockets Higher as Trump Declares Iran Ceasefire Over",
-      "summary": "'To me, I think it's over', Trump said during a press meeting in Ankara.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/oil_rockets_higher_as_trump_declares_iran_ceasefire_over-08-jul-2026-184086-article/",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T10:21:52Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -495,6 +495,29 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The forgotten war that will decide the future of the Middle East: Trump and Iran are still exchanging fire. But as this riveting dispatch revealed, there will NEVER be peace until Israel's conflict with Hezbollah ends",
+      "summary": "Despite Israel and Hezbollah, under pressure from Washington and Tehran, agreeing last month to yet another pause in hostilities, the deadly bombing continues.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15966759/The-forgotten-war-decide-future-Middle-East-Trump-Iran-exchanging-fire-riveting-dispatch-revealed-NEVER-peace-Israels-conflict-Hezbollah-ends.html",
+      "bloc": "western",
+      "date": "2026-07-09",
+      "datetime": "2026-07-09T23:14:54Z",
+      "leaders": [],
+      "watch_terms": [
+        "general commander killed"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "personnel_killed",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

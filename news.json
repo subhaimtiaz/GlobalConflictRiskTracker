@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-11T13:28:20.942Z",
+  "ts": "2026-07-11T19:10:44.408Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,113 @@
   "live_variables": {
     "oilPrice": 75,
     "oilStress": 13,
-    "updatedAt": "2026-07-11T13:28:20.942Z"
+    "updatedAt": "2026-07-11T19:10:44.408Z"
   },
   "items": [
+    {
+      "headline": "The US was overconfident before the war. Iran may be overconfident now.",
+      "summary": "If you can think back to the distant days of March 2026, you’ll remember that the US-Iran war was, at one point, primarily a conflict over Iran’s nuclear program, though at times it was also about Iran’s treatment of protesters, threat to Israel, missile prog…",
+      "source": "Vox",
+      "url": "https://www.vox.com/politics/494968/iran-us-strait-hormuz",
+      "bloc": "western",
+      "date": "2026-07-10",
+      "datetime": "2026-07-10T17:24:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Who Launched The Latest Airstrikes Against Iran? It's A Mystery.",
+      "summary": "A series of mysterious airstrikes have hit Iran after the U.S. said it ended its attacks, raising questions about who targeted the Islamic Republic.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-airstrikes-missiles-unclaimed-mystery_n_6a51123de4b0aaa3742555a0",
+      "bloc": "western",
+      "date": "2026-07-10",
+      "datetime": "2026-07-10T15:59:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why Iran broke the ceasefire in the Strait of Hormuz and what might happen next – expert Q&A",
+      "summary": "A MIddle East expert addresses some of the key questions about the renewed conflict.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/why-iran-broke-the-ceasefire-in-the-strait-of-hormuz-and-what-might-happen-next-expert-qanda-287218",
+      "bloc": "western",
+      "date": "2026-07-10",
+      "datetime": "2026-07-10T14:05:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "UN finds genocide in Sudan, Iran-US ceasefire suspension, and AI for what? The Cheat Sheet",
+      "summary": "A weekly read to keep you in the loop on humanitarian issues.",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/07/10/un-genocide-sudan-iran-us-ceasefire-suspension-ai-cheat-sheet",
+      "bloc": "western",
+      "date": "2026-07-10",
+      "datetime": "2026-07-10T14:02:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran War: Conflicting Reports on Momentary Pause – Restart of Talks or Iran Readying Big Strike? Russia Diesel Export Halt and Qatar LNG Pullback Increase Energy Pressure",
       "summary": "Today's Iran war news: Information fog is thick – yet more peace deal happy talk as underlying disputes fester and energy stresses worsen.",
@@ -40,105 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War 3 Is Here, And This Sequel Is Going To Be The Most Dramatic Of Them All",
-      "summary": "Massive explosions are being reported all over Iran as the U.S. conducts airstrikes in Iranian territory for a second night in a row. This isn’t exactly a surprise because just hours ago President Trump declared that the ceasefire is “over” and he openly warn…",
-      "source": "Shtfplan.com",
-      "url": "https://www.shtfplan.com/war/iran-war-3-is-here-and-this-sequel-is-going-to-be-the-most-dramatic-of-them-all",
+      "headline": "Trump flags more US-Iran talks but maintains ceasefire is 'over'",
+      "summary": "Qatari negotiators meet officials in Iran to seek to de-escalate tensions as Donald Trump says the US has agreed to Iran's request to continue talks.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-11/trump-flags-us-iran-talks-but-says-ceasefire-is-over/106904360",
       "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T22:30:24Z",
+      "date": "2026-07-10",
+      "datetime": "2026-07-10T16:55:19Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Washington Draws a Line for Iraq’s New Leader",
-      "summary": "Iraq’s new prime minister, Ali Al-Zaidi, will meet U.S. President Donald Trump in Washington, D.C. on 14 July - shortly after America’s Independence Day on July 4th. Trump will no doubt highlight America’s struggle for independence and will press Al-Zaidi to …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/Washington-Draws-a-Line-for-Iraqs-New-Leader.html",
+      "headline": "How the U.S.-Iran deal set the stage for renewed fighting over the Strait of Hormuz",
+      "summary": "The U.S. and Iran's contradictory interperations of the memorandum of understanding have led to renewed fighting over the Strait of Hormuz.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/iran-strait-hormuz-oil-tanker-mou-trump.html",
       "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T20:00:00Z",
+      "date": "2026-07-10",
+      "datetime": "2026-07-10T15:41:18Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
-      "summary": "More than 500 ships have passed through the strait since June 17, but many remain stuck.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17",
-      "bloc": "regional",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T15:34:54Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran after Khamenei: A new order takes shape",
-      "summary": "Mojtaba Khamenei, Iran's new supreme leader, has inherited a political system that his father spent decades building and shaping in his own image. The Islamic Republic of Iran is entering a new political era as Iranians on Thursday prepared to bury their slai…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/iran-after-khamenei-a-new-order-takes-shape/a-77887756",
-      "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T11:40:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -218,58 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran strikes back at US targets in Gulf states and warns Trump faces a 'crushing response' if attacks continue as ceasefire crumbles",
-      "summary": "The US military said on Wednesday that its latest strikes were aimed at keeping the Strait open after it said Iranian forces had struck three tankers in the area.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15966051/Iran-strikes-US-targets-Gulf-states-warns-Trump-faces-crushing-response-attacks-continue-ceasefire-crumbles.html",
-      "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T17:18:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran ships 10 million barrels of oil amid US blockade threat, rattling crypto and energy markets",
-      "summary": "Iran's oil export surge amid US tensions could destabilize energy markets, impact inflation, and trigger regulatory scrutiny on crypto.\nThe post Iran ships 10 million barrels of oil amid US blockade threat, rattling crypto and energy markets appeared first on…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-oil-exports-us-blockade-crypto-impact/",
-      "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T15:38:48Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

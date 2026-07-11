@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-11T08:02:39.277Z",
+  "ts": "2026-07-11T13:28:20.942Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 75,
     "oilStress": 13,
-    "updatedAt": "2026-07-11T08:02:39.277Z"
+    "updatedAt": "2026-07-11T13:28:20.942Z"
   },
   "items": [
+    {
+      "headline": "Iran War: Conflicting Reports on Momentary Pause – Restart of Talks or Iran Readying Big Strike? Russia Diesel Export Halt and Qatar LNG Pullback Increase Energy Pressure",
+      "summary": "Today's Iran war news: Information fog is thick – yet more peace deal happy talk as underlying disputes fester and energy stresses worsen.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-conflicting-reports-on-momentary-pause-restart-of-talks-or-iran-readying-big-strike-russia-diesel-export-halt-and-qatar-lng-pullback-increase-energy-pressure.html",
+      "bloc": "western",
+      "date": "2026-07-10",
+      "datetime": "2026-07-10T10:54:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran War 3 Is Here, And This Sequel Is Going To Be The Most Dramatic Of Them All",
       "summary": "Massive explosions are being reported all over Iran as the U.S. conducts airstrikes in Iranian territory for a second night in a row. This isn’t exactly a surprise because just hours ago President Trump declared that the ceasefire is “over” and he openly warn…",
@@ -118,27 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Links 7/9/2026",
-      "summary": "Our daily links, including Platner suspends campaign, NATO doubles down, earth energy imbalance, Meta poisons a city's water, and healthcare less accessible.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/links-7-9-2026.html",
+      "headline": "Tanker traffic slows in Strait of Hormuz after US and Iran clashes",
+      "summary": "Prior to this week's attacks, daily tanker traffic had risen to its highest since the war began, averaging 40 ships transiting the strait.",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/oil-tanker-traffic-slows-strait-hormuz-us-iran-clashes-6246451",
       "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T10:58:57Z",
+      "date": "2026-07-10",
+      "datetime": "2026-07-10T13:17:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US-Iran war: Will peace talks resume, and when?",
+      "summary": "While Trump said the MoU with Iran is 'over', US officials have reaffirmed Washington's commitment to continue talks.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when",
+      "bloc": "regional",
+      "date": "2026-07-10",
+      "datetime": "2026-07-10T11:43:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

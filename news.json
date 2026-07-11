@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-11T02:55:39.470Z",
+  "ts": "2026-07-11T08:02:39.277Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 75,
     "oilStress": 13,
-    "updatedAt": "2026-07-11T02:55:39.470Z"
+    "updatedAt": "2026-07-11T08:02:39.277Z"
   },
   "items": [
     {
@@ -218,6 +218,31 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US-Iran ceasefire had a built-in detonator. This week it went off",
+      "summary": "The MoU signed by the US and Iranian presidents was never likely to hold.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/us-iran-ceasefire-had-a-built-in-detonator-this-week-it-went-off-287224",
+      "bloc": "western",
+      "date": "2026-07-10",
+      "datetime": "2026-07-10T06:54:02Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

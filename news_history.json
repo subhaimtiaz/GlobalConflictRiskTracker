@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-12T08:22:54.465Z",
+  "updated": "2026-07-12T13:28:27.606Z",
   "retention_days": 30,
   "items": [
     {
@@ -14292,7 +14292,91 @@
       "_from": "newsapi",
       "first_seen": "2026-07-12T08:22:54.465Z",
       "run_id": "2026-07-12T08:22"
+    },
+    {
+      "headline": "Iran's Supreme Leader vows revenge for Khamenei's killing",
+      "summary": "Mojtaba Khamenei said Iran \"demands\" retribution for his father's assassination in an airstrike. Meanwhile, Donald Trump has threatened to \"completely decimate\" Iran should it attempt to assassinate him. DW has more. Iran's Supreme Leader says the nation 'dem…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/irans-supreme-leader-vows-revenge-for-khameneis-killing/live-77913349",
+      "bloc": "western",
+      "date": "2026-07-11",
+      "datetime": "2026-07-11T11:40:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-12T13:28:27.606Z",
+      "run_id": "2026-07-12T13:28"
+    },
+    {
+      "headline": "Links 7/11/2026",
+      "summary": "Today's therapeutic daily links: Is booze over? heat waves, new US deadline for Iran, Japan bond worries, China strategic use of rare eartihs ban, German car jobs collapse, US pressure on Israel? spying cars, ICE killing, inflation, AI to produce tech depress…",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-11-2026.html",
+      "bloc": "western",
+      "date": "2026-07-11",
+      "datetime": "2026-07-11T10:55:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-12T13:28:27.606Z",
+      "run_id": "2026-07-12T13:28"
+    },
+    {
+      "headline": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+      "bloc": "western",
+      "date": "2026-07-11",
+      "datetime": "2026-07-11T09:36:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-12T13:28:27.606Z",
+      "run_id": "2026-07-12T13:28"
     }
   ],
-  "total_items_ever": 2436
+  "total_items_ever": 2439
 }

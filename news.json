@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-12T03:20:31.779Z",
+  "ts": "2026-07-12T08:23:59.645Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 75,
     "oilStress": 13,
-    "updatedAt": "2026-07-12T03:20:31.779Z"
+    "updatedAt": "2026-07-12T08:23:59.645Z"
   },
   "items": [
+    {
+      "headline": "Trump says US, Iran agree to continue talks but ceasefire over",
+      "summary": "Trump announces US-Iran talks will continue despite ending ceasefire, while escalating tensions over threats and oil prices.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-says-us-iran-agree-to-continue-talks-but-ceasefire-over/article71209414.ece",
+      "bloc": "western",
+      "date": "2026-07-11",
+      "datetime": "2026-07-11T05:48:56Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The US was overconfident before the war. Iran may be overconfident now.",
       "summary": "If you can think back to the distant days of March 2026, you’ll remember that the US-Iran war was, at one point, primarily a conflict over Iran’s nuclear program, though at times it was also about Iran’s treatment of protesters, threat to Israel, missile prog…",
@@ -88,58 +114,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "UN finds genocide in Sudan, Iran-US ceasefire suspension, and AI for what? The Cheat Sheet",
-      "summary": "A weekly read to keep you in the loop on humanitarian issues.",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/news/2026/07/10/un-genocide-sudan-iran-us-ceasefire-suspension-ai-cheat-sheet",
-      "bloc": "western",
-      "date": "2026-07-10",
-      "datetime": "2026-07-10T14:02:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Conflicting Reports on Momentary Pause – Restart of Talks or Iran Readying Big Strike? Russia Diesel Export Halt and Qatar LNG Pullback Increase Energy Pressure",
-      "summary": "Today's Iran war news: Information fog is thick – yet more peace deal happy talk as underlying disputes fester and energy stresses worsen.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-conflicting-reports-on-momentary-pause-restart-of-talks-or-iran-readying-big-strike-russia-diesel-export-halt-and-qatar-lng-pullback-increase-energy-pressure.html",
-      "bloc": "western",
-      "date": "2026-07-10",
-      "datetime": "2026-07-10T10:54:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

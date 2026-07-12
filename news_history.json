@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-12T03:19:26.582Z",
+  "updated": "2026-07-12T08:22:54.465Z",
   "retention_days": 30,
   "items": [
     {
@@ -14264,7 +14264,35 @@
       "_from": "newsapi",
       "first_seen": "2026-07-12T03:19:26.582Z",
       "run_id": "2026-07-12T03:19"
+    },
+    {
+      "headline": "Trump says US, Iran agree to continue talks but ceasefire over",
+      "summary": "Trump announces US-Iran talks will continue despite ending ceasefire, while escalating tensions over threats and oil prices.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-says-us-iran-agree-to-continue-talks-but-ceasefire-over/article71209414.ece",
+      "bloc": "western",
+      "date": "2026-07-11",
+      "datetime": "2026-07-11T05:48:56Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-12T08:22:54.465Z",
+      "run_id": "2026-07-12T08:22"
     }
   ],
-  "total_items_ever": 2435
+  "total_items_ever": 2436
 }

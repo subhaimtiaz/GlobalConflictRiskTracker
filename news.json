@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-11T19:10:44.408Z",
+  "ts": "2026-07-12T03:20:31.779Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 75,
     "oilStress": 13,
-    "updatedAt": "2026-07-11T19:10:44.408Z"
+    "updatedAt": "2026-07-12T03:20:31.779Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over",
+      "summary": "By Ahmed Elimam, Eman Abouhassira and Andrew Mills DUBAI, July 10 (Reuters) - President Donald Trump said on Friday that the United States and Iran had agree...",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/politics/articles/tanker-traffic-slows-strait-hormuz-120600473.html",
+      "bloc": "western",
+      "date": "2026-07-10",
+      "datetime": "2026-07-10T19:30:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Trump flags more US-Iran talks but maintains ceasefire is 'over'",
       "summary": "Qatari negotiators meet officials in Iran to seek to de-escalate tensions as Donald Trump says the US has agreed to Iran's request to continue talks.",
       "source": "ABC News (AU)",
@@ -229,32 +255,6 @@
       "bloc": "regional",
       "date": "2026-07-10",
       "datetime": "2026-07-10T11:43:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How the US-Iran ceasefire and MOU broke down -- a timeline",
-      "summary": "US-Iran cease-fire teetered on the edge when the US completed a second round of strikes in retaliation for Iranian strikes on commercial vessels in the Strait of Hormuz.",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Politics/us-iran-ceasefire-mou-broke-timeline/story?id=134622392",
-      "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T23:36:11Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -397,6 +397,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Oil Is Spiking and the Iran Ceasefire Is Cracking: What It Means for Your Stocks",
+      "summary": "The US-Iran ceasefire is fracturing, Brent is climbing, and energy stocks are repricing fast. Whether this is a temporary spike or the beginning of a sustain...",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/10/oil-is-spiking-and-the-iran-ceasefire-is-cracking-what-it-means-for-your-stocks/",
+      "bloc": "western",
+      "date": "2026-07-10",
+      "datetime": "2026-07-10T18:40:10Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Investors eye strong second half after oil price drop – Stock Takes",
       "summary": "Harbour Asset Management expects the local sharemarket to improve in the second half.",
       "source": "New Zealand Herald",
@@ -456,32 +482,6 @@
       "bloc": "regional",
       "date": "2026-07-09",
       "datetime": "2026-07-09T02:58:20Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Sensex tumbles 1,677 points, Nifty slips below 23,900 after Trump’s Iran comments",
-      "summary": "Sensex Today, Nifty 50 | Stock Market Highlights - 8th July 2026: Indian equity markets suffered a sharp sell-off in the final hour of trading after US President Donald Trump signalled that negotiations with Iran were effectively over and confirmed renewed US…",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-8th-july-2026/article71194074.ece",
-      "bloc": "western",
-      "date": "2026-07-08",
-      "datetime": "2026-07-08T10:54:25Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

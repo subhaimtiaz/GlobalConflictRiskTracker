@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-13T14:41:53.493Z",
+  "updated": "2026-07-13T19:27:06.211Z",
   "retention_days": 30,
   "items": [
     {
@@ -14011,7 +14011,35 @@
       "_from": "newsapi",
       "first_seen": "2026-07-13T09:34:08.304Z",
       "run_id": "2026-07-13T09:34"
+    },
+    {
+      "headline": "UN chief urges end to US-Iran conflict amid escalating tensions",
+      "summary": "The UN's call for de-escalation highlights the urgent need for diplomacy to prevent regional instability and safeguard global economic interests.\nThe post UN chief urges end to US-Iran conflict amid escalating tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/un-chief-urges-end-to-us-iran-conflict-amid-escalating-tensions/",
+      "bloc": "western",
+      "date": "2026-07-12",
+      "datetime": "2026-07-12T17:47:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-13T19:27:06.211Z",
+      "run_id": "2026-07-13T19:27"
     }
   ],
-  "total_items_ever": 2445
+  "total_items_ever": 2446
 }

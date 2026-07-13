@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-12T19:11:23.188Z",
+  "ts": "2026-07-13T03:23:16.918Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 75,
-    "oilStress": 13,
-    "updatedAt": "2026-07-12T19:11:23.188Z"
+    "oilPrice": 79,
+    "oilStress": 19,
+    "updatedAt": "2026-07-13T03:23:16.918Z"
   },
   "items": [
+    {
+      "headline": "Iran says Strait of Hormuz is closed after striking vessel using ‘unauthorised route’",
+      "summary": "Iran says the Strait of Hormuz is closed again after a warning shot at a vessel, raising concerns over oil supplies, US tensions and regional security.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-says-strait-of-hormuz-is-closed-after-striking-vessel-using-unauthorised-route/article71212904.ece",
+      "bloc": "western",
+      "date": "2026-07-12",
+      "datetime": "2026-07-12T00:21:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran refuses to allow IAEA access to nuclear facilities",
+      "summary": "Iran reiterated that it will not give UN inspectors access to its nuclear facilities following a UN Security Council meeting on Friday, facing down calls from Western nations to cooperate with the International Atomic Energy Agency (IAEA). The meeting was cal…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4387636/posts",
+      "bloc": "western",
+      "date": "2026-07-11",
+      "datetime": "2026-07-11T23:22:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran's Supreme Leader vows revenge for Khamenei's killing",
       "summary": "Mojtaba Khamenei said Iran \"demands\" retribution for his father's assassination in an airstrike. Meanwhile, Donald Trump has threatened to \"completely decimate\" Iran should it attempt to assassinate him. DW has more. Iran's Supreme Leader says the nation 'dem…",
@@ -92,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump says US, Iran agree to continue talks but ceasefire over",
-      "summary": "Trump announces US-Iran talks will continue despite ending ceasefire, while escalating tensions over threats and oil prices.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-says-us-iran-agree-to-continue-talks-but-ceasefire-over/article71209414.ece",
+      "headline": "Iran closes Strait of Hormuz after warning shot hits ship, rattling oil and crypto markets",
+      "summary": "The closure of the Strait of Hormuz highlights the potential for crypto to bypass traditional financial systems, impacting global trade dynamics.\nThe post Iran closes Strait of Hormuz after warning shot hits ship, rattling oil and crypto markets appeared firs…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-strait-hormuz-closure-crypto-oil/",
       "bloc": "western",
       "date": "2026-07-11",
-      "datetime": "2026-07-11T05:48:56Z",
+      "datetime": "2026-07-11T22:27:31Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -222,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US-Iran war: Will peace talks resume, and when?",
-      "summary": "While Trump said the MoU with Iran is 'over', US officials have reaffirmed Washington's commitment to continue talks.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when",
-      "bloc": "regional",
-      "date": "2026-07-10",
-      "datetime": "2026-07-10T11:43:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "US-Iran ceasefire had a built-in detonator. This week it went off",
       "summary": "The MoU signed by the US and Iranian presidents was never likely to hold.",
       "source": "The Conversation Africa",
@@ -269,31 +295,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Kim Jong-un Oversees Strategic Missile Test From Destroyer Kang Kon",
-      "summary": "DPRK leader Kim Jong-un oversaw combat system tests of the destroyer Kang Kon, including the launch of a strategic cruise missile, KCNA reported.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260705-sputnik01.htm",
-      "bloc": "western",
-      "date": "2026-07-05",
-      "datetime": "2026-07-05T12:00:00Z",
-      "leaders": [
-        "Kim Jong-un"
-      ],
-      "watch_terms": [
-        "Kim Jong-un North"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "narcissism",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -496,31 +497,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "American Decline, Chinese Exposure | Sinification: June 2026",
-      "summary": "US-China & Taiwan | Middle East | Europe | Going Out | East Asia | Russia | Economy | Society & Local Governance | Tech & AI | Critical Minerals",
-      "source": "Sinocism.com",
-      "url": "https://sinocism.com/p/american-decline-chinese-exposure",
-      "bloc": "western",
-      "date": "2026-07-05",
-      "datetime": "2026-07-05T22:31:12Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

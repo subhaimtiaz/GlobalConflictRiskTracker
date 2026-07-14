@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-13T19:28:11.405Z",
+  "ts": "2026-07-14T02:47:34.836Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,115 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 83,
-    "oilStress": 25,
-    "updatedAt": "2026-07-13T19:28:11.405Z"
+    "oilPrice": 84,
+    "oilStress": 27,
+    "updatedAt": "2026-07-14T02:47:34.836Z"
   },
   "items": [
+    {
+      "headline": "Renewed Gulf Hostilities, Elevated Regional and Global Uncertainty",
+      "summary": "The United States and Iran traded new attacks overnight into Thursday, intensifying an exchange that has threatened the collapse of their agreement to end the war. According to President Trump, the ceasefire between the United States, Israel and Iran was “ove…",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/dan_steinbock/2026/07/12/renewed-gulf-hostilities-elevated-regional-and-global-uncertainty/",
+      "bloc": "western",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T00:00:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Death toll from Israeli attacks on Lebanon reaches 4,322 amid ongoing conflict",
+      "summary": "The ongoing conflict exacerbates regional instability, heightens humanitarian crises, and signals potential for broader military escalations.\nThe post Death toll from Israeli attacks on Lebanon reaches 4,322 amid ongoing conflict appeared first on Crypto Brie…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/death-toll-from-israeli-attacks-on-lebanon-reaches-4322-amid-ongoing-conflict/",
+      "bloc": "western",
+      "date": "2026-07-12",
+      "datetime": "2026-07-12T20:34:32Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US strikes Bandar Abbas, Qeshm Island after ceasefire collapse in Iran War",
+      "summary": "The escalation in military actions heightens instability in Iran, potentially influencing regime change and impacting global market perceptions.\nThe post US strikes Bandar Abbas, Qeshm Island after ceasefire collapse in Iran War appeared first on Crypto Brief…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-strikes-bandar-abbas-qeshm-island-after-ceasefire-collapse-in-iran-war/",
+      "bloc": "western",
+      "date": "2026-07-12",
+      "datetime": "2026-07-12T19:59:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US may pay billions to Iran as military, diplomatic solutions falter",
+      "summary": "The potential U.S. financial concessions to Iran highlight the complexities and limitations of military and diplomatic strategies in geopolitics.\nThe post US may pay billions to Iran as military, diplomatic solutions falter appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-may-pay-billions-to-iran-as-military-diplomatic-solutions-falter/",
+      "bloc": "western",
+      "date": "2026-07-12",
+      "datetime": "2026-07-12T19:27:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "UN chief urges end to US-Iran conflict amid escalating tensions",
       "summary": "The UN's call for de-escalation highlights the urgent need for diplomacy to prevent regional instability and safeguard global economic interests.\nThe post UN chief urges end to US-Iran conflict amid escalating tensions appeared first on Crypto Briefing.",
@@ -36,110 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iranian hard-liners oppose US amid post-war tensions with Israel",
-      "summary": "Iranian hard-liners' stance may solidify regime stability, affecting regional security dynamics and economic conditions in the Strait of Hormuz.\nThe post Iranian hard-liners oppose US amid post-war tensions with Israel appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iranian-hard-liners-oppose-us-amid-post-war-tensions-with-israel/",
-      "bloc": "western",
-      "date": "2026-07-12",
-      "datetime": "2026-07-12T09:28:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says Strait of Hormuz is closed after striking vessel using ‘unauthorised route’",
-      "summary": "Iran says the Strait of Hormuz is closed again after a warning shot at a vessel, raising concerns over oil supplies, US tensions and regional security.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-says-strait-of-hormuz-is-closed-after-striking-vessel-using-unauthorised-route/article71212904.ece",
-      "bloc": "western",
-      "date": "2026-07-12",
-      "datetime": "2026-07-12T00:21:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran refuses to allow IAEA access to nuclear facilities",
-      "summary": "Iran reiterated that it will not give UN inspectors access to its nuclear facilities following a UN Security Council meeting on Friday, facing down calls from Western nations to cooperate with the International Atomic Energy Agency (IAEA). The meeting was cal…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4387636/posts",
-      "bloc": "western",
-      "date": "2026-07-11",
-      "datetime": "2026-07-11T23:22:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran's Supreme Leader vows revenge for Khamenei's killing",
-      "summary": "Mojtaba Khamenei said Iran \"demands\" retribution for his father's assassination in an airstrike. Meanwhile, Donald Trump has threatened to \"completely decimate\" Iran should it attempt to assassinate him. DW has more. Iran's Supreme Leader says the nation 'dem…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/irans-supreme-leader-vows-revenge-for-khameneis-killing/live-77913349",
-      "bloc": "western",
-      "date": "2026-07-11",
-      "datetime": "2026-07-11T11:40:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -597,6 +597,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Moment man's shirt is ripped off in brawl at petrol station in Russia - as motorists wait for HOURS in queues as Ukrainian strikes strangle oil supplies",
+      "summary": "Enraged drivers have faced gargantuan queues as nationwide fuel shortages continue after Ukraine's attacks on the country's oil refineries and tanker ships.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15972009/Moment-mans-shirt-ripped-brawl-petrol-stationRussia.html",
+      "bloc": "western",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T00:31:23Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Ukraine Says It Hit Russia’s Syzran Refinery, Azov Sea Tankers",
       "summary": "Ukraine said it struck a refinery in Russia’s Samara region far from the nations’ border as well as a number of tankers in the Sea of Azov, the latest in a series of attacks on vessels and energy infrastructure.",
       "source": "Financial Post",
@@ -627,52 +650,6 @@
       "bloc": "western",
       "date": "2026-07-09",
       "datetime": "2026-07-09T13:31:37Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russian Strikes Kill At Least 27 In And Around Kyiv As Ukraine Hits Largest Russian Refinery",
-      "summary": "Russia launched a major missile and drone attack on Kyiv and the surrounding region early on July 6, striking residential buildings and killing at least 27 people while injuring nearly 100, hours after President Volodymyr Zelenskyy warned of an impending Russ…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260706-rferl02.htm",
-      "bloc": "western",
-      "date": "2026-07-06",
-      "datetime": "2026-07-06T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Putin unleashes hell on Kyiv with 'evil' drone strikes - as Trump threatens Nato over defence ahead of key alliance summit",
-      "summary": "At least eight people were killed in Kyiv and the surrounding region with multiple residential buildings hit in the capital city where dozens were injured.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15955567/Putin-unleashes-hell-Kyiv-evil-drone-strikes-Trump-threatens-Nato-defence-ahead-key-alliance-summit.html",
-      "bloc": "western",
-      "date": "2026-07-06",
-      "datetime": "2026-07-06T06:49:21Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-14T13:53:02.870Z",
+  "ts": "2026-07-14T19:25:47.648Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 86,
-    "oilStress": 30,
-    "updatedAt": "2026-07-14T13:53:02.870Z"
+    "oilPrice": 85,
+    "oilStress": 29,
+    "updatedAt": "2026-07-14T19:25:47.648Z"
   },
   "items": [
+    {
+      "headline": "Analysis: The Israel-Lebanon framework agreement explained",
+      "summary": "On June 26, Israel and Lebanon signed a framework agreement, mediated by the United States, to permanently end their state of conflict and address its root causes—primarily, Hezbollah’s arms. While the deal is promising on its face, significant parts of it ma…",
+      "source": "Longwarjournal.org",
+      "url": "https://www.longwarjournal.org/archives/2026/07/analysis-the-israel-lebanon-framework-agreement-explained.php",
+      "bloc": "western",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T16:01:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Is This the American Suez?",
+      "summary": "Van Gosse\n\n\n\nIf the pointless war on Iran is a historical marker equivalent to Suez in ignominy, the question becomes, what do we do with this “Decline of Empire” moment?\r\n\n\r\n\n\nThe post Is This the American Suez? appeared first on The Nation.",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/article/world/iran-war-american-decline-suez-crisis-us-foreign-policy-multipolar-world/",
+      "bloc": "western",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T15:41:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Says US Reinstates Blockade of Strait of Hormuz After New Clashes With Iran",
+      "summary": "President Donald Trump said on Monday the United States was reinstating its blockade of Iranian shipping in the Gulf and would ensure the Strait of Hormuz stays open after the two sides exchanged more missile and drone attacks. The latest …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/13/877324.htm",
+      "bloc": "western",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T15:27:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran blocks US intervention in Strait of Hormuz amid ongoing conflict",
       "summary": "Iran's blockade of the Strait of Hormuz underscores its strategic leverage, potentially prolonging geopolitical tensions and impacting global oil markets.\nThe post Iran blocks US intervention in Strait of Hormuz amid ongoing conflict appeared first on Crypto …",
@@ -66,80 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran: Living in limbo between war and ceasefire",
-      "summary": "Repeated ceasefire violations, contradictory political signals and ongoing emergency measures have fuelled exhaustion, anger and deep uncertainty about the future among many Iranians.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/iran-living-in-limbo-between-war-and-ceasefire/a-77933549",
+      "headline": "Oil Prices Surge 8% After Trump Reimposes Iran Blockade",
+      "summary": "Oil prices jumped more than 8% on Monday after U.S. President Donald Trump announced the United States would reinstate its blockade on Iran, forcing traders to once again price in the risk of prolonged disruption to energy flows through the Strait of Hormuz. …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-8-After-Trump-Reimposes-Iran-Blockade.html",
       "bloc": "western",
       "date": "2026-07-13",
-      "datetime": "2026-07-13T12:18:00Z",
+      "datetime": "2026-07-13T18:30:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran: Life in limbo between war and ceasefire",
-      "summary": "Repeated ceasefire violations, contradictory political signals and the continued presence of emergency measures have created a climate of exhaustion, anger and deep uncertainty about the future among many Iranians. Since the ceasefire between Iran, the United…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/iran-life-in-limbo-between-war-and-ceasefire/a-77933549",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T12:18:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "March to July: What’s different as US-Iran fighting escalates again?",
-      "summary": "With ceasefire in shambles and both sides exchanging tit-for-tat attacks, is the region again plunging into all-out war?",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again",
-      "bloc": "regional",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T12:12:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -222,58 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump flags more US-Iran talks but maintains ceasefire is 'over'",
-      "summary": "Qatari negotiators meet officials in Iran to seek to de-escalate tensions as Donald Trump says the US has agreed to Iran's request to continue talks.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-11/trump-flags-us-iran-talks-but-says-ceasefire-is-over/106904360",
-      "bloc": "western",
-      "date": "2026-07-10",
-      "datetime": "2026-07-10T16:55:19Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How the U.S.-Iran deal set the stage for renewed fighting over the Strait of Hormuz",
-      "summary": "The U.S. and Iran's contradictory interperations of the memorandum of understanding have led to renewed fighting over the Strait of Hormuz.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/10/iran-strait-hormuz-oil-tanker-mou-trump.html",
-      "bloc": "western",
-      "date": "2026-07-10",
-      "datetime": "2026-07-10T15:41:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "US-Iran ceasefire had a built-in detonator. This week it went off",
       "summary": "The MoU signed by the US and Iranian presidents was never likely to hold.",
       "source": "The Conversation Africa",
@@ -295,6 +269,30 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Stop Overreacting to China’s Missile Test",
+      "summary": "It was a milestone for Beijing’s nuclear forces—but not necessarily the provocation many analysts have made it out to be.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/07/13/china-nuclear-missile-test-launch-slbm/",
+      "bloc": "western",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T16:20:51Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -457,32 +455,6 @@
       "bloc": "western",
       "date": "2026-07-09",
       "datetime": "2026-07-09T21:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Meeting of 10-11 June 2026",
-      "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
-      "source": "Europa.eu",
-      "url": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg260709~0e7f8241c9.en.html",
-      "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T11:30:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

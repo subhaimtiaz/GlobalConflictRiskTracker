@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-14T08:14:00.356Z",
+  "ts": "2026-07-14T13:53:02.870Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,18 +9,18 @@
   },
   "live_variables": {
     "oilPrice": 86,
-    "oilStress": 31,
-    "updatedAt": "2026-07-14T08:14:00.356Z"
+    "oilStress": 30,
+    "updatedAt": "2026-07-14T13:53:02.870Z"
   },
   "items": [
     {
-      "headline": "European stocks fall amid renewed US-Iran tensions",
-      "summary": "Renewed US-Iran tensions heighten geopolitical uncertainty, potentially delaying peace talks and impacting European market stability.\nThe post European stocks fall amid renewed US-Iran tensions appeared first on Crypto Briefing.",
+      "headline": "Iran blocks US intervention in Strait of Hormuz amid ongoing conflict",
+      "summary": "Iran's blockade of the Strait of Hormuz underscores its strategic leverage, potentially prolonging geopolitical tensions and impacting global oil markets.\nThe post Iran blocks US intervention in Strait of Hormuz amid ongoing conflict appeared first on Crypto …",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/european-stocks-fall-amid-renewed-us-iran-tensions/",
+      "url": "https://cryptobriefing.com/iran-blocks-us-intervention-in-strait-of-hormuz-amid-ongoing-conflict/",
       "bloc": "western",
       "date": "2026-07-13",
-      "datetime": "2026-07-13T07:51:22Z",
+      "datetime": "2026-07-13T13:07:33Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,39 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran escalates attacks on US bases in Gulf states, warns of more 'incidents' in strait",
-      "summary": "Iran’s Revolutionary Guards said that they targeted US military facilities in Bahrain and Kuwait, destroyed radar systems in Oman, and struck fuel tanks and ammunition depots at Prince Hassan Air Base in Jordan",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-escalates-attacks-on-us-bases-in-gulf-states-warns-of-more-incidents-in-strait/article71216321.ece",
+      "headline": "Alliances Duel To Reshape Middle Eastern Energy",
+      "summary": "Multiple Middle Eastern Alliances are consolidating. Will this bring stability, or create the fault lines for future confrontation?",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/arielcohen/2026/07/13/alliances-duel-to-reshape-middle-eastern-energy/",
       "bloc": "western",
       "date": "2026-07-13",
-      "datetime": "2026-07-13T07:30:40Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East",
-      "summary": "On Feb. 28, 2026, President Donald Trump announced the commencement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran. Among the mission’s goals was the overthrow of the Islamic Republic. “When we are finished,” Trump told the Irani…",
-      "source": "War on the Rocks",
-      "url": "https://warontherocks.com/an-unlearned-lesson-the-sorry-record-of-regime-change-operations-in-the-middle-east/",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T07:30:35Z",
+      "datetime": "2026-07-13T12:52:28Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,13 +66,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Attacks U.S. Bases in Four Countries After U.S. Airstrikes",
-      "summary": "Iran launched attacks on U.S. military bases in Bahrain, Kuwait, Qatar, and Jordan on Thursday, July 9, according to Iranian state media and the Islamic Revolutionary Guard Corps [1]. The strikes followed two days of U.S. airstrikes against Iran that killed a…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-13-iran-attacks-us-bases-in-four-countries.html",
+      "headline": "Iran: Living in limbo between war and ceasefire",
+      "summary": "Repeated ceasefire violations, contradictory political signals and ongoing emergency measures have fuelled exhaustion, anger and deep uncertainty about the future among many Iranians.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/iran-living-in-limbo-between-war-and-ceasefire/a-77933549",
       "bloc": "western",
       "date": "2026-07-13",
-      "datetime": "2026-07-13T06:00:00Z",
+      "datetime": "2026-07-13T12:18:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran: Life in limbo between war and ceasefire",
+      "summary": "Repeated ceasefire violations, contradictory political signals and the continued presence of emergency measures have created a climate of exhaustion, anger and deep uncertainty about the future among many Iranians. Since the ceasefire between Iran, the United…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/iran-life-in-limbo-between-war-and-ceasefire/a-77933549",
+      "bloc": "western",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T12:18:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "March to July: What’s different as US-Iran fighting escalates again?",
+      "summary": "With ceasefire in shambles and both sides exchanging tit-for-tat attacks, is the region again plunging into all-out war?",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again",
+      "bloc": "regional",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T12:12:46Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Renewed Gulf Hostilities, Elevated Regional and Global Uncertainty",
-      "summary": "The United States and Iran traded new attacks overnight into Thursday, intensifying an exchange that has threatened the collapse of their agreement to end the war. According to President Trump, the ceasefire between the United States, Israel and Iran was “ove…",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/dan_steinbock/2026/07/12/renewed-gulf-hostilities-elevated-regional-and-global-uncertainty/",
+      "headline": "Trump wants US to take over Strait of Hormuz and be reimbursed for control",
+      "summary": "Iran's Revolutionary Guards said the only way to restore regular shipping traffic through the strait was to end US military interventions in the waterway.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-13/trump-strait-of-hormuz-control-plans/106911410",
       "bloc": "western",
       "date": "2026-07-13",
-      "datetime": "2026-07-13T00:00:34Z",
+      "datetime": "2026-07-13T13:20:58Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -229,32 +255,6 @@
       "bloc": "western",
       "date": "2026-07-10",
       "datetime": "2026-07-10T15:41:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tanker traffic slows in Strait of Hormuz after US and Iran clashes",
-      "summary": "Prior to this week's attacks, daily tanker traffic had risen to its highest since the war began, averaging 40 ships transiting the strait.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/oil-tanker-traffic-slows-strait-hormuz-us-iran-clashes-6246451",
-      "bloc": "western",
-      "date": "2026-07-10",
-      "datetime": "2026-07-10T13:17:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -372,6 +372,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Ships go dark as the clock runs out on Trump’s ‘undeclared naval war’ in the Strait of Hormuz",
+      "summary": "Everything you need to know before you reach the office this morning.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/13/ships-go-dark-clock-runs-out-trump-undeclared-naval-war-strait-of-hormuz/",
+      "bloc": "western",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T10:16:28Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Current price of oil as of July 13, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-07-13-2026/",
+      "bloc": "western",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T10:00:14Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Oil Is Spiking and the Iran Ceasefire Is Cracking: What It Means for Your Stocks",
       "summary": "The US-Iran ceasefire is fracturing, Brent is climbing, and energy stocks are repricing fast. Whether this is a temporary spike or the beginning of a sustain...",
       "source": "24/7 Wall St.",
@@ -431,32 +483,6 @@
       "bloc": "western",
       "date": "2026-07-09",
       "datetime": "2026-07-09T11:30:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
-      "summary": "Global economy to grow 3 percent in 2026, as AI demand partly offsets energy shock from Iran war, IMF says.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/7/9/imf-cuts-2026-world-growth-forecast-citing-iran-war-fallout",
-      "bloc": "regional",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T02:58:20Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-15T08:21:08.860Z",
+  "ts": "2026-07-15T13:50:58.062Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,115 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 86,
-    "oilStress": 30,
-    "updatedAt": "2026-07-15T08:21:08.860Z"
+    "oilPrice": 85,
+    "oilStress": 29,
+    "updatedAt": "2026-07-15T13:50:58.062Z"
   },
   "items": [
+    {
+      "headline": "Meet the New War",
+      "summary": "The president says the Iran ceasefire has ended as shipping slows in the Strait of Hormuz and fears of a wider regional conflict grow.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/07/14/meet-the-new-war/",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T13:28:19Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Netanyahu warns Iran of stronger response if ceasefire breached",
+      "summary": "The fragile ceasefire heightens geopolitical uncertainty, risking renewed conflict and impacting global markets and diplomatic efforts.\nThe post Netanyahu warns Iran of stronger response if ceasefire breached appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/netanyahu-warns-iran-of-stronger-response-if-ceasefire-breached/",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T13:15:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Tuesday: Hili dialogue",
+      "summary": "Welcome to The Cruelest Day: Tuesday, July 14, 2026. It is of course Bastille Day, the day in 1789 when the French prison, holding only 7 prisoners, was stormed and opened. It’s a French National holiday, their equivalent of the Fourth of July. It’s also Nati…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/07/14/tuesday-hili-dialogue-588/",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T11:45:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US strikes Iran, vows to reimpose naval blockade",
+      "summary": "The United States launched on Tuesday a fresh wave of strikes on Iran and President Donald Trump vowed to reimpose a naval blockade, prompting Tehran to respond with attacks on countries in the region.\nThe post US strikes Iran, vows to reimpose naval blockade…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-strikes-iran-vows-to-reimpose-naval-blockade/",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T09:52:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
       "summary": "Islamabad is still urging dialogue, but analysts say it has few tools to halt the latest round of US-Iran escalation.",
@@ -40,195 +144,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US strikes Iran for third day, will reimpose blockade",
-      "summary": "The United States launched a third night of strikes on Iran on July 14 as President Donald Trump reimposed a blockade on Iranian ports and floated a 20 percent fee on cargo in the vital Strait of Hormuz.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/us-strikes-iran-for-third-day-will-reimpose-blockade-224340",
+      "headline": "Bank earnings, Warsh heads to the Hill, Chipotle's Mexico push and more in Morning Squawk",
+      "summary": "Here are five key things investors need to know to start the trading day.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/14/5-things-to-know-before-the-market-opens.html",
       "bloc": "western",
       "date": "2026-07-14",
-      "datetime": "2026-07-14T05:54:00Z",
+      "datetime": "2026-07-14T12:33:04Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Tops $87 a Barrel as Strait of Hormuz Tanker Attacks Mount",
+      "summary": "Brent oil surged again, topping $87 a barrel for the first time in a month, as the truce between the US and Iran collapsed with fresh attacks on shipping in the Strait of Hormuz.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-tops-87-a-barrel-as-strait-of-hormuz-tanker-attacks-mount",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T11:00:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US consumer inflation likely increased at a slow pace in June as gasoline prices retreated",
-      "summary": "U.S. consumer inflation probably slowed in June, but rate hikes remain possible. Gasoline prices retreated from highs after a fragile ceasefire took hold. This truce collapsed, causing prices to reverse course and rise again. Higher food prices are also expec…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-consumer-inflation-likely-increased-at-a-slow-pace-in-june-as-gasoline-prices-retreated/articleshow/132380578.cms",
-      "bloc": "regional",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T04:10:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US-Iran war escalates as fractured diplomacy leaves crypto markets on edge",
-      "summary": "The ongoing conflict and failed diplomacy heighten geopolitical instability, impacting global markets and increasing crypto's appeal as a hedge.\nThe post US-Iran war escalates as fractured diplomacy leaves crypto markets on edge appeared first on Crypto Brief…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-war-escalation-crypto-markets-bitcoin/",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T22:07:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Explosions reported on Iran’s Kish Island amid ongoing 2026 conflict",
-      "summary": "The explosions on Kish Island may exacerbate regional instability, potentially increasing the likelihood of regime change in Iran before 2027.\nThe post Explosions reported on Iran’s Kish Island amid ongoing 2026 conflict appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/explosions-reported-on-irans-kish-island-amid-ongoing-2026-conflict/",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T21:25:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The US and Iran are back at war. And due to one main sticking point, there’s no end in sight",
-      "summary": "Both sides are at an impasse over control of the Strait of Hormuz, with no end in sight.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/the-us-and-iran-are-back-at-war-and-due-to-one-main-sticking-point-theres-no-end-in-sight-287492",
+      "headline": "Iran War: Trump Lashes Himself to Strait of Hormuz Mast With Renewed Blockade, Intensified Attacks on Iran; Oil Crunch Worsens as Iran Halt Fujairah Shipments, Houthis Threaten to Close Bab el-Mandeb",
+      "summary": "Today's Iran war news: Trump is indeed making himself Herbert Hoover 2.0 with his latest escalation.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-lashes-himself-to-strait-of-hormuz-mast-with-renewed-blockade-intensified-attacks-on-iran-oil-crunch-worsens-as-iran-halt-fujairah-shipments-houthis-threaten-to-close-bab-el-mandeb.html",
       "bloc": "western",
       "date": "2026-07-14",
-      "datetime": "2026-07-14T07:40:13Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The US and Iran are back at war. And with one main sticking point, there’s no end in sight",
-      "summary": "Both sides are at an impasse over control of the Strait of Hormuz, with no end in sight.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/the-us-and-iran-are-back-at-war-and-with-one-main-sticking-point-theres-no-end-in-sight-287492",
-      "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T07:40:13Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Outgunned, But Not Outplayed: Iran’s Theory of Victory",
-      "summary": "Nineteen weeks ago, Iran faced the combined might of the most powerful country in the world and the most advanced military in the Middle East. Today, it is dictating the terms of the peace.When the memorandum of understanding was signed last month, President …",
-      "source": "War on the Rocks",
-      "url": "https://warontherocks.com/outgunned-but-not-outplayed-irans-theory-of-victory/",
-      "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T07:15:54Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil hits one-month high as US, Iran step up attacks",
-      "summary": "Oil prices rose nearly 3% today to their highest in four weeks, as the US reimposed its naval blockade of Iran while the two countries stepped up attacks in the Strait of Hormuz, heightening uncertainty about energy flows.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/business/2026/0714/1583234-world-oil-prices/",
-      "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T06:53:35Z",
+      "datetime": "2026-07-14T10:57:25Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -371,6 +345,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Current price of oil as of July 14, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-07-14-2026/",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T09:50:17Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Ships go dark as the clock runs out on Trump’s ‘undeclared naval war’ in the Strait of Hormuz",
       "summary": "Everything you need to know before you reach the office this morning.",
       "source": "Fortune",
@@ -404,58 +404,6 @@
       "bloc": "western",
       "date": "2026-07-13",
       "datetime": "2026-07-13T10:00:14Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Is Spiking and the Iran Ceasefire Is Cracking: What It Means for Your Stocks",
-      "summary": "The US-Iran ceasefire is fracturing, Brent is climbing, and energy stocks are repricing fast. Whether this is a temporary spike or the beginning of a sustain...",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/10/oil-is-spiking-and-the-iran-ceasefire-is-cracking-what-it-means-for-your-stocks/",
-      "bloc": "western",
-      "date": "2026-07-10",
-      "datetime": "2026-07-10T18:40:10Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Investors eye strong second half after oil price drop – Stock Takes",
-      "summary": "Harbour Asset Management expects the local sharemarket to improve in the second half.",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/business/markets/stock-takes/investors-eye-strong-second-half-after-oil-price-drop-stock-takes/premium/LQQ4NOOUY5ELHCLTHVO6DHEM5I/",
-      "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T21:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -571,6 +519,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Russia readies to reroute exports from Sea of Azov after Ukrainian attacks",
+      "summary": "Ukraine says drones hit 11 Russian vessels in the Azov Sea, targeting tankers, dry cargo ships, and a tugboat overnight.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/14/russia-readies-to-reroute-exports-from-sea-of-azov-after-ukrainian-attacks",
+      "bloc": "regional",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T12:14:10Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "'Putin and his family might \"jump\" out of a window': Russian leader under growing pressure from oligarchs as Ukraine's strikes spark more petrol shortages and chaos",
       "summary": "As Ukraine's long-range strikes take effect, Vladimir Putin and his family might 'jump' out of a window, according to a senior Estonian minister.",
       "source": "Dailymail.com",
@@ -647,29 +618,6 @@
       "bloc": "western",
       "date": "2026-07-12",
       "datetime": "2026-07-12T08:50:05Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Furious Putin rounded on his advisers for suggesting a ceasefire - and plans to escalate the war within weeks, Kremlin sources tell Reuters",
-      "summary": "A source close to Putin, who spoke on condition of anonymity, told Reuters that there was a 'high probability' of escalation in the coming months.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15965321/Putin-escalate-war-rejecting-suggested-ceasefire.html",
-      "bloc": "western",
-      "date": "2026-07-09",
-      "datetime": "2026-07-09T13:31:37Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

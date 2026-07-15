@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-15T02:45:07.294Z",
+  "updated": "2026-07-15T08:20:03.752Z",
   "retention_days": 30,
   "items": [
     {
@@ -14204,7 +14204,203 @@
       "_from": "newsapi",
       "first_seen": "2026-07-15T02:45:07.294Z",
       "run_id": "2026-07-15T02:45"
+    },
+    {
+      "headline": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
+      "summary": "Islamabad is still urging dialogue, but analysts say it has few tools to halt the latest round of US-Iran escalation.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks",
+      "bloc": "regional",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T06:41:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-15T08:20:03.752Z",
+      "run_id": "2026-07-15T08:20"
+    },
+    {
+      "headline": "US strikes Iran for third day, will reimpose blockade",
+      "summary": "The United States launched a third night of strikes on Iran on July 14 as President Donald Trump reimposed a blockade on Iranian ports and floated a 20 percent fee on cargo in the vital Strait of Hormuz.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-strikes-iran-for-third-day-will-reimpose-blockade-224340",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T05:54:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-15T08:20:03.752Z",
+      "run_id": "2026-07-15T08:20"
+    },
+    {
+      "headline": "US consumer inflation likely increased at a slow pace in June as gasoline prices retreated",
+      "summary": "U.S. consumer inflation probably slowed in June, but rate hikes remain possible. Gasoline prices retreated from highs after a fragile ceasefire took hold. This truce collapsed, causing prices to reverse course and rise again. Higher food prices are also expec…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-consumer-inflation-likely-increased-at-a-slow-pace-in-june-as-gasoline-prices-retreated/articleshow/132380578.cms",
+      "bloc": "regional",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T04:10:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-15T08:20:03.752Z",
+      "run_id": "2026-07-15T08:20"
+    },
+    {
+      "headline": "The US and Iran are back at war. And due to one main sticking point, there’s no end in sight",
+      "summary": "Both sides are at an impasse over control of the Strait of Hormuz, with no end in sight.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/the-us-and-iran-are-back-at-war-and-due-to-one-main-sticking-point-theres-no-end-in-sight-287492",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T07:40:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-15T08:20:03.752Z",
+      "run_id": "2026-07-15T08:20"
+    },
+    {
+      "headline": "The US and Iran are back at war. And with one main sticking point, there’s no end in sight",
+      "summary": "Both sides are at an impasse over control of the Strait of Hormuz, with no end in sight.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/the-us-and-iran-are-back-at-war-and-with-one-main-sticking-point-theres-no-end-in-sight-287492",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T07:40:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-15T08:20:03.752Z",
+      "run_id": "2026-07-15T08:20"
+    },
+    {
+      "headline": "Outgunned, But Not Outplayed: Iran’s Theory of Victory",
+      "summary": "Nineteen weeks ago, Iran faced the combined might of the most powerful country in the world and the most advanced military in the Middle East. Today, it is dictating the terms of the peace.When the memorandum of understanding was signed last month, President …",
+      "source": "War on the Rocks",
+      "url": "https://warontherocks.com/outgunned-but-not-outplayed-irans-theory-of-victory/",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T07:15:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-15T08:20:03.752Z",
+      "run_id": "2026-07-15T08:20"
+    },
+    {
+      "headline": "Oil hits one-month high as US, Iran step up attacks",
+      "summary": "Oil prices rose nearly 3% today to their highest in four weeks, as the US reimposed its naval blockade of Iran while the two countries stepped up attacks in the Strait of Hormuz, heightening uncertainty about energy flows.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/0714/1583234-world-oil-prices/",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T06:53:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-15T08:20:03.752Z",
+      "run_id": "2026-07-15T08:20"
     }
   ],
-  "total_items_ever": 2478
+  "total_items_ever": 2485
 }

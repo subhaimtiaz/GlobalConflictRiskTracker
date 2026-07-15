@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-15T02:46:13.083Z",
+  "ts": "2026-07-15T08:21:08.860Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 86,
     "oilStress": 30,
-    "updatedAt": "2026-07-15T02:46:13.083Z"
+    "updatedAt": "2026-07-15T08:21:08.860Z"
   },
   "items": [
+    {
+      "headline": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
+      "summary": "Islamabad is still urging dialogue, but analysts say it has few tools to halt the latest round of US-Iran escalation.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks",
+      "bloc": "regional",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T06:41:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US strikes Iran for third day, will reimpose blockade",
+      "summary": "The United States launched a third night of strikes on Iran on July 14 as President Donald Trump reimposed a blockade on Iranian ports and floated a 20 percent fee on cargo in the vital Strait of Hormuz.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-strikes-iran-for-third-day-will-reimpose-blockade-224340",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T05:54:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US consumer inflation likely increased at a slow pace in June as gasoline prices retreated",
+      "summary": "U.S. consumer inflation probably slowed in June, but rate hikes remain possible. Gasoline prices retreated from highs after a fragile ceasefire took hold. This truce collapsed, causing prices to reverse course and rise again. Higher food prices are also expec…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-consumer-inflation-likely-increased-at-a-slow-pace-in-june-as-gasoline-prices-retreated/articleshow/132380578.cms",
+      "bloc": "regional",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T04:10:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US-Iran war escalates as fractured diplomacy leaves crypto markets on edge",
       "summary": "The ongoing conflict and failed diplomacy heighten geopolitical instability, impacting global markets and increasing crypto's appeal as a hedge.\nThe post US-Iran war escalates as fractured diplomacy leaves crypto markets on edge appeared first on Crypto Brief…",
@@ -66,91 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump plans US strike on Iran’s Pickaxe Mountain amid 2026 war tensions",
-      "summary": "Escalating military actions risk derailing diplomatic efforts, complicating geopolitical dynamics, and reducing chances for a US-Iran deal.\nThe post Trump plans US strike on Iran’s Pickaxe Mountain amid 2026 war tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-plans-us-strike-on-irans-pickaxe-mountain-amid-2026-war-tensions/",
+      "headline": "The US and Iran are back at war. And due to one main sticking point, there’s no end in sight",
+      "summary": "Both sides are at an impasse over control of the Strait of Hormuz, with no end in sight.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/the-us-and-iran-are-back-at-war-and-due-to-one-main-sticking-point-theres-no-end-in-sight-287492",
       "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T21:07:53Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US to reimpose Iran naval blockade on JCPOA anniversary",
-      "summary": "The reimposed blockade heightens geopolitical tensions, risks military conflict, and threatens global oil trade stability via the Strait of Hormuz.\nThe post US to reimpose Iran naval blockade on JCPOA anniversary appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-to-reimpose-iran-naval-blockade-on-jcpoa-anniversary/",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T21:07:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Analysis: The Israel-Lebanon framework agreement explained",
-      "summary": "On June 26, Israel and Lebanon signed a framework agreement, mediated by the United States, to permanently end their state of conflict and address its root causes—primarily, Hezbollah’s arms. While the deal is promising on its face, significant parts of it ma…",
-      "source": "Longwarjournal.org",
-      "url": "https://www.longwarjournal.org/archives/2026/07/analysis-the-israel-lebanon-framework-agreement-explained.php",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T16:01:11Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Price Today (July 14): Crude oil hits one-month high at $85 as US-Iran war tensions simmer. Will it cross $100?",
-      "summary": "Brent crude futures gained $1.68, or 2%, to $84.98 a barrel, while U.S. West Texas Intermediate (WTI) crude rose $1.65, or 2.1%, to $79.79 a barrel. On Monday, Brent had surged 9.6%, marking its biggest single-day jump since May 2020. Crude prices are now at …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-14-crude-oil-hits-one-month-high-at-85-as-us-iran-war-tensions-simmer-will-it-cross-100/articleshow/132379089.cms",
-      "bloc": "regional",
       "date": "2026-07-14",
-      "datetime": "2026-07-14T02:09:27Z",
+      "datetime": "2026-07-14T07:40:13Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump’s Strait of Hormuz fee could double the cost of shipping: Experts",
-      "summary": "Trump said on July 13 the US would charge a 20 per cent fee on all cargo shipped through the strait. Read more at straitstimes.com. Read more at straitstimes.com.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/companies-markets/trumps-strait-of-hormuz-fee-could-double-the-cost-of-shipping",
+      "headline": "The US and Iran are back at war. And with one main sticking point, there’s no end in sight",
+      "summary": "Both sides are at an impasse over control of the Strait of Hormuz, with no end in sight.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/the-us-and-iran-are-back-at-war-and-with-one-main-sticking-point-theres-no-end-in-sight-287492",
       "bloc": "western",
       "date": "2026-07-14",
-      "datetime": "2026-07-14T01:43:30Z",
+      "datetime": "2026-07-14T07:40:13Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "U.S. Military Renews Strikes On Iran While Tankers Come Under Attack In Strait Of Hormuz",
-      "summary": "U.S. Central Command said it began strikes at Trump's direction just after the U.S. president told the Hugh Hewitt Show that Iran would be hit \"very hard.\"",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/us-military-renews-strikes-on-iran-while-tankers-come-under-attack-in-strait-of-hormuz_n_6a558aefe4b0107f0db7e293",
+      "headline": "Outgunned, But Not Outplayed: Iran’s Theory of Victory",
+      "summary": "Nineteen weeks ago, Iran faced the combined might of the most powerful country in the world and the most advanced military in the Middle East. Today, it is dictating the terms of the peace.When the memorandum of understanding was signed last month, President …",
+      "source": "War on the Rocks",
+      "url": "https://warontherocks.com/outgunned-but-not-outplayed-irans-theory-of-victory/",
       "bloc": "western",
       "date": "2026-07-14",
-      "datetime": "2026-07-14T01:13:15Z",
+      "datetime": "2026-07-14T07:15:54Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -217,18 +217,18 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Iranian missiles struck oil tankers in Hormuz - UAE",
-      "summary": "One Indian crew member was killed, and eight others were wounded when two Emirati oil tankers were struck by Iranian cruise missiles in the Strait of Hormuz, the United Arab Emirates Ministry of Defence said, in the latest escalation in the strategic waterway.",
+      "headline": "Oil hits one-month high as US, Iran step up attacks",
+      "summary": "Oil prices rose nearly 3% today to their highest in four weeks, as the US reimposed its naval blockade of Iran while the two countries stepped up attacks in the Strait of Hormuz, heightening uncertainty about energy flows.",
       "source": "RTE",
-      "url": "https://www.rte.ie/news/middle-east/2026/0714/1583215-middle-east-strait-of-hormuz/",
+      "url": "https://www.rte.ie/news/business/2026/0714/1583234-world-oil-prices/",
       "bloc": "western",
       "date": "2026-07-14",
-      "datetime": "2026-07-14T00:02:08Z",
+      "datetime": "2026-07-14T06:53:35Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

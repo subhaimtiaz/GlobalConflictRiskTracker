@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-15T13:50:58.062Z",
+  "ts": "2026-07-15T19:17:50.098Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 85,
     "oilStress": 29,
-    "updatedAt": "2026-07-15T13:50:58.062Z"
+    "updatedAt": "2026-07-15T19:17:50.098Z"
   },
   "items": [
+    {
+      "headline": "Trump Scraps Hormuz Toll Plan as U.S.-Iran Conflict Deepens",
+      "summary": "US President Donald Trump has walked back his plan to charge a 20 percent fee on cargo shipped through the Strait of Hormuz, replacing it with proposed trade and investment agreements with Persian Gulf states while maintaining a blockade on Iranian shipping. …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Trump-Scraps-Hormuz-Toll-Plan-as-US-Iran-Conflict-Deepens.html",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T19:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US and Iran launch strikes as Trump reverses threat to tax ships passing through Strait of Hormuz",
+      "summary": "As attacks in the waterway continued, Trump said he was scrapping a planned levy on ships passing through it that he announced a day earlier.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/us-and-iran-launch-strikes-trump-reverses-threat-tax-ships-passing-strait-of-hormuz-7101901-Jul2026/",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T18:44:26Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Strait of Hormuz is only 33 kilometres wide at its narrowest point, yet roughly a fifth of all the oil traded on Earth passes through that single channel every day, making it the most consequential strip of water on the planet",
+      "summary": "The Strait of Hormuz, the narrow sea passage linking the Persian Gulf to the Gulf of Oman and the open ocean, normally carries about 20 million barrels of oil a day. That is roughly a fifth of global oil consumption and, by the International Energy Agency’s a…",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/d-the-strait-of-hormuz-is-only-33-kilometres-wide-at-its-narrowest-point-yet-roughly-a-fifth-of-all-the-oil-traded-on-earth-passes-through-that-single-channel-every-day-making-it-the-most-consequentia/",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T16:15:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Meet the New War",
       "summary": "The president says the Iran ceasefire has ended as shipping slows in the Strait of Hormuz and fears of a wider regional conflict grow.",
@@ -66,91 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Tuesday: Hili dialogue",
-      "summary": "Welcome to The Cruelest Day: Tuesday, July 14, 2026. It is of course Bastille Day, the day in 1789 when the French prison, holding only 7 prisoners, was stormed and opened. It’s a French National holiday, their equivalent of the Fourth of July. It’s also Nati…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/07/14/tuesday-hili-dialogue-588/",
+      "headline": "Dan Froomkin: Trump Makes Crackpot Announcement, Then Backs Down",
+      "summary": "Dan Froomkin writes a blog called “Press Watch,” where he keeps tabs on journalism. In today’s post, he chastises the media for reporting uncritically Trump’s claim that he would impose a 20% toll on ships passing through the Strait of Hormuz. Both JD Vance a…",
+      "source": "Dianeravitch.net",
+      "url": "https://dianeravitch.net/2026/07/14/dan-froomkin-trump-makes-crackpot-announcement-then-backs-down/",
       "bloc": "western",
       "date": "2026-07-14",
-      "datetime": "2026-07-14T11:45:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US strikes Iran, vows to reimpose naval blockade",
-      "summary": "The United States launched on Tuesday a fresh wave of strikes on Iran and President Donald Trump vowed to reimpose a naval blockade, prompting Tehran to respond with attacks on countries in the region.\nThe post US strikes Iran, vows to reimpose naval blockade…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/us-strikes-iran-vows-to-reimpose-naval-blockade/",
-      "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T09:52:07Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
-      "summary": "Islamabad is still urging dialogue, but analysts say it has few tools to halt the latest round of US-Iran escalation.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks",
-      "bloc": "regional",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T06:41:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Bank earnings, Warsh heads to the Hill, Chipotle's Mexico push and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/14/5-things-to-know-before-the-market-opens.html",
-      "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T12:33:04Z",
+      "datetime": "2026-07-14T19:15:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +170,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil Tops $87 a Barrel as Strait of Hormuz Tanker Attacks Mount",
-      "summary": "Brent oil surged again, topping $87 a barrel for the first time in a month, as the truce between the US and Iran collapsed with fresh attacks on shipping in the Strait of Hormuz.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-tops-87-a-barrel-as-strait-of-hormuz-tanker-attacks-mount",
+      "headline": "Strait of Hormuz crisis: What is the current state of the waterway?",
+      "summary": "Strait of Hormuz is at the center of renewed US-Iran conflict, with rising oil prices and competing claims over control of the route Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643033-us-iran-hormuz-state/",
       "bloc": "western",
       "date": "2026-07-14",
-      "datetime": "2026-07-14T11:00:31Z",
+      "datetime": "2026-07-14T19:05:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump scraps cargo fee threat as US naval blockade of Iran reshapes oil and crypto risk landscape",
+      "summary": "The naval blockade heightens geopolitical tensions, impacting global oil markets and indirectly influencing cryptocurrency volatility and trade dynamics.\nThe post Trump scraps cargo fee threat as US naval blockade of Iran reshapes oil and crypto risk landscap…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-scraps-cargo-fee-iran-blockade/",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T17:52:53Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +222,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War: Trump Lashes Himself to Strait of Hormuz Mast With Renewed Blockade, Intensified Attacks on Iran; Oil Crunch Worsens as Iran Halt Fujairah Shipments, Houthis Threaten to Close Bab el-Mandeb",
-      "summary": "Today's Iran war news: Trump is indeed making himself Herbert Hoover 2.0 with his latest escalation.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-lashes-himself-to-strait-of-hormuz-mast-with-renewed-blockade-intensified-attacks-on-iran-oil-crunch-worsens-as-iran-halt-fujairah-shipments-houthis-threaten-to-close-bab-el-mandeb.html",
+      "headline": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
+      "summary": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro",
       "bloc": "western",
       "date": "2026-07-14",
-      "datetime": "2026-07-14T10:57:25Z",
+      "datetime": "2026-07-14T16:54:46Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -295,6 +321,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump Derangement",
+      "summary": "To what extent was Israel stopped, and how, from absolutely winning that brutal urban and subterranean war in Gaza? And what lifetime lessons could Trump take from it? Opinion.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/430160",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T17:03:57Z",
+      "leaders": [
+        "Recep Tayyip Erdogan"
+      ],
+      "watch_terms": [
+        "Erdogan Turkey Iran"
+      ],
+      "dimensions": [
+        "survival",
+        "values",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Alliances Duel To Reshape Middle Eastern Energy",
       "summary": "Multiple Middle Eastern Alliances are consolidating. Will this bring stability, or create the fault lines for future confrontation?",
       "source": "Forbes",
@@ -340,6 +391,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran War: Trump Lashes Himself to Strait of Hormuz Mast With Renewed Blockade, Intensified Attacks on Iran; Oil Crunch Worsens as Iran Halt Fujairah Shipments, Houthis Threaten to Close Bab el-Mandeb",
+      "summary": "Today's Iran war news: Trump is indeed making himself Herbert Hoover 2.0 with his latest escalation.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-lashes-himself-to-strait-of-hormuz-mast-with-renewed-blockade-intensified-attacks-on-iran-oil-crunch-worsens-as-iran-halt-fujairah-shipments-houthis-threaten-to-close-bab-el-mandeb.html",
+      "bloc": "western",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T10:57:25Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
@@ -417,6 +494,31 @@
         "values"
       ],
       "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
+      "summary": "Islamabad is still urging dialogue, but analysts say it has few tools to halt the latest round of US-Iran escalation.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks",
+      "bloc": "regional",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T06:41:51Z",
+      "leaders": [
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran US diplomacy"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

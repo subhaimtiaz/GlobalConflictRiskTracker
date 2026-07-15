@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-14T19:25:47.648Z",
+  "ts": "2026-07-15T02:46:13.083Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,115 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 85,
-    "oilStress": 29,
-    "updatedAt": "2026-07-14T19:25:47.648Z"
+    "oilPrice": 86,
+    "oilStress": 30,
+    "updatedAt": "2026-07-15T02:46:13.083Z"
   },
   "items": [
+    {
+      "headline": "US-Iran war escalates as fractured diplomacy leaves crypto markets on edge",
+      "summary": "The ongoing conflict and failed diplomacy heighten geopolitical instability, impacting global markets and increasing crypto's appeal as a hedge.\nThe post US-Iran war escalates as fractured diplomacy leaves crypto markets on edge appeared first on Crypto Brief…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-iran-war-escalation-crypto-markets-bitcoin/",
+      "bloc": "western",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T22:07:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Explosions reported on Iran’s Kish Island amid ongoing 2026 conflict",
+      "summary": "The explosions on Kish Island may exacerbate regional instability, potentially increasing the likelihood of regime change in Iran before 2027.\nThe post Explosions reported on Iran’s Kish Island amid ongoing 2026 conflict appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/explosions-reported-on-irans-kish-island-amid-ongoing-2026-conflict/",
+      "bloc": "western",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T21:25:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump plans US strike on Iran’s Pickaxe Mountain amid 2026 war tensions",
+      "summary": "Escalating military actions risk derailing diplomatic efforts, complicating geopolitical dynamics, and reducing chances for a US-Iran deal.\nThe post Trump plans US strike on Iran’s Pickaxe Mountain amid 2026 war tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-plans-us-strike-on-irans-pickaxe-mountain-amid-2026-war-tensions/",
+      "bloc": "western",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T21:07:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US to reimpose Iran naval blockade on JCPOA anniversary",
+      "summary": "The reimposed blockade heightens geopolitical tensions, risks military conflict, and threatens global oil trade stability via the Strait of Hormuz.\nThe post US to reimpose Iran naval blockade on JCPOA anniversary appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-to-reimpose-iran-naval-blockade-on-jcpoa-anniversary/",
+      "bloc": "western",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T21:07:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Analysis: The Israel-Lebanon framework agreement explained",
       "summary": "On June 26, Israel and Lebanon signed a framework agreement, mediated by the United States, to permanently end their state of conflict and address its root causes—primarily, Hezbollah’s arms. While the deal is promising on its face, significant parts of it ma…",
@@ -40,117 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Is This the American Suez?",
-      "summary": "Van Gosse\n\n\n\nIf the pointless war on Iran is a historical marker equivalent to Suez in ignominy, the question becomes, what do we do with this “Decline of Empire” moment?\r\n\n\r\n\n\nThe post Is This the American Suez? appeared first on The Nation.",
-      "source": "Thenation.com",
-      "url": "https://www.thenation.com/article/world/iran-war-american-decline-suez-crisis-us-foreign-policy-multipolar-world/",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T15:41:47Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Says US Reinstates Blockade of Strait of Hormuz After New Clashes With Iran",
-      "summary": "President Donald Trump said on Monday the United States was reinstating its blockade of Iranian shipping in the Gulf and would ensure the Strait of Hormuz stays open after the two sides exchanged more missile and drone attacks. The latest …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/07/13/877324.htm",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T15:27:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran blocks US intervention in Strait of Hormuz amid ongoing conflict",
-      "summary": "Iran's blockade of the Strait of Hormuz underscores its strategic leverage, potentially prolonging geopolitical tensions and impacting global oil markets.\nThe post Iran blocks US intervention in Strait of Hormuz amid ongoing conflict appeared first on Crypto …",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-blocks-us-intervention-in-strait-of-hormuz-amid-ongoing-conflict/",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T13:07:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Alliances Duel To Reshape Middle Eastern Energy",
-      "summary": "Multiple Middle Eastern Alliances are consolidating. Will this bring stability, or create the fault lines for future confrontation?",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/arielcohen/2026/07/13/alliances-duel-to-reshape-middle-eastern-energy/",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T12:52:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Prices Surge 8% After Trump Reimposes Iran Blockade",
-      "summary": "Oil prices jumped more than 8% on Monday after U.S. President Donald Trump announced the United States would reinstate its blockade on Iran, forcing traders to once again price in the risk of prolonged disruption to energy flows through the Strait of Hormuz. …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-8-After-Trump-Reimposes-Iran-Blockade.html",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T18:30:00Z",
+      "headline": "Oil Price Today (July 14): Crude oil hits one-month high at $85 as US-Iran war tensions simmer. Will it cross $100?",
+      "summary": "Brent crude futures gained $1.68, or 2%, to $84.98 a barrel, while U.S. West Texas Intermediate (WTI) crude rose $1.65, or 2.1%, to $79.79 a barrel. On Monday, Brent had surged 9.6%, marking its biggest single-day jump since May 2020. Crude prices are now at …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-14-crude-oil-hits-one-month-high-at-85-as-us-iran-war-tensions-simmer-will-it-cross-100/articleshow/132379089.cms",
+      "bloc": "regional",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T02:09:27Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump wants US to take over Strait of Hormuz and be reimbursed for control",
-      "summary": "Iran's Revolutionary Guards said the only way to restore regular shipping traffic through the strait was to end US military interventions in the waterway.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-13/trump-strait-of-hormuz-control-plans/106911410",
+      "headline": "Trump’s Strait of Hormuz fee could double the cost of shipping: Experts",
+      "summary": "Trump said on July 13 the US would charge a 20 per cent fee on all cargo shipped through the strait. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/companies-markets/trumps-strait-of-hormuz-fee-could-double-the-cost-of-shipping",
       "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T13:20:58Z",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T01:43:30Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran closes Strait of Hormuz after warning shot hits ship, rattling oil and crypto markets",
-      "summary": "The closure of the Strait of Hormuz highlights the potential for crypto to bypass traditional financial systems, impacting global trade dynamics.\nThe post Iran closes Strait of Hormuz after warning shot hits ship, rattling oil and crypto markets appeared firs…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-strait-hormuz-closure-crypto-oil/",
+      "headline": "U.S. Military Renews Strikes On Iran While Tankers Come Under Attack In Strait Of Hormuz",
+      "summary": "U.S. Central Command said it began strikes at Trump's direction just after the U.S. president told the Hugh Hewitt Show that Iran would be hit \"very hard.\"",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/us-military-renews-strikes-on-iran-while-tankers-come-under-attack-in-strait-of-hormuz_n_6a558aefe4b0107f0db7e293",
       "bloc": "western",
-      "date": "2026-07-11",
-      "datetime": "2026-07-11T22:27:31Z",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T01:13:15Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,13 +222,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over",
-      "summary": "By Ahmed Elimam, Eman Abouhassira and Andrew Mills DUBAI, July 10 (Reuters) - President Donald Trump said on Friday that the United States and Iran had agree...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/politics/articles/tanker-traffic-slows-strait-hormuz-120600473.html",
+      "headline": "Iranian missiles struck oil tankers in Hormuz - UAE",
+      "summary": "One Indian crew member was killed, and eight others were wounded when two Emirati oil tankers were struck by Iranian cruise missiles in the Strait of Hormuz, the United Arab Emirates Ministry of Defence said, in the latest escalation in the strategic waterway.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/0714/1583215-middle-east-strait-of-hormuz/",
       "bloc": "western",
-      "date": "2026-07-10",
-      "datetime": "2026-07-10T19:30:47Z",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T00:02:08Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -243,7 +243,7 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -321,21 +321,22 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Myth of Chinese Birth Tourism",
-      "summary": "The United States has recast a small industry as a national security threat.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/07/07/china-us-birth-tourism-immigration-citizenship/",
+      "headline": "Alliances Duel To Reshape Middle Eastern Energy",
+      "summary": "Multiple Middle Eastern Alliances are consolidating. Will this bring stability, or create the fault lines for future confrontation?",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/arielcohen/2026/07/13/alliances-duel-to-reshape-middle-eastern-energy/",
       "bloc": "western",
-      "date": "2026-07-07",
-      "datetime": "2026-07-07T21:14:09Z",
+      "date": "2026-07-13",
+      "datetime": "2026-07-13T12:52:28Z",
       "leaders": [
-        "Xi Jinping"
+        "Recep Tayyip Erdogan"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "Erdogan Turkey Iran"
       ],
       "dimensions": [
         "survival",
+        "values",
         "impulsivity"
       ],
       "variable_key": null,
@@ -524,31 +525,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US leads international concern after China test-fires missile into Pacific",
-      "summary": "The United States voiced alarm on July 6 over Beijing's nuclear program after China test-fired a purported long-range missile into the Pacific Ocean, the latest move in its rapid military modernization.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/us-leads-international-concern-after-china-test-fires-missile-into-pacific-224076",
-      "bloc": "western",
-      "date": "2026-07-07",
-      "datetime": "2026-07-07T05:31:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "The forgotten war that will decide the future of the Middle East: Trump and Iran are still exchanging fire. But as this riveting dispatch revealed, there will NEVER be peace until Israel's conflict with Hezbollah ends",
       "summary": "Despite Israel and Hezbollah, under pressure from Washington and Tehran, agreeing last month to yet another pause in hostilities, the deadly bombing continues.",
       "source": "Dailymail.com",
@@ -706,28 +682,6 @@
       "variable_key": null,
       "event_type": "infrastructure_attack",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Show HN: Brief: a news reader that condenses ~140k daily articles to few stories",
-      "summary": "Article URL: https://briefnews.co/\nComments URL: https://news.ycombinator.com/item?id=48822209\nPoints: 2\n# Comments: 0",
-      "source": "Briefnews.co",
-      "url": "https://briefnews.co/",
-      "bloc": "western",
-      "date": "2026-07-07",
-      "datetime": "2026-07-07T19:08:11Z",
-      "leaders": [],
-      "watch_terms": [
-        "airstrike missile drone"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     }

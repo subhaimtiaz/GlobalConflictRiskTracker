@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-16T08:20:50.846Z",
+  "ts": "2026-07-16T14:02:15.919Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,19 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 84,
-    "oilStress": 27,
-    "updatedAt": "2026-07-16T08:20:50.846Z"
+    "oilPrice": 85,
+    "oilStress": 29,
+    "updatedAt": "2026-07-16T14:02:15.919Z"
   },
   "items": [
     {
-      "headline": "Tehran threatens to halt all Mideast energy exports after US reimposes its blockade on Iran",
-      "summary": "Iran has recently attacked ships moving through the strait on a route near Oman overseen by the US military that is outside Tehran's control, setting off the recent violence",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/tehran-threatens-to-halt-all-mideast-energy-exports-after-us-reimposes-its-blockade-on-iran/article71224256.ece",
+      "headline": "How Pakistan Mediated an End to the US-Iran War",
+      "summary": "Mediation between great powers is not something a country stumbles into. It requires a specific combination of access, credibility and restraint that is delicate and takes years to build. Pakistan built that combination without anyone in the international com…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/united-states/how-pakistan-mediated-an-end-to-the-us-iran-war/",
       "bloc": "western",
       "date": "2026-07-15",
-      "datetime": "2026-07-15T06:22:27Z",
+      "datetime": "2026-07-15T13:48:12Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -35,70 +35,18 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US Democrats block defense budget over Iran conflict tensions",
-      "summary": "The Democrats' budget block highlights increasing domestic opposition to military strategies, complicating US-Iran conflict resolution efforts.\nThe post US Democrats block defense budget over Iran conflict tensions appeared first on Crypto Briefing.",
+      "headline": "US and Iran exchange heavy strikes for 5th day amid Trump’s power plant threat",
+      "summary": "The ongoing conflict and threats may hinder diplomatic resolutions, affecting market confidence and complicating future US-Iran agreements.\nThe post US and Iran exchange heavy strikes for 5th day amid Trump’s power plant threat appeared first on Crypto Briefi…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-democrats-block-defense-budget-over-iran-conflict-tensions/",
+      "url": "https://cryptobriefing.com/us-and-iran-exchange-heavy-strikes-for-5th-day-amid-trumps-power-plant-threat/",
       "bloc": "western",
       "date": "2026-07-15",
-      "datetime": "2026-07-15T06:20:04Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israel and the United States are Merging their Militaries. Here’s Why.",
-      "summary": "In June 2026, Israeli Prime Minister Netanyahu wrote to Republican Representative Marlin Stutzman of California, saying that “the time has now arrived [for Israel] to move from aid recipient to partner” with the United States. Yesterday, on Fox News, Netanyah…",
-      "source": "CounterPunch",
-      "url": "https://www.counterpunch.org/2026/07/15/israel-and-the-united-states-are-merging-their-militaries-heres-why/",
-      "bloc": "western",
-      "date": "2026-07-15",
-      "datetime": "2026-07-15T05:59:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran and US strike sites that signal how each is willing to raise the stakes",
-      "summary": "Few believe that the tit-for-tat violence will force either into a significant change of heart",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/15/iran-and-us-strike-sites-that-signal-how-each-is-willing-to-raise-the-stakes/",
-      "bloc": "western",
-      "date": "2026-07-15",
-      "datetime": "2026-07-15T05:00:01Z",
+      "datetime": "2026-07-15T13:04:12Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -118,13 +66,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "A massive series of attacks over a seven-hour period around Hormuz",
-      "summary": "The military situation between the United States and Iran, centered around the Strait of Hormuz, has significantly escalated in the past 24 hours. The US Central Command has launched a massive series of precision strikes over a seven-hour period, targeting Ir…",
-      "source": "Gossiplankanews.com",
-      "url": "https://english.gossiplankanews.com/2026/07/a-massive-series-of-attacks-over-seven.html",
+      "headline": "As the US restarts war on Iran, is its weapons stockpile running low?",
+      "summary": "The US has expended a significant number of munitions since the war began in February.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/15/as-the-us-restarts-war-on-iran-is-its-weapons-stockpile-running-low",
+      "bloc": "regional",
+      "date": "2026-07-15",
+      "datetime": "2026-07-15T12:55:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US Launches Fourth Straight Night of Strikes on Iran as Hormuz Conflict Escalates Toward Wider War",
+      "summary": "The US and Iran are on the brink of war as tensions escalate over the Strait of Hormuz, with both nations exchanging military strikes and impacting global oil markets.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/us-iran-conflict-strait-hormuz-1872345",
       "bloc": "western",
       "date": "2026-07-15",
-      "datetime": "2026-07-15T03:20:20Z",
+      "datetime": "2026-07-15T12:51:40Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -144,39 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US imposes another naval blockade on Iranian ports as row over Hormuz strait continues",
-      "summary": "The blockade followed Iranian strikes on the US’ Gulf allies.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/us-blockade-iranian-ports-7102217-Jul2026/",
-      "bloc": "western",
+      "headline": "US reports 'wave of strikes' on Iran as war returns",
+      "summary": "The United States initiated strikes against Iran after reimposing a naval blockade. Iran's Revolutionary Guards reported targeting the US Fifth Fleet in Bahrain. President Donald Trump threatened wider strikes unless Tehran negotiates peace. Tensions remain h…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-reports-wave-of-strikes-on-iran-as-war-returns/articleshow/132417389.cms",
+      "bloc": "regional",
       "date": "2026-07-15",
-      "datetime": "2026-07-15T06:00:43Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil prices rise as Trump threatens further strikes on Iran",
-      "summary": "US resumes blockade on the Islamic Republic’s shipping through the Strait of Hormuz",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/business/2026/07/15/oil-prices-rise-as-trump-threatens-further-strikes-on-iran/",
-      "bloc": "western",
-      "date": "2026-07-15",
-      "datetime": "2026-07-15T05:54:05Z",
+      "datetime": "2026-07-15T13:38:58Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil Extends Gains as Trump Threatens Further Strikes on Iran",
-      "summary": "Oil rose for a third day as President Donald Trump threatened further strikes on Iran, hours after the US resumed its blockade on the Islamic Republic’s shipping through the Strait of Hormuz.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-extends-gains-as-trump-threatens-further-strikes-on-iran",
+      "headline": "US reports ‘wave of strikes’ on Iran as war returns",
+      "summary": "The United States launched a wave of strikes against Iran on Wednesday, after it reimposed a naval blockade in a return to war between the two foes.\nThe post US reports ‘wave of strikes’ on Iran as war returns appeared first on Vanguard News.",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-reports-wave-of-strikes-on-iran-as-war-returns/",
       "bloc": "western",
       "date": "2026-07-15",
-      "datetime": "2026-07-15T04:39:24Z",
+      "datetime": "2026-07-15T12:40:22Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran-linked vessels pass through Strait of Hormuz ahead of US blockade",
-      "summary": "Iran-linked vessels increased transit through the Strait of Hormuz before a US-imposed blockade, escalating tensions in the region.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/iran-linked-vessels-pass-through-strait-of-hormuz-ahead-of-us-blockade/article71223949.ece",
+      "headline": "IMO Urges Shippers Not to Risk Strait of Hormuz Transits",
+      "summary": "Navigation through the Strait of Hormuz remains too dangerous for ship owners and operators to brave the chokepoint, the head of the United Nations’ International Maritime Organization (IMO) said on Wednesday. “I will maintain the message of upholding interna…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/IMO-Urges-Shippers-Not-to-Risk-Strait-of-Hormuz-Transits.html",
       "bloc": "western",
       "date": "2026-07-15",
-      "datetime": "2026-07-15T03:58:51Z",
+      "datetime": "2026-07-15T12:30:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -244,6 +192,58 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US Says It Disabled Tanker Bound for Iran Amid Blockade",
+      "summary": "The US military says it disabled an unladen oil tanker attempting to sail toward an Iranian port on July 15, after the commercial vessel ignored multiple warnings \"as it attempted to violate the US blockade.\"",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260715-rferl03.htm",
+      "bloc": "western",
+      "date": "2026-07-15",
+      "datetime": "2026-07-15T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump threatens Iran with more bombing as U.S. missile stockpiles decline, the Strait of Hormuz slams shut, and there’s no endgame in sight",
+      "summary": "Everything you need to know before you reach the office this morning.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/15/trump-threatens-iran-bombing-us-missile-stockpiles-strait-of-hormuz-shut/",
+      "bloc": "western",
+      "date": "2026-07-15",
+      "datetime": "2026-07-15T10:30:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

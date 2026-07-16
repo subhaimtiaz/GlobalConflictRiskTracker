@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-16T02:52:44.720Z",
+  "ts": "2026-07-16T08:20:50.846Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,201 +8,149 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 85,
-    "oilStress": 29,
-    "updatedAt": "2026-07-16T02:52:44.720Z"
+    "oilPrice": 84,
+    "oilStress": 27,
+    "updatedAt": "2026-07-16T08:20:50.846Z"
   },
   "items": [
     {
-      "headline": "The U.S. is Facing an Ammunition Shortage Due to the Iran War. Here’s What That Means",
-      "summary": "en. Mark Kelly, a retired Navy Captain and former astronaut, earned the ire of the Pentagon last week for raising concerns over U.S. weapons stockpiles that have been depleted by the Iran War. Citing a Department of Defense (DOD) briefing he had received, Kel…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4387987/posts",
-      "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T23:38:07Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran launches ballistic missiles from Tabriz and Urmia as Middle East conflict intensifies",
-      "summary": "The escalation risks destabilizing global markets, potentially triggering inflationary pressures and impacting monetary policies worldwide.\nThe post Iran launches ballistic missiles from Tabriz and Urmia as Middle East conflict intensifies appeared first on C…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-ballistic-missiles-tabriz-urmia-crypto-impact/",
-      "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T23:10:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Langley F-22s Return Home from Operation Epic Fury Deployment",
-      "summary": "Deployed to Israel since February, F-22 Raptors from the 1st Fighter Wing at Langley AFB transited towards home with an unusual stopover at RAF Fairford over the weekend. Twelve 1st FW Raptors in total are thought to be part of the package heading home. Ten j…",
-      "source": "Theaviationist.com",
-      "url": "https://theaviationist.com/2026/07/14/langley-f22s-return-epic-fury/",
-      "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T21:49:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US risks escalation trap with potential Iran ground assault, analyst warns",
-      "summary": "A potential U.S. ground assault in Iran risks escalating into a broader regional conflict, undermining prospects for a peaceful resolution.\nThe post US risks escalation trap with potential Iran ground assault, analyst warns appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-risks-escalation-trap-with-potential-iran-ground-assault-analyst-warns/",
-      "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T19:23:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Scraps Hormuz Toll Plan as U.S.-Iran Conflict Deepens",
-      "summary": "US President Donald Trump has walked back his plan to charge a 20 percent fee on cargo shipped through the Strait of Hormuz, replacing it with proposed trade and investment agreements with Persian Gulf states while maintaining a blockade on Iranian shipping. …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/Trump-Scraps-Hormuz-Toll-Plan-as-US-Iran-Conflict-Deepens.html",
-      "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T19:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Price Today (July 15): Crude oil above $86 as US-Iran exchange fresh strikes. Bigger surge brewing?",
-      "summary": "Brent crude settled at its highest level since June 12 for a second consecutive session, while West Texas Intermediate (WTI) closed at its strongest level since June 15.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-15-crude-oil-above-86-as-us-iran-exchange-fresh-strikes-bigger-surge-brewing/articleshow/132404132.cms",
-      "bloc": "regional",
-      "date": "2026-07-15",
-      "datetime": "2026-07-15T02:11:57Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US launches fresh Iran strikes, reimposes naval blockade",
-      "summary": "US forces carried out strikes against Iran for a fourth day in a row and reimposed a naval blockade to prevent ships from sailing to or from the country's ports.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/middle-east/2026/0715/1583399-middle-east/",
+      "headline": "Tehran threatens to halt all Mideast energy exports after US reimposes its blockade on Iran",
+      "summary": "Iran has recently attacked ships moving through the strait on a route near Oman overseen by the US military that is outside Tehran's control, setting off the recent violence",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/tehran-threatens-to-halt-all-mideast-energy-exports-after-us-reimposes-its-blockade-on-iran/article71224256.ece",
       "bloc": "western",
       "date": "2026-07-15",
-      "datetime": "2026-07-15T00:26:40Z",
+      "datetime": "2026-07-15T06:22:27Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Iran war ceasefire"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "The Battle For The Strait Of Hormuz Will Show Whether The World Can Survive Without Oil From The Persian Gulf Or Not",
-      "summary": "Now we are going to get to see what really happens to the global economy when the Strait of Hormuz is completely closed for an extended period of time. Before the war, approximately 45 percent of all Asian oil imports traveled through the Strait of Hormuz. Th…",
-      "source": "Theeconomiccollapseblog.com",
-      "url": "http://theeconomiccollapseblog.com/the-battle-for-the-strait-of-hormuz-will-show-whether-the-world-can-survive-without-oil-from-the-persian-gulf-or-not/",
+      "headline": "US Democrats block defense budget over Iran conflict tensions",
+      "summary": "The Democrats' budget block highlights increasing domestic opposition to military strategies, complicating US-Iran conflict resolution efforts.\nThe post US Democrats block defense budget over Iran conflict tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-democrats-block-defense-budget-over-iran-conflict-tensions/",
       "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T20:32:25Z",
+      "date": "2026-07-15",
+      "datetime": "2026-07-15T06:20:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israel and the United States are Merging their Militaries. Here’s Why.",
+      "summary": "In June 2026, Israeli Prime Minister Netanyahu wrote to Republican Representative Marlin Stutzman of California, saying that “the time has now arrived [for Israel] to move from aid recipient to partner” with the United States. Yesterday, on Fox News, Netanyah…",
+      "source": "CounterPunch",
+      "url": "https://www.counterpunch.org/2026/07/15/israel-and-the-united-states-are-merging-their-militaries-heres-why/",
+      "bloc": "western",
+      "date": "2026-07-15",
+      "datetime": "2026-07-15T05:59:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran and US strike sites that signal how each is willing to raise the stakes",
+      "summary": "Few believe that the tit-for-tat violence will force either into a significant change of heart",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/15/iran-and-us-strike-sites-that-signal-how-each-is-willing-to-raise-the-stakes/",
+      "bloc": "western",
+      "date": "2026-07-15",
+      "datetime": "2026-07-15T05:00:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "A massive series of attacks over a seven-hour period around Hormuz",
+      "summary": "The military situation between the United States and Iran, centered around the Strait of Hormuz, has significantly escalated in the past 24 hours. The US Central Command has launched a massive series of precision strikes over a seven-hour period, targeting Ir…",
+      "source": "Gossiplankanews.com",
+      "url": "https://english.gossiplankanews.com/2026/07/a-massive-series-of-attacks-over-seven.html",
+      "bloc": "western",
+      "date": "2026-07-15",
+      "datetime": "2026-07-15T03:20:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US imposes another naval blockade on Iranian ports as row over Hormuz strait continues",
+      "summary": "The blockade followed Iranian strikes on the US’ Gulf allies.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/us-blockade-iranian-ports-7102217-Jul2026/",
+      "bloc": "western",
+      "date": "2026-07-15",
+      "datetime": "2026-07-15T06:00:43Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,13 +170,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran declares withdrawal from MoU with US, cites naval blockade as justification",
-      "summary": "Iran's MoU withdrawal may escalate regional tensions, impact global oil supply, and intensify scrutiny on crypto markets linked to sanctions.\nThe post Iran declares withdrawal from MoU with US, cites naval blockade as justification appeared first on Crypto Br…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-withdraws-mou-us-naval-blockade-crypto/",
+      "headline": "Oil prices rise as Trump threatens further strikes on Iran",
+      "summary": "US resumes blockade on the Islamic Republic’s shipping through the Strait of Hormuz",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/2026/07/15/oil-prices-rise-as-trump-threatens-further-strikes-on-iran/",
       "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T20:12:02Z",
+      "date": "2026-07-15",
+      "datetime": "2026-07-15T05:54:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Extends Gains as Trump Threatens Further Strikes on Iran",
+      "summary": "Oil rose for a third day as President Donald Trump threatened further strikes on Iran, hours after the US resumed its blockade on the Islamic Republic’s shipping through the Strait of Hormuz.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-extends-gains-as-trump-threatens-further-strikes-on-iran",
+      "bloc": "western",
+      "date": "2026-07-15",
+      "datetime": "2026-07-15T04:39:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran-linked vessels pass through Strait of Hormuz ahead of US blockade",
+      "summary": "Iran-linked vessels increased transit through the Strait of Hormuz before a US-imposed blockade, escalating tensions in the region.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/iran-linked-vessels-pass-through-strait-of-hormuz-ahead-of-us-blockade/article71223949.ece",
+      "bloc": "western",
+      "date": "2026-07-15",
+      "datetime": "2026-07-15T03:58:51Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

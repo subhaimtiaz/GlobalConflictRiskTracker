@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-17T02:55:00.683Z",
+  "ts": "2026-07-17T08:16:52.482Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 85,
     "oilStress": 28,
-    "updatedAt": "2026-07-17T02:55:00.683Z"
+    "updatedAt": "2026-07-17T08:16:52.482Z"
   },
   "items": [
+    {
+      "headline": "Gulf States Signal Openness to Strait of Hormuz Fees, Reject Iranian Control",
+      "summary": "Several Arab Gulf states have privately indicated to U.S. and European officials that they are not opposed to paying a fee for transiting the Strait of Hormuz, but they reject any arrangement that gives Iran control over the waterway, according to multiple U.…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-16-gulf-states-signal-openness-to-hormuz-fees.html",
+      "bloc": "western",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Strait of Hormuz closure tests Iran-Oman alliance as US-Israeli war escalates into regional crisis",
+      "summary": "The contentious waters of the Strait of Hormuz have become the epicenter of a widening confrontation that threatens to redraw the geopolitical map of the Middle East. When Iran announced the closure of this strategic waterway on July 12, 2026, it was a calcul…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-16-strait-of-hormuz-closure-tests-iran-oman-alliance.html",
+      "bloc": "western",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US inflation eases in June on lower energy costs",
       "summary": "US wholesale inflation eased in June 2026 due to falling energy costs, government data shows. Discover how this impacts US inflation and future economic ou\n\nRead More: https://punchng.com/us-inflation-eases-in-june-on-lower-energy-costs/",
@@ -92,184 +144,132 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Says The Quiet Part Out Loud About Ending War With Iran",
-      "summary": "As Donald Trump's illegal, Israel-fueled war with Iran continues to rage with no end in sight, the sitting President of the United States made it perfectly clear that negotiating an end to this insanity isn't even on his to-do list. \nIn this administration's …",
-      "source": "Crooksandliars.com",
-      "url": "https://crooksandliars.com/2026/07/trump-says-quiet-part-loud-about-ending",
-      "bloc": "western",
-      "date": "2026-07-15",
-      "datetime": "2026-07-15T15:00:33Z",
+      "headline": "US expands strikes into northern Iran and disables ship trying to run blockade",
+      "summary": "United States forces intensified strikes targeting Iran early Thursday. Iran retaliated with missile and drone fire targeting Bahrain, Jordan, and Kuwait. The United States also fired into a ship accused of breaking its naval blockade. Rising oil prices pose …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-launches-strikes-in-northern-iran-and-engages-ship-defying-blockade-amid-escalating-tensions/articleshow/132432429.cms",
+      "bloc": "regional",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T07:23:13Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US, Iran exchange blows in rekindled Mideast war",
+      "summary": "The United States intensified its strikes targeting Iran early on July 16, hitting targets further north as American forces also fired into a ship it accused of trying to break its naval blockade on the Islamic Republic. Iran retaliated with missile and drone…",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-iran-exchange-blows-in-rekindled-mideast-war-224429",
+      "bloc": "western",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T07:06:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Israel and the United States Are Merging Their Militaries. Here’s Why.",
-      "summary": "In June 2026, Israeli Prime Minister Netanyahu wrote to Republican Representative Marlin Stutzman of California, saying that “the time has now arrived [for Israel] to move from aid recipient to partner” with the United States. Yesterday, on Fox News, Netanyah…",
-      "source": "Antiwar.com",
-      "url": "https://www.antiwar.com/blog/2026/07/15/israel-and-the-united-states-are-merging-their-militaries-heres-why/",
+      "headline": "US air strikes hit northern Iran as it disables ship trying to breach blockade",
+      "summary": "Tehran retaliates with missile and drone fire targeting Bahrain, Jordan and Kuwait before dawn",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/16/us-air-strikes-hit-northern-iran-as-it-disables-ship-trying-to-breach-blockade/",
       "bloc": "western",
-      "date": "2026-07-15",
-      "datetime": "2026-07-15T14:47:47Z",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T06:18:45Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US unleashes strikes near Tehran and targets a ship breaking the blockade as Trump threatens to 'finish it off'",
+      "summary": "Tensions escalated early Thursday as Iran retaliated against US strikes by issuing drone attacks on military targets in Bahrain, Kuwait and Jordan.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15981353/us-strikes-iran-tehran-ship-blockade-trump.html",
+      "bloc": "western",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T06:02:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The pros & cons that matter for autumn or spring elections, Samaras’s headquarters (at Livanis’s?), seven people in one room & fierce exchanges in SYRIZA",
+      "summary": "The phones never stop ringing - not even at night...\nThe post The pros & cons that matter for autumn or spring elections, Samaras’s headquarters (at Livanis’s?), seven people in one room & fierce exchanges in SYRIZA appeared first on ProtoThema English.",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/07/16/the-pros-cons-that-matter-for-autumn-or-spring-elections-samarass-headquarters-at-livaniss-seven-people-in-one-room-fierce-exchanges-in-syriza/",
+      "bloc": "western",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T05:41:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US intensifies strikes on Iran as fighting spreads across the Gulf and Strait of Hormuz",
-      "summary": "The US expanded strikes on Iran and reimposed a naval blockade as Tehran retaliated and tensions in the Strait of Hormuz pushed oil prices higher.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/us-intensifies-strikes-on-iran-as-fighting-spreads-across-the-gulf-and-strait-of-hormuz/article71228343.ece",
-      "bloc": "western",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T02:29:26Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Price Today (July 16): Crude oil at $86, rises for 4th day as US-Iran attacks continue. What are experts saying?",
-      "summary": "The United States on Wednesday targeted Iran's coastal defence systems and missile sites after reimposing a naval blockade on Iranian ports. In response, Iran warned that it could further restrict regional energy exports, saying it was fighting an \"existentia…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-16-crude-oil-at-86-rises-for-4th-day-as-us-iran-attacks-continue-what-are-experts-saying/articleshow/132427823.cms",
-      "bloc": "regional",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T02:12:38Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US broadens Iran offensive; Tehran strikes Bahrain, Kuwait",
-      "summary": "United States forces intensified strikes targeting Iran early Thursday, hitting new locations. Iran retaliated with missile and drone fire targeting Bahrain and Kuwait. Days of back-and-forth strikes have shredded the interim deal to end the Iran war. The Uni…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-broadens-iran-offensive-tehran-strikes-bahrain-kuwait/articleshow/132427693.cms",
-      "bloc": "regional",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T02:01:35Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "CENTCOM wraps evening strike wave against Iranian targets",
-      "summary": "CENTCOM completes another wave of precision strikes on Iranian command centers and defenses in Bandar Abbas and Greater Tunb Island to protect commercial shipping.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430246",
-      "bloc": "western",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T01:40:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Some ships refusing US-military guided Hormuz transits after attacks, sources say",
-      "summary": "Shipping firms are avoiding a U.S. military transit route through the Strait of Hormuz. This avoidance stems from recent Iranian attacks on vessels and growing safety worries. The U.S. military has been guiding ships through the strait after attacks. However,…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/some-ships-refusing-us-military-guided-hormuz-transits-after-attacks-sources-say/articleshow/132427480.cms",
-      "bloc": "regional",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T01:31:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -373,6 +373,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Oil is crude once again! Is $95 the new normal and what it means for Indian investors?",
+      "summary": "Crude oil prices are rising again due to escalating Middle East tensions. This surge impacts India's import costs and government finances significantly. Higher oil prices will likely pressure the Indian rupee and fuel inflation. Indian equity markets may expe…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-is-crude-once-again-is-95-the-new-normal-and-what-it-means-for-indian-investors/articleshow/132430022.cms",
+      "bloc": "regional",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T04:57:51Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran War: Trump Lashes Himself to Strait of Hormuz Mast With Renewed Blockade, Intensified Attacks on Iran; Oil Crunch Worsens as Iran Halt Fujairah Shipments, Houthis Threaten to Close Bab el-Mandeb",
       "summary": "Today's Iran war news: Trump is indeed making himself Herbert Hoover 2.0 with his latest escalation.",
       "source": "Nakedcapitalism.com",
@@ -432,32 +458,6 @@
       "bloc": "western",
       "date": "2026-07-13",
       "datetime": "2026-07-13T10:16:28Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of July 13, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-07-13-2026/",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T10:00:14Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

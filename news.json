@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-17T13:47:04.313Z",
+  "ts": "2026-07-17T19:16:53.416Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 87,
-    "oilStress": 31,
-    "updatedAt": "2026-07-17T13:47:04.313Z"
+    "oilPrice": 88,
+    "oilStress": 33,
+    "updatedAt": "2026-07-17T19:16:53.416Z"
   },
   "items": [
+    {
+      "headline": "Iran accuses US of violating Islamabad MOU, escalating tensions",
+      "summary": "The U.S.-Iran tensions may lead to prolonged geopolitical instability, affecting global markets and diplomatic relations in the region.\nThe post Iran accuses US of violating Islamabad MOU, escalating tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-accuses-us-of-violating-islamabad-mou-escalating-tensions/",
+      "bloc": "western",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T15:25:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Thursday: Hili dialogue",
       "summary": "Welcome to Thursday, July 16, 2026 and National Cherry Day. Here’s a bowl of pie cherries from Andrzej and Malgorzata’s orchard, next to a pie that Malgorzata made in 2016: my first cherry pie in Dobrzyn: It’s also Guinea Pig Appreciation Day, National Corn F…",
@@ -118,39 +144,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US shifts strategy in 2026 Iran war, focuses on decisive military objectives",
-      "summary": "The strategic shift may foster diplomatic negotiations, impacting market perceptions and potentially leading to a US-Iran deal in 2026.\nThe post US shifts strategy in 2026 Iran war, focuses on decisive military objectives appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-shifts-strategy-in-2026-iran-war-focuses-on-decisive-military-objectives/",
+      "headline": "The tankers that triggered the latest Gulf escalation were 'highly, highly targeted'",
+      "summary": "The commercial tankers struck as they transited the Strait of Hormuz in recent weeks were not random, but part of a \"highly, highly targeted\" campaign run by Tehran, according to marine traffic watchers.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-17/iran-again-testing-donald-trump-pain-threshold/106910166",
       "bloc": "western",
-      "date": "2026-07-15",
-      "datetime": "2026-07-15T21:01:33Z",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T18:38:45Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran-US Hostilities Worsen as Hormuz Shipping Traffic Falls",
+      "summary": "The US intensified strikes against Iran overnight, hitting an oil tanker near the country’s main export terminal as shipping traffic slumped through the critical Strait of Hormuz.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/iran-us-hostilities-worsen-as-hormuz-shipping-traffic-falls",
+      "bloc": "western",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T15:25:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US strikes oil tanker with missiles to enforce Iran blockade, sending shockwaves through energy and crypto markets",
-      "summary": "The US missile strike on an oil tanker heightens geopolitical tensions, potentially driving up global energy costs and impacting crypto markets.\nThe post US strikes oil tanker with missiles to enforce Iran blockade, sending shockwaves through energy and crypt…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-strikes-tanker-iran-blockade-crypto/",
+      "headline": "Iran, US Step Up Attacks, Though Release of American May Signal Path to Climbdown",
+      "summary": "Iran and the United States exchanged intensified fire on Thursday in a week-long escalation that has all but torn up last month’s truce, though Iran’s release of a U.S. citizen pointed towards a path to avert the resumption of all-out …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/16/877887.htm",
       "bloc": "western",
       "date": "2026-07-16",
-      "datetime": "2026-07-16T12:33:14Z",
+      "datetime": "2026-07-16T15:13:15Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +222,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran, US escalate in Gulf but release of American signals path to climb down",
-      "summary": "By Nayera Abdallah and Jana Choukeir DUBAI, July 16 (Reuters) - Iran and the United States exchanged intensified fire on Thursday in a week-long escalation t...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/world/articles/iran-warns-strait-hormuz-red-075143851.html",
+      "headline": "3 islands help control access to the Strait of Hormuz. They're in the crosshairs of the Iran war",
+      "summary": "The expanding U.S. military campaign against Iran has put three small islands that sit at the confluence of the Persian Gulf and the Strait of Hormuz in the crosshairs once again",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/3-islands-control-access-strait-hormuz-crosshairs-iran-134813310",
       "bloc": "western",
       "date": "2026-07-16",
-      "datetime": "2026-07-16T12:13:14Z",
+      "datetime": "2026-07-16T14:00:39Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -191,44 +243,18 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US strikes oil tanker with missiles as it enforces new Iran blockade",
-      "summary": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o",
+      "headline": "3 Islands Help Control Access to the Strait of Hormuz. They’re in the Crosshairs of the Iran War",
+      "summary": "The land mass of all three islands totals just about 10 square miles (25 square kilometers).",
+      "source": "Military.com",
+      "url": "https://military.com/3-islands-help-control-access-to-the-strait-of-hormuz-theyre-in-the-crosshairs-of-the-iran-war",
       "bloc": "western",
       "date": "2026-07-16",
-      "datetime": "2026-07-16T12:09:26Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Markets diverge as geopolitical risks mask weakening fundamentals: QCP",
-      "summary": "Geopolitical tensions may lead to market volatility, obscuring true economic conditions and complicating investment strategies.\nThe post Markets diverge as geopolitical risks mask weakening fundamentals: QCP appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/markets-diverge-as-geopolitical-risks-mask-weakening-fundamentals-qcp/",
-      "bloc": "western",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T11:57:39Z",
+      "datetime": "2026-07-16T13:55:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

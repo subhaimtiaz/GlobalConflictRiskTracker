@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-18T13:24:26.248Z",
+  "ts": "2026-07-18T19:11:12.459Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 88,
     "oilStress": 34,
-    "updatedAt": "2026-07-18T13:24:26.248Z"
+    "updatedAt": "2026-07-18T19:11:12.459Z"
   },
   "items": [
+    {
+      "headline": "Lebanon’s Peacekeepers Are Heading for the Exits",
+      "summary": "As UNIFIL leave Lebanon, it’s not clear who—if anyone—will replace it.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/07/17/lebanon-un-peacekeepers-israel-unifil/",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T14:25:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US, Iran Each Attack Infrastructure in Risky Escalation of Conflict",
+      "summary": "The United States struck bridges and an airport in Iran on Friday and Tehran responded by hitting a power and desalination plant in Kuwait, as the warring foes risked further escalation by expanding their targets to include infrastructure. In the …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/17/878039.htm",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T13:56:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
       "summary": "The UN Secretary-General remains deeply concerned by the continuing deadly military escalation between Iran and the United States, his spokesperson said on Friday as attacks destroyed key civilian and military infrastructure across the Gulf region.",
@@ -92,117 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran claims drone attacks on US sites in Kuwait amid 2026 war escalation",
-      "summary": "Iran claims responsibility for drone attacks on U.S. sites in Kuwait. Military action against a Gulf state on July 9 at 99.9% YES.\nThe post Iran claims drone attacks on US sites in Kuwait amid 2026 war escalation appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-claims-drone-attacks-on-us-sites-in-kuwait-amid-2026-war-escalation/",
+      "headline": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
+      "summary": "One seafarer was killed and three were injured in attack on the crude oil tanker Al Bahyah off Oman's coast on Tuesday.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html",
       "bloc": "western",
       "date": "2026-07-17",
-      "datetime": "2026-07-17T02:54:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US expands Iran strikes, hits bridges as Tehran widens missile attacks across Gulf",
-      "summary": "US strikes Iranian bridges as Tehran launches fresh missile attacks across the Gulf, escalating the Strait of Hormuz crisis and threatening global oil supplies.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/us-expands-iran-strikes-hits-bridges-as-tehran-widens-missile-attacks-across-gulf/article71232552.ece",
-      "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T01:16:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Only 3 vessels transit Strait of Hormuz over past 24 hours amid renewed US-Iran hostilities",
-      "summary": "Only three commodity vessels crossed the Strait of Hormuz in the last 24 hours as of 0730GMT Friday, marking the lowest daily transit level since May as maritime traffic remained largely halted amid renewed military escalation between the US and Iran, Anadolu…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260717-azertac01.htm",
-      "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran-linked tankers U-turn, zig-zag as US enforces blockade",
-      "summary": "US sanctions on Iranian shipping have been reimposed, impacting tanker movements. Several Iran-linked tankers changed course in the Gulf of Oman and Arabian Sea. Ship tracking data shows diversions and zig-zagging patterns by these vessels. The US military ha…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-linked-tankers-u-turn-zig-zag-as-us-enforces-blockade/articleshow/132460684.cms",
-      "bloc": "regional",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T11:55:55Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
-      "summary": "The U.S. and Iran expanded their targets in the latest round of strikes on Friday, as fighting over the control of the Strait of Hormuz reignites fears of an all-out war.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
-      "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T11:13:58Z",
+      "datetime": "2026-07-17T18:20:37Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US Strikes Bridges and Collapses a Tower at a Key Port as Its Iran Campaign Expands",
-      "summary": "Iran launched new missile attacks against U.S.-allied nations in the Middle East.",
-      "source": "Military.com",
-      "url": "https://military.com/us-strikes-bridges-and-collapses-a-tower-at-a-key-port-as-its-iran-campaign-expands",
+      "headline": "Trump's 60-day Iran deal reaches halfway mark as ceasefire collapses into escalating war",
+      "summary": "Halfway through the 60-day negotiating window, the U.S. has struck over 300 Iranian targets while Iran attacks commercial vessels in the Strait of Hormuz.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trumps-60-day-iran-deal-reaches-halfway-mark-ceasefire-collapses-escalating-war",
       "bloc": "western",
       "date": "2026-07-17",
-      "datetime": "2026-07-17T10:02:06Z",
+      "datetime": "2026-07-17T17:11:32Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -244,6 +192,84 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US missile strike on Iranian oil tanker near Kharg Island rattles energy markets, ripples into crypto",
+      "summary": "US Hellfire missile strike on an oil tanker near Iran's Kharg Island escalates tensions, threatening Bitcoin mining margins and boosting stablecoin demand.\nThe post US missile strike on Iranian oil tanker near Kharg Island rattles energy markets, ripples into…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-missile-strike-iran-oil-tanker-crypto-impact/",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T15:39:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US forces destroy Iranian surveillance tower at Chabahar port for the third time",
+      "summary": "US forces destroyed an IRGC surveillance tower at Chabahar port for the third time, targeting Iran's maritime monitoring capacity near the Strait of Hormuz.\nThe post US forces destroy Iranian surveillance tower at Chabahar port for the third time appeared fir…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-forces-destroy-iran-chabahar-surveillance-tower/",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T15:13:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US, Iran Each Attack Infrastructure in Risky Escalation",
+      "summary": "The United States struck bridges and an airport in Iran on Friday and Tehran responded by hitting a power and desalination plant in Kuwait, as the warring foes risked further escalation by expanding their targets to include infrastructure.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/us-iran-each-attack-infrastructure-in-risky-escalation/",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T15:11:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -500,6 +526,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iranian strike hits a Kuwait desalination plant, damaging key water source",
+      "summary": "Iranian strikes on Friday hit a power and water desalination plant in Kuwait, damaging one of the key sources of drinking water in the small desert nation.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/17/world-news/iranian-strike-damages-a-kuwait-desalination-plant-exposing-water-vulnerability-in-dry-mideast/",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T13:39:25Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Wednesday, July 15. Russia’s War On Ukraine: News And Information From Ukraine",
       "summary": "Dispatches from Ukraine. Day 1603.",
       "source": "Forbes",
@@ -553,29 +602,6 @@
       "bloc": "regional",
       "date": "2026-07-14",
       "datetime": "2026-07-14T12:14:10Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "'Putin and his family might \"jump\" out of a window': Russian leader under growing pressure from oligarchs as Ukraine's strikes spark more petrol shortages and chaos",
-      "summary": "As Ukraine's long-range strikes take effect, Vladimir Putin and his family might 'jump' out of a window, according to a senior Estonian minister.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15972831/Putin-family-jump-window-Russian-leader-growing-pressure-oligarchs-Ukraines-strikes-spark-petrol-shortages-chaos.html",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T07:18:02Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

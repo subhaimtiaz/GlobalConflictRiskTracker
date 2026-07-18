@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-18T02:47:33.829Z",
+  "ts": "2026-07-18T07:58:58.577Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 88,
-    "oilStress": 34,
-    "updatedAt": "2026-07-18T02:47:33.829Z"
+    "oilStress": 33,
+    "updatedAt": "2026-07-18T07:58:58.577Z"
   },
   "items": [
+    {
+      "headline": "US Attacks Bridges, Collapses Tower At Key Iranian Port",
+      "summary": "Iranian officials say U.S. strikes have killed dozens of people and wounded hundreds of others, with new casualties reported in Friday’s strikes.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/us-war-on-iran_n_6a59b89ee4b0f033db1b4226",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T05:25:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran claims drone attacks on US sites in Kuwait amid 2026 war escalation",
+      "summary": "Iran claims responsibility for drone attacks on U.S. sites in Kuwait. Military action against a Gulf state on July 9 at 99.9% YES.\nThe post Iran claims drone attacks on US sites in Kuwait amid 2026 war escalation appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-claims-drone-attacks-on-us-sites-in-kuwait-amid-2026-war-escalation/",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T02:54:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US expands Iran strikes, hits bridges as Tehran widens missile attacks across Gulf",
       "summary": "US strikes Iranian bridges as Tehran launches fresh missile attacks across the Gulf, escalating the Strait of Hormuz crisis and threatening global oil supplies.",
@@ -92,91 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Thursday: Hili dialogue",
-      "summary": "Welcome to Thursday, July 16, 2026 and National Cherry Day. Here’s a bowl of pie cherries from Andrzej and Malgorzata’s orchard, next to a pie that Malgorzata made in 2016: my first cherry pie in Dobrzyn: It’s also Guinea Pig Appreciation Day, National Corn F…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/07/16/thursday-hili-dialogue-596/",
+      "headline": "Iran-Linked Tankers U-Turn, Zig-Zag",
+      "summary": "Two U.S.-sanctioned tankers carrying cooking fuel are U-turning and zig-zagging in the Gulf of Oman and Arabian Sea.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/iranlinked_tankers_uturn_zigzag-17-jul-2026-184152-article/",
       "bloc": "western",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T11:45:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Gulf States Signal Openness to Strait of Hormuz Fees, Reject Iranian Control",
-      "summary": "Several Arab Gulf states have privately indicated to U.S. and European officials that they are not opposed to paying a fee for transiting the Strait of Hormuz, but they reject any arrangement that gives Iran control over the waterway, according to multiple U.…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-16-gulf-states-signal-openness-to-hormuz-fees.html",
-      "bloc": "western",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US expands attacks on Iran, which calls Strait of Hormuz a 'red line' as it retaliates",
-      "summary": "United States intensified strikes against Iran, hitting targets farther north. Iran retaliated with missiles and drones at US allies in the region. The interim ceasefire collapsed, leading to days of back-and-forth attacks. US strikes reached areas around Ira…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-expands-attacks-on-iran-which-calls-strait-of-hormuz-a-red-line-as-it-retaliates/articleshow/132450527.cms",
-      "bloc": "regional",
       "date": "2026-07-17",
-      "datetime": "2026-07-17T01:42:56Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Battle For The Strait Of Hormuz: Can The World Survive Without Oil From The Persian Gulf?",
-      "summary": "Now, we are going to see what really happens to the global economy when the Strait of Hormuz is completely closed for an extended period of time. Before the war, approximately 45 percent of all Asian oil imports traveled through the Strait of Hormuz.",
-      "source": "Shtfplan.com",
-      "url": "https://www.shtfplan.com/war/the-battle-for-the-strait-of-hormuz-can-the-world-survive-without-oil-from-the-persian-gulf",
-      "bloc": "western",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T22:30:17Z",
+      "datetime": "2026-07-17T07:08:22Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,39 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US Marines board tanker as Navy enforces blockade on Iran",
-      "summary": "CENTCOM releases footage of US Marines boarding a tanker in the Gulf of Oman while enforcing its \"steel wall\" naval blockade against Iranian ports.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430304",
+      "headline": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates",
+      "summary": "Oil prices were headed early on Friday for a 12% weekly gain, the biggest jump in one week since April, as the re-escalation in the Middle East and the abrupt halt to the recovery of Strait of Hormuz flows pushed crude futures prices to the highest in over a …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Set-for-Biggest-Weekly-Surge-Since-April-as-Iran-War-Escalates.html",
       "bloc": "western",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T22:09:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. hits Iran with fresh round of strikes for 6th consecutive night",
-      "summary": "Iran and the ‌United States exchanged intensifying fire on Thursday in a week-long escalation that has largely unravelled last month's truce, while Tehran disputed U.S. President Donald Trump's claim that a U.S. citizen had been released.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/iran-us-strikes-strait-hormuz-9.7273067",
-      "bloc": "western",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T21:10:00Z",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T05:41:26Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -248,13 +196,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US military strikes supertanker near Iran’s oil export terminal, rattling energy and crypto markets",
-      "summary": "The strike heightens geopolitical tensions, impacting global oil supply, inflation, and potentially altering Bitcoin mining dynamics.\nThe post US military strikes supertanker near Iran’s oil export terminal, rattling energy and crypto markets appeared first o…",
+      "headline": "Oil Set for Weekly Gain as Iran War Escalation Threatens Flows",
+      "summary": "Oil headed for its biggest weekly advance since April as the escalating conflict between the US and Iran disrupted supply from the Middle East.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-set-for-weekly-gain-as-iran-war-escalation-threatens-flows",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T05:24:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran-Linked Tankers U-Turn and Zig-Zag as US Enforces Blockade",
+      "summary": "Two US-sanctioned tankers carrying cooking fuel are U-turning and zig-zagging in the Gulf of Oman and Arabian Sea, part of a flotilla of vessels laden with Iranian energy exports that are facing an aggressive US blockade of the country’s shipping.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/iran-linked-tankers-u-turn-and-zig-zag-as-us-enforces-blockade",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T04:59:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iranian Revolutionary Guard halts oil and gas exports amid US tensions, sending energy and crypto markets into turmoil",
+      "summary": "The IRGC declared a halt to Middle Eastern oil and gas exports amid US tensions, spiking Brent crude to $138 and spotlighting Iran's $3B crypto sanctions\nThe post Iranian Revolutionary Guard halts oil and gas exports amid US tensions, sending energy and crypt…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-military-strikes-supertanker-iran-crypto-impact/",
+      "url": "https://cryptobriefing.com/iran-irgc-halts-oil-exports-crypto-impact/",
       "bloc": "western",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T20:26:40Z",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T04:37:17Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -269,7 +269,7 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

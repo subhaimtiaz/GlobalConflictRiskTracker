@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-17T19:16:53.416Z",
+  "ts": "2026-07-18T02:47:33.829Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 88,
-    "oilStress": 33,
-    "updatedAt": "2026-07-17T19:16:53.416Z"
+    "oilStress": 34,
+    "updatedAt": "2026-07-18T02:47:33.829Z"
   },
   "items": [
+    {
+      "headline": "US expands Iran strikes, hits bridges as Tehran widens missile attacks across Gulf",
+      "summary": "US strikes Iranian bridges as Tehran launches fresh missile attacks across the Gulf, escalating the Strait of Hormuz crisis and threatening global oil supplies.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/us-expands-iran-strikes-hits-bridges-as-tehran-widens-missile-attacks-across-gulf/article71232552.ece",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T01:16:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Knives out as Iran war pushes Republicans to breaking point: Insiders leak humiliating Washington whispers about 'worst mistake of Trump's life'",
+      "summary": "Republicans have begun to turn on Donald Trump over his on-and-off-again cycle of bombing, then striking deals with Iran before fighting resumes.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15968273/trump-gop-iran-breaking-point-midterms.html",
+      "bloc": "western",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T20:02:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran accuses US of violating Islamabad MOU, escalating tensions",
       "summary": "The U.S.-Iran tensions may lead to prolonged geopolitical instability, affecting global markets and diplomatic relations in the region.\nThe post Iran accuses US of violating Islamabad MOU, escalating tensions appeared first on Crypto Briefing.",
@@ -92,65 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Strait of Hormuz closure tests Iran-Oman alliance as US-Israeli war escalates into regional crisis",
-      "summary": "The contentious waters of the Strait of Hormuz have become the epicenter of a widening confrontation that threatens to redraw the geopolitical map of the Middle East. When Iran announced the closure of this strategic waterway on July 12, 2026, it was a calcul…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-16-strait-of-hormuz-closure-tests-iran-oman-alliance.html",
-      "bloc": "western",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US inflation eases in June on lower energy costs",
-      "summary": "US wholesale inflation eased in June 2026 due to falling energy costs, government data shows. Discover how this impacts US inflation and future economic ou\n\nRead More: https://punchng.com/us-inflation-eases-in-june-on-lower-energy-costs/",
-      "source": "The Punch",
-      "url": "https://punchng.com/us-inflation-eases-in-june-on-lower-energy-costs/",
-      "bloc": "western",
-      "date": "2026-07-15",
-      "datetime": "2026-07-15T23:52:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The tankers that triggered the latest Gulf escalation were 'highly, highly targeted'",
-      "summary": "The commercial tankers struck as they transited the Strait of Hormuz in recent weeks were not random, but part of a \"highly, highly targeted\" campaign run by Tehran, according to marine traffic watchers.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-17/iran-again-testing-donald-trump-pain-threshold/106910166",
-      "bloc": "western",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T18:38:45Z",
+      "headline": "US expands attacks on Iran, which calls Strait of Hormuz a 'red line' as it retaliates",
+      "summary": "United States intensified strikes against Iran, hitting targets farther north. Iran retaliated with missiles and drones at US allies in the region. The interim ceasefire collapsed, leading to days of back-and-forth attacks. US strikes reached areas around Ira…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-expands-attacks-on-iran-which-calls-strait-of-hormuz-a-red-line-as-it-retaliates/articleshow/132450527.cms",
+      "bloc": "regional",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T01:42:56Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran-US Hostilities Worsen as Hormuz Shipping Traffic Falls",
-      "summary": "The US intensified strikes against Iran overnight, hitting an oil tanker near the country’s main export terminal as shipping traffic slumped through the critical Strait of Hormuz.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/iran-us-hostilities-worsen-as-hormuz-shipping-traffic-falls",
+      "headline": "The Battle For The Strait Of Hormuz: Can The World Survive Without Oil From The Persian Gulf?",
+      "summary": "Now, we are going to see what really happens to the global economy when the Strait of Hormuz is completely closed for an extended period of time. Before the war, approximately 45 percent of all Asian oil imports traveled through the Strait of Hormuz.",
+      "source": "Shtfplan.com",
+      "url": "https://www.shtfplan.com/war/the-battle-for-the-strait-of-hormuz-can-the-world-survive-without-oil-from-the-persian-gulf",
       "bloc": "western",
       "date": "2026-07-16",
-      "datetime": "2026-07-16T15:25:39Z",
+      "datetime": "2026-07-16T22:30:17Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +196,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran, US Step Up Attacks, Though Release of American May Signal Path to Climbdown",
-      "summary": "Iran and the United States exchanged intensified fire on Thursday in a week-long escalation that has all but torn up last month’s truce, though Iran’s release of a U.S. citizen pointed towards a path to avert the resumption of all-out …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/07/16/877887.htm",
+      "headline": "US Marines board tanker as Navy enforces blockade on Iran",
+      "summary": "CENTCOM releases footage of US Marines boarding a tanker in the Gulf of Oman while enforcing its \"steel wall\" naval blockade against Iranian ports.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/430304",
       "bloc": "western",
       "date": "2026-07-16",
-      "datetime": "2026-07-16T15:13:15Z",
+      "datetime": "2026-07-16T22:09:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. hits Iran with fresh round of strikes for 6th consecutive night",
+      "summary": "Iran and the ‌United States exchanged intensifying fire on Thursday in a week-long escalation that has largely unravelled last month's truce, while Tehran disputed U.S. President Donald Trump's claim that a U.S. citizen had been released.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/iran-us-strikes-strait-hormuz-9.7273067",
+      "bloc": "western",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T21:10:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,13 +248,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "3 islands help control access to the Strait of Hormuz. They're in the crosshairs of the Iran war",
-      "summary": "The expanding U.S. military campaign against Iran has put three small islands that sit at the confluence of the Persian Gulf and the Strait of Hormuz in the crosshairs once again",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Business/wireStory/3-islands-control-access-strait-hormuz-crosshairs-iran-134813310",
+      "headline": "US military strikes supertanker near Iran’s oil export terminal, rattling energy and crypto markets",
+      "summary": "The strike heightens geopolitical tensions, impacting global oil supply, inflation, and potentially altering Bitcoin mining dynamics.\nThe post US military strikes supertanker near Iran’s oil export terminal, rattling energy and crypto markets appeared first o…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-military-strikes-supertanker-iran-crypto-impact/",
       "bloc": "western",
       "date": "2026-07-16",
-      "datetime": "2026-07-16T14:00:39Z",
+      "datetime": "2026-07-16T20:26:40Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -243,58 +269,7 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "3 Islands Help Control Access to the Strait of Hormuz. They’re in the Crosshairs of the Iran War",
-      "summary": "The land mass of all three islands totals just about 10 square miles (25 square kilometers).",
-      "source": "Military.com",
-      "url": "https://military.com/3-islands-help-control-access-to-the-strait-of-hormuz-theyre-in-the-crosshairs-of-the-iran-war",
-      "bloc": "western",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T13:55:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US-Iran ceasefire had a built-in detonator. This week it went off",
-      "summary": "The MoU signed by the US and Iranian presidents was never likely to hold.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/us-iran-ceasefire-had-a-built-in-detonator-this-week-it-went-off-287224",
-      "bloc": "western",
-      "date": "2026-07-10",
-      "datetime": "2026-07-10T06:54:02Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

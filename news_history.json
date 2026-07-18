@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-18T07:57:53.287Z",
+  "updated": "2026-07-18T13:23:21.042Z",
   "retention_days": 30,
   "items": [
     {
@@ -14401,7 +14401,229 @@
       "_from": "newsapi",
       "first_seen": "2026-07-18T07:57:53.287Z",
       "run_id": "2026-07-18T07:57"
+    },
+    {
+      "headline": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
+      "summary": "The UN Secretary-General remains deeply concerned by the continuing deadly military escalation between Iran and the United States, his spokesperson said on Friday as attacks destroyed key civilian and military infrastructure across the Gulf region.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260717-unnews01.htm",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-18T13:23:21.042Z",
+      "run_id": "2026-07-18T13:23"
+    },
+    {
+      "headline": "Iran War: US Sixth Wave of Escalation Strikes Hits Bridges, Civilian Infrastructure, More Promised Next Week; Iran Hits Bahrain Refinery, Signaling Ability to Destroy Gulf Energy Assets; Closure of Bab el-Mandeb Strait Expected",
+      "summary": "Today's Iran war news: Trump continues to escalate, with more threatened for next week, apparently out of anger as opposed to with a plan.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-us-sixth-wave-of-escalation-strikes-hits-bridges-civilian-infrastructure-more-promised-next-week-iran-hits-bahrain-refinery-signaling-ability-to-destroy-gulf-energy-assets-closure-of-ba.html",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T09:18:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-18T13:23:21.042Z",
+      "run_id": "2026-07-18T13:23"
+    },
+    {
+      "headline": "Only 3 vessels transit Strait of Hormuz over past 24 hours amid renewed US-Iran hostilities",
+      "summary": "Only three commodity vessels crossed the Strait of Hormuz in the last 24 hours as of 0730GMT Friday, marking the lowest daily transit level since May as maritime traffic remained largely halted amid renewed military escalation between the US and Iran, Anadolu…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260717-azertac01.htm",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-18T13:23:21.042Z",
+      "run_id": "2026-07-18T13:23"
+    },
+    {
+      "headline": "Iran-linked tankers U-turn, zig-zag as US enforces blockade",
+      "summary": "US sanctions on Iranian shipping have been reimposed, impacting tanker movements. Several Iran-linked tankers changed course in the Gulf of Oman and Arabian Sea. Ship tracking data shows diversions and zig-zagging patterns by these vessels. The US military ha…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-linked-tankers-u-turn-zig-zag-as-us-enforces-blockade/articleshow/132460684.cms",
+      "bloc": "regional",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T11:55:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-18T13:23:21.042Z",
+      "run_id": "2026-07-18T13:23"
+    },
+    {
+      "headline": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
+      "summary": "The U.S. and Iran expanded their targets in the latest round of strikes on Friday, as fighting over the control of the Strait of Hormuz reignites fears of an all-out war.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T11:13:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-18T13:23:21.042Z",
+      "run_id": "2026-07-18T13:23"
+    },
+    {
+      "headline": "US Strikes Bridges and Collapses a Tower at a Key Port as Its Iran Campaign Expands",
+      "summary": "Iran launched new missile attacks against U.S.-allied nations in the Middle East.",
+      "source": "Military.com",
+      "url": "https://military.com/us-strikes-bridges-and-collapses-a-tower-at-a-key-port-as-its-iran-campaign-expands",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T10:02:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-18T13:23:21.042Z",
+      "run_id": "2026-07-18T13:23"
+    },
+    {
+      "headline": "China's secret blueprint to bomb US warships: Satellite images show huge replicas of American destroyer and carrier built for missile practice in remote desert",
+      "summary": "Deep in the remote Taklamakan desert, China has been secretly developing a blueprint to obliterate US warships.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15981747/Chinas-secret-blueprint-bomb-US-warships-Satellite-images-huge-replicas-American-destroyer-carrier-built-missile-practice-remote-desert.html",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T10:15:33Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-18T13:23:21.042Z",
+      "run_id": "2026-07-18T13:23"
+    },
+    {
+      "headline": "Peak of US-Iran conflict likely over; easing commodity prices to aid Indian manufacturers from H2FY27: Report",
+      "summary": "Easing commodity prices are expected to boost Indian manufacturers' operating margins. Global supply is improving and demand from China remains weak. US crude oil exports have risen, offsetting supply disruptions. OPEC+ agreed to increase output, further stab…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/easing-commodity-prices-to-boost-indian-manufacturers-as-us-iran-conflict-peaks-key-insights-for-fy27/articleshow/132457863.cms",
+      "bloc": "regional",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T09:40:44Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-18T13:23:21.042Z",
+      "run_id": "2026-07-18T13:23"
     }
   ],
-  "total_items_ever": 2573
+  "total_items_ever": 2581
 }

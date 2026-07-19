@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-19T08:25:30.242Z",
+  "ts": "2026-07-19T13:25:57.494Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 88,
-    "oilStress": 33,
-    "updatedAt": "2026-07-19T08:25:30.242Z"
+    "oilStress": 34,
+    "updatedAt": "2026-07-19T13:25:57.494Z"
   },
   "items": [
     {
@@ -144,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The US and Iran have blown past red lines as they lurch back toward all-out war",
+      "summary": "The United States and Iran are crossing each other's red lines, one after the other",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/us-iran-blown-past-red-lines-lurch-back-134870539",
+      "bloc": "western",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T10:41:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump targets Iran's infrastructure in bid to squeeze regime",
+      "summary": "The U.S. military is widening its attacks across Iran, striking a port facility, energy infrastructure and bridges as President Trump looks to squeeze the Iranian regime. Iran has retaliated against nearby allies, targeting U.S. bases in the region, along wit…",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5975693-us-military-widens-iran-strikes/",
+      "bloc": "western",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T10:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Trump may have to choose between an endless quagmire and ceding the Strait of Hormuz to Iran",
       "summary": "The global energy trade is likely changed forever by the outcome of the Iran war.",
       "source": "Fortune",
@@ -166,84 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. and Iran escalate strikes across Mideast",
-      "summary": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
-      "bloc": "western",
-      "date": "2026-07-18",
-      "datetime": "2026-07-18T06:01:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US and Iran escalate strikes across Mideast; bridges and a water plant hit",
-      "summary": "The United States and Iran intensified their conflict across the Middle East on Friday, launching fresh strikes on military and infrastructure targets as tensions over the Strait of Hormuz escalated. The U.S. targeted additional bridges, energy facilities and…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-and-iran-escalate-strikes-across-mideast-bridges-and-a-water-plant-hit/articleshow/132472260.cms",
-      "bloc": "regional",
-      "date": "2026-07-18",
-      "datetime": "2026-07-18T00:48:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran media says three killed in attacks as tankers hit",
-      "summary": "US attacks killed three people and wounded eight in the southern Iranian province of Hormozgan, state news agency IRNA has reported, as Iran says it \"stopped\" ships trying to transit the Strait of Hormuz.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/middle-east/2026/0718/1583954-middle-east-iran/",
-      "bloc": "western",
-      "date": "2026-07-18",
-      "datetime": "2026-07-18T00:40:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

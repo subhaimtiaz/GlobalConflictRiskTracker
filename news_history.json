@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-19T08:24:25.013Z",
+  "updated": "2026-07-19T13:24:52.287Z",
   "retention_days": 30,
   "items": [
     {
@@ -14342,7 +14342,63 @@
       "_from": "newsapi",
       "first_seen": "2026-07-19T08:24:25.013Z",
       "run_id": "2026-07-19T08:24"
+    },
+    {
+      "headline": "The US and Iran have blown past red lines as they lurch back toward all-out war",
+      "summary": "The United States and Iran are crossing each other's red lines, one after the other",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/us-iran-blown-past-red-lines-lurch-back-134870539",
+      "bloc": "western",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T10:41:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-19T13:24:52.287Z",
+      "run_id": "2026-07-19T13:24"
+    },
+    {
+      "headline": "Trump targets Iran's infrastructure in bid to squeeze regime",
+      "summary": "The U.S. military is widening its attacks across Iran, striking a port facility, energy infrastructure and bridges as President Trump looks to squeeze the Iranian regime. Iran has retaliated against nearby allies, targeting U.S. bases in the region, along wit…",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5975693-us-military-widens-iran-strikes/",
+      "bloc": "western",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T10:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-19T13:24:52.287Z",
+      "run_id": "2026-07-19T13:24"
     }
   ],
-  "total_items_ever": 2598
+  "total_items_ever": 2600
 }

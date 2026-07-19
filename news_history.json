@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-19T13:24:52.287Z",
+  "updated": "2026-07-19T19:11:08.514Z",
   "retention_days": 30,
   "items": [
     {
@@ -14398,7 +14398,63 @@
       "_from": "newsapi",
       "first_seen": "2026-07-19T13:24:52.287Z",
       "run_id": "2026-07-19T13:24"
+    },
+    {
+      "headline": "Iran strikes Kuwait desalination plants as Strait of Hormuz conflict deepens",
+      "summary": "Iranian strikes on Kuwait's desalination plants escalate the Strait of Hormuz conflict, with direct implications for oil prices, crypto markets, and Gulf\nThe post Iran strikes Kuwait desalination plants as Strait of Hormuz conflict deepens appeared first on C…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-kuwait-desalination-strikes-hormuz-crypto-markets/",
+      "bloc": "western",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T14:53:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-19T19:11:08.513Z",
+      "run_id": "2026-07-19T19:11"
+    },
+    {
+      "headline": "Bitcoin is trading through a dangerous weekend as 20% of the world’s oil hangs in the balance",
+      "summary": "Bitcoin traded near $62,900 on Friday afternoon, down roughly 38% from its October 2025 all-time high, as Brent crude settled above $85 and the Strait of Hormuz remained effectively closed to normal commercial traffic. By early Saturday, it had recovered to a…",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/bitcoin-is-trading-through-a-dangerous-weekend-as-20-of-the-worlds-oil-hangs-in-the-balance/",
+      "bloc": "western",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T17:00:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-19T19:11:08.514Z",
+      "run_id": "2026-07-19T19:11"
     }
   ],
-  "total_items_ever": 2600
+  "total_items_ever": 2602
 }

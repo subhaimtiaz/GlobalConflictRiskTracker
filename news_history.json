@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-19T03:16:15.568Z",
+  "updated": "2026-07-19T08:24:25.013Z",
   "retention_days": 30,
   "items": [
     {
@@ -14258,7 +14258,91 @@
       "_from": "newsapi",
       "first_seen": "2026-07-19T03:16:15.568Z",
       "run_id": "2026-07-19T03:16"
+    },
+    {
+      "headline": "Iran 'targets US combat aircraft at Bahrain air base' as Trump's forces launch seventh night of strikes against Tehran regime",
+      "summary": "Iran's Revolutionary Guards said they have targeted US aircraft at Sheikh Isa Air Base in Bahrain.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15986905/Iran-targets-US-combat-aircraft-Bahrain-air-base.html",
+      "bloc": "western",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T08:00:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-19T08:24:25.013Z",
+      "run_id": "2026-07-19T08:24"
+    },
+    {
+      "headline": "Trump may have to choose between an endless quagmire and ceding the Strait of Hormuz to Iran",
+      "summary": "The global energy trade is likely changed forever by the outcome of the Iran war.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/18/trump-choose-endless-quagmire-ceding-strait-hormuz-iran/",
+      "bloc": "western",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T08:07:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-19T08:24:25.013Z",
+      "run_id": "2026-07-19T08:24"
+    },
+    {
+      "headline": "U.S. and Iran escalate strikes across Mideast",
+      "summary": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
+      "bloc": "western",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T06:01:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-19T08:24:25.013Z",
+      "run_id": "2026-07-19T08:24"
     }
   ],
-  "total_items_ever": 2595
+  "total_items_ever": 2598
 }

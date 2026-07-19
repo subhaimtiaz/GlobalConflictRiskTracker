@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-19T03:17:20.773Z",
+  "ts": "2026-07-19T08:25:30.242Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 88,
-    "oilStress": 34,
-    "updatedAt": "2026-07-19T03:17:20.773Z"
+    "oilStress": 33,
+    "updatedAt": "2026-07-19T08:25:30.242Z"
   },
   "items": [
+    {
+      "headline": "Iran 'targets US combat aircraft at Bahrain air base' as Trump's forces launch seventh night of strikes against Tehran regime",
+      "summary": "Iran's Revolutionary Guards said they have targeted US aircraft at Sheikh Isa Air Base in Bahrain.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15986905/Iran-targets-US-combat-aircraft-Bahrain-air-base.html",
+      "bloc": "western",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T08:00:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US launches seventh straight night of attacks on Iran; bridges, water plant hit",
       "summary": "The US and Iran exchanged fresh strikes across the Middle East as fighting over the Strait of Hormuz intensified, pushing oil prices higher and widening the conflict.",
@@ -118,27 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War: US Sixth Wave of Escalation Strikes Hits Bridges, Civilian Infrastructure, More Promised Next Week; Iran Hits Bahrain Refinery, Signaling Ability to Destroy Gulf Energy Assets; Closure of Bab el-Mandeb Strait Expected",
-      "summary": "Today's Iran war news: Trump continues to escalate, with more threatened for next week, apparently out of anger as opposed to with a plan.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-us-sixth-wave-of-escalation-strikes-hits-bridges-civilian-infrastructure-more-promised-next-week-iran-hits-bahrain-refinery-signaling-ability-to-destroy-gulf-energy-assets-closure-of-ba.html",
+      "headline": "Trump may have to choose between an endless quagmire and ceding the Strait of Hormuz to Iran",
+      "summary": "The global energy trade is likely changed forever by the outcome of the Iran war.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/18/trump-choose-endless-quagmire-ceding-strait-hormuz-iran/",
       "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T09:18:18Z",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T08:07:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. and Iran escalate strikes across Mideast",
+      "summary": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
+      "bloc": "western",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T06:01:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
@@ -192,84 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. to send refueling aircraft to Israel amid Iran escalation fears",
-      "summary": "Axios reports Trump is weighing strikes on Iranian power facilities, nuclear sites and a suspected underground facility. Iran's Khamenei adviser Mohsen Rezaei warned that if U.S. attacks continue for several days, Tehran will 'move into a phase of full-scale …",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-07-18/ty-article/u-s-to-send-refueling-aircraft-to-israel-amid-iran-escalation-fears/0000019f-71f0-d784-abff-fff6ec8c0000",
-      "bloc": "regional",
-      "date": "2026-07-18",
-      "datetime": "2026-07-18T00:00:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Shipping in Straight of Hormuz under attack as US-Iran conflict heightens",
-      "summary": "The United States has struck bridges in Iran and Tehran responded by hitting a power and desalination plant in Kuwait.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-18/us-and-iran-attack-civilian-infrastructure-in-latest-strikes/106931002",
-      "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T23:21:59Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strikes on infrastructure by Iran and U.S. raise fears of escalation in war",
-      "summary": "The United States struck bridges in Iran, and Tehran responded by hitting a power and desalination plant in Kuwait on Friday, as the two sides risked further escalation by expanding their targets to include infrastructure.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/iran-us-war-infrastructure-attack-9.7274603",
-      "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T20:10:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -533,6 +507,29 @@
       "bloc": "western",
       "date": "2026-07-17",
       "datetime": "2026-07-17T13:39:25Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran War: US Sixth Wave of Escalation Strikes Hits Bridges, Civilian Infrastructure, More Promised Next Week; Iran Hits Bahrain Refinery, Signaling Ability to Destroy Gulf Energy Assets; Closure of Bab el-Mandeb Strait Expected",
+      "summary": "Today's Iran war news: Trump continues to escalate, with more threatened for next week, apparently out of anger as opposed to with a plan.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-us-sixth-wave-of-escalation-strikes-hits-bridges-civilian-infrastructure-more-promised-next-week-iran-hits-bahrain-refinery-signaling-ability-to-destroy-gulf-energy-assets-closure-of-ba.html",
+      "bloc": "western",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T09:18:18Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-18T19:11:12.459Z",
+  "ts": "2026-07-19T03:17:20.773Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 88,
     "oilStress": 34,
-    "updatedAt": "2026-07-18T19:11:12.459Z"
+    "updatedAt": "2026-07-19T03:17:20.773Z"
   },
   "items": [
+    {
+      "headline": "US launches seventh straight night of attacks on Iran; bridges, water plant hit",
+      "summary": "The US and Iran exchanged fresh strikes across the Middle East as fighting over the Strait of Hormuz intensified, pushing oil prices higher and widening the conflict.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/us-launches-seventh-straight-night-of-attacks-on-iran-bridges-water-plant-hit/article71236914.ece",
+      "bloc": "western",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T01:30:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Lebanon’s Peacekeepers Are Heading for the Exits",
       "summary": "As UNIFIL leave Lebanon, it’s not clear who—if anyone—will replace it.",
@@ -118,39 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US Attacks Bridges, Collapses Tower At Key Iranian Port",
-      "summary": "Iranian officials say U.S. strikes have killed dozens of people and wounded hundreds of others, with new casualties reported in Friday’s strikes.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/us-war-on-iran_n_6a59b89ee4b0f033db1b4226",
-      "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T05:25:10Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
-      "summary": "One seafarer was killed and three were injured in attack on the crude oil tanker Al Bahyah off Oman's coast on Tuesday.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html",
-      "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T18:20:37Z",
+      "headline": "US and Iran escalate strikes across Mideast; bridges and a water plant hit",
+      "summary": "The United States and Iran intensified their conflict across the Middle East on Friday, launching fresh strikes on military and infrastructure targets as tensions over the Strait of Hormuz escalated. The U.S. targeted additional bridges, energy facilities and…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-and-iran-escalate-strikes-across-mideast-bridges-and-a-water-plant-hit/articleshow/132472260.cms",
+      "bloc": "regional",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T00:48:58Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump's 60-day Iran deal reaches halfway mark as ceasefire collapses into escalating war",
-      "summary": "Halfway through the 60-day negotiating window, the U.S. has struck over 300 Iranian targets while Iran attacks commercial vessels in the Strait of Hormuz.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/trumps-60-day-iran-deal-reaches-halfway-mark-ceasefire-collapses-escalating-war",
+      "headline": "Iran media says three killed in attacks as tankers hit",
+      "summary": "US attacks killed three people and wounded eight in the southern Iranian province of Hormozgan, state news agency IRNA has reported, as Iran says it \"stopped\" ships trying to transit the Strait of Hormuz.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/0718/1583954-middle-east-iran/",
       "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T17:11:32Z",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T00:40:01Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US missile strike on Iranian oil tanker near Kharg Island rattles energy markets, ripples into crypto",
-      "summary": "US Hellfire missile strike on an oil tanker near Iran's Kharg Island escalates tensions, threatening Bitcoin mining margins and boosting stablecoin demand.\nThe post US missile strike on Iranian oil tanker near Kharg Island rattles energy markets, ripples into…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-missile-strike-iran-oil-tanker-crypto-impact/",
-      "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T15:39:17Z",
+      "headline": "U.S. to send refueling aircraft to Israel amid Iran escalation fears",
+      "summary": "Axios reports Trump is weighing strikes on Iranian power facilities, nuclear sites and a suspected underground facility. Iran's Khamenei adviser Mohsen Rezaei warned that if U.S. attacks continue for several days, Tehran will 'move into a phase of full-scale …",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-07-18/ty-article/u-s-to-send-refueling-aircraft-to-israel-amid-iran-escalation-fears/0000019f-71f0-d784-abff-fff6ec8c0000",
+      "bloc": "regional",
+      "date": "2026-07-18",
+      "datetime": "2026-07-18T00:00:34Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,13 +222,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US forces destroy Iranian surveillance tower at Chabahar port for the third time",
-      "summary": "US forces destroyed an IRGC surveillance tower at Chabahar port for the third time, targeting Iran's maritime monitoring capacity near the Strait of Hormuz.\nThe post US forces destroy Iranian surveillance tower at Chabahar port for the third time appeared fir…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-forces-destroy-iran-chabahar-surveillance-tower/",
+      "headline": "Shipping in Straight of Hormuz under attack as US-Iran conflict heightens",
+      "summary": "The United States has struck bridges in Iran and Tehran responded by hitting a power and desalination plant in Kuwait.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-18/us-and-iran-attack-civilian-infrastructure-in-latest-strikes/106931002",
       "bloc": "western",
       "date": "2026-07-17",
-      "datetime": "2026-07-17T15:13:59Z",
+      "datetime": "2026-07-17T23:21:59Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -243,18 +243,18 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US, Iran Each Attack Infrastructure in Risky Escalation",
-      "summary": "The United States struck bridges and an airport in Iran on Friday and Tehran responded by hitting a power and desalination plant in Kuwait, as the warring foes risked further escalation by expanding their targets to include infrastructure.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/us-iran-each-attack-infrastructure-in-risky-escalation/",
+      "headline": "Strikes on infrastructure by Iran and U.S. raise fears of escalation in war",
+      "summary": "The United States struck bridges in Iran, and Tehran responded by hitting a power and desalination plant in Kuwait on Friday, as the two sides risked further escalation by expanding their targets to include infrastructure.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/iran-us-war-infrastructure-attack-9.7274603",
       "bloc": "western",
       "date": "2026-07-17",
-      "datetime": "2026-07-17T15:11:02Z",
+      "datetime": "2026-07-17T20:10:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

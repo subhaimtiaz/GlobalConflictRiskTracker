@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-20T09:21:19.094Z",
+  "updated": "2026-07-20T14:13:09.826Z",
   "retention_days": 30,
   "items": [
     {
@@ -13701,7 +13701,35 @@
       "_from": "newsapi",
       "first_seen": "2026-07-20T09:21:19.094Z",
       "run_id": "2026-07-20T09:21"
+    },
+    {
+      "headline": "Iran launches missiles toward Jordan, Israel warns of spillover",
+      "summary": "Iran launched missiles toward Jordan, raising regional tensions. Houthi military action against Israel by July 31, 2026, at 15% YES.\nThe post Iran launches missiles toward Jordan, Israel warns of spillover appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-launches-missiles-toward-jordan-israel-warns-of-spillover/",
+      "bloc": "western",
+      "date": "2026-07-19",
+      "datetime": "2026-07-19T12:28:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-20T14:13:09.826Z",
+      "run_id": "2026-07-20T14:13"
     }
   ],
-  "total_items_ever": 2605
+  "total_items_ever": 2606
 }

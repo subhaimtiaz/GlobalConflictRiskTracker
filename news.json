@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-20T09:22:24.489Z",
+  "ts": "2026-07-20T14:14:15.080Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 88,
-    "oilStress": 34,
-    "updatedAt": "2026-07-20T09:22:24.489Z"
+    "oilStress": 33,
+    "updatedAt": "2026-07-20T14:14:15.080Z"
   },
   "items": [
+    {
+      "headline": "Iran launches missiles toward Jordan, Israel warns of spillover",
+      "summary": "Iran launched missiles toward Jordan, raising regional tensions. Houthi military action against Israel by July 31, 2026, at 15% YES.\nThe post Iran launches missiles toward Jordan, Israel warns of spillover appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-launches-missiles-toward-jordan-israel-warns-of-spillover/",
+      "bloc": "western",
+      "date": "2026-07-19",
+      "datetime": "2026-07-19T12:28:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "U.S. Renews Strikes On Iran After Two Military Personnel Killed By Iranian Attack",
       "summary": "The U.S. and Iran have intensified attacks since an interim ceasefire deal signed a month ago fell apart last week, raising the possibility of a return to all-out war.",
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Lebanon’s Peacekeepers Are Heading for the Exits",
-      "summary": "As UNIFIL leave Lebanon, it’s not clear who—if anyone—will replace it.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/07/17/lebanon-un-peacekeepers-israel-unifil/",
-      "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T14:25:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

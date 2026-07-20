@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-19T19:12:13.687Z",
+  "ts": "2026-07-20T03:31:14.217Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 88,
-    "oilStress": 33,
-    "updatedAt": "2026-07-19T19:12:13.687Z"
+    "oilPrice": 90,
+    "oilStress": 37,
+    "updatedAt": "2026-07-20T03:31:14.217Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "US military launches new airstrikes to 'punish' Iran for deaths of US troops",
+      "summary": "New US airstrikes targeted Iran after a drone attack killed American service members in Jordan.  These strikes aimed to degrade Iran's ability to control oil tanker traffic.  Iran's supreme leader warned of unforgettable lessons if attacks continue.  The conf…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-military-launches-new-airstrikes-to-punish-iran-for-deaths-of-us-troops/articleshow/132488812.cms",
+      "bloc": "regional",
+      "date": "2026-07-19",
+      "datetime": "2026-07-19T00:31:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Bitcoin is trading through a dangerous weekend as 20% of the world’s oil hangs in the balance",
       "summary": "Bitcoin traded near $62,900 on Friday afternoon, down roughly 38% from its October 2025 all-time high, as Brent crude settled above $85 and the Strait of Hormuz remained effectively closed to normal commercial traffic. By early Saturday, it had recovered to a…",
       "source": "CryptoSlate",
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-07-18",
       "datetime": "2026-07-18T10:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump may have to choose between an endless quagmire and ceding the Strait of Hormuz to Iran",
-      "summary": "The global energy trade is likely changed forever by the outcome of the Iran war.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/18/trump-choose-endless-quagmire-ceding-strait-hormuz-iran/",
-      "bloc": "western",
-      "date": "2026-07-18",
-      "datetime": "2026-07-18T08:07:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -471,31 +471,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Iran Rejects Trump 24 Hour Ultimatum; US Launches Intense Attacks With Kuwait and Bahrain; Iran Closes Strait of Hormuz, Starts Counter-Strikes; Rumors of Mining of Oman Channel",
-      "summary": "Today's Iran war news: It looks as if a full-bore war, now over control of the Strait of Hormuz, is on.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-iran-rejects-trump-24-hour-ultimatum-us-launches-intense-attacks-with-kuwait-and-bahrain-iran-closes-strait-of-hormuz-starts-counter-strikes-rumors-of-mining-of-oman-channel.html",
-      "bloc": "western",
-      "date": "2026-07-12",
-      "datetime": "2026-07-12T07:26:54Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

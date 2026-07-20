@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-20T03:31:14.217Z",
+  "ts": "2026-07-20T09:22:24.489Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 90,
-    "oilStress": 37,
-    "updatedAt": "2026-07-20T03:31:14.217Z"
+    "oilPrice": 88,
+    "oilStress": 34,
+    "updatedAt": "2026-07-20T09:22:24.489Z"
   },
   "items": [
+    {
+      "headline": "U.S. Renews Strikes On Iran After Two Military Personnel Killed By Iranian Attack",
+      "summary": "The U.S. and Iran have intensified attacks since an interim ceasefire deal signed a month ago fell apart last week, raising the possibility of a return to all-out war.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/us-strikes-iran_n_6a5c4de6e4b063a1f5f1a3bb",
+      "bloc": "western",
+      "date": "2026-07-19",
+      "datetime": "2026-07-19T04:14:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran strikes Kuwait desalination plants as Strait of Hormuz conflict deepens",
       "summary": "Iranian strikes on Kuwait's desalination plants escalate the Strait of Hormuz conflict, with direct implications for oil prices, crypto markets, and Gulf\nThe post Iran strikes Kuwait desalination plants as Strait of Hormuz conflict deepens appeared first on C…",
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US, Iran Each Attack Infrastructure in Risky Escalation of Conflict",
-      "summary": "The United States struck bridges and an airport in Iran on Friday and Tehran responded by hitting a power and desalination plant in Kuwait, as the warring foes risked further escalation by expanding their targets to include infrastructure. In the …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/07/17/878039.htm",
-      "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T13:56:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -346,6 +346,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Consumers facing winter of discontent amid soaring prices",
+      "summary": "Consumers have been hit by repeated price shocks over the past few years; punctuated by energy price hikes, the rising cost of food and more recently, a spike in fuel prices, writes Consumer Affairs Correspondent Aengus Cox.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0719/1583908-consumer-rising-prices-analysis/",
+      "bloc": "western",
+      "date": "2026-07-19",
+      "datetime": "2026-07-19T06:00:01Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Peak of US-Iran conflict likely over; easing commodity prices to aid Indian manufacturers from H2FY27: Report",
       "summary": "Easing commodity prices are expected to boost Indian manufacturers' operating margins. Global supply is improving and demand from China remains weak. US crude oil exports have risen, offsetting supply disruptions. OPEC+ agreed to increase output, further stab…",
       "source": "The Times of India",
@@ -420,32 +446,6 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of July 14, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-07-14-2026/",
-      "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T09:50:17Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-20T03:30:09.047Z",
+  "updated": "2026-07-20T09:21:19.094Z",
   "retention_days": 30,
   "items": [
     {
@@ -13645,7 +13645,63 @@
       "_from": "newsapi",
       "first_seen": "2026-07-20T03:30:09.047Z",
       "run_id": "2026-07-20T03:30"
+    },
+    {
+      "headline": "U.S. Renews Strikes On Iran After Two Military Personnel Killed By Iranian Attack",
+      "summary": "The U.S. and Iran have intensified attacks since an interim ceasefire deal signed a month ago fell apart last week, raising the possibility of a return to all-out war.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/us-strikes-iran_n_6a5c4de6e4b063a1f5f1a3bb",
+      "bloc": "western",
+      "date": "2026-07-19",
+      "datetime": "2026-07-19T04:14:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-20T09:21:19.094Z",
+      "run_id": "2026-07-20T09:21"
+    },
+    {
+      "headline": "Consumers facing winter of discontent amid soaring prices",
+      "summary": "Consumers have been hit by repeated price shocks over the past few years; punctuated by energy price hikes, the rising cost of food and more recently, a spike in fuel prices, writes Consumer Affairs Correspondent Aengus Cox.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0719/1583908-consumer-rising-prices-analysis/",
+      "bloc": "western",
+      "date": "2026-07-19",
+      "datetime": "2026-07-19T06:00:01Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-20T09:21:19.094Z",
+      "run_id": "2026-07-20T09:21"
     }
   ],
-  "total_items_ever": 2603
+  "total_items_ever": 2605
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-21T08:36:12.327Z",
+  "ts": "2026-07-21T14:01:56.619Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,19 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 88,
-    "oilStress": 34,
-    "updatedAt": "2026-07-21T08:36:12.327Z"
+    "oilPrice": 91,
+    "oilStress": 39,
+    "updatedAt": "2026-07-21T14:01:56.619Z"
   },
   "items": [
     {
-      "headline": "US launches ninth consecutive day of strikes on Iran as another American confirmed killed",
-      "summary": "U.S. forces struck Iran for a ninth consecutive day on ‌Monday as the number of confirmed American military deaths in the renewed fighting rose to three and ​concerns grew over shipping through the Strait of Hormuz.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/us-launches-ninth-consecutive-day-of-strikes-on-iran-as-another-american-confirmed-killed/article71243694.ece",
+      "headline": "Monday: Hili dialogue",
+      "summary": "Welcome to another damn week as we move one day closer to The Big Nap. It’s Monday, July 20, 2026, and Spain is the World Cup champsion. Argentina disgraced itself not only with a lackluster performance, taking almost no shots on goal despite 30 minutes of ex…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/07/20/monday-hili-dialogue-578/",
       "bloc": "western",
       "date": "2026-07-20",
-      "datetime": "2026-07-20T02:03:50Z",
+      "datetime": "2026-07-20T11:45:01Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -35,18 +35,44 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 4,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Kuwait air defenses counter Iranian drone attacks amid 2026 Iran war escalation",
-      "summary": "Kuwait's air defenses counter Iranian drone attacks amid rising tensions. Iranian military action against a Gulf state on July 22 at 54% YES.\nThe post Kuwait air defenses counter Iranian drone attacks amid 2026 Iran war escalation appeared first on Crypto Bri…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/kuwait-air-defenses-counter-iranian-drone-attacks-amid-2026-iran-war-escalation/",
+      "headline": "Stable Instability and the Coming US-Gulf Contest Over the Oil Market",
+      "summary": "by Islam Alhalawany Whether the ceasefire agreement holds or it goes back to ‘moderate shooting’, the US-Iran war has produced a sticky perception of fragility in the Gulf's security environment. A peace deal will, at best, deliver a state of stable instabili…",
+      "source": "Lse.ac.uk",
+      "url": "https://blogs.lse.ac.uk/mec/2026/07/20/stable-instability-in-the-middle-east-and-the-coming-us-gulf-contest-over-oil-market-share/",
       "bloc": "western",
-      "date": "2026-07-19",
-      "datetime": "2026-07-19T22:30:54Z",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T11:44:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israel-Iran ceasefire sees intense missile exchanges, US joins military operations",
+      "summary": "Intense missile exchanges mark a volatile ceasefire between Israel and Iran. Ceasefire continues through July 25 at 85% YES.\nThe post Israel-Iran ceasefire sees intense missile exchanges, US joins military operations appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/israel-iran-ceasefire-sees-intense-missile-exchanges-us-joins-military/",
+      "bloc": "western",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T11:35:40Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,13 +92,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran launches missiles toward Jordan, Israel warns of spillover",
-      "summary": "Iran launched missiles toward Jordan, raising regional tensions. Houthi military action against Israel by July 31, 2026, at 15% YES.\nThe post Iran launches missiles toward Jordan, Israel warns of spillover appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-launches-missiles-toward-jordan-israel-warns-of-spillover/",
+      "headline": "Why is Iran bombing Gulf states while avoiding US naval assets and Israel?",
+      "summary": "Analysts say Iran is using Gulf states to pressure Washington while avoiding direct confrontation with US forces.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel",
+      "bloc": "regional",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T11:35:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US Strikes Iran for Ninth Day; Iran Says Two Oil Tankers Were Hit in Strait of Hormuz",
+      "summary": "U.S. forces hit Iran for a ninth consecutive day on Monday as concerns grew over shipping through the Strait of Hormuz after Iran said two oil tankers had exploded and been immobilized. The Islamic Revolutionary Guard Corps said on Monday …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/20/878174.htm",
       "bloc": "western",
-      "date": "2026-07-19",
-      "datetime": "2026-07-19T12:28:28Z",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T10:20:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -92,28 +144,80 @@
       "_from": "newsapi"
     },
     {
-      "headline": "U.S. Renews Strikes On Iran After Two Military Personnel Killed By Iranian Attack",
-      "summary": "The U.S. and Iran have intensified attacks since an interim ceasefire deal signed a month ago fell apart last week, raising the possibility of a return to all-out war.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/us-strikes-iran_n_6a5c4de6e4b063a1f5f1a3bb",
+      "headline": "Dynacom Reports Two Tankers Attacked Near Strait of Hormuz",
+      "summary": "July 20 (Reuters) – Greek shipping company Dynacom Tankers said two of its managed vessels were hit by projectiles of unknown origin on Monday while sailing off the coast of Oman. The re-escalation in fighting between...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/dynacom-reports-two-tankers-attacked-near-strait-of-hormuz/",
       "bloc": "western",
-      "date": "2026-07-19",
-      "datetime": "2026-07-19T04:14:40Z",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T13:58:06Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran War: Brief US Pause Followed by Renewed Strikes as Iran Intensifies Attacks on Bases and Kuwait Desalination; Continued Speculation About US Operation",
+      "summary": "Today's Iran war news; The US looks to be gearing up for Something Stupid, as if the mere continuation of the war didn't suffice.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-brief-us-pause-followed-by-renewed-strikes-as-iran-intensifies-attacks-on-bases-and-kuwait-desalination-continued-speculation-about-us-operation.html",
+      "bloc": "western",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T10:07:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Prices Reach Highest Levels in More Than a Month",
+      "summary": "'Continued attacks or tighter passage through the Strait of Hormuz could keep Brent supported above $90 and increase the risk of a move toward $100 per barrel', Naeem Aslam, CIO at Zaye Capital Markets, warned.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/oil_prices_reach_highest_levels_in_more_than_a_month-20-jul-2026-184162-article/",
+      "bloc": "western",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T09:13:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -151,84 +255,6 @@
       "bloc": "western",
       "date": "2026-07-20",
       "datetime": "2026-07-20T02:38:13Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Price Today (July 20): Crude oil jumps 3%, crosses $90 as US and Iran exchange attacks. $100 in sight?",
-      "summary": "Brent crude futures rose $2.69, or 3.05%, to $90.79 a barrel, their highest level since June 11. The benchmark extended last week's rally, when it gained 15.9%, marking its biggest weekly advance since April.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-20-crude-oil-jumps-3-crosses-90-as-us-and-iran-exchange-attacks-100-in-sight/articleshow/132504278.cms",
-      "bloc": "regional",
-      "date": "2026-07-20",
-      "datetime": "2026-07-20T02:09:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Central Command redirects 6 vessels as Iran naval blockade resumes, rattling oil and crypto markets",
-      "summary": "US Central Command resumed its naval blockade on Iran, redirecting six vessels in 24 hours. Here's what it means for oil prices and crypto markets.\nThe post US Central Command redirects 6 vessels as Iran naval blockade resumes, rattling oil and crypto markets…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/centcom-iran-blockade-crypto-markets/",
-      "bloc": "western",
-      "date": "2026-07-19",
-      "datetime": "2026-07-19T21:05:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz Tensions Spike Tanker Trade: These 2 Stocks Are Set to Benefit",
-      "summary": "Amid the Iran war's shipping disruptions, tanker stocks Frontline and DHT Holdings have posted strong revenue growth as elevated rates boost VLCC operators d...",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/articles/strait-of-hormuz-tensions-spike-tanker-trade-these-2-stocks-are-set-to-benefit/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "bloc": "western",
-      "date": "2026-07-19",
-      "datetime": "2026-07-19T14:25:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -292,6 +318,58 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Sensex today | Stock Market Highlights: Sensex drops 442 pts to end at 77,708, Nifty closes below 24,240; Axis Bank, HDFC Bank fall most",
+      "summary": "Sensex, Nifty, Share Prices Highlights: The 30-share BSE Sensex declined 442.93 points, or 0.57 per cent, to settle at 77,708.52. The 50-share NSE Nifty edged lower by 95.80 points, or 0.39 per cent, to end at 24,238.50.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-20th-july-2026/article71241122.ece",
+      "bloc": "western",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T11:01:09Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Current price of oil as of July 20, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-07-20-2026/",
+      "bloc": "western",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T09:46:45Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -371,32 +449,6 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Trump Lashes Himself to Strait of Hormuz Mast With Renewed Blockade, Intensified Attacks on Iran; Oil Crunch Worsens as Iran Halt Fujairah Shipments, Houthis Threaten to Close Bab el-Mandeb",
-      "summary": "Today's Iran war news: Trump is indeed making himself Herbert Hoover 2.0 with his latest escalation.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-lashes-himself-to-strait-of-hormuz-mast-with-renewed-blockade-intensified-attacks-on-iran-oil-crunch-worsens-as-iran-halt-fujairah-shipments-houthis-threaten-to-close-bab-el-mandeb.html",
-      "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T10:57:25Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

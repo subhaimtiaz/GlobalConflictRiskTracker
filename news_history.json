@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-21T02:56:36.154Z",
+  "updated": "2026-07-21T08:35:06.977Z",
   "retention_days": 30,
   "items": [
     {
@@ -13312,7 +13312,35 @@
       "_from": "newsapi",
       "first_seen": "2026-07-21T02:56:36.154Z",
       "run_id": "2026-07-21T02:56"
+    },
+    {
+      "headline": "Oil prices extend gains on escalating Middle East hostilities",
+      "summary": "July 20 : Oil prices rose on Monday to their highest in more than a month, with Brent crude climbing above $90 a barrel as escalating hostilities between the U.S. and Iran restricted oil shipments through the Strait of Hormuz.Brent crude futures were up $1.03…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-extend-gains-escalating-middle-east-hostilities-6264376",
+      "bloc": "western",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T08:27:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-21T08:35:06.977Z",
+      "run_id": "2026-07-21T08:35"
     }
   ],
-  "total_items_ever": 2612
+  "total_items_ever": 2613
 }

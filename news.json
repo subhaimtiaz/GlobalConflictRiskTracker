@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-21T02:57:41.365Z",
+  "ts": "2026-07-21T08:36:12.327Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 89,
-    "oilStress": 35,
-    "updatedAt": "2026-07-21T02:57:41.365Z"
+    "oilPrice": 88,
+    "oilStress": 34,
+    "updatedAt": "2026-07-21T08:36:12.327Z"
   },
   "items": [
     {
@@ -118,27 +118,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran strikes Kuwait desalination plants as Strait of Hormuz conflict deepens",
-      "summary": "Iranian strikes on Kuwait's desalination plants escalate the Strait of Hormuz conflict, with direct implications for oil prices, crypto markets, and Gulf\nThe post Iran strikes Kuwait desalination plants as Strait of Hormuz conflict deepens appeared first on C…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-kuwait-desalination-strikes-hormuz-crypto-markets/",
+      "headline": "Oil prices extend gains on escalating Middle East hostilities",
+      "summary": "July 20 : Oil prices rose on Monday to their highest in more than a month, with Brent crude climbing above $90 a barrel as escalating hostilities between the U.S. and Iran restricted oil shipments through the Strait of Hormuz.Brent crude futures were up $1.03…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-extend-gains-escalating-middle-east-hostilities-6264376",
       "bloc": "western",
-      "date": "2026-07-18",
-      "datetime": "2026-07-18T14:53:03Z",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T08:27:36Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
@@ -244,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US military launches new airstrikes to 'punish' Iran for deaths of US troops",
-      "summary": "New US airstrikes targeted Iran after a drone attack killed American service members in Jordan.  These strikes aimed to degrade Iran's ability to control oil tanker traffic.  Iran's supreme leader warned of unforgettable lessons if attacks continue.  The conf…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-military-launches-new-airstrikes-to-punish-iran-for-deaths-of-us-troops/articleshow/132488812.cms",
-      "bloc": "regional",
-      "date": "2026-07-19",
-      "datetime": "2026-07-19T00:31:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

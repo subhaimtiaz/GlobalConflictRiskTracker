@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-20T19:48:21.995Z",
+  "ts": "2026-07-21T02:57:41.365Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 89,
     "oilStress": 35,
-    "updatedAt": "2026-07-20T19:48:21.995Z"
+    "updatedAt": "2026-07-21T02:57:41.365Z"
   },
   "items": [
+    {
+      "headline": "US launches ninth consecutive day of strikes on Iran as another American confirmed killed",
+      "summary": "U.S. forces struck Iran for a ninth consecutive day on ‌Monday as the number of confirmed American military deaths in the renewed fighting rose to three and ​concerns grew over shipping through the Strait of Hormuz.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/us-launches-ninth-consecutive-day-of-strikes-on-iran-as-another-american-confirmed-killed/article71243694.ece",
+      "bloc": "western",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T02:03:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Kuwait air defenses counter Iranian drone attacks amid 2026 Iran war escalation",
+      "summary": "Kuwait's air defenses counter Iranian drone attacks amid rising tensions. Iranian military action against a Gulf state on July 22 at 54% YES.\nThe post Kuwait air defenses counter Iranian drone attacks amid 2026 Iran war escalation appeared first on Crypto Bri…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/kuwait-air-defenses-counter-iranian-drone-attacks-amid-2026-iran-war-escalation/",
+      "bloc": "western",
+      "date": "2026-07-19",
+      "datetime": "2026-07-19T22:30:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran launches missiles toward Jordan, Israel warns of spillover",
       "summary": "Iran launched missiles toward Jordan, raising regional tensions. Houthi military action against Israel by July 31, 2026, at 15% YES.\nThe post Iran launches missiles toward Jordan, Israel warns of spillover appeared first on Crypto Briefing.",
@@ -92,54 +144,106 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran 'targets US combat aircraft at Bahrain air base' as Trump's forces launch seventh night of strikes against Tehran regime",
-      "summary": "Iran's Revolutionary Guards said they have targeted US aircraft at Sheikh Isa Air Base in Bahrain.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15986905/Iran-targets-US-combat-aircraft-Bahrain-air-base.html",
+      "headline": "Few tankers enter Hormuz to load oil as US-Iran conflict intensifies, LNG floating storage rises",
+      "summary": "The number of ships transiting the Strait of ⁠Hormuz stayed low during the weekend as the United States and Iran intensified attacks in the Middle East, shipping data showed on Monday.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/few-tankers-enter-hormuz-to-load-oil-as-us-iran-conflict-intensifies-lng-floating-storage-rises/article71243682.ece",
       "bloc": "western",
-      "date": "2026-07-18",
-      "datetime": "2026-07-18T08:00:52Z",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T02:38:13Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Price Today (July 20): Crude oil jumps 3%, crosses $90 as US and Iran exchange attacks. $100 in sight?",
+      "summary": "Brent crude futures rose $2.69, or 3.05%, to $90.79 a barrel, their highest level since June 11. The benchmark extended last week's rally, when it gained 15.9%, marking its biggest weekly advance since April.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-20-crude-oil-jumps-3-crosses-90-as-us-and-iran-exchange-attacks-100-in-sight/articleshow/132504278.cms",
+      "bloc": "regional",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T02:09:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US launches seventh straight night of attacks on Iran; bridges, water plant hit",
-      "summary": "The US and Iran exchanged fresh strikes across the Middle East as fighting over the Strait of Hormuz intensified, pushing oil prices higher and widening the conflict.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/us-launches-seventh-straight-night-of-attacks-on-iran-bridges-water-plant-hit/article71236914.ece",
+      "headline": "US Central Command redirects 6 vessels as Iran naval blockade resumes, rattling oil and crypto markets",
+      "summary": "US Central Command resumed its naval blockade on Iran, redirecting six vessels in 24 hours. Here's what it means for oil prices and crypto markets.\nThe post US Central Command redirects 6 vessels as Iran naval blockade resumes, rattling oil and crypto markets…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/centcom-iran-blockade-crypto-markets/",
       "bloc": "western",
-      "date": "2026-07-18",
-      "datetime": "2026-07-18T01:30:55Z",
+      "date": "2026-07-19",
+      "datetime": "2026-07-19T21:05:15Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Strait of Hormuz Tensions Spike Tanker Trade: These 2 Stocks Are Set to Benefit",
+      "summary": "Amid the Iran war's shipping disruptions, tanker stocks Frontline and DHT Holdings have posted strong revenue growth as elevated rates boost VLCC operators d...",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/articles/strait-of-hormuz-tensions-spike-tanker-trade-these-2-stocks-are-set-to-benefit/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "bloc": "western",
+      "date": "2026-07-19",
+      "datetime": "2026-07-19T14:25:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -170,84 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Bitcoin is trading through a dangerous weekend as 20% of the world’s oil hangs in the balance",
-      "summary": "Bitcoin traded near $62,900 on Friday afternoon, down roughly 38% from its October 2025 all-time high, as Brent crude settled above $85 and the Strait of Hormuz remained effectively closed to normal commercial traffic. By early Saturday, it had recovered to a…",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/bitcoin-is-trading-through-a-dangerous-weekend-as-20-of-the-worlds-oil-hangs-in-the-balance/",
-      "bloc": "western",
-      "date": "2026-07-18",
-      "datetime": "2026-07-18T17:00:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The US and Iran have blown past red lines as they lurch back toward all-out war",
-      "summary": "The United States and Iran are crossing each other's red lines, one after the other",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/wireStory/us-iran-blown-past-red-lines-lurch-back-134870539",
-      "bloc": "western",
-      "date": "2026-07-18",
-      "datetime": "2026-07-18T10:41:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump targets Iran's infrastructure in bid to squeeze regime",
-      "summary": "The U.S. military is widening its attacks across Iran, striking a port facility, energy infrastructure and bridges as President Trump looks to squeeze the Iranian regime. Iran has retaliated against nearby allies, targeting U.S. bases in the region, along wit…",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/defense/5975693-us-military-widens-iran-strikes/",
-      "bloc": "western",
-      "date": "2026-07-18",
-      "datetime": "2026-07-18T10:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "China's secret blueprint to bomb US warships: Satellite images show huge replicas of American destroyer and carrier built for missile practice in remote desert",
       "summary": "Deep in the remote Taklamakan desert, China has been secretly developing a blueprint to obliterate US warships.",
       "source": "Dailymail.com",
@@ -272,30 +298,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Stop Overreacting to China’s Missile Test",
-      "summary": "It was a milestone for Beijing’s nuclear forces—but not necessarily the provocation many analysts have made it out to be.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/07/13/china-nuclear-missile-test-launch-slbm/",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T16:20:51Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Trump Derangement",
       "summary": "To what extent was Israel stopped, and how, from absolutely winning that brutal urban and subterranean war in Gaza? And what lifetime lessons could Trump take from it? Opinion.",
       "source": "Israelnationalnews.com",
@@ -303,31 +305,6 @@
       "bloc": "western",
       "date": "2026-07-14",
       "datetime": "2026-07-14T17:03:57Z",
-      "leaders": [
-        "Recep Tayyip Erdogan"
-      ],
-      "watch_terms": [
-        "Erdogan Turkey Iran"
-      ],
-      "dimensions": [
-        "survival",
-        "values",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Alliances Duel To Reshape Middle Eastern Energy",
-      "summary": "Multiple Middle Eastern Alliances are consolidating. Will this bring stability, or create the fault lines for future confrontation?",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/arielcohen/2026/07/13/alliances-duel-to-reshape-middle-eastern-energy/",
-      "bloc": "western",
-      "date": "2026-07-13",
-      "datetime": "2026-07-13T12:52:28Z",
       "leaders": [
         "Recep Tayyip Erdogan"
       ],

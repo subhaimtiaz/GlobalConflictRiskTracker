@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-22T08:35:14.941Z",
+  "ts": "2026-07-22T14:04:53.885Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 94,
-    "oilStress": 43,
-    "updatedAt": "2026-07-22T08:35:14.941Z"
+    "oilPrice": 93,
+    "oilStress": 42,
+    "updatedAt": "2026-07-22T14:04:53.885Z"
   },
   "items": [
+    {
+      "headline": "US completes latest airstrikes on Iranian military installations in 2026 conflict",
+      "summary": "US completes airstrikes on Iranian military sites. Full airspace closure by August 31 at 40% YES.\nThe post US completes latest airstrikes on Iranian military installations in 2026 conflict appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-completes-latest-airstrikes-on-iranian-military-installations-in-2026/",
+      "bloc": "western",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T11:42:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran steps up attacks in return to war with US",
+      "summary": "Iran stepped up its attacks in the Middle East on Tuesday, two weeks after its war with the United States resumed, with sirens sounding in Bahrain and Jordan announcing it had intercepted two waves of missiles and drones.\nThe post Iran steps up attacks in ret…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/iran-steps-up-attacks-in-return-to-war-with-us/",
+      "bloc": "western",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T11:13:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why the Iran war hasn’t caused a global oil crisis — yet",
+      "summary": "The world has found ways to adapt without crude from the Strait of Hormuz. Experts say that won’t last.",
+      "source": "Grist",
+      "url": "https://grist.org/energy/why-the-iran-war-hasnt-caused-a-global-oil-crisis-yet/",
+      "bloc": "western",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T08:45:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran warns that conflict is now a 'full-scale war' after latest round of US attacks",
       "summary": "Tehran’s Yemeni allies, the Houthi rebels have announced they will blockade Saudi ports.",
@@ -40,91 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "U.S. Air Defenses Face Challenges Against Iranian Missiles, Officials Say",
-      "summary": "Two U.S. service members were killed and one remains missing following an Iranian missile and drone strike on a military base in Jordan on July 17, the Department of War reported on Saturday, July 18. Anonymous officials cited by multiple media outlets said t…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-21-us-air-defenses-face-challenges-iranian-missiles.html",
-      "bloc": "western",
+      "headline": "Iran's forces attack Bahrain and Kuwait after US hits Iranian ports and cities",
+      "summary": "US and Iranian forces exchanged strikes for the tenth consecutive night. Iran-aligned Houthis threatened a naval blockade against Saudi Arabia, impacting global energy supplies. Iran targeted US sites in Bahrain, Kuwait, and Jordan, while a tanker was struck.…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/irans-forces-attack-bahrain-and-kuwait-after-us-hits-iranian-ports-and-cities/articleshow/132538145.cms",
+      "bloc": "regional",
       "date": "2026-07-21",
-      "datetime": "2026-07-21T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Collapse of the Bipartisan Consensus over US-Israel Ties",
-      "summary": "After the Gaza genocide, bipartisan consensus over US-Israel ties is crumbling imperiling unconditional U.S. military support for Israel",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/07/collapse-bipartisan-consensus.html",
-      "bloc": "western",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T04:54:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US and Iran dig in over the Strait of Hormuz, showing the limits of intensifying airstrikes",
-      "summary": "US and Iran escalate military actions over the Strait of Hormuz, complicating potential diplomatic negotiations amidst rising tensions.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/us-and-iran-dig-in-over-the-strait-of-hormuz-showing-the-limits-of-intensifying-airstrikes/article71248015.ece",
-      "bloc": "western",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T04:54:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz Sees Another Ship Attack as Houthis Deepen Risks",
-      "summary": "Another tanker was attacked in the Strait of Hormuz as renewed hostilities empty the waterway, while a threat by Houthi rebels to blockade Saudi Arabia in the Red Sea heightened regional maritime risks.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/hormuz_sees_another_ship_attack_as_houthis_deepen_risks-21-jul-2026-184171-article/",
-      "bloc": "western",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T07:54:38Z",
+      "datetime": "2026-07-21T13:46:51Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -144,13 +144,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Another Tanker Hit in Hormuz as Houthis Add to Regional Risks",
-      "summary": "Another tanker was attacked in the Strait of Hormuz as renewed hostilities empty the waterway, while a threat by Houthi rebels to blockade Saudi Arabia in the Red Sea heightened regional maritime risks.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/another-tanker-hit-in-hormuz-as-houthis-add-to-regional-risks",
+      "headline": "US bombs Iranian ports and cities; Tehran retaliates with attacks on US sites in Bahrain, Kuwait and Jordan",
+      "summary": "US and Iranian forces exchanged strikes for the tenth consecutive night. Iran-aligned Houthis threatened a naval blockade against Saudi Arabia, impacting global energy supplies. Iran targeted US sites in Bahrain, Kuwait, and Jordan, while a tanker was struck.…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-bombs-iranian-ports-and-cities-tehran-retaliates-with-attacks-on-us-sites-in-bahrain-kuwait-and-jordan/articleshow/132538145.cms",
+      "bloc": "regional",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T13:46:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran’s Forces Attack Bahrain and Kuwait After US Hits Iranian Ports and Cities",
+      "summary": "U.S. forces bombed Iran’s south and west after President Donald Trump said Tehran would pay dearly for the deaths of American soldiers, while Iran targeted U.S. sites in Bahrain, Kuwait and Jordan on Tuesday and a tanker was hit in …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/21/878354.htm",
       "bloc": "western",
       "date": "2026-07-21",
-      "datetime": "2026-07-21T06:51:05Z",
+      "datetime": "2026-07-21T13:31:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Prices Top $90 as Kuwaiti Tanker Hit in Strait of Hormuz",
+      "summary": "A Kuwait-owned oil products tanker was struck by a projectile in the Strait of Hormuz near Oman as tensions escalate around the key shipping lanes of the Middle East, sending Brent back above $90 per barrel.  The Kaifan tanker, owned by Kuwait Oil Tanker Co. …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Top-90-as-Kuwaiti-Tanker-Hit-in-Strait-of-Hormuz.html",
+      "bloc": "western",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T11:55:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -166,58 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Crisis escalates in the Strait of Hormuz: “We hit two more tankers,” say the Revolutionary Guards",
-      "summary": "Reports indicate that one of the two vessels was Greek – The US carried out another series of strikes on Iranian targets – Brent crude prices eased slightly but remained close to $90 per barrel\nThe post Crisis escalates in the Strait of Hormuz: “We hit two mo…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/07/21/crisis-escalates-in-the-strait-of-hormuz-we-hit-two-more-tankers-say-the-revolutionary-guards/",
-      "bloc": "western",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T04:56:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran targets US military sites, Houthis make port threats",
-      "summary": "Iran targeted US radar and air defence installations in the Gulf, warning Washington of \"more decisive and powerful\" attacks to come as the conflict threatened to widen with a blockade of Saudi ports by Houthi rebels in Yemen.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/middle-east/2026/0721/1584320-iran-targets-us-military-sites-houthis-make-port-threats/",
-      "bloc": "western",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T04:46:59Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -242,6 +242,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Sensex today | Stock Market Highlights: Sensex declines 238.41 points to settle at 77,470.11; Nifty dips 50.80 points to 24,187.70",
+      "summary": "Sensex, Nifty, Share Prices Highlights: The benchmark indices traded in the red near the close on Tuesday. Sensex closed at 77,470.11, down 238.41 points or 0.31% lower. The Nifty was at 24,187.70, down by 0.21%.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-21st-may-2026/article71245381.ece",
+      "bloc": "western",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T10:33:03Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -331,32 +357,6 @@
       "bloc": "regional",
       "date": "2026-07-17",
       "datetime": "2026-07-17T09:40:44Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil is crude once again! Is $95 the new normal and what it means for Indian investors?",
-      "summary": "Crude oil prices are rising again due to escalating Middle East tensions. This surge impacts India's import costs and government finances significantly. Higher oil prices will likely pressure the Indian rupee and fuel inflation. Indian equity markets may expe…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-is-crude-once-again-is-95-the-new-normal-and-what-it-means-for-indian-investors/articleshow/132430022.cms",
-      "bloc": "regional",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T04:57:51Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

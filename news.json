@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-22T14:04:53.885Z",
+  "ts": "2026-07-22T19:26:51.422Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 93,
-    "oilStress": 42,
-    "updatedAt": "2026-07-22T14:04:53.885Z"
+    "oilPrice": 94,
+    "oilStress": 43,
+    "updatedAt": "2026-07-22T19:26:51.422Z"
   },
   "items": [
+    {
+      "headline": "Iran Claims It ‘Destroyed’ Amazon’s Central Data Infrastructure In Bahrain",
+      "summary": "This marks the fifth time Iranian forces have claimed to target Amazon facilities in the Middle East.",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/iran-claims-it-destroyed-amazons-central-data-infrastructure-in-bahrain-2000788439",
+      "bloc": "western",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T17:45:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US completes latest airstrikes on Iranian military installations in 2026 conflict",
       "summary": "US completes airstrikes on Iranian military sites. Full airspace closure by August 31 at 40% YES.\nThe post US completes latest airstrikes on Iranian military installations in 2026 conflict appeared first on Crypto Briefing.",
@@ -92,117 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran warns that conflict is now a 'full-scale war' after latest round of US attacks",
-      "summary": "Tehran’s Yemeni allies, the Houthi rebels have announced they will blockade Saudi ports.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/iran-pesident-full-scale-war-us-attacks-7108778-Jul2026/",
-      "bloc": "western",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T07:09:32Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran's forces attack Bahrain and Kuwait after US hits Iranian ports and cities",
-      "summary": "US and Iranian forces exchanged strikes for the tenth consecutive night. Iran-aligned Houthis threatened a naval blockade against Saudi Arabia, impacting global energy supplies. Iran targeted US sites in Bahrain, Kuwait, and Jordan, while a tanker was struck.…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/irans-forces-attack-bahrain-and-kuwait-after-us-hits-iranian-ports-and-cities/articleshow/132538145.cms",
-      "bloc": "regional",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T13:46:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US bombs Iranian ports and cities; Tehran retaliates with attacks on US sites in Bahrain, Kuwait and Jordan",
-      "summary": "US and Iranian forces exchanged strikes for the tenth consecutive night. Iran-aligned Houthis threatened a naval blockade against Saudi Arabia, impacting global energy supplies. Iran targeted US sites in Bahrain, Kuwait, and Jordan, while a tanker was struck.…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-bombs-iranian-ports-and-cities-tehran-retaliates-with-attacks-on-us-sites-in-bahrain-kuwait-and-jordan/articleshow/132538145.cms",
-      "bloc": "regional",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T13:46:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran’s Forces Attack Bahrain and Kuwait After US Hits Iranian Ports and Cities",
-      "summary": "U.S. forces bombed Iran’s south and west after President Donald Trump said Tehran would pay dearly for the deaths of American soldiers, while Iran targeted U.S. sites in Bahrain, Kuwait and Jordan on Tuesday and a tanker was hit in …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/07/21/878354.htm",
-      "bloc": "western",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T13:31:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Prices Top $90 as Kuwaiti Tanker Hit in Strait of Hormuz",
-      "summary": "A Kuwait-owned oil products tanker was struck by a projectile in the Strait of Hormuz near Oman as tensions escalate around the key shipping lanes of the Middle East, sending Brent back above $90 per barrel.  The Kaifan tanker, owned by Kuwait Oil Tanker Co. …",
+      "headline": "India Pulls Back From Iraqi Oil as Hormuz Turns Too Dangerous",
+      "summary": "India's biggest state refiners are no longer willing to gamble on the Strait of Hormuz. Indian Oil Corp. and Mangalore Refinery & Petrochemicals have suspended crude loadings from Iraq after a string of attacks on commercial tankers turned the world's most im…",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Top-90-as-Kuwaiti-Tanker-Hit-in-Strait-of-Hormuz.html",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Pulls-Back-From-Iraqi-Oil-as-Hormuz-Turns-Too-Dangerous.html",
       "bloc": "western",
       "date": "2026-07-21",
-      "datetime": "2026-07-21T11:55:00Z",
+      "datetime": "2026-07-21T18:30:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -213,6 +135,134 @@
       ],
       "dimensions": [
         "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "'Not finished': Trump signals US strikes on Iran's Pickaxe Mountain site",
+      "summary": "President Donald Trump says the United States is far from finished with Iran, warning its next military target could be an underground nuclear complex known as Pickaxe Mountain.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-22/trump-pickaxe-mountain/106942520",
+      "bloc": "western",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T18:00:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "'Not finished': Trump signals US strikes on Iran's 'Pickaxe Mountain' site",
+      "summary": "Donald Trump says the United States is far from finished with Iran, warning its next military target could be an underground nuclear complex.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-22/trump-says-us-will-target-iran-nuclear-development-site/106942520",
+      "bloc": "western",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T18:00:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Houthi Warning on Saudi Ports Could Have Carriers Again Rethinking Red Sea",
+      "summary": "The expanded threat is expected to hit energy shipments harder than the container trade, but could prompt ocean carriers to reconsider recent returns to the corridor.",
+      "source": "WWD",
+      "url": "http://wwd.com/sourcing-journal/logistics/houthis-saudi-arabia-ports-ocean-carriers-container-market-energy-iran-war-1239077182/",
+      "bloc": "western",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T17:38:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "After Hormuz, Gate of Tears may make the world cry. What about India?",
+      "summary": "The Bab el-Mandeb Strait, a key shipping route connecting the Red Sea and the Gulf of Aden, faces growing risks of disruption after Yemen’s Houthi movement warned of a maritime blockade targeting Saudi shipping. With US-Iran tensions escalating, the possibili…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/bab-el-mandeb-red-sea-and-houthis-after-hormuz-gate-of-tears-may-make-the-world-cry-what-about-india/articleshow/132541288.cms",
+      "bloc": "regional",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T16:13:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Mike Johnson Breaks With Trump On Iran War: ‘We’ve Got To Wrap It Up’",
+      "summary": "House Speaker Mike Johnson (R-LA) was asked during a Capitol Hill press conference on Tuesday at what point he will move to use Congressional power to check President Donald Trump’s war in Iran. Johnson pointedly ended his reply by saying “we’ve got to wrap i…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4388815/posts",
+      "bloc": "western",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T18:43:19Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "Trump Iran war"
+      ],
+      "dimensions": [
+        "accountability",
         "impulsivity"
       ],
       "variable_key": null,

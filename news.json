@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-21T19:37:45.694Z",
+  "ts": "2026-07-22T02:55:47.378Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 91,
+    "oilPrice": 92,
     "oilStress": 39,
-    "updatedAt": "2026-07-21T19:37:45.694Z"
+    "updatedAt": "2026-07-22T02:55:47.378Z"
   },
   "items": [
+    {
+      "headline": "Trump says the United States is 'not finished' with Iran",
+      "summary": "A 10th straight day of hostilities between the United States and Iran across the Middle East overshadowed diplomatic efforts in Pakistan to salvage an interim ceasefire deal. Trump says US military campaign against Iran will continue\nIran struck sites in Bahr…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/trump-says-the-united-states-is-not-finished-with-iran/live-78042474",
+      "bloc": "western",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T22:24:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. Carrying Out 10th Consecutive Night Of Strikes On Iran",
+      "summary": "As the U.S. and Iran inch closer toward all-out war once again, there is some hope for a diplomatic resolution.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/us-carrying-out-10th-consecutive-night-of-strikes-on-iran_n_6a5e9002e4b06bbe43f37012",
+      "bloc": "western",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T21:24:19Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Drones Are The Latest Airborne Plague On Iraqi Kurdistan",
+      "summary": "After such traumatic, unprovoked attacks, Iraqi Kurdistan would doubtlessly welcome any opportunity to acquire air defenses for self-protection.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/pauliddon/2026/07/20/drones-are-the-latest-airborne-plague-on-iraqi-kurdistan/",
+      "bloc": "western",
+      "date": "2026-07-20",
+      "datetime": "2026-07-20T20:23:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Jordan intercepts three Iranian missiles aimed at US base",
       "summary": "Jordan intercepted three Iranian missiles aimed at a US base. Houthi military action against Israel by July 31, 2026 at 7.5% YES.\nThe post Jordan intercepts three Iranian missiles aimed at US base appeared first on Crypto Briefing.",
@@ -66,91 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Yemen’s Houthis declare naval blockade of Saudi Arabia: What to know",
-      "summary": "Yemeni group says the announcement is based on the principle of 'an eye for an eye'.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/20/yemens-houthis-declare-naval-blockade-of-saudi-arabia-what-to-know",
-      "bloc": "regional",
-      "date": "2026-07-20",
-      "datetime": "2026-07-20T15:39:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
-      "summary": "The US has escalated attacks on Iranian roads, bridges and power plants, and Iran too, has responded.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit",
-      "bloc": "regional",
-      "date": "2026-07-20",
-      "datetime": "2026-07-20T14:37:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "What we know about US soldiers killed in Iran war and Iranian casualties",
-      "summary": "Trump has expressed sadness and vowed to hit Iran 'very hard' to honour killed US soldiers.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties",
-      "bloc": "regional",
-      "date": "2026-07-20",
-      "datetime": "2026-07-20T14:34:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Japan Scrambles for Oil",
-      "summary": "A covert network of shuttle tankers is carrying crude through the increasingly dangerous Strait of Hormuz as renewed fighting between the United States and Iran disrupts shipping and raises concerns over how Japan will secure the oil it needs. (News On Japan)",
-      "source": "Newsonjapan.com",
-      "url": "https://newsonjapan.com/article/150044.php",
+      "headline": "Ships shun Strait of Hormuz as renewed fighting strains key oil corridor",
+      "summary": "Vessel traffic through the Strait of Hormuz has slumped since U.S. President Donald Trump's blockade took effect last week.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html",
       "bloc": "western",
-      "date": "2026-07-20",
-      "datetime": "2026-07-20T19:22:44Z",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T02:33:54Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +170,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Tanker Attacks in Strait of Hormuz Coincide With New Houthi Maritime Threat",
-      "summary": "Projectile strikes on two oil tankers came as the Houthis said it would blockade Saudi shipping, adding fresh uncertainty for vessels transiting the Strait of Hormuz and Red Sea.",
-      "source": "WWD",
-      "url": "http://wwd.com/sourcing-journal/logistics/strait-of-hormuz-oil-tanker-attacks-houthis-threat-red-sea-saudi-shipping-1239076103/",
+      "headline": "Oil Dips After Two-Day Gain as Traders Weigh Middle East Outlook",
+      "summary": "Brent oil slipped after surging almost 6% over the previous two sessions, as traders weighed continued hostilities between the US and Iran against efforts to broker a new ceasefire.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-dips-after-two-day-gain-as-traders-weigh-middle-east-outlook",
       "bloc": "western",
-      "date": "2026-07-20",
-      "datetime": "2026-07-20T18:20:01Z",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T01:48:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Another tanker attacked in Strait of Hormuz as US attacks Iran for 10th consecutive night",
+      "summary": "A tanker was attacked early Tuesday in the Strait of Hormuz off Oman. Two other ships faced assaults in the strait over the last day. The United States military conducted its tenth consecutive night of strikes on Iran. Nearly one hundred US service members ha…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/another-tanker-attacked-in-strait-of-hormuz-as-us-attacks-iran-for-10th-consecutive-night/articleshow/132526343.cms",
+      "bloc": "regional",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T01:29:37Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,39 +222,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Petrol prices climb as US–Iran tensions disrupt markets",
-      "summary": "US petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers.",
+      "headline": "US attacks Iran for tenth consecutive night",
+      "summary": "Washington vows revenge for US military casualties, while Iran claims attacks on US sites across the region.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt",
+      "url": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran",
       "bloc": "regional",
-      "date": "2026-07-20",
-      "datetime": "2026-07-20T17:40:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iranian attack sets Kavomaleas tanker ablaze in Strait of Hormuz crisis",
-      "summary": "Iranian attack sets Kavomaleas tanker ablaze in the Strait of Hormuz. Traffic normal by August 31 at 14.5% YES.\nThe post Iranian attack sets Kavomaleas tanker ablaze in Strait of Hormuz crisis appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iranian-attack-sets-kavomaleas-tanker-ablaze-in-strait-of-hormuz-crisis/",
-      "bloc": "western",
-      "date": "2026-07-20",
-      "datetime": "2026-07-20T14:21:50Z",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T00:06:33Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -248,13 +248,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Saudi Led Coalition Vows to Protect Ships from Houthis",
-      "summary": "The Houthis, an Iran-backed Yemeni group, vowed to impose a maritime blockade on Saudi Arabia.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/saudi_led_coalition_vows_to_protect_ships_from_houthis-20-jul-2026-184166-article/",
+      "headline": "Saudi oil loadings drop by 36% as Houthi threats disrupt Bab Al Mandeb passage | The National",
+      "summary": "Saudi oil loadings drop by 36% as Houthi threats disrupt Bab Al Mandeb passage | The Nationalthenationalnews.com",
+      "source": "Thenationalnews.com",
+      "url": "https://www.thenationalnews.com/business/energy/2026/07/20/saudi-oil-loadings-drop-by-36-as-houthi-threats-disrupt-bab-al-mandeb-passage/",
       "bloc": "western",
       "date": "2026-07-20",
-      "datetime": "2026-07-20T14:06:33Z",
+      "datetime": "2026-07-20T21:13:09Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -269,7 +269,7 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -294,31 +294,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Derangement",
-      "summary": "To what extent was Israel stopped, and how, from absolutely winning that brutal urban and subterranean war in Gaza? And what lifetime lessons could Trump take from it? Opinion.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430160",
-      "bloc": "western",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T17:03:57Z",
-      "leaders": [
-        "Recep Tayyip Erdogan"
-      ],
-      "watch_terms": [
-        "Erdogan Turkey Iran"
-      ],
-      "dimensions": [
-        "survival",
-        "values",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -453,31 +428,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
-      "summary": "Islamabad is still urging dialogue, but analysts say it has few tools to halt the latest round of US-Iran escalation.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks",
-      "bloc": "regional",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T06:41:51Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Iranian strike hits a Kuwait desalination plant, damaging key water source",
       "summary": "Iranian strikes on Friday hit a power and water desalination plant in Kuwait, damaging one of the key sources of drinking water in the small desert nation.",
       "source": "New York Post",
@@ -554,29 +504,6 @@
       "bloc": "western",
       "date": "2026-07-15",
       "datetime": "2026-07-15T20:45:20Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia readies to reroute exports from Sea of Azov after Ukrainian attacks",
-      "summary": "Ukraine says drones hit 11 Russian vessels in the Azov Sea, targeting tankers, dry cargo ships, and a tugboat overnight.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/14/russia-readies-to-reroute-exports-from-sea-of-azov-after-ukrainian-attacks",
-      "bloc": "regional",
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T12:14:10Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

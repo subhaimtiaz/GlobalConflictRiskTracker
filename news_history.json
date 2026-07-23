@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-23T14:09:34.915Z",
+  "updated": "2026-07-23T19:23:27.015Z",
   "retention_days": 30,
   "items": [
     {
@@ -14431,7 +14431,91 @@
       "_from": "newsapi",
       "first_seen": "2026-07-23T14:09:34.914Z",
       "run_id": "2026-07-23T14:09"
+    },
+    {
+      "headline": "Trump’s $200 Billion Bet on Lower Mortgage Rates Worked. War in Iran Just Changed Everything.",
+      "summary": "A $200 billion government intervention pushed mortgage rates below 6% for the first time in years, and then a war in the Middle East started unraveling every...",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/22/trumps-200-billion-bet-on-lower-mortgage-rates-worked-war-in-iran-just-changed-everything/",
+      "bloc": "western",
+      "date": "2026-07-22",
+      "datetime": "2026-07-22T14:41:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-23T19:23:27.014Z",
+      "run_id": "2026-07-23T19:23"
+    },
+    {
+      "headline": "More tankers turn back as Houthi threat rattles Red Sea oil trade",
+      "summary": "Houthi militia warnings are causing tankers to change course in the Red Sea.  Two vessels altered their destinations to the Suez Canal after the blockade declaration.  European Union naval forces advised ships to avoid voyages through the Red Sea.  This situa…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/more-tankers-turn-back-as-houthi-threat-rattles-red-sea-oil-trade/articleshow/132565611.cms",
+      "bloc": "regional",
+      "date": "2026-07-22",
+      "datetime": "2026-07-22T18:01:56Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-23T19:23:27.014Z",
+      "run_id": "2026-07-23T19:23"
+    },
+    {
+      "headline": "Trump threatens Iran bridges, power as payback for Hormuz attacks",
+      "summary": "\"Any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz, whether it be by Missile, Rocket, Drone, or any other device or weapon, the United States will bomb and destroy ONE BRIDGE OR POWER PLANT,\" Trump wrote on social media, reiterati…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/trump-threatens-iran-bridges-power-as-payback-for-hormuz-attacks/",
+      "bloc": "western",
+      "date": "2026-07-22",
+      "datetime": "2026-07-22T14:43:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-23T19:23:27.015Z",
+      "run_id": "2026-07-23T19:23"
     }
   ],
-  "total_items_ever": 2689
+  "total_items_ever": 2692
 }

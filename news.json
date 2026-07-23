@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-23T14:10:40.350Z",
+  "ts": "2026-07-23T19:24:32.215Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 101,
+    "oilPrice": 100,
     "oilStress": 53,
-    "updatedAt": "2026-07-23T14:10:40.350Z"
+    "updatedAt": "2026-07-23T19:24:32.215Z"
   },
   "items": [
+    {
+      "headline": "Trump’s $200 Billion Bet on Lower Mortgage Rates Worked. War in Iran Just Changed Everything.",
+      "summary": "A $200 billion government intervention pushed mortgage rates below 6% for the first time in years, and then a war in the Middle East started unraveling every...",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/22/trumps-200-billion-bet-on-lower-mortgage-rates-worked-war-in-iran-just-changed-everything/",
+      "bloc": "western",
+      "date": "2026-07-22",
+      "datetime": "2026-07-22T14:41:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "UK’s Miliband, Streeting: What are their foreign policy, defence records?",
       "summary": "Miliband, Trump critic who once opposed strikes on Syria, joins Streeting, defence novice with shifting Israel views.",
@@ -118,28 +144,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran-Backed Houthis Impose Naval Blockade on Saudi Arabia",
-      "summary": "Yemen’s Iran-aligned Houthi rebels announced on Monday, July 20, they are imposing a maritime embargo on Saudi Arabia – a move that threatens global energy supplies and widens the conflict beyond the Gulf region, according to a statement from Houthi military …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-22-houthis-impose-naval-blockade-on-saudi-arabia.html",
-      "bloc": "western",
+      "headline": "More tankers turn back as Houthi threat rattles Red Sea oil trade",
+      "summary": "Houthi militia warnings are causing tankers to change course in the Red Sea.  Two vessels altered their destinations to the Suez Canal after the blockade declaration.  European Union naval forces advised ships to avoid voyages through the Red Sea.  This situa…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/more-tankers-turn-back-as-houthi-threat-rattles-red-sea-oil-trade/articleshow/132565611.cms",
+      "bloc": "regional",
       "date": "2026-07-22",
-      "datetime": "2026-07-22T06:00:00Z",
+      "datetime": "2026-07-22T18:01:56Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump threatens Iran bridges, power as payback for Hormuz attacks",
+      "summary": "\"Any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz, whether it be by Missile, Rocket, Drone, or any other device or weapon, the United States will bomb and destroy ONE BRIDGE OR POWER PLANT,\" Trump wrote on social media, reiterati…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/trump-threatens-iran-bridges-power-as-payback-for-hormuz-attacks/",
+      "bloc": "western",
+      "date": "2026-07-22",
+      "datetime": "2026-07-22T14:43:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,58 +255,6 @@
       "bloc": "western",
       "date": "2026-07-22",
       "datetime": "2026-07-22T11:12:56Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil climbs over 4% to near six-week high as conflict threatens key oil transit routes",
-      "summary": "Oil prices hit a six-week high on Wednesday, with Brent crude racing past ninety-five dollars a barrel. The growing tensions between the U.S. and Iran have sparked fears of supply disruptions affecting critical shipping lanes. Moreover, threats from the Houth…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-over-4-to-near-six-week-high-as-conflict-threatens-key-oil-transit-routes/articleshow/132556226.cms",
-      "bloc": "regional",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T10:12:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Brent crude surges 4% to over $95 a barrel, nears 6-week high as conflict threatens key oil transit routes",
-      "summary": "Oil prices hit a six-week high on Wednesday, with Brent crude racing past ninety-five dollars a barrel. The growing tensions between the U.S. and Iran have sparked fears of supply disruptions affecting critical shipping lanes. Moreover, threats from the Houth…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-surges-4-to-over-95-a-barrel-near-6-week-high-as-conflict-threatens-key-oil-transit-routes/articleshow/132556226.cms",
-      "bloc": "regional",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T10:12:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -479,32 +479,6 @@
       "bloc": "western",
       "date": "2026-07-20",
       "datetime": "2026-07-20T11:01:09Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of July 20, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-07-20-2026/",
-      "bloc": "western",
-      "date": "2026-07-20",
-      "datetime": "2026-07-20T09:46:45Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

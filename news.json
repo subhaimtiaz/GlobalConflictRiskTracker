@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-22T19:26:51.422Z",
+  "ts": "2026-07-23T03:17:19.305Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 94,
-    "oilStress": 43,
-    "updatedAt": "2026-07-22T19:26:51.422Z"
+    "oilPrice": 96,
+    "oilStress": 46,
+    "updatedAt": "2026-07-23T03:17:19.305Z"
   },
   "items": [
     {
@@ -118,13 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "India Pulls Back From Iraqi Oil as Hormuz Turns Too Dangerous",
-      "summary": "India's biggest state refiners are no longer willing to gamble on the Strait of Hormuz. Indian Oil Corp. and Mangalore Refinery & Petrochemicals have suspended crude loadings from Iraq after a string of attacks on commercial tankers turned the world's most im…",
+      "headline": "Oil Prices Climb as U.S.-Iran Conflict Shows No Signs of Slowing",
+      "summary": "Oil prices continued to climb in early Asian trade on Wednesday as the renewed hostilities between the United States and Iran showed no signs of slowing.  At the time of writing, Brent crude was trading at $92.44, up 1.57% on the session, while West Texas Int…",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Pulls-Back-From-Iraqi-Oil-as-Hormuz-Turns-Too-Dangerous.html",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Conflict-Shows-No-Signs-of-Slowing.html",
       "bloc": "western",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T18:30:00Z",
+      "date": "2026-07-22",
+      "datetime": "2026-07-22T03:08:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -144,91 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "'Not finished': Trump signals US strikes on Iran's Pickaxe Mountain site",
-      "summary": "President Donald Trump says the United States is far from finished with Iran, warning its next military target could be an underground nuclear complex known as Pickaxe Mountain.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-22/trump-pickaxe-mountain/106942520",
-      "bloc": "western",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T18:00:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "'Not finished': Trump signals US strikes on Iran's 'Pickaxe Mountain' site",
-      "summary": "Donald Trump says the United States is far from finished with Iran, warning its next military target could be an underground nuclear complex.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-22/trump-says-us-will-target-iran-nuclear-development-site/106942520",
-      "bloc": "western",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T18:00:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthi Warning on Saudi Ports Could Have Carriers Again Rethinking Red Sea",
-      "summary": "The expanded threat is expected to hit energy shipments harder than the container trade, but could prompt ocean carriers to reconsider recent returns to the corridor.",
-      "source": "WWD",
-      "url": "http://wwd.com/sourcing-journal/logistics/houthis-saudi-arabia-ports-ocean-carriers-container-market-energy-iran-war-1239077182/",
-      "bloc": "western",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T17:38:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "After Hormuz, Gate of Tears may make the world cry. What about India?",
-      "summary": "The Bab el-Mandeb Strait, a key shipping route connecting the Red Sea and the Gulf of Aden, faces growing risks of disruption after Yemen’s Houthi movement warned of a maritime blockade targeting Saudi shipping. With US-Iran tensions escalating, the possibili…",
+      "headline": "Oil Price Today (July 22): Crude oil crosses $90, hits 2-month high as US strikes enter 11th day. $120 possible, say experts",
+      "summary": "Brent crude prices crossed the mark of $92 a barrel, rising to the levels last seen in early-June. West Texas Intermediate (WTI), the US crude, is now trading near the mark of $85 a barrel, climbing for the fourth straight session.",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/bab-el-mandeb-red-sea-and-houthis-after-hormuz-gate-of-tears-may-make-the-world-cry-what-about-india/articleshow/132541288.cms",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-22-crude-oil-crosses-90-hits-2-month-high-as-us-strikes-enter-11th-day-120-possible-say-experts/articleshow/132532829.cms",
       "bloc": "regional",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T16:13:42Z",
+      "date": "2026-07-22",
+      "datetime": "2026-07-22T02:16:04Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -239,6 +161,108 @@
       ],
       "dimensions": [
         "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Fresh US-Iran strikes overshadow Pakistan's bid to revive collapsed ceasefire",
+      "summary": "Tensions between the United States and Iran intensified over the Strait of Hormuz. Pakistan's diplomatic efforts to revive a ceasefire deal faced significant challenges. U.S. President Donald Trump expressed no interest in immediate talks with Iran. Iran-back…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/fresh-us-iran-strikes-overshadow-pakistans-bid-to-revive-collapsed-ceasefire/articleshow/132549154.cms",
+      "bloc": "regional",
+      "date": "2026-07-22",
+      "datetime": "2026-07-22T00:53:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "2 tankers carrying Saudi oil reverse course in Red Sea after Houthi threat, amid widening U.S.-Iran war",
+      "summary": "Two oil tankers carrying Saudi crude to Asia reversed course in the Red Sea on Tuesday after threats from Yemen's Iran-aligned Houthis, as a widening Middle East conflict disrupted shipping through two of the world's most critical energy chokepoints.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/iran-tankers-war-us-9.7278658",
+      "bloc": "western",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T23:32:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil tops $90 as Iran hits tankers in Hormuz",
+      "summary": "Global oil prices surge above $90 after Iran attacks tankers in the Strait of Hormuz, raising fears of prolonged crude supply disruptions.\n\nRead More: https://punchng.com/oil-tops-90-as-iran-hits-tankers-in-hormuz/",
+      "source": "The Punch",
+      "url": "https://punchng.com/oil-tops-90-as-iran-hits-tankers-in-hormuz/",
+      "bloc": "western",
+      "date": "2026-07-21",
+      "datetime": "2026-07-21T23:08:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "'Wrap It Up': Mike Johnson Makes Stunning Comments On Future Of Iran War",
+      "summary": "“I think we need to bring it to a resolution,” Speaker Mike Johnson (R-La.) said.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/mike-johnson-iran-war-donald-trump_n_6a5ffd6fe4b06bbe43f4fb35",
+      "bloc": "western",
+      "date": "2026-07-22",
+      "datetime": "2026-07-22T01:24:47Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "Trump Iran war"
+      ],
+      "dimensions": [
+        "accountability",
         "impulsivity"
       ],
       "variable_key": null,
@@ -292,6 +316,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "China's Next Move Could Decide Where Oil Prices Go This Year",
+      "summary": "China’s demand for crude oil imports and the pace of its refined products exports will help shape the trend in oil prices through the end of the year, alongside the supply disruptions in the Middle East.   Decade-low Chinese crude oil imports have eased upwar…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Chinas-Next-Move-Could-Decide-Where-Oil-Prices-Go-This-Year.html",
+      "bloc": "western",
+      "date": "2026-07-22",
+      "datetime": "2026-07-22T00:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -400,32 +450,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Peak of US-Iran conflict likely over; easing commodity prices to aid Indian manufacturers from H2FY27: Report",
-      "summary": "Easing commodity prices are expected to boost Indian manufacturers' operating margins. Global supply is improving and demand from China remains weak. US crude oil exports have risen, offsetting supply disruptions. OPEC+ agreed to increase output, further stab…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/easing-commodity-prices-to-boost-indian-manufacturers-as-us-iran-conflict-peaks-key-insights-for-fy27/articleshow/132457863.cms",
-      "bloc": "regional",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T09:40:44Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Iranian strike hits a Kuwait desalination plant, damaging key water source",
       "summary": "Iranian strikes on Friday hit a power and water desalination plant in Kuwait, damaging one of the key sources of drinking water in the small desert nation.",
       "source": "New York Post",
@@ -456,52 +480,6 @@
       "bloc": "western",
       "date": "2026-07-17",
       "datetime": "2026-07-17T09:18:18Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Wednesday, July 15. Russia’s War On Ukraine: News And Information From Ukraine",
-      "summary": "Dispatches from Ukraine. Day 1603.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/katyasoldak/2026/07/15/wednesday-july-15-russias-war-on-ukraine-news-and-information-from-ukraine/",
-      "bloc": "western",
-      "date": "2026-07-15",
-      "datetime": "2026-07-15T23:39:17Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia Shifts Its Focus to the Black Sea",
-      "summary": "Moscow is targeting trade routes and deepwater ports to strain Ukraine’s wartime economy.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/07/15/russia-ukraine-war-strikes-black-sea-ports-odesa-zelensky-koretskyi-fedorov/",
-      "bloc": "western",
-      "date": "2026-07-15",
-      "datetime": "2026-07-15T20:45:20Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

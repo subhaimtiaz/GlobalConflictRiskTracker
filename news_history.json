@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-24T13:51:26.087Z",
+  "updated": "2026-07-24T19:34:35.640Z",
   "retention_days": 30,
   "items": [
     {
@@ -14701,7 +14701,174 @@
       "_from": "newsapi",
       "first_seen": "2026-07-24T13:51:26.087Z",
       "run_id": "2026-07-24T13:51"
+    },
+    {
+      "headline": "Oil surges past $100 in a first since May as Middle East conflicts rage",
+      "summary": "Oil prices rise for a fifth day after Yemen's Houthis say they struck Saudi Arabian oil tankers in the Red Sea.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage",
+      "bloc": "regional",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T17:05:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-24T19:34:35.640Z",
+      "run_id": "2026-07-24T19:34"
+    },
+    {
+      "headline": "War Risk Insurance Costs Surge for Southern Red Sea Voyages After Houthi Attacks",
+      "summary": "The insurance cost of shipping goods through the southern Red Sea doubled for some companies on Thursday, after Yemen’s Iran-aligned Houthis attacked at least one tanker overnight, sources said. The Houthis said their forces had carried out missile and drone …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/23/878788.htm",
+      "bloc": "western",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T16:36:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-24T19:34:35.640Z",
+      "run_id": "2026-07-24T19:34"
+    },
+    {
+      "headline": "Oil crosses $100: A 'perfect hurricane' can trigger bigger shock soon",
+      "summary": "Brent crude has surged past $100 as escalating Middle East tensions threaten two critical oil chokepoints — the Strait of Hormuz and Bab el-Mandeb — at the same time. While markets were already grappling with disruptions in Hormuz due to the US-Iran conflict,…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/oil-crosses-100-a-perfect-hurricane-can-trigger-bigger-shock-soon/articleshow/132586558.cms",
+      "bloc": "regional",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T15:59:32Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-24T19:34:35.640Z",
+      "run_id": "2026-07-24T19:34"
+    },
+    {
+      "headline": "New threat by Yemen's Houthis could widen Iran war, put another trade chokepoint at risk",
+      "summary": "Houthi rebels threaten to blockade the Bab el-Mandeb Strait, impacting global trade routes.  They recently attacked two Saudi oil tankers in the Red Sea.  This action escalates tensions and risks wider regional conflict.  The vital strait connects the Red Sea…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/new-threat-by-yemens-houthis-could-widen-iran-war-put-another-trade-chokepoint-at-risk/articleshow/132586657.cms",
+      "bloc": "regional",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T15:59:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-24T19:34:35.640Z",
+      "run_id": "2026-07-24T19:34"
+    },
+    {
+      "headline": "Shoppers may see higher oil prices surface through groceries, back-to-school items",
+      "summary": "Consumers already feeling pinched since the Iran war started may feel more pain after oil prices pushed past $100 a barrel",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/gas-groceries-back-school-items-shoppers-higher-oil-135027906",
+      "bloc": "western",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T18:34:33Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-24T19:34:35.640Z",
+      "run_id": "2026-07-24T19:34"
+    },
+    {
+      "headline": "The missing half of mediation",
+      "summary": "The future of diplomacy between the US and Iran depends on giving mediators the backing needed to make agreements stick.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/opinions/2026/7/23/the-missing-half-of-mediation",
+      "bloc": "regional",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T16:08:54Z",
+      "leaders": [
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran US diplomacy"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-24T19:34:35.640Z",
+      "run_id": "2026-07-24T19:34"
     }
   ],
-  "total_items_ever": 2715
+  "total_items_ever": 2721
 }

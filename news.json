@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-24T02:56:22.914Z",
+  "ts": "2026-07-24T08:33:25.364Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 100,
-    "oilStress": 53,
-    "updatedAt": "2026-07-24T02:56:22.914Z"
+    "oilPrice": 99,
+    "oilStress": 50,
+    "updatedAt": "2026-07-24T08:33:25.364Z"
   },
   "items": [
+    {
+      "headline": "Has Donald Trump Sidelined Vance Over Iran?",
+      "summary": "Has Vice President J.D. Vance been sidelined by President Trump over Iran? Right now, it seems that indeed, this might be the case. Let’s take a look at a brief timeline. On July 8, President Trump, joined by his Secretaries of War, State and Treasury at the …",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4389028/posts",
+      "bloc": "western",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T04:26:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump Eyes Pickaxe Mountain Nuclear Site Heavy Strikes: “Iran Hasn’t Seen Anything Yet, We’ve Been Nice”",
       "summary": "President Trump issued a series of big claims to reporters in the Oval Office on Tuesday. For starters, he asserted that Iran wants to \"desperately\" meet but said \"we\" have no interest, and that the US military is not finished at all with Iran, and so there's…",
@@ -118,117 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Anxiety as Australia issues new travel advice for Middle East countries",
-      "summary": "As conflict between the United States and Iran escalates once again, the Department of Foreign Affairs and Trade has issued a warning to \"reconsider\" travel to several more countries in the region.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-22/australians-travel-advice-middle-east-conflict-us-iran/106944564",
-      "bloc": "western",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T06:23:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Brent Nears $96 as U.S. Strikes Iran for 12th Consecutive Night",
-      "summary": "The latest oil price rally showed no sign of stopping in early Asian trading on Thursday, with both benchmarks climbing to their highest levels in more than six weeks as the U.S. and Iran continued to exchange strikes. At the time of writing, WTI crude was tr…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Nears-96-as-US-Strikes-Iran-for-12th-Consecutive-Night.html",
-      "bloc": "western",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T02:26:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Price Today (July 23): Crude oil crosses $95 as US strikes enter 12th day. Why Goldman says $120 is possible?",
-      "summary": "Brent crude futures rose $1.93, or 2%, to $96 a barrel, their highest level since June 8. The benchmark had ended the previous session more than $3 higher at $94.07, just below a six-week high. U.S. West Texas Intermediate crude gained $1.44, or 1.7%, to $88.…",
+      "headline": "Jiten Lalwani on his bond with Urva Savaliya in Hastinapur Ke Veer: His curiosity and eagerness to learn is much like how Arjun is described in our scriptures",
+      "summary": "Hastinapur Ke Veer delves into the formative years of the Pandavas and Kauravas, showcasing the invaluable lessons learned in their youth. The on-screen bond between Guru Dronacharya and Arjun emanates a deep guru-shishya connection. Behind the scenes, Jiten …",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-23-crude-oil-crosses-95-as-us-strikes-enter-12th-day-why-goldman-says-120-is-possible/articleshow/132570408.cms",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/jiten-lalwani-on-his-bond-with-urva-savaliya-in-hastinapur-ke-veer-his-curiosity-and-eagerness-to-learn-is-much-like-how-arjun-is-described-in-our-scriptures/articleshow/132575504.cms",
       "bloc": "regional",
       "date": "2026-07-23",
-      "datetime": "2026-07-23T02:07:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil prices rise to six-week high as US-Iran tensions escalate",
-      "summary": "Oil prices climbed to a six-week high on Thursday. This surge followed new United States strikes on Iran and Houthi attacks. Iran's Revolutionary Guards reported an oil tanker caught fire near the Strait of Hormuz. The Houthis also threatened vessels carrying…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-to-six-week-high-as-us-iran-tensions-escalate/articleshow/132570469.cms",
-      "bloc": "regional",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T01:51:07Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Petrol, diesel prices today, 23 July: Fuel rates in Delhi, Mumbai, Bengaluru, Kolkata amid rising oil prices",
-      "summary": "Petrol, diesel prices today, 23 July: Petrol and diesel prices across India remained unchanged even as Brent crude climbed to $95.5 per barrel, its highest level in more than six weeks, amid mounting concerns that the escalating conflict in the Middle East co…",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/petrol-diesel-prices-today-23-july-fuel-rates-in-delhi-mumbai-bengaluru-kolkata-amid-rising-oil-prices-11784768060068.html",
-      "bloc": "western",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T01:32:46Z",
+      "datetime": "2026-07-23T08:22:26Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -248,13 +170,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Brent crude tops $96 as US-Iran tensions, Houthi attacks escalate",
-      "summary": "Oil prices rose more than 1.5% to their highest in more ​than six weeks on Thursday, with the United States launching ⁠a new round of strikes on Iran and Yemen’s Houthis targeting oil tankers in the Red Sea.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-tops-96-as-us-iran-tensions-houthi-attacks-escalate/article71256178.ece",
+      "headline": "How Yog Helps Emotional Healing",
+      "summary": "Healing, whether physical or emotional, cannot be rushed. Just as a cut finger heals in its own time when properly cared for, emotional wounds heal when they are provided with compassion and patience.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/how-yog-helps-emotional-healing/articleshow/132575310.cms",
+      "bloc": "regional",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T08:08:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Kenya’s Saudi oil supplies face Red Sea risk as Houthis begin attacks on tankers | The Eastleigh Voice",
+      "summary": "With the Strait of Hormuz effectively closed, a disruption of the Bab al-Mandeb could further tighten global energy supplies and intensify pressure on.",
+      "source": "Eastleighvoice.co.ke",
+      "url": "https://eastleighvoice.co.ke/business/382291/kenyas-saudi-oil-supplies-face-red-sea-risk-as-houthis-begin-attacks-on-tankers",
       "bloc": "western",
       "date": "2026-07-23",
-      "datetime": "2026-07-23T01:31:52Z",
+      "datetime": "2026-07-23T07:58:02Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -270,6 +218,58 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil prices rise for a fifth day on supply concerns",
+      "summary": "Oil prices rose for a fifth day today on increasing concerns about supply availability amid attacks on tankers in the Red Sea by Yemen's Houthis and strikes between the US and Iran that have once again nearly shut the Strait of Hormuz.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/0723/1584740-oil-prices-rise-for-a-fifth-day-on-supply-concerns/",
+      "bloc": "western",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T07:57:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The world celebrated Simone Biles’ for Olympic glory, but few knew the fear she carried all alone; NFL star Jonathan Owens’ love became a safe place for the legend who once said, “I have a fear of....”",
+      "summary": "Simone Biles has inspired millions with her Olympic success, but her journey was shaped by childhood hardship and a lasting fear of financial insecurity. This story explores how those early experiences influenced her relationship with money, the struggles she…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/the-world-celebrated-simone-biles-for-olympic-glory-but-few-knew-the-fear-she-carried-all-alone-nfl-star-jonathan-owens-love-became-a-safe-place-for-the-legend-who-once-said-i-have-a-fear-of-/articleshow/132571520.cms",
+      "bloc": "regional",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T07:50:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

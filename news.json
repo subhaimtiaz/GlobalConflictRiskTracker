@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-24T08:33:25.364Z",
+  "ts": "2026-07-24T13:52:31.291Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 99,
-    "oilStress": 50,
-    "updatedAt": "2026-07-24T08:33:25.364Z"
+    "oilPrice": 98,
+    "oilStress": 49,
+    "updatedAt": "2026-07-24T13:52:31.291Z"
   },
   "items": [
+    {
+      "headline": "Thursday: Hili dialogue",
+      "summary": "Welcome to Thursday, July 23, 2026 and National Refreshment Day.  Honoring that, I give you below the best beer I ever had, procured by a friend in Amsterdam—with difficulty (see below). It’s a Belgian beer made by actual monks in an actual monastery (Westvle…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/07/23/thursday-hili-dialogue-597/",
+      "bloc": "western",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T11:45:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ramat Gan opens bomb shelters amid escalating US-Iran missile strikes",
+      "summary": "Ramat Gan opens bomb shelters amid US-Iran missile strikes. Final nuclear deal by August 13, 2026 at 3.4% YES.\nThe post Ramat Gan opens bomb shelters amid escalating US-Iran missile strikes appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/ramat-gan-opens-bomb-shelters-amid-escalating-us-iran-missile-strikes/",
+      "bloc": "western",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T09:52:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Has Donald Trump Sidelined Vance Over Iran?",
       "summary": "Has Vice President J.D. Vance been sidelined by President Trump over Iran? Right now, it seems that indeed, this might be the case. Let’s take a look at a brief timeline. On July 8, President Trump, joined by his Secretaries of War, State and Treasury at the …",
@@ -92,65 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "UK’s Miliband, Streeting: What are their foreign policy, defence records?",
-      "summary": "Miliband, Trump critic who once opposed strikes on Syria, joins Streeting, defence novice with shifting Israel views.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/22/uks-miliband-streeting-what-are-their-foreign-policy-defence-records",
-      "bloc": "regional",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T13:41:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US-Iran military conflict escalates amid ongoing 2026 Iran War",
-      "summary": "US-Iran military conflict escalates with ongoing attacks. Iran reconstruction funding in a US-Iran deal by 2026 at 30.5% YES.\nThe post US-Iran military conflict escalates amid ongoing 2026 Iran War appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-military-conflict-escalates-amid-ongoing-2026-iran-war/",
+      "headline": "Brent crude tops $100 a barrel. How the next stop could be $120",
+      "summary": "Goldman Sachs warns on oil prices and so called tank bottoms ( and loves a new natural gas-related name).",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
       "bloc": "western",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T08:00:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Jiten Lalwani on his bond with Urva Savaliya in Hastinapur Ke Veer: His curiosity and eagerness to learn is much like how Arjun is described in our scriptures",
-      "summary": "Hastinapur Ke Veer delves into the formative years of the Pandavas and Kauravas, showcasing the invaluable lessons learned in their youth. The on-screen bond between Guru Dronacharya and Arjun emanates a deep guru-shishya connection. Behind the scenes, Jiten …",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/jiten-lalwani-on-his-bond-with-urva-savaliya-in-hastinapur-ke-veer-his-curiosity-and-eagerness-to-learn-is-much-like-how-arjun-is-described-in-our-scriptures/articleshow/132575504.cms",
-      "bloc": "regional",
       "date": "2026-07-23",
-      "datetime": "2026-07-23T08:22:26Z",
+      "datetime": "2026-07-23T13:36:29Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,39 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "How Yog Helps Emotional Healing",
-      "summary": "Healing, whether physical or emotional, cannot be rushed. Just as a cut finger heals in its own time when properly cared for, emotional wounds heal when they are provided with compassion and patience.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/how-yog-helps-emotional-healing/articleshow/132575310.cms",
-      "bloc": "regional",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T08:08:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Kenya’s Saudi oil supplies face Red Sea risk as Houthis begin attacks on tankers | The Eastleigh Voice",
-      "summary": "With the Strait of Hormuz effectively closed, a disruption of the Bab al-Mandeb could further tighten global energy supplies and intensify pressure on.",
-      "source": "Eastleighvoice.co.ke",
-      "url": "https://eastleighvoice.co.ke/business/382291/kenyas-saudi-oil-supplies-face-red-sea-risk-as-houthis-begin-attacks-on-tankers",
+      "headline": "Oil Nears $100 as Houthi Attacks in Red Sea Amplify Supply Risks",
+      "summary": "Oil closed in on $100 a barrel in London after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, escalating the Middle East conflict and threatening deeper supply disruptions.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-nears-100-as-houthi-attacks-in-red-sea-amplify-supply-risks",
       "bloc": "western",
       "date": "2026-07-23",
-      "datetime": "2026-07-23T07:58:02Z",
+      "datetime": "2026-07-23T12:36:38Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,13 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil prices rise for a fifth day on supply concerns",
-      "summary": "Oil prices rose for a fifth day today on increasing concerns about supply availability amid attacks on tankers in the Red Sea by Yemen's Houthis and strikes between the US and Iran that have once again nearly shut the Strait of Hormuz.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/business/2026/0723/1584740-oil-prices-rise-for-a-fifth-day-on-supply-concerns/",
+      "headline": "Trump Threatens 'Major Military Punishment' For Iran, Houthis After Red Sea Tanker Attacks",
+      "summary": "US President Donald Trump has threatened to attack Iran and the Iran-backed Houthi rebels in Yemen, hours after the group struck two Saudi oil tankers in the Red Sea.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260723-rferl05.htm",
       "bloc": "western",
       "date": "2026-07-23",
-      "datetime": "2026-07-23T07:57:29Z",
+      "datetime": "2026-07-23T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -243,18 +217,18 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "The world celebrated Simone Biles’ for Olympic glory, but few knew the fear she carried all alone; NFL star Jonathan Owens’ love became a safe place for the legend who once said, “I have a fear of....”",
-      "summary": "Simone Biles has inspired millions with her Olympic success, but her journey was shaped by childhood hardship and a lasting fear of financial insecurity. This story explores how those early experiences influenced her relationship with money, the struggles she…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/the-world-celebrated-simone-biles-for-olympic-glory-but-few-knew-the-fear-she-carried-all-alone-nfl-star-jonathan-owens-love-became-a-safe-place-for-the-legend-who-once-said-i-have-a-fear-of-/articleshow/132571520.cms",
-      "bloc": "regional",
+      "headline": "Statement by the High Representative on Houthi threats against the Kingdom of Saudi Arabia and freedom of navigation in the region",
+      "summary": "Recent threats by Yemen's Houthis to impose a maritime blockade on the Kingdom of Saudi Arabia pose a direct threat to regional stability and constitute a dangerous escalation.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260723-eeas01.htm",
+      "bloc": "western",
       "date": "2026-07-23",
-      "datetime": "2026-07-23T07:50:22Z",
+      "datetime": "2026-07-23T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -269,7 +243,33 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Rubio Warns Tehran As Iran Hits Kuwait Bases, Houthis Claim Strikes On Tankers",
+      "summary": "US Secretary of State Marco Rubio delivered a sharp rebuttal to Tehran on July 23, escalating the war of words a day after Iranian Foreign Minister Abbas Araqchi vowed an \"eye for an eye\" response to President Trump's threat to bomb Iranian infrastructure ove…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260723-rferl01.htm",
+      "bloc": "western",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -498,6 +498,52 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Day 1,611 of WW3. Lapdog Lavrov wants to meet Rubio in Manila in Moscow's never-ending quest to avoid talking to Kyiv. Orc mil-bloggers are panicking about Drapatyi's appointment as UAF Commander in Chief. This is your Thursday Ukraine war thread [News]",
+      "summary": "Day 1,611 of WW3. Lapdog Lavrov wants to meet Rubio in Manila in Moscow's never-ending quest to avoid talking to Kyiv. Orc mil-bloggers are panicking about Drapatyi's appointment as UAF Commander in Chief. This is your Thursday Ukraine war thread",
+      "source": "Fark.com",
+      "url": "https://www.fark.com/comments/14139800/Day-1611-of-WW3-Lapdog-Lavrov-wants-to-meet-Rubio-in-Manila-in-Moscows-never-ending-quest-to-avoid-talking-to-Kyiv-Orc-mil-bloggers-are-panicking-about-Drapatyis-appointment-as-UAF-Commander-in-Chief-This-is-your-Thursday-Ukraine-war-thread",
+      "bloc": "western",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Thursday, July 23. Russia’s War On Ukraine: News And Information From Ukraine",
+      "summary": "Dispatches from Ukraine.  Day 1611.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/katyasoldak/2026/07/23/thursday-july-23-russias-war-on-ukraine-news-and-information-from-ukraine/",
+      "bloc": "western",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T10:00:02Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iranian strike hits a Kuwait desalination plant, damaging key water source",
       "summary": "Iranian strikes on Friday hit a power and water desalination plant in Kuwait, damaging one of the key sources of drinking water in the small desert nation.",
       "source": "New York Post",
@@ -539,6 +585,28 @@
       ],
       "variable_key": null,
       "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Report: B-1 Bombers Deployed as U.S. Intensifies Iran Strikes",
+      "summary": "Axios: \"Using B-1 bombers, which can carry two dozen 2,000-lb. bombs or dozens of cruise missiles, signaled a significant escalation and expansion of the U.S. military campaign.\"\nThe post Report: B-1 Bombers Deployed as U.S. Intensifies Iran Strikes first app…",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2026/07/report-b-1-bombers-deployed-as-u-s-intensifies-iran-strikes/",
+      "bloc": "western",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T11:00:32Z",
+      "leaders": [],
+      "watch_terms": [
+        "airstrike missile drone"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "survival"
+      ],
+      "variable_key": null,
+      "event_type": "regional_strike",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-23T19:24:32.215Z",
+  "ts": "2026-07-24T02:56:22.914Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 100,
     "oilStress": 53,
-    "updatedAt": "2026-07-23T19:24:32.215Z"
+    "updatedAt": "2026-07-24T02:56:22.914Z"
   },
   "items": [
+    {
+      "headline": "Trump Eyes Pickaxe Mountain Nuclear Site Heavy Strikes: “Iran Hasn’t Seen Anything Yet, We’ve Been Nice”",
+      "summary": "President Trump issued a series of big claims to reporters in the Oval Office on Tuesday. For starters, he asserted that Iran wants to \"desperately\" meet but said \"we\" have no interest, and that the US military is not finished at all with Iran, and so there's…",
+      "source": "Shtfplan.com",
+      "url": "https://www.shtfplan.com/war/trump-eyes-pickaxe-mountain-nuclear-site-heavy-strikes-iran-hasnt-seen-anything-yet-weve-been-nice",
+      "bloc": "western",
+      "date": "2026-07-22",
+      "datetime": "2026-07-22T22:30:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump’s $200 Billion Bet on Lower Mortgage Rates Worked. War in Iran Just Changed Everything.",
       "summary": "A $200 billion government intervention pushed mortgage rates below 6% for the first time in years, and then a war in the Middle East started unraveling every...",
@@ -118,39 +144,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "U.S. Reportedly Agrees to Allow Saudi Uranium Enrichment in Pending Nuclear Deal",
-      "summary": "The United States has agreed to allow Saudi Arabia to develop its own nuclear program and enrich uranium, according to a report by CNN published on July 19, 2026, citing draft documents and sources familiar with the negotiations. The draft agreement has been …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-22-us-agrees-to-allow-saudi-uranium-enrichment.html",
+      "headline": "Brent Nears $96 as U.S. Strikes Iran for 12th Consecutive Night",
+      "summary": "The latest oil price rally showed no sign of stopping in early Asian trading on Thursday, with both benchmarks climbing to their highest levels in more than six weeks as the U.S. and Iran continued to exchange strikes. At the time of writing, WTI crude was tr…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Nears-96-as-US-Strikes-Iran-for-12th-Consecutive-Night.html",
       "bloc": "western",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T06:00:00Z",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T02:26:49Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "More tankers turn back as Houthi threat rattles Red Sea oil trade",
-      "summary": "Houthi militia warnings are causing tankers to change course in the Red Sea.  Two vessels altered their destinations to the Suez Canal after the blockade declaration.  European Union naval forces advised ships to avoid voyages through the Red Sea.  This situa…",
+      "headline": "Oil Price Today (July 23): Crude oil crosses $95 as US strikes enter 12th day. Why Goldman says $120 is possible?",
+      "summary": "Brent crude futures rose $1.93, or 2%, to $96 a barrel, their highest level since June 8. The benchmark had ended the previous session more than $3 higher at $94.07, just below a six-week high. U.S. West Texas Intermediate crude gained $1.44, or 1.7%, to $88.…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/more-tankers-turn-back-as-houthi-threat-rattles-red-sea-oil-trade/articleshow/132565611.cms",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-23-crude-oil-crosses-95-as-us-strikes-enter-12th-day-why-goldman-says-120-is-possible/articleshow/132570408.cms",
       "bloc": "regional",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T18:01:56Z",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T02:07:03Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,65 +196,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump threatens Iran bridges, power as payback for Hormuz attacks",
-      "summary": "\"Any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz, whether it be by Missile, Rocket, Drone, or any other device or weapon, the United States will bomb and destroy ONE BRIDGE OR POWER PLANT,\" Trump wrote on social media, reiterati…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/trump-threatens-iran-bridges-power-as-payback-for-hormuz-attacks/",
-      "bloc": "western",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T14:43:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Blockade of Bab el-Mandeb to push up crude oil prices, threaten product supply, lift freight rates",
-      "summary": "The Houthi blockade of Bab el-Mandeb threatens crude oil supply, increases prices, and raises freight costs for Asian refiners.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/companies/blockade-of-bab-el-mandeb-to-push-up-crude-oil-prices-threaten-product-supply-lift-freight-rates/article71253653.ece",
-      "bloc": "western",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T13:45:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Can the Suez save Asian oil consumers after Houthis shut Bab al-Mandeb?",
-      "summary": "About 6 million barrels of crude per day that pass through the strait to Asia are now at risk, experts say.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/22/can-the-suez-save-asian-oil-consumers-after-houthis-shut-bab-al-mandeb",
+      "headline": "Oil prices rise to six-week high as US-Iran tensions escalate",
+      "summary": "Oil prices climbed to a six-week high on Thursday. This surge followed new United States strikes on Iran and Houthi attacks. Iran's Revolutionary Guards reported an oil tanker caught fire near the Strait of Hormuz. The Houthis also threatened vessels carrying…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-to-six-week-high-as-us-iran-tensions-escalate/articleshow/132570469.cms",
       "bloc": "regional",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T12:36:06Z",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T01:51:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Petrol, diesel prices today, 23 July: Fuel rates in Delhi, Mumbai, Bengaluru, Kolkata amid rising oil prices",
+      "summary": "Petrol, diesel prices today, 23 July: Petrol and diesel prices across India remained unchanged even as Brent crude climbed to $95.5 per barrel, its highest level in more than six weeks, amid mounting concerns that the escalating conflict in the Middle East co…",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/petrol-diesel-prices-today-23-july-fuel-rates-in-delhi-mumbai-bengaluru-kolkata-amid-rising-oil-prices-11784768060068.html",
+      "bloc": "western",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T01:32:46Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -248,13 +248,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Three Tankers Carrying Saudi Crude Make U-Turns in Red Sea After Houthi Warning",
-      "summary": "Three oil tankers loaded with Saudi crude for China and India made U-turns in the Red Sea on Tuesday, heading towards the Suez Canal rather than braving the Yemeni coast at the sea’s mouth following a warning from Yemen’s Iran-aligned …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/07/22/878526.htm",
+      "headline": "Brent crude tops $96 as US-Iran tensions, Houthi attacks escalate",
+      "summary": "Oil prices rose more than 1.5% to their highest in more ​than six weeks on Thursday, with the United States launching ⁠a new round of strikes on Iran and Yemen’s Houthis targeting oil tankers in the Red Sea.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-tops-96-as-us-iran-tensions-houthi-attacks-escalate/article71256178.ece",
       "bloc": "western",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T11:12:56Z",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T01:31:52Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -394,6 +394,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Houthi Red Sea Blockade Could Shatter Hopes for Lower Oil Prices",
+      "summary": "Renewed Houthi blockade of Saudi Red Sea ports threatens up to 4 million bpd of redirected Saudi crude exports, adding fresh supply risks as the Strait of Hormuz remains effectively disrupted The latest reignition of hostilities between the United States and …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Houthi-Red-Sea-Blockade-Could-Shatter-Hopes-for-Lower-Oil-Prices.html",
+      "bloc": "western",
+      "date": "2026-07-22",
+      "datetime": "2026-07-22T22:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Inflation eases to 2.6 per cent thanks to drop in fuel prices - but it is set to spike higher next month after re-start of US-Iran war",
       "summary": "The rate of Consumer Prices Index inflation fell to 2.6 per cent in June from 2.8 per cent in May, the Office for National Statistics said today.",
       "source": "Dailymail.com",
@@ -453,32 +479,6 @@
       "bloc": "western",
       "date": "2026-07-21",
       "datetime": "2026-07-21T10:33:03Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Sensex drops 442 pts to end at 77,708, Nifty closes below 24,240; Axis Bank, HDFC Bank fall most",
-      "summary": "Sensex, Nifty, Share Prices Highlights: The 30-share BSE Sensex declined 442.93 points, or 0.57 per cent, to settle at 77,708.52. The 50-share NSE Nifty edged lower by 95.80 points, or 0.39 per cent, to end at 24,238.50.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-20th-july-2026/article71241122.ece",
-      "bloc": "western",
-      "date": "2026-07-20",
-      "datetime": "2026-07-20T11:01:09Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

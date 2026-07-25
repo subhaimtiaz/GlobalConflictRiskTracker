@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-25T13:43:10.099Z",
+  "ts": "2026-07-25T19:13:45.736Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 99,
     "oilStress": 50,
-    "updatedAt": "2026-07-25T13:43:10.099Z"
+    "updatedAt": "2026-07-25T19:13:45.736Z"
   },
   "items": [
     {
@@ -144,6 +144,84 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The Red Sea Is Becoming Saudi Arabia's Biggest Oil Bottleneck",
+      "summary": "For years, Saudi Arabia's strategic answer to any disruption in the Strait of Hormuz has been remarkably straightforward. If volumes via the Persian Gulf were threatened, the answer was to pump west through the East-West Pipeline to Yanbu on the Red Sea. Mark…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/The-Red-Sea-Is-Becoming-Saudi-Arabias-Biggest-Oil-Bottleneck.html",
+      "bloc": "western",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T19:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Here’s How Trump’s Houthi Headache Could Turn Into Full Blown Migraine",
+      "summary": "At the request of Iran, the Houthi rebels in Yemen have begun attacking ships in the Red Sea, but can the U.S. military wrest control of the key shipping lane?",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/07/24/donald-trump-houthis-red-sea-iran-war",
+      "bloc": "western",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T17:04:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil keeps flowing from Red Sea as Hormuz bypass stays open",
+      "summary": "Despite Houthi threats and a declared blockade against Saudi Arabia, oil shipments from Yanbu continue, though many Western tankers are going dark on transponders or rerouting via Suez/Cape of Good Hope to avoid the Bab el-Mandeb strait, adding cost and time …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/oil-keeps-flowing-from-red-sea-as-hormuz-bypass-stays-open/articleshow/132607735.cms",
+      "bloc": "regional",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T14:03:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Tanker switches Asia voyage via Suez amid Houthi warnings, owner says",
       "summary": "The Torm Innovation tanker will navigate the Suez Canal to Asia. This decision follows Houthi threats impacting shipping in the southern Red Sea. Crew safety remains the company's highest priority amid security concerns. Red Sea traffic has seen significant d…",
       "source": "The Times of India",
@@ -177,84 +255,6 @@
       "bloc": "western",
       "date": "2026-07-24",
       "datetime": "2026-07-24T12:33:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tanker Exits Red Sea Dark as China Ship Heads Toward Strait",
-      "summary": "A Greek tanker carrying Saudi crude exited the Red Sea with its transponder off, while another Chinese vessel and Russian cargoes headed toward the Bab el-Mandeb strait, after Houthi attacks heightened risks.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/tanker-exits-red-sea-dark-as-china-ship-heads-toward-strait/",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T10:41:13Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil prices remain on course for strong weekly gains amid escalating Middle East tensions",
-      "summary": "Oil prices eased on Friday but remained firmly on track for significant weekly advances as investors continued to monitor growing geopolitical risks in the M...",
-      "source": "Advfn.com",
-      "url": "https://investorshub.advfn.com/market-news/article/32555/oil-prices-remain-on-course-for-strong-weekly-gains-amid-escalating-middle-east-tensions",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T09:56:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
-      "summary": "The number of tanker crossings in the Strait of Hormuz dropped to lowest levels in two months on Thursday.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest",
-      "bloc": "regional",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T07:59:01Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -545,6 +545,31 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why Trump may be undermining his own Saudi nuclear deal",
+      "summary": "The Trump administration may have just signed an agreement so controversial that President Donald Trump himself is opposed to it.  On Wednesday, the US and Saudi Arabia signed a 30-year, multibillion-dollar nuclear energy cooperation agreement. The terms of t…",
+      "source": "Vox",
+      "url": "https://www.vox.com/politics/496635/trump-saudi-nuclear-deal",
+      "bloc": "western",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T14:19:58Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

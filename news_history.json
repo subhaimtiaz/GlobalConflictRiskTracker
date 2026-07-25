@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-25T13:42:04.887Z",
+  "updated": "2026-07-25T19:12:40.536Z",
   "retention_days": 30,
   "items": [
     {
@@ -15263,7 +15263,118 @@
       "_from": "newsapi",
       "first_seen": "2026-07-25T13:42:04.887Z",
       "run_id": "2026-07-25T13:42"
+    },
+    {
+      "headline": "The Red Sea Is Becoming Saudi Arabia's Biggest Oil Bottleneck",
+      "summary": "For years, Saudi Arabia's strategic answer to any disruption in the Strait of Hormuz has been remarkably straightforward. If volumes via the Persian Gulf were threatened, the answer was to pump west through the East-West Pipeline to Yanbu on the Red Sea. Mark…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/The-Red-Sea-Is-Becoming-Saudi-Arabias-Biggest-Oil-Bottleneck.html",
+      "bloc": "western",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T19:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-25T19:12:40.536Z",
+      "run_id": "2026-07-25T19:12"
+    },
+    {
+      "headline": "Here’s How Trump’s Houthi Headache Could Turn Into Full Blown Migraine",
+      "summary": "At the request of Iran, the Houthi rebels in Yemen have begun attacking ships in the Red Sea, but can the U.S. military wrest control of the key shipping lane?",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/07/24/donald-trump-houthis-red-sea-iran-war",
+      "bloc": "western",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T17:04:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-25T19:12:40.536Z",
+      "run_id": "2026-07-25T19:12"
+    },
+    {
+      "headline": "Oil keeps flowing from Red Sea as Hormuz bypass stays open",
+      "summary": "Despite Houthi threats and a declared blockade against Saudi Arabia, oil shipments from Yanbu continue, though many Western tankers are going dark on transponders or rerouting via Suez/Cape of Good Hope to avoid the Bab el-Mandeb strait, adding cost and time …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/oil-keeps-flowing-from-red-sea-as-hormuz-bypass-stays-open/articleshow/132607735.cms",
+      "bloc": "regional",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T14:03:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-25T19:12:40.536Z",
+      "run_id": "2026-07-25T19:12"
+    },
+    {
+      "headline": "Why Trump may be undermining his own Saudi nuclear deal",
+      "summary": "The Trump administration may have just signed an agreement so controversial that President Donald Trump himself is opposed to it.  On Wednesday, the US and Saudi Arabia signed a 30-year, multibillion-dollar nuclear energy cooperation agreement. The terms of t…",
+      "source": "Vox",
+      "url": "https://www.vox.com/politics/496635/trump-saudi-nuclear-deal",
+      "bloc": "western",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T14:19:58Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-25T19:12:40.536Z",
+      "run_id": "2026-07-25T19:12"
     }
   ],
-  "total_items_ever": 2744
+  "total_items_ever": 2748
 }

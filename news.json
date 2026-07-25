@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-24T19:35:40.806Z",
+  "ts": "2026-07-25T02:55:43.419Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 97,
-    "oilStress": 48,
-    "updatedAt": "2026-07-24T19:35:40.806Z"
+    "oilPrice": 99,
+    "oilStress": 50,
+    "updatedAt": "2026-07-25T02:55:43.419Z"
   },
   "items": [
+    {
+      "headline": "The Collapse of the Bipartisan Consensus Over US-Israel Ties",
+      "summary": "For decades, U.S. support for Israel rested on one of Washington’s strongest bipartisan assumptions: that military assistance was strategically necessary and politically untouchable. But Gaza has weakened that consensus. Critics now see Israeli military aid a…",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/dan_steinbock/2026/07/23/the-collapse-of-the-bipartisan-consensus-over-us-israel-ties/",
+      "bloc": "western",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T00:00:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran expands conflict with new attacks on US allies in Middle East",
+      "summary": "Iran escalates conflict with attacks on U.S. allies. U.S.-Iran deal with reconstruction funding in 2026 at 29% YES.\nThe post Iran expands conflict with new attacks on US allies in Middle East appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-expands-conflict-with-new-attacks-on-us-allies-in-middle-east/",
+      "bloc": "western",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T22:05:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Thursday: Hili dialogue",
       "summary": "Welcome to Thursday, July 23, 2026 and National Refreshment Day.  Honoring that, I give you below the best beer I ever had, procured by a friend in Amsterdam—with difficulty (see below). It’s a Belgian beer made by actual monks in an actual monastery (Westvle…",
@@ -66,65 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Has Donald Trump Sidelined Vance Over Iran?",
-      "summary": "Has Vice President J.D. Vance been sidelined by President Trump over Iran? Right now, it seems that indeed, this might be the case. Let’s take a look at a brief timeline. On July 8, President Trump, joined by his Secretaries of War, State and Treasury at the …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4389028/posts",
-      "bloc": "western",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T04:26:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Eyes Pickaxe Mountain Nuclear Site Heavy Strikes: “Iran Hasn’t Seen Anything Yet, We’ve Been Nice”",
-      "summary": "President Trump issued a series of big claims to reporters in the Oval Office on Tuesday. For starters, he asserted that Iran wants to \"desperately\" meet but said \"we\" have no interest, and that the US military is not finished at all with Iran, and so there's…",
-      "source": "Shtfplan.com",
-      "url": "https://www.shtfplan.com/war/trump-eyes-pickaxe-mountain-nuclear-site-heavy-strikes-iran-hasnt-seen-anything-yet-weve-been-nice",
-      "bloc": "western",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T22:30:05Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil surges past $100 in a first since May as Middle East conflicts rage",
-      "summary": "Oil prices rise for a fifth day after Yemen's Houthis say they struck Saudi Arabian oil tankers in the Red Sea.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage",
+      "headline": "Oil Price Today (July 24): Crude oil dips below $100 but up 13% this week as supply tensions mount. $120 per barrel possible?",
+      "summary": "Brent futures fell 81 cents, or 1%, to $99.68 a barrel at 0126 GMT, but were still set for a 13.5% rise this week. West Texas Intermediate (WTI) futures dropped 70 cents, or 0.76%, to $91.49 a barrel and were on track for a 11% weekly gain.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-24-crude-oil-dips-below-100-but-up-13-this-week-as-supply-tensions-mount-120-per-barrel-possible/articleshow/132594807.cms",
       "bloc": "regional",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T17:05:18Z",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T02:14:02Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -144,13 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "War Risk Insurance Costs Surge for Southern Red Sea Voyages After Houthi Attacks",
-      "summary": "The insurance cost of shipping goods through the southern Red Sea doubled for some companies on Thursday, after Yemen’s Iran-aligned Houthis attacked at least one tanker overnight, sources said. The Houthis said their forces had carried out missile and drone …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/07/23/878788.htm",
+      "headline": "Fresh strikes as US vows retaliation for Houthis attacks",
+      "summary": "The United States launched a fresh wave of strikes on Iranian military targets, marking the thirteenth night of active combat in the region as President Donald Trump vowed to use frozen Iranian assets to pay for any damage to shipping.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/2026/0724/1584878-us-strikes-iran/",
       "bloc": "western",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T16:36:07Z",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T01:11:33Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +170,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil crosses $100: A 'perfect hurricane' can trigger bigger shock soon",
-      "summary": "Brent crude has surged past $100 as escalating Middle East tensions threaten two critical oil chokepoints — the Strait of Hormuz and Bab el-Mandeb — at the same time. While markets were already grappling with disruptions in Hormuz due to the US-Iran conflict,…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/oil-crosses-100-a-perfect-hurricane-can-trigger-bigger-shock-soon/articleshow/132586558.cms",
-      "bloc": "regional",
+      "headline": "U.S. Military Says It’s Launching New Strikes On Iran As Clashes Escalate Over Shipping Routes",
+      "summary": "The U.S. military has announced it is conducting a 13th night of strikes against Iran as clashes escalate over shipping routes.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-us-strikes-hormuz_n_6a62a4b5e4b0f1b7fc52560a",
+      "bloc": "western",
       "date": "2026-07-23",
-      "datetime": "2026-07-23T15:59:32Z",
+      "datetime": "2026-07-23T23:41:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Crude crosses $100 as Red Sea tensions disrupt supplies",
+      "summary": "Global crude oil prices surge past $100 per barrel as escalating Red Sea attacks disrupt supplies, raising fears of wider global oil trade disruptions.\n\nRead More: https://punchng.com/crude-crosses-100-as-red-sea-tensions-disrupt-supplies/",
+      "source": "The Punch",
+      "url": "https://punchng.com/crude-crosses-100-as-red-sea-tensions-disrupt-supplies/",
+      "bloc": "western",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T23:22:25Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +222,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "New threat by Yemen's Houthis could widen Iran war, put another trade chokepoint at risk",
-      "summary": "Houthi rebels threaten to blockade the Bab el-Mandeb Strait, impacting global trade routes.  They recently attacked two Saudi oil tankers in the Red Sea.  This action escalates tensions and risks wider regional conflict.  The vital strait connects the Red Sea…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/new-threat-by-yemens-houthis-could-widen-iran-war-put-another-trade-chokepoint-at-risk/articleshow/132586657.cms",
-      "bloc": "regional",
+      "headline": "US vows to punish Iran after tankers strike",
+      "summary": "The US vows to punish Iran after Houthi allies strike Saudi tankers, sending oil prices soaring and raising global alarm over escalating US Iran conflict.\n\nRead More: https://punchng.com/us-vows-to-punish-iran-after-tankers-strike/",
+      "source": "The Punch",
+      "url": "https://punchng.com/us-vows-to-punish-iran-after-tankers-strike/",
+      "bloc": "western",
       "date": "2026-07-23",
-      "datetime": "2026-07-23T15:59:17Z",
+      "datetime": "2026-07-23T19:50:14Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -318,26 +344,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "China's secret blueprint to bomb US warships: Satellite images show huge replicas of American destroyer and carrier built for missile practice in remote desert",
-      "summary": "Deep in the remote Taklamakan desert, China has been secretly developing a blueprint to obliterate US warships.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15981747/Chinas-secret-blueprint-bomb-US-warships-Satellite-images-huge-replicas-American-destroyer-carrier-built-missile-practice-remote-desert.html",
+      "headline": "Gas, groceries and back-to-school items inflated as shoppers now see higher oil prices surface",
+      "summary": "With oil prices surging past $100 a barrel, Americans are facing higher costs for groceries and gas, which hit a national average of $4.09.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/23/business/gas-groceries-and-back-to-school-items-inflated-as-shoppers-now-see-higher-oil-prices-surface/",
       "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T10:15:33Z",
+      "date": "2026-07-23",
+      "datetime": "2026-07-23T21:26:05Z",
       "leaders": [
-        "Xi Jinping"
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "oil Brent crude"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "values"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -375,58 +403,6 @@
       "bloc": "western",
       "date": "2026-07-22",
       "datetime": "2026-07-22T22:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump’s $200 Billion Bet on Lower Mortgage Rates Worked. War in Iran Just Changed Everything.",
-      "summary": "A $200 billion government intervention pushed mortgage rates below 6% for the first time in years, and then a war in the Middle East started unraveling every...",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/22/trumps-200-billion-bet-on-lower-mortgage-rates-worked-war-in-iran-just-changed-everything/",
-      "bloc": "western",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T14:41:49Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Inflation eases to 2.6 per cent thanks to drop in fuel prices - but it is set to spike higher next month after re-start of US-Iran war",
-      "summary": "The rate of Consumer Prices Index inflation fell to 2.6 per cent in June from 2.8 per cent in May, the Office for National Statistics said today.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15995659/UK-inflation-eases-fuel-prices-US-Iran-war.html",
-      "bloc": "western",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T06:21:07Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -501,52 +477,6 @@
       "bloc": "western",
       "date": "2026-07-23",
       "datetime": "2026-07-23T10:00:02Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iranian strike hits a Kuwait desalination plant, damaging key water source",
-      "summary": "Iranian strikes on Friday hit a power and water desalination plant in Kuwait, damaging one of the key sources of drinking water in the small desert nation.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/17/world-news/iranian-strike-damages-a-kuwait-desalination-plant-exposing-water-vulnerability-in-dry-mideast/",
-      "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T13:39:25Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: US Sixth Wave of Escalation Strikes Hits Bridges, Civilian Infrastructure, More Promised Next Week; Iran Hits Bahrain Refinery, Signaling Ability to Destroy Gulf Energy Assets; Closure of Bab el-Mandeb Strait Expected",
-      "summary": "Today's Iran war news: Trump continues to escalate, with more threatened for next week, apparently out of anger as opposed to with a plan.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-us-sixth-wave-of-escalation-strikes-hits-bridges-civilian-infrastructure-more-promised-next-week-iran-hits-bahrain-refinery-signaling-ability-to-destroy-gulf-energy-assets-closure-of-ba.html",
-      "bloc": "western",
-      "date": "2026-07-17",
-      "datetime": "2026-07-17T09:18:18Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

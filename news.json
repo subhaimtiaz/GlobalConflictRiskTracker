@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-25T02:55:43.419Z",
+  "ts": "2026-07-25T08:12:03.112Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 99,
     "oilStress": 50,
-    "updatedAt": "2026-07-25T02:55:43.419Z"
+    "updatedAt": "2026-07-25T08:12:03.112Z"
   },
   "items": [
+    {
+      "headline": "U.S. Intelligence: Renewed War on Iran Unlikely to Achieve Goals",
+      "summary": "A new U.S. intelligence assessment indicates that continuing military strikes against Iran are unlikely to force Tehran to change its negotiating stance, according to officials familiar with the report. Officials described the assessment as portraying an “ind…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-24-intelligence-renewed-war-iran-unlikely-achieve-goals.html",
+      "bloc": "western",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Senate Blocks Resolution to Restrict Trump’s Iran War Powers",
+      "summary": "The U.S. Senate on Thursday blocked a resolution that would have prohibited President Donald Trump from waging war against Iran without congressional authorization, according to multiple reports. The procedural vote was 49–47, falling short of the 60 votes ne…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-24-senate-blocks-resolution-restrict-trump-iran-war-powers.html",
+      "bloc": "western",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Collapse of the Bipartisan Consensus Over US-Israel Ties",
       "summary": "For decades, U.S. support for Israel rested on one of Washington’s strongest bipartisan assumptions: that military assistance was strategically necessary and politically untouchable. But Gaza has weakened that consensus. Critics now see Israeli military aid a…",
@@ -66,54 +118,80 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Thursday: Hili dialogue",
-      "summary": "Welcome to Thursday, July 23, 2026 and National Refreshment Day.  Honoring that, I give you below the best beer I ever had, procured by a friend in Amsterdam—with difficulty (see below). It’s a Belgian beer made by actual monks in an actual monastery (Westvle…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/07/23/thursday-hili-dialogue-597/",
-      "bloc": "western",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T11:45:54Z",
+      "headline": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
+      "summary": "The number of tanker crossings in the Strait of Hormuz dropped to lowest levels in two months on Thursday.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest",
+      "bloc": "regional",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T07:59:01Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Ramat Gan opens bomb shelters amid escalating US-Iran missile strikes",
-      "summary": "Ramat Gan opens bomb shelters amid US-Iran missile strikes. Final nuclear deal by August 13, 2026 at 3.4% YES.\nThe post Ramat Gan opens bomb shelters amid escalating US-Iran missile strikes appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/ramat-gan-opens-bomb-shelters-amid-escalating-us-iran-missile-strikes/",
+      "headline": "Trump Threatens Iran After Houthi Tanker Attacks",
+      "summary": "President Trump has threatened to “punish” Iran for the Yemeni Houthis’ recent attacks on tankers in the Bab el-Mandeb Strait, saying, “If they do this again, the U.S. will hold Iran responsible, in that the Houthis are a Surrogate and/or Proxy of Iran, and m…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Threatens-Iran-After-Houthi-Tanker-Attacks.html",
       "bloc": "western",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T09:52:53Z",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T06:45:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Energy Blockades: Houthis, Trump & the Expanding War",
+      "summary": "The Iranian-backed Houthis of the Ansar Allah (Partisans of God) movement are now doing much the same thing",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/07/blockades-houthis-expanding.html",
+      "bloc": "western",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T04:06:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -140,110 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Fresh strikes as US vows retaliation for Houthis attacks",
-      "summary": "The United States launched a fresh wave of strikes on Iranian military targets, marking the thirteenth night of active combat in the region as President Donald Trump vowed to use frozen Iranian assets to pay for any damage to shipping.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/2026/0724/1584878-us-strikes-iran/",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T01:11:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. Military Says It’s Launching New Strikes On Iran As Clashes Escalate Over Shipping Routes",
-      "summary": "The U.S. military has announced it is conducting a 13th night of strikes against Iran as clashes escalate over shipping routes.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-us-strikes-hormuz_n_6a62a4b5e4b0f1b7fc52560a",
-      "bloc": "western",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T23:41:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Crude crosses $100 as Red Sea tensions disrupt supplies",
-      "summary": "Global crude oil prices surge past $100 per barrel as escalating Red Sea attacks disrupt supplies, raising fears of wider global oil trade disruptions.\n\nRead More: https://punchng.com/crude-crosses-100-as-red-sea-tensions-disrupt-supplies/",
-      "source": "The Punch",
-      "url": "https://punchng.com/crude-crosses-100-as-red-sea-tensions-disrupt-supplies/",
-      "bloc": "western",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T23:22:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US vows to punish Iran after tankers strike",
-      "summary": "The US vows to punish Iran after Houthi allies strike Saudi tankers, sending oil prices soaring and raising global alarm over escalating US Iran conflict.\n\nRead More: https://punchng.com/us-vows-to-punish-iran-after-tankers-strike/",
-      "source": "The Punch",
-      "url": "https://punchng.com/us-vows-to-punish-iran-after-tankers-strike/",
-      "bloc": "western",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T19:50:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -344,6 +318,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Why is market falling today? Sensex drops over 700 points, Nifty below 23,700. 7 key factors behind D-Street selloff",
+      "summary": "Indian stock markets experienced sharp losses for a fifth straight session on Friday.  Sensex and Nifty indices saw significant drops, reflecting investor concerns.  Oil prices exceeding $100 per barrel and FII selling fueled the downturn.  Broader markets an…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-drops-over-700-points-nifty-below-23700-7-key-factors-behind-d-street-selloff/articleshow/132595743.cms",
+      "bloc": "regional",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T04:12:32Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Gas, groceries and back-to-school items inflated as shoppers now see higher oil prices surface",
       "summary": "With oil prices surging past $100 a barrel, Americans are facing higher costs for groceries and gas, which hit a national average of $4.09.",
       "source": "New York Post",
@@ -377,32 +377,6 @@
       "bloc": "western",
       "date": "2026-07-23",
       "datetime": "2026-07-23T18:34:33Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthi Red Sea Blockade Could Shatter Hopes for Lower Oil Prices",
-      "summary": "Renewed Houthi blockade of Saudi Red Sea ports threatens up to 4 million bpd of redirected Saudi crude exports, adding fresh supply risks as the Strait of Hormuz remains effectively disrupted The latest reignition of hostilities between the United States and …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Oil-Prices/Houthi-Red-Sea-Blockade-Could-Shatter-Hopes-for-Lower-Oil-Prices.html",
-      "bloc": "western",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T22:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

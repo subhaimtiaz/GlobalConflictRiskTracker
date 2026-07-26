@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-26T08:33:22.512Z",
+  "ts": "2026-07-26T13:37:52.024Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 97,
-    "oilStress": 47,
-    "updatedAt": "2026-07-26T08:33:22.512Z"
+    "oilPrice": 99,
+    "oilStress": 50,
+    "updatedAt": "2026-07-26T13:37:52.024Z"
   },
   "items": [
+    {
+      "headline": "Saturday: Hili dialogue",
+      "summary": "Welcome to shabbos for Jewish cats: it’s CaturSaturday, July 25, 2025, and also National Day of the Cowboy.  Here’s a photo I took on a fly-collecting trip to Death Valley:  a rare Jewish cowboy once on display at the Eastern California Museum in Independence…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/07/25/saturday-hili-dialogue-592/",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T11:45:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iranian Missiles Strike U.S. Military Sites in Jordan’s Aqaba",
       "summary": "Iran launched missiles and drones at Jordan on Wednesday, targeting the Red Sea port city of Aqaba and its airport, according to reports from Jordanian authorities and regional media. The attack occurred around midday local time and prompted air defense inter…",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "U.S. Intelligence: Renewed War on Iran Unlikely to Achieve Goals",
-      "summary": "A new U.S. intelligence assessment indicates that continuing military strikes against Iran are unlikely to force Tehran to change its negotiating stance, according to officials familiar with the report. Officials described the assessment as portraying an “ind…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-24-intelligence-renewed-war-iran-unlikely-achieve-goals.html",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T06:00:00Z",
+      "headline": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
+      "summary": "Iran reports no new US strikes overnight into Saturday for the first time in two weeks.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks",
+      "bloc": "regional",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T12:49:06Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -229,32 +255,6 @@
       "bloc": "western",
       "date": "2026-07-24",
       "datetime": "2026-07-24T19:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Here’s How Trump’s Houthi Headache Could Turn Into Full Blown Migraine",
-      "summary": "At the request of Iran, the Houthi rebels in Yemen have begun attacking ships in the Red Sea, but can the U.S. military wrest control of the key shipping lane?",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/07/24/donald-trump-houthis-red-sea-iran-war",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T17:04:35Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -549,6 +549,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The farce of Trump’s nuclear deal with Saudi Arabia",
+      "summary": "The White House announced an agreement to supply nuclear material to Saudi Arabia, and then killed its own deal by linking it to normalization with Israel under Israeli pressure. But even if the deal fails, it will significantly impact Gulf politics.",
+      "source": "Mondoweiss",
+      "url": "https://mondoweiss.net/2026/07/the-farce-of-trumps-nuclear-deal-with-saudi-arabia/",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T13:00:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Why Trump may be undermining his own Saudi nuclear deal",
       "summary": "The Trump administration may have just signed an agreement so controversial that President Donald Trump himself is opposed to it.  On Wednesday, the US and Saudi Arabia signed a 30-year, multibillion-dollar nuclear energy cooperation agreement. The terms of t…",
       "source": "Vox",
@@ -570,6 +595,75 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ukraine Claims Strike On Russia-Iran Military Route As Kyiv Mourns Dead",
+      "summary": "President Volodymyr Zelenskyy said on July 25 that Ukrainian forces had achieved \"very good results\" in strikes in the Caspian Sea, including against vessels involved in transporting military cargo to Iran and a Russian warship.",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/ukraine-claims-caspian-strike-russia-iran-military-route-kyiv-mourning/33812868.html",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T13:32:07Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Zelenskyy Says Russia Wants To Bring North Korean Troops Into Ukraine War Again",
+      "summary": "President Volodymyr Zelenskyy said that Moscow wants to bring in thousands of North Korean soldiers again for its invasion of Ukraine, with preparations in Russia having been under way since early summer.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260725-rferl01.htm",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ukraine Drone Sparks Fire at Tyumen Oil Refinery in Russia",
+      "summary": "Fire broke out at the Tyumen oil refinery in Russia’s Ural region after a drone attack as Ukraine and Russia press intensifying strikes on each other’s critical infrastructure.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/ukraine-drone-sparks-fire-at-tyumen-oil-refinery-in-russia",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T10:17:42Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-26T08:32:17.215Z",
+  "updated": "2026-07-26T13:36:46.822Z",
   "retention_days": 30,
   "items": [
     {
@@ -15066,7 +15066,137 @@
       "_from": "newsapi",
       "first_seen": "2026-07-26T08:32:17.214Z",
       "run_id": "2026-07-26T08:32"
+    },
+    {
+      "headline": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
+      "summary": "Iran reports no new US strikes overnight into Saturday for the first time in two weeks.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks",
+      "bloc": "regional",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T12:49:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-26T13:36:46.822Z",
+      "run_id": "2026-07-26T13:36"
+    },
+    {
+      "headline": "The farce of Trump’s nuclear deal with Saudi Arabia",
+      "summary": "The White House announced an agreement to supply nuclear material to Saudi Arabia, and then killed its own deal by linking it to normalization with Israel under Israeli pressure. But even if the deal fails, it will significantly impact Gulf politics.",
+      "source": "Mondoweiss",
+      "url": "https://mondoweiss.net/2026/07/the-farce-of-trumps-nuclear-deal-with-saudi-arabia/",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T13:00:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-26T13:36:46.822Z",
+      "run_id": "2026-07-26T13:36"
+    },
+    {
+      "headline": "Ukraine Claims Strike On Russia-Iran Military Route As Kyiv Mourns Dead",
+      "summary": "President Volodymyr Zelenskyy said on July 25 that Ukrainian forces had achieved \"very good results\" in strikes in the Caspian Sea, including against vessels involved in transporting military cargo to Iran and a Russian warship.",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/ukraine-claims-caspian-strike-russia-iran-military-route-kyiv-mourning/33812868.html",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T13:32:07Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-26T13:36:46.822Z",
+      "run_id": "2026-07-26T13:36"
+    },
+    {
+      "headline": "Zelenskyy Says Russia Wants To Bring North Korean Troops Into Ukraine War Again",
+      "summary": "President Volodymyr Zelenskyy said that Moscow wants to bring in thousands of North Korean soldiers again for its invasion of Ukraine, with preparations in Russia having been under way since early summer.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260725-rferl01.htm",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-26T13:36:46.822Z",
+      "run_id": "2026-07-26T13:36"
+    },
+    {
+      "headline": "Ukraine Drone Sparks Fire at Tyumen Oil Refinery in Russia",
+      "summary": "Fire broke out at the Tyumen oil refinery in Russia’s Ural region after a drone attack as Ukraine and Russia press intensifying strikes on each other’s critical infrastructure.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/ukraine-drone-sparks-fire-at-tyumen-oil-refinery-in-russia",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T10:17:42Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-26T13:36:46.822Z",
+      "run_id": "2026-07-26T13:36"
     }
   ],
-  "total_items_ever": 2754
+  "total_items_ever": 2759
 }

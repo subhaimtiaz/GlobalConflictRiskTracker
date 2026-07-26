@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-26T13:37:52.024Z",
+  "ts": "2026-07-26T19:17:55.071Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 99,
-    "oilStress": 50,
-    "updatedAt": "2026-07-26T13:37:52.024Z"
+    "oilPrice": 92,
+    "oilStress": 39,
+    "updatedAt": "2026-07-26T19:17:55.071Z"
   },
   "items": [
     {
@@ -144,6 +144,84 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Ships continue Red Sea transit despite attacks and Houthi blockade: Report",
+      "summary": "Dozens of vessels navigate the Bab el-Mandeb Strait despite Houthi rebel threats.  Growing uncertainty forces ships to alter courses and execute U-turns.  Recent attacks on oil tankers threaten global commerce and already strained supply lines.  Disruptions i…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/ships-continue-red-sea-transit-despite-attacks-and-houthi-blockade-report/articleshow/132630195.cms",
+      "bloc": "regional",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T16:42:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Keeps Flowing From Red Sea As Hormuz Bypass Stays Open",
+      "summary": "By Weilun Soon and Julian Lee Jul 24, 2026 (Bloomberg) –Millions of barrels of Saudi Arabian crude are still being shipped from the nation’s Red Sea coast to the global market,...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/oil-keeps-flowing-from-red-sea-as-hormuz-bypass-stays-open/",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T15:59:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Stalled vessels near Strait of Hormuz could trigger invasive species catastrophe",
+      "summary": "A possible ecological catastrophe could be fueled by stalled ships as conflict over the Strait of Hormuz continues to block traffic on the passageway, scientists say.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T15:31:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
       "summary": "Iran reports no new US strikes overnight into Saturday for the first time in two weeks.",
       "source": "Al Jazeera English",
@@ -192,84 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Crude oil prices rise 10% this week but China enters fray to push for end to Iran war. What’s next?",
-      "summary": "Crude oil futures experienced a significant decline on Friday. This drop followed reports of China's initiative to restart stalled US-Iran peace negotiations. Despite the fall, both Brent and West Texas Intermediate crude are set for weekly gains. Geopolitica…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-rise-10-this-week-but-china-enters-fray-to-push-for-end-to-iran-war-whats-next/articleshow/132619080.cms",
-      "bloc": "regional",
-      "date": "2026-07-25",
-      "datetime": "2026-07-25T04:35:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US military says it fired on another merchant vessel trying to breach its blockade of Iranian ports",
-      "summary": "The US disabled a second merchant vessel enforcing its blockade of Iranian ports as Iran targeted US-linked bases across the Gulf. Fighting intensified for a 13th consecutive night, with Saudi-Houthi clashes worsening regional tensions. Despite renewed diplom…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-fired-on-another-merchant-vessel-trying-to-breach-its-blockade-of-iranian-ports/articleshow/132617321.cms",
-      "bloc": "regional",
-      "date": "2026-07-25",
-      "datetime": "2026-07-25T00:53:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Red Sea Is Becoming Saudi Arabia's Biggest Oil Bottleneck",
-      "summary": "For years, Saudi Arabia's strategic answer to any disruption in the Strait of Hormuz has been remarkably straightforward. If volumes via the Persian Gulf were threatened, the answer was to pump west through the East-West Pipeline to Yanbu on the Red Sea. Mark…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/The-Red-Sea-Is-Becoming-Saudi-Arabias-Biggest-Oil-Bottleneck.html",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T19:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -599,6 +599,75 @@
       "_from": "newsapi"
     },
     {
+      "headline": "US Pauses Iran Bombing Campaign As Saudi-Houthi Red Sea Front Erupts",
+      "summary": "Brent crude surged 27% over two weeks to settle at $96.78 a barrel on Friday, briefly breaching $100 this past week as traders priced in a higher war-risk premium into energy markets amid simultaneous chokepoint threats to the Strait of Hormuz and the souther…",
+      "source": "Shtfplan.com",
+      "url": "https://www.shtfplan.com/war/us-pauses-iran-bombing-campaign-as-saudi-houthi-red-sea-front-erupts",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T17:30:41Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ukrainian Drones Spark Fires At Russian Oil Refinery And Platform",
+      "summary": "By Bloomberg News Jul 25, 2026 (Bloomberg) –Fire broke out at the Tyumen oil refinery in Russia’s Ural region after a drone attack as Ukraine and Russia press intensifying strikes on...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/ukrainian-drones-spark-fires-at-russian-oil-refinery-and-platform/",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T16:31:31Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Attack on holiday camp in Russian-held Ukraine kills 11",
+      "summary": "Moscow-installed officials say Ukrainian forces attacked holiday camps in the partly Russian-occupied Zaporizhzhia region overnight, killing 11 people and wounding 14.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-26/russian-held-ukrainian-holiday-camp-attacked/106958586",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T14:46:19Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Ukraine Claims Strike On Russia-Iran Military Route As Kyiv Mourns Dead",
       "summary": "President Volodymyr Zelenskyy said on July 25 that Ukrainian forces had achieved \"very good results\" in strikes in the Caspian Sea, including against vessels involved in transporting military cargo to Iran and a Russian warship.",
       "source": "Radio Free Europe/ Radio Liberty",
@@ -629,75 +698,6 @@
       "bloc": "western",
       "date": "2026-07-25",
       "datetime": "2026-07-25T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine Drone Sparks Fire at Tyumen Oil Refinery in Russia",
-      "summary": "Fire broke out at the Tyumen oil refinery in Russia’s Ural region after a drone attack as Ukraine and Russia press intensifying strikes on each other’s critical infrastructure.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/ukraine-drone-sparks-fire-at-tyumen-oil-refinery-in-russia",
-      "bloc": "western",
-      "date": "2026-07-25",
-      "datetime": "2026-07-25T10:17:42Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Day 1,611 of WW3. Lapdog Lavrov wants to meet Rubio in Manila in Moscow's never-ending quest to avoid talking to Kyiv. Orc mil-bloggers are panicking about Drapatyi's appointment as UAF Commander in Chief. This is your Thursday Ukraine war thread [News]",
-      "summary": "Day 1,611 of WW3. Lapdog Lavrov wants to meet Rubio in Manila in Moscow's never-ending quest to avoid talking to Kyiv. Orc mil-bloggers are panicking about Drapatyi's appointment as UAF Commander in Chief. This is your Thursday Ukraine war thread",
-      "source": "Fark.com",
-      "url": "https://www.fark.com/comments/14139800/Day-1611-of-WW3-Lapdog-Lavrov-wants-to-meet-Rubio-in-Manila-in-Moscows-never-ending-quest-to-avoid-talking-to-Kyiv-Orc-mil-bloggers-are-panicking-about-Drapatyis-appointment-as-UAF-Commander-in-Chief-This-is-your-Thursday-Ukraine-war-thread",
-      "bloc": "western",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Thursday, July 23. Russia’s War On Ukraine: News And Information From Ukraine",
-      "summary": "Dispatches from Ukraine.  Day 1611.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/katyasoldak/2026/07/23/thursday-july-23-russias-war-on-ukraine-news-and-information-from-ukraine/",
-      "bloc": "western",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T10:00:02Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

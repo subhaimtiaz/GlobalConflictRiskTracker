@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-26T03:21:42.940Z",
+  "ts": "2026-07-26T08:33:22.512Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 99,
-    "oilStress": 50,
-    "updatedAt": "2026-07-26T03:21:42.940Z"
+    "oilPrice": 97,
+    "oilStress": 47,
+    "updatedAt": "2026-07-26T08:33:22.512Z"
   },
   "items": [
+    {
+      "headline": "Iranian Missiles Strike U.S. Military Sites in Jordan’s Aqaba",
+      "summary": "Iran launched missiles and drones at Jordan on Wednesday, targeting the Red Sea port city of Aqaba and its airport, according to reports from Jordanian authorities and regional media. The attack occurred around midday local time and prompted air defense inter…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-25-iranian-missiles-strike-us-sites-jordans-aqaba.html",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. Officials Say Iran War Nearly Won, but Military Data Shows Unmet Objectives and Depleted Stockpiles",
+      "summary": "Introduction: War Timeline and Official Claims The U.S.-Israel military campaign against Iran began on February 28, 2026, with President Donald Trump telling The New York Times at the time that he expected strikes to continue for “four to five weeks,” accordi…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-25-us-iran-military-data-unmet-objectives-depleted-stockpiles.html",
+      "bloc": "western",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US, Iran Threaten Attacks on Civilian Infrastructure",
       "summary": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n A woman looks out from her destroyed apartment in the Shahrak-e Gharb neighborhood of Tehran, Iran, March 21, 2026.\n © 2026 Majid Saeedi/Getty Images\n \n \n\n\n \n(Washington, DC) – President Donald Trump announced on Jul…",
@@ -92,54 +144,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Senate Blocks Resolution to Restrict Trump’s Iran War Powers",
-      "summary": "The U.S. Senate on Thursday blocked a resolution that would have prohibited President Donald Trump from waging war against Iran without congressional authorization, according to multiple reports. The procedural vote was 49–47, falling short of the 60 votes ne…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-24-senate-blocks-resolution-restrict-trump-iran-war-powers.html",
+      "headline": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
+      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o",
       "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T06:00:00Z",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T04:48:40Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "The Collapse of the Bipartisan Consensus Over US-Israel Ties",
-      "summary": "For decades, U.S. support for Israel rested on one of Washington’s strongest bipartisan assumptions: that military assistance was strategically necessary and politically untouchable. But Gaza has weakened that consensus. Critics now see Israeli military aid a…",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/dan_steinbock/2026/07/23/the-collapse-of-the-bipartisan-consensus-over-us-israel-ties/",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T00:00:48Z",
+      "headline": "Crude oil prices rise 10% this week but China enters fray to push for end to Iran war. What’s next?",
+      "summary": "Crude oil futures experienced a significant decline on Friday. This drop followed reports of China's initiative to restart stalled US-Iran peace negotiations. Despite the fall, both Brent and West Texas Intermediate crude are set for weekly gains. Geopolitica…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-rise-10-this-week-but-china-enters-fray-to-push-for-end-to-iran-war-whats-next/articleshow/132619080.cms",
+      "bloc": "regional",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T04:35:15Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -218,58 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil keeps flowing from Red Sea as Hormuz bypass stays open",
-      "summary": "Despite Houthi threats and a declared blockade against Saudi Arabia, oil shipments from Yanbu continue, though many Western tankers are going dark on transponders or rerouting via Suez/Cape of Good Hope to avoid the Bab el-Mandeb strait, adding cost and time …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/oil-keeps-flowing-from-red-sea-as-hormuz-bypass-stays-open/articleshow/132607735.cms",
-      "bloc": "regional",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T14:03:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tanker switches Asia voyage via Suez amid Houthi warnings, owner says",
-      "summary": "The Torm Innovation tanker will navigate the Suez Canal to Asia. This decision follows Houthi threats impacting shipping in the southern Red Sea. Crew safety remains the company's highest priority amid security concerns. Red Sea traffic has seen significant d…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/tanker-switches-asia-voyage-via-suez-amid-houthi-warnings-owner-says/articleshow/132606513.cms",
-      "bloc": "regional",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T13:01:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

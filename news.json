@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-25T19:13:45.736Z",
+  "ts": "2026-07-26T03:21:42.940Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 99,
     "oilStress": 50,
-    "updatedAt": "2026-07-25T19:13:45.736Z"
+    "updatedAt": "2026-07-26T03:21:42.940Z"
   },
   "items": [
+    {
+      "headline": "US, Iran Threaten Attacks on Civilian Infrastructure",
+      "summary": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n A woman looks out from her destroyed apartment in the Shahrak-e Gharb neighborhood of Tehran, Iran, March 21, 2026.\n © 2026 Majid Saeedi/Getty Images\n \n \n\n\n \n(Washington, DC) – President Donald Trump announced on Jul…",
+      "source": "Human Rights Watch",
+      "url": "https://www.hrw.org/news/2026/07/24/us-iran-threaten-attacks-on-civilian-infrastructure",
+      "bloc": "institutional",
+      "date": "2026-07-24",
+      "datetime": "2026-07-24T21:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump Weighs Wider Iranian Attacks With New Truce Still Elusive...",
       "summary": "(Bloomberg) -- President Donald Trump said he’s considering a “massive attack” on Iran to push the nation to negotiate a peace deal, raising the prospect of...",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran expands conflict with new attacks on US allies in Middle East",
-      "summary": "Iran escalates conflict with attacks on U.S. allies. U.S.-Iran deal with reconstruction funding in 2026 at 29% YES.\nThe post Iran expands conflict with new attacks on US allies in Middle East appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-expands-conflict-with-new-attacks-on-us-allies-in-middle-east/",
-      "bloc": "western",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T22:05:06Z",
+      "headline": "US military says it fired on another merchant vessel trying to breach its blockade of Iranian ports",
+      "summary": "The US disabled a second merchant vessel enforcing its blockade of Iranian ports as Iran targeted US-linked bases across the Gulf. Fighting intensified for a 13th consecutive night, with Saudi-Houthi clashes worsening regional tensions. Despite renewed diplom…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-fired-on-another-merchant-vessel-trying-to-breach-its-blockade-of-iranian-ports/articleshow/132617321.cms",
+      "bloc": "regional",
+      "date": "2026-07-25",
+      "datetime": "2026-07-25T00:53:30Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -229,32 +255,6 @@
       "bloc": "regional",
       "date": "2026-07-24",
       "datetime": "2026-07-24T13:01:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Escalating US-Iran war, DRC dialogue, and aid worker kidnappings: The Cheat Sheet",
-      "summary": "Escalating US-Iran war, DRC dialogue, and aid worker kidnappings: The Cheat Sheet\n\nsofia\n\nFri, 07/24/2026 - 13:33",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/news/2026/07/24/escalating-us-iran-war-drc-dialogue-aid-worker-kidnappings-cheat-sheet",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T12:33:28Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

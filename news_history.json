@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-27T09:57:20.137Z",
+  "updated": "2026-07-27T14:43:23.030Z",
   "retention_days": 30,
   "items": [
     {
@@ -15248,7 +15248,91 @@
       "_from": "newsapi",
       "first_seen": "2026-07-27T09:57:20.136Z",
       "run_id": "2026-07-27T09:57"
+    },
+    {
+      "headline": "US pauses attacks on Iran for a second straight day and Tehran pauses, too",
+      "summary": "The United States has not attacked Iran for a second day, and Tehran says it has also halted attacks.",
+      "source": "WJXT News4JAX",
+      "url": "https://www.news4jax.com/business/2026/07/26/us-pauses-attacks-on-iran-for-a-second-straight-day-and-tehran-pauses-too/",
+      "bloc": "western",
+      "date": "2026-07-26",
+      "datetime": "2026-07-26T14:33:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-27T14:43:23.030Z",
+      "run_id": "2026-07-27T14:43"
+    },
+    {
+      "headline": "DRAWN IN BLOOD: The Deliberate Demolition of Sykes-Picot and the Architects of the New Middle East",
+      "summary": "h1, h2, h3 { line-height:33px; }\n\n\nHow the Sequence of Gaza, Lebanon, and Iran Converges on a Map Drawn in 2006\nEdited by iEpikaira*\n\nI. The Sequence Is Not a Sequence. It Is a Surgery.\n\nThe mainstream narrative of the past thirty-four months is one of escala…",
+      "source": "Blogspot.com",
+      "url": "https://i-epikaira.blogspot.com/2026/07/drawn-in-blood-deliberate-demolition-of.html",
+      "bloc": "western",
+      "date": "2026-07-26",
+      "datetime": "2026-07-26T14:11:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-27T14:43:23.030Z",
+      "run_id": "2026-07-27T14:43"
+    },
+    {
+      "headline": "Strait of Hormuz Crisis Deepens as Oil Tops $100 a Barrel and Trump Warns Iran Over Tanker Attacks",
+      "summary": "Tanker traffic in the Strait of Hormuz has nearly stopped due to escalating attacks, causing global oil prices to surge. The ongoing conflict between the U.S., Israel, and Iran threatens global energy stability.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-tensions-tanker-attacks-1872945",
+      "bloc": "western",
+      "date": "2026-07-26",
+      "datetime": "2026-07-26T12:05:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-27T14:43:23.030Z",
+      "run_id": "2026-07-27T14:43"
     }
   ],
-  "total_items_ever": 2775
+  "total_items_ever": 2778
 }

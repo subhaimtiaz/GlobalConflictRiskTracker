@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-27T14:43:23.030Z",
+  "updated": "2026-07-27T19:39:33.614Z",
   "retention_days": 30,
   "items": [
     {
@@ -15332,7 +15332,91 @@
       "_from": "newsapi",
       "first_seen": "2026-07-27T14:43:23.030Z",
       "run_id": "2026-07-27T14:43"
+    },
+    {
+      "headline": "U.S. Pauses Attacks On Iran For A Second Straight Day And Tehran Does Too",
+      "summary": "Since the U.S. has halted attacks for the past two nights, Iran has as well, its army spokesperson told Iran’s state TV on Sunday.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-war-us-pauses-attacks-second-straight-day_n_6a6634d4e4b04785304393e9",
+      "bloc": "western",
+      "date": "2026-07-26",
+      "datetime": "2026-07-26T16:37:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-27T19:39:33.614Z",
+      "run_id": "2026-07-27T19:39"
+    },
+    {
+      "headline": "Oil tanker explodes after colliding with mine in Strait of Hormuz, Iranian media reports - as Trump pauses strikes to allow more time for 'diplomacy'",
+      "summary": "The vessel was struck after leaving the route designated by Iran in the strategic waterway, according to the Middle Eastern country's semi-official Tasnim news agency.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16006247/Oil-tanker-explodes-Strait-Hormuz.html",
+      "bloc": "western",
+      "date": "2026-07-26",
+      "datetime": "2026-07-26T15:33:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-27T19:39:33.614Z",
+      "run_id": "2026-07-27T19:39"
+    },
+    {
+      "headline": "Oil Market's Glut Narrative Just Blew Up",
+      "summary": "Less than a month ago, analysts were warning of a looming glut of crude oil as tanker traffic via the Strait of Hormuz began to recover amid a U.S.-Iran ceasefire. Within days of these warnings, the ceasefire was a painful memory, missiles were flying again, …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Glut-Narrative-Just-Blew-Up.html",
+      "bloc": "western",
+      "date": "2026-07-26",
+      "datetime": "2026-07-26T16:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-27T19:39:33.614Z",
+      "run_id": "2026-07-27T19:39"
     }
   ],
-  "total_items_ever": 2778
+  "total_items_ever": 2781
 }

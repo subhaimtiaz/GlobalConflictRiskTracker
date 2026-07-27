@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-27T14:44:28.228Z",
+  "ts": "2026-07-27T19:40:38.807Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 90,
-    "oilStress": 37,
-    "updatedAt": "2026-07-27T14:44:28.228Z"
+    "oilPrice": 88,
+    "oilStress": 33,
+    "updatedAt": "2026-07-27T19:40:38.807Z"
   },
   "items": [
+    {
+      "headline": "U.S. Pauses Attacks On Iran For A Second Straight Day And Tehran Does Too",
+      "summary": "Since the U.S. has halted attacks for the past two nights, Iran has as well, its army spokesperson told Iran’s state TV on Sunday.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-war-us-pauses-attacks-second-straight-day_n_6a6634d4e4b04785304393e9",
+      "bloc": "western",
+      "date": "2026-07-26",
+      "datetime": "2026-07-26T16:37:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil tanker explodes after colliding with mine in Strait of Hormuz, Iranian media reports - as Trump pauses strikes to allow more time for 'diplomacy'",
+      "summary": "The vessel was struck after leaving the route designated by Iran in the strategic waterway, according to the Middle Eastern country's semi-official Tasnim news agency.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16006247/Oil-tanker-explodes-Strait-Hormuz.html",
+      "bloc": "western",
+      "date": "2026-07-26",
+      "datetime": "2026-07-26T15:33:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US pauses attacks on Iran for a second straight day and Tehran pauses, too",
       "summary": "The United States has not attacked Iran for a second day, and Tehran says it has also halted attacks.",
@@ -92,58 +144,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Pakistan Warns of Military Response to Yemeni Blockade in Red Sea",
-      "summary": "Houthis Impose Maritime Embargo on Saudi Shipping The Ansarallah-led Yemeni Armed Forces, commonly known as the Houthis, declared a full maritime embargo against Saudi Arabia on July 20, according to a statement from military spokesman Yahya Saree. The announ…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-26-pakistan-warns-military-response-yemen-houthi-blockade.html",
-      "bloc": "western",
-      "date": "2026-07-26",
-      "datetime": "2026-07-26T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Faces Criticism Over Iran War Death Comments",
-      "summary": "President Donald Trump is facing criticism for a Truth Social post that compared the Iran conflict death toll to past U.S. wars – listing 18 dead in four months as he attended a dignified transfer on Wednesday, July 22, for four service members killed in the …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-26-trump-faces-criticism-iran-war-death-comments.html",
-      "bloc": "western",
-      "date": "2026-07-26",
-      "datetime": "2026-07-26T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Strait of Hormuz Crisis Deepens as Oil Tops $100 a Barrel and Trump Warns Iran Over Tanker Attacks",
       "summary": "Tanker traffic in the Strait of Hormuz has nearly stopped due to escalating attacks, causing global oil prices to surge. The ongoing conflict between the U.S., Israel, and Iran threatens global energy stability.",
       "source": "Ibtimes.com.au",
@@ -166,6 +166,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Pakistan Warns of Military Response to Yemeni Blockade in Red Sea",
+      "summary": "Houthis Impose Maritime Embargo on Saudi Shipping The Ansarallah-led Yemeni Armed Forces, commonly known as the Houthis, declared a full maritime embargo against Saudi Arabia on July 20, according to a statement from military spokesman Yahya Saree. The announ…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-26-pakistan-warns-military-response-yemen-houthi-blockade.html",
+      "bloc": "western",
+      "date": "2026-07-26",
+      "datetime": "2026-07-26T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -342,6 +368,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Oil Market's Glut Narrative Just Blew Up",
+      "summary": "Less than a month ago, analysts were warning of a looming glut of crude oil as tanker traffic via the Strait of Hormuz began to recover amid a U.S.-Iran ceasefire. Within days of these warnings, the ceasefire was a painful memory, missiles were flying again, …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Glut-Narrative-Just-Blew-Up.html",
+      "bloc": "western",
+      "date": "2026-07-26",
+      "datetime": "2026-07-26T16:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Three Endgames: Scenarios for the Iran War and the Post-American Order",
       "summary": "h1, h2, h3 {\n line-height: 33px;\n }\n \n \n \n \n\n\n Preamble: The Situation as It Stands\n\nFive months into the conflagration, the strategic landscape admits no comfortable summary. The United States and Israel launched joint strikes against Iran on 28 February 202…",
       "source": "Blogspot.com",
@@ -427,32 +479,6 @@
       "bloc": "western",
       "date": "2026-07-24",
       "datetime": "2026-07-24T10:52:16Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Morning Bid: Running on empty",
-      "summary": "By Anna Szymanski July 24 (Reuters) - From the Editor Hello Morning Bid readers! Cash burn and spiking crude prices dominated market headlines this week.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/news/morning-bid-running-empty-104033048.html",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T10:40:33Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

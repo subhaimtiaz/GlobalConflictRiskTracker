@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-28T14:15:55.241Z",
+  "updated": "2026-07-28T19:37:41.542Z",
   "retention_days": 30,
   "items": [
     {
@@ -15585,7 +15585,145 @@
       "_from": "newsapi",
       "first_seen": "2026-07-28T14:15:55.240Z",
       "run_id": "2026-07-28T14:15"
+    },
+    {
+      "headline": "Despite State-Backed Israeli Settler Violence, the Palestinians Will Persevere",
+      "summary": "It would seem that the Israeli settlers are out of control. Their violent actions have either been encouraged by the Israel Defense Forces or Israeli government, or protected by the former and quietly supported by the latter. This support exists as they set h…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/palestinians-persevere",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T18:57:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-28T19:37:41.542Z",
+      "run_id": "2026-07-28T19:37"
+    },
+    {
+      "headline": "Hormuz Transits Remain Low, Houthis Resume Attacks in Red Sea",
+      "summary": "The Houthis enacted a maritime blockade against Saudi Arabian-linked ships and ports, dealing another blow to shipping in the Middle East.Transits in the Strait of Hormuz were down this week compared to the previous week as the U.S. struck Iran for the 13th s…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4389528/posts",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T16:28:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-28T19:37:41.542Z",
+      "run_id": "2026-07-28T19:37"
+    },
+    {
+      "headline": "U.S. and Iran edge toward talks as Hormuz shipping hits three-week low, regional officials say",
+      "summary": "Qatar- and Pakistan-led mediators are pushing the U.S. and Iran to return to an interim ceasefire deal that had collapsed after the exchanges of fire",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/27/u-s-and-iran-edge-toward-talks-as-hormuz-shipping-hits-three-week-low-regional-officials-say/",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T14:39:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-28T19:37:41.542Z",
+      "run_id": "2026-07-28T19:37"
+    },
+    {
+      "headline": "Indian Refinery MRPL Bars Crude Suppliers From Hormuz, Red Sea Routes",
+      "summary": "India’s Mangalore Refinery and Petrochemicals Ltd. (MRPL) has become the first Indian refinery to tell crude suppliers to avoid both the Strait of Hormuz and the Red Sea, inserting the restriction into a spot tender for up to 1 million barrels of crude. The t…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refinery-MRPL-Bars-Crude-Suppliers-From-Hormuz-Red-Sea-Routes.html",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T14:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-28T19:37:41.542Z",
+      "run_id": "2026-07-28T19:37"
+    },
+    {
+      "headline": "Trump critic Massie joins Democrats in unprecedented bid to sue White House over Iran war",
+      "summary": "Thomas Massie accused President Trump and Secretary Hegseth of violating the War Powers Resolution, joining Democrats in a resolution to sue over the Iran war.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-critic-massie-joins-democrats-unprecedented-bid-sue-white-house-over-iran-war",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T15:43:00Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "Trump Iran war"
+      ],
+      "dimensions": [
+        "accountability",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-28T19:37:41.542Z",
+      "run_id": "2026-07-28T19:37"
     }
   ],
-  "total_items_ever": 2803
+  "total_items_ever": 2808
 }

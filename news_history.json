@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-28T08:39:35.090Z",
+  "updated": "2026-07-28T14:15:55.241Z",
   "retention_days": 30,
   "items": [
     {
@@ -15392,7 +15392,200 @@
       "_from": "newsapi",
       "first_seen": "2026-07-28T08:39:35.090Z",
       "run_id": "2026-07-28T08:39"
+    },
+    {
+      "headline": "Desperation Continues After MoU Fails To Bring Order: US Military Pounds Iranian City of Ahvaz",
+      "summary": "Heavy explosions lit up the skies over Ahvaz on Friday as American bombers pounded Iranian cities for the 13th consecutive night, but as the US resumes its bombing campaign over Iranian skies, the real detonation may be happening inside the Pentagon's war roo…",
+      "source": "Shtfplan.com",
+      "url": "https://www.shtfplan.com/headline-news/desperation-continues-after-mou-fails-to-bring-order-us-military-pounds-iranian-city-of-ahvaz",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T12:30:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-28T14:15:55.240Z",
+      "run_id": "2026-07-28T14:15"
+    },
+    {
+      "headline": "Why has the US halted its bombing of Iran?",
+      "summary": "Tit-for-tat strikes have halted in the Middle East even as the scope of the US-Israel war on Iran widens.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran",
+      "bloc": "regional",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T10:55:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-28T14:15:55.240Z",
+      "run_id": "2026-07-28T14:15"
+    },
+    {
+      "headline": "Iran War: Trump Dithers as Strait of Hormuz Damage Compounds; Ansar Allah-Saudi Conflict Spirals, Adding to Economic Harm; Iran Threatens Retaliation Against Ukraine",
+      "summary": "Today's Iran war news: The US-Iran strikes remain on hold for a second day. But Netanyahu and other Lindsey Graham fans are in DC this week.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-dithers-as-strait-of-hormuz-damage-compounds-ansar-allah-saudi-conflict-spirals-adding-to-economic-harm-iran-threatens-retaliation-against-ukraine.html",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T10:42:32Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-28T14:15:55.240Z",
+      "run_id": "2026-07-28T14:15"
+    },
+    {
+      "headline": "Saudi downs drones fired by Iran-backed militias in Iraq amid US-Tehran lull",
+      "summary": "Saudi Arabia intercepted drones launched by Iran-backed militias in Iraq. Mediators are pushing to revive diplomacy and restore an interim ceasefire arrangement. Commercial traffic through the Strait of Hormuz has fallen to its lowest level. Concerns have spr…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/saudi-downs-drones-fired-by-iran-backed-militias-in-iraq-amid-us-tehran-lull/articleshow/132663323.cms",
+      "bloc": "regional",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T13:47:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-28T14:15:55.240Z",
+      "run_id": "2026-07-28T14:15"
+    },
+    {
+      "headline": "Current price of oil as of July 27, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-07-27-2026/",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T10:35:25Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-28T14:15:55.240Z",
+      "run_id": "2026-07-28T14:15"
+    },
+    {
+      "headline": "Stocks rise globally on hopes of peace talks with Iran—but the Fed may deliver a shock on Wednesday",
+      "summary": "Everything you need to know before you reach the office this morning.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/27/stocks-rise-globally-on-hopes-of-peace-talks-with-iranbut-the-fed-may-deliver-a-shock-on-wednesday/",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T09:52:35Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-28T14:15:55.240Z",
+      "run_id": "2026-07-28T14:15"
+    },
+    {
+      "headline": "Russia pulled back from the Arctic, for now. NATO must act before those troops return",
+      "summary": "Satellite imagery reveals Russia pulling air-defense systems from Arctic positions while building massive new bases near Finland and Norway's borders.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/russia-pulled-back-arctic-now-nato-must-act-before-troops-return",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T09:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-28T14:15:55.240Z",
+      "run_id": "2026-07-28T14:15"
     }
   ],
-  "total_items_ever": 2796
+  "total_items_ever": 2803
 }

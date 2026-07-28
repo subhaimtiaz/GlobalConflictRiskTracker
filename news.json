@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-28T08:40:40.258Z",
+  "ts": "2026-07-28T14:17:00.489Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 86,
-    "oilStress": 29,
-    "updatedAt": "2026-07-28T08:40:40.258Z"
+    "oilPrice": 87,
+    "oilStress": 32,
+    "updatedAt": "2026-07-28T14:17:00.489Z"
   },
   "items": [
+    {
+      "headline": "Desperation Continues After MoU Fails To Bring Order: US Military Pounds Iranian City of Ahvaz",
+      "summary": "Heavy explosions lit up the skies over Ahvaz on Friday as American bombers pounded Iranian cities for the 13th consecutive night, but as the US resumes its bombing campaign over Iranian skies, the real detonation may be happening inside the Pentagon's war roo…",
+      "source": "Shtfplan.com",
+      "url": "https://www.shtfplan.com/headline-news/desperation-continues-after-mou-fails-to-bring-order-us-military-pounds-iranian-city-of-ahvaz",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T12:30:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why has the US halted its bombing of Iran?",
+      "summary": "Tit-for-tat strikes have halted in the Middle East even as the scope of the US-Israel war on Iran widens.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran",
+      "bloc": "regional",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T10:55:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran War: Trump Dithers as Strait of Hormuz Damage Compounds; Ansar Allah-Saudi Conflict Spirals, Adding to Economic Harm; Iran Threatens Retaliation Against Ukraine",
+      "summary": "Today's Iran war news: The US-Iran strikes remain on hold for a second day. But Netanyahu and other Lindsey Graham fans are in DC this week.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-dithers-as-strait-of-hormuz-damage-compounds-ansar-allah-saudi-conflict-spirals-adding-to-economic-harm-iran-threatens-retaliation-against-ukraine.html",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T10:42:32Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Michael Hudson: The U.S. Plan to Revive Geoeconomic Dominance",
       "summary": "How Trump has been trying to use military muscle to reassert US geopolitical and economic dominance.",
@@ -66,91 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US, Iran Threaten Attacks on Civilian Infrastructure (HRW)",
-      "summary": "Unlawful Strikes During Earlier Fighting Heightens Concerns of War Crimes",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/07/threaten-civilian-infrastructure.html",
-      "bloc": "western",
+      "headline": "Saudi downs drones fired by Iran-backed militias in Iraq amid US-Tehran lull",
+      "summary": "Saudi Arabia intercepted drones launched by Iran-backed militias in Iraq. Mediators are pushing to revive diplomacy and restore an interim ceasefire arrangement. Commercial traffic through the Strait of Hormuz has fallen to its lowest level. Concerns have spr…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/saudi-downs-drones-fired-by-iran-backed-militias-in-iraq-amid-us-tehran-lull/articleshow/132663323.cms",
+      "bloc": "regional",
       "date": "2026-07-27",
-      "datetime": "2026-07-27T04:06:10Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US, Iran pause attacks for second day as ceasefire talks gather pace",
-      "summary": "The US and Iran paused attacks for a second day as mediators pushed ceasefire talks. Shipping in the Strait of Hormuz remains disrupted despite easing tensions.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/us-iran-pause-attacks-for-second-day-as-ceasefire-talks-gather-pace/article71271257.ece",
-      "bloc": "western",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T02:00:35Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran confirms ongoing talks with US amid 2026 war backdrop",
-      "summary": "Ongoing U.S.-Iran talks amid conflict highlight fragile diplomacy, with potential regional stability hinging on successful negotiations.\nThe post Iran confirms ongoing talks with US amid 2026 war backdrop appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-confirms-ongoing-talks-with-us-amid-2026-war-backdrop/",
-      "bloc": "western",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T00:24:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tanker Explodes After Hitting Naval Mine in Strait of Hormuz as Iran, Oman Report Progress on Safety Talks",
-      "summary": "An oil tanker exploded in the Strait of Hormuz after hitting a naval mine, highlighting ongoing maritime risks despite diplomatic efforts between Iran and Oman to enhance navigation safety.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/oil-tanker-explosion-strait-hormuz-maritime-risks-1872989",
-      "bloc": "western",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T07:06:02Z",
+      "datetime": "2026-07-27T13:47:51Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -165,96 +165,18 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
       "headline": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows",
-      "summary": "SINGAPORE: Ship traffic through Bab el-Mandeb fell on Sunday (Jul 26) after Yemeni Houthis attacked Saudi oil installations along the Red Sea coast, while transit through the Strait of Hormuz stayed low over the weekend, shipping data from Kpler showed on Mon…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/red-sea-shipping-slows-after-houthi-attack-saudi-arabia-data-shows-6279606",
+      "summary": "Ship traffic through Bab el-Mandeb fell on Sunday after Yemeni Houthis attacked Saudi oil installations along the Red Sea coast, while transit through the Strait of Hormuz stayed low over the weekend, Reuters reported, citing shipping data from Kpler.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260727-azertac02.htm",
       "bloc": "western",
       "date": "2026-07-27",
-      "datetime": "2026-07-27T03:11:55Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Price Today (July 27): Crude oil dips 5%, below $95 as US pauses strikes on Iran. What are experts saying?",
-      "summary": "Brent crude futures dropped $4.89, or 5.05%, to $91.89, after briefly falling below the key $90 support level earlier in the session. US West Texas Intermediate crude stood at $84.64 a barrel, down $4.67, or 5.23%. The decline comes after crude prices surged …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-27-crude-oil-dips-5-below-95-as-us-pauses-strikes-on-iran-what-are-experts-saying/articleshow/132650946.cms",
-      "bloc": "regional",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T02:12:07Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Red Sea Shipping Slows After Houthi Attack On Saudi Arabia",
-      "summary": "By Florence Tan SINGAPORE, July 27 (Reuters) – Ship traffic through Bab el-Mandeb fell on Sunday after Yemeni Houthis attacked Saudi oil installations along the Red Sea coast, while transit through the...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/red-sea-shipping-slows-after-houthi-attack-on-saudi-arabia/",
-      "bloc": "western",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T01:58:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Red Sea shipping slumps after Houthi strikes on Saudi Arabia energy infrastructure",
-      "summary": "Ship traffic through Bab el-Mandeb declined significantly on Sunday. This occurred after Yemeni Houthis attacked Saudi oil installations along the Red Sea coast. Meanwhile, transit through the Strait of Hormuz stayed low over the weekend. Seven commodity vess…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/red-sea-shipping-slumps-after-houthi-strikes-on-saudi-arabia-energy-infrastructure/articleshow/132650447.cms",
-      "bloc": "regional",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T00:53:39Z",
+      "datetime": "2026-07-27T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -394,6 +316,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Current price of oil as of July 27, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-07-27-2026/",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T10:35:25Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Stocks rise globally on hopes of peace talks with Iran—but the Fed may deliver a shock on Wednesday",
+      "summary": "Everything you need to know before you reach the office this morning.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/27/stocks-rise-globally-on-hopes-of-peace-talks-with-iranbut-the-fed-may-deliver-a-shock-on-wednesday/",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T09:52:35Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Gold and Silver Prices Plunge as Middle East Conflict Drives Oil Toward $100",
       "summary": "Gold and silver prices fell sharply on July 23 as escalating Middle East hostilities pushed crude oil toward $100 per barrel and hardened expectations that the Federal Reserve will resume raising interest rates, according to market data. Comex gold for August…",
       "source": "Naturalnews.com",
@@ -453,58 +427,6 @@
       "bloc": "western",
       "date": "2026-07-27",
       "datetime": "2026-07-27T00:24:01Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
-      "summary": "U.S. airlines are grappling with soaring jet fuel costs again after the return of hostilities in the Middle East shattered the three-week-long U.S.-Iran ‘deal to make a deal’ and sent Brent crude oil prices soaring past $100 per barrel again. The U.S. jet fue…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/US-Jet-Fuel-Costs-Soar-as-Iran-War-Hits-Airlines-Again.html",
-      "bloc": "western",
-      "date": "2026-07-26",
-      "datetime": "2026-07-26T21:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Market's Glut Narrative Just Blew Up",
-      "summary": "Less than a month ago, analysts were warning of a looming glut of crude oil as tanker traffic via the Strait of Hormuz began to recover amid a U.S.-Iran ceasefire. Within days of these warnings, the ceasefire was a painful memory, missiles were flying again, …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Glut-Narrative-Just-Blew-Up.html",
-      "bloc": "western",
-      "date": "2026-07-26",
-      "datetime": "2026-07-26T16:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -599,6 +521,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Russia pulled back from the Arctic, for now. NATO must act before those troops return",
+      "summary": "Satellite imagery reveals Russia pulling air-defense systems from Arctic positions while building massive new bases near Finland and Norway's borders.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/russia-pulled-back-arctic-now-nato-must-act-before-troops-return",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T09:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "US Pauses Iran Bombing Campaign As Saudi-Houthi Red Sea Front Erupts",
       "summary": "Brent crude surged 27% over two weeks to settle at $96.78 a barrel on Friday, briefly breaching $100 this past week as traders priced in a higher war-risk premium into energy markets amid simultaneous chokepoint threats to the Strait of Hormuz and the souther…",
       "source": "Shtfplan.com",
@@ -675,29 +620,6 @@
       "bloc": "western",
       "date": "2026-07-25",
       "datetime": "2026-07-25T13:32:07Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Zelenskyy Says Russia Wants To Bring North Korean Troops Into Ukraine War Again",
-      "summary": "President Volodymyr Zelenskyy said that Moscow wants to bring in thousands of North Korean soldiers again for its invasion of Ukraine, with preparations in Russia having been under way since early summer.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260725-rferl01.htm",
-      "bloc": "western",
-      "date": "2026-07-25",
-      "datetime": "2026-07-25T12:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

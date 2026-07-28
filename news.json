@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-28T02:48:08.904Z",
+  "ts": "2026-07-28T08:40:40.258Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 85,
-    "oilStress": 28,
-    "updatedAt": "2026-07-28T02:48:08.903Z"
+    "oilPrice": 86,
+    "oilStress": 29,
+    "updatedAt": "2026-07-28T08:40:40.258Z"
   },
   "items": [
+    {
+      "headline": "Michael Hudson: The U.S. Plan to Revive Geoeconomic Dominance",
+      "summary": "How Trump has been trying to use military muscle to reassert US geopolitical and economic dominance.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/michael-hudson-the-u-s-plan-to-revive-geoeconomic-dominance.html",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T06:29:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US, Iran hold fire as Trump gives talks ‘space’",
+      "summary": "Iran and the United States maintained a pause in attacks on July 27, easing pressure on Gulf shipping and oil markets as Washington said President Donald Trump was allowing diplomatic efforts more time.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-iran-hold-fire-as-trump-gives-talks-space-224841",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T05:39:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US, Iran Threaten Attacks on Civilian Infrastructure (HRW)",
+      "summary": "Unlawful Strikes During Earlier Fighting Heightens Concerns of War Crimes",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/07/threaten-civilian-infrastructure.html",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T04:06:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US, Iran pause attacks for second day as ceasefire talks gather pace",
       "summary": "The US and Iran paused attacks for a second day as mediators pushed ceasefire talks. Shipping in the Strait of Hormuz remains disrupted despite easing tensions.",
@@ -66,79 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "U.S. Pauses Attacks On Iran For A Second Straight Day And Tehran Does Too",
-      "summary": "Since the U.S. has halted attacks for the past two nights, Iran has as well, its army spokesperson told Iran’s state TV on Sunday.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-war-us-pauses-attacks-second-straight-day_n_6a6634d4e4b04785304393e9",
+      "headline": "Tanker Explodes After Hitting Naval Mine in Strait of Hormuz as Iran, Oman Report Progress on Safety Talks",
+      "summary": "An oil tanker exploded in the Strait of Hormuz after hitting a naval mine, highlighting ongoing maritime risks despite diplomatic efforts between Iran and Oman to enhance navigation safety.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/oil-tanker-explosion-strait-hormuz-maritime-risks-1872989",
       "bloc": "western",
-      "date": "2026-07-26",
-      "datetime": "2026-07-26T16:37:30Z",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T07:06:02Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Oil tanker explodes after colliding with mine in Strait of Hormuz, Iranian media reports - as Trump pauses strikes to allow more time for 'diplomacy'",
-      "summary": "The vessel was struck after leaving the route designated by Iran in the strategic waterway, according to the Middle Eastern country's semi-official Tasnim news agency.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16006247/Oil-tanker-explodes-Strait-Hormuz.html",
+      "headline": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows",
+      "summary": "SINGAPORE: Ship traffic through Bab el-Mandeb fell on Sunday (Jul 26) after Yemeni Houthis attacked Saudi oil installations along the Red Sea coast, while transit through the Strait of Hormuz stayed low over the weekend, shipping data from Kpler showed on Mon…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/red-sea-shipping-slows-after-houthi-attack-saudi-arabia-data-shows-6279606",
       "bloc": "western",
-      "date": "2026-07-26",
-      "datetime": "2026-07-26T15:33:58Z",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T03:11:55Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US pauses attacks on Iran for a second straight day and Tehran pauses, too",
-      "summary": "The United States has not attacked Iran for a second day, and Tehran says it has also halted attacks.",
-      "source": "WJXT News4JAX",
-      "url": "https://www.news4jax.com/business/2026/07/26/us-pauses-attacks-on-iran-for-a-second-straight-day-and-tehran-pauses-too/",
-      "bloc": "western",
-      "date": "2026-07-26",
-      "datetime": "2026-07-26T14:33:02Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
@@ -203,32 +255,6 @@
       "bloc": "regional",
       "date": "2026-07-27",
       "datetime": "2026-07-27T00:53:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Red Sea traffic slows after Houthi attack on Saudi Arabia",
-      "summary": "Ship traffic through Bab el-Mandeb has fallen after Yemeni Houthis attacked Saudi oil installations along the Red Sea coast.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0727/1585219-red-sea-traffic/",
-      "bloc": "western",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T00:27:04Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -368,6 +394,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Gold and Silver Prices Plunge as Middle East Conflict Drives Oil Toward $100",
+      "summary": "Gold and silver prices fell sharply on July 23 as escalating Middle East hostilities pushed crude oil toward $100 per barrel and hardened expectations that the Federal Reserve will resume raising interest rates, according to market data. Comex gold for August…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-27-gold-silver-prices-plunge-oil-price-spikes.html",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why The US CAN'T Use Its Oil",
+      "summary": "Now, I finally understand about Oil, and why it's extracted in one country, and shipped to another, instead of being refined here in the US. This gvies the Big Picture like never before, for me.",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-bloggers/4389490/posts",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T05:50:32Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "MAS allows for stronger Singdollar on persistent Iran war-induced inflation risk",
       "summary": "Singapore's central bank tightens monetary policy to strengthen the Singapore dollar against Iran war-induced inflation risks. Read more at straitstimes.com. Read more at straitstimes.com.",
       "source": "The Straits Times",
@@ -427,58 +505,6 @@
       "bloc": "western",
       "date": "2026-07-26",
       "datetime": "2026-07-26T16:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Three Endgames: Scenarios for the Iran War and the Post-American Order",
-      "summary": "h1, h2, h3 {\n line-height: 33px;\n }\n \n \n \n \n\n\n Preamble: The Situation as It Stands\n\nFive months into the conflagration, the strategic landscape admits no comfortable summary. The United States and Israel launched joint strikes against Iran on 28 February 202…",
-      "source": "Blogspot.com",
-      "url": "https://i-epikaira.blogspot.com/2026/07/three-endgames-scenarios-for-iran-war.html",
-      "bloc": "western",
-      "date": "2026-07-25",
-      "datetime": "2026-07-25T22:20:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil at $100 is pushing up costs from gas pumps to grocery aisles",
-      "summary": "“Since everything relies on petroleum in our economy, for good or ill, if the cost of petroleum goes up, then everything else goes up as well.\"",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/24/oil-100-barrel-consumer-prices-iran-war/",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T12:18:30Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

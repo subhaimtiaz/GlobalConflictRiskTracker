@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-27T19:40:38.807Z",
+  "ts": "2026-07-28T02:48:08.904Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 88,
-    "oilStress": 33,
-    "updatedAt": "2026-07-27T19:40:38.807Z"
+    "oilPrice": 85,
+    "oilStress": 28,
+    "updatedAt": "2026-07-28T02:48:08.903Z"
   },
   "items": [
+    {
+      "headline": "US, Iran pause attacks for second day as ceasefire talks gather pace",
+      "summary": "The US and Iran paused attacks for a second day as mediators pushed ceasefire talks. Shipping in the Strait of Hormuz remains disrupted despite easing tensions.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/us-iran-pause-attacks-for-second-day-as-ceasefire-talks-gather-pace/article71271257.ece",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T02:00:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran confirms ongoing talks with US amid 2026 war backdrop",
+      "summary": "Ongoing U.S.-Iran talks amid conflict highlight fragile diplomacy, with potential regional stability hinging on successful negotiations.\nThe post Iran confirms ongoing talks with US amid 2026 war backdrop appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-confirms-ongoing-talks-with-us-amid-2026-war-backdrop/",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T00:24:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "U.S. Pauses Attacks On Iran For A Second Straight Day And Tehran Does Too",
       "summary": "Since the U.S. has halted attacks for the past two nights, Iran has as well, its army spokesperson told Iran’s state TV on Sunday.",
@@ -92,65 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "DRAWN IN BLOOD: The Deliberate Demolition of Sykes-Picot and the Architects of the New Middle East",
-      "summary": "h1, h2, h3 { line-height:33px; }\n\n\nHow the Sequence of Gaza, Lebanon, and Iran Converges on a Map Drawn in 2006\nEdited by iEpikaira*\n\nI. The Sequence Is Not a Sequence. It Is a Surgery.\n\nThe mainstream narrative of the past thirty-four months is one of escala…",
-      "source": "Blogspot.com",
-      "url": "https://i-epikaira.blogspot.com/2026/07/drawn-in-blood-deliberate-demolition-of.html",
-      "bloc": "western",
-      "date": "2026-07-26",
-      "datetime": "2026-07-26T14:11:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Desperation continues after Memorandum of Understanding fails to bring order: US military pounds Iranian city of Ahvaz",
-      "summary": "Heavy explosions lit up the skies over Ahvaz on Friday as American bombers pounded Iranian cities for the 13th consecutive night, but as the US resumes their bombing campaign over Iranian skies, the real detonation may be happening inside the Pentagon’s war r…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-26-us-military-pounds-iranian-city-of-ahvaz.html",
-      "bloc": "western",
-      "date": "2026-07-26",
-      "datetime": "2026-07-26T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz Crisis Deepens as Oil Tops $100 a Barrel and Trump Warns Iran Over Tanker Attacks",
-      "summary": "Tanker traffic in the Strait of Hormuz has nearly stopped due to escalating attacks, causing global oil prices to surge. The ongoing conflict between the U.S., Israel, and Iran threatens global energy stability.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/strait-hormuz-tensions-tanker-attacks-1872945",
-      "bloc": "western",
-      "date": "2026-07-26",
-      "datetime": "2026-07-26T12:05:49Z",
+      "headline": "Oil Price Today (July 27): Crude oil dips 5%, below $95 as US pauses strikes on Iran. What are experts saying?",
+      "summary": "Brent crude futures dropped $4.89, or 5.05%, to $91.89, after briefly falling below the key $90 support level earlier in the session. US West Texas Intermediate crude stood at $84.64 a barrel, down $4.67, or 5.23%. The decline comes after crude prices surged …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-27-crude-oil-dips-5-below-95-as-us-pauses-strikes-on-iran-what-are-experts-saying/articleshow/132650946.cms",
+      "bloc": "regional",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T02:12:07Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Pakistan Warns of Military Response to Yemeni Blockade in Red Sea",
-      "summary": "Houthis Impose Maritime Embargo on Saudi Shipping The Ansarallah-led Yemeni Armed Forces, commonly known as the Houthis, declared a full maritime embargo against Saudi Arabia on July 20, according to a statement from military spokesman Yahya Saree. The announ…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-26-pakistan-warns-military-response-yemen-houthi-blockade.html",
+      "headline": "Red Sea Shipping Slows After Houthi Attack On Saudi Arabia",
+      "summary": "By Florence Tan SINGAPORE, July 27 (Reuters) – Ship traffic through Bab el-Mandeb fell on Sunday after Yemeni Houthis attacked Saudi oil installations along the Red Sea coast, while transit through the...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/red-sea-shipping-slows-after-houthi-attack-on-saudi-arabia/",
       "bloc": "western",
-      "date": "2026-07-26",
-      "datetime": "2026-07-26T06:00:00Z",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T01:58:25Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -191,18 +191,18 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "12 commercial vessels redirected, two 'non-compliant' ships disabled as US enforces full blockade against Iran: CENTCOM",
-      "summary": "US Central Command confirmed its naval blockade against Iran remains fully operational. Coalition forces redirected twelve commercial vessels attempting to breach the maritime perimeter. Two ships were disabled after failing to comply with orders and ignoring…",
+      "headline": "Red Sea shipping slumps after Houthi strikes on Saudi Arabia energy infrastructure",
+      "summary": "Ship traffic through Bab el-Mandeb declined significantly on Sunday. This occurred after Yemeni Houthis attacked Saudi oil installations along the Red Sea coast. Meanwhile, transit through the Strait of Hormuz stayed low over the weekend. Seven commodity vess…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/12-commercial-vessels-redirected-two-non-compliant-ships-disabled-as-us-enforces-full-blockade-against-iran-centcom/articleshow/132636278.cms",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/red-sea-shipping-slumps-after-houthi-strikes-on-saudi-arabia-energy-infrastructure/articleshow/132650447.cms",
       "bloc": "regional",
-      "date": "2026-07-26",
-      "datetime": "2026-07-26T04:27:12Z",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T00:53:39Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -217,18 +217,18 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "DEVELOPING: Houthis Target Saudi Aramco Oil Facilities as Trump Threatens “Major Military Punishment” for Houthi Agression",
-      "summary": "The Iran-backed Houthis in Yemen targeted Saudi Arabia’s Aramco oil company on Saturday with missiles and drones, marking a significant escalation in the second front of the ongoing Iran conflict. President Trump issued new warnings against Iran this week, th…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4389378/posts",
+      "headline": "Red Sea traffic slows after Houthi attack on Saudi Arabia",
+      "summary": "Ship traffic through Bab el-Mandeb has fallen after Yemeni Houthis attacked Saudi oil installations along the Red Sea coast.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/world/2026/0727/1585219-red-sea-traffic/",
       "bloc": "western",
-      "date": "2026-07-26",
-      "datetime": "2026-07-26T03:06:22Z",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T00:27:04Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -368,6 +368,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "MAS allows for stronger Singdollar on persistent Iran war-induced inflation risk",
+      "summary": "Singapore's central bank tightens monetary policy to strengthen the Singapore dollar against Iran war-induced inflation risks. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/mas-allows-for-stronger-singdollar-on-persistent-iran-war-induced-inflation-risk",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T00:24:01Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
+      "summary": "U.S. airlines are grappling with soaring jet fuel costs again after the return of hostilities in the Middle East shattered the three-week-long U.S.-Iran ‘deal to make a deal’ and sent Brent crude oil prices soaring past $100 per barrel again. The U.S. jet fue…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Jet-Fuel-Costs-Soar-as-Iran-War-Hits-Airlines-Again.html",
+      "bloc": "western",
+      "date": "2026-07-26",
+      "datetime": "2026-07-26T21:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Oil Market's Glut Narrative Just Blew Up",
       "summary": "Less than a month ago, analysts were warning of a looming glut of crude oil as tanker traffic via the Strait of Hormuz began to recover amid a U.S.-Iran ceasefire. Within days of these warnings, the ceasefire was a painful memory, missiles were flying again, …",
       "source": "OilPrice.com",
@@ -427,58 +479,6 @@
       "bloc": "western",
       "date": "2026-07-24",
       "datetime": "2026-07-24T12:18:30Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
-      "summary": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T11:37:58Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Sensex, Nifty decline for fifth straight session; Auto, metal stocks drag",
-      "summary": "Sensex, Nifty, Share Prices Highlights: Indian benchmark indices ended lower for a fifth straight session, with the Sensex falling 331 points and the Nifty losing 102 points, as concerns over US tariffs and West Asia tensions outweighed gains in IT stocks and…",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-24th-july-2026/article71257579.ece",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T10:52:16Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

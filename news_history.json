@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-29T08:46:11.512Z",
+  "updated": "2026-07-29T14:18:36.276Z",
   "retention_days": 30,
   "items": [
     {
@@ -15529,7 +15529,167 @@
       "_from": "newsapi",
       "first_seen": "2026-07-29T08:46:11.512Z",
       "run_id": "2026-07-29T08:46"
+    },
+    {
+      "headline": "Jordan Faces a Dilemma in Its Growing Role in the US-Iran War",
+      "summary": "Jordan has been a decades-long military and counterterrorism partner with the United States.",
+      "source": "Military.com",
+      "url": "https://military.com/jordan-faces-a-dilemma-in-its-growing-role-in-the-us-iran-war",
+      "bloc": "western",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T13:18:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-29T14:18:36.276Z",
+      "run_id": "2026-07-29T14:18"
+    },
+    {
+      "headline": "Red Sea Tanker Traffic Hits Multi-Month Low as Houthi Threat Holds",
+      "summary": "More than half a dozen empty supertankers are currently en route to Egypt’s Sidi Kerir port to pick up Saudi crude as the world’s top crude oil exporter is re-routing – again – its export tactics to avoid the new threat for the Middle East’s chokepoints, the …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Red-Sea-Tanker-Traffic-Hits-Multi-Month-Low-as-Houthi-Threat-Holds.html",
+      "bloc": "western",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T11:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-29T14:18:36.276Z",
+      "run_id": "2026-07-29T14:18"
+    },
+    {
+      "headline": "‘The UAE has been a fantastic investor’: Jeff Zucker hails UAE partnership after Banijay merger",
+      "summary": "In this week’s Fortune Gulf Brief.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/28/uae-fantastic-investor-jeff-zucker-hails-partnership-banijay-merger/",
+      "bloc": "western",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T09:46:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-29T14:18:36.276Z",
+      "run_id": "2026-07-29T14:18"
+    },
+    {
+      "headline": "Regime change? Inside Reza Pahlavi's faltering bid to lead Iran",
+      "summary": "Reza Pahlavi, the exiled son of Iran's last shah, is facing growing questions over his leadership ambitions despite years of campaigning for democratic change. A Reuters investigation finds waning donor confidence, opposition divisions and a lack of backing f…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/regime-change-inside-reza-pahlavis-faltering-bid-to-lead-iran/articleshow/132681493.cms",
+      "bloc": "regional",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T10:08:13Z",
+      "leaders": [
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran IRGC regime"
+      ],
+      "dimensions": [
+        "survival",
+        "accountability"
+      ],
+      "variable_key": "iranRegimeCohesion",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-29T14:18:36.276Z",
+      "run_id": "2026-07-29T14:18"
+    },
+    {
+      "headline": "Why Putin Will Escalate",
+      "summary": "The coming months will mark the most dangerous phase of Russia’s war in Ukraine.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/07/28/why-putin-will-escalate/",
+      "bloc": "western",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T11:59:22Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-29T14:18:36.276Z",
+      "run_id": "2026-07-29T14:18"
+    },
+    {
+      "headline": "Iran War: Despite Serious Damage to Saudi Oil Infrastructure and No Settlement in Sight, Oil Prices Drop; Netanyahu to Talk War with Trump",
+      "summary": "Today's Iran war news: The press and investors weirdly ignore serious damage to Saudi oil assets and instead trust the negotiations fairy.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-despite-serious-damage-to-saudi-oil-infrastructure-and-no-settlement-in-sight-oil-prices-drop-netanyahu-to-talk-war-with-trump.html",
+      "bloc": "western",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T10:57:34Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-29T14:18:36.276Z",
+      "run_id": "2026-07-29T14:18"
     }
   ],
-  "total_items_ever": 2821
+  "total_items_ever": 2827
 }

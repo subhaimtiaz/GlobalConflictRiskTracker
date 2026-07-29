@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-29T08:47:16.949Z",
+  "ts": "2026-07-29T14:19:42.014Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 87,
-    "oilStress": 32,
-    "updatedAt": "2026-07-29T08:47:16.949Z"
+    "oilPrice": 90,
+    "oilStress": 36,
+    "updatedAt": "2026-07-29T14:19:42.014Z"
   },
   "items": [
+    {
+      "headline": "Jordan Faces a Dilemma in Its Growing Role in the US-Iran War",
+      "summary": "Jordan has been a decades-long military and counterterrorism partner with the United States.",
+      "source": "Military.com",
+      "url": "https://military.com/jordan-faces-a-dilemma-in-its-growing-role-in-the-us-iran-war",
+      "bloc": "western",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T13:18:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump to host Netanyahu, Zelenskiy as Ukraine, Iran wars reach critical stages",
       "summary": "Relations with Zelenskiy have ‌warmed as Ukraine has blunted\nRussian advances, while Netanyahu arrives amid growing White\nHouse frustration over the lack of progress ​toward a broader\nsettlement in the Iran conflict",
@@ -118,6 +144,84 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Red Sea Tanker Traffic Hits Multi-Month Low as Houthi Threat Holds",
+      "summary": "More than half a dozen empty supertankers are currently en route to Egypt’s Sidi Kerir port to pick up Saudi crude as the world’s top crude oil exporter is re-routing – again – its export tactics to avoid the new threat for the Middle East’s chokepoints, the …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Red-Sea-Tanker-Traffic-Hits-Multi-Month-Low-as-Houthi-Threat-Holds.html",
+      "bloc": "western",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T11:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Tankers Divert to Egypt as Houthi Threat Upends Red Sea Trade",
+      "summary": "Empty supertankers are heading to Egypt’s Mediterranean port of Sidi Kerir to collect Saudi crude as observable traffic at the kingdom’s key Red Sea export hub dwindles following threats from Houthi militants. At least eight very large crude carriers are …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/28/879275.htm",
+      "bloc": "western",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T10:25:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "‘The UAE has been a fantastic investor’: Jeff Zucker hails UAE partnership after Banijay merger",
+      "summary": "In this week’s Fortune Gulf Brief.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/28/uae-fantastic-investor-jeff-zucker-hails-partnership-banijay-merger/",
+      "bloc": "western",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T09:46:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Strait of Hormuz Latest: Shipping Traffic Slowly Stirs as US and Iran Extend Pause for a Second Straight Day",
       "summary": "Maritime traffic in the Strait of Hormuz shows early signs of recovery as a pause in US-Iran hostilities enters its second day, though regional risks persist.",
       "source": "Ibtimes.com.au",
@@ -166,84 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Bab el-Mandeb shipping rises amid hopes of resolution in US-Iran war",
-      "summary": "By Mohi Narayan NEW DELHI, July 28 (Reuters) - The number of vessels passing through Bab el-Mandeb rose to 28 on Monday, a four-day high, while traffic throu...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/articles/bab-el-mandeb-shipping-rises-073038000.html",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T07:30:38Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tankers Divert to Egypt as Houthi Threat Upends Red Sea Trade",
-      "summary": "Empty supertankers are heading to Egypt’s Mediterranean port of Sidi Kerir to collect Saudi crude as observable traffic at the kingdom’s key Red Sea export hub dwindles following threats from Houthi militants.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/tankers-divert-to-egypt-as-houthi-threat-upends-red-sea-trade",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T06:54:57Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Arabia Weighs Higher Asia Crude Prices as Red Sea Shipping Costs Rise",
-      "summary": "Saudi Arabia may raise the price of the crude it ships to Asia via the Suez Canal, Reuters has reported, to reflect higher shipping costs due to the Houthi maritime blockade in the Red Sea. The price hike could reach $5 per barrel of crude. Citing unnamed sou…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Weighs-Higher-Asia-Crude-Prices-as-Red-Sea-Shipping-Costs-Rise.html",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T06:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -546,6 +572,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Regime change? Inside Reza Pahlavi's faltering bid to lead Iran",
+      "summary": "Reza Pahlavi, the exiled son of Iran's last shah, is facing growing questions over his leadership ambitions despite years of campaigning for democratic change. A Reuters investigation finds waning donor confidence, opposition divisions and a lack of backing f…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/regime-change-inside-reza-pahlavis-faltering-bid-to-lead-iran/articleshow/132681493.cms",
+      "bloc": "regional",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T10:08:13Z",
+      "leaders": [
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran IRGC regime"
+      ],
+      "dimensions": [
+        "survival",
+        "accountability"
+      ],
+      "variable_key": "iranRegimeCohesion",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The farce of Trump’s nuclear deal with Saudi Arabia",
       "summary": "The White House announced an agreement to supply nuclear material to Saudi Arabia, and then killed its own deal by linking it to normalization with Israel under Israeli pressure. But even if the deal fails, it will significantly impact Gulf politics.",
       "source": "Mondoweiss",
@@ -596,6 +646,52 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Why Putin Will Escalate",
+      "summary": "The coming months will mark the most dangerous phase of Russia’s war in Ukraine.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/07/28/why-putin-will-escalate/",
+      "bloc": "western",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T11:59:22Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran War: Despite Serious Damage to Saudi Oil Infrastructure and No Settlement in Sight, Oil Prices Drop; Netanyahu to Talk War with Trump",
+      "summary": "Today's Iran war news: The press and investors weirdly ignore serious damage to Saudi oil assets and instead trust the negotiations fairy.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-despite-serious-damage-to-saudi-oil-infrastructure-and-no-settlement-in-sight-oil-prices-drop-netanyahu-to-talk-war-with-trump.html",
+      "bloc": "western",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T10:57:34Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Russia pulled back from the Arctic, for now. NATO must act before those troops return",
       "summary": "Satellite imagery reveals Russia pulling air-defense systems from Arctic positions while building massive new bases near Finland and Norway's borders.",
       "source": "Fox News",
@@ -603,98 +699,6 @@
       "bloc": "western",
       "date": "2026-07-27",
       "datetime": "2026-07-27T09:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Pauses Iran Bombing Campaign As Saudi-Houthi Red Sea Front Erupts",
-      "summary": "Brent crude surged 27% over two weeks to settle at $96.78 a barrel on Friday, briefly breaching $100 this past week as traders priced in a higher war-risk premium into energy markets amid simultaneous chokepoint threats to the Strait of Hormuz and the souther…",
-      "source": "Shtfplan.com",
-      "url": "https://www.shtfplan.com/war/us-pauses-iran-bombing-campaign-as-saudi-houthi-red-sea-front-erupts",
-      "bloc": "western",
-      "date": "2026-07-25",
-      "datetime": "2026-07-25T17:30:41Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukrainian Drones Spark Fires At Russian Oil Refinery And Platform",
-      "summary": "By Bloomberg News Jul 25, 2026 (Bloomberg) –Fire broke out at the Tyumen oil refinery in Russia’s Ural region after a drone attack as Ukraine and Russia press intensifying strikes on...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/ukrainian-drones-spark-fires-at-russian-oil-refinery-and-platform/",
-      "bloc": "western",
-      "date": "2026-07-25",
-      "datetime": "2026-07-25T16:31:31Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Attack on holiday camp in Russian-held Ukraine kills 11",
-      "summary": "Moscow-installed officials say Ukrainian forces attacked holiday camps in the partly Russian-occupied Zaporizhzhia region overnight, killing 11 people and wounding 14.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-26/russian-held-ukrainian-holiday-camp-attacked/106958586",
-      "bloc": "western",
-      "date": "2026-07-25",
-      "datetime": "2026-07-25T14:46:19Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine Claims Strike On Russia-Iran Military Route As Kyiv Mourns Dead",
-      "summary": "President Volodymyr Zelenskyy said on July 25 that Ukrainian forces had achieved \"very good results\" in strikes in the Caspian Sea, including against vessels involved in transporting military cargo to Iran and a Russian warship.",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "url": "https://www.rferl.org/a/ukraine-claims-caspian-strike-russia-iran-military-route-kyiv-mourning/33812868.html",
-      "bloc": "western",
-      "date": "2026-07-25",
-      "datetime": "2026-07-25T13:32:07Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

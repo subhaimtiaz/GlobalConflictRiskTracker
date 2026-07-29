@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-28T19:38:46.731Z",
+  "ts": "2026-07-29T02:55:03.807Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 84,
-    "oilStress": 27,
-    "updatedAt": "2026-07-28T19:38:46.731Z"
+    "oilPrice": 87,
+    "oilStress": 32,
+    "updatedAt": "2026-07-29T02:55:03.807Z"
   },
   "items": [
     {
@@ -248,6 +248,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Summer School: Republicans' crusade to teach voters the 'New Math' on the 'commie caucus'",
+      "summary": "House Republicans hope Democrats' far-left candidates will help the GOP maintain its narrow House majority heading into the midterm elections.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/summer-school-republicans-crusade-teach-voters-new-math-commie-caucus",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T22:17:11Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "Trump Iran war"
+      ],
+      "dimensions": [
+        "accountability",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Trump critic Massie joins Democrats in unprecedented bid to sue White House over Iran war",
       "summary": "Thomas Massie accused President Trump and Secretary Hegseth of violating the War Powers Resolution, joining Democrats in a resolution to sue over the Iran war.",
       "source": "Fox News",
@@ -279,30 +303,6 @@
       "bloc": "western",
       "date": "2026-07-22",
       "datetime": "2026-07-22T01:24:47Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Trump Iran war"
-      ],
-      "dimensions": [
-        "accountability",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Mike Johnson Breaks With Trump On Iran War: ‘We’ve Got To Wrap It Up’",
-      "summary": "House Speaker Mike Johnson (R-LA) was asked during a Capitol Hill press conference on Tuesday at what point he will move to use Congressional power to check President Donald Trump’s war in Iran. Johnson pointedly ended his reply by saying “we’ve got to wrap i…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4388815/posts",
-      "bloc": "western",
-      "date": "2026-07-21",
-      "datetime": "2026-07-21T18:43:19Z",
       "leaders": [
         "Donald J. Trump"
       ],
@@ -392,10 +392,36 @@
       "_from": "newsapi"
     },
     {
+      "headline": "$100 Oil Puts Big Tech’s $725 Billion AI Bet at Risk",
+      "summary": "Crude oil prices are retreating after Brent hit $100 again last week as the United States and Iran took a break from hostilities over the weekend. Yet with the outcome of the war still highly uncertain, the outlook for stock markets has dimmed. Add to that Bi…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Big-Techs-725-Billion-AI-Bet-at-Risk.html",
+      "bloc": "western",
+      "date": "2026-07-27",
+      "datetime": "2026-07-27T23:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Current price of oil as of July 27, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-07-27-2026/",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-july-27-103525603.html",
       "bloc": "western",
       "date": "2026-07-27",
       "datetime": "2026-07-27T10:35:25Z",
@@ -451,58 +477,6 @@
       "bloc": "western",
       "date": "2026-07-27",
       "datetime": "2026-07-27T06:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why The US CAN'T Use Its Oil",
-      "summary": "Now, I finally understand about Oil, and why it's extracted in one country, and shipped to another, instead of being refined here in the US. This gvies the Big Picture like never before, for me.",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4389490/posts",
-      "bloc": "western",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T05:50:32Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "MAS allows for stronger Singdollar on persistent Iran war-induced inflation risk",
-      "summary": "Singapore's central bank tightens monetary policy to strengthen the Singapore dollar against Iran war-induced inflation risks. Read more at straitstimes.com. Read more at straitstimes.com.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/mas-allows-for-stronger-singdollar-on-persistent-iran-war-induced-inflation-risk",
-      "bloc": "western",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T00:24:01Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

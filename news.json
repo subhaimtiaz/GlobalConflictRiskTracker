@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-30T02:40:08.904Z",
+  "ts": "2026-07-30T08:33:23.035Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,19 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 90,
-    "oilStress": 36,
-    "updatedAt": "2026-07-30T02:40:08.904Z"
+    "oilPrice": 88,
+    "oilStress": 34,
+    "updatedAt": "2026-07-30T08:33:23.035Z"
   },
   "items": [
     {
-      "headline": "The U.S. Says It Thwarted An Iranian Missile Attack That Ended A Brief Pause In Fighting",
-      "summary": "The U.S. military says Iran has launched multiple ballistic missiles at American forces in the Middle East, shattering a brief pause in fighting as mediators tried to get both sides back to negotiations.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_6a694dc7e4b0fddbd7122958",
+      "headline": "US, Saudi forces strike Iran-backed groups in Iraq",
+      "summary": "US and Saudi warplanes carried out strikes on Tuesday against Iran-backed militants in Iraq who launched more than two dozen drone attacks in recent days, the US military said.\nThe post US, Saudi forces strike Iran-backed groups in Iraq appeared first on Vang…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-saudi-forces-strike-iran-backed-groups-in-iraq/",
       "bloc": "western",
       "date": "2026-07-29",
-      "datetime": "2026-07-29T00:53:32Z",
+      "datetime": "2026-07-29T07:46:03Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "We’re running out of ways to get oil out of the Middle East",
-      "summary": "There was a backup plan for getting oil out of the Middle East. We may need another one.  On July 20, the Iran-backed Yemeni rebel movement known as the Houthis declared a “blockade” against their long-time enemy Saudi Arabia, and a short time later attacked …",
-      "source": "Vox",
-      "url": "https://www.vox.com/politics/497014/houthis-saudi-iran-mandeb-hormuz-strait",
+      "headline": "Iran to get Chinese shoulder-launched missile systems in weeks: report",
+      "summary": "Iran needs to rearm after months of fighting in which the US and Israel have struck facilities linked to its missile, drone and air-defense programs.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/29/world-news/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks/",
       "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T22:41:35Z",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T06:46:33Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -61,84 +61,110 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Threatens to Seize Frozen Iranian Assets Over Ship Attacks",
+      "summary": "Trump’s Warning President Donald Trump announced on July 24 that the United States will use frozen Iranian assets to cover any damages to ships and cargo resulting from attacks in the Middle East, according to a post on Truth Social. Trump wrote that “from th…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-29-trump-threatens-seize-iranian-assets-ship-attacks.html",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Threatens Military Action Against Houthis, Iran Over Tanker Attacks",
+      "summary": "President Donald Trump said in a post on Truth Social on July 23, 2026, that he would target Yemen’s Houthis, officially known as Ansar Allah, and inflict “major military punishment” on Iran if more tankers are attacked in the Red Sea. The statement came afte…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-29-trump-threatens-military-action-against-houthis-iran.html",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "There Is No Oil Price",
+      "summary": "The Oil Primer, Midstream. Everything between the wellhead and the engine, who owns it, and where the war's money really landed.",
+      "source": "Substack.com",
+      "url": "https://tscsw.substack.com/p/there-is-no-oil-price",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T05:47:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Why The US And Iran Are Far From A Deal",
-      "summary": "After five months, Iran and the United States are far from resolving the conflict. A former national security official says the most likely outcome is a frozen conflict.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/michaelpdempsey/2026/07/28/why-the-us-and-iran-are-far-from-a-deal/",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T20:40:43Z",
+      "headline": "Ships transiting via Bab el-Mandeb strait at highest in a week, data shows",
+      "summary": "Thirty-seven commodity ships passed through the Bab el-Mandeb strait on Tuesday, a notable increase.  Only a few vessels transited the Strait of Hormuz, indicating a shift in shipping routes.  Yemen's Houthis claimed missile attacks on a Saudi oil tanker in t…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/ships-transiting-via-bab-el-mandeb-strait-at-highest-in-a-week-data-shows/articleshow/132699846.cms",
+      "bloc": "regional",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T04:12:06Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Fintan Drury: Israel’s forthcoming election offers little hope for Palestine",
-      "summary": "As Benjamin Netanyahu faces an uncertain political future, those seeking to replace him may compete by offering equally hardline policies, or worse.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/readme/netanyahu-and-trump-7115497-Jul2026/",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T19:00:36Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Jordan Faces a Dilemma in Its Growing Role in the US-Iran War",
-      "summary": "Jordan has been a decades-long military and counterterrorism partner with the United States.",
-      "source": "Military.com",
-      "url": "https://military.com/jordan-faces-a-dilemma-in-its-growing-role-in-the-us-iran-war",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T13:18:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -170,39 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "After days of calm, U.S. says it intercepted Iranian missile attack on American troops",
-      "summary": "Iran launched multiple ballistic missiles at American forces in the Middle East on Tuesday, shattering a brief pause in fighting as mediators tried to get both sides back to negotiations and toward a ceasefire, the U.S. military said.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/us-iran-attack-9.7288259",
+      "headline": "The U.S. Says It Thwarted An Iranian Missile Attack That Ended A Brief Pause In Fighting",
+      "summary": "The U.S. military says Iran has launched multiple ballistic missiles at American forces in the Middle East, shattering a brief pause in fighting as mediators tried to get both sides back to negotiations.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_6a694dc7e4b0fddbd7122958",
       "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T23:21:59Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Arabia reports another drone attack as Houthis say they turned back tanker",
-      "summary": "The U.S. military says Iran has launched multiple ballistic missiles at American forces in the Middle East, shattering a brief paus in fighting as mediators tried to get both sides back to negotiations. All Iranian missiles were successfully intercepted on Tu…",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/iran-war-us-trump-saudi-houthis-iraq-8d2ae29300a8dc5495a4ce56c5312bf1",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T22:33:57Z",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T00:53:32Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -270,6 +270,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
+      "summary": "New law enforcement operations could quickly escalate into a blockade of Taiwan, say analysts.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols",
+      "bloc": "regional",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T05:22:18Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Chinese ship shoots water cannon at Philippine vessel with CNN crew on board near flashpoint shoal",
       "summary": "Chinese ships fired water cannon at Philippine vessels, including one carrying a CNN crew, near a dangerous flashpoint in the South China Sea on Friday – the...",
       "source": "CNN",
@@ -289,6 +313,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Rupee's RBI-spurred rally faces twin headwinds of oil volatility, Fed uncertainty",
+      "summary": "The currency ‌has drawn support over the last three ​sessions from likely intervention by the Reserve Bank ⁠of India, which traders expect will continue to underpin the currency",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/forex/rupees-rbi-spurred-rally-faces-twin-headwinds-of-oil-volatility-fed-uncertainty/article71279665.ece",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T03:51:59Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -353,32 +403,6 @@
       "bloc": "western",
       "date": "2026-07-27",
       "datetime": "2026-07-27T23:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of July 27, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-july-27-103525603.html",
-      "bloc": "western",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T10:35:25Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -552,29 +576,6 @@
       "bloc": "western",
       "date": "2026-07-28",
       "datetime": "2026-07-28T10:57:34Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia pulled back from the Arctic, for now. NATO must act before those troops return",
-      "summary": "Satellite imagery reveals Russia pulling air-defense systems from Arctic positions while building massive new bases near Finland and Norway's borders.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/opinion/russia-pulled-back-arctic-now-nato-must-act-before-troops-return",
-      "bloc": "western",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T09:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

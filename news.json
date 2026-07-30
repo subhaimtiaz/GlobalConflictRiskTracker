@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-29T19:22:52.556Z",
+  "ts": "2026-07-30T02:40:08.904Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,88 @@
   },
   "live_variables": {
     "oilPrice": 90,
-    "oilStress": 37,
-    "updatedAt": "2026-07-29T19:22:52.556Z"
+    "oilStress": 36,
+    "updatedAt": "2026-07-30T02:40:08.904Z"
   },
   "items": [
+    {
+      "headline": "The U.S. Says It Thwarted An Iranian Missile Attack That Ended A Brief Pause In Fighting",
+      "summary": "The U.S. military says Iran has launched multiple ballistic missiles at American forces in the Middle East, shattering a brief pause in fighting as mediators tried to get both sides back to negotiations.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_6a694dc7e4b0fddbd7122958",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T00:53:32Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "We’re running out of ways to get oil out of the Middle East",
+      "summary": "There was a backup plan for getting oil out of the Middle East. We may need another one.  On July 20, the Iran-backed Yemeni rebel movement known as the Houthis declared a “blockade” against their long-time enemy Saudi Arabia, and a short time later attacked …",
+      "source": "Vox",
+      "url": "https://www.vox.com/politics/497014/houthis-saudi-iran-mandeb-hormuz-strait",
+      "bloc": "western",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T22:41:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why The US And Iran Are Far From A Deal",
+      "summary": "After five months, Iran and the United States are far from resolving the conflict. A former national security official says the most likely outcome is a frozen conflict.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/michaelpdempsey/2026/07/28/why-the-us-and-iran-are-far-from-a-deal/",
+      "bloc": "western",
+      "date": "2026-07-28",
+      "datetime": "2026-07-28T20:40:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Fintan Drury: Israel’s forthcoming election offers little hope for Palestine",
       "summary": "As Benjamin Netanyahu faces an uncertain political future, those seeking to replace him may compete by offering equally hardline policies, or worse.",
@@ -66,91 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump to host Netanyahu, Zelenskiy as Ukraine, Iran wars reach critical stages",
-      "summary": "Relations with Zelenskiy have ‌warmed as Ukraine has blunted\nRussian advances, while Netanyahu arrives amid growing White\nHouse frustration over the lack of progress ​toward a broader\nsettlement in the Iran conflict",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-to-host-netanyahu-zelenskiy-as-ukraine-iran-wars-reach-critical-stages/article71275647.ece",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T06:09:38Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Pentagon updates Iran war casualty database, adds more than 140 wounded, creates new category",
-      "summary": "The Pentagon updated its official war casualty database over the weekend, adding more than 140 wounded service members and introducing a new casualty category labeled “Overseas Operations” for personnel killed and wounded “starting July 7,” according to the D…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-28-pentagon-updates-iran-war-casualty-database.html",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Rapidly Rebuilds Military Sites Hit by U.S.-Israeli Strikes, Report Says",
-      "summary": "Iran has been rapidly rebuilding military sites damaged in U.S. and Israeli strikes, according to a new report based on satellite imagery reviewed by The Wall Street Journal and cited by The Times of Israel. [7] The report indicates that Tehran is restoring a…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-28-iran-rapidly-rebuilds-military-sites-hit-by-us.html",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthis Escalate Attacks on Saudi Arabia, Reportedly Fire Ballistic Missiles at Oil Tanker",
-      "summary": "The Iranian proxy terror group continues drone attacks on Saudi energy infrastructure.\nThe post Houthis Escalate Attacks on Saudi Arabia, Reportedly Fire Ballistic Missiles at Oil Tanker first appeared on Le·gal In·sur·rec·tion.",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/07/houthis-escalate-attacks-on-saudi-arabia-reportedly-fire-ballistic-missiles-at-oil-tanker/",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T18:30:57Z",
+      "headline": "US military shoots down Iranian ballistic missiles targeting its Middle East forces",
+      "summary": "US Iran war news: United States forces intercepted an Iranian ballistic missile attack targeting American troops.  US and Saudi Arabia forces then struck Iran-backed militia positions in Iraq.  These actions followed recent drone attacks and military escalati…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-military-shoots-down-iranian-ballistic-missiles-targeting-its-middle-east-forces/articleshow/132697119.cms",
+      "bloc": "regional",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T00:58:17Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,39 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
-      "summary": "DUBAI, July 28 (Reuters) - Oman has presented Iran with a plan backed by Gulf states to manage the Strait of Hormuz, including collecting voluntary fees for...",
-      "source": "Yahoo Entertainment",
-      "url": "https://uk.news.yahoo.com/gulf-states-back-plan-let-104804717.html",
+      "headline": "After days of calm, U.S. says it intercepted Iranian missile attack on American troops",
+      "summary": "Iran launched multiple ballistic missiles at American forces in the Middle East on Tuesday, shattering a brief pause in fighting as mediators tried to get both sides back to negotiations and toward a ceasefire, the U.S. military said.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/us-iran-attack-9.7288259",
       "bloc": "western",
       "date": "2026-07-28",
-      "datetime": "2026-07-28T17:57:12Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran threatens to block Hormuz route if Oman rejects terms",
-      "summary": "Iran's actions could destabilize global oil markets, heighten regional tensions, and challenge international maritime norms in the Strait of Hormuz.\nThe post Iran threatens to block Hormuz route if Oman rejects terms appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-threatens-to-block-hormuz-route-if-oman-rejects-terms/",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T17:19:15Z",
+      "datetime": "2026-07-28T23:21:59Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,39 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Red Sea Tanker Traffic Hits Multi-Month Low as Houthi Threat Holds",
-      "summary": "More than half a dozen empty supertankers are currently en route to Egypt’s Sidi Kerir port to pick up Saudi crude as the world’s top crude oil exporter is re-routing – again – its export tactics to avoid the new threat for the Middle East’s chokepoints, the …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Red-Sea-Tanker-Traffic-Hits-Multi-Month-Low-as-Houthi-Threat-Holds.html",
+      "headline": "Saudi Arabia reports another drone attack as Houthis say they turned back tanker",
+      "summary": "The U.S. military says Iran has launched multiple ballistic missiles at American forces in the Middle East, shattering a brief paus in fighting as mediators tried to get both sides back to negotiations. All Iranian missiles were successfully intercepted on Tu…",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-war-us-trump-saudi-houthis-iraq-8d2ae29300a8dc5495a4ce56c5312bf1",
       "bloc": "western",
       "date": "2026-07-28",
-      "datetime": "2026-07-28T11:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tankers Divert to Egypt as Houthi Threat Upends Red Sea Trade",
-      "summary": "Empty supertankers are heading to Egypt’s Mediterranean port of Sidi Kerir to collect Saudi crude as observable traffic at the kingdom’s key Red Sea export hub dwindles following threats from Houthi militants. At least eight very large crude carriers are …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/07/28/879275.htm",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T10:25:22Z",
+      "datetime": "2026-07-28T22:33:57Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -322,30 +270,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "'Wrap It Up': Mike Johnson Makes Stunning Comments On Future Of Iran War",
-      "summary": "“I think we need to bring it to a resolution,” Speaker Mike Johnson (R-La.) said.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/mike-johnson-iran-war-donald-trump_n_6a5ffd6fe4b06bbe43f4fb35",
-      "bloc": "western",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T01:24:47Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Trump Iran war"
-      ],
-      "dimensions": [
-        "accountability",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Chinese ship shoots water cannon at Philippine vessel with CNN crew on board near flashpoint shoal",
       "summary": "Chinese ships fired water cannon at Philippine vessels, including one carrying a CNN crew, near a dangerous flashpoint in the South China Sea on Friday – the...",
       "source": "CNN",
@@ -353,54 +277,6 @@
       "bloc": "western",
       "date": "2026-07-24",
       "datetime": "2026-07-24T09:19:41Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Rubio discusses Xi’s potential US visit with China’s Wang Yi",
-      "summary": "Rubio discusses Xi's potential US visit with Wang Yi. Xi Jinping visit to US before 2027 at 92.5% YES.\nThe post Rubio discusses Xi’s potential US visit with China’s Wang Yi appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/rubio-discusses-xis-potential-us-visit-with-chinas-wang-yi/",
-      "bloc": "western",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T09:30:56Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China is building a massive ship that should scare Americans about the future",
-      "summary": "A massive replenishment ship near Guangzhou reveals China's strategy to sustain carrier groups far from home amid ongoing Taiwan tensions.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/opinion/china-building-massive-ship-scare-americans-future",
-      "bloc": "western",
-      "date": "2026-07-22",
-      "datetime": "2026-07-22T09:00:24Z",
       "leaders": [
         "Xi Jinping"
       ],

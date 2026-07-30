@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-30T08:33:23.035Z",
+  "ts": "2026-07-30T14:10:43.989Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 88,
-    "oilStress": 34,
-    "updatedAt": "2026-07-30T08:33:23.035Z"
+    "oilPrice": 90,
+    "oilStress": 36,
+    "updatedAt": "2026-07-30T14:10:43.989Z"
   },
   "items": [
+    {
+      "headline": "Iran War: Iran Hits US Base in Jordan After US-Saudi Strike on Iraqi Militia",
+      "summary": "Today's Iran war news. So much for that pause. Iran hit the US base in Jordan because provocation as Netanyahu pushes for bigger US strikes.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-iran-hits-us-base-in-jordan-after-us-saudi-strike-on-iraqi-militia.html",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T09:09:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US, Saudi forces strike Iran-backed groups in Iraq",
       "summary": "US and Saudi warplanes carried out strikes on Tuesday against Iran-backed militants in Iraq who launched more than two dozen drone attacks in recent days, the US military said.\nThe post US, Saudi forces strike Iran-backed groups in Iraq appeared first on Vang…",
@@ -118,65 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "There Is No Oil Price",
-      "summary": "The Oil Primer, Midstream. Everything between the wellhead and the engine, who owns it, and where the war's money really landed.",
-      "source": "Substack.com",
-      "url": "https://tscsw.substack.com/p/there-is-no-oil-price",
+      "headline": "Jordan intercepts Iranian missiles as U.S., Saudi Arabia target militias in Iraq",
+      "summary": "Jordan intercepted missiles launched from Iran early Wednesday, hours after the U.S. military said it knocked down another Iranian barrage launched against American forces in the Middle East, ending a brief pause in fighting between Tehran and Washington.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/iran-us-war-middle-east-9.7288672",
       "bloc": "western",
       "date": "2026-07-29",
-      "datetime": "2026-07-29T05:47:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ships transiting via Bab el-Mandeb strait at highest in a week, data shows",
-      "summary": "Thirty-seven commodity ships passed through the Bab el-Mandeb strait on Tuesday, a notable increase.  Only a few vessels transited the Strait of Hormuz, indicating a shift in shipping routes.  Yemen's Houthis claimed missile attacks on a Saudi oil tanker in t…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/ships-transiting-via-bab-el-mandeb-strait-at-highest-in-a-week-data-shows/articleshow/132699846.cms",
-      "bloc": "regional",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T04:12:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US military shoots down Iranian ballistic missiles targeting its Middle East forces",
-      "summary": "US Iran war news: United States forces intercepted an Iranian ballistic missile attack targeting American troops.  US and Saudi Arabia forces then struck Iran-backed militia positions in Iraq.  These actions followed recent drone attacks and military escalati…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-military-shoots-down-iranian-ballistic-missiles-targeting-its-middle-east-forces/articleshow/132697119.cms",
-      "bloc": "regional",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T00:58:17Z",
+      "datetime": "2026-07-29T13:13:53Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The U.S. Says It Thwarted An Iranian Missile Attack That Ended A Brief Pause In Fighting",
-      "summary": "The U.S. military says Iran has launched multiple ballistic missiles at American forces in the Middle East, shattering a brief pause in fighting as mediators tried to get both sides back to negotiations.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_6a694dc7e4b0fddbd7122958",
+      "headline": "Houthis consider Red Sea toll for ships in echo of Iran's Strait of Hormuz demands - as oil prices surge 5% and US ceasefire crumbles",
+      "summary": "Yemen's Houthi group is considering imposing fees on commercial ships sailing through the southern Red Sea.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16013591/Houthis-consider-Red-Sea-toll-ships-echo-Irans-Strait-Hormuz-demands-oil-prices-surge-5-US-ceasefire-crumbles.html",
       "bloc": "western",
       "date": "2026-07-29",
-      "datetime": "2026-07-29T00:53:32Z",
+      "datetime": "2026-07-29T12:51:22Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -217,7 +191,85 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Yemen’s Houthis Consider Imposing Fees on Ships Sailing Through Red Sea: Sources",
+      "summary": "Yemen’s Houthi group is considering imposing fees on commercial ships sailing through the southern Red Sea, a week after declaring a naval blockade on Saudi Arabia, regional sources with knowledge of the matter told Reuters. The Iran-aligned Houthis on July …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/29/879298.htm",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T12:33:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Yemen’s Houthis reportedly considering fees for ships sailing through Red Sea",
+      "summary": "Yemen's Houthi group is considering imposing fees on commercial ships sailing through the southern Red Sea, a week after declaring a naval blockade on Saudi Arabia, sources say.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/29/world-news/yemens-houthis-considering-fees-for-ships-sailing-through-red-sea-sources-say/",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T12:13:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Yemen's Houthis considering fees for ships sailing through Red Sea, sources say",
+      "summary": "Yemen's Houthi faction is exploring the potential of levying fees on maritime traffic in the southern Red Sea. This fee proposal emerged from discussions between Iranian officials and Houthi delegates. Interestingly, Chinese vessels are set to be exempt from …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/yemens-houthis-considering-fees-for-ships-sailing-through-red-sea-sources-say/articleshow/132709209.cms",
+      "bloc": "regional",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T10:31:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -318,6 +370,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Sensex today | Stock Market Highlights: Sensex rises 888 pts to close at 77,654, Nifty ends at 24,250; Hindustan Unilever, Infosys top gainers",
+      "summary": "Sensex Today, Nifty 50 | Stock Market Highlights: Find here all the key highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 29th July 2026.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-29-july-2026/article71276758.ece",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T10:58:52Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "There Is No Oil Price",
+      "summary": "The Oil Primer, Midstream. Everything between the wellhead and the engine, who owns it, and where the war's money really landed.",
+      "source": "Substack.com",
+      "url": "https://tscsw.substack.com/p/there-is-no-oil-price",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T05:47:01Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Rupee's RBI-spurred rally faces twin headwinds of oil volatility, Fed uncertainty",
       "summary": "The currency ‌has drawn support over the last three ​sessions from likely intervention by the Reserve Bank ⁠of India, which traders expect will continue to underpin the currency",
       "source": "BusinessLine",
@@ -377,32 +481,6 @@
       "bloc": "western",
       "date": "2026-07-28",
       "datetime": "2026-07-28T06:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "$100 Oil Puts Big Tech’s $725 Billion AI Bet at Risk",
-      "summary": "Crude oil prices are retreating after Brent hit $100 again last week as the United States and Iran took a break from hostilities over the weekend. Yet with the outcome of the war still highly uncertain, the outlook for stock markets has dimmed. Add to that Bi…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Big-Techs-725-Billion-AI-Bet-at-Risk.html",
-      "bloc": "western",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T23:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -553,29 +631,6 @@
       "bloc": "western",
       "date": "2026-07-28",
       "datetime": "2026-07-28T11:59:22Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Despite Serious Damage to Saudi Oil Infrastructure and No Settlement in Sight, Oil Prices Drop; Netanyahu to Talk War with Trump",
-      "summary": "Today's Iran war news: The press and investors weirdly ignore serious damage to Saudi oil assets and instead trust the negotiations fairy.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-despite-serious-damage-to-saudi-oil-infrastructure-and-no-settlement-in-sight-oil-prices-drop-netanyahu-to-talk-war-with-trump.html",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T10:57:34Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

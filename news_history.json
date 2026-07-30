@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-30T14:09:38.814Z",
+  "updated": "2026-07-30T19:38:05.637Z",
   "retention_days": 30,
   "items": [
     {
@@ -15868,7 +15868,89 @@
       "_from": "newsapi",
       "first_seen": "2026-07-30T14:09:38.814Z",
       "run_id": "2026-07-30T14:09"
+    },
+    {
+      "headline": "Trump Keeps Claiming Iran Is Desperate For A Deal Weeks After Explaining Why It's Not",
+      "summary": "The “dealmaker-in-chief” told the world last month how close the economy is to collapse if the Strait of Hormuz remains closed, giving Iran plenty of incentive not to give in.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-iran-not-desperate_n_6a67a8d9e4b00feba846bc96",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T18:04:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-30T19:38:05.637Z",
+      "run_id": "2026-07-30T19:38"
+    },
+    {
+      "headline": "Ships passing through Bab el-Mandeb reach one-week high",
+      "summary": "The number of ships transiting the Bab el-Mandeb Strait on Tuesday reached ​the highest level since July 19, preliminary shipping data showed on...",
+      "source": "Daily Sabah",
+      "url": "https://www.dailysabah.com/business/economy/ships-passing-through-bab-el-mandeb-reach-one-week-high",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T15:15:37Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-30T19:38:05.637Z",
+      "run_id": "2026-07-30T19:38"
+    },
+    {
+      "headline": "China Moves to Lock in a New Edge on Taiwan Before the Next Trump-Xi Summit",
+      "summary": "The China Coast Guard has apparently established a regular presence in the waters east of Taiwan, asserting Beijing’s jurisdictional claim.",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/07/china-moves-to-lock-in-a-new-edge-on-taiwan-before-the-next-trump-xi-summit/",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T14:19:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-07-30T19:38:05.637Z",
+      "run_id": "2026-07-30T19:38"
     }
   ],
-  "total_items_ever": 2852
+  "total_items_ever": 2855
 }

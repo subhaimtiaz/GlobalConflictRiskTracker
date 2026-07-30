@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-30T14:10:43.989Z",
+  "ts": "2026-07-30T19:39:10.820Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 90,
-    "oilStress": 36,
-    "updatedAt": "2026-07-30T14:10:43.989Z"
+    "oilPrice": 89,
+    "oilStress": 35,
+    "updatedAt": "2026-07-30T19:39:10.820Z"
   },
   "items": [
+    {
+      "headline": "Trump Keeps Claiming Iran Is Desperate For A Deal Weeks After Explaining Why It's Not",
+      "summary": "The “dealmaker-in-chief” told the world last month how close the economy is to collapse if the Strait of Hormuz remains closed, giving Iran plenty of incentive not to give in.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-iran-not-desperate_n_6a67a8d9e4b00feba846bc96",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T18:04:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran War: Iran Hits US Base in Jordan After US-Saudi Strike on Iraqi Militia",
       "summary": "Today's Iran war news. So much for that pause. Iran hit the US base in Jordan because provocation as Netanyahu pushes for bigger US strikes.",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Threatens Military Action Against Houthis, Iran Over Tanker Attacks",
-      "summary": "President Donald Trump said in a post on Truth Social on July 23, 2026, that he would target Yemen’s Houthis, officially known as Ansar Allah, and inflict “major military punishment” on Iran if more tankers are attacked in the Red Sea. The statement came afte…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-29-trump-threatens-military-action-against-houthis-iran.html",
+      "headline": "Ships passing through Bab el-Mandeb reach one-week high",
+      "summary": "The number of ships transiting the Bab el-Mandeb Strait on Tuesday reached ​the highest level since July 19, preliminary shipping data showed on...",
+      "source": "Daily Sabah",
+      "url": "https://www.dailysabah.com/business/economy/ships-passing-through-bab-el-mandeb-reach-one-week-high",
       "bloc": "western",
       "date": "2026-07-29",
-      "datetime": "2026-07-29T06:00:00Z",
+      "datetime": "2026-07-29T15:15:37Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Yemen's Houthis considering fees for ships sailing through Red Sea, sources say",
-      "summary": "Yemen's Houthi faction is exploring the potential of levying fees on maritime traffic in the southern Red Sea. This fee proposal emerged from discussions between Iranian officials and Houthi delegates. Interestingly, Chinese vessels are set to be exempt from …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/yemens-houthis-considering-fees-for-ships-sailing-through-red-sea-sources-say/articleshow/132709209.cms",
-      "bloc": "regional",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T10:31:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Summer School: Republicans' crusade to teach voters the 'New Math' on the 'commie caucus'",
       "summary": "House Republicans hope Democrats' far-left candidates will help the GOP maintain its narrow House majority heading into the midterm elections.",
       "source": "Fox News",
@@ -313,6 +313,30 @@
       ],
       "dimensions": [
         "accountability",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "China Moves to Lock in a New Edge on Taiwan Before the Next Trump-Xi Summit",
+      "summary": "The China Coast Guard has apparently established a regular presence in the waters east of Taiwan, asserting Beijing’s jurisdictional claim.",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/07/china-moves-to-lock-in-a-new-edge-on-taiwan-before-the-next-trump-xi-summit/",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T14:19:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
         "impulsivity"
       ],
       "variable_key": null,

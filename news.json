@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-31T14:16:30.119Z",
+  "ts": "2026-07-31T19:40:18.501Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 90,
     "oilStress": 37,
-    "updatedAt": "2026-07-31T14:16:30.119Z"
+    "updatedAt": "2026-07-31T19:40:18.501Z"
   },
   "items": [
     {
@@ -118,28 +118,80 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump says US to hit Iran hard",
-      "summary": "US President Donald Trump vowed to hit back hard at Iran after it attacked US bases in Jordan on Wednesday, as the Middle East war reignited and again drew in the Islamic republic's proxies.\nThe post Trump says US to hit Iran hard appeared first on Vanguard N…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/trump-says-us-to-hit-iran-hard-2/",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T22:21:46Z",
+      "headline": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict",
+      "summary": "The United States and Iran exchanged missile strikes, escalating regional conflict. Jordan and Kuwait reported intercepting Iranian missiles and a deadly strike respectively. Drone attacks caused fires on ships at an Egyptian port this week. The ongoing war h…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-and-iran-trade-missile-barrages-as-hopes-dim-for-a-quick-resolution-to-the-five-month-conflict/articleshow/132745260.cms",
+      "bloc": "regional",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T16:20:09Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "CENTCOM rebuts Iranian claims: Strait of Hormuz remains open, no US aircraft lost",
+      "summary": "US Central Command dismisses what it calls \"false claims\" by the IRGC, saying commercial shipping remains protected, no American aircraft were damaged, and the U.S. naval blockade remains fully in effect.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431017",
+      "bloc": "western",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T15:40:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Suspected Iranian Drone Hits U.S.-Owned Gas Tanker in Egypt",
+      "summary": "\"Iranian state television had identified (Egyptian port of) Damietta as a possible target.\" \nThe post Suspected Iranian Drone Hits U.S.-Owned Gas Tanker in Egypt first appeared on Le·gal In·sur·rec·tion.",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2026/07/suspected-iranian-drone-hits-u-s-owned-gas-tanker-in-egypt/",
+      "bloc": "western",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T15:17:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -177,84 +229,6 @@
       "bloc": "regional",
       "date": "2026-07-30",
       "datetime": "2026-07-30T12:06:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Drone Strike at Egypt’s Damietta Port Raises New Security Threat Near Suez",
-      "summary": "A drone strike on gas vessels in Egypt’s Mediterranean port of Damietta signaled a potential new front in the U.S.-Iran war, raising the prospect of threats to navigation through the Suez Canal, a last remaining safe export route for Saudi …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/07/30/879637.htm",
-      "bloc": "western",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T11:30:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Kuwaiti worker killed as U.S.-Iran conflict widens",
-      "summary": "An Iranian strike hit a Chinese firm's building in northern Kuwait Thursday morning, severely damaging the structure and killing a worker, Kuwait's military said, hours after Jordan's air defences shot down five missiles launched from Iran.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/iran-war-us-saudi-iraq-9.7290235",
-      "bloc": "western",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T10:52:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
-      "summary": "The alliance aims to defend shipping from attacks by Iran-backed Houthis in Yemen.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea",
-      "bloc": "regional",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T10:18:53Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

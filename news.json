@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-31T08:55:28.687Z",
+  "ts": "2026-07-31T14:16:30.119Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 88,
-    "oilStress": 33,
-    "updatedAt": "2026-07-31T08:55:28.687Z"
+    "oilPrice": 90,
+    "oilStress": 37,
+    "updatedAt": "2026-07-31T14:16:30.119Z"
   },
   "items": [
+    {
+      "headline": "Iran War: Jordan Strike Shows Iran Intensifying War to Exhaust US Economy and Military; Trump Takes Bait by Retaliating",
+      "summary": "Today's Iran war news: Iran is trying to deke Trump into more energy and munitions depleting action. He seems to be falling into the trap.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-jordan-strike-shows-iran-intensifying-war-to-exhaust-us-economy-and-military-trump-takes-bait-by-retaliating.html",
+      "bloc": "western",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T09:15:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Qatar Sends First LNG Cargo Through Hormuz Since Tanker Attack",
       "summary": "QatarEnergy has successfully sent an LNG cargo via the Strait of Hormuz, three weeks after one of its LNG carriers was struck in the waterway, Bloomberg has reported, noting that the vessel had idled in the strait since early July but crossed it with its geol…",
@@ -118,39 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Keeps Claiming Iran Is Desperate For A Deal Weeks After Explaining Why It's Not",
-      "summary": "The “dealmaker-in-chief” told the world last month how close the economy is to collapse if the Strait of Hormuz remains closed, giving Iran plenty of incentive not to give in.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-iran-not-desperate_n_6a67a8d9e4b00feba846bc96",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T18:04:55Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Egypt is dragged into Middle East war as drone hits US gas tanker at Mediterranean port - a day after Saudi Arabia joined American strikes in Iraq",
-      "summary": "Egypt has been dragged into the Middle East war after drones hit a US-owned gas storage tanker at a Mediterranean port.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16015793/Egypt-dragged-Middle-East-war-drone-hits-US-gas-tanker-Mediterranean-port-day-Saudi-Arabia-joined-American-strikes-Iraq.html",
+      "headline": "The US and Iran Trade Missile Barrages as Hopes Dim for a Quick Resolution",
+      "summary": "After a brief respite, the risk of a return to all-out war emerged once more, with the fighting threatening to engulf even more countries.",
+      "source": "Military.com",
+      "url": "https://military.com/the-us-and-iran-trade-missile-barrages-as-hopes-dim-for-a-quick-resolution",
       "bloc": "western",
       "date": "2026-07-30",
-      "datetime": "2026-07-30T08:21:01Z",
+      "datetime": "2026-07-30T13:23:44Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Houthis aim for Red Sea Tolls, May have hit Ship in Egypt",
-      "summary": "The Houthis who control 80% of the Yemeni population are studying a plan to collect tolls from ships on the Red Sea transiting the Bab al-Mandeb",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/07/houthis-tolls-egypt.html",
-      "bloc": "western",
+      "headline": "Pakistan 'doing its utmost' to bring US and Iran back to negotiating table: Foreign Office",
+      "summary": "Pakistan is actively working to bring the US and Iran back to the negotiating table.  The nation supports dialogue and diplomacy as the only viable path forward.  Regional security remains a significant concern despite a recent lull in hostilities.  Both nati…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistans-diplomatic-efforts-to-restore-us-iran-negotiations-amid-rising-tensions/articleshow/132739420.cms",
+      "bloc": "regional",
       "date": "2026-07-30",
-      "datetime": "2026-07-30T04:15:40Z",
+      "datetime": "2026-07-30T12:06:45Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "U.S. Launches Strikes On Iranian Targets A Day After It Foiled Missile Attack On American Forces",
-      "summary": "The U.S. military says it has completed what it describes as “a heavy wave of strikes against Iran” conducted in response to an earlier Iranian missile attack on a U.S. base in Jordan.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/us-iran-strikes_n_6a6ab6b5e4b0fddbd71302f9",
+      "headline": "Drone Strike at Egypt’s Damietta Port Raises New Security Threat Near Suez",
+      "summary": "A drone strike on gas vessels in Egypt’s Mediterranean port of Damietta signaled a potential new front in the U.S.-Iran war, raising the prospect of threats to navigation through the Suez Canal, a last remaining safe export route for Saudi …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/30/879637.htm",
       "bloc": "western",
       "date": "2026-07-30",
-      "datetime": "2026-07-30T02:35:05Z",
+      "datetime": "2026-07-30T11:30:37Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,13 +222,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Brief pause in Iran war ends with new attacks in Iraq and Egypt",
-      "summary": "The brief pause in the war with Iran appears to be over. President Trump used blunt language to threaten Iran with further strikes in response to new Iranian attacks on a U.S. base in Jordan. The war also appears to be spreading, with a new explosion reported…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/brief-pause-in-iran-war-ends-with-new-attacks-in-iraq-and-egypt",
+      "headline": "Kuwaiti worker killed as U.S.-Iran conflict widens",
+      "summary": "An Iranian strike hit a Chinese firm's building in northern Kuwait Thursday morning, severely damaging the structure and killing a worker, Kuwait's military said, hours after Jordan's air defences shot down five missiles launched from Iran.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/iran-war-us-saudi-iraq-9.7290235",
       "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T22:50:10Z",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T10:52:15Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -243,18 +243,18 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Ships passing through Bab el-Mandeb reach one-week high",
-      "summary": "The number of ships transiting the Bab el-Mandeb Strait on Tuesday reached ​the highest level since July 19, preliminary shipping data showed on...",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/business/economy/ships-passing-through-bab-el-mandeb-reach-one-week-high",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T15:15:37Z",
+      "headline": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
+      "summary": "The alliance aims to defend shipping from attacks by Iran-backed Houthis in Yemen.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea",
+      "bloc": "regional",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T10:18:53Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -668,6 +668,29 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How Vladimir Putin’s refinery dream became a target for Ukraine",
+      "summary": "Damage to Russian refineries still visible from space months after strikes",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/europe/2026/07/30/how-vladimir-putins-refinery-dream-became-a-target-for-ukraine/",
+      "bloc": "western",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T11:53:15Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

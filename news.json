@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-30T19:39:10.820Z",
+  "ts": "2026-07-31T03:21:21.113Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 89,
-    "oilStress": 35,
-    "updatedAt": "2026-07-30T19:39:10.820Z"
+    "oilPrice": 86,
+    "oilStress": 30,
+    "updatedAt": "2026-07-31T03:21:21.113Z"
   },
   "items": [
+    {
+      "headline": "Trump says US to hit Iran hard",
+      "summary": "US President Donald Trump vowed to hit back hard at Iran after it attacked US bases in Jordan on Wednesday, as the Middle East war reignited and again drew in the Islamic republic's proxies.\nThe post Trump says US to hit Iran hard appeared first on Vanguard N…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/trump-says-us-to-hit-iran-hard-2/",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T22:21:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump Keeps Claiming Iran Is Desperate For A Deal Weeks After Explaining Why It's Not",
       "summary": "The “dealmaker-in-chief” told the world last month how close the economy is to collapse if the Strait of Hormuz remains closed, giving Iran plenty of incentive not to give in.",
@@ -118,27 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Threatens to Seize Frozen Iranian Assets Over Ship Attacks",
-      "summary": "Trump’s Warning President Donald Trump announced on July 24 that the United States will use frozen Iranian assets to cover any damages to ships and cargo resulting from attacks in the Middle East, according to a post on Truth Social. Trump wrote that “from th…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-29-trump-threatens-seize-iranian-assets-ship-attacks.html",
+      "headline": "U.S. Launches Strikes On Iranian Targets A Day After It Foiled Missile Attack On American Forces",
+      "summary": "The U.S. military says it has completed what it describes as “a heavy wave of strikes against Iran” conducted in response to an earlier Iranian missile attack on a U.S. base in Jordan.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/us-iran-strikes_n_6a6ab6b5e4b0fddbd71302f9",
       "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T06:00:00Z",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T02:35:05Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Brief pause in Iran war ends with new attacks in Iraq and Egypt",
+      "summary": "The brief pause in the war with Iran appears to be over. President Trump used blunt language to threaten Iran with further strikes in response to new Iranian attacks on a U.S. base in Jordan. The war also appears to be spreading, with a new explosion reported…",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/show/brief-pause-in-iran-war-ends-with-new-attacks-in-iraq-and-egypt",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T22:50:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
@@ -222,58 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Yemen’s Houthis Consider Imposing Fees on Ships Sailing Through Red Sea: Sources",
-      "summary": "Yemen’s Houthi group is considering imposing fees on commercial ships sailing through the southern Red Sea, a week after declaring a naval blockade on Saudi Arabia, regional sources with knowledge of the matter told Reuters. The Iran-aligned Houthis on July …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/07/29/879298.htm",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T12:33:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Yemen’s Houthis reportedly considering fees for ships sailing through Red Sea",
-      "summary": "Yemen's Houthi group is considering imposing fees on commercial ships sailing through the southern Red Sea, a week after declaring a naval blockade on Saudi Arabia, sources say.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/29/world-news/yemens-houthis-considering-fees-for-ships-sailing-through-red-sea-sources-say/",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T12:13:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Summer School: Republicans' crusade to teach voters the 'New Math' on the 'commie caucus'",
       "summary": "House Republicans hope Democrats' far-left candidates will help the GOP maintain its narrow House majority heading into the midterm elections.",
       "source": "Fox News",
@@ -313,6 +313,30 @@
       ],
       "dimensions": [
         "accountability",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "China Calls It Waste Paper. The Philippines' Win Still Sets The Rules",
+      "summary": "China calls the 2016 South China Sea arbitration waste paper. Ten years on, the Philippines' award still sets the rules for diplomacy—or conflict—in the region.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/jillgoldenziel/2026/07/29/china-calls-it-waste-paper-the-philippines-win-still-sets-the-rules/",
+      "bloc": "western",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T01:45:14Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
         "impulsivity"
       ],
       "variable_key": null,
@@ -549,31 +573,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The missing half of mediation",
-      "summary": "The future of diplomacy between the US and Iran depends on giving mediators the backing needed to make agreements stick.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/opinions/2026/7/23/the-missing-half-of-mediation",
-      "bloc": "regional",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T16:08:54Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Regime change? Inside Reza Pahlavi's faltering bid to lead Iran",
       "summary": "Reza Pahlavi, the exiled son of Iran's last shah, is facing growing questions over his leadership ambitions despite years of campaigning for democratic change. A Reuters investigation finds waning donor confidence, opposition divisions and a lack of backing f…",
       "source": "The Times of India",
@@ -666,28 +665,6 @@
       ],
       "variable_key": null,
       "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Report: B-1 Bombers Deployed as U.S. Intensifies Iran Strikes",
-      "summary": "Axios: \"Using B-1 bombers, which can carry two dozen 2,000-lb. bombs or dozens of cruise missiles, signaled a significant escalation and expansion of the U.S. military campaign.\"\nThe post Report: B-1 Bombers Deployed as U.S. Intensifies Iran Strikes first app…",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/07/report-b-1-bombers-deployed-as-u-s-intensifies-iran-strikes/",
-      "bloc": "western",
-      "date": "2026-07-23",
-      "datetime": "2026-07-23T11:00:32Z",
-      "leaders": [],
-      "watch_terms": [
-        "airstrike missile drone"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"

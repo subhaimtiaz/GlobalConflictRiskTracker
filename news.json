@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-31T03:21:21.113Z",
+  "ts": "2026-07-31T08:55:28.687Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 86,
-    "oilStress": 30,
-    "updatedAt": "2026-07-31T03:21:21.113Z"
+    "oilPrice": 88,
+    "oilStress": 33,
+    "updatedAt": "2026-07-31T08:55:28.687Z"
   },
   "items": [
+    {
+      "headline": "Qatar Sends First LNG Cargo Through Hormuz Since Tanker Attack",
+      "summary": "QatarEnergy has successfully sent an LNG cargo via the Strait of Hormuz, three weeks after one of its LNG carriers was struck in the waterway, Bloomberg has reported, noting that the vessel had idled in the strait since early July but crossed it with its geol…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Sends-First-LNG-Cargo-Through-Hormuz-Since-Tanker-Attack.html",
+      "bloc": "western",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T07:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Erects Billboard Threatening Trump Amid Ongoing Tensions",
+      "summary": "A new billboard in Tehran shows Donald Trump being strangled, with the English text “Revenge is inevitable,” according to a report from AFP via Getty. The billboard, located on Jomhouri Street, is the latest in a series of graphic displays by Iranian authorit…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-30-iran-erects-billboard-threatening-trump-amid-ongoing-tensions.html",
+      "bloc": "western",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US military completes 'heavy wave' of strikes on Iran after American bases in Jordan targeted",
+      "summary": "Trump had vowed to hit Iran ‘hard’ after Tehran launched missiles at Jordan, its first regional strike in days.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/us-military-completes-heavy-wave-of-strikes-on-iran-after-american-bases-in-jordan-targeted-7117214-Jul2026/",
+      "bloc": "western",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T05:53:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump says US to hit Iran hard",
       "summary": "US President Donald Trump vowed to hit back hard at Iran after it attacked US bases in Jordan on Wednesday, as the Middle East war reignited and again drew in the Islamic republic's proxies.\nThe post Trump says US to hit Iran hard appeared first on Vanguard N…",
@@ -66,80 +144,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War: Iran Hits US Base in Jordan After US-Saudi Strike on Iraqi Militia",
-      "summary": "Today's Iran war news. So much for that pause. Iran hit the US base in Jordan because provocation as Netanyahu pushes for bigger US strikes.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-iran-hits-us-base-in-jordan-after-us-saudi-strike-on-iraqi-militia.html",
+      "headline": "Egypt is dragged into Middle East war as drone hits US gas tanker at Mediterranean port - a day after Saudi Arabia joined American strikes in Iraq",
+      "summary": "Egypt has been dragged into the Middle East war after drones hit a US-owned gas storage tanker at a Mediterranean port.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16015793/Egypt-dragged-Middle-East-war-drone-hits-US-gas-tanker-Mediterranean-port-day-Saudi-Arabia-joined-American-strikes-Iraq.html",
       "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T09:09:33Z",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T08:21:01Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US, Saudi forces strike Iran-backed groups in Iraq",
-      "summary": "US and Saudi warplanes carried out strikes on Tuesday against Iran-backed militants in Iraq who launched more than two dozen drone attacks in recent days, the US military said.\nThe post US, Saudi forces strike Iran-backed groups in Iraq appeared first on Vang…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/us-saudi-forces-strike-iran-backed-groups-in-iraq/",
+      "headline": "Houthis aim for Red Sea Tolls, May have hit Ship in Egypt",
+      "summary": "The Houthis who control 80% of the Yemeni population are studying a plan to collect tolls from ships on the Red Sea transiting the Bab al-Mandeb",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/07/houthis-tolls-egypt.html",
       "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T07:46:03Z",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T04:15:40Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran to get Chinese shoulder-launched missile systems in weeks: report",
-      "summary": "Iran needs to rearm after months of fighting in which the US and Israel have struck facilities linked to its missile, drone and air-defense programs.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/29/world-news/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks/",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T06:46:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,58 +255,6 @@
       "bloc": "western",
       "date": "2026-07-29",
       "datetime": "2026-07-29T15:15:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Jordan intercepts Iranian missiles as U.S., Saudi Arabia target militias in Iraq",
-      "summary": "Jordan intercepted missiles launched from Iran early Wednesday, hours after the U.S. military said it knocked down another Iranian barrage launched against American forces in the Middle East, ending a brief pause in fighting between Tehran and Washington.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/iran-us-war-middle-east-9.7288672",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T13:13:53Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthis consider Red Sea toll for ships in echo of Iran's Strait of Hormuz demands - as oil prices surge 5% and US ceasefire crumbles",
-      "summary": "Yemen's Houthi group is considering imposing fees on commercial ships sailing through the southern Red Sea.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16013591/Houthis-consider-Red-Sea-toll-ships-echo-Irans-Strait-Hormuz-demands-oil-prices-surge-5-US-ceasefire-crumbles.html",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T12:51:22Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -548,6 +548,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran War: Iran Hits US Base in Jordan After US-Saudi Strike on Iraqi Militia",
+      "summary": "Today's Iran war news. So much for that pause. Iran hit the US base in Jordan because provocation as Netanyahu pushes for bigger US strikes.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-iran-hits-us-base-in-jordan-after-us-saudi-strike-on-iraqi-militia.html",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T09:09:33Z",
+      "leaders": [
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran US diplomacy"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran War: Trump Dithers as Strait of Hormuz Damage Compounds; Ansar Allah-Saudi Conflict Spirals, Adding to Economic Harm; Iran Threatens Retaliation Against Ukraine",
       "summary": "Today's Iran war news: The US-Iran strikes remain on hold for a second day. But Netanyahu and other Lindsey Graham fans are in DC this week.",
       "source": "Nakedcapitalism.com",
@@ -643,6 +668,29 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Jordan intercepts Iranian missiles as U.S., Saudi Arabia target militias in Iraq",
+      "summary": "Jordan intercepted missiles launched from Iran early Wednesday, hours after the U.S. military said it knocked down another Iranian barrage launched against American forces in the Middle East, ending a brief pause in fighting between Tehran and Washington.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/iran-us-war-middle-east-9.7288672",
+      "bloc": "western",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T13:13:53Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

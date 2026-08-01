@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-01T03:18:42.752Z",
+  "updated": "2026-08-01T08:25:42.286Z",
   "retention_days": 30,
   "items": [
     {
@@ -16034,7 +16034,119 @@
       "_from": "newsapi",
       "first_seen": "2026-08-01T03:18:42.752Z",
       "run_id": "2026-08-01T03:18"
+    },
+    {
+      "headline": "Trump announces deal for Hamas to disarm in Gaza, but many hurdles and uncertainty remain",
+      "summary": "President Donald Trump said Thursday that a deal has been reached for Hamas to disarm and Israel to withdraw its forces from Gaza, but many hurdles, conditions and long timelines remained to wind down the war in the Palestinian territory.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-announces-deal-for-hamas-to-disarm-in-gaza-but-many-hurdles-and-uncertainty-remain/article71289448.ece",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T07:35:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T08:25:42.286Z",
+      "run_id": "2026-08-01T08:25"
+    },
+    {
+      "headline": "The field marshal remaking Pakistan’s place in the world",
+      "summary": "Asim Munir is trying to refashion Pakistan’s place in the world — and bolster his power at home",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/28/pakistans-all-powerful-field-marshal-capitalises-on-ties-with-riyadh-while-keeping-a-lid-on-challenges-through-authoritarian-rule/",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T05:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T08:25:42.286Z",
+      "run_id": "2026-08-01T08:25"
+    },
+    {
+      "headline": "Crude oil futures fall 3% to ₹7,811/barrel amid easing supply concerns",
+      "summary": "On the Multi Commodity Exchange (MCX), crude futures for August delivery depreciated ₹226, or 2.81%, to ₹7,811 per barrel",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-fall-3-to-7811barrel-amid-easing-supply-concerns/article71289334.ece",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T06:55:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T08:25:42.286Z",
+      "run_id": "2026-08-01T08:25"
+    },
+    {
+      "headline": "Drone Strike on Egyptian Port Raises Concerns of Wider Iran Conflict",
+      "summary": "A drone attacked two vessels at Egypt’s Mediterranean port of Damietta on July 29, and Egyptian officials said preliminary investigations indicated a drone was responsible for the fire that broke out on the ships at the key liquefied natural gas hub. The stri…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-31-drone-strike-egyptian-port-raises-iran-conflict.html",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T08:25:42.286Z",
+      "run_id": "2026-08-01T08:25"
     }
   ],
-  "total_items_ever": 2879
+  "total_items_ever": 2883
 }

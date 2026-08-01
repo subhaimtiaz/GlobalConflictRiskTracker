@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-01T03:19:47.990Z",
+  "ts": "2026-08-01T08:26:47.425Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 91,
     "oilStress": 38,
-    "updatedAt": "2026-08-01T03:19:47.990Z"
+    "updatedAt": "2026-08-01T08:26:47.425Z"
   },
   "items": [
+    {
+      "headline": "Trump announces deal for Hamas to disarm in Gaza, but many hurdles and uncertainty remain",
+      "summary": "President Donald Trump said Thursday that a deal has been reached for Hamas to disarm and Israel to withdraw its forces from Gaza, but many hurdles, conditions and long timelines remained to wind down the war in the Palestinian territory.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-announces-deal-for-hamas-to-disarm-in-gaza-but-many-hurdles-and-uncertainty-remain/article71289448.ece",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T07:35:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The field marshal remaking Pakistan’s place in the world",
+      "summary": "Asim Munir is trying to refashion Pakistan’s place in the world — and bolster his power at home",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/28/pakistans-all-powerful-field-marshal-capitalises-on-ties-with-riyadh-while-keeping-a-lid-on-challenges-through-authoritarian-rule/",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T05:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump announces ‘historic’ Hamas disarmament deal amid US-Iran tensions",
       "summary": "The deal could signal a diplomatic shift, potentially easing US-Iran tensions and impacting future peace negotiations in the Middle East.\nThe post Trump announces ‘historic’ Hamas disarmament deal amid US-Iran tensions appeared first on Crypto Briefing.",
@@ -66,53 +118,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War: Jordan Strike Shows Iran Intensifying War to Exhaust US Economy and Military; Trump Takes Bait by Retaliating",
-      "summary": "Today's Iran war news: Iran is trying to deke Trump into more energy and munitions depleting action. He seems to be falling into the trap.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-jordan-strike-shows-iran-intensifying-war-to-exhaust-us-economy-and-military-trump-takes-bait-by-retaliating.html",
+      "headline": "Crude oil futures fall 3% to ₹7,811/barrel amid easing supply concerns",
+      "summary": "On the Multi Commodity Exchange (MCX), crude futures for August delivery depreciated ₹226, or 2.81%, to ₹7,811 per barrel",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-fall-3-to-7811barrel-amid-easing-supply-concerns/article71289334.ece",
       "bloc": "western",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T09:15:13Z",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T06:55:04Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Qatar Sends First LNG Cargo Through Hormuz Since Tanker Attack",
-      "summary": "QatarEnergy has successfully sent an LNG cargo via the Strait of Hormuz, three weeks after one of its LNG carriers was struck in the waterway, Bloomberg has reported, noting that the vessel had idled in the strait since early July but crossed it with its geol…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Sends-First-LNG-Cargo-Through-Hormuz-Since-Tanker-Attack.html",
+      "headline": "Drone Strike on Egyptian Port Raises Concerns of Wider Iran Conflict",
+      "summary": "A drone attacked two vessels at Egypt’s Mediterranean port of Damietta on July 29, and Egyptian officials said preliminary investigations indicated a drone was responsible for the fire that broke out on the ships at the key liquefied natural gas hub. The stri…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-31-drone-strike-egyptian-port-raises-iran-conflict.html",
       "bloc": "western",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T07:30:00Z",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
@@ -192,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict",
-      "summary": "The United States and Iran exchanged missile strikes, escalating regional conflict. Jordan and Kuwait reported intercepting Iranian missiles and a deadly strike respectively. Drone attacks caused fires on ships at an Egyptian port this week. The ongoing war h…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-and-iran-trade-missile-barrages-as-hopes-dim-for-a-quick-resolution-to-the-five-month-conflict/articleshow/132745260.cms",
-      "bloc": "regional",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T16:20:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

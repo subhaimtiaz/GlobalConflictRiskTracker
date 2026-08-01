@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-01T08:25:42.286Z",
+  "updated": "2026-08-01T13:34:56.478Z",
   "retention_days": 30,
   "items": [
     {
@@ -16146,7 +16146,167 @@
       "_from": "newsapi",
       "first_seen": "2026-08-01T08:25:42.286Z",
       "run_id": "2026-08-01T08:25"
+    },
+    {
+      "headline": "China Helps Iran",
+      "summary": "Plus: Baby bust affects college enrollment, migrants flood into Spain, I'm writing a book, and more...",
+      "source": "Reason",
+      "url": "https://reason.com/2026/07/31/china-helps-iran/",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T13:27:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T13:34:56.478Z",
+      "run_id": "2026-08-01T13:34"
+    },
+    {
+      "headline": "Iran's IRGC Says It Attacked More Tankers In Hormuz",
+      "summary": "Following a US Central Command (CENTCOM) denial of its claims that the Strait of Hormuz had been closed, Iran's Islamic Revolutionary Guard Corps (IRGC) issued another statement reiterating its assertions and claiming it had attacked and stopped two additiona…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260731-rferl02.htm",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T13:34:56.478Z",
+      "run_id": "2026-08-01T13:34"
+    },
+    {
+      "headline": "Military flare-up between Houthis and Saudi Arabia challenges relative calm in Yemen",
+      "summary": "Riyadh and Yemen's Iran-backed Houthi rebels are on the brink of renewed conflict. Could war-ravaged Yemen be drawn into a wider Middle East war?",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/military-flare-up-between-houthis-and-saudi-arabia-challenges-relative-calm-in-yemen/a-78186262",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T11:15:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T13:34:56.478Z",
+      "run_id": "2026-08-01T13:34"
+    },
+    {
+      "headline": "PLA to mark 99th anniversary with equipment leap, combat readiness amid complex security landscape",
+      "summary": "In a gripping beach-assault drill, packs of robotic wolves, each hefting shoulder-fired rocket launchers, surged over sand berms, spraying grit skyward as they stormed the shoreline.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/07/china-260731-globaltimes02.htm",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T12:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T13:34:56.478Z",
+      "run_id": "2026-08-01T13:34"
+    },
+    {
+      "headline": "The Drone Attack That Exposed Egypt’s Energy Defenses",
+      "summary": "Politics, Geopolitics & Conflict A drone attack reached Egypt’s Mediterranean gas infrastructure for the first time in the war. At least two drones struck the US-owned Energos Winter floating storage and regasification unit and a second gas-processing vessel …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Drone-Attack-That-Exposed-Egypts-Energy-Defenses.html",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T13:34:56.478Z",
+      "run_id": "2026-08-01T13:34"
+    },
+    {
+      "headline": "Iran War: Risk of Widening Conflict as Saudis Form “Defensive” Coalition, Iran Depicts Egypt LNG Platform Attack as Israel False Flag; Postol – Iran Missiles More Powerful Than Oreshnik; IRGC Provides Images of F-35s Destroyed in Jordan",
+      "summary": "Today's Iran war news: The Saudis rearrange deck chairs on their Titanic as the IRCG documents their successful F-35 hits.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-risk-of-widening-conflict-as-saudis-form-defensive-coalition-iran-depicts-egypt-lng-platform-attack-as-israel-false-flag-postol-iran-missiles-more-powerful-than-oreshnik-irgc-provid.html",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T10:56:53Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T13:34:56.478Z",
+      "run_id": "2026-08-01T13:34"
     }
   ],
-  "total_items_ever": 2883
+  "total_items_ever": 2889
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-01T08:26:47.425Z",
+  "ts": "2026-08-01T13:36:01.665Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 91,
     "oilStress": 38,
-    "updatedAt": "2026-08-01T08:26:47.425Z"
+    "updatedAt": "2026-08-01T13:36:01.665Z"
   },
   "items": [
+    {
+      "headline": "China Helps Iran",
+      "summary": "Plus: Baby bust affects college enrollment, migrants flood into Spain, I'm writing a book, and more...",
+      "source": "Reason",
+      "url": "https://reason.com/2026/07/31/china-helps-iran/",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T13:27:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump announces deal for Hamas to disarm in Gaza, but many hurdles and uncertainty remain",
       "summary": "President Donald Trump said Thursday that a deal has been reached for Hamas to disarm and Israel to withdraw its forces from Gaza, but many hurdles, conditions and long timelines remained to wind down the war in the Palestinian territory.",
@@ -118,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran's IRGC Says It Attacked More Tankers In Hormuz",
+      "summary": "Following a US Central Command (CENTCOM) denial of its claims that the Strait of Hormuz had been closed, Iran's Islamic Revolutionary Guard Corps (IRGC) issued another statement reiterating its assertions and claiming it had attacked and stopped two additiona…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260731-rferl02.htm",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Military flare-up between Houthis and Saudi Arabia challenges relative calm in Yemen",
+      "summary": "Riyadh and Yemen's Iran-backed Houthi rebels are on the brink of renewed conflict. Could war-ravaged Yemen be drawn into a wider Middle East war?",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/military-flare-up-between-houthis-and-saudi-arabia-challenges-relative-calm-in-yemen/a-78186262",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T11:15:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Crude oil futures fall 3% to ₹7,811/barrel amid easing supply concerns",
       "summary": "On the Multi Commodity Exchange (MCX), crude futures for August delivery depreciated ₹226, or 2.81%, to ₹7,811 per barrel",
       "source": "BusinessLine",
@@ -170,84 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil Price Today (July 31): Crude oil extends fall to $88. What’s behind the decline amid Iran war?",
-      "summary": "Saudi Arabia is seeking to spearhead a coalition to enhance defense cooperation in the Bab El-Mandeb Strait, the Red Sea and the Gulf of Aden. The Saudi defense ministry said 14 countries, including Turkey, Pakistan, Egypt, Sudan and Djibouti, had issued a jo…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-31-crude-oil-extends-fall-to-88-whats-behind-the-decline-amid-iran-war/articleshow/132753969.cms",
-      "bloc": "regional",
-      "date": "2026-07-31",
-      "datetime": "2026-07-31T02:46:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil on Pace for 21% Monthly Rally as US-Iran War Strains Supply",
-      "summary": "Oil steadied at the end of a volatile week, with prices on track for the biggest monthly gain since March as the US-Iran war escalated.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-on-pace-for-21-monthly-rally-as-us-iran-war-strains-supply",
-      "bloc": "western",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T23:14:43Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How shipping risks from Ukraine and Iran wars are converging",
-      "summary": "The blockade of the Strait of Hormuz, through which nearly all Middle Eastern oil flows, has prompted Saudi Arabia to call for a maritime defense coalition to protect Red Sea shipping. For perspective on the proposal, Geoff Bennett spoke with Ian Ralby. He's …",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging",
-      "bloc": "western",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T22:52:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Summer School: Republicans' crusade to teach voters the 'New Math' on the 'commie caucus'",
       "summary": "House Republicans hope Democrats' far-left candidates will help the GOP maintain its narrow House majority heading into the midterm elections.",
       "source": "Fox News",
@@ -287,6 +287,30 @@
       ],
       "dimensions": [
         "accountability",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "PLA to mark 99th anniversary with equipment leap, combat readiness amid complex security landscape",
+      "summary": "In a gripping beach-assault drill, packs of robotic wolves, each hefting shoulder-fired rocket launchers, surged over sand berms, spraying grit skyward as they stormed the shoreline.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/07/china-260731-globaltimes02.htm",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T12:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
         "impulsivity"
       ],
       "variable_key": null,
@@ -571,6 +595,52 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The Drone Attack That Exposed Egypt’s Energy Defenses",
+      "summary": "Politics, Geopolitics & Conflict A drone attack reached Egypt’s Mediterranean gas infrastructure for the first time in the war. At least two drones struck the US-owned Energos Winter floating storage and regasification unit and a second gas-processing vessel …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Drone-Attack-That-Exposed-Egypts-Energy-Defenses.html",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran War: Risk of Widening Conflict as Saudis Form “Defensive” Coalition, Iran Depicts Egypt LNG Platform Attack as Israel False Flag; Postol – Iran Missiles More Powerful Than Oreshnik; IRGC Provides Images of F-35s Destroyed in Jordan",
+      "summary": "Today's Iran war news: The Saudis rearrange deck chairs on their Titanic as the IRCG documents their successful F-35 hits.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-risk-of-widening-conflict-as-saudis-form-defensive-coalition-iran-depicts-egypt-lng-platform-attack-as-israel-false-flag-postol-iran-missiles-more-powerful-than-oreshnik-irgc-provid.html",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T10:56:53Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "How Vladimir Putin’s refinery dream became a target for Ukraine",
       "summary": "Damage to Russian refineries still visible from space months after strikes",
       "source": "The Irish Times",
@@ -601,29 +671,6 @@
       "bloc": "western",
       "date": "2026-07-29",
       "datetime": "2026-07-29T13:13:53Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why Putin Will Escalate",
-      "summary": "The coming months will mark the most dangerous phase of Russia’s war in Ukraine.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/07/28/why-putin-will-escalate/",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T11:59:22Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

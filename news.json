@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-01T13:36:01.665Z",
+  "ts": "2026-08-01T19:14:32.393Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 91,
     "oilStress": 38,
-    "updatedAt": "2026-08-01T13:36:01.665Z"
+    "updatedAt": "2026-08-01T19:14:32.393Z"
   },
   "items": [
+    {
+      "headline": "Hamas agrees to disarm, the Iran-US war spirals, and the Refugee Convention at 75: The Cheat Sheet",
+      "summary": "Hamas agrees to disarm, the Iran-US war spirals, and the Refugee Convention at 75: The Cheat Sheet\n\nsofia\n\nFri, 07/31/2026 - 15:21",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/07/31/hamas-disarm-iran-us-war-refugee-convention-75-cheat-sheet",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T14:21:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "China Helps Iran",
       "summary": "Plus: Baby bust affects college enrollment, migrants flood into Spain, I'm writing a book, and more...",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-07-31",
       "datetime": "2026-07-31T03:17:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Fetterman Votes With GOP Yet Again on War Powers Resolution to Rein In Trump",
-      "summary": "Meanwhile, the Trump administration is asking Congress for an additional $67 billion for the war in Iran.",
-      "source": "Newsfromthestates.com",
-      "url": "https://www.newsfromthestates.com/article/3-republicans-break-trump-us-senate-vote-block-war-iran",
-      "bloc": "western",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T20:30:18Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -392,6 +392,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Hormuz Oil Shuttling Trade Is Picking Up Again After Lull",
+      "summary": "The oil-shuttling service that has been crucial to getting cargoes out of the Strait of Hormuz has picked up again after a recent lull, helping millions of barrels escape as Middle East hostilities escalate.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/hormuz-oil-shuttling-trade-is-picking-up-again-after-lull/",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T15:00:54Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Sensex today | Stock Market Highlights: Sensex rises 888 pts to close at 77,654, Nifty ends at 24,250; Hindustan Unilever, Infosys top gainers",
       "summary": "Sensex Today, Nifty 50 | Stock Market Highlights: Find here all the key highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 29th July 2026.",
       "source": "BusinessLine",
@@ -451,32 +477,6 @@
       "bloc": "western",
       "date": "2026-07-29",
       "datetime": "2026-07-29T03:51:59Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Bitcoin Dips Below $65,000 as Iran Conflict Spurs Oil Price Surge, Bond Yields Rise",
-      "summary": "Bitcoin’s price dropped below $65,000 on Tuesday, according to market data, as reports of military escalation between Iran and Israel triggered a spike in crude oil prices and a jump in U.S. Treasury bond yields. The decline marked a sharp reversal from weeks…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-28-bitcoin-dips-below-65000-iran-oil-surge.html",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T06:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

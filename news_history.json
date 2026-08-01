@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-01T13:34:56.478Z",
+  "updated": "2026-08-01T19:13:27.230Z",
   "retention_days": 30,
   "items": [
     {
@@ -16306,7 +16306,63 @@
       "_from": "newsapi",
       "first_seen": "2026-08-01T13:34:56.478Z",
       "run_id": "2026-08-01T13:34"
+    },
+    {
+      "headline": "Hamas agrees to disarm, the Iran-US war spirals, and the Refugee Convention at 75: The Cheat Sheet",
+      "summary": "Hamas agrees to disarm, the Iran-US war spirals, and the Refugee Convention at 75: The Cheat Sheet\n\nsofia\n\nFri, 07/31/2026 - 15:21",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/07/31/hamas-disarm-iran-us-war-refugee-convention-75-cheat-sheet",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T14:21:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T19:13:27.230Z",
+      "run_id": "2026-08-01T19:13"
+    },
+    {
+      "headline": "Hormuz Oil Shuttling Trade Is Picking Up Again After Lull",
+      "summary": "The oil-shuttling service that has been crucial to getting cargoes out of the Strait of Hormuz has picked up again after a recent lull, helping millions of barrels escape as Middle East hostilities escalate.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/hormuz-oil-shuttling-trade-is-picking-up-again-after-lull/",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T15:00:54Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T19:13:27.230Z",
+      "run_id": "2026-08-01T19:13"
     }
   ],
-  "total_items_ever": 2889
+  "total_items_ever": 2891
 }

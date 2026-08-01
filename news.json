@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-31T19:40:18.501Z",
+  "ts": "2026-08-01T03:19:47.990Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 90,
-    "oilStress": 37,
-    "updatedAt": "2026-07-31T19:40:18.501Z"
+    "oilPrice": 91,
+    "oilStress": 38,
+    "updatedAt": "2026-08-01T03:19:47.990Z"
   },
   "items": [
+    {
+      "headline": "Trump announces ‘historic’ Hamas disarmament deal amid US-Iran tensions",
+      "summary": "The deal could signal a diplomatic shift, potentially easing US-Iran tensions and impacting future peace negotiations in the Middle East.\nThe post Trump announces ‘historic’ Hamas disarmament deal amid US-Iran tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-announces-historic-hamas-disarmament-deal-amid-us-iran-tensions/",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T03:17:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Fetterman Votes With GOP Yet Again on War Powers Resolution to Rein In Trump",
+      "summary": "Meanwhile, the Trump administration is asking Congress for an additional $67 billion for the war in Iran.",
+      "source": "Newsfromthestates.com",
+      "url": "https://www.newsfromthestates.com/article/3-republicans-break-trump-us-senate-vote-block-war-iran",
+      "bloc": "western",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T20:30:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran War: Jordan Strike Shows Iran Intensifying War to Exhaust US Economy and Military; Trump Takes Bait by Retaliating",
       "summary": "Today's Iran war news: Iran is trying to deke Trump into more energy and munitions depleting action. He seems to be falling into the trap.",
@@ -66,54 +118,80 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Erects Billboard Threatening Trump Amid Ongoing Tensions",
-      "summary": "A new billboard in Tehran shows Donald Trump being strangled, with the English text “Revenge is inevitable,” according to a report from AFP via Getty. The billboard, located on Jomhouri Street, is the latest in a series of graphic displays by Iranian authorit…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-30-iran-erects-billboard-threatening-trump-amid-ongoing-tensions.html",
-      "bloc": "western",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T06:00:00Z",
+      "headline": "Oil Price Today (July 31): Crude oil extends fall to $88. What’s behind the decline amid Iran war?",
+      "summary": "Saudi Arabia is seeking to spearhead a coalition to enhance defense cooperation in the Bab El-Mandeb Strait, the Red Sea and the Gulf of Aden. The Saudi defense ministry said 14 countries, including Turkey, Pakistan, Egypt, Sudan and Djibouti, had issued a jo…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-31-crude-oil-extends-fall-to-88-whats-behind-the-decline-amid-iran-war/articleshow/132753969.cms",
+      "bloc": "regional",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T02:46:52Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US military completes 'heavy wave' of strikes on Iran after American bases in Jordan targeted",
-      "summary": "Trump had vowed to hit Iran ‘hard’ after Tehran launched missiles at Jordan, its first regional strike in days.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/us-military-completes-heavy-wave-of-strikes-on-iran-after-american-bases-in-jordan-targeted-7117214-Jul2026/",
+      "headline": "Oil on Pace for 21% Monthly Rally as US-Iran War Strains Supply",
+      "summary": "Oil steadied at the end of a volatile week, with prices on track for the biggest monthly gain since March as the US-Iran war escalated.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-on-pace-for-21-monthly-rally-as-us-iran-war-strains-supply",
       "bloc": "western",
       "date": "2026-07-30",
-      "datetime": "2026-07-30T05:53:33Z",
+      "datetime": "2026-07-30T23:14:43Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How shipping risks from Ukraine and Iran wars are converging",
+      "summary": "The blockade of the Strait of Hormuz, through which nearly all Middle Eastern oil flows, has prompted Saudi Arabia to call for a maritime defense coalition to protect Red Sea shipping. For perspective on the proposal, Geoff Bennett spoke with Ian Ralby. He's …",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging",
+      "bloc": "western",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T22:52:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -140,110 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "CENTCOM rebuts Iranian claims: Strait of Hormuz remains open, no US aircraft lost",
-      "summary": "US Central Command dismisses what it calls \"false claims\" by the IRGC, saying commercial shipping remains protected, no American aircraft were damaged, and the U.S. naval blockade remains fully in effect.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431017",
-      "bloc": "western",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T15:40:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Suspected Iranian Drone Hits U.S.-Owned Gas Tanker in Egypt",
-      "summary": "\"Iranian state television had identified (Egyptian port of) Damietta as a possible target.\" \nThe post Suspected Iranian Drone Hits U.S.-Owned Gas Tanker in Egypt first appeared on Le·gal In·sur·rec·tion.",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/07/suspected-iranian-drone-hits-u-s-owned-gas-tanker-in-egypt/",
-      "bloc": "western",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T15:17:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The US and Iran Trade Missile Barrages as Hopes Dim for a Quick Resolution",
-      "summary": "After a brief respite, the risk of a return to all-out war emerged once more, with the fighting threatening to engulf even more countries.",
-      "source": "Military.com",
-      "url": "https://military.com/the-us-and-iran-trade-missile-barrages-as-hopes-dim-for-a-quick-resolution",
-      "bloc": "western",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T13:23:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Pakistan 'doing its utmost' to bring US and Iran back to negotiating table: Foreign Office",
-      "summary": "Pakistan is actively working to bring the US and Iran back to the negotiating table.  The nation supports dialogue and diplomacy as the only viable path forward.  Regional security remains a significant concern despite a recent lull in hostilities.  Both nati…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistans-diplomatic-efforts-to-restore-us-iran-negotiations-amid-rising-tensions/articleshow/132739420.cms",
-      "bloc": "regional",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T12:06:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -368,30 +342,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Chinese ship shoots water cannon at Philippine vessel with CNN crew on board near flashpoint shoal",
-      "summary": "Chinese ships fired water cannon at Philippine vessels, including one carrying a CNN crew, near a dangerous flashpoint in the South China Sea on Friday – the...",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/07/24/asia/china-philippines-south-china-sea-scarborough-intl-hnk",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T09:19:41Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Sensex today | Stock Market Highlights: Sensex rises 888 pts to close at 77,654, Nifty ends at 24,250; Hindustan Unilever, Infosys top gainers",
       "summary": "Sensex Today, Nifty 50 | Stock Market Highlights: Find here all the key highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 29th July 2026.",
       "source": "BusinessLine",
@@ -496,32 +446,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Gulf States Borrow $112 Billion to Bypass Hormuz Amid Iran War",
-      "summary": "Introduction Persian Gulf states have borrowed a record $112 billion in international debt markets this year to finance infrastructure aimed at bypassing the Strait of Hormuz, according to a report citing Bloomberg-compiled data. The borrowing surge follows t…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-28-gulf-states-borrow-112b-to-bypass-hormuz.html",
-      "bloc": "western",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T06:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Iran War: Iran Hits US Base in Jordan After US-Saudi Strike on Iraqi Militia",
       "summary": "Today's Iran war news. So much for that pause. Iran hit the US base in Jordan because provocation as Netanyahu pushes for bigger US strikes.",
       "source": "Nakedcapitalism.com",
@@ -603,31 +527,6 @@
       "bloc": "western",
       "date": "2026-07-25",
       "datetime": "2026-07-25T13:00:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why Trump may be undermining his own Saudi nuclear deal",
-      "summary": "The Trump administration may have just signed an agreement so controversial that President Donald Trump himself is opposed to it.  On Wednesday, the US and Saudi Arabia signed a 30-year, multibillion-dollar nuclear energy cooperation agreement. The terms of t…",
-      "source": "Vox",
-      "url": "https://www.vox.com/politics/496635/trump-saudi-nuclear-deal",
-      "bloc": "western",
-      "date": "2026-07-24",
-      "datetime": "2026-07-24T14:19:58Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

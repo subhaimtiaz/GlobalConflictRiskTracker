@@ -1,316 +1,8 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-07-31T19:39:13.187Z",
+  "updated": "2026-08-01T03:18:42.752Z",
   "retention_days": 30,
   "items": [
-    {
-      "headline": "Oil Steadies as Peace Talks Continue, Hormuz Traffic Recovers",
-      "summary": "Oil steadied after the biggest quarterly drop since the pandemic, as traders monitored peace talks between the US and Iran and the return of shipping through the Strait of Hormuz.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-steadies-as-peace-talks-continue-hormuz-traffic-recovers",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T02:40:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-02T03:54:48.221Z",
-      "run_id": "2026-07-02T03:54"
-    },
-    {
-      "headline": "Israel-Lebanon Deal Sparks Protests, Raises Fears of Lasting Occupation",
-      "summary": "A US-brokered Israel-Lebanon deal seeks peace but leaves key questions over occupation, displacement, Hezbollah, and the laws of war unresolved.",
-      "source": "Military.com",
-      "url": "https://military.com/israel-lebanon-deal-sparks-protests-raises-fears-of-lasting-occupation",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T09:01:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-02T09:18:34.212Z",
-      "run_id": "2026-07-02T09:18"
-    },
-    {
-      "headline": "Bombs for Bargains: Can a Treaty Imposed on Iran Through Military Coercion Be Valid Under International Law?",
-      "summary": "[Heybatollah Najandimanesh, associate professor of international law at Allameh Tabatabaei University, Tehran, Iran] Introduction Can a treaty concluded under sustained military pressure ever constitute a valid expression of state consent? This question lies …",
-      "source": "Opiniojuris.org",
-      "url": "http://opiniojuris.org/2026/07/01/bombs-for-bargains-can-a-treaty-imposed-on-iran-through-military-coercion-be-valid-under-international-law/",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T08:00:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-02T09:18:34.212Z",
-      "run_id": "2026-07-02T09:18"
-    },
-    {
-      "headline": "Oil steadies as Hormuz traffic recovers",
-      "summary": "Traders monitor peace talks between the US and Iran",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/business/markets/2026/07/01/oil-steadies-as-hormuz-traffic-recovers/",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T06:22:31Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-02T09:18:34.212Z",
-      "run_id": "2026-07-02T09:18"
-    },
-    {
-      "headline": "Trump’s War in the Middle East Has One Clear Winner: China",
-      "summary": "This story was originally published by the Guardian and is reproduced here as part of the Climate Desk collaboration. China has emerged as the sole winner in Asia from the strait of Hormuz crisis, according to a report published on Tuesday. The report by the …",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/07/trump-iran-war-middle-east-winner-china-clean-energy/",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T11:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-02T14:10:07.214Z",
-      "run_id": "2026-07-02T14:10"
-    },
-    {
-      "headline": "Israel threatens third attack on Iran despite US diplomacy efforts",
-      "summary": "Israel's stance may undermine US-Iran diplomacy, increasing regional instability and affecting global markets' confidence in peace prospects.\nThe post Israel threatens third attack on Iran despite US diplomacy efforts appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/israel-threatens-third-attack-on-iran-despite-us-diplomacy-efforts/",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T11:16:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-02T14:10:07.214Z",
-      "run_id": "2026-07-02T14:10"
-    },
-    {
-      "headline": "US, Iran officials to hold indirect talks in Doha",
-      "summary": "Officials from the United States and Iran will on Wednesday hold indirect technical talks on their deal aimed at ending the Middle East war, a diplomat with knowledge of the talks told AFP.\nThe post US, Iran officials to hold indirect talks in Doha appeared f…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/us-iran-officials-to-hold-indirect-talks-in-doha/",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T09:28:38Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-02T14:10:07.214Z",
-      "run_id": "2026-07-02T14:10"
-    },
-    {
-      "headline": "Iran Risks New War Front as Kurdish Attacks Rise Amid US Ceasefire",
-      "summary": "An uptick in clashes between Iranian security forces and Kurdish rebel groups is threatening to open a new front in the Islamic Republic's conflict with the United States and Israel, testing a fragile ceasefire between Tehran and Washington.\nAs the United Sta…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/bd7feeb140f601ce",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T18:29:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-02T19:36:01.633Z",
-      "run_id": "2026-07-02T19:36"
-    },
-    {
-      "headline": "Israeli attacks kill 4,297, injure 12,196 in Lebanon since March 2: Health Ministry",
-      "summary": "The escalating conflict risks broader regional instability, potentially leading to increased military actions and further humanitarian crises.\nThe post Israeli attacks kill 4,297, injure 12,196 in Lebanon since March 2: Health Ministry appeared first on Crypt…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/israeli-attacks-kill-4297-injure-12196-in-lebanon-since-march-2-health-ministry/",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T14:38:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-02T19:36:01.633Z",
-      "run_id": "2026-07-02T19:36"
-    },
-    {
-      "headline": "Vance warns US may resume military action if Iran ceasefire fails",
-      "summary": "Vance's warning underscores the fragile state of US-Iran relations, potentially destabilizing regional peace and affecting global markets.\nThe post Vance warns US may resume military action if Iran ceasefire fails appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/vance-warns-us-may-resume-military-action-if-iran-ceasefire-fails/",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T19:40:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-03T03:37:08.828Z",
-      "run_id": "2026-07-03T03:37"
-    },
-    {
-      "headline": "Crude Extends Losses on Glut Fears",
-      "summary": "Oil prices fell as recovering Strait of Hormuz traffic and rising global supplies reinforced expectations of an oversupplied market.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/crude_extends_losses_on_glut_fears-01-jul-2026-184038-article/",
-      "bloc": "western",
-      "date": "2026-07-01",
-      "datetime": "2026-07-01T19:54:31Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-03T03:37:08.828Z",
-      "run_id": "2026-07-03T03:37"
-    },
     {
       "headline": "Ημερήσια Γεωπολιτική Επισκόπηση - 02/07/2026",
       "summary": "Edited by iEpikaira*\r\n\n [Σημ.: Η ανάλυση παρατίθεται παρακάτω και στα ελληνικά.]\r\n\n Executive Summary\r\n\n As of July 2, 2026, global geopolitical dynamics reflect a continued recalibration of power, characterized by persistent regional conflicts, shifting alli…",
@@ -16202,7 +15894,147 @@
       "_from": "newsapi",
       "first_seen": "2026-07-31T19:39:13.187Z",
       "run_id": "2026-07-31T19:39"
+    },
+    {
+      "headline": "Trump announces ‘historic’ Hamas disarmament deal amid US-Iran tensions",
+      "summary": "The deal could signal a diplomatic shift, potentially easing US-Iran tensions and impacting future peace negotiations in the Middle East.\nThe post Trump announces ‘historic’ Hamas disarmament deal amid US-Iran tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-announces-historic-hamas-disarmament-deal-amid-us-iran-tensions/",
+      "bloc": "western",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T03:17:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T03:18:42.752Z",
+      "run_id": "2026-08-01T03:18"
+    },
+    {
+      "headline": "Fetterman Votes With GOP Yet Again on War Powers Resolution to Rein In Trump",
+      "summary": "Meanwhile, the Trump administration is asking Congress for an additional $67 billion for the war in Iran.",
+      "source": "Newsfromthestates.com",
+      "url": "https://www.newsfromthestates.com/article/3-republicans-break-trump-us-senate-vote-block-war-iran",
+      "bloc": "western",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T20:30:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T03:18:42.752Z",
+      "run_id": "2026-08-01T03:18"
+    },
+    {
+      "headline": "Oil Price Today (July 31): Crude oil extends fall to $88. What’s behind the decline amid Iran war?",
+      "summary": "Saudi Arabia is seeking to spearhead a coalition to enhance defense cooperation in the Bab El-Mandeb Strait, the Red Sea and the Gulf of Aden. The Saudi defense ministry said 14 countries, including Turkey, Pakistan, Egypt, Sudan and Djibouti, had issued a jo…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-31-crude-oil-extends-fall-to-88-whats-behind-the-decline-amid-iran-war/articleshow/132753969.cms",
+      "bloc": "regional",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T02:46:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T03:18:42.752Z",
+      "run_id": "2026-08-01T03:18"
+    },
+    {
+      "headline": "Oil on Pace for 21% Monthly Rally as US-Iran War Strains Supply",
+      "summary": "Oil steadied at the end of a volatile week, with prices on track for the biggest monthly gain since March as the US-Iran war escalated.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-on-pace-for-21-monthly-rally-as-us-iran-war-strains-supply",
+      "bloc": "western",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T23:14:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T03:18:42.752Z",
+      "run_id": "2026-08-01T03:18"
+    },
+    {
+      "headline": "How shipping risks from Ukraine and Iran wars are converging",
+      "summary": "The blockade of the Strait of Hormuz, through which nearly all Middle Eastern oil flows, has prompted Saudi Arabia to call for a maritime defense coalition to protect Red Sea shipping. For perspective on the proposal, Geoff Bennett spoke with Ian Ralby. He's …",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging",
+      "bloc": "western",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T22:52:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-01T03:18:42.752Z",
+      "run_id": "2026-08-01T03:18"
     }
   ],
-  "total_items_ever": 2874
+  "total_items_ever": 2879
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-02T13:36:32.722Z",
+  "ts": "2026-08-02T19:16:52.767Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 91,
     "oilStress": 38,
-    "updatedAt": "2026-08-02T13:36:32.722Z"
+    "updatedAt": "2026-08-02T19:16:52.767Z"
   },
   "items": [
     {
@@ -139,6 +139,32 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "“Guardian of the Strait”, World Cup Scripts, Millisecond Trades, and the Controlled Sinking of Global Shipping",
+      "summary": "We are still drifting along in this “short-term pain for long-term gain” narrative arc.  Remember when they told us it would just be a few days, maybe a few weeks? Well, we’re cruising past month five now, and the script is getting so loud it’s a miracle anyo…",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/guardian-of-the-strait-world-cup-scripts-millisecond-trades-and-the-controlled-sinking-of-global-shipping/",
+      "bloc": "western",
+      "date": "2026-08-01",
+      "datetime": "2026-08-01T16:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

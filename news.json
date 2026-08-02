@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-02T03:20:07.890Z",
+  "ts": "2026-08-02T08:29:41.827Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 91,
     "oilStress": 38,
-    "updatedAt": "2026-08-02T03:20:07.890Z"
+    "updatedAt": "2026-08-02T08:29:41.827Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Fears Middle East war could expand as conflict reignites",
+      "summary": "What US President Donald Trump predicted would be a four-to-six-week joint military operation with Israel to dismantle the Iranian regime is fast sliding into a six-month stalemate with no immediate end in sight, writes Washington Correspondent Jackie Fox.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0801/1586068-iran-us-conflict/",
+      "bloc": "western",
+      "date": "2026-08-01",
+      "datetime": "2026-08-01T06:00:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran's IRGC Says It Attacked More Tankers In Hormuz",
       "summary": "Following a US Central Command (CENTCOM) denial of its claims that the Strait of Hormuz had been closed, Iran's Islamic Revolutionary Guard Corps (IRGC) issued another statement reiterating its assertions and claiming it had attacked and stopped two additiona…",
       "source": "Globalsecurity.org",
@@ -177,32 +203,6 @@
       "bloc": "western",
       "date": "2026-07-31",
       "datetime": "2026-07-31T11:15:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Crude oil futures fall 3% to ₹7,811/barrel amid easing supply concerns",
-      "summary": "On the Multi Commodity Exchange (MCX), crude futures for August delivery depreciated ₹226, or 2.81%, to ₹7,811 per barrel",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-fall-3-to-7811barrel-amid-easing-supply-concerns/article71289334.ece",
-      "bloc": "western",
-      "date": "2026-07-31",
-      "datetime": "2026-07-31T06:55:04Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

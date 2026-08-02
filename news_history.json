@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-02T03:19:02.694Z",
+  "updated": "2026-08-02T08:28:36.627Z",
   "retention_days": 30,
   "items": [
     {
@@ -16028,7 +16028,35 @@
       "_from": "newsapi",
       "first_seen": "2026-08-02T03:19:02.694Z",
       "run_id": "2026-08-02T03:19"
+    },
+    {
+      "headline": "Fears Middle East war could expand as conflict reignites",
+      "summary": "What US President Donald Trump predicted would be a four-to-six-week joint military operation with Israel to dismantle the Iranian regime is fast sliding into a six-month stalemate with no immediate end in sight, writes Washington Correspondent Jackie Fox.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0801/1586068-iran-us-conflict/",
+      "bloc": "western",
+      "date": "2026-08-01",
+      "datetime": "2026-08-01T06:00:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-02T08:28:36.627Z",
+      "run_id": "2026-08-02T08:28"
     }
   ],
-  "total_items_ever": 2892
+  "total_items_ever": 2893
 }

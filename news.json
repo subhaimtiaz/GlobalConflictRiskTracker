@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-03T14:47:55.240Z",
+  "ts": "2026-08-03T19:43:05.186Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 83,
-    "oilStress": 26,
-    "updatedAt": "2026-08-03T14:47:55.240Z"
+    "oilPrice": 84,
+    "oilStress": 27,
+    "updatedAt": "2026-08-03T19:43:05.186Z"
   },
   "items": [
     {
@@ -570,6 +570,52 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Kyiv hits Rosneft refinery, Engels air base in Russia",
+      "summary": "The renewed attacks threaten to disrupt Russia's fuel supplies just as several regions had begun easing restrictions on gasoline and diesel sales imposed during recent shortages. The Saratov refinery, with a crude processing capacity of about 140,000 barrels …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/kyiv-hits-rosneft-refinery-engels-air-base-in-russia/articleshow/132812650.cms",
+      "bloc": "regional",
+      "date": "2026-08-02",
+      "datetime": "2026-08-02T18:27:58Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
+      "summary": "Aug 2 () - Ukrainian drone strikes killed at least eight people in Russian regions overnight and on Sunday, hitting targets including a warehouse belonging t...",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/world/articles/ukrainian-drones-kill-two-russia-070130969.html",
+      "bloc": "western",
+      "date": "2026-08-02",
+      "datetime": "2026-08-02T18:03:23Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The Drone Attack That Exposed Egypt’s Energy Defenses",
       "summary": "Politics, Geopolitics & Conflict A drone attack reached Egypt’s Mediterranean gas infrastructure for the first time in the war. At least two drones struck the US-owned Energos Winter floating storage and regasification unit and a second gas-processing vessel …",
       "source": "OilPrice.com",
@@ -623,29 +669,6 @@
       "bloc": "western",
       "date": "2026-07-30",
       "datetime": "2026-07-30T11:53:15Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Jordan intercepts Iranian missiles as U.S., Saudi Arabia target militias in Iraq",
-      "summary": "Jordan intercepted missiles launched from Iran early Wednesday, hours after the U.S. military said it knocked down another Iranian barrage launched against American forces in the Middle East, ending a brief pause in fighting between Tehran and Washington.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/iran-us-war-middle-east-9.7288672",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T13:13:53Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

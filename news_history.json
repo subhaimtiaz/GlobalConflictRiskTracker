@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-03T03:20:41.477Z",
+  "updated": "2026-08-03T09:52:25.491Z",
   "retention_days": 30,
   "items": [
     {
@@ -16056,7 +16056,63 @@
       "_from": "newsapi",
       "first_seen": "2026-08-02T19:15:47.540Z",
       "run_id": "2026-08-02T19:15"
+    },
+    {
+      "headline": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+      "summary": "Trump says 'perimeters of a deal has been agreed to' as he pauses attacks. But is there any substance to his claim?",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at",
+      "bloc": "regional",
+      "date": "2026-08-02",
+      "datetime": "2026-08-02T09:43:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-03T09:52:25.491Z",
+      "run_id": "2026-08-03T09:52"
+    },
+    {
+      "headline": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
+      "summary": "The U.S. president said Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
+      "bloc": "western",
+      "date": "2026-08-02",
+      "datetime": "2026-08-02T07:47:37Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-03T09:52:25.491Z",
+      "run_id": "2026-08-03T09:52"
     }
   ],
-  "total_items_ever": 2897
+  "total_items_ever": 2899
 }

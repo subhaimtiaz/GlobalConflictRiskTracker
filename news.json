@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-03T03:21:46.700Z",
+  "ts": "2026-08-03T09:53:30.663Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 84,
-    "oilStress": 27,
-    "updatedAt": "2026-08-03T03:21:46.700Z"
+    "oilStress": 26,
+    "updatedAt": "2026-08-03T09:53:30.663Z"
   },
   "items": [
+    {
+      "headline": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+      "summary": "Trump says 'perimeters of a deal has been agreed to' as he pauses attacks. But is there any substance to his claim?",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at",
+      "bloc": "regional",
+      "date": "2026-08-02",
+      "datetime": "2026-08-02T09:43:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
+      "summary": "The U.S. president said Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
+      "bloc": "western",
+      "date": "2026-08-02",
+      "datetime": "2026-08-02T07:47:37Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation",
       "summary": "In February 2026, the United States and Israel initiated a war in the Middle East against Iran. Since then, the warring sides have oscillated between strikes, a fragile ceasefire, and the blocking of the Strait of Hormuz. Open hostilities resumed in mid-July.…",
@@ -73,58 +125,6 @@
       "bloc": "western",
       "date": "2026-07-31",
       "datetime": "2026-07-31T13:27:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump announces deal for Hamas to disarm in Gaza, but many hurdles and uncertainty remain",
-      "summary": "President Donald Trump said Thursday that a deal has been reached for Hamas to disarm and Israel to withdraw its forces from Gaza, but many hurdles, conditions and long timelines remained to wind down the war in the Palestinian territory.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-announces-deal-for-hamas-to-disarm-in-gaza-but-many-hurdles-and-uncertainty-remain/article71289448.ece",
-      "bloc": "western",
-      "date": "2026-07-31",
-      "datetime": "2026-07-31T07:35:40Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The field marshal remaking Pakistan’s place in the world",
-      "summary": "Asim Munir is trying to refashion Pakistan’s place in the world — and bolster his power at home",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/28/pakistans-all-powerful-field-marshal-capitalises-on-ties-with-riyadh-while-keeping-a-lid-on-challenges-through-authoritarian-rule/",
-      "bloc": "western",
-      "date": "2026-07-31",
-      "datetime": "2026-07-31T05:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -244,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Fears Middle East war could expand as conflict reignites",
-      "summary": "What US President Donald Trump predicted would be a four-to-six-week joint military operation with Israel to dismantle the Iranian regime is fast sliding into a six-month stalemate with no immediate end in sight, writes Washington Correspondent Jackie Fox.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0801/1586068-iran-us-conflict/",
-      "bloc": "western",
-      "date": "2026-08-01",
-      "datetime": "2026-08-01T06:00:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-04T02:51:04.905Z",
+  "ts": "2026-08-04T08:44:03.948Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 85,
-    "oilStress": 28,
-    "updatedAt": "2026-08-04T02:51:04.905Z"
+    "oilStress": 29,
+    "updatedAt": "2026-08-04T08:44:03.948Z"
   },
   "items": [
+    {
+      "headline": "The First Great Compound War: Why America Is Fighting Iran With an Obsolete Theory of Victory",
+      "summary": "Abstract The renewed U.S. military campaign against Iran reveals more than a regional crisis—it exposes the limits of America’s prevailing theory of victory. While the United States retains overwhelming military superiority, it continues to approach contempor…",
+      "source": "Smallwarsjournal.com",
+      "url": "https://smallwarsjournal.com/2026/08/03/first-great-compound-war/",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T06:00:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The United Arab Emirates’ delicate balancing act",
+      "summary": "It has quietly rebuilt economic and diplomatic ties while also deepening defence links to Israel and the US",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/08/03/as-a-shaky-ceasefire-with-the-us-unravels-the-uae-tentatively-reopens-channels-with-iran/",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T05:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump Says He Will Order Halt To Iran Strikes After Parameters Reached For Deal To End War",
       "summary": "Trump says he'll order American forces to hold off on strikes he had threatened against Iran, claiming Mideast allies have reached the parameters of a deal to end the war.",
@@ -92,54 +144,80 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation",
-      "summary": "In February 2026, the United States and Israel initiated a war in the Middle East against Iran. Since then, the warring sides have oscillated between strikes, a fragile ceasefire, and the blocking of the Strait of Hormuz. Open hostilities resumed in mid-July.…",
-      "source": "War on the Rocks",
-      "url": "https://warontherocks.com/the-atlantic-brief-the-strait-of-hormuz-and-the-future-of-free-navigation/",
+      "headline": "Strait of Hormuz crude oil traffic reaches new peak amid U.S.-Israeli conflict with Iran",
+      "summary": "Strait of Hormuz crude oil traffic hits new peak Shipping data analyzed by Kpler shows crude oil movement through the Strait of Hormuz reached its highest level since the start of the U.S.-Israeli war on Iran in late February. On Thursday, six tankers carryin…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-03-strait-of-hormuz-crude-oil-traffic-reaches-peak.html",
       "bloc": "western",
-      "date": "2026-07-31",
-      "datetime": "2026-07-31T20:27:03Z",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Hamas agrees to disarm, the Iran-US war spirals, and the Refugee Convention at 75: The Cheat Sheet",
-      "summary": "Hamas agrees to disarm, the Iran-US war spirals, and the Refugee Convention at 75: The Cheat Sheet\n\nsofia\n\nFri, 07/31/2026 - 15:21",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/news/2026/07/31/hamas-disarm-iran-us-war-refugee-convention-75-cheat-sheet",
-      "bloc": "western",
-      "date": "2026-07-31",
-      "datetime": "2026-07-31T14:21:20Z",
+      "headline": "Tanker carrying Russian cargo reroutes around Africa after Red Sea U-turn",
+      "summary": "A Russian naphtha tanker changed course to sail around Africa.  The Sea Icon vessel avoided the Bab-el-Mandeb strait due to recent attacks.  This chokepoint has seen reduced shipping traffic after a maritime blockade declaration.  The tanker loaded over 100,0…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/tanker-carrying-russian-cargo-reroutes-around-africa-after-red-sea-u-turn/articleshow/132819736.cms",
+      "bloc": "regional",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T05:59:27Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
+      "summary": "Oil prices fell sharply in early Asian trade on Monday after President Trump called off another round of military strikes on Iran, raising hopes that a diplomatic route to reopening the Strait of Hormuz and averting a broader regional conflict could be found.…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T03:05:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -177,58 +255,6 @@
       "bloc": "western",
       "date": "2026-08-02",
       "datetime": "2026-08-02T23:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "“Guardian of the Strait”, World Cup Scripts, Millisecond Trades, and the Controlled Sinking of Global Shipping",
-      "summary": "We are still drifting along in this “short-term pain for long-term gain” narrative arc.  Remember when they told us it would just be a few days, maybe a few weeks? Well, we’re cruising past month five now, and the script is getting so loud it’s a miracle anyo…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/guardian-of-the-strait-world-cup-scripts-millisecond-trades-and-the-controlled-sinking-of-global-shipping/",
-      "bloc": "western",
-      "date": "2026-08-01",
-      "datetime": "2026-08-01T16:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Links 8/1/2026",
-      "summary": "Our fussy daily links: History of haloes, Ceuta migrant surge, Trump considers Iran land blockade + new strikes, China growth slump, F-35 crash, El Niño supply chain hit, moar energy worries, US v. Cuba health care, India exposure to Graham tariffs, Manandi v…",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/links-8-1-2026.html",
-      "bloc": "western",
-      "date": "2026-08-01",
-      "datetime": "2026-08-01T10:55:41Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

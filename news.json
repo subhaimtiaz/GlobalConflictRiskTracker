@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-04T14:24:20.764Z",
+  "ts": "2026-08-04T19:42:42.847Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 80,
+    "oilPrice": 79,
     "oilStress": 20,
-    "updatedAt": "2026-08-04T14:24:20.764Z"
+    "updatedAt": "2026-08-04T19:42:42.847Z"
   },
   "items": [
     {
@@ -144,13 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "A new Houthi front and expanded Iranian attacks risk sinking Gulf nations’ choke-point workaround and widening shipping risks",
-      "summary": "The ongoing war in Iran has created an expanding zone of risk for shipping, including for Saudi Arabia’s strategy of redirecting oil exports away from Hormuz.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/a-new-houthi-front-and-expanded-iranian-attacks-risk-sinking-gulf-nations-choke-point-workaround-and-widening-shipping-risks-288218",
+      "headline": "Iran Conflict Enters New Phase as Energy Risks Spread",
+      "summary": "The conflict involving Iran, the United States and Israel may be entering a more dangerous phase, with Tehran appearing increasingly willing to initiate attacks rather than merely respond to US strikes, while disruptions around the Strait of Hormuz threaten o…",
+      "source": "Newsonjapan.com",
+      "url": "https://newsonjapan.com/article/150229.php",
       "bloc": "western",
       "date": "2026-08-03",
-      "datetime": "2026-08-03T12:29:05Z",
+      "datetime": "2026-08-03T18:10:10Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -165,18 +165,70 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Saudi’s Yanbu Port Bustles as More Tankers Cross Chokepoint Dark",
-      "summary": "The key Saudi export port of Yanbu in the Red Sea appeared to have its busiest day since Houthi threats upended shipping in the region, while more ships transited dark through the Bab el-Mandeb chokepoint.",
+      "headline": "Iran war: Trump tells Iranian leaders to make deal or surrender",
+      "summary": "President Donald Trump declared that the US military blockade would continue until Iran either made a deal or went for \"total surrender.\" Follow DW for more. Trump calls Iran's leaders 'duplicitous,' tells them to make deal or surrender\n\n\nIran and Oman plan n…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/iran-war-trump-tells-iranian-leaders-to-make-deal-or-surrender/live-78210315",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T16:40:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran war: Trump tells Iranians to make deal or surrender",
+      "summary": "President Donald Trump declared that the US military blockade would continue until Iran either made a deal or went for \"total surrender.\" Follow DW for more. Trump calls Iran's leaders 'duplicitous,' tells them to make deal or surrender\n\n\nIran and Oman plan n…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/iran-war-trump-tells-iranians-to-make-deal-or-surrender/live-78210315",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T16:40:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Says U.S. Controls Strait of Hormuz as Iran Denies Talks",
+      "summary": "President Donald Trump declared Monday that the United States has complete control of the Strait of Hormuz and insisted negotiations with Iran are continuing, even as Tehran denied any talks...",
       "source": "gcaptain.com",
-      "url": "https://gcaptain.com/saudis-yanbu-port-bustles-as-more-tankers-cross-chokepoint-dark/",
+      "url": "https://gcaptain.com/trump-says-u-s-controls-strait-of-hormuz-as-iran-denies-talks/",
       "bloc": "western",
       "date": "2026-08-03",
-      "datetime": "2026-08-03T09:46:00Z",
+      "datetime": "2026-08-03T16:02:42Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,65 +248,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Strait of Hormuz crude oil traffic reaches new peak amid U.S.-Israeli conflict with Iran",
-      "summary": "Strait of Hormuz crude oil traffic hits new peak Shipping data analyzed by Kpler shows crude oil movement through the Strait of Hormuz reached its highest level since the start of the U.S.-Israeli war on Iran in late February. On Thursday, six tankers carryin…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-03-strait-of-hormuz-crude-oil-traffic-reaches-peak.html",
+      "headline": "Trump Backs Down From Yet Another Empty Threat to Iran",
+      "summary": "We’re locked in a cycle: The president threatens to resume the war, he claims Iran backed down, and then he gets frustrated with Iran again.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/08/03/trump-backs-down-from-yet-another-empty-threat-to-iran/",
       "bloc": "western",
       "date": "2026-08-03",
-      "datetime": "2026-08-03T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tanker carrying Russian cargo reroutes around Africa after Red Sea U-turn",
-      "summary": "A Russian naphtha tanker changed course to sail around Africa.  The Sea Icon vessel avoided the Bab-el-Mandeb strait due to recent attacks.  This chokepoint has seen reduced shipping traffic after a maritime blockade declaration.  The tanker loaded over 100,0…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/tanker-carrying-russian-cargo-reroutes-around-africa-after-red-sea-u-turn/articleshow/132819736.cms",
-      "bloc": "regional",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T05:59:27Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
-      "summary": "Oil prices fell sharply in early Asian trade on Monday after President Trump called off another round of military strikes on Iran, raising hopes that a diplomatic route to reopening the Strait of Hormuz and averting a broader regional conflict could be found.…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
-      "bloc": "western",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T03:05:00Z",
+      "datetime": "2026-08-03T15:50:39Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

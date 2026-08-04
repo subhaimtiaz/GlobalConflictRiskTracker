@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-03T19:43:05.186Z",
+  "ts": "2026-08-04T02:51:04.905Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 84,
-    "oilStress": 27,
-    "updatedAt": "2026-08-03T19:43:05.186Z"
+    "oilPrice": 85,
+    "oilStress": 28,
+    "updatedAt": "2026-08-04T02:51:04.905Z"
   },
   "items": [
+    {
+      "headline": "Trump Says He Will Order Halt To Iran Strikes After Parameters Reached For Deal To End War",
+      "summary": "Trump says he'll order American forces to hold off on strikes he had threatened against Iran, claiming Mideast allies have reached the parameters of a deal to end the war.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-halt-strikes-again-iran_n_6a6fc99ce4b03026f4f01606",
+      "bloc": "western",
+      "date": "2026-08-02",
+      "datetime": "2026-08-02T23:08:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
       "summary": "Trump says 'perimeters of a deal has been agreed to' as he pauses attacks. But is there any substance to his claim?",
@@ -118,27 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "China Helps Iran",
-      "summary": "Plus: Baby bust affects college enrollment, migrants flood into Spain, I'm writing a book, and more...",
-      "source": "Reason",
-      "url": "https://reason.com/2026/07/31/china-helps-iran/",
-      "bloc": "western",
-      "date": "2026-07-31",
-      "datetime": "2026-07-31T13:27:33Z",
+      "headline": "Oil prices surge 20% in July as US-Iran war heightens Strait of Hormuz tensions",
+      "summary": "Oil prices saw volatility last week but are set for significant monthly gains.  Escalating United States-Iran tensions and Houthi attacks are impacting global energy markets.  Saudi Arabia is forming an alliance to protect Red Sea navigation from militant blo…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/save/oil-prices-surge-20-in-july-as-us-iran-war-heightens-strait-of-hormuz-tensions/articleshow/132780097.cms",
+      "bloc": "regional",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T01:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Saudi Oil Reroutes Hit Capacity and Security Limits",
+      "summary": "When Iran shut down the Strait of Hormuz, Saudi Arabia quickly redirected its oil flows to the Red Sea. Now, that route has become dangerous because of the Houthi blockade, so Saudi is rerouting to Egypt—and two LNG tankers in the Egyptian port of Damietta ju…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
+      "bloc": "western",
+      "date": "2026-08-02",
+      "datetime": "2026-08-02T23:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -187,106 +239,6 @@
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
-      "summary": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing for a fresh round of strikes against Iran.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
-      "bloc": "western",
-      "date": "2026-08-01",
-      "datetime": "2026-08-01T10:10:40Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Kuwait Intercepts Iranian Drones as Trump Weighs Fresh Strikes",
-      "summary": "Kuwait said its air defenses had detected and destroyed Iranian drones as US President Donald Trump weighs new strikes.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/kuwait-intercepts-iranian-drones-as-trump-weighs-fresh-strikes",
-      "bloc": "western",
-      "date": "2026-08-01",
-      "datetime": "2026-08-01T08:36:50Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Summer School: Republicans' crusade to teach voters the 'New Math' on the 'commie caucus'",
-      "summary": "House Republicans hope Democrats' far-left candidates will help the GOP maintain its narrow House majority heading into the midterm elections.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/summer-school-republicans-crusade-teach-voters-new-math-commie-caucus",
-      "bloc": "western",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T22:17:11Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Trump Iran war"
-      ],
-      "dimensions": [
-        "accountability",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump critic Massie joins Democrats in unprecedented bid to sue White House over Iran war",
-      "summary": "Thomas Massie accused President Trump and Secretary Hegseth of violating the War Powers Resolution, joining Democrats in a resolution to sue over the Iran war.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/trump-critic-massie-joins-democrats-unprecedented-bid-sue-white-house-over-iran-war",
-      "bloc": "western",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T15:43:00Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Trump Iran war"
-      ],
-      "dimensions": [
-        "accountability",
         "impulsivity"
       ],
       "variable_key": null,
@@ -503,31 +455,6 @@
       "bloc": "western",
       "date": "2026-07-29",
       "datetime": "2026-07-29T09:09:33Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Trump Dithers as Strait of Hormuz Damage Compounds; Ansar Allah-Saudi Conflict Spirals, Adding to Economic Harm; Iran Threatens Retaliation Against Ukraine",
-      "summary": "Today's Iran war news: The US-Iran strikes remain on hold for a second day. But Netanyahu and other Lindsey Graham fans are in DC this week.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-dithers-as-strait-of-hormuz-damage-compounds-ansar-allah-saudi-conflict-spirals-adding-to-economic-harm-iran-threatens-retaliation-against-ukraine.html",
-      "bloc": "western",
-      "date": "2026-07-27",
-      "datetime": "2026-07-27T10:42:32Z",
       "leaders": [
         "Donald J. Trump",
         "Mojtaba Khamenei"

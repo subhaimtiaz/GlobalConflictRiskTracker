@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-04T08:42:58.744Z",
+  "updated": "2026-08-04T14:23:15.616Z",
   "retention_days": 30,
   "items": [
     {
@@ -16218,7 +16218,147 @@
       "_from": "newsapi",
       "first_seen": "2026-08-04T08:42:58.744Z",
       "run_id": "2026-08-04T08:42"
+    },
+    {
+      "headline": "Iran War: Trump Keeps Up Threat Display, False Claims of Negotiations as He TACOs; Israel Still Pressing for Escalation as US Withdrawals Continue",
+      "summary": "Today's Iran war news: Coming shortages will limit how long Trump can TACO at comparatively low cost. What happens then?",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-trump-keeps-up-threat-display-false-claims-of-negotiations-as-he-tacos-israel-still-pressing-for-escalation-as-us-withdrawals-continue.html",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T10:54:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-04T14:23:15.616Z",
+      "run_id": "2026-08-04T14:23"
+    },
+    {
+      "headline": "Spain’s Migrant Crisis Follows Years of Israeli Warnings, US Pushback",
+      "summary": "Spain’s Ceuta crisis follows years of Israeli and U.S. rhetoric and pressure toward Madrid as Morocco’s border failure remains unexplained.",
+      "source": "Military.com",
+      "url": "https://military.com/spains-migrant-crisis-follows-years-of-israeli-warnings-us-pushback",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T10:00:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-04T14:23:15.616Z",
+      "run_id": "2026-08-04T14:23"
+    },
+    {
+      "headline": "A new Houthi front and expanded Iranian attacks risk sinking Gulf nations’ choke-point workaround and widening shipping risks",
+      "summary": "The ongoing war in Iran has created an expanding zone of risk for shipping, including for Saudi Arabia’s strategy of redirecting oil exports away from Hormuz.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/a-new-houthi-front-and-expanded-iranian-attacks-risk-sinking-gulf-nations-choke-point-workaround-and-widening-shipping-risks-288218",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T12:29:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-04T14:23:15.616Z",
+      "run_id": "2026-08-04T14:23"
+    },
+    {
+      "headline": "Saudi’s Yanbu Port Bustles as More Tankers Cross Chokepoint Dark",
+      "summary": "The key Saudi export port of Yanbu in the Red Sea appeared to have its busiest day since Houthi threats upended shipping in the region, while more ships transited dark through the Bab el-Mandeb chokepoint.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/saudis-yanbu-port-bustles-as-more-tankers-cross-chokepoint-dark/",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T09:46:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-04T14:23:15.616Z",
+      "run_id": "2026-08-04T14:23"
+    },
+    {
+      "headline": "Current price of oil as of August 3, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-03-2026/",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T10:50:37Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-04T14:23:15.616Z",
+      "run_id": "2026-08-04T14:23"
     }
   ],
-  "total_items_ever": 2909
+  "total_items_ever": 2914
 }

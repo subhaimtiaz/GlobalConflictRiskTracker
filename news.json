@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-04T08:44:03.948Z",
+  "ts": "2026-08-04T14:24:20.764Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 85,
-    "oilStress": 29,
-    "updatedAt": "2026-08-04T08:44:03.948Z"
+    "oilPrice": 80,
+    "oilStress": 20,
+    "updatedAt": "2026-08-04T14:24:20.764Z"
   },
   "items": [
+    {
+      "headline": "Iran War: Trump Keeps Up Threat Display, False Claims of Negotiations as He TACOs; Israel Still Pressing for Escalation as US Withdrawals Continue",
+      "summary": "Today's Iran war news: Coming shortages will limit how long Trump can TACO at comparatively low cost. What happens then?",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-trump-keeps-up-threat-display-false-claims-of-negotiations-as-he-tacos-israel-still-pressing-for-escalation-as-us-withdrawals-continue.html",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T10:54:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Spain’s Migrant Crisis Follows Years of Israeli Warnings, US Pushback",
+      "summary": "Spain’s Ceuta crisis follows years of Israeli and U.S. rhetoric and pressure toward Madrid as Morocco’s border failure remains unexplained.",
+      "source": "Military.com",
+      "url": "https://military.com/spains-migrant-crisis-follows-years-of-israeli-warnings-us-pushback",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T10:00:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The First Great Compound War: Why America Is Fighting Iran With an Obsolete Theory of Victory",
       "summary": "Abstract The renewed U.S. military campaign against Iran reveals more than a regional crisis—it exposes the limits of America’s prevailing theory of victory. While the United States retains overwhelming military superiority, it continues to approach contempor…",
@@ -92,54 +144,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-      "summary": "Trump says 'perimeters of a deal has been agreed to' as he pauses attacks. But is there any substance to his claim?",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at",
-      "bloc": "regional",
-      "date": "2026-08-02",
-      "datetime": "2026-08-02T09:43:10Z",
+      "headline": "A new Houthi front and expanded Iranian attacks risk sinking Gulf nations’ choke-point workaround and widening shipping risks",
+      "summary": "The ongoing war in Iran has created an expanding zone of risk for shipping, including for Saudi Arabia’s strategy of redirecting oil exports away from Hormuz.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/a-new-houthi-front-and-expanded-iranian-attacks-risk-sinking-gulf-nations-choke-point-workaround-and-widening-shipping-risks-288218",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T12:29:05Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
-      "summary": "The U.S. president said Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
+      "headline": "Saudi’s Yanbu Port Bustles as More Tankers Cross Chokepoint Dark",
+      "summary": "The key Saudi export port of Yanbu in the Red Sea appeared to have its busiest day since Houthi threats upended shipping in the region, while more ships transited dark through the Bab el-Mandeb chokepoint.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/saudis-yanbu-port-bustles-as-more-tankers-cross-chokepoint-dark/",
       "bloc": "western",
-      "date": "2026-08-02",
-      "datetime": "2026-08-02T07:47:37Z",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T09:46:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -218,58 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil prices surge 20% in July as US-Iran war heightens Strait of Hormuz tensions",
-      "summary": "Oil prices saw volatility last week but are set for significant monthly gains.  Escalating United States-Iran tensions and Houthi attacks are impacting global energy markets.  Saudi Arabia is forming an alliance to protect Red Sea navigation from militant blo…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/save/oil-prices-surge-20-in-july-as-us-iran-war-heightens-strait-of-hormuz-tensions/articleshow/132780097.cms",
-      "bloc": "regional",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T01:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Oil Reroutes Hit Capacity and Security Limits",
-      "summary": "When Iran shut down the Strait of Hormuz, Saudi Arabia quickly redirected its oil flows to the Red Sea. Now, that route has become dangerous because of the Houthi blockade, so Saudi is rerouting to Egypt—and two LNG tankers in the Egyptian port of Damietta ju…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
-      "bloc": "western",
-      "date": "2026-08-02",
-      "datetime": "2026-08-02T23:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -370,6 +370,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Current price of oil as of August 3, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-03-2026/",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T10:50:37Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Hormuz Oil Shuttling Trade Is Picking Up Again After Lull",
       "summary": "The oil-shuttling service that has been crucial to getting cargoes out of the Strait of Hormuz has picked up again after a recent lull, helping millions of barrels escape as Middle East hostilities escalate.",
       "source": "gcaptain.com",
@@ -429,32 +455,6 @@
       "bloc": "western",
       "date": "2026-07-29",
       "datetime": "2026-07-29T05:47:01Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Rupee's RBI-spurred rally faces twin headwinds of oil volatility, Fed uncertainty",
-      "summary": "The currency ‌has drawn support over the last three ​sessions from likely intervention by the Reserve Bank ⁠of India, which traders expect will continue to underpin the currency",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupees-rbi-spurred-rally-faces-twin-headwinds-of-oil-volatility-fed-uncertainty/article71279665.ece",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T03:51:59Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

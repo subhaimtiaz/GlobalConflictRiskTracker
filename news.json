@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-05T08:42:10.277Z",
+  "ts": "2026-08-05T14:17:53.652Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 80,
-    "oilStress": 21,
-    "updatedAt": "2026-08-05T08:42:10.277Z"
+    "oilStress": 20,
+    "updatedAt": "2026-08-05T14:17:53.652Z"
   },
   "items": [
+    {
+      "headline": "Israel ‘Destroying Crucial Evidence of Genocide’ in Gaza: Monitor",
+      "summary": "A new report published Monday details how Israeli soldiers and civilian contractors are systematically removing potential proof of genocide from the Gaza Strip, an apparent violation of an order issued by the World Court for Israel to preserve evidence of gen…",
+      "source": "Antiwar.com",
+      "url": "https://www.antiwar.com/blog/2026/08/04/israel-destroying-crucial-evidence-of-genocide-in-gaza-monitor/",
+      "bloc": "western",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T13:00:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
+      "summary": "New diplomatic push undertaken as repeated ceasefire failures expose limits of mediation.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens",
+      "bloc": "regional",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T12:21:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Top U.S. General Warns of Insufficient Naval Forces to Protect Israel",
       "summary": "The highest-ranking U.S. general in Europe has told the Department of War that he does not have enough naval forces to continue protecting Israel from Iranian ballistic missiles, according to a Washington Post report published Saturday, Aug. 1. Gen. Alexus Gr…",
@@ -92,54 +144,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War: Trump Keeps Up Threat Display, False Claims of Negotiations as He TACOs; Israel Still Pressing for Escalation as US Withdrawals Continue",
-      "summary": "Today's Iran war news: Coming shortages will limit how long Trump can TACO at comparatively low cost. What happens then?",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-trump-keeps-up-threat-display-false-claims-of-negotiations-as-he-tacos-israel-still-pressing-for-escalation-as-us-withdrawals-continue.html",
-      "bloc": "western",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T10:54:29Z",
+      "headline": "Global Market: Goldman Sachs sees Brent crude trading at $80-$90 until Iran conflict outlook clears",
+      "summary": "Goldman Sachs forecasts Brent crude prices between $80 and $90 per barrel. This range persists until clarity emerges on US-Iran nuclear talks. Physical oil markets are tightening significantly due to reduced flows from key regions. Gulf oil exports have dropp…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-goldman-sachs-sees-brent-crude-trading-at-80-90-until-iran-conflict-outlook-clears/articleshow/132855041.cms",
+      "bloc": "regional",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T09:28:49Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Spain’s Migrant Crisis Follows Years of Israeli Warnings, US Pushback",
-      "summary": "Spain’s Ceuta crisis follows years of Israeli and U.S. rhetoric and pressure toward Madrid as Morocco’s border failure remains unexplained.",
-      "source": "Military.com",
-      "url": "https://military.com/spains-migrant-crisis-follows-years-of-israeli-warnings-us-pushback",
+      "headline": "Iran war wipes out 2.6B barrels of oil supply",
+      "summary": "The conflict-induced oil supply shock exacerbates global market instability, highlighting the critical need for diplomatic resolutions in volatile regions.\nThe post Iran war wipes out 2.6B barrels of oil supply appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-war-wipes-out-26b-barrels-of-oil-supply/",
       "bloc": "western",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T10:00:12Z",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T09:04:53Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -166,84 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Conflict Enters New Phase as Energy Risks Spread",
-      "summary": "The conflict involving Iran, the United States and Israel may be entering a more dangerous phase, with Tehran appearing increasingly willing to initiate attacks rather than merely respond to US strikes, while disruptions around the Strait of Hormuz threaten o…",
-      "source": "Newsonjapan.com",
-      "url": "https://newsonjapan.com/article/150229.php",
-      "bloc": "western",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T18:10:10Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran war: Trump tells Iranian leaders to make deal or surrender",
-      "summary": "President Donald Trump declared that the US military blockade would continue until Iran either made a deal or went for \"total surrender.\" Follow DW for more. Trump calls Iran's leaders 'duplicitous,' tells them to make deal or surrender\n\n\nIran and Oman plan n…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/iran-war-trump-tells-iranian-leaders-to-make-deal-or-surrender/live-78210315",
-      "bloc": "western",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T16:40:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran war: Trump tells Iranians to make deal or surrender",
-      "summary": "President Donald Trump declared that the US military blockade would continue until Iran either made a deal or went for \"total surrender.\" Follow DW for more. Trump calls Iran's leaders 'duplicitous,' tells them to make deal or surrender\n\n\nIran and Oman plan n…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/iran-war-trump-tells-iranians-to-make-deal-or-surrender/live-78210315",
-      "bloc": "western",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T16:40:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -471,6 +445,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Day 1,623 of WW3. Today's MadLib: UAF uses sea drones to carry FPV drones to attack Crimean radars. Orcs destroy 300 year old Cossack church in Kherson, and another Widlberries warehouse has a sale on cotton. This is your Tuesday Ukraine war thread [News]",
+      "summary": "Day 1,623 of WW3. Today's MadLib: UAF uses sea drones to carry FPV drones to attack Crimean radars. Orcs destroy 300 year old Cossack church in Kherson, and another Widlberries warehouse has a sale on cotton. This is your Tuesday Ukraine war thread",
+      "source": "Fark.com",
+      "url": "https://www.fark.com/comments/14152412/Day-1623-of-WW3-Todays-MadLib-UAF-uses-sea-drones-to-carry-FPV-drones-to-attack-Crimean-radars-Orcs-destroy-300-year-old-Cossack-church-in-Kherson-another-Widlberries-warehouse-has-a-sale-on-cotton-This-is-your-Tuesday-Ukraine-war-thread",
+      "bloc": "western",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Kyiv hits Rosneft refinery, Engels air base in Russia",
       "summary": "The renewed attacks threaten to disrupt Russia's fuel supplies just as several regions had begun easing restrictions on gasoline and diesel sales imposed during recent shortages. The Saratov refinery, with a crude processing capacity of about 140,000 barrels …",
       "source": "The Times of India",
@@ -547,29 +544,6 @@
       "bloc": "western",
       "date": "2026-07-31",
       "datetime": "2026-07-31T10:56:53Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How Vladimir Putin’s refinery dream became a target for Ukraine",
-      "summary": "Damage to Russian refineries still visible from space months after strikes",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/europe/2026/07/30/how-vladimir-putins-refinery-dream-became-a-target-for-ukraine/",
-      "bloc": "western",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T11:53:15Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

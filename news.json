@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-05T14:17:53.652Z",
+  "ts": "2026-08-05T19:41:15.352Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 80,
     "oilStress": 20,
-    "updatedAt": "2026-08-05T14:17:53.652Z"
+    "updatedAt": "2026-08-05T19:41:15.352Z"
   },
   "items": [
+    {
+      "headline": "US hopeful Hormuz strait deal will be done ‘today or tomorrow’",
+      "summary": "US Treasury Secretary Scott Bessent told broadcaster CNBC \"there is a chance we may have a deal\" in the coming hours, echoing remarks from President Donald Trump the day before.\nThe post US hopeful Hormuz strait deal will be done ‘today or tomorrow’ appeared …",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/us-hopeful-hormuz-strait-deal-will-be-done-today-or-tomorrow/",
+      "bloc": "western",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T19:26:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Israel ‘Destroying Crucial Evidence of Genocide’ in Gaza: Monitor",
       "summary": "A new report published Monday details how Israeli soldiers and civilian contractors are systematically removing potential proof of genocide from the Gaza Strip, an apparent violation of an order issued by the World Court for Israel to preserve evidence of gen…",
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "New talks ‘last chance’ for Iran to forge deal, avoid escalation of US strikes: Trump",
-      "summary": "Trump, speaking at the Oval Office, said he expects negotiations will focus on reopening the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear programme.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/new-talks-last-chance-for-iran-to-forge-deal-avoid-escalation-of-us-strikes-trump/article71303707.ece",
-      "bloc": "western",
-      "date": "2026-08-04",
-      "datetime": "2026-08-04T01:43:36Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -337,6 +337,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "ONGC Profit More Than Doubles as Oil Prices Surge",
+      "summary": "India’s Oil and Natural Gas Corporation more than doubled its quarterly profit as higher crude and natural gas prices—and a weaker rupee—more than made up for another drop in production. ONGC reported net income of 170.34 billion rupees, or about $1.8 billion…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/ONGC-Profit-More-Than-Doubles-as-Oil-Prices-Surge.html",
+      "bloc": "western",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T16:30:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-05T14:16:48.068Z",
+  "updated": "2026-08-05T19:40:09.956Z",
   "retention_days": 30,
   "items": [
     {
@@ -16578,7 +16578,63 @@
       "_from": "newsapi",
       "first_seen": "2026-08-05T14:16:48.068Z",
       "run_id": "2026-08-05T14:16"
+    },
+    {
+      "headline": "US hopeful Hormuz strait deal will be done ‘today or tomorrow’",
+      "summary": "US Treasury Secretary Scott Bessent told broadcaster CNBC \"there is a chance we may have a deal\" in the coming hours, echoing remarks from President Donald Trump the day before.\nThe post US hopeful Hormuz strait deal will be done ‘today or tomorrow’ appeared …",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/us-hopeful-hormuz-strait-deal-will-be-done-today-or-tomorrow/",
+      "bloc": "western",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T19:26:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-05T19:40:09.956Z",
+      "run_id": "2026-08-05T19:40"
+    },
+    {
+      "headline": "ONGC Profit More Than Doubles as Oil Prices Surge",
+      "summary": "India’s Oil and Natural Gas Corporation more than doubled its quarterly profit as higher crude and natural gas prices—and a weaker rupee—more than made up for another drop in production. ONGC reported net income of 170.34 billion rupees, or about $1.8 billion…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/ONGC-Profit-More-Than-Doubles-as-Oil-Prices-Surge.html",
+      "bloc": "western",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T16:30:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-05T19:40:09.956Z",
+      "run_id": "2026-08-05T19:40"
     }
   ],
-  "total_items_ever": 2930
+  "total_items_ever": 2932
 }

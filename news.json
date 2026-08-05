@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-04T19:42:42.847Z",
+  "ts": "2026-08-05T02:48:10.892Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 79,
-    "oilStress": 20,
-    "updatedAt": "2026-08-04T19:42:42.847Z"
+    "oilStress": 19,
+    "updatedAt": "2026-08-05T02:48:10.892Z"
   },
   "items": [
+    {
+      "headline": "Israel 'Destroying Crucial Evidence of Genocide' in Gaza: Monitor",
+      "summary": "A new report published Monday details how Israeli soldiers and civilian contractors are systematically removing potential proof of genocide from the Gaza Strip, an apparent violation of an order issued by the World Court for Israel to preserve evidence of gen…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/news/israel-destroying-genocide-evidence",
+      "bloc": "western",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T01:47:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "New talks ‘last chance’ for Iran to forge deal, avoid escalation of US strikes: Trump",
+      "summary": "Trump, speaking at the Oval Office, said he expects negotiations will focus on reopening the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear programme.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/new-talks-last-chance-for-iran-to-forge-deal-avoid-escalation-of-us-strikes-trump/article71303707.ece",
+      "bloc": "western",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T01:43:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran War: Trump Keeps Up Threat Display, False Claims of Negotiations as He TACOs; Israel Still Pressing for Escalation as US Withdrawals Continue",
       "summary": "Today's Iran war news: Coming shortages will limit how long Trump can TACO at comparatively low cost. What happens then?",
@@ -88,58 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The United Arab Emirates’ delicate balancing act",
-      "summary": "It has quietly rebuilt economic and diplomatic ties while also deepening defence links to Israel and the US",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/08/03/as-a-shaky-ceasefire-with-the-us-unravels-the-uae-tentatively-reopens-channels-with-iran/",
-      "bloc": "western",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T05:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Says He Will Order Halt To Iran Strikes After Parameters Reached For Deal To End War",
-      "summary": "Trump says he'll order American forces to hold off on strikes he had threatened against Iran, claiming Mideast allies have reached the parameters of a deal to end the war.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-halt-strikes-again-iran_n_6a6fc99ce4b03026f4f01606",
-      "bloc": "western",
-      "date": "2026-08-02",
-      "datetime": "2026-08-02T23:08:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -248,20 +248,18 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Backs Down From Yet Another Empty Threat to Iran",
-      "summary": "We’re locked in a cycle: The president threatens to resume the war, he claims Iran backed down, and then he gets frustrated with Iran again.",
-      "source": "Reason",
-      "url": "https://reason.com/2026/08/03/trump-backs-down-from-yet-another-empty-threat-to-iran/",
+      "headline": "The chilling warning every Australian should read as China builds military capable of striking our cities - and they won't even need bombs to bring us down",
+      "summary": "A warning has been issued to Australians.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15998019/china-military-australia-lowy-institute-shoebridge-cyberattack-navy.html",
       "bloc": "western",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T15:50:39Z",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T00:54:37Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
         "Xi Jinping"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",
@@ -372,8 +370,8 @@
     {
       "headline": "Current price of oil as of August 3, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-08-03-2026/",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-august-3-105037044.html",
       "bloc": "western",
       "date": "2026-08-03",
       "datetime": "2026-08-03T10:50:37Z",
@@ -448,32 +446,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "There Is No Oil Price",
-      "summary": "The Oil Primer, Midstream. Everything between the wellhead and the engine, who owns it, and where the war's money really landed.",
-      "source": "Substack.com",
-      "url": "https://tscsw.substack.com/p/there-is-no-oil-price",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T05:47:01Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Iran War: Iran Hits US Base in Jordan After US-Saudi Strike on Iraqi Militia",
       "summary": "Today's Iran war news. So much for that pause. Iran hit the US base in Jordan because provocation as Netanyahu pushes for bigger US strikes.",
       "source": "Nakedcapitalism.com",
@@ -495,30 +467,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Regime change? Inside Reza Pahlavi's faltering bid to lead Iran",
-      "summary": "Reza Pahlavi, the exiled son of Iran's last shah, is facing growing questions over his leadership ambitions despite years of campaigning for democratic change. A Reuters investigation finds waning donor confidence, opposition divisions and a lack of backing f…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/regime-change-inside-reza-pahlavis-faltering-bid-to-lead-iran/articleshow/132681493.cms",
-      "bloc": "regional",
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T10:08:13Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran IRGC regime"
-      ],
-      "dimensions": [
-        "survival",
-        "accountability"
-      ],
-      "variable_key": "iranRegimeCohesion",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

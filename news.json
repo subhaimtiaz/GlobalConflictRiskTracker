@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-05T02:48:10.892Z",
+  "ts": "2026-08-05T08:42:10.277Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 79,
-    "oilStress": 19,
-    "updatedAt": "2026-08-05T02:48:10.892Z"
+    "oilPrice": 80,
+    "oilStress": 21,
+    "updatedAt": "2026-08-05T08:42:10.277Z"
   },
   "items": [
+    {
+      "headline": "Top U.S. General Warns of Insufficient Naval Forces to Protect Israel",
+      "summary": "The highest-ranking U.S. general in Europe has told the Department of War that he does not have enough naval forces to continue protecting Israel from Iranian ballistic missiles, according to a Washington Post report published Saturday, Aug. 1. Gen. Alexus Gr…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-04-general-warns-insufficient-naval-forces-protect-israel.html",
+      "bloc": "western",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Israel 'Destroying Crucial Evidence of Genocide' in Gaza: Monitor",
       "summary": "A new report published Monday details how Israeli soldiers and civilian contractors are systematically removing potential proof of genocide from the Gaza Strip, an apparent violation of an order issued by the World Court for Israel to preserve evidence of gen…",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The First Great Compound War: Why America Is Fighting Iran With an Obsolete Theory of Victory",
-      "summary": "Abstract The renewed U.S. military campaign against Iran reveals more than a regional crisis—it exposes the limits of America’s prevailing theory of victory. While the United States retains overwhelming military superiority, it continues to approach contempor…",
-      "source": "Smallwarsjournal.com",
-      "url": "https://smallwarsjournal.com/2026/08/03/first-great-compound-war/",
+      "headline": "A new Houthi front and expanded Iranian Attacks risk sinking Gulf Nations’ Workaround and widening shipping Risks",
+      "summary": "The incidents have expanded the risk for shipping to the Bab al-Mandab between Yemen and the Horn of Africa and the Suez Canal",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/08/expanded-workaround-widening.html",
       "bloc": "western",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T06:00:48Z",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T04:04:50Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-08-03",
       "datetime": "2026-08-03T16:40:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Says U.S. Controls Strait of Hormuz as Iran Denies Talks",
-      "summary": "President Donald Trump declared Monday that the United States has complete control of the Strait of Hormuz and insisted negotiations with Iran are continuing, even as Tehran denied any talks...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/trump-says-u-s-controls-strait-of-hormuz-as-iran-denies-talks/",
-      "bloc": "western",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T16:02:42Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -368,6 +368,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump Blasts Oil Companies For Making “Too Much Money” During Iran Conflict As Chevron and Exxon Profits Skyrocket",
+      "summary": "Trump is furious at the oil companies profiting from a war his own administration is fighting, and now a DOJ probe and a possible export ban are putting bill...",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/03/trump-blasts-oil-companies-for-making-too-much-money-during-iran-conflict-as-chevron-and-exxon-profits-skyrocket/",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T18:56:22Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Current price of oil as of August 3, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
       "source": "Yahoo Entertainment",
@@ -401,32 +427,6 @@
       "bloc": "western",
       "date": "2026-07-31",
       "datetime": "2026-07-31T15:00:54Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Sensex rises 888 pts to close at 77,654, Nifty ends at 24,250; Hindustan Unilever, Infosys top gainers",
-      "summary": "Sensex Today, Nifty 50 | Stock Market Highlights: Find here all the key highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 29th July 2026.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-29-july-2026/article71276758.ece",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T10:58:52Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

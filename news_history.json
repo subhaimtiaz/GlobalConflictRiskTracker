@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-05T02:47:05.618Z",
+  "updated": "2026-08-05T08:41:05.007Z",
   "retention_days": 30,
   "items": [
     {
@@ -16357,7 +16357,91 @@
       "_from": "newsapi",
       "first_seen": "2026-08-05T02:47:05.618Z",
       "run_id": "2026-08-05T02:47"
+    },
+    {
+      "headline": "Top U.S. General Warns of Insufficient Naval Forces to Protect Israel",
+      "summary": "The highest-ranking U.S. general in Europe has told the Department of War that he does not have enough naval forces to continue protecting Israel from Iranian ballistic missiles, according to a Washington Post report published Saturday, Aug. 1. Gen. Alexus Gr…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-04-general-warns-insufficient-naval-forces-protect-israel.html",
+      "bloc": "western",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-05T08:41:05.007Z",
+      "run_id": "2026-08-05T08:41"
+    },
+    {
+      "headline": "A new Houthi front and expanded Iranian Attacks risk sinking Gulf Nations’ Workaround and widening shipping Risks",
+      "summary": "The incidents have expanded the risk for shipping to the Bab al-Mandab between Yemen and the Horn of Africa and the Suez Canal",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/08/expanded-workaround-widening.html",
+      "bloc": "western",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T04:04:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-05T08:41:05.007Z",
+      "run_id": "2026-08-05T08:41"
+    },
+    {
+      "headline": "Trump Blasts Oil Companies For Making “Too Much Money” During Iran Conflict As Chevron and Exxon Profits Skyrocket",
+      "summary": "Trump is furious at the oil companies profiting from a war his own administration is fighting, and now a DOJ probe and a possible export ban are putting bill...",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/03/trump-blasts-oil-companies-for-making-too-much-money-during-iran-conflict-as-chevron-and-exxon-profits-skyrocket/",
+      "bloc": "western",
+      "date": "2026-08-03",
+      "datetime": "2026-08-03T18:56:22Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-05T08:41:05.007Z",
+      "run_id": "2026-08-05T08:41"
     }
   ],
-  "total_items_ever": 2922
+  "total_items_ever": 2925
 }

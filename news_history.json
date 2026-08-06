@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-06T02:50:16.011Z",
+  "updated": "2026-08-06T08:42:13.011Z",
   "retention_days": 30,
   "items": [
     {
@@ -16192,7 +16192,88 @@
       "_from": "newsapi",
       "first_seen": "2026-08-06T02:50:16.011Z",
       "run_id": "2026-08-06T02:50"
+    },
+    {
+      "headline": "Report: Iran, Oman Near Deal to Reopen Strait of Hormuz With “Service Fee” Collection",
+      "summary": "Iran and Oman are close to an agreement to fully reopen the Strait of Hormuz to shipping traffic, according to the New York Times (NYT), which cited Iranian and U.S. officials familiar with the developing accord. Under the reported arrangement, ships entering…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-05-report-iran-oman-near-agreement-reopen-hormuz.html",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-06T08:42:13.011Z",
+      "run_id": "2026-08-06T08:42"
+    },
+    {
+      "headline": "Trump Says Deal To Reopen Strait Of Hormuz Could Come As Early As Wednesday",
+      "summary": "The president is also under mounting pressure to end an unpopular war ahead of midterm congressional elections scheduled for later this year.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-says-hormuz-deal-is-near_n_6a72f0cae4b095f52300e91e",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T08:22:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-06T08:42:13.011Z",
+      "run_id": "2026-08-06T08:42"
+    },
+    {
+      "headline": "Tensions Flicker Into Flame, Lapping Across the Middle East",
+      "summary": "The best Trump can do is to stop the conflicts agglutinating into one global war. The silence surrounding the outcome to the Netanyahu meeting last week in the Oval Office speaks for itself. No American government official came to the airport to receive him, …",
+      "source": "Lewrockwell.com",
+      "url": "https://www.lewrockwell.com/2026/08/no_author/tensions-flicker-into-flame-lapping-across-the-middle-east/",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T04:01:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-06T08:42:13.011Z",
+      "run_id": "2026-08-06T08:42"
     }
   ],
-  "total_items_ever": 2933
+  "total_items_ever": 2936
 }

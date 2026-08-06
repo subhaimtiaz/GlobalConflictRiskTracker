@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-06T02:51:21.178Z",
+  "ts": "2026-08-06T08:43:18.161Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 80,
-    "oilStress": 21,
-    "updatedAt": "2026-08-06T02:51:21.178Z"
+    "oilStress": 20,
+    "updatedAt": "2026-08-06T08:43:18.161Z"
   },
   "items": [
+    {
+      "headline": "Report: Iran, Oman Near Deal to Reopen Strait of Hormuz With “Service Fee” Collection",
+      "summary": "Iran and Oman are close to an agreement to fully reopen the Strait of Hormuz to shipping traffic, according to the New York Times (NYT), which cited Iranian and U.S. officials familiar with the developing accord. Under the reported arrangement, ships entering…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-05-report-iran-oman-near-agreement-reopen-hormuz.html",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Donald Trump’s ‘art of the deal’ means reneging on them. That’s why Canada cannot capitulate",
       "summary": "Countries that sign deals with the Trump administration are quickly finding out that the stability and certainty they hoped to purchase was an illusion.",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Top U.S. General Warns of Insufficient Naval Forces to Protect Israel",
-      "summary": "The highest-ranking U.S. general in Europe has told the Department of War that he does not have enough naval forces to continue protecting Israel from Iranian ballistic missiles, according to a Washington Post report published Saturday, Aug. 1. Gen. Alexus Gr…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-04-general-warns-insufficient-naval-forces-protect-israel.html",
+      "headline": "Trump Says Deal To Reopen Strait Of Hormuz Could Come As Early As Wednesday",
+      "summary": "The president is also under mounting pressure to end an unpopular war ahead of midterm congressional elections scheduled for later this year.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-says-hormuz-deal-is-near_n_6a72f0cae4b095f52300e91e",
       "bloc": "western",
-      "date": "2026-08-04",
-      "datetime": "2026-08-04T06:00:00Z",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T08:22:10Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -372,28 +398,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Hormuz Oil Shuttling Trade Is Picking Up Again After Lull",
-      "summary": "The oil-shuttling service that has been crucial to getting cargoes out of the Strait of Hormuz has picked up again after a recent lull, helping millions of barrels escape as Middle East hostilities escalate.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/hormuz-oil-shuttling-trade-is-picking-up-again-after-lull/",
+      "headline": "Tensions Flicker Into Flame, Lapping Across the Middle East",
+      "summary": "The best Trump can do is to stop the conflicts agglutinating into one global war. The silence surrounding the outcome to the Netanyahu meeting last week in the Oval Office speaks for itself. No American government official came to the airport to receive him, …",
+      "source": "Lewrockwell.com",
+      "url": "https://www.lewrockwell.com/2026/08/no_author/tensions-flicker-into-flame-lapping-across-the-middle-east/",
       "bloc": "western",
-      "date": "2026-07-31",
-      "datetime": "2026-07-31T15:00:54Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T04:01:00Z",
+      "leaders": [],
       "watch_terms": [
-        "oil Brent crude"
+        "oil refinery port"
       ],
       "dimensions": [
         "survival",
-        "values"
+        "impulsivity",
+        "accountability"
       ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -474,29 +497,6 @@
       "bloc": "western",
       "date": "2026-07-31",
       "datetime": "2026-07-31T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Risk of Widening Conflict as Saudis Form “Defensive” Coalition, Iran Depicts Egypt LNG Platform Attack as Israel False Flag; Postol – Iran Missiles More Powerful Than Oreshnik; IRGC Provides Images of F-35s Destroyed in Jordan",
-      "summary": "Today's Iran war news: The Saudis rearrange deck chairs on their Titanic as the IRCG documents their successful F-35 hits.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-risk-of-widening-conflict-as-saudis-form-defensive-coalition-iran-depicts-egypt-lng-platform-attack-as-israel-false-flag-postol-iran-missiles-more-powerful-than-oreshnik-irgc-provid.html",
-      "bloc": "western",
-      "date": "2026-07-31",
-      "datetime": "2026-07-31T10:56:53Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

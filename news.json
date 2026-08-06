@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-05T19:41:15.352Z",
+  "ts": "2026-08-06T02:51:21.178Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 80,
-    "oilStress": 20,
-    "updatedAt": "2026-08-05T19:41:15.352Z"
+    "oilStress": 21,
+    "updatedAt": "2026-08-06T02:51:21.178Z"
   },
   "items": [
+    {
+      "headline": "Donald Trump’s ‘art of the deal’ means reneging on them. That’s why Canada cannot capitulate",
+      "summary": "Countries that sign deals with the Trump administration are quickly finding out that the stability and certainty they hoped to purchase was an illusion.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/donald-trumps-art-of-the-deal-means-reneging-on-them-thats-why-canada-cannot-capitulate-288442",
+      "bloc": "western",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T21:21:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US hopeful Hormuz strait deal will be done ‘today or tomorrow’",
       "summary": "US Treasury Secretary Scott Bessent told broadcaster CNBC \"there is a chance we may have a deal\" in the coming hours, echoing remarks from President Donald Trump the day before.\nThe post US hopeful Hormuz strait deal will be done ‘today or tomorrow’ appeared …",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-08-04",
       "datetime": "2026-08-04T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israel 'Destroying Crucial Evidence of Genocide' in Gaza: Monitor",
-      "summary": "A new report published Monday details how Israeli soldiers and civilian contractors are systematically removing potential proof of genocide from the Gaza Strip, an apparent violation of an order issued by the World Court for Israel to preserve evidence of gen…",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/news/israel-destroying-genocide-evidence",
-      "bloc": "western",
-      "date": "2026-08-04",
-      "datetime": "2026-08-04T01:47:51Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -294,54 +294,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "China Moves to Lock in a New Edge on Taiwan Before the Next Trump-Xi Summit",
-      "summary": "The China Coast Guard has apparently established a regular presence in the waters east of Taiwan, asserting Beijing’s jurisdictional claim.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/07/china-moves-to-lock-in-a-new-edge-on-taiwan-before-the-next-trump-xi-summit/",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T14:19:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
-      "summary": "New law enforcement operations could quickly escalate into a blockade of Taiwan, say analysts.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols",
-      "bloc": "regional",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T05:22:18Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "ONGC Profit More Than Doubles as Oil Prices Surge",
       "summary": "India’s Oil and Natural Gas Corporation more than doubled its quarterly profit as higher crude and natural gas prices—and a weaker rupee—more than made up for another drop in production. ONGC reported net income of 170.34 billion rupees, or about $1.8 billion…",
       "source": "OilPrice.com",
@@ -442,31 +394,6 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Iran Hits US Base in Jordan After US-Saudi Strike on Iraqi Militia",
-      "summary": "Today's Iran war news. So much for that pause. Iran hit the US base in Jordan because provocation as Netanyahu pushes for bigger US strikes.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-iran-hits-us-base-in-jordan-after-us-saudi-strike-on-iraqi-militia.html",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T09:09:33Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

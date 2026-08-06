@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-06T08:43:18.161Z",
+  "ts": "2026-08-06T14:21:32.954Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 80,
-    "oilStress": 20,
-    "updatedAt": "2026-08-06T08:43:18.161Z"
+    "oilPrice": 81,
+    "oilStress": 22,
+    "updatedAt": "2026-08-06T14:21:32.954Z"
   },
   "items": [
     {
@@ -144,13 +144,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Says Deal To Reopen Strait Of Hormuz Could Come As Early As Wednesday",
-      "summary": "The president is also under mounting pressure to end an unpopular war ahead of midterm congressional elections scheduled for later this year.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-says-hormuz-deal-is-near_n_6a72f0cae4b095f52300e91e",
+      "headline": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
+      "summary": "Despite the apparent step towards yielding to Iranian demands, the sources pushed back against assertions by U.S. President Donald Trump that a deal ​reopening the strait was imminent, saying important details still had to be agreed.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/proposed-hormuz-deal-would-give-iran-control-of-inbound-traffic-sources-say/articleshow/132929979.cms",
+      "bloc": "regional",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T13:02:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
+      "summary": "U.S. President Donald Trump says a deal to reopen the Strait of Hormuz could come as early as Wednesday",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/trump-deal-reopen-strait-hormuz-early-wednesday-135376627",
       "bloc": "western",
       "date": "2026-08-05",
-      "datetime": "2026-08-05T08:22:10Z",
+      "datetime": "2026-08-05T12:05:24Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Global Market: Goldman Sachs sees Brent crude trading at $80-$90 until Iran conflict outlook clears",
-      "summary": "Goldman Sachs forecasts Brent crude prices between $80 and $90 per barrel. This range persists until clarity emerges on US-Iran nuclear talks. Physical oil markets are tightening significantly due to reduced flows from key regions. Gulf oil exports have dropp…",
+      "headline": "Trump says deal to reopen Strait of Hormuz could come as early as Wednesday",
+      "summary": "President Trump indicated a deal to reopen the Strait of Hormuz could happen soon.  Hopes for a deal eased oil prices as shipping hopes increased.  Attacks on shipping in the Red Sea and Strait of Hormuz continued.  Iran and Oman are reportedly discussing rou…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-goldman-sachs-sees-brent-crude-trading-at-80-90-until-iran-conflict-outlook-clears/articleshow/132855041.cms",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-hints-at-deal-to-reopen-strait-of-hormuz-as-attacks-on-shipping-continue/articleshow/132923103.cms",
       "bloc": "regional",
-      "date": "2026-08-04",
-      "datetime": "2026-08-04T09:28:49Z",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T11:43:25Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +222,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran war wipes out 2.6B barrels of oil supply",
-      "summary": "The conflict-induced oil supply shock exacerbates global market instability, highlighting the critical need for diplomatic resolutions in volatile regions.\nThe post Iran war wipes out 2.6B barrels of oil supply appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-war-wipes-out-26b-barrels-of-oil-supply/",
+      "headline": "Dozens of Idling Iranian Oil Tankers Show US Blockade Is Working",
+      "summary": "A growing flotilla of Iranian oil tankers is gathering off the country’s coast, a sign the renewed US naval blockade is disrupting Tehran’s energy exports and depriving it of much-needed revenue.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/dozens-of-idling-iranian-oil-tankers-show-us-blockade-is-working/",
       "bloc": "western",
-      "date": "2026-08-04",
-      "datetime": "2026-08-04T09:04:53Z",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T11:32:38Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,24 +248,23 @@
       "_from": "newsapi"
     },
     {
-      "headline": "A new Houthi front and expanded Iranian Attacks risk sinking Gulf Nations’ Workaround and widening shipping Risks",
-      "summary": "The incidents have expanded the risk for shipping to the Bab al-Mandab between Yemen and the Horn of Africa and the Suez Canal",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/08/expanded-workaround-widening.html",
+      "headline": "Kim Yo Jong Warns Japan Over First Tomahawk Missile Test",
+      "summary": "The powerful sister of North Korea’s leader said Japan’s preemptive attack capability is entering the “stage of the actual act.”",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/08/kim-yo-jong-warns-japan-over-first-tomahawk-missile-test/",
       "bloc": "western",
-      "date": "2026-08-04",
-      "datetime": "2026-08-04T04:04:50Z",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T12:15:00Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Kim Jong-un"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Kim Jong-un North"
       ],
       "dimensions": [
-        "survival",
-        "impulsivity"
+        "impulsivity",
+        "narcissism",
+        "survival"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -320,6 +345,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Sensex today | Stock Market Highlights: Sensex rises 152 points, Nifty ends above 24,620 after RBI keeps repo rate unchanged",
+      "summary": "Sensex Today, Nifty 50 | Stock Market Highlights, 5 August:  Indian benchmark indices ended higher after the RBI retained the repo rate and improved its FY27 growth outlook while lowering inflation projections. Gains in auto, realty and metal stocks offset co…",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-5th-august-2026/article71306480.ece",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T10:56:26Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "ONGC Profit More Than Doubles as Oil Prices Surge",
       "summary": "India’s Oil and Natural Gas Corporation more than doubled its quarterly profit as higher crude and natural gas prices—and a weaker rupee—more than made up for another drop in production. ONGC reported net income of 170.34 billion rupees, or about $1.8 billion…",
       "source": "OilPrice.com",
@@ -392,6 +443,31 @@
         "values"
       ],
       "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "India and Pakistan’s 79-year rivalry has made the dangerous move into space",
+      "summary": "India and Pakistan fought a war in 2025 that was wholly dependent on space technology.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/india-and-pakistans-79-year-rivalry-has-made-the-dangerous-move-into-space-286966",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T13:17:13Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-06T08:42:13.011Z",
+  "updated": "2026-08-06T14:20:27.753Z",
   "retention_days": 30,
   "items": [
     {
@@ -16273,7 +16273,173 @@
       "_from": "newsapi",
       "first_seen": "2026-08-06T08:42:13.011Z",
       "run_id": "2026-08-06T08:42"
+    },
+    {
+      "headline": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
+      "summary": "Despite the apparent step towards yielding to Iranian demands, the sources pushed back against assertions by U.S. President Donald Trump that a deal ​reopening the strait was imminent, saying important details still had to be agreed.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/proposed-hormuz-deal-would-give-iran-control-of-inbound-traffic-sources-say/articleshow/132929979.cms",
+      "bloc": "regional",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T13:02:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-06T14:20:27.753Z",
+      "run_id": "2026-08-06T14:20"
+    },
+    {
+      "headline": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
+      "summary": "U.S. President Donald Trump says a deal to reopen the Strait of Hormuz could come as early as Wednesday",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/trump-deal-reopen-strait-hormuz-early-wednesday-135376627",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T12:05:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-06T14:20:27.753Z",
+      "run_id": "2026-08-06T14:20"
+    },
+    {
+      "headline": "Dozens of Idling Iranian Oil Tankers Show US Blockade Is Working",
+      "summary": "A growing flotilla of Iranian oil tankers is gathering off the country’s coast, a sign the renewed US naval blockade is disrupting Tehran’s energy exports and depriving it of much-needed revenue.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/dozens-of-idling-iranian-oil-tankers-show-us-blockade-is-working/",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T11:32:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-06T14:20:27.753Z",
+      "run_id": "2026-08-06T14:20"
+    },
+    {
+      "headline": "Kim Yo Jong Warns Japan Over First Tomahawk Missile Test",
+      "summary": "The powerful sister of North Korea’s leader said Japan’s preemptive attack capability is entering the “stage of the actual act.”",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/08/kim-yo-jong-warns-japan-over-first-tomahawk-missile-test/",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T12:15:00Z",
+      "leaders": [
+        "Kim Jong-un"
+      ],
+      "watch_terms": [
+        "Kim Jong-un North"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "narcissism",
+        "survival"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-06T14:20:27.753Z",
+      "run_id": "2026-08-06T14:20"
+    },
+    {
+      "headline": "Sensex today | Stock Market Highlights: Sensex rises 152 points, Nifty ends above 24,620 after RBI keeps repo rate unchanged",
+      "summary": "Sensex Today, Nifty 50 | Stock Market Highlights, 5 August:  Indian benchmark indices ended higher after the RBI retained the repo rate and improved its FY27 growth outlook while lowering inflation projections. Gains in auto, realty and metal stocks offset co…",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-5th-august-2026/article71306480.ece",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T10:56:26Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-06T14:20:27.753Z",
+      "run_id": "2026-08-06T14:20"
+    },
+    {
+      "headline": "India and Pakistan’s 79-year rivalry has made the dangerous move into space",
+      "summary": "India and Pakistan fought a war in 2025 that was wholly dependent on space technology.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/india-and-pakistans-79-year-rivalry-has-made-the-dangerous-move-into-space-286966",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T13:17:13Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-06T14:20:27.753Z",
+      "run_id": "2026-08-06T14:20"
     }
   ],
-  "total_items_ever": 2936
+  "total_items_ever": 2942
 }

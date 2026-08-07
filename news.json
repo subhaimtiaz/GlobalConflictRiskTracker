@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-07T13:12:12.687Z",
+  "ts": "2026-08-07T19:02:47.273Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 82,
-    "oilStress": 23,
-    "updatedAt": "2026-08-07T13:12:12.687Z"
+    "oilPrice": 83,
+    "oilStress": 26,
+    "updatedAt": "2026-08-07T19:02:47.273Z"
   },
   "items": [
     {
@@ -144,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "US is set to import most Middle East crude since Iran war began",
+      "summary": "US crude imports from the Middle East are reaching their highest levels since the Iran war began. This surge is driven by a brief Strait of Hormuz opening and Saudi oil rerouting. Saudi Arabia is sending crude through the Suez Canal to the United States. This…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-is-set-to-import-most-middle-east-crude-since-iran-war-began/articleshow/133011650.cms",
+      "bloc": "regional",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T16:57:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Gulf Shipping Grinds to a Halt Following Houthi Missile Claim",
+      "summary": "Vessel traffic at the Strait of Hormuz and the Bab el-Mandeb Strait crumbled on Wednesday from the previous day amid a Houthi claim they have hit a Saudi oil tanker in the Red Sea and hopes that Oman and Iran could reach a deal on jointly managing Hormuz. On …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Shipping-Grinds-to-a-Halt-Following-Houthi-Missile-Claim.html",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T13:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Hormuz reopening depends on US despite Oman deal- Iran",
       "summary": "Iran and Oman agree on a route for the Strait of Hormuz, but Tehran insists the waterway’s full reopening depends on the US ending its naval blockade.\n\nRead More: https://punchng.com/hormuz-reopening-depends-on-us-despite-oman-deal-iran/",
       "source": "The Punch",
@@ -218,58 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Iran Agreement With Oman Will Not “Open” Strait of Hormuz as Trump Hypes Non-Existent Talks; Ansar Allah Threatens Red Sea Escalation; Trump-Hegseth Row Over Weapons Shortages",
-      "summary": "Today's Iran War news: Over-selling of Iran-Oman Hormuz pact as US arms shortages lead to doctrine change: liberal use of tactical nukes",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-iran-agreement-with-oman-will-not-open-strait-of-hormuz-as-trump-hypes-non-existent-talks-ansar-allah-threatens-red-sea-escalation-trump-hegseth-row-over-weapons-shortages.html",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T09:16:35Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Yemeni Forces Say Strike on Saudi Tanker Wafa Is Eighth Since Naval Blockade Began",
-      "summary": "The Yemeni Armed Forces (YAF), the Ansarallah-led force, said on 5 August that it struck the Saudi oil tanker Wafa with a number of ballistic missiles in the northern Red Sea off the coast of Yanbu, according to a statement posted by YAF Spokesperson Yahya Sa…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-06-yemeni-forces-strike-eighth-since-blockade-began.html",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -447,6 +447,33 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran War: Iran Agreement With Oman Will Not “Open” Strait of Hormuz as Trump Hypes Non-Existent Talks; Ansar Allah Threatens Red Sea Escalation; Trump-Hegseth Row Over Weapons Shortages",
+      "summary": "Today's Iran War news: Over-selling of Iran-Oman Hormuz pact as US arms shortages lead to doctrine change: liberal use of tactical nukes",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-iran-agreement-with-oman-will-not-open-strait-of-hormuz-as-trump-hypes-non-existent-talks-ansar-allah-threatens-red-sea-escalation-trump-hegseth-row-over-weapons-shortages.html",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T09:16:35Z",
+      "leaders": [
+        "Kim Jong-un",
+        "Vladimir Putin",
+        "General Asim Munir"
+      ],
+      "watch_terms": [
+        "nuclear signalling threat"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "survival",
+        "narcissism"
+      ],
+      "variable_key": "nuclearSignalling",
+      "event_type": "static_variable",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -637,6 +664,28 @@
       "variable_key": null,
       "event_type": "infrastructure_attack",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Regime Change Mission Foiled: Yemen’s Ansarallah Uncover Saudi-Mossad-CIA Espionage Network to Decapitate Resistance Leaders",
+      "summary": "Newly leaked documents reveal that while the Yemeni Armed Forces escalated their military campaign and Red Sea Blockade against Israel during the genocide in Gaza, a secret intelligence alliance and a “sophisticated espionage network” were being formed betwee…",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/regime-change-mission-foiled-yemens-ansarallah-uncover-saudi-mossad-cia-espionage-network-to-decapitate-resistance-leaders/",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T18:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "airstrike missile drone"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "survival"
+      ],
+      "variable_key": null,
+      "event_type": "regional_strike",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     }

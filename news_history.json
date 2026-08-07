@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-07T13:11:07.397Z",
+  "updated": "2026-08-07T19:01:41.956Z",
   "retention_days": 30,
   "items": [
     {
@@ -16385,7 +16385,87 @@
       "_from": "newsapi",
       "first_seen": "2026-08-07T13:11:07.397Z",
       "run_id": "2026-08-07T13:11"
+    },
+    {
+      "headline": "US is set to import most Middle East crude since Iran war began",
+      "summary": "US crude imports from the Middle East are reaching their highest levels since the Iran war began. This surge is driven by a brief Strait of Hormuz opening and Saudi oil rerouting. Saudi Arabia is sending crude through the Suez Canal to the United States. This…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-is-set-to-import-most-middle-east-crude-since-iran-war-began/articleshow/133011650.cms",
+      "bloc": "regional",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T16:57:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-07T19:01:41.955Z",
+      "run_id": "2026-08-07T19:01"
+    },
+    {
+      "headline": "Gulf Shipping Grinds to a Halt Following Houthi Missile Claim",
+      "summary": "Vessel traffic at the Strait of Hormuz and the Bab el-Mandeb Strait crumbled on Wednesday from the previous day amid a Houthi claim they have hit a Saudi oil tanker in the Red Sea and hopes that Oman and Iran could reach a deal on jointly managing Hormuz. On …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Shipping-Grinds-to-a-Halt-Following-Houthi-Missile-Claim.html",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T13:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-07T19:01:41.955Z",
+      "run_id": "2026-08-07T19:01"
+    },
+    {
+      "headline": "Regime Change Mission Foiled: Yemen’s Ansarallah Uncover Saudi-Mossad-CIA Espionage Network to Decapitate Resistance Leaders",
+      "summary": "Newly leaked documents reveal that while the Yemeni Armed Forces escalated their military campaign and Red Sea Blockade against Israel during the genocide in Gaza, a secret intelligence alliance and a “sophisticated espionage network” were being formed betwee…",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/regime-change-mission-foiled-yemens-ansarallah-uncover-saudi-mossad-cia-espionage-network-to-decapitate-resistance-leaders/",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T18:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "airstrike missile drone"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "survival"
+      ],
+      "variable_key": null,
+      "event_type": "regional_strike",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-07T19:01:41.955Z",
+      "run_id": "2026-08-07T19:01"
     }
   ],
-  "total_items_ever": 2958
+  "total_items_ever": 2961
 }

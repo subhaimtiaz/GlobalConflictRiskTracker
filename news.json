@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-07T00:06:09.891Z",
+  "ts": "2026-08-07T07:22:09.902Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 83,
     "oilStress": 26,
-    "updatedAt": "2026-08-07T00:06:09.891Z"
+    "updatedAt": "2026-08-07T07:22:09.902Z"
   },
   "items": [
+    {
+      "headline": "Mearsheimer Essay on Antiwar.com Criticizes U.S. Iran Policy",
+      "summary": "John J. Mearsheimer, a professor of political science at the University of Chicago, published an essay Aug. 5, 2026, on Antiwar.com criticizing U.S. foreign policy. “The U.S. government continues to demonstrate its knack for pursuing remarkably foolish foreig…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-06-mearsheimer-essay-criticizes-us-iran-policy.html",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Report: Iran, Oman Near Deal to Reopen Strait of Hormuz With “Service Fee” Collection",
       "summary": "Iran and Oman are close to an agreement to fully reopen the Strait of Hormuz to shipping traffic, according to the New York Times (NYT), which cited Iranian and U.S. officials familiar with the developing accord. Under the reported arrangement, ships entering…",
@@ -118,91 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
-      "summary": "New diplomatic push undertaken as repeated ceasefire failures expose limits of mediation.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens",
-      "bloc": "regional",
-      "date": "2026-08-04",
-      "datetime": "2026-08-04T12:21:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Dozens of Idling Iranian Tankers Show USA Blockade Is Working",
-      "summary": "A growing flotilla of Iranian oil tankers is gathering off the country's coast.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/dozens_of_idling_iranian_tankers_show_usa_blockade_is_working-05-aug-2026-184304-article/",
+      "headline": "Yemeni Forces Say Strike on Saudi Tanker Wafa Is Eighth Since Naval Blockade Began",
+      "summary": "The Yemeni Armed Forces (YAF), the Ansarallah-led force, said on 5 August that it struck the Saudi oil tanker Wafa with a number of ballistic missiles in the northern Red Sea off the coast of Yanbu, according to a statement posted by YAF Spokesperson Yahya Sa…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-06-yemeni-forces-strike-eighth-since-blockade-began.html",
       "bloc": "western",
-      "date": "2026-08-05",
-      "datetime": "2026-08-05T20:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Draft Hormuz Deal Would Give Iran Control Over Gulf-Bound Ships, Sources Say",
-      "summary": "A proposed deal between Iran and Oman would give Tehran control over ships entering the Gulf through the Strait of Hormuz, a senior Iranian source and two regional officials told Reuters on Wednesday, in one of the biggest concessions yet to Iran.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/draft-hormuz-deal-would-give-iran-control-over-gulf-bound-ships-sources-say/",
-      "bloc": "western",
-      "date": "2026-08-05",
-      "datetime": "2026-08-05T15:09:19Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Yemen's Houthis Vow Wider Red Sea Strikes",
-      "summary": "Yemen's Houthi militant group is signaling it wants to squeeze Saudi oil from both ends of the Red Sea. The Iran-aligned rebels on Wednesday said they fired ballistic missiles at a Saudi tanker named Wafa near the northern Red Sea port of Yanbu and vowed to s…",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/394124/yemens-houthis-vow-wider-red-sea-strikes.html",
-      "bloc": "western",
-      "date": "2026-08-05",
-      "datetime": "2026-08-05T14:55:00Z",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,13 +170,91 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
-      "summary": "Despite the apparent step towards yielding to Iranian demands, the sources pushed back against assertions by U.S. President Donald Trump that a deal ​reopening the strait was imminent, saying important details still had to be agreed.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/proposed-hormuz-deal-would-give-iran-control-of-inbound-traffic-sources-say/articleshow/132929979.cms",
-      "bloc": "regional",
-      "date": "2026-08-05",
-      "datetime": "2026-08-05T13:02:57Z",
+      "headline": "Iran says Strait of Hormuz plan at ‘final stage’, but reopening depends on US ending blockade",
+      "summary": "Iran has exercised de facto control of the waterway since the US and Israel launched their war against the country on 28 February.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/iran-says-strait-of-hormuz-plan-at-final-stage-7122636-Aug2026/",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T05:59:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran says Hormuz route agreed with Oman, reopening uncertain",
+      "summary": "Iran said on Wednesday that it and Oman had agreed on the coordinates of a shipping route through the Strait of Hormuz and were finalizing a joint statement, but cautioned that the arrangement alone would not reopen the waterway.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/iran-says-hormuz-route-agreed-with-oman-reopening-uncertain-225273",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T05:58:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran and Oman agree Hormuz route but await US agreement",
+      "summary": "Iran and Oman have agreed a route for ships transiting the Strait of Hormuz even as fresh security incidents highlighted continued risks for regional shipping.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/world/2026/0806/1586694-iran-us/",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T05:48:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran, US say Strait of Hormuz deal is close, but one or both would have to back down",
+      "summary": "Iran said on Wednesday it is in the “final stage” of drafting an agreement with Oman over the Strait of Hormuz, and US President Donald Trump has said a deal could be announced this week. That could potentially reopen the critical waterway, ease pressure on t…",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-us-say-strait-of-hormuz-deal-is-close-but-one-or-both-would-have-to-back-down/article71311924.ece",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T02:19:17Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

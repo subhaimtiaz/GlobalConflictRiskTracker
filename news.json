@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-07T07:22:09.902Z",
+  "ts": "2026-08-07T13:12:12.687Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 83,
-    "oilStress": 26,
-    "updatedAt": "2026-08-07T07:22:09.902Z"
+    "oilPrice": 82,
+    "oilStress": 23,
+    "updatedAt": "2026-08-07T13:12:12.687Z"
   },
   "items": [
     {
@@ -144,6 +144,110 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Hormuz reopening depends on US despite Oman deal- Iran",
+      "summary": "Iran and Oman agree on a route for the Strait of Hormuz, but Tehran insists the waterway’s full reopening depends on the US ending its naval blockade.\n\nRead More: https://punchng.com/hormuz-reopening-depends-on-us-despite-oman-deal-iran/",
+      "source": "The Punch",
+      "url": "https://punchng.com/hormuz-reopening-depends-on-us-despite-oman-deal-iran/",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T11:35:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Hormuz reopening depends on US – Iran",
+      "summary": "US President Donald Trump has repeatedly insisted Tehran is keen for a deal to reopen Hormuz, but Iran has denied this and said it will instead make arrangements with its neighbour across the strait, Oman.\nThe post Hormuz reopening depends on US – Iran appear…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/hormuz-reopening-depends-on-us-iran/",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T11:33:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Middle East: Hormuz deal near, IDF soldiers dead in Lebanon",
+      "summary": "Iran has said a deal to reopen the Strait of Hormuz is in its \"final stage\" if the US doesn't obstruct it. Two Israeli soldiers were killed in southern Lebanon. Follow DW for the latest. Iran's Foreign Ministry says a deal with Oman to reopen the Strait of Ho…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/middle-east-hormuz-deal-near-idf-soldiers-dead-in-lebanon/live-78263014",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T10:52:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran War: Iran Agreement With Oman Will Not “Open” Strait of Hormuz as Trump Hypes Non-Existent Talks; Ansar Allah Threatens Red Sea Escalation; Trump-Hegseth Row Over Weapons Shortages",
+      "summary": "Today's Iran War news: Over-selling of Iran-Oman Hormuz pact as US arms shortages lead to doctrine change: liberal use of tactical nukes",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-iran-agreement-with-oman-will-not-open-strait-of-hormuz-as-trump-hypes-non-existent-talks-ansar-allah-threatens-red-sea-escalation-trump-hegseth-row-over-weapons-shortages.html",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T09:16:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Yemeni Forces Say Strike on Saudi Tanker Wafa Is Eighth Since Naval Blockade Began",
       "summary": "The Yemeni Armed Forces (YAF), the Ansarallah-led force, said on 5 August that it struck the Saudi oil tanker Wafa with a number of ballistic missiles in the northern Red Sea off the coast of Yanbu, according to a statement posted by YAF Spokesperson Yahya Sa…",
       "source": "Naturalnews.com",
@@ -166,110 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says Strait of Hormuz plan at ‘final stage’, but reopening depends on US ending blockade",
-      "summary": "Iran has exercised de facto control of the waterway since the US and Israel launched their war against the country on 28 February.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/iran-says-strait-of-hormuz-plan-at-final-stage-7122636-Aug2026/",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T05:59:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says Hormuz route agreed with Oman, reopening uncertain",
-      "summary": "Iran said on Wednesday that it and Oman had agreed on the coordinates of a shipping route through the Strait of Hormuz and were finalizing a joint statement, but cautioned that the arrangement alone would not reopen the waterway.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/iran-says-hormuz-route-agreed-with-oman-reopening-uncertain-225273",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T05:58:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran and Oman agree Hormuz route but await US agreement",
-      "summary": "Iran and Oman have agreed a route for ships transiting the Strait of Hormuz even as fresh security incidents highlighted continued risks for regional shipping.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0806/1586694-iran-us/",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T05:48:50Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran, US say Strait of Hormuz deal is close, but one or both would have to back down",
-      "summary": "Iran said on Wednesday it is in the “final stage” of drafting an agreement with Oman over the Strait of Hormuz, and US President Donald Trump has said a deal could be announced this week. That could potentially reopen the critical waterway, ease pressure on t…",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-us-say-strait-of-hormuz-deal-is-close-but-one-or-both-would-have-to-back-down/article71311924.ece",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T02:19:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -451,6 +451,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The Rulers of the Nuclear Powers Are Slow Learners",
+      "summary": "Although 81 years have passed since the atomic bombing of Japan in August 1945, the rulers of major nations continue their reckless march toward a nuclear holocaust.The nine nuclear powers (the United States, Russia, China, Britain, France, Israel, India, Pak…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/nuclear-powers-don-t-learn",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T11:03:01Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "When the World Stops Fearing the Bomb",
       "summary": "On the 81st anniversary of the bombing of Japan, the hibakusha are disappearing just as fast as the world is becoming numb to their cause",
       "source": "The Diplomat",
@@ -497,6 +522,29 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ukrainian long-range strikes hit 2 major Russian oil refineries, Zelenskyy says",
+      "summary": "Ukrainian long-range strikes hit two major Russian oil refineries overnight into Thursday morning, Ukrainian President Volodymyr Zelenskyy reported in a post to Telegram.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/ukrainian-long-range-strikes-hit-2-major-russian/story?id=135415495",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T11:53:25Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -577,29 +625,6 @@
       "bloc": "western",
       "date": "2026-08-02",
       "datetime": "2026-08-02T18:03:23Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Drone Attack That Exposed Egypt’s Energy Defenses",
-      "summary": "Politics, Geopolitics & Conflict A drone attack reached Egypt’s Mediterranean gas infrastructure for the first time in the war. At least two drones struck the US-owned Energos Winter floating storage and regasification unit and a second gas-processing vessel …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Drone-Attack-That-Exposed-Egypts-Energy-Defenses.html",
-      "bloc": "western",
-      "date": "2026-07-31",
-      "datetime": "2026-07-31T12:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

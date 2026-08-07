@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-06T14:21:32.954Z",
+  "ts": "2026-08-07T00:06:09.891Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 81,
-    "oilStress": 22,
-    "updatedAt": "2026-08-06T14:21:32.954Z"
+    "oilPrice": 83,
+    "oilStress": 26,
+    "updatedAt": "2026-08-07T00:06:09.891Z"
   },
   "items": [
     {
@@ -144,6 +144,84 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Dozens of Idling Iranian Tankers Show USA Blockade Is Working",
+      "summary": "A growing flotilla of Iranian oil tankers is gathering off the country's coast.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/dozens_of_idling_iranian_tankers_show_usa_blockade_is_working-05-aug-2026-184304-article/",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T20:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Draft Hormuz Deal Would Give Iran Control Over Gulf-Bound Ships, Sources Say",
+      "summary": "A proposed deal between Iran and Oman would give Tehran control over ships entering the Gulf through the Strait of Hormuz, a senior Iranian source and two regional officials told Reuters on Wednesday, in one of the biggest concessions yet to Iran.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/draft-hormuz-deal-would-give-iran-control-over-gulf-bound-ships-sources-say/",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T15:09:19Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Yemen's Houthis Vow Wider Red Sea Strikes",
+      "summary": "Yemen's Houthi militant group is signaling it wants to squeeze Saudi oil from both ends of the Red Sea. The Iran-aligned rebels on Wednesday said they fired ballistic missiles at a Saudi tanker named Wafa near the northern Red Sea port of Yanbu and vowed to s…",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/394124/yemens-houthis-vow-wider-red-sea-strikes.html",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T14:55:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
       "summary": "Despite the apparent step towards yielding to Iranian demands, the sources pushed back against assertions by U.S. President Donald Trump that a deal ​reopening the strait was imminent, saying important details still had to be agreed.",
       "source": "The Times of India",
@@ -151,84 +229,6 @@
       "bloc": "regional",
       "date": "2026-08-05",
       "datetime": "2026-08-05T13:02:57Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
-      "summary": "U.S. President Donald Trump says a deal to reopen the Strait of Hormuz could come as early as Wednesday",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Business/wireStory/trump-deal-reopen-strait-hormuz-early-wednesday-135376627",
-      "bloc": "western",
-      "date": "2026-08-05",
-      "datetime": "2026-08-05T12:05:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump says deal to reopen Strait of Hormuz could come as early as Wednesday",
-      "summary": "President Trump indicated a deal to reopen the Strait of Hormuz could happen soon.  Hopes for a deal eased oil prices as shipping hopes increased.  Attacks on shipping in the Red Sea and Strait of Hormuz continued.  Iran and Oman are reportedly discussing rou…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-hints-at-deal-to-reopen-strait-of-hormuz-as-attacks-on-shipping-continue/articleshow/132923103.cms",
-      "bloc": "regional",
-      "date": "2026-08-05",
-      "datetime": "2026-08-05T11:43:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Dozens of Idling Iranian Oil Tankers Show US Blockade Is Working",
-      "summary": "A growing flotilla of Iranian oil tankers is gathering off the country’s coast, a sign the renewed US naval blockade is disrupting Tehran’s energy exports and depriving it of much-needed revenue.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/dozens-of-idling-iranian-oil-tankers-show-us-blockade-is-working/",
-      "bloc": "western",
-      "date": "2026-08-05",
-      "datetime": "2026-08-05T11:32:38Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -304,30 +304,6 @@
       "bloc": "western",
       "date": "2026-07-31",
       "datetime": "2026-07-31T12:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China Calls It Waste Paper. The Philippines' Win Still Sets The Rules",
-      "summary": "China calls the 2016 South China Sea arbitration waste paper. Ten years on, the Philippines' award still sets the rules for diplomacy—or conflict—in the region.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/jillgoldenziel/2026/07/29/china-calls-it-waste-paper-the-philippines-win-still-sets-the-rules/",
-      "bloc": "western",
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T01:45:14Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -443,6 +419,31 @@
         "values"
       ],
       "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "When the World Stops Fearing the Bomb",
+      "summary": "On the 81st anniversary of the bombing of Japan, the hibakusha are disappearing just as fast as the world is becoming numb to their cause",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/08/when-the-world-stops-fearing-the-bomb/",
+      "bloc": "western",
+      "date": "2026-08-05",
+      "datetime": "2026-08-05T15:11:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

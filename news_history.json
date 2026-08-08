@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-08T12:54:52.323Z",
+  "updated": "2026-08-08T18:41:36.232Z",
   "retention_days": 30,
   "items": [
     {
@@ -15873,7 +15873,145 @@
       "_from": "newsapi",
       "first_seen": "2026-08-08T12:54:52.323Z",
       "run_id": "2026-08-08T12:54"
+    },
+    {
+      "headline": "Saudi Arabia, Pakistan and Turkey sign Nato-style defence pact",
+      "summary": "Regional alliance emerges as Saudi confronts attacks from Iran-aligned Houthis in Yemen",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/08/07/saudi-arabia-pakistan-and-turkey-sign-nato-style-defence-pact/",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T14:04:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-08T18:41:36.232Z",
+      "run_id": "2026-08-08T18:41"
+    },
+    {
+      "headline": "How the Iran war spread beyond one single strait",
+      "summary": "The Middle East conflict isn't just widening, it's highlighting more vulnerabilities in the region.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-08/iran-war-spreading-diplomacy-teeters/106990466",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T18:41:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-08T18:41:36.232Z",
+      "run_id": "2026-08-08T18:41"
+    },
+    {
+      "headline": "ADNOC Says Three Vessels Attacked This Week as Hormuz Shipping Remains Severely Disrupted",
+      "summary": "Abu Dhabi National Oil Company said three of its vessels have been attacked this week while transiting the Strait of Hormuz, highlighting the continued danger to commercial shipping as traffic...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/adnoc-says-three-vessels-attacked-this-week-as-hormuz-shipping-remains-severely-disrupted/",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T17:25:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-08T18:41:36.232Z",
+      "run_id": "2026-08-08T18:41"
+    },
+    {
+      "headline": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
+      "summary": "Conflicting signals from Washington and Tehran keep oil markets on edge as Iran weighs a permanent Hormuz shipping ban while Trump insists a deal is within reach. Friday, August 07, 2026 The oil market’s very own schizophrenia – trying to read into the contra…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T16:04:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-08T18:41:36.232Z",
+      "run_id": "2026-08-08T18:41"
+    },
+    {
+      "headline": "Beyond the Funeral: What Khamenei’s Final Farewell Reveals About Iran’s Next Chapter",
+      "summary": "The state funeral for Ali Khamenei was never just a funeral. It was a choreographed act of political messaging designed to show that the Islamic Republic could absorb the death of its supreme leader and still project discipline, continuity and reach. The cere…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/world-news/middle-east-news/beyond-the-funeral-what-khameneis-final-farewell-reveals-about-irans-next-chapter/",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T13:41:58Z",
+      "leaders": [
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran IRGC regime"
+      ],
+      "dimensions": [
+        "survival",
+        "accountability"
+      ],
+      "variable_key": "iranRegimeCohesion",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-08T18:41:36.232Z",
+      "run_id": "2026-08-08T18:41"
     }
   ],
-  "total_items_ever": 2970
+  "total_items_ever": 2975
 }

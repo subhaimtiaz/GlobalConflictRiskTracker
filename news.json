@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-08T12:55:57.563Z",
+  "ts": "2026-08-08T18:42:41.427Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 82,
     "oilStress": 24,
-    "updatedAt": "2026-08-08T12:55:57.563Z"
+    "updatedAt": "2026-08-08T18:42:41.427Z"
   },
   "items": [
+    {
+      "headline": "Saudi Arabia, Pakistan and Turkey sign Nato-style defence pact",
+      "summary": "Regional alliance emerges as Saudi confronts attacks from Iran-aligned Houthis in Yemen",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/08/07/saudi-arabia-pakistan-and-turkey-sign-nato-style-defence-pact/",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T14:04:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Ebola response concerns, Tigray war warnings, and Gaza’s ceasefire mirage: The Cheat Sheet",
       "summary": "Ebola response concerns, Tigray war warnings, and Gaza’s ceasefire mirage: The Cheat Sheet\n\nsofia\n\nFri, 08/07/2026 - 09:26",
@@ -118,27 +144,79 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Donald Trump’s ‘art of the deal’ means reneging on them. That’s why Canada cannot capitulate",
-      "summary": "Countries that sign deals with the Trump administration are quickly finding out that the stability and certainty they hoped to purchase was an illusion.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/donald-trumps-art-of-the-deal-means-reneging-on-them-thats-why-canada-cannot-capitulate-288442",
+      "headline": "How the Iran war spread beyond one single strait",
+      "summary": "The Middle East conflict isn't just widening, it's highlighting more vulnerabilities in the region.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-08/iran-war-spreading-diplomacy-teeters/106990466",
       "bloc": "western",
-      "date": "2026-08-04",
-      "datetime": "2026-08-04T21:21:17Z",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T18:41:01Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "ADNOC Says Three Vessels Attacked This Week as Hormuz Shipping Remains Severely Disrupted",
+      "summary": "Abu Dhabi National Oil Company said three of its vessels have been attacked this week while transiting the Strait of Hormuz, highlighting the continued danger to commercial shipping as traffic...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/adnoc-says-three-vessels-attacked-this-week-as-hormuz-shipping-remains-severely-disrupted/",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T17:25:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
+      "summary": "Conflicting signals from Washington and Tehran keep oil markets on edge as Iran weighs a permanent Hormuz shipping ban while Trump insists a deal is within reach. Friday, August 07, 2026 The oil market’s very own schizophrenia – trying to read into the contra…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T16:04:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -166,110 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthi drone, missile blitz kills 30 Yemeni troops, shattering four-year truce",
-      "summary": "Houthi rebels launched coordinated drone and missile strikes across three Yemeni provinces, killing at least 30 Saudi-backed soldiers. The attack shattered a four-year relative calm after a July incident involving an Iranian plane triggered the ceasefire coll…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-07-houthi-drone-missile-blitz-yemeni-troops.html",
-      "bloc": "western",
-      "date": "2026-08-07",
-      "datetime": "2026-08-07T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Yemen’s Houthis launch major attacks on Saudi-backed forces (VIDEOS)",
-      "summary": "Yemen’s Houthi rebels have launched coordinated drone and missile attacks on Saudi-backed forces, threatening to reignite the country’s civil war",
-      "source": "RT",
-      "url": "https://www.rt.com/news/643959-houthis-attack-pro-saudi-troops/",
-      "bloc": "western",
-      "date": "2026-08-07",
-      "datetime": "2026-08-07T02:49:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Rises as Iran Deal Optimism Fades",
-      "summary": "Oil rose as doubts grew that an Iran-Oman deal would quickly restore normal shipping through the Strait of Hormuz.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/oil_rises_as_iran_deal_optimism_fades-06-aug-2026-184316-article/",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T20:12:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US is set to import most Middle East crude since Iran war began",
-      "summary": "US crude imports from the Middle East are reaching their highest levels since the Iran war began. This surge is driven by a brief Strait of Hormuz opening and Saudi oil rerouting. Saudi Arabia is sending crude through the Suez Canal to the United States. This…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-is-set-to-import-most-middle-east-crude-since-iran-war-began/articleshow/133011650.cms",
-      "bloc": "regional",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T16:57:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -454,6 +428,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Beyond the Funeral: What Khamenei’s Final Farewell Reveals About Iran’s Next Chapter",
+      "summary": "The state funeral for Ali Khamenei was never just a funeral. It was a choreographed act of political messaging designed to show that the Islamic Republic could absorb the death of its supreme leader and still project discipline, continuity and reach. The cere…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/world-news/middle-east-news/beyond-the-funeral-what-khameneis-final-farewell-reveals-about-irans-next-chapter/",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T13:41:58Z",
+      "leaders": [
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran IRGC regime"
+      ],
+      "dimensions": [
+        "survival",
+        "accountability"
+      ],
+      "variable_key": "iranRegimeCohesion",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The Anniversaries of Hiroshima and Nagasaki Have Special Meaning in a World Out of Control",
       "summary": "William D. Hartung, Mari Faines\n\n\n\nAs the last US-Russia nuclear arms control treaty expires, the anniversaries of Hiroshima and Nagasaki carry renewed urgency for a world edging toward a new arms race.\r\n\n\r\n\n\nThe post The Anniversaries of Hiroshima and Nagasa…",
       "source": "Thenation.com",
@@ -630,29 +628,6 @@
       "bloc": "western",
       "date": "2026-08-05",
       "datetime": "2026-08-05T04:01:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Day 1,623 of WW3. Today's MadLib: UAF uses sea drones to carry FPV drones to attack Crimean radars. Orcs destroy 300 year old Cossack church in Kherson, and another Widlberries warehouse has a sale on cotton. This is your Tuesday Ukraine war thread [News]",
-      "summary": "Day 1,623 of WW3. Today's MadLib: UAF uses sea drones to carry FPV drones to attack Crimean radars. Orcs destroy 300 year old Cossack church in Kherson, and another Widlberries warehouse has a sale on cotton. This is your Tuesday Ukraine war thread",
-      "source": "Fark.com",
-      "url": "https://www.fark.com/comments/14152412/Day-1623-of-WW3-Todays-MadLib-UAF-uses-sea-drones-to-carry-FPV-drones-to-attack-Crimean-radars-Orcs-destroy-300-year-old-Cossack-church-in-Kherson-another-Widlberries-warehouse-has-a-sale-on-cotton-This-is-your-Tuesday-Ukraine-war-thread",
-      "bloc": "western",
-      "date": "2026-08-04",
-      "datetime": "2026-08-04T12:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

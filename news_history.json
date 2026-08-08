@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-08T06:59:00.840Z",
+  "updated": "2026-08-08T12:54:52.323Z",
   "retention_days": 30,
   "items": [
     {
@@ -15740,7 +15740,140 @@
       "_from": "newsapi",
       "first_seen": "2026-08-08T06:59:00.840Z",
       "run_id": "2026-08-08T06:59"
+    },
+    {
+      "headline": "Ebola response concerns, Tigray war warnings, and Gaza’s ceasefire mirage: The Cheat Sheet",
+      "summary": "Ebola response concerns, Tigray war warnings, and Gaza’s ceasefire mirage: The Cheat Sheet\n\nsofia\n\nFri, 08/07/2026 - 09:26",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/08/07/ebola-response-tigray-war-warnings-gazas-ceasefire-mirage-cheat-sheet",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T08:26:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-08T12:54:52.323Z",
+      "run_id": "2026-08-08T12:54"
+    },
+    {
+      "headline": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+      "summary": "Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know",
+      "bloc": "regional",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T10:52:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-08T12:54:52.323Z",
+      "run_id": "2026-08-08T12:54"
+    },
+    {
+      "headline": "The Anniversaries of Hiroshima and Nagasaki Have Special Meaning in a World Out of Control",
+      "summary": "William D. Hartung, Mari Faines\n\n\n\nAs the last US-Russia nuclear arms control treaty expires, the anniversaries of Hiroshima and Nagasaki carry renewed urgency for a world edging toward a new arms race.\r\n\n\r\n\n\nThe post The Anniversaries of Hiroshima and Nagasa…",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/?post_type=article&p=606280",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T09:00:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-08T12:54:52.323Z",
+      "run_id": "2026-08-08T12:54"
+    },
+    {
+      "headline": "Ukrainian drones strike another warehouse of Russia’s top online retailer",
+      "summary": "Ukrainian long-range drones have hit a warehouse in the Ural Mountains belonging to Russia’s largest online retailer. The site of the attack, reported Friday, is over 2,000 kilometers from the border. Ukraine has been targeting distant Russian sites, showcasi…",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-ukraine-war-wildberries-ballistic-missiles-6101ca4702e1f66e8cb8a15819cd5931",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T10:55:57Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-08T12:54:52.323Z",
+      "run_id": "2026-08-08T12:54"
+    },
+    {
+      "headline": "A Russian retail giant’s warehouse burns after Ukraine's latest long-range drone attack",
+      "summary": "Ukrainian long-range drones hit a warehouse of Russia’s biggest online retailer in the Ural Mountains, more than 2,000 kilometers (1,200 miles) from the two...",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/world/articles/russian-retail-giant-warehouse-burns-085401145.html",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T08:54:01Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-08T12:54:52.323Z",
+      "run_id": "2026-08-08T12:54"
     }
   ],
-  "total_items_ever": 2965
+  "total_items_ever": 2970
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-08T07:00:06.096Z",
+  "ts": "2026-08-08T12:55:57.563Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 82,
     "oilStress": 24,
-    "updatedAt": "2026-08-08T07:00:06.096Z"
+    "updatedAt": "2026-08-08T12:55:57.563Z"
   },
   "items": [
+    {
+      "headline": "Ebola response concerns, Tigray war warnings, and Gaza’s ceasefire mirage: The Cheat Sheet",
+      "summary": "Ebola response concerns, Tigray war warnings, and Gaza’s ceasefire mirage: The Cheat Sheet\n\nsofia\n\nFri, 08/07/2026 - 09:26",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/08/07/ebola-response-tigray-war-warnings-gazas-ceasefire-mirage-cheat-sheet",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T08:26:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Europe struggles for influence amid mounting crises",
       "summary": "Europe is facing simultaneous pressure from the wars in Iran and Ukraine, irregular migration and extreme weather, but its larger problem is its limited ability to shape developments that directly affect it, according to an analysis by The New York Times.",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US hopeful Hormuz strait deal will be done ‘today or tomorrow’",
-      "summary": "US Treasury Secretary Scott Bessent told broadcaster CNBC \"there is a chance we may have a deal\" in the coming hours, echoing remarks from President Donald Trump the day before.\nThe post US hopeful Hormuz strait deal will be done ‘today or tomorrow’ appeared …",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/us-hopeful-hormuz-strait-deal-will-be-done-today-or-tomorrow/",
-      "bloc": "western",
-      "date": "2026-08-04",
-      "datetime": "2026-08-04T19:26:20Z",
+      "headline": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+      "summary": "Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know",
+      "bloc": "regional",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T10:52:34Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Gulf Shipping Grinds to a Halt Following Houthi Missile Claim",
-      "summary": "Vessel traffic at the Strait of Hormuz and the Bab el-Mandeb Strait crumbled on Wednesday from the previous day amid a Houthi claim they have hit a Saudi oil tanker in the Red Sea and hopes that Oman and Iran could reach a deal on jointly managing Hormuz. On …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Shipping-Grinds-to-a-Halt-Following-Houthi-Missile-Claim.html",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T13:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -454,6 +454,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The Anniversaries of Hiroshima and Nagasaki Have Special Meaning in a World Out of Control",
+      "summary": "William D. Hartung, Mari Faines\n\n\n\nAs the last US-Russia nuclear arms control treaty expires, the anniversaries of Hiroshima and Nagasaki carry renewed urgency for a world edging toward a new arms race.\r\n\n\r\n\n\nThe post The Anniversaries of Hiroshima and Nagasa…",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/?post_type=article&p=606280",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T09:00:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The Rulers of the Nuclear Powers Are Slow Learners",
       "summary": "Although 81 years have passed since the atomic bombing of Japan in August 1945, the rulers of major nations continue their reckless march toward a nuclear holocaust.The nine nuclear powers (the United States, Russia, China, Britain, France, Israel, India, Pak…",
       "source": "Common Dreams",
@@ -529,6 +554,52 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Ukrainian drones strike another warehouse of Russia’s top online retailer",
+      "summary": "Ukrainian long-range drones have hit a warehouse in the Ural Mountains belonging to Russia’s largest online retailer. The site of the attack, reported Friday, is over 2,000 kilometers from the border. Ukraine has been targeting distant Russian sites, showcasi…",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-ukraine-war-wildberries-ballistic-missiles-6101ca4702e1f66e8cb8a15819cd5931",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T10:55:57Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "A Russian retail giant’s warehouse burns after Ukraine's latest long-range drone attack",
+      "summary": "Ukrainian long-range drones hit a warehouse of Russia’s biggest online retailer in the Ural Mountains, more than 2,000 kilometers (1,200 miles) from the two...",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/world/articles/russian-retail-giant-warehouse-burns-085401145.html",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T08:54:01Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Ukrainian long-range strikes hit 2 major Russian oil refineries, Zelenskyy says",
       "summary": "Ukrainian long-range strikes hit two major Russian oil refineries overnight into Thursday morning, Ukrainian President Volodymyr Zelenskyy reported in a post to Telegram.",
       "source": "Abcnews.com",
@@ -582,52 +653,6 @@
       "bloc": "western",
       "date": "2026-08-04",
       "datetime": "2026-08-04T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Kyiv hits Rosneft refinery, Engels air base in Russia",
-      "summary": "The renewed attacks threaten to disrupt Russia's fuel supplies just as several regions had begun easing restrictions on gasoline and diesel sales imposed during recent shortages. The Saratov refinery, with a crude processing capacity of about 140,000 barrels …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/kyiv-hits-rosneft-refinery-engels-air-base-in-russia/articleshow/132812650.cms",
-      "bloc": "regional",
-      "date": "2026-08-02",
-      "datetime": "2026-08-02T18:27:58Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
-      "summary": "Aug 2 () - Ukrainian drone strikes killed at least eight people in Russian regions overnight and on Sunday, hitting targets including a warehouse belonging t...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/world/articles/ukrainian-drones-kill-two-russia-070130969.html",
-      "bloc": "western",
-      "date": "2026-08-02",
-      "datetime": "2026-08-02T18:03:23Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

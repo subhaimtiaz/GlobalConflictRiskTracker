@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-07T19:02:47.273Z",
+  "ts": "2026-08-08T01:52:38.262Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 83,
-    "oilStress": 26,
-    "updatedAt": "2026-08-07T19:02:47.273Z"
+    "oilPrice": 82,
+    "oilStress": 24,
+    "updatedAt": "2026-08-08T01:52:38.262Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Oil Rises as Iran Deal Optimism Fades",
+      "summary": "Oil rose as doubts grew that an Iran-Oman deal would quickly restore normal shipping through the Strait of Hormuz.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/oil_rises_as_iran_deal_optimism_fades-06-aug-2026-184316-article/",
+      "bloc": "western",
+      "date": "2026-08-06",
+      "datetime": "2026-08-06T20:12:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "US is set to import most Middle East crude since Iran war began",
       "summary": "US crude imports from the Middle East are reaching their highest levels since the Iran war began. This surge is driven by a brief Strait of Hormuz opening and Saudi oil rerouting. Saudi Arabia is sending crude through the Suez Canal to the United States. This…",
       "source": "The Times of India",
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Middle East: Hormuz deal near, IDF soldiers dead in Lebanon",
-      "summary": "Iran has said a deal to reopen the Strait of Hormuz is in its \"final stage\" if the US doesn't obstruct it. Two Israeli soldiers were killed in southern Lebanon. Follow DW for the latest. Iran's Foreign Ministry says a deal with Oman to reopen the Strait of Ho…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/middle-east-hormuz-deal-near-idf-soldiers-dead-in-lebanon/live-78263014",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T10:52:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Kim Yo Jong Warns Japan Over First Tomahawk Missile Test",
       "summary": "The powerful sister of North Korea’s leader said Japan’s preemptive attack capability is entering the “stage of the actual act.”",
       "source": "The Diplomat",
@@ -319,30 +319,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "PLA to mark 99th anniversary with equipment leap, combat readiness amid complex security landscape",
-      "summary": "In a gripping beach-assault drill, packs of robotic wolves, each hefting shoulder-fired rocket launchers, surged over sand berms, spraying grit skyward as they stormed the shoreline.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/07/china-260731-globaltimes02.htm",
-      "bloc": "western",
-      "date": "2026-07-31",
-      "datetime": "2026-07-31T12:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

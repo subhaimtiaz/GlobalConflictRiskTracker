@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-08T01:52:38.262Z",
+  "ts": "2026-08-08T07:00:06.096Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 82,
     "oilStress": 24,
-    "updatedAt": "2026-08-08T01:52:38.262Z"
+    "updatedAt": "2026-08-08T07:00:06.096Z"
   },
   "items": [
+    {
+      "headline": "Europe struggles for influence amid mounting crises",
+      "summary": "Europe is facing simultaneous pressure from the wars in Iran and Ukraine, irregular migration and extreme weather, but its larger problem is its limited ability to shape developments that directly affect it, according to an analysis by The New York Times.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/europe-struggles-for-influence-amid-mounting-crises-225322",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T05:33:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Mearsheimer Essay on Antiwar.com Criticizes U.S. Iran Policy",
       "summary": "John J. Mearsheimer, a professor of political science at the University of Chicago, published an essay Aug. 5, 2026, on Antiwar.com criticizing U.S. foreign policy. “The U.S. government continues to demonstrate its knack for pursuing remarkably foolish foreig…",
@@ -118,28 +144,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israel ‘Destroying Crucial Evidence of Genocide’ in Gaza: Monitor",
-      "summary": "A new report published Monday details how Israeli soldiers and civilian contractors are systematically removing potential proof of genocide from the Gaza Strip, an apparent violation of an order issued by the World Court for Israel to preserve evidence of gen…",
-      "source": "Antiwar.com",
-      "url": "https://www.antiwar.com/blog/2026/08/04/israel-destroying-crucial-evidence-of-genocide-in-gaza-monitor/",
+      "headline": "Houthi drone, missile blitz kills 30 Yemeni troops, shattering four-year truce",
+      "summary": "Houthi rebels launched coordinated drone and missile strikes across three Yemeni provinces, killing at least 30 Saudi-backed soldiers. The attack shattered a four-year relative calm after a July incident involving an Iranian plane triggered the ceasefire coll…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-07-houthi-drone-missile-blitz-yemeni-troops.html",
       "bloc": "western",
-      "date": "2026-08-04",
-      "datetime": "2026-08-04T13:00:29Z",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Yemen’s Houthis launch major attacks on Saudi-backed forces (VIDEOS)",
+      "summary": "Yemen’s Houthi rebels have launched coordinated drone and missile attacks on Saudi-backed forces, threatening to reignite the country’s civil war",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643959-houthis-attack-pro-saudi-troops/",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T02:49:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -218,58 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz reopening depends on US despite Oman deal- Iran",
-      "summary": "Iran and Oman agree on a route for the Strait of Hormuz, but Tehran insists the waterway’s full reopening depends on the US ending its naval blockade.\n\nRead More: https://punchng.com/hormuz-reopening-depends-on-us-despite-oman-deal-iran/",
-      "source": "The Punch",
-      "url": "https://punchng.com/hormuz-reopening-depends-on-us-despite-oman-deal-iran/",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T11:35:12Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz reopening depends on US – Iran",
-      "summary": "US President Donald Trump has repeatedly insisted Tehran is keen for a deal to reopen Hormuz, but Iran has denied this and said it will instead make arrangements with its neighbour across the strait, Oman.\nThe post Hormuz reopening depends on US – Iran appear…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/hormuz-reopening-depends-on-us-iran/",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T11:33:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

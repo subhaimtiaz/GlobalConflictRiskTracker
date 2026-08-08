@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-08T01:51:32.729Z",
+  "updated": "2026-08-08T06:59:00.840Z",
   "retention_days": 30,
   "items": [
     {
@@ -15656,7 +15656,91 @@
       "_from": "newsapi",
       "first_seen": "2026-08-08T01:51:32.729Z",
       "run_id": "2026-08-08T01:51"
+    },
+    {
+      "headline": "Europe struggles for influence amid mounting crises",
+      "summary": "Europe is facing simultaneous pressure from the wars in Iran and Ukraine, irregular migration and extreme weather, but its larger problem is its limited ability to shape developments that directly affect it, according to an analysis by The New York Times.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/europe-struggles-for-influence-amid-mounting-crises-225322",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T05:33:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-08T06:59:00.840Z",
+      "run_id": "2026-08-08T06:59"
+    },
+    {
+      "headline": "Houthi drone, missile blitz kills 30 Yemeni troops, shattering four-year truce",
+      "summary": "Houthi rebels launched coordinated drone and missile strikes across three Yemeni provinces, killing at least 30 Saudi-backed soldiers. The attack shattered a four-year relative calm after a July incident involving an Iranian plane triggered the ceasefire coll…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-07-houthi-drone-missile-blitz-yemeni-troops.html",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-08T06:59:00.840Z",
+      "run_id": "2026-08-08T06:59"
+    },
+    {
+      "headline": "Yemen’s Houthis launch major attacks on Saudi-backed forces (VIDEOS)",
+      "summary": "Yemen’s Houthi rebels have launched coordinated drone and missile attacks on Saudi-backed forces, threatening to reignite the country’s civil war",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643959-houthis-attack-pro-saudi-troops/",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T02:49:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-08T06:59:00.840Z",
+      "run_id": "2026-08-08T06:59"
     }
   ],
-  "total_items_ever": 2962
+  "total_items_ever": 2965
 }

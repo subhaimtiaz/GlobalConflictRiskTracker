@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-08T18:42:41.427Z",
+  "ts": "2026-08-09T01:59:46.776Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 82,
     "oilStress": 24,
-    "updatedAt": "2026-08-08T18:42:41.427Z"
+    "updatedAt": "2026-08-09T01:59:46.776Z"
   },
   "items": [
+    {
+      "headline": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+      "summary": "Despite continued hostilities in the Middle East and an expansion of the war to the Red Sea, oil traders have remained largely bearish on the commodity, betting on a quick peace deal—and they might get a nasty shock. Earlier this week, Brent crude sank below …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T23:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "House Approves Israel/US Military Merger, Major US War Crimes In Iran & Trump’s New Gain-Of-Function",
+      "summary": "Podcast: Play in new window | Download | Embed Subscribe: Apple Podcasts | Email | RSS Welcome to The Daily Wrap Up, an in-depth investigatory show dedicated to bringing you the most relevant independent news, as we see it, from the last 24 hours (7/23/26). A…",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/house-approves-israel-us-military-merger-major-us-war-crimes-in-iran-trumps-new-gain-of-function/",
+      "bloc": "western",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T20:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Saudi Arabia, Pakistan and Turkey sign Nato-style defence pact",
       "summary": "Regional alliance emerges as Saudi confronts attacks from Iran-aligned Houthis in Yemen",
@@ -92,53 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Mearsheimer Essay on Antiwar.com Criticizes U.S. Iran Policy",
-      "summary": "John J. Mearsheimer, a professor of political science at the University of Chicago, published an essay Aug. 5, 2026, on Antiwar.com criticizing U.S. foreign policy. “The U.S. government continues to demonstrate its knack for pursuing remarkably foolish foreig…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-06-mearsheimer-essay-criticizes-us-iran-policy.html",
+      "headline": "Oil Steadies as Hormuz Tensions Flare",
+      "summary": "Oil steadied as traders weighed a potential Hormuz deal against persistent Middle East shipping threats.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/oil_steadies_as_hormuz_tensions_flare-07-aug-2026-184329-article/",
       "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T06:00:00Z",
+      "date": "2026-08-07",
+      "datetime": "2026-08-07T20:14:42Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Report: Iran, Oman Near Deal to Reopen Strait of Hormuz With “Service Fee” Collection",
-      "summary": "Iran and Oman are close to an agreement to fully reopen the Strait of Hormuz to shipping traffic, according to the New York Times (NYT), which cited Iranian and U.S. officials familiar with the developing accord. Under the reported arrangement, ships entering…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-05-report-iran-oman-near-agreement-reopen-hormuz.html",
-      "bloc": "western",
-      "date": "2026-08-05",
-      "datetime": "2026-08-05T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -218,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
-      "summary": "Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know",
-      "bloc": "regional",
-      "date": "2026-08-07",
-      "datetime": "2026-08-07T10:52:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

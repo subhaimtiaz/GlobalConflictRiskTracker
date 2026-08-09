@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-09T12:57:36.099Z",
+  "updated": "2026-08-09T18:45:59.851Z",
   "retention_days": 30,
   "items": [
     {
@@ -15543,7 +15543,63 @@
       "_from": "newsapi",
       "first_seen": "2026-08-09T07:01:14.037Z",
       "run_id": "2026-08-09T07:01"
+    },
+    {
+      "headline": "Trump’s Iran War Is Going Backward",
+      "summary": "On Saturday, a senior Iranian national security official issued a set of demands that the US must meet before a key waterway for oil shipping can be reopened—a statement that further suggests a lasting ceasefire will not be in the cards anytime soon. Mohammad…",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/08/trumps-iran-war-is-going-backward/",
+      "bloc": "western",
+      "date": "2026-08-08",
+      "datetime": "2026-08-08T18:31:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-09T18:45:59.851Z",
+      "run_id": "2026-08-09T18:45"
+    },
+    {
+      "headline": "Beware the Bros of War",
+      "summary": "Donald Trump and Pete Hegseth could stand to learn a thing or two about sea power as the Iran war drags on. They're too concerned with testosterone.",
+      "source": "Rolling Stone",
+      "url": "http://www.rollingstone.com/politics/political-commentary/trump-hegseth-bros-iran-war-1235605732/",
+      "bloc": "western",
+      "date": "2026-08-08",
+      "datetime": "2026-08-08T14:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-09T18:45:59.851Z",
+      "run_id": "2026-08-09T18:45"
     }
   ],
-  "total_items_ever": 2983
+  "total_items_ever": 2985
 }

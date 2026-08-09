@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-09T12:58:41.667Z",
+  "ts": "2026-08-09T18:47:05.017Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 82,
     "oilStress": 24,
-    "updatedAt": "2026-08-09T12:58:41.667Z"
+    "updatedAt": "2026-08-09T18:47:05.017Z"
   },
   "items": [
+    {
+      "headline": "Trump’s Iran War Is Going Backward",
+      "summary": "On Saturday, a senior Iranian national security official issued a set of demands that the US must meet before a key waterway for oil shipping can be reopened—a statement that further suggests a lasting ceasefire will not be in the cards anytime soon. Mohammad…",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/08/trumps-iran-war-is-going-backward/",
+      "bloc": "western",
+      "date": "2026-08-08",
+      "datetime": "2026-08-08T18:31:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Poll: Half of Americans Fear Broader Instability From Middle East War",
       "summary": "Half of U.S. adults believe a conflict between the United States and Iran would lead to serious destabilization in the Middle East over the next year, according to a Reuters/Ipsos poll released Thursday [1]. The survey, conducted jointly by Reuters and Ipsos,…",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "House Approves Israel/US Military Merger, Major US War Crimes In Iran & Trump’s New Gain-Of-Function",
-      "summary": "Podcast: Play in new window | Download | Embed Subscribe: Apple Podcasts | Email | RSS Welcome to The Daily Wrap Up, an in-depth investigatory show dedicated to bringing you the most relevant independent news, as we see it, from the last 24 hours (7/23/26). A…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/house-approves-israel-us-military-merger-major-us-war-crimes-in-iran-trumps-new-gain-of-function/",
+      "headline": "Beware the Bros of War",
+      "summary": "Donald Trump and Pete Hegseth could stand to learn a thing or two about sea power as the Iran war drags on. They're too concerned with testosterone.",
+      "source": "Rolling Stone",
+      "url": "http://www.rollingstone.com/politics/political-commentary/trump-hegseth-bros-iran-war-1235605732/",
       "bloc": "western",
-      "date": "2026-08-07",
-      "datetime": "2026-08-07T20:00:00Z",
+      "date": "2026-08-08",
+      "datetime": "2026-08-08T14:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -218,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "ADNOC Says Three Vessels Attacked This Week as Hormuz Shipping Remains Severely Disrupted",
-      "summary": "Abu Dhabi National Oil Company said three of its vessels have been attacked this week while transiting the Strait of Hormuz, highlighting the continued danger to commercial shipping as traffic...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/adnoc-says-three-vessels-attacked-this-week-as-hormuz-shipping-remains-severely-disrupted/",
-      "bloc": "western",
-      "date": "2026-08-07",
-      "datetime": "2026-08-07T17:25:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-10T07:48:26.143Z",
+  "ts": "2026-08-10T13:16:48.904Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 84,
-    "oilStress": 27,
-    "updatedAt": "2026-08-10T07:48:26.143Z"
+    "oilPrice": 85,
+    "oilStress": 29,
+    "updatedAt": "2026-08-10T13:16:48.904Z"
   },
   "items": [
+    {
+      "headline": "Sunday: Hili dialogue",
+      "summary": "Welcome to Sunday, August 9, 2026, the Sabbath for goyische cats, and National Spirit of ’45 Day, meaning this: National Spirit of ’45 Day honors the can-do attitude of an entire generation affected by the trials and hardships of World War II. Observed every …",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/08/09/sunday-hili-dialogue-598/",
+      "bloc": "western",
+      "date": "2026-08-09",
+      "datetime": "2026-08-09T11:45:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Houthis, the Middle East’s “unsolved problem”: Why a thousand strikes were not enough to stop them",
+      "summary": "The US, Britain & Israel targeted infrastructure & leadership, but the threat remains - Missiles & drones threaten Saudi Arabia again, while Bab el-Mandeb is once again becoming a bottleneck\nThe post The Houthis, the Middle East’s “unsolved problem”: Why a th…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/08/09/the-houthis-the-middle-easts-unsolved-problem-why-a-thousand-strikes-were-not-enough-to-stop-them/",
+      "bloc": "western",
+      "date": "2026-08-09",
+      "datetime": "2026-08-09T11:14:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran issues demands for reopening of Hormuz",
+      "summary": "Continued attacks in the strait, which was free to transit before the war, led to the collapse of an April ceasefire. Mediators have since urged both sides to return to the terms of a June memorandum.\nThe post Iran issues demands for reopening of Hormuz appea…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/iran-issues-demands-for-reopening-of-hormuz/",
+      "bloc": "western",
+      "date": "2026-08-09",
+      "datetime": "2026-08-09T08:38:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran issues demands for reopening of Hormuz, including compensation for war damages",
       "summary": "Continued attacks in the strait, which was free to transit before the war, led to the collapse of an April ceasefire.",
@@ -66,79 +144,79 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump’s Iran War Is Going Backward",
-      "summary": "On Saturday, a senior Iranian national security official issued a set of demands that the US must meet before a key waterway for oil shipping can be reopened—a statement that further suggests a lasting ceasefire will not be in the cards anytime soon. Mohammad…",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/08/trumps-iran-war-is-going-backward/",
+      "headline": "Trump signals willingness to end Iran conflict if Strait of Hormuz reopens",
+      "summary": "Reopening the Strait of Hormuz could stabilize global oil markets, reduce energy costs, and influence US domestic politics amid upcoming elections.\nThe post Trump signals willingness to end Iran conflict if Strait of Hormuz reopens appeared first on Crypto Br…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-iran-strait-of-hormuz-conflict/",
       "bloc": "western",
-      "date": "2026-08-08",
-      "datetime": "2026-08-08T18:31:17Z",
+      "date": "2026-08-09",
+      "datetime": "2026-08-09T12:10:51Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Poll: Half of Americans Fear Broader Instability From Middle East War",
-      "summary": "Half of U.S. adults believe a conflict between the United States and Iran would lead to serious destabilization in the Middle East over the next year, according to a Reuters/Ipsos poll released Thursday [1]. The survey, conducted jointly by Reuters and Ipsos,…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-08-half-americans-fear-broader-instability-middle-east-war.html",
+      "headline": "Iran sets out steep demands for reopening Hormuz despite hopes Oman deal could break impasse",
+      "summary": "There are no ongoing negotiations between Tehran and Washington, Iranian Foreign Minister Abbas Araghchi said Sunday, after Tehran set out a steep series of demands for the reopening of the Strait of Hormuz.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/iran-sets-steep-demands-reopening-hormuz-hopes-oman-deal-break-impasse-rcna591553",
       "bloc": "western",
-      "date": "2026-08-08",
-      "datetime": "2026-08-08T06:00:00Z",
+      "date": "2026-08-09",
+      "datetime": "2026-08-09T11:30:24Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "News Summary-Intelligence Report 8/7/2026*Newsdump Friday*US General Loses Command*Pot Linked To Nausea Bouts*White House Ballroom Injunction*Turk-Pak-Saudi Military Pact*Intel Leak Russian Threat NATO Nation*Israeli Spy Iran Shakeup*",
-      "summary": "The Ukraine War raging on Friday night into Saturday a missile attack... The Spanish government moving to institute border checks for Italian visitors... A US general relieved of command... The former Secretary of the Air Force in the Biden Administration...l…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4391048/posts",
+      "headline": "Iran Sets Sweeping New Demands to Reopen the Strait of Hormuz After UAE Tanker Is Struck by a Missile",
+      "summary": "Iran demands U.S. concessions, including lifting sanctions and military withdrawal, to reopen the Strait of Hormuz, following a missile attack on a UAE oil tanker, escalating regional tensions.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/iran-conditions-reopening-strait-hormuz-1873787",
       "bloc": "western",
-      "date": "2026-08-08",
-      "datetime": "2026-08-08T04:08:42Z",
+      "date": "2026-08-09",
+      "datetime": "2026-08-09T09:08:05Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
@@ -177,58 +255,6 @@
       "bloc": "western",
       "date": "2026-08-09",
       "datetime": "2026-08-09T05:51:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran makes new Hormuz demands as missile hits Emirati ship",
-      "summary": "Tehran has demanded that the US withdraw forces from the region, lift sanctions and pay compensation before Iran agrees to reopen the Strait of Hormuz",
-      "source": "RT",
-      "url": "https://www.rt.com/news/644023-iran-makeshormuz-demands/",
-      "bloc": "western",
-      "date": "2026-08-09",
-      "datetime": "2026-08-09T03:58:27Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says Strait of Hormuz deal 'close' but reopening depends on other conditions",
-      "summary": "Iran and Oman are \"very close\" to reaching an accord on a new shipping route through the Strait of Hormuz, Iran's foreign minister says. This is your three-minute briefing on the key developments overnight in the Middle East.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-09/iran-and-oman-close-to-new-route-strait-of-hormuz/107013264",
-      "bloc": "western",
-      "date": "2026-08-08",
-      "datetime": "2026-08-08T19:38:13Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -577,6 +603,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran-Allied Houthis Hit Saudi Refinery, Threaten To Widen Middle East Conflict",
+      "summary": "Iran-backed Houthi rebels in Yemen struck an oil refinery in Saudi Arabia, threatening to bring in members of a new Saudi-based military alliance into the conflict, and also attacked a Yemeni-government controlled port city as a 2022 UN-brokered truce in the …",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260809-rferl01.htm",
+      "bloc": "western",
+      "date": "2026-08-09",
+      "datetime": "2026-08-09T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Ukraine denies targeting Bulgaria after drone explodes near pipeline",
       "summary": "Ukraine has denied targeting Bulgaria after a drone entered Bulgaria's airspace exploded close to the strategic Trans-Balkan gas pipeline near the Romanian border.",
       "source": "ABC News (AU)",
@@ -630,29 +679,6 @@
       "bloc": "western",
       "date": "2026-08-07",
       "datetime": "2026-08-07T08:54:01Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukrainian long-range strikes hit 2 major Russian oil refineries, Zelenskyy says",
-      "summary": "Ukrainian long-range strikes hit two major Russian oil refineries overnight into Thursday morning, Ukrainian President Volodymyr Zelenskyy reported in a post to Telegram.",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/ukrainian-long-range-strikes-hit-2-major-russian/story?id=135415495",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T11:53:25Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

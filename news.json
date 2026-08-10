@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-10T13:16:48.904Z",
+  "ts": "2026-08-10T19:02:40.344Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 85,
-    "oilStress": 29,
-    "updatedAt": "2026-08-10T13:16:48.904Z"
+    "oilPrice": 88,
+    "oilStress": 33,
+    "updatedAt": "2026-08-10T19:02:40.344Z"
   },
   "items": [
+    {
+      "headline": "Iran says US must meet new conditions before Strait of Hormuz reopens",
+      "summary": "Tehran wants compensation from Washington for war",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/08/09/iran-says-us-must-meet-new-conditions-before-strait-of-hormuz-reopens/",
+      "bloc": "western",
+      "date": "2026-08-09",
+      "datetime": "2026-08-09T17:20:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump willing to end war, declare victory on Iran with no nuclear deal, officials say - report",
+      "summary": "US President Donald Trump has been weighing the possibility of declaring victory against Iran without achieving a nuclear deal, the Wall Street Journal reported on Sunday, citing US officials. According to the officials, Trump privately floated the idea to hi…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4391201/posts",
+      "bloc": "western",
+      "date": "2026-08-09",
+      "datetime": "2026-08-09T14:00:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Strait of Hormuz Status Today: Still Effectively Closed as Iran and Oman Near a Navigation Deal, for Now",
+      "summary": "The Strait of Hormuz remains closed to commercial shipping due to ongoing Iran-U.S. tensions, significantly impacting global energy markets and causing a rise in oil prices.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-crisis-shipping-halted-1873824",
+      "bloc": "western",
+      "date": "2026-08-09",
+      "datetime": "2026-08-09T13:17:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Sunday: Hili dialogue",
       "summary": "Welcome to Sunday, August 9, 2026, the Sabbath for goyische cats, and National Spirit of ’45 Day, meaning this: National Spirit of ’45 Day honors the can-do attitude of an entire generation affected by the trials and hardships of World War II. Observed every …",
@@ -62,84 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran issues demands for reopening of Hormuz",
-      "summary": "Continued attacks in the strait, which was free to transit before the war, led to the collapse of an April ceasefire. Mediators have since urged both sides to return to the terms of a June memorandum.\nThe post Iran issues demands for reopening of Hormuz appea…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/iran-issues-demands-for-reopening-of-hormuz/",
-      "bloc": "western",
-      "date": "2026-08-09",
-      "datetime": "2026-08-09T08:38:50Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran issues demands for reopening of Hormuz, including compensation for war damages",
-      "summary": "Continued attacks in the strait, which was free to transit before the war, led to the collapse of an April ceasefire.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/iran-issues-demands-for-reopening-of-hormuz-7125509-Aug2026/",
-      "bloc": "western",
-      "date": "2026-08-09",
-      "datetime": "2026-08-09T07:35:26Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "UAE, Regional States Accuse Israel of Undermining Gaza Peace Plan",
-      "summary": "Joint Statement Accuses Israel of Undermining Gaza Plan The United Arab Emirates (UAE) and several other Muslim-majority governments on Aug. 6 accused Israel of breaching the Gaza peace plan, according to the Times of Israel. The joint statement said Israeli …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-09-uae-regional-states-israel-undermining-peace-plan.html",
-      "bloc": "western",
-      "date": "2026-08-09",
-      "datetime": "2026-08-09T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

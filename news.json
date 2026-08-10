@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-09T18:47:05.017Z",
+  "ts": "2026-08-10T02:04:28.448Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 82,
-    "oilStress": 24,
-    "updatedAt": "2026-08-09T18:47:05.017Z"
+    "oilPrice": 85,
+    "oilStress": 28,
+    "updatedAt": "2026-08-10T02:04:28.448Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran says Strait of Hormuz deal 'close' but reopening depends on other conditions",
+      "summary": "Iran and Oman are \"very close\" to reaching an accord on a new shipping route through the Strait of Hormuz, Iran's foreign minister says. This is your three-minute briefing on the key developments overnight in the Middle East.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-09/iran-and-oman-close-to-new-route-strait-of-hormuz/107013264",
+      "bloc": "western",
+      "date": "2026-08-08",
+      "datetime": "2026-08-08T19:38:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Beware the Bros of War",
       "summary": "Donald Trump and Pete Hegseth could stand to learn a thing or two about sea power as the Iran war drags on. They're too concerned with testosterone.",
       "source": "Rolling Stone",
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-08-07",
       "datetime": "2026-08-07T20:14:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How the Iran war spread beyond one single strait",
-      "summary": "The Middle East conflict isn't just widening, it's highlighting more vulnerabilities in the region.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-08/iran-war-spreading-diplomacy-teeters/106990466",
-      "bloc": "western",
-      "date": "2026-08-07",
-      "datetime": "2026-08-07T18:41:01Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -577,6 +577,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Ukraine denies targeting Bulgaria after drone explodes near pipeline",
+      "summary": "Ukraine has denied targeting Bulgaria after a drone entered Bulgaria's airspace exploded close to the strategic Trans-Balkan gas pipeline near the Romanian border.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-09/bulgaria-says-drone-explodes-in-its-airspace/107013718",
+      "bloc": "western",
+      "date": "2026-08-08",
+      "datetime": "2026-08-08T20:06:05Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Ukrainian drones strike another warehouse of Russia’s top online retailer",
       "summary": "Ukrainian long-range drones have hit a warehouse in the Ural Mountains belonging to Russia’s largest online retailer. The site of the attack, reported Friday, is over 2,000 kilometers from the border. Ukraine has been targeting distant Russian sites, showcasi…",
       "source": "Associated Press",
@@ -630,29 +653,6 @@
       "bloc": "western",
       "date": "2026-08-06",
       "datetime": "2026-08-06T11:53:25Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tensions Flicker Into Flame, Lapping Across the Middle East",
-      "summary": "The best Trump can do is to stop the conflicts agglutinating into one global war. The silence surrounding the outcome to the Netanyahu meeting last week in the Oval Office speaks for itself. No American government official came to the airport to receive him, …",
-      "source": "Lewrockwell.com",
-      "url": "https://www.lewrockwell.com/2026/08/no_author/tensions-flicker-into-flame-lapping-across-the-middle-east/",
-      "bloc": "western",
-      "date": "2026-08-05",
-      "datetime": "2026-08-05T04:01:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

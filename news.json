@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-11T07:14:13.298Z",
+  "ts": "2026-08-11T13:13:46.571Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 88,
     "oilStress": 33,
-    "updatedAt": "2026-08-11T07:14:13.298Z"
+    "updatedAt": "2026-08-11T13:13:46.571Z"
   },
   "items": [
+    {
+      "headline": "Iran Ties Hormuz Reopening to US Concessions on Several Demands",
+      "summary": "Iran said it was nearing a final pact with Oman defining new shipping lanes between them through the Strait of Hormuz but repeated that the U.S. must meet other conditions, including compensation and an end to sanctions and military threats, before the strate…",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-ties-hormuz-reopening-to-us-concessions-on-several-demands/",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T08:18:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran Ties Hormuz Reopening To U.S. Concessions On Several Demands",
       "summary": "The United States and Israel launched air strikes on Iran more than five months ago.",
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump willing to end war, declare victory on Iran with no nuclear deal, officials say - report",
-      "summary": "US President Donald Trump has been weighing the possibility of declaring victory against Iran without achieving a nuclear deal, the Wall Street Journal reported on Sunday, citing US officials. According to the officials, Trump privately floated the idea to hi…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4391201/posts",
-      "bloc": "western",
-      "date": "2026-08-09",
-      "datetime": "2026-08-09T14:00:07Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -343,6 +343,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Current price of oil as of August 10, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-10-2026/",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T11:15:46Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

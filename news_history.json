@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-11T07:13:08.124Z",
+  "updated": "2026-08-11T13:12:41.370Z",
   "retention_days": 30,
   "items": [
     {
@@ -15757,7 +15757,63 @@
       "_from": "newsapi",
       "first_seen": "2026-08-11T07:13:08.124Z",
       "run_id": "2026-08-11T07:13"
+    },
+    {
+      "headline": "Iran Ties Hormuz Reopening to US Concessions on Several Demands",
+      "summary": "Iran said it was nearing a final pact with Oman defining new shipping lanes between them through the Strait of Hormuz but repeated that the U.S. must meet other conditions, including compensation and an end to sanctions and military threats, before the strate…",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-ties-hormuz-reopening-to-us-concessions-on-several-demands/",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T08:18:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-11T13:12:41.370Z",
+      "run_id": "2026-08-11T13:12"
+    },
+    {
+      "headline": "Current price of oil as of August 10, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-10-2026/",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T11:15:46Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-11T13:12:41.370Z",
+      "run_id": "2026-08-11T13:12"
     }
   ],
-  "total_items_ever": 3009
+  "total_items_ever": 3011
 }

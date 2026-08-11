@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-11T01:58:24.697Z",
+  "updated": "2026-08-11T07:13:08.124Z",
   "retention_days": 30,
   "items": [
     {
@@ -15648,7 +15648,116 @@
       "_from": "newsapi",
       "first_seen": "2026-08-11T01:58:24.697Z",
       "run_id": "2026-08-11T01:58"
+    },
+    {
+      "headline": "Iran Ties Hormuz Reopening To U.S. Concessions On Several Demands",
+      "summary": "The United States and Israel launched air strikes on Iran more than five months ago.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-hormuz-reopening-us-concessions-several-demands_n_6a794e2de4b01ec88690ac02",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T04:10:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-11T07:13:08.124Z",
+      "run_id": "2026-08-11T07:13"
+    },
+    {
+      "headline": "Israel rejects Trump's Gaza plan, more details emerge on Strait of Hormuz and other Mideast news",
+      "summary": "Yemen's Iranian-backed Houthi rebels struck a government-held port on the country's Red Sea coast, deepening fears over threats to strategic shipping routes and a potential return to civil war",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/israel-rejects-trumps-gaza-plan-more-details-emerge-on-strait-of-hormuz-and-other-mideast-news/article71326860.ece",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T03:18:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-11T07:13:08.124Z",
+      "run_id": "2026-08-11T07:13"
+    },
+    {
+      "headline": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall",
+      "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T04:24:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-11T07:13:08.124Z",
+      "run_id": "2026-08-11T07:13"
+    },
+    {
+      "headline": "Saudi refinery blaze in Jizan ignites broader regional powder keg as Houthis claim precision drone strike",
+      "summary": "The orange glow of flames rising from Saudi Aramco’s sprawling refinery complex in the coastal city of Jizan early Sunday morning signaled more than just another skirmish in Yemen’s long-running conflict. It marked a dangerous new chapter in a rapidly escalat…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-10-saudi-refinery-blaze-in-jizan-ignites-broader-regional-powder-keg.html",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T06:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-11T07:13:08.124Z",
+      "run_id": "2026-08-11T07:13"
     }
   ],
-  "total_items_ever": 3005
+  "total_items_ever": 3009
 }

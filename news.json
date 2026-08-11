@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-11T01:59:29.888Z",
+  "ts": "2026-08-11T07:14:13.298Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 88,
     "oilStress": 33,
-    "updatedAt": "2026-08-11T01:59:29.888Z"
+    "updatedAt": "2026-08-11T07:14:13.298Z"
   },
   "items": [
+    {
+      "headline": "Iran Ties Hormuz Reopening To U.S. Concessions On Several Demands",
+      "summary": "The United States and Israel launched air strikes on Iran more than five months ago.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-hormuz-reopening-us-concessions-several-demands_n_6a794e2de4b01ec88690ac02",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T04:10:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israel rejects Trump's Gaza plan, more details emerge on Strait of Hormuz and other Mideast news",
+      "summary": "Yemen's Iranian-backed Houthi rebels struck a government-held port on the country's Red Sea coast, deepening fears over threats to strategic shipping routes and a potential return to civil war",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/israel-rejects-trumps-gaza-plan-more-details-emerge-on-strait-of-hormuz-and-other-mideast-news/article71326860.ece",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T03:18:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Netanyahu says Israel rejects Trump’s Gaza peace plan",
       "summary": "The Israeli prime minister says his country will not withdraw from Gaza until Hamas fully disarms, putting him at odds with a US-backed roadmap endorsed by the group. endorsed by Hamas. Israeli Prime Minister Benjamin Netanyahu on Sunday rejected US President…",
@@ -92,53 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Strait of Hormuz Status Today: Still Effectively Closed as Iran and Oman Near a Navigation Deal, for Now",
-      "summary": "The Strait of Hormuz remains closed to commercial shipping due to ongoing Iran-U.S. tensions, significantly impacting global energy markets and causing a rise in oil prices.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/strait-hormuz-crisis-shipping-halted-1873824",
+      "headline": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall",
+      "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
       "bloc": "western",
-      "date": "2026-08-09",
-      "datetime": "2026-08-09T13:17:29Z",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T04:24:45Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sunday: Hili dialogue",
-      "summary": "Welcome to Sunday, August 9, 2026, the Sabbath for goyische cats, and National Spirit of ’45 Day, meaning this: National Spirit of ’45 Day honors the can-do attitude of an entire generation affected by the trials and hardships of World War II. Observed every …",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/08/09/sunday-hili-dialogue-598/",
-      "bloc": "western",
-      "date": "2026-08-09",
-      "datetime": "2026-08-09T11:45:10Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran drives a hard bargain over Hormuz: The conditions it sets for the US to “unlock” the Strait",
-      "summary": "Tehran dismisses hopes for the reopening of the strategically vital maritime passage that has become a focal point of the war in the Middle East\nThe post Iran drives a hard bargain over Hormuz: The conditions it sets for the US to “unlock” the Strait appeared…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/08/09/iran-drives-a-hard-bargain-over-hormuz-the-conditions-it-sets-for-the-us-to-unlock-the-strait/",
-      "bloc": "western",
-      "date": "2026-08-09",
-      "datetime": "2026-08-09T07:00:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -575,6 +575,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Saudi refinery blaze in Jizan ignites broader regional powder keg as Houthis claim precision drone strike",
+      "summary": "The orange glow of flames rising from Saudi Aramco’s sprawling refinery complex in the coastal city of Jizan early Sunday morning signaled more than just another skirmish in Yemen’s long-running conflict. It marked a dangerous new chapter in a rapidly escalat…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-10-saudi-refinery-blaze-in-jizan-ignites-broader-regional-powder-keg.html",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T06:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran-Allied Houthis Hit Saudi Refinery, Threaten To Widen Middle East Conflict",
       "summary": "Iran-backed Houthi rebels in Yemen struck an oil refinery in Saudi Arabia, threatening to bring in members of a new Saudi-based military alliance into the conflict, and also attacked a Yemeni-government controlled port city as a 2022 UN-brokered truce in the …",
       "source": "Globalsecurity.org",
@@ -628,29 +651,6 @@
       "bloc": "western",
       "date": "2026-08-07",
       "datetime": "2026-08-07T10:55:57Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "A Russian retail giant’s warehouse burns after Ukraine's latest long-range drone attack",
-      "summary": "Ukrainian long-range drones hit a warehouse of Russia’s biggest online retailer in the Ural Mountains, more than 2,000 kilometers (1,200 miles) from the two...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/world/articles/russian-retail-giant-warehouse-burns-085401145.html",
-      "bloc": "western",
-      "date": "2026-08-07",
-      "datetime": "2026-08-07T08:54:01Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

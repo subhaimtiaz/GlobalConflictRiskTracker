@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-10T19:02:40.344Z",
+  "ts": "2026-08-11T01:59:29.888Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 88,
     "oilStress": 33,
-    "updatedAt": "2026-08-10T19:02:40.344Z"
+    "updatedAt": "2026-08-11T01:59:29.888Z"
   },
   "items": [
+    {
+      "headline": "Netanyahu says Israel rejects Trump’s Gaza peace plan",
+      "summary": "The Israeli prime minister says his country will not withdraw from Gaza until Hamas fully disarms, putting him at odds with a US-backed roadmap endorsed by the group. endorsed by Hamas. Israeli Prime Minister Benjamin Netanyahu on Sunday rejected US President…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/netanyahu-israel-gaza-strip-hamas-rejection-trump-peace-plan/a-78298282",
+      "bloc": "western",
+      "date": "2026-08-09",
+      "datetime": "2026-08-09T23:11:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran says US must meet new conditions before Strait of Hormuz reopens",
       "summary": "Tehran wants compensation from Washington for war",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Houthis, the Middle East’s “unsolved problem”: Why a thousand strikes were not enough to stop them",
-      "summary": "The US, Britain & Israel targeted infrastructure & leadership, but the threat remains - Missiles & drones threaten Saudi Arabia again, while Bab el-Mandeb is once again becoming a bottleneck\nThe post The Houthis, the Middle East’s “unsolved problem”: Why a th…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/08/09/the-houthis-the-middle-easts-unsolved-problem-why-a-thousand-strikes-were-not-enough-to-stop-them/",
+      "headline": "Oil Extends Gain as Oman-Iran Accord on Hormuz Remains Elusive",
+      "summary": "Oil extended gains as Iran and Oman remained short of a deal to reopen the Strait of Hormuz, while Houthi militants claimed an attack on a Saudi refinery near the Red Sea.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-extends-gain-as-oman-iran-accord-on-hormuz-remains-elusive",
       "bloc": "western",
       "date": "2026-08-09",
-      "datetime": "2026-08-09T11:14:46Z",
+      "datetime": "2026-08-09T23:06:21Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran sets conditions for reopening Strait of Hormuz",
-      "summary": "Iran demands compensation and an end to aggression as preconditions for reopening the Strait of Hormuz, a vital global shipping lane. Learn more about the\n\nRead More: https://punchng.com/iran-sets-conditions-for-reopening-strait-of-hormuz/",
-      "source": "The Punch",
-      "url": "https://punchng.com/iran-sets-conditions-for-reopening-strait-of-hormuz/",
-      "bloc": "western",
-      "date": "2026-08-09",
-      "datetime": "2026-08-09T05:51:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Kim Yo Jong Warns Japan Over First Tomahawk Missile Test",
       "summary": "The powerful sister of North Korea’s leader said Japan’s preemptive attack capability is entering the “stage of the actual act.”",
       "source": "The Diplomat",
@@ -295,6 +295,30 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "‘Defending Taiwan’ And The Limits Of Military-Only Deterrence",
+      "summary": "Hoover Institution fellow Eyck Freymann concludes in his new book, Defending Taiwan, that the U.S. military forces necessary to provide stability in East Asia have indeed fallen behind China’s. In response, Freymann argues that the United States needs a more …",
+      "source": "Lawfaremedia.org",
+      "url": "https://www.lawfaremedia.org/article/defending-taiwan--and-the-limits-of-military-only-deterrence",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T00:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -356,58 +380,6 @@
       "bloc": "western",
       "date": "2026-08-04",
       "datetime": "2026-08-04T16:30:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Blasts Oil Companies For Making “Too Much Money” During Iran Conflict As Chevron and Exxon Profits Skyrocket",
-      "summary": "Trump is furious at the oil companies profiting from a war his own administration is fighting, and now a DOJ probe and a possible export ban are putting bill...",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/03/trump-blasts-oil-companies-for-making-too-much-money-during-iran-conflict-as-chevron-and-exxon-profits-skyrocket/",
-      "bloc": "western",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T18:56:22Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of August 3, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-august-3-105037044.html",
-      "bloc": "western",
-      "date": "2026-08-03",
-      "datetime": "2026-08-03T10:50:37Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

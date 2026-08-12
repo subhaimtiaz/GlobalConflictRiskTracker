@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-11T19:06:40.240Z",
+  "ts": "2026-08-12T02:12:23.425Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 89,
-    "oilStress": 35,
-    "updatedAt": "2026-08-11T19:06:40.240Z"
+    "oilStress": 36,
+    "updatedAt": "2026-08-12T02:12:23.425Z"
   },
   "items": [
     {
@@ -144,6 +144,84 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens",
+      "summary": "The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regional hostilities.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
+      "bloc": "western",
+      "date": "2026-08-11",
+      "datetime": "2026-08-11T01:52:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Climbs as Hormuz Deal Remains Elusive",
+      "summary": "Crude climbed as limited Hormuz traffic and Middle East tensions continued to support prices.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/oil_climbs_as_hormuz_deal_remains_elusive-10-aug-2026-184340-article/",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T20:45:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. oil rises back above $82 as doubt grows Washington and Tehran will reach Hormuz deal",
+      "summary": "Oil prices jumped about 5% Monday as doubt grew that the U.S. and Iran will reach a deal to increase ship traffic through the Strait of Hormuz. U.S. West Texas Intermediate futures climbed about 5% to close at $82.13 per barrel. Brent crude , the internationa…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4391333/posts",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T20:21:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Trump rejects Iran’s war compensation demands, complicating Strait of Hormuz negotiations",
       "summary": "Trump's stance heightens geopolitical tensions, risking prolonged disruption in global oil supply and economic instability in the region.\nThe post Trump rejects Iran’s war compensation demands, complicating Strait of Hormuz negotiations appeared first on Cryp…",
       "source": "Crypto Briefing",
@@ -151,110 +229,6 @@
       "bloc": "western",
       "date": "2026-08-10",
       "datetime": "2026-08-10T17:55:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall",
-      "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
-      "bloc": "western",
-      "date": "2026-08-10",
-      "datetime": "2026-08-10T04:24:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Extends Gain as Oman-Iran Accord on Hormuz Remains Elusive",
-      "summary": "Oil extended gains as Iran and Oman remained short of a deal to reopen the Strait of Hormuz, while Houthi militants claimed an attack on a Saudi refinery near the Red Sea.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-extends-gain-as-oman-iran-accord-on-hormuz-remains-elusive",
-      "bloc": "western",
-      "date": "2026-08-09",
-      "datetime": "2026-08-09T23:06:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump signals willingness to end Iran conflict if Strait of Hormuz reopens",
-      "summary": "Reopening the Strait of Hormuz could stabilize global oil markets, reduce energy costs, and influence US domestic politics amid upcoming elections.\nThe post Trump signals willingness to end Iran conflict if Strait of Hormuz reopens appeared first on Crypto Br…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-iran-strait-of-hormuz-conflict/",
-      "bloc": "western",
-      "date": "2026-08-09",
-      "datetime": "2026-08-09T12:10:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran sets out steep demands for reopening Hormuz despite hopes Oman deal could break impasse",
-      "summary": "There are no ongoing negotiations between Tehran and Washington, Iranian Foreign Minister Abbas Araghchi said Sunday, after Tehran set out a steep series of demands for the reopening of the Strait of Hormuz.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/iran/iran-sets-steep-demands-reopening-hormuz-hopes-oman-deal-break-impasse-rcna591553",
-      "bloc": "western",
-      "date": "2026-08-09",
-      "datetime": "2026-08-09T11:30:24Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -323,34 +297,10 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The chilling warning every Australian should read as China builds military capable of striking our cities - and they won't even need bombs to bring us down",
-      "summary": "A warning has been issued to Australians.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15998019/china-military-australia-lowy-institute-shoebridge-cyberattack-navy.html",
-      "bloc": "western",
-      "date": "2026-08-04",
-      "datetime": "2026-08-04T00:54:37Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Current price of oil as of August 10, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-08-10-2026/",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-august-10-111546028.html",
       "bloc": "western",
       "date": "2026-08-10",
       "datetime": "2026-08-10T11:15:46Z",
@@ -380,32 +330,6 @@
       "bloc": "western",
       "date": "2026-08-05",
       "datetime": "2026-08-05T10:56:26Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "ONGC Profit More Than Doubles as Oil Prices Surge",
-      "summary": "India’s Oil and Natural Gas Corporation more than doubled its quarterly profit as higher crude and natural gas prices—and a weaker rupee—more than made up for another drop in production. ONGC reported net income of 170.34 billion rupees, or about $1.8 billion…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/ONGC-Profit-More-Than-Doubles-as-Oil-Prices-Surge.html",
-      "bloc": "western",
-      "date": "2026-08-04",
-      "datetime": "2026-08-04T16:30:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -601,6 +525,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Netanyahu Nixes Trump’s Gaza Deal",
+      "summary": "Another weekend with no resolution to the Middle East’s wars.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/08/10/netanyahu-israel-hamas-disarmament-deal-colombia-earthquake-china-typhoon/",
+      "bloc": "western",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T19:14:40Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Saudi refinery blaze in Jizan ignites broader regional powder keg as Houthis claim precision drone strike",
       "summary": "The orange glow of flames rising from Saudi Aramco’s sprawling refinery complex in the coastal city of Jizan early Sunday morning signaled more than just another skirmish in Yemen’s long-running conflict. It marked a dangerous new chapter in a rapidly escalat…",
       "source": "Naturalnews.com",
@@ -654,29 +601,6 @@
       "bloc": "western",
       "date": "2026-08-08",
       "datetime": "2026-08-08T20:06:05Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukrainian drones strike another warehouse of Russia’s top online retailer",
-      "summary": "Ukrainian long-range drones have hit a warehouse in the Ural Mountains belonging to Russia’s largest online retailer. The site of the attack, reported Friday, is over 2,000 kilometers from the border. Ukraine has been targeting distant Russian sites, showcasi…",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/russia-ukraine-war-wildberries-ballistic-missiles-6101ca4702e1f66e8cb8a15819cd5931",
-      "bloc": "western",
-      "date": "2026-08-07",
-      "datetime": "2026-08-07T10:55:57Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

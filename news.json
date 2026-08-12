@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-12T13:17:43.283Z",
+  "ts": "2026-08-12T19:06:07.600Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 89,
     "oilStress": 35,
-    "updatedAt": "2026-08-12T13:17:43.283Z"
+    "updatedAt": "2026-08-12T19:06:07.600Z"
   },
   "items": [
     {
@@ -144,6 +144,84 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Coffee Break: Armed Madhouse – The Iran War, China, and the Future of Sea Power",
+      "summary": "The Iran war exposed a potential weakness in the architecture of American sea power. Precision strike can threaten the forward bases that sustain expeditionary fleets while distributed weapons and sensors can contest maritime access without command of the sea…",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-the-iran-war-china-and-the-future-of-sea-power.html",
+      "bloc": "western",
+      "date": "2026-08-11",
+      "datetime": "2026-08-11T18:00:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Administration Says Gulf Oil Flows Recover to 15 Million Barrels a Day",
+      "summary": "U.S. Energy Secretary Chris Wright said oil flows out of the Persian Gulf have climbed to roughly 15 million barrels per day as U.S. military operations and expanded pipeline capacity...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/trump-administration-says-gulf-oil-flows-recover-to-15-million-barrels-a-day/",
+      "bloc": "western",
+      "date": "2026-08-11",
+      "datetime": "2026-08-11T17:42:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US guns fire on 17 civilians in dead of night tanker strike as Trump's Iran war sparks gas carnage",
+      "summary": "A US military helicopter fired a missile at the rudder of a Panama-flagged vessel just before dawn on Tuesday after its crew ignored warnings from American personnel enforcing the blockade.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16044851/US-strike-Trumps-Iran-war.html",
+      "bloc": "western",
+      "date": "2026-08-11",
+      "datetime": "2026-08-11T16:08:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "A Dozen Ships Switch Oil Outside Hormuz as Barrels Keep Flowing",
       "summary": "A key oil supply valve from the Middle East that involves shuttle transits through the Strait of Hormuz is continuing to function in the face of a recent spate of attacks.",
       "source": "Financial Post",
@@ -177,84 +255,6 @@
       "bloc": "western",
       "date": "2026-08-11",
       "datetime": "2026-08-11T12:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Race to Reopen the Strait of Hormuz Intensifies as Supply Chain Stress Persists",
-      "summary": "Shipping transits through the Strait of Hormuz remained largely uninterrupted on Monday morning, according to Bloomberg data cited by Zero Hedge, even as Iran and Oman reportedly moved closer to a deal. Brent crude futures traded near $85 a barrel as markets …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-11-race-reopen-hormuz-intensifies-supply-chain-stress-persists.html",
-      "bloc": "western",
-      "date": "2026-08-11",
-      "datetime": "2026-08-11T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump says US has '100%' control of Hormuz as Iran demands war reparations",
-      "summary": "Trump on Strait of Hormuz: Donald Trump claims the US Navy has full control of the Strait of Hormuz after clearing mines, while Iran says it will not fully reopen the key oil route until its demands are met",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/trump-us-iran-conflict-west-asia-war-strait-of-hormuz-control-oil-prices-126081100362_1.html",
-      "bloc": "western",
-      "date": "2026-08-11",
-      "datetime": "2026-08-11T04:40:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens",
-      "summary": "The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regional hostilities.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
-      "bloc": "western",
-      "date": "2026-08-11",
-      "datetime": "2026-08-11T01:52:04Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

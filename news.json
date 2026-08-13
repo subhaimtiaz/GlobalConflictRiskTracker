@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-13T07:40:19.960Z",
+  "ts": "2026-08-13T13:19:46.862Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 89,
-    "oilStress": 34,
-    "updatedAt": "2026-08-13T07:40:19.960Z"
+    "oilPrice": 87,
+    "oilStress": 32,
+    "updatedAt": "2026-08-13T13:19:46.862Z"
   },
   "items": [
+    {
+      "headline": "Wednesday: Hili dialogue",
+      "summary": "Welcome to a Hump Day (“Woensdag” in Dutch): Wednesday, August 12, 2026, and World Elephant Day. I can’t post my own pictures of elephants as my transfer to a new computer has temporarily left my own photos in limbo, but here’s one by David Hughes that appear…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/08/12/wednesday-hili-dialogue-593/",
+      "bloc": "western",
+      "date": "2026-08-12",
+      "datetime": "2026-08-12T11:45:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "ELBIT SYSTEMS REPORTS SECOND QUARTER 2026 RESULTS",
       "summary": "Order backlog at $32.0 billion; Revenues of $2.3 billion; GAAP net income of $173.6 million; Non-GAAP net income of $199.1 million; GAAP net EPS of $3.61; Non-GAAP net EPS of $4.14 HAIFA, Israel, Aug. 11, 2026 /PRNewswire/ -- Elbit Systems Ltd. (NASDAQ: ESLT)…",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-08-10",
       "datetime": "2026-08-10T04:10:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israel rejects Trump's Gaza plan, more details emerge on Strait of Hormuz and other Mideast news",
-      "summary": "Yemen's Iranian-backed Houthi rebels struck a government-held port on the country's Red Sea coast, deepening fears over threats to strategic shipping routes and a potential return to civil war",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/israel-rejects-trumps-gaza-plan-more-details-emerge-on-strait-of-hormuz-and-other-mideast-news/article71326860.ece",
-      "bloc": "western",
-      "date": "2026-08-10",
-      "datetime": "2026-08-10T03:18:58Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -317,6 +317,58 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Dearth Of Reliable Data Plagues Crude Oil Market Assessments",
+      "summary": "A dearth of reliable data created by the fog of war in the Middle East has rendered global crude oil market estimates hard to trust.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidblackmon/2026/08/12/dearth-of-reliable-data-plagues-crude-oil-market-assessments/",
+      "bloc": "western",
+      "date": "2026-08-12",
+      "datetime": "2026-08-12T12:39:16Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Best-Performing ETF of the Year Just Won't Stop Going Up",
+      "summary": "BWET is up more than 1,600% this year on surging tanker rates, yet almost nobody owns it.",
+      "source": "Etf.com",
+      "url": "http://www.etf.com/sections/features/best-performing-etf-year-just-wont-stop-going?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+      "bloc": "western",
+      "date": "2026-08-12",
+      "datetime": "2026-08-12T04:45:46Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -522,6 +574,29 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Day 1,631 of WW3: As Zelenskyy hands proposals for ending the war to U.S. officials, a reminder that putin's best investment still has never visited Ukraine - Fark needs a \"cowardly\" tag. This is your Wednesday Ukraine war thread [News]",
+      "summary": "Day 1,631 of WW3: As Zelenskyy hands proposals for ending the war to U.S. officials, a reminder that putin's best investment still has never visited Ukraine - Fark needs a \"cowardly\" tag. This is your Wednesday Ukraine war thread",
+      "source": "Fark.com",
+      "url": "https://www.fark.com/comments/14161074/Day-1631-of-WW3-As-Zelenskyy-hands-proposals-for-ending-war-to-US-officials-a-reminder-that-putins-best-investment-still-has-never-visited-Ukraine-Fark-needs-a-cowardly-tag-This-is-your-Wednesday-Ukraine-war-thread",
+      "bloc": "western",
+      "date": "2026-08-12",
+      "datetime": "2026-08-12T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-13T13:19:46.862Z",
+  "ts": "2026-08-13T19:07:19.373Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 87,
-    "oilStress": 32,
-    "updatedAt": "2026-08-13T13:19:46.862Z"
+    "oilStress": 31,
+    "updatedAt": "2026-08-13T19:07:19.372Z"
   },
   "items": [
+    {
+      "headline": "Iran says no progress on reviving interim peace deal with US",
+      "summary": "Iran and the United States remain divided over ending the Gulf war permanently. Talks to revive an interim deal agreed in June have seen no progress. New attacks on shipping in the region have further dampened hopes for resolution. The Strait of Hormuz, a vit…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-no-progress-on-reviving-interim-peace-deal-with-us/articleshow/133189914.cms",
+      "bloc": "regional",
+      "date": "2026-08-12",
+      "datetime": "2026-08-12T17:47:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran says no progress on US talks to revive June's interim peace deal",
+      "summary": "Iran and the US remain at loggerheads over reviving a June interim peace deal, with Tehran saying there has been no progress on a timeframe to implement it.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/iran-says-no-progress-on-us-talks-to-revive-june-s-interim-peace-deal-126081201703_1.html",
+      "bloc": "western",
+      "date": "2026-08-12",
+      "datetime": "2026-08-12T13:58:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Wednesday: Hili dialogue",
       "summary": "Welcome to a Hump Day (“Woensdag” in Dutch): Wednesday, August 12, 2026, and World Elephant Day. I can’t post my own pictures of elephants as my transfer to a new computer has temporarily left my own photos in limbo, but here’s one by David Hughes that appear…",
@@ -92,53 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Ties Hormuz Reopening to US Concessions on Several Demands",
-      "summary": "Iran said it was nearing a final pact with Oman defining new shipping lanes between them through the Strait of Hormuz but repeated that the U.S. must meet other conditions, including compensation and an end to sanctions and military threats, before the strate…",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/iran-ties-hormuz-reopening-to-us-concessions-on-several-demands/",
+      "headline": "The Daily Global Oil Deficit Is Even Higher Than Originally Projected, And That Means That The Energy Crisis Is About To Greatly Escalate",
+      "summary": "Since war with Iran erupted in February, the world has been using a lot more oil than it has been producing. The good news is that we had a tremendous amount of extra oil sitting around. As a result, we have been able to avoid shortages and we have been able …",
+      "source": "Theeconomiccollapseblog.com",
+      "url": "http://theeconomiccollapseblog.com/the-daily-global-oil-deficit-is-even-higher-than-originally-projected-and-that-means-that-the-energy-crisis-is-about-to-greatly-escalate/",
       "bloc": "western",
-      "date": "2026-08-10",
-      "datetime": "2026-08-10T08:18:00Z",
+      "date": "2026-08-12",
+      "datetime": "2026-08-12T17:39:14Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Ties Hormuz Reopening To U.S. Concessions On Several Demands",
-      "summary": "The United States and Israel launched air strikes on Iran more than five months ago.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-hormuz-reopening-us-concessions-several-demands_n_6a794e2de4b01ec88690ac02",
+      "headline": "IEA slashes 2026 supply forecast as Hormuz reopening remains elusive",
+      "summary": "IEA said oil supply has fallen well below demand due to the Strait of Hormuz shutdown, the US blockade of Iranian exports, attacks within the Bab el-Mandeb Strait, and reduced Kazakh CPC Blend exports",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/iea-slashes-2026-supply-forecast-as-hormuz-reopening-remains-elusive-126081201584_1.html",
       "bloc": "western",
-      "date": "2026-08-10",
-      "datetime": "2026-08-10T04:10:22Z",
+      "date": "2026-08-12",
+      "datetime": "2026-08-12T14:00:35Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -203,58 +255,6 @@
       "bloc": "western",
       "date": "2026-08-11",
       "datetime": "2026-08-11T17:42:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US guns fire on 17 civilians in dead of night tanker strike as Trump's Iran war sparks gas carnage",
-      "summary": "A US military helicopter fired a missile at the rudder of a Panama-flagged vessel just before dawn on Tuesday after its crew ignored warnings from American personnel enforcing the blockade.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16044851/US-strike-Trumps-Iran-war.html",
-      "bloc": "western",
-      "date": "2026-08-11",
-      "datetime": "2026-08-11T16:08:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "A Dozen Ships Switch Oil Outside Hormuz as Barrels Keep Flowing",
-      "summary": "A key oil supply valve from the Middle East that involves shuttle transits through the Strait of Hormuz is continuing to function in the face of a recent spate of attacks.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/a-dozen-ships-switch-oil-outside-hormuz-as-barrels-keep-flowing",
-      "bloc": "western",
-      "date": "2026-08-11",
-      "datetime": "2026-08-11T12:42:18Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

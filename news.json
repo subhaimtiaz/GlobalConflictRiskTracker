@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-12T19:06:07.600Z",
+  "ts": "2026-08-13T02:14:21.877Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 89,
-    "oilStress": 35,
-    "updatedAt": "2026-08-12T19:06:07.600Z"
+    "oilPrice": 88,
+    "oilStress": 33,
+    "updatedAt": "2026-08-13T02:14:21.877Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "A Dozen Ships Switch Oil Outside Hormuz",
+      "summary": "A key oil supply valve from the Middle East that involves shuttle transits through the Strait of Hormuz is continuing to function.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/a_dozen_ships_switch_oil_outside_hormuz-11-aug-2026-184349-article/",
+      "bloc": "western",
+      "date": "2026-08-11",
+      "datetime": "2026-08-11T20:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Coffee Break: Armed Madhouse – The Iran War, China, and the Future of Sea Power",
       "summary": "The Iran war exposed a potential weakness in the architecture of American sea power. Precision strike can threaten the forward bases that sustain expeditionary fleets while distributed weapons and sensors can contest maritime access without command of the sea…",
       "source": "Nakedcapitalism.com",
@@ -248,57 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "OPEC Output Climbs Again, But Still Trails Quota Targets",
-      "summary": "OPEC’s total oil production jumped by 1.17 million barrels per day in July from June as many Gulf producers restored some output that was shut in for three months due to the closed Strait of Hormuz. Output at the 11-member OPEC rose to 19.85 million bpd in Ju…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Output-Climbs-Again-But-Still-Trails-Quota-Targets.html",
-      "bloc": "western",
-      "date": "2026-08-11",
-      "datetime": "2026-08-11T12:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Kim Yo Jong Warns Japan Over First Tomahawk Missile Test",
-      "summary": "The powerful sister of North Korea’s leader said Japan’s preemptive attack capability is entering the “stage of the actual act.”",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/08/kim-yo-jong-warns-japan-over-first-tomahawk-missile-test/",
-      "bloc": "western",
-      "date": "2026-08-05",
-      "datetime": "2026-08-05T12:15:00Z",
-      "leaders": [
-        "Kim Jong-un"
-      ],
-      "watch_terms": [
-        "Kim Jong-un North"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "narcissism",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Taiwan soft-pedals Scarborough claim as Manila ties take priority",
       "summary": "Taiwan is trapped between sea rocks and a hard place: As the Philippines has filed documentation to strengthen its claims in the South China Sea, Taipei must balance asserting its own conflicting claims with building closer ties with Manila, especially as a p…",
       "source": "Globalsecurity.org",
@@ -347,13 +322,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Current price of oil as of August 10, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-august-10-111546028.html",
+      "headline": "Market battles at the gantry: How competition, not refining cost, sets petrol prices (1)",
+      "summary": "Explore why petrol prices in Nigeria are driven by market competition, global forces, and exchange rates, not just local refining costs. Understand the evo\n\nRead More: https://punchng.com/market-battles-at-the-gantry-how-competition-not-refining-cost-sets-pet…",
+      "source": "The Punch",
+      "url": "https://punchng.com/market-battles-at-the-gantry-how-competition-not-refining-cost-sets-petrol-prices-1/",
       "bloc": "western",
-      "date": "2026-08-10",
-      "datetime": "2026-08-10T11:15:46Z",
+      "date": "2026-08-12",
+      "datetime": "2026-08-12T00:09:10Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -373,13 +348,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Sensex today | Stock Market Highlights: Sensex rises 152 points, Nifty ends above 24,620 after RBI keeps repo rate unchanged",
-      "summary": "Sensex Today, Nifty 50 | Stock Market Highlights, 5 August:  Indian benchmark indices ended higher after the RBI retained the repo rate and improved its FY27 growth outlook while lowering inflation projections. Gains in auto, realty and metal stocks offset co…",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-5th-august-2026/article71306480.ece",
+      "headline": "Current price of oil as of August 10, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-august-10-111546028.html",
       "bloc": "western",
-      "date": "2026-08-05",
-      "datetime": "2026-08-05T10:56:26Z",
+      "date": "2026-08-10",
+      "datetime": "2026-08-10T11:15:46Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -521,56 +496,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "When the World Stops Fearing the Bomb",
-      "summary": "On the 81st anniversary of the bombing of Japan, the hibakusha are disappearing just as fast as the world is becoming numb to their cause",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/08/when-the-world-stops-fearing-the-bomb/",
-      "bloc": "western",
-      "date": "2026-08-05",
-      "datetime": "2026-08-05T15:11:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "India and Pakistan’s 79-year rivalry has made the dangerous move into space",
-      "summary": "India and Pakistan fought a war in 2025 that was wholly dependent on space technology.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/india-and-pakistans-79-year-rivalry-has-made-the-dangerous-move-into-space-286966",
-      "bloc": "western",
-      "date": "2026-08-05",
-      "datetime": "2026-08-05T13:17:13Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

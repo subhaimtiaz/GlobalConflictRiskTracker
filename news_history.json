@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-13T02:13:16.610Z",
+  "updated": "2026-08-13T07:39:14.682Z",
   "retention_days": 30,
   "items": [
     {
@@ -15375,7 +15375,35 @@
       "_from": "newsapi",
       "first_seen": "2026-08-13T02:13:16.610Z",
       "run_id": "2026-08-13T02:13"
+    },
+    {
+      "headline": "BofA commodities expert reveals what must happen before oil prices fall",
+      "summary": "I've been tracking energy market fallout from the Strait of Hormuz, and every expert I've come across keeps circling back to the same uncomfortable truth. Th...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/bac-bank-of-america-blanch-10x-more-ships-must-cross-hormuz-to-normalize-oil-prices",
+      "bloc": "western",
+      "date": "2026-08-11",
+      "datetime": "2026-08-11T18:47:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-13T07:39:14.682Z",
+      "run_id": "2026-08-13T07:39"
     }
   ],
-  "total_items_ever": 3028
+  "total_items_ever": 3029
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-14T13:14:34.825Z",
+  "ts": "2026-08-14T18:59:46.189Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 87,
-    "oilStress": 32,
-    "updatedAt": "2026-08-14T13:14:34.825Z"
+    "oilPrice": 89,
+    "oilStress": 34,
+    "updatedAt": "2026-08-14T18:59:46.189Z"
   },
   "items": [
+    {
+      "headline": "US CENTCOM commander Adm. Brad Cooper pushes for renewed attacks on Iran during Israel visit despite US call to close all fronts last week – Israel’s Channel 13",
+      "summary": "Renewed military actions against Iran risk escalating tensions, complicating diplomatic efforts and reducing the likelihood of a US-Iran deal.\nThe post US CENTCOM commander Adm. Brad Cooper pushes for renewed attacks on Iran during Israel visit despite US cal…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-centcom-commander-adm-brad-cooper-pushes-for-renewed-attacks-on-iran-during/",
+      "bloc": "western",
+      "date": "2026-08-13",
+      "datetime": "2026-08-13T18:01:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Yemen at Risk of Entering Wider Middle East Conflict, UN Special Envoy Warns Security Council, as Several Members Condemn Escalating Houthi Attacks",
       "summary": "The conflict expanding across the Middle East has now arrived on Yemen's shores, the senior United Nations official in the country told the Security Council today, warning that attacks by Houthi militants on critical waterways are imperiling global trade and …",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Wednesday: Hili dialogue",
-      "summary": "Welcome to a Hump Day (“Woensdag” in Dutch): Wednesday, August 12, 2026, and World Elephant Day. I can’t post my own pictures of elephants as my transfer to a new computer has temporarily left my own photos in limbo, but here’s one by David Hughes that appear…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/08/12/wednesday-hili-dialogue-593/",
+      "headline": "Iran demands compensation for Hormuz oil spill it allegedly caused",
+      "summary": "Iran is demanding compensation for an oil spill that reached its shores this week that was allegedly caused after it attacked a tanker trying to cross the Strait of Hormuz.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/13/world-news/iran-demands-compensation-for-hormuz-oil-spill-it-allegedly-caused/",
       "bloc": "western",
-      "date": "2026-08-12",
-      "datetime": "2026-08-12T11:45:35Z",
+      "date": "2026-08-13",
+      "datetime": "2026-08-13T18:57:04Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Administration Says Gulf Oil Flows Recover to 15 Million Barrels a Day",
-      "summary": "U.S. Energy Secretary Chris Wright said oil flows out of the Persian Gulf have climbed to roughly 15 million barrels per day as U.S. military operations and expanded pipeline capacity...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/trump-administration-says-gulf-oil-flows-recover-to-15-million-barrels-a-day/",
-      "bloc": "western",
-      "date": "2026-08-11",
-      "datetime": "2026-08-11T17:42:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Critical Choices In The Indo-Pacific",
       "summary": "All the security variables—alliances, weapons, nuclear moves—converge on US-China relations.",
       "source": "Thefreedomfrequency.org",
@@ -341,6 +341,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Hormuz Stalemate Raises Risk of $120 Oil",
+      "summary": "For months now, traders and market analysts have had to weigh two opposing scenarios for oil prices—the ongoing war and severely disrupted oil flows at the Strait of Hormuz and hopes that a U.S.-Iran deal would free up millions of barrels of oil and refined p…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Hormuz-Stalemate-Raises-Risk-of-120-Oil.html",
+      "bloc": "western",
+      "date": "2026-08-13",
+      "datetime": "2026-08-13T15:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -431,32 +457,6 @@
       "bloc": "western",
       "date": "2026-08-11",
       "datetime": "2026-08-11T18:47:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of August 10, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-august-10-111546028.html",
-      "bloc": "western",
-      "date": "2026-08-10",
-      "datetime": "2026-08-10T11:15:46Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

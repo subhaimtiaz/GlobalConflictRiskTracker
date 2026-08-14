@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-14T07:37:55.660Z",
+  "ts": "2026-08-14T13:14:34.825Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 89,
-    "oilStress": 34,
-    "updatedAt": "2026-08-14T07:37:55.660Z"
+    "oilPrice": 87,
+    "oilStress": 32,
+    "updatedAt": "2026-08-14T13:14:34.825Z"
   },
   "items": [
+    {
+      "headline": "Yemen at Risk of Entering Wider Middle East Conflict, UN Special Envoy Warns Security Council, as Several Members Condemn Escalating Houthi Attacks",
+      "summary": "The conflict expanding across the Middle East has now arrived on Yemen's shores, the senior United Nations official in the country told the Security Council today, warning that attacks by Houthi militants on critical waterways are imperiling global trade and …",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260813-unsc01.htm",
+      "bloc": "western",
+      "date": "2026-08-13",
+      "datetime": "2026-08-13T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "U.S. Shifts to Economic Warfare Against Iran as Military and Diplomatic Efforts Stall",
       "summary": "President Donald Trump’s limited airstrike campaign and repeated threats have failed to force Iran to the negotiating table, according to officials and analysts, as the administration shifts toward economic warfare. Diplomatic breakthroughs have repeatedly st…",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-08-12",
       "datetime": "2026-08-12T11:45:35Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "ELBIT SYSTEMS REPORTS SECOND QUARTER 2026 RESULTS",
-      "summary": "Order backlog at $32.0 billion; Revenues of $2.3 billion; GAAP net income of $173.6 million; Non-GAAP net income of $199.1 million; GAAP net EPS of $3.61; Non-GAAP net EPS of $4.14 HAIFA, Israel, Aug. 11, 2026 /PRNewswire/ -- Elbit Systems Ltd. (NASDAQ: ESLT)…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/elbit-systems-reports-second-quarter-2026-results-302848083.html",
-      "bloc": "western",
-      "date": "2026-08-11",
-      "datetime": "2026-08-11T07:18:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -550,13 +550,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Day 1,631 of WW3: As Zelenskyy hands proposals for ending the war to U.S. officials, a reminder that putin's best investment still has never visited Ukraine - Fark needs a \"cowardly\" tag. This is your Wednesday Ukraine war thread [News]",
-      "summary": "Day 1,631 of WW3: As Zelenskyy hands proposals for ending the war to U.S. officials, a reminder that putin's best investment still has never visited Ukraine - Fark needs a \"cowardly\" tag. This is your Wednesday Ukraine war thread",
-      "source": "Fark.com",
-      "url": "https://www.fark.com/comments/14161074/Day-1631-of-WW3-As-Zelenskyy-hands-proposals-for-ending-war-to-US-officials-a-reminder-that-putins-best-investment-still-has-never-visited-Ukraine-Fark-needs-a-cowardly-tag-This-is-your-Wednesday-Ukraine-war-thread",
+      "headline": "Ukraine’s drones hit major Russian refinery 800 miles from the border, sparking fire",
+      "summary": "Ukrainian drones have struck a major refinery deep inside Russia, marking the fourth attack in three days",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/ukraines-drones-hit-major-russian-refinery-800-miles-135605504",
       "bloc": "western",
-      "date": "2026-08-12",
-      "datetime": "2026-08-12T12:00:00Z",
+      "date": "2026-08-13",
+      "datetime": "2026-08-13T11:52:16Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"
@@ -573,13 +573,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Netanyahu Nixes Trump’s Gaza Deal",
-      "summary": "Another weekend with no resolution to the Middle East’s wars.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/08/10/netanyahu-israel-hamas-disarmament-deal-colombia-earthquake-china-typhoon/",
-      "bloc": "western",
-      "date": "2026-08-10",
-      "datetime": "2026-08-10T19:14:40Z",
+      "headline": "Ukraine's drones hit a major Russian refinery 800 miles from the border, sparking a fire",
+      "summary": "Ukrainian drones struck a major Russian oil refinery and a naval base. Russia retaliated with missile and drone attacks across Ukraine.  These strikes have impacted Russia's refining capacity and caused civilian casualties. Ukraine seeks more Patriot missiles…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/ukraines-drones-hit-a-major-russian-refinery-800-miles-from-the-border-sparking-a-fire/articleshow/133210656.cms",
+      "bloc": "regional",
+      "date": "2026-08-13",
+      "datetime": "2026-08-13T11:51:22Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"
@@ -596,36 +596,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Saudi refinery blaze in Jizan ignites broader regional powder keg as Houthis claim precision drone strike",
-      "summary": "The orange glow of flames rising from Saudi Aramco’s sprawling refinery complex in the coastal city of Jizan early Sunday morning signaled more than just another skirmish in Yemen’s long-running conflict. It marked a dangerous new chapter in a rapidly escalat…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-10-saudi-refinery-blaze-in-jizan-ignites-broader-regional-powder-keg.html",
+      "headline": "Ukraine’s drones hit a major Russian refinery 800 miles from the border, sparking a fire",
+      "summary": "Ukrainian drones struck a major refinery deep inside Russia, military officials said Thursday, the fourth in three days in Kyiv’s monthslong campaign to chok...",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/world/articles/ukraine-drones-hit-major-russian-112031067.html",
       "bloc": "western",
-      "date": "2026-08-10",
-      "datetime": "2026-08-10T06:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran-Allied Houthis Hit Saudi Refinery, Threaten To Widen Middle East Conflict",
-      "summary": "Iran-backed Houthi rebels in Yemen struck an oil refinery in Saudi Arabia, threatening to bring in members of a new Saudi-based military alliance into the conflict, and also attacked a Yemeni-government controlled port city as a 2022 UN-brokered truce in the …",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260809-rferl01.htm",
-      "bloc": "western",
-      "date": "2026-08-09",
-      "datetime": "2026-08-09T12:00:00Z",
+      "date": "2026-08-13",
+      "datetime": "2026-08-13T11:20:31Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

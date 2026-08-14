@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-14T02:11:22.596Z",
+  "updated": "2026-08-14T07:36:50.407Z",
   "retention_days": 30,
   "items": [
     {
@@ -14702,7 +14702,35 @@
       "_from": "newsapi",
       "first_seen": "2026-08-14T02:11:22.595Z",
       "run_id": "2026-08-14T02:11"
+    },
+    {
+      "headline": "U.S. Shifts to Economic Warfare Against Iran as Military and Diplomatic Efforts Stall",
+      "summary": "President Donald Trump’s limited airstrike campaign and repeated threats have failed to force Iran to the negotiating table, according to officials and analysts, as the administration shifts toward economic warfare. Diplomatic breakthroughs have repeatedly st…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-13-us-shifts-to-economic-warfare-against-iran.html",
+      "bloc": "western",
+      "date": "2026-08-13",
+      "datetime": "2026-08-13T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-14T07:36:50.407Z",
+      "run_id": "2026-08-14T07:36"
     }
   ],
-  "total_items_ever": 3038
+  "total_items_ever": 3039
 }

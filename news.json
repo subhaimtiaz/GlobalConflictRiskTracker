@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-14T02:12:27.763Z",
+  "ts": "2026-08-14T07:37:55.660Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 87,
-    "oilStress": 31,
-    "updatedAt": "2026-08-14T02:12:27.763Z"
+    "oilPrice": 89,
+    "oilStress": 34,
+    "updatedAt": "2026-08-14T07:37:55.660Z"
   },
   "items": [
+    {
+      "headline": "U.S. Shifts to Economic Warfare Against Iran as Military and Diplomatic Efforts Stall",
+      "summary": "President Donald Trump’s limited airstrike campaign and repeated threats have failed to force Iran to the negotiating table, according to officials and analysts, as the administration shifts toward economic warfare. Diplomatic breakthroughs have repeatedly st…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-13-us-shifts-to-economic-warfare-against-iran.html",
+      "bloc": "western",
+      "date": "2026-08-13",
+      "datetime": "2026-08-13T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran says no progress on reviving interim peace deal with US",
       "summary": "Iran and the United States remain divided over ending the Gulf war permanently. Talks to revive an interim deal agreed in June have seen no progress. New attacks on shipping in the region have further dampened hopes for resolution. The Strait of Hormuz, a vit…",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-08-11",
       "datetime": "2026-08-11T07:18:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump’s shifting narrative on U.S. munitions stockpile",
-      "summary": "President Donald Trump said two years ago that U.S. munitions stockpiles were depleted by military assistance to Ukraine. At an August 21, 2024 campaign rally in Asheboro, North Carolina, Trump said the administration of President Joe Biden “bled America’s am…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-11-trumps-shifting-narrative-on-us-munitions-stockpile.html",
-      "bloc": "western",
-      "date": "2026-08-11",
-      "datetime": "2026-08-11T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -626,29 +626,6 @@
       "bloc": "western",
       "date": "2026-08-09",
       "datetime": "2026-08-09T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine denies targeting Bulgaria after drone explodes near pipeline",
-      "summary": "Ukraine has denied targeting Bulgaria after a drone entered Bulgaria's airspace exploded close to the strategic Trans-Balkan gas pipeline near the Romanian border.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-09/bulgaria-says-drone-explodes-in-its-airspace/107013718",
-      "bloc": "western",
-      "date": "2026-08-08",
-      "datetime": "2026-08-08T20:06:05Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

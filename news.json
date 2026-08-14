@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-13T19:07:19.373Z",
+  "ts": "2026-08-14T02:12:27.763Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 87,
     "oilStress": 31,
-    "updatedAt": "2026-08-13T19:07:19.372Z"
+    "updatedAt": "2026-08-14T02:12:27.763Z"
   },
   "items": [
     {
@@ -274,6 +274,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Critical Choices In The Indo-Pacific",
+      "summary": "All the security variables—alliances, weapons, nuclear moves—converge on US-China relations.",
+      "source": "Thefreedomfrequency.org",
+      "url": "https://www.thefreedomfrequency.org/p/critical-choices-in-the-indo-pacific",
+      "bloc": "western",
+      "date": "2026-08-13",
+      "datetime": "2026-08-13T00:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Taiwan soft-pedals Scarborough claim as Manila ties take priority",
       "summary": "Taiwan is trapped between sea rocks and a hard place: As the Philippines has filed documentation to strengthen its claims in the South China Sea, Taipei must balance asserting its own conflicting claims with building closer ties with Manila, especially as a p…",
       "source": "Globalsecurity.org",
@@ -452,33 +476,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War: Iran Agreement With Oman Will Not “Open” Strait of Hormuz as Trump Hypes Non-Existent Talks; Ansar Allah Threatens Red Sea Escalation; Trump-Hegseth Row Over Weapons Shortages",
-      "summary": "Today's Iran War news: Over-selling of Iran-Oman Hormuz pact as US arms shortages lead to doctrine change: liberal use of tactical nukes",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-iran-agreement-with-oman-will-not-open-strait-of-hormuz-as-trump-hypes-non-existent-talks-ansar-allah-threatens-red-sea-escalation-trump-hegseth-row-over-weapons-shortages.html",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T09:16:35Z",
-      "leaders": [
-        "Kim Jong-un",
-        "Vladimir Putin",
-        "General Asim Munir"
-      ],
-      "watch_terms": [
-        "nuclear signalling threat"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival",
-        "narcissism"
-      ],
-      "variable_key": "nuclearSignalling",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Beyond the Funeral: What Khamenei’s Final Farewell Reveals About Iran’s Next Chapter",
       "summary": "The state funeral for Ali Khamenei was never just a funeral. It was a choreographed act of political messaging designed to show that the Islamic Republic could absorb the death of its supreme leader and still project discipline, continuity and reach. The cere…",
       "source": "Fair Observer",
@@ -549,31 +546,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Rulers of the Nuclear Powers Are Slow Learners",
-      "summary": "Although 81 years have passed since the atomic bombing of Japan in August 1945, the rulers of major nations continue their reckless march toward a nuclear holocaust.The nine nuclear powers (the United States, Russia, China, Britain, France, Israel, India, Pak…",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/opinion/nuclear-powers-don-t-learn",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T11:03:01Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -689,28 +661,6 @@
       "variable_key": null,
       "event_type": "infrastructure_attack",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Regime Change Mission Foiled: Yemen’s Ansarallah Uncover Saudi-Mossad-CIA Espionage Network to Decapitate Resistance Leaders",
-      "summary": "Newly leaked documents reveal that while the Yemeni Armed Forces escalated their military campaign and Red Sea Blockade against Israel during the genocide in Gaza, a secret intelligence alliance and a “sophisticated espionage network” were being formed betwee…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/regime-change-mission-foiled-yemens-ansarallah-uncover-saudi-mossad-cia-espionage-network-to-decapitate-resistance-leaders/",
-      "bloc": "western",
-      "date": "2026-08-06",
-      "datetime": "2026-08-06T18:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "airstrike missile drone"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     }

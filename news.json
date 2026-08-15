@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-14T18:59:46.189Z",
+  "ts": "2026-08-15T01:25:27.410Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 89,
-    "oilStress": 34,
-    "updatedAt": "2026-08-14T18:59:46.189Z"
+    "oilStress": 35,
+    "updatedAt": "2026-08-15T01:25:27.410Z"
   },
   "items": [
+    {
+      "headline": "How traffic through the Strait of Hormuz is adapting to war",
+      "summary": "Mines, drones and competing shipping lanes – see how traffic through this vital waterway has changed",
+      "source": "CNN",
+      "url": "https://www.cnn.com/interactive/2026/08/world/strait-of-hormuz-shipping-data-traffic-routes-vis-intl",
+      "bloc": "western",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T00:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US CENTCOM commander Adm. Brad Cooper pushes for renewed attacks on Iran during Israel visit despite US call to close all fronts last week – Israel’s Channel 13",
       "summary": "Renewed military actions against Iran risk escalating tensions, complicating diplomatic efforts and reducing the likelihood of a US-Iran deal.\nThe post US CENTCOM commander Adm. Brad Cooper pushes for renewed attacks on Iran during Israel visit despite US cal…",
@@ -118,27 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran says no progress on US talks to revive June's interim peace deal",
-      "summary": "Iran and the US remain at loggerheads over reviving a June interim peace deal, with Tehran saying there has been no progress on a timeframe to implement it.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/iran-says-no-progress-on-us-talks-to-revive-june-s-interim-peace-deal-126081201703_1.html",
-      "bloc": "western",
-      "date": "2026-08-12",
-      "datetime": "2026-08-12T13:58:05Z",
+      "headline": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
+      "summary": "No injuries were reported in the attack, which the UAE called 'piracy' and a threat to global energy security.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz",
+      "bloc": "regional",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T00:33:48Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Saudi Arabia considers backing Yemen ground offensive to retake Houthi-held Red Sea coast...",
+      "summary": "For three years, Saudi Arabia has sought to contain the Houthis while avoiding a return to full-scale war. What happens next turns on what Riyadh decides.",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-905414",
+      "bloc": "regional",
+      "date": "2026-08-13",
+      "datetime": "2026-08-13T22:00:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -203,58 +255,6 @@
       "bloc": "western",
       "date": "2026-08-12",
       "datetime": "2026-08-12T14:00:35Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "A Dozen Ships Switch Oil Outside Hormuz",
-      "summary": "A key oil supply valve from the Middle East that involves shuttle transits through the Strait of Hormuz is continuing to function.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/a_dozen_ships_switch_oil_outside_hormuz-11-aug-2026-184349-article/",
-      "bloc": "western",
-      "date": "2026-08-11",
-      "datetime": "2026-08-11T20:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Coffee Break: Armed Madhouse – The Iran War, China, and the Future of Sea Power",
-      "summary": "The Iran war exposed a potential weakness in the architecture of American sea power. Precision strike can threaten the forward bases that sustain expeditionary fleets while distributed weapons and sensors can contest maritime access without command of the sea…",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-the-iran-war-china-and-the-future-of-sea-power.html",
-      "bloc": "western",
-      "date": "2026-08-11",
-      "datetime": "2026-08-11T18:00:09Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -476,30 +476,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Beyond the Funeral: What Khamenei’s Final Farewell Reveals About Iran’s Next Chapter",
-      "summary": "The state funeral for Ali Khamenei was never just a funeral. It was a choreographed act of political messaging designed to show that the Islamic Republic could absorb the death of its supreme leader and still project discipline, continuity and reach. The cere…",
-      "source": "Fair Observer",
-      "url": "https://www.fairobserver.com/world-news/middle-east-news/beyond-the-funeral-what-khameneis-final-farewell-reveals-about-irans-next-chapter/",
-      "bloc": "western",
-      "date": "2026-08-07",
-      "datetime": "2026-08-07T13:41:58Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran IRGC regime"
-      ],
-      "dimensions": [
-        "survival",
-        "accountability"
-      ],
-      "variable_key": "iranRegimeCohesion",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "World’s nine nuclear powers spend $119 billion in nuclear weaponry, as treaties expire and threats of annihilation increase",
       "summary": "While the world’s attention fixates on isolated conflicts and political theater, the nine nuclear powers of the world are quietly orchestrating a global catastrophe with a level of spending that mocks our greatest humanitarian needs. The rulers of the United …",
       "source": "Naturalnews.com",
@@ -521,31 +497,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Anniversaries of Hiroshima and Nagasaki Have Special Meaning in a World Out of Control",
-      "summary": "William D. Hartung, Mari Faines\n\n\n\nAs the last US-Russia nuclear arms control treaty expires, the anniversaries of Hiroshima and Nagasaki carry renewed urgency for a world edging toward a new arms race.\r\n\n\r\n\n\nThe post The Anniversaries of Hiroshima and Nagasa…",
-      "source": "Thenation.com",
-      "url": "https://www.thenation.com/?post_type=article&p=606280",
-      "bloc": "western",
-      "date": "2026-08-07",
-      "datetime": "2026-08-07T09:00:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

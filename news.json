@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-15T12:43:41.663Z",
+  "ts": "2026-08-15T18:34:53.113Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 89,
     "oilStress": 35,
-    "updatedAt": "2026-08-15T12:43:41.663Z"
+    "updatedAt": "2026-08-15T18:34:53.113Z"
   },
   "items": [
     {
@@ -118,39 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments",
-      "summary": "Clashes between Iran-backed Houthi rebels and government forces in Yemen raged overnight",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/iran-backed-houthis-clash-yemeni-forces-mideast-developments-135605001",
+      "headline": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
+      "summary": "Brent heads toward a 5% weekly gain as stalled US-Iran talks and Hormuz attacks push oil prices toward $100.",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/hormuz-attacks-push-oil-toward-162121010.html",
       "bloc": "western",
       "date": "2026-08-14",
-      "datetime": "2026-08-14T06:33:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
-      "summary": "No injuries were reported in the attack, which the UAE called 'piracy' and a threat to global energy security.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz",
-      "bloc": "regional",
-      "date": "2026-08-14",
-      "datetime": "2026-08-14T00:33:48Z",
+      "datetime": "2026-08-14T16:21:21Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,65 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Saudi Arabia considers backing Yemen ground offensive to retake Houthi-held Red Sea coast...",
-      "summary": "For three years, Saudi Arabia has sought to contain the Houthis while avoiding a return to full-scale war. What happens next turns on what Riyadh decides.",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-905414",
+      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
+      "summary": "Transit through the Strait of Hormuz has nearly stopped after two ships were attacked. The United States stated it can maintain a naval blockade of Iran indefinitely. Iran has resumed attacks on ships it accuses of violating transit rules. The US plans to inf…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-traffic-slows-further-after-us-threatens-more-economic-pressure-on-iran/articleshow/133244610.cms",
       "bloc": "regional",
-      "date": "2026-08-13",
-      "datetime": "2026-08-13T22:00:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran demands compensation for Hormuz oil spill it allegedly caused",
-      "summary": "Iran is demanding compensation for an oil spill that reached its shores this week that was allegedly caused after it attacked a tanker trying to cross the Strait of Hormuz.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/13/world-news/iran-demands-compensation-for-hormuz-oil-spill-it-allegedly-caused/",
-      "bloc": "western",
-      "date": "2026-08-13",
-      "datetime": "2026-08-13T18:57:04Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Daily Global Oil Deficit Is Even Higher Than Originally Projected, And That Means That The Energy Crisis Is About To Greatly Escalate",
-      "summary": "Since war with Iran erupted in February, the world has been using a lot more oil than it has been producing. The good news is that we had a tremendous amount of extra oil sitting around. As a result, we have been able to avoid shortages and we have been able …",
-      "source": "Theeconomiccollapseblog.com",
-      "url": "http://theeconomiccollapseblog.com/the-daily-global-oil-deficit-is-even-higher-than-originally-projected-and-that-means-that-the-energy-crisis-is-about-to-greatly-escalate/",
-      "bloc": "western",
-      "date": "2026-08-12",
-      "datetime": "2026-08-12T17:39:14Z",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T14:33:18Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -244,6 +166,58 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran War: Mixed Signals on US Resuming Kinetic Action as Iran Moves to Offensive Stance; Flight from Israel Accelerating",
+      "summary": "Today's Iran war news: The Trump team is fracasing over what to do as Iran goes on the front foot while servicemembers are badly overstressed.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-mixed-signals-on-us-resuming-kinetic-action-as-iran-moves-to-offensive-stance-flight-from-israel-accelerating.html",
+      "bloc": "western",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T14:16:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "National Iranian Tanker Company resumes supertanker loadings at Kharg Island after weeks-long gap",
+      "summary": "Iran's sporadic oil exports highlight geopolitical tensions, impacting global energy markets and price stability amid enforcement challenges.\nThe post National Iranian Tanker Company resumes supertanker loadings at Kharg Island after weeks-long gap appeared f…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/nitc-resumes-supertanker-loadings-kharg-island/",
+      "bloc": "western",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T13:41:37Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -528,29 +502,6 @@
       "bloc": "western",
       "date": "2026-08-13",
       "datetime": "2026-08-13T11:52:16Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine's drones hit a major Russian refinery 800 miles from the border, sparking a fire",
-      "summary": "Ukrainian drones struck a major Russian oil refinery and a naval base. Russia retaliated with missile and drone attacks across Ukraine.  These strikes have impacted Russia's refining capacity and caused civilian casualties. Ukraine seeks more Patriot missiles…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/ukraines-drones-hit-a-major-russian-refinery-800-miles-from-the-border-sparking-a-fire/articleshow/133210656.cms",
-      "bloc": "regional",
-      "date": "2026-08-13",
-      "datetime": "2026-08-13T11:51:22Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

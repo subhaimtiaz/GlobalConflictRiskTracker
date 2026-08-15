@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-15T06:43:54.677Z",
+  "ts": "2026-08-15T12:43:41.663Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 89,
     "oilStress": 35,
-    "updatedAt": "2026-08-15T06:43:54.677Z"
+    "updatedAt": "2026-08-15T12:43:41.663Z"
   },
   "items": [
+    {
+      "headline": "US Warns Iran It Will Step Up Economic Pressure; Two More Ships Attacked in Hormuz",
+      "summary": "Transit through the Strait of Hormuz appeared to grind to a near standstill on Friday after two more ships were attacked there and the United States said it could maintain a naval blockade of Iran indefinitely.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/us-warns-iran-it-will-step-up-economic-pressure-two-more-ships-attacked-in-hormuz/",
+      "bloc": "western",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T12:24:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "RSF drone attacks, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
+      "summary": "RSF drone attacks, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet\n\nsofia\n\nFri, 08/14/2026 - 09:26",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/cheat-sheet/2026/08/14/rsf-drone-attacks-somalias-drought-emergency-and-wfp-sticks-palantir-cheat",
+      "bloc": "western",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T08:26:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Cheap Drones, Dry Taps: The Iran War Opens a New Era of Water Infrastructure Risk",
+      "summary": "Water and energy infrastructure have become one of Iran’s main levers of deterrence against the United States. Iranian Foreign Minister Aragchi recently made it clear to Gulf states that if the U.S. military renewed large-scale strikes on Iran, their critical…",
+      "source": "War on the Rocks",
+      "url": "https://warontherocks.com/cheap-drones-dry-taps-the-iran-war-opens-a-new-era-of-water-infrastructure-risk/",
+      "bloc": "western",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T07:30:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "How traffic through the Strait of Hormuz is adapting to war",
       "summary": "Mines, drones and competing shipping lanes – see how traffic through this vital waterway has changed",
@@ -21,110 +99,6 @@
       "bloc": "western",
       "date": "2026-08-14",
       "datetime": "2026-08-14T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US CENTCOM commander Adm. Brad Cooper pushes for renewed attacks on Iran during Israel visit despite US call to close all fronts last week – Israel’s Channel 13",
-      "summary": "Renewed military actions against Iran risk escalating tensions, complicating diplomatic efforts and reducing the likelihood of a US-Iran deal.\nThe post US CENTCOM commander Adm. Brad Cooper pushes for renewed attacks on Iran during Israel visit despite US cal…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-centcom-commander-adm-brad-cooper-pushes-for-renewed-attacks-on-iran-during/",
-      "bloc": "western",
-      "date": "2026-08-13",
-      "datetime": "2026-08-13T18:01:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Yemen at Risk of Entering Wider Middle East Conflict, UN Special Envoy Warns Security Council, as Several Members Condemn Escalating Houthi Attacks",
-      "summary": "The conflict expanding across the Middle East has now arrived on Yemen's shores, the senior United Nations official in the country told the Security Council today, warning that attacks by Houthi militants on critical waterways are imperiling global trade and …",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260813-unsc01.htm",
-      "bloc": "western",
-      "date": "2026-08-13",
-      "datetime": "2026-08-13T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. Shifts to Economic Warfare Against Iran as Military and Diplomatic Efforts Stall",
-      "summary": "President Donald Trump’s limited airstrike campaign and repeated threats have failed to force Iran to the negotiating table, according to officials and analysts, as the administration shifts toward economic warfare. Diplomatic breakthroughs have repeatedly st…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-13-us-shifts-to-economic-warfare-against-iran.html",
-      "bloc": "western",
-      "date": "2026-08-13",
-      "datetime": "2026-08-13T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says no progress on reviving interim peace deal with US",
-      "summary": "Iran and the United States remain divided over ending the Gulf war permanently. Talks to revive an interim deal agreed in June have seen no progress. New attacks on shipping in the region have further dampened hopes for resolution. The Strait of Hormuz, a vit…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-no-progress-on-reviving-interim-peace-deal-with-us/articleshow/133189914.cms",
-      "bloc": "regional",
-      "date": "2026-08-12",
-      "datetime": "2026-08-12T17:47:15Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -501,6 +475,52 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Day 1,633 of WW3: Budanov's lips twitch as Ukrainian submarine commander who defected to russia is killed; Poland foils assassination of Ukrainian-American; and orks Orsk refinery will shut down for six months. This is your Friday Ukraine war thread [News]",
+      "summary": "Day 1,633 of WW3: Budanov's lips twitch as Ukrainian submarine commander who defected to russia is killed; Poland foils assassination of Ukrainian-American; and orks Orsk refinery will shut down for six months. This is your Friday Ukraine war thread",
+      "source": "Fark.com",
+      "url": "https://www.fark.com/comments/14163612/Day-1633-of-WW3-Budanovs-lips-twitch-as-Ukrainian-submarine-commander-who-defected-to-russia-is-killed-Poland-foils-assassination-of-Ukrainian-American-orks-Orsk-refinery-will-shut-down-for-six-months-This-is-your-Friday-Ukraine-war-thread",
+      "bloc": "western",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Drone Strike Sparks Blaze at Key Russian Oil and Fuel Terminal",
+      "summary": "Ust-Luga, the top Russian port for exports of oil and other commodities from the Baltic Sea, caught fire early on Friday following an overnight drone attack from Ukraine. A fire was detected at the port of Ust-Luga as a result of damage from drones, Alexander…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Sparks-Blaze-at-Key-Russian-Oil-and-Fuel-Terminal.html",
+      "bloc": "western",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T11:30:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Ukraine’s drones hit major Russian refinery 800 miles from the border, sparking fire",
       "summary": "Ukrainian drones have struck a major refinery deep inside Russia, marking the fourth attack in three days",
       "source": "Abcnews.com",
@@ -531,29 +551,6 @@
       "bloc": "regional",
       "date": "2026-08-13",
       "datetime": "2026-08-13T11:51:22Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine’s drones hit a major Russian refinery 800 miles from the border, sparking a fire",
-      "summary": "Ukrainian drones struck a major refinery deep inside Russia, military officials said Thursday, the fourth in three days in Kyiv’s monthslong campaign to chok...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/world/articles/ukraine-drones-hit-major-russian-112031067.html",
-      "bloc": "western",
-      "date": "2026-08-13",
-      "datetime": "2026-08-13T11:20:31Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

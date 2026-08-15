@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-15T01:25:27.410Z",
+  "ts": "2026-08-15T06:43:54.677Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 89,
     "oilStress": 35,
-    "updatedAt": "2026-08-15T01:25:27.410Z"
+    "updatedAt": "2026-08-15T06:43:54.677Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments",
+      "summary": "Clashes between Iran-backed Houthi rebels and government forces in Yemen raged overnight",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/iran-backed-houthis-clash-yemeni-forces-mideast-developments-135605001",
+      "bloc": "western",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T06:33:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
       "summary": "No injuries were reported in the attack, which the UAE called 'piracy' and a threat to global energy security.",
       "source": "Al Jazeera English",
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "IEA slashes 2026 supply forecast as Hormuz reopening remains elusive",
-      "summary": "IEA said oil supply has fallen well below demand due to the Strait of Hormuz shutdown, the US blockade of Iranian exports, attacks within the Bab el-Mandeb Strait, and reduced Kazakh CPC Blend exports",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/iea-slashes-2026-supply-forecast-as-hormuz-reopening-remains-elusive-126081201584_1.html",
-      "bloc": "western",
-      "date": "2026-08-12",
-      "datetime": "2026-08-12T14:00:35Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

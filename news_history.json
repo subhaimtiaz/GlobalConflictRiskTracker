@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-15T01:24:22.152Z",
+  "updated": "2026-08-15T06:42:49.504Z",
   "retention_days": 30,
   "items": [
     {
@@ -14195,7 +14195,35 @@
       "_from": "newsapi",
       "first_seen": "2026-08-15T01:24:22.152Z",
       "run_id": "2026-08-15T01:24"
+    },
+    {
+      "headline": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments",
+      "summary": "Clashes between Iran-backed Houthi rebels and government forces in Yemen raged overnight",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/iran-backed-houthis-clash-yemeni-forces-mideast-developments-135605001",
+      "bloc": "western",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T06:33:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-15T06:42:49.503Z",
+      "run_id": "2026-08-15T06:42"
     }
   ],
-  "total_items_ever": 3049
+  "total_items_ever": 3050
 }

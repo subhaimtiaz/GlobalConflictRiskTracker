@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-16T12:46:09.714Z",
+  "ts": "2026-08-16T18:34:26.891Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 89,
     "oilStress": 35,
-    "updatedAt": "2026-08-16T12:46:09.714Z"
+    "updatedAt": "2026-08-16T18:34:26.891Z"
   },
   "items": [
+    {
+      "headline": "The Middle East Under Transactional Diplomacy",
+      "summary": "US President Donald Trump’s second-term approach to the Middle East rests on the assumption that personal relationships and sequenced bilateral deals can impose order on a region shaped by revolutionary ideologies, sectarian divisions and entrenched proxy net…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/world-news/middle-east-news/the-middle-east-under-transactional-diplomacy/",
+      "bloc": "western",
+      "date": "2026-08-15",
+      "datetime": "2026-08-15T17:49:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Tells Americans To Accept High Gas Prices As Iran Remains Defiant On Strait Of Hormuz",
+      "summary": "“The Strait of Hormuz cannot be seized by a tweet or an aircraft carrier, by issuing an order or by delivering an election speech,” said Iran’s Deputy Foreign Minister Kazem Gharibabadi.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-tells-americans-to-accept-high-gas-prices-as-iran-remains-defiant-on-strait-of-hormuz_n_6a8099aee4b05886dff51fac",
+      "bloc": "western",
+      "date": "2026-08-15",
+      "datetime": "2026-08-15T17:04:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran, Oman edge closer to Hormuz shipping routes deal as war continues",
+      "summary": "The move follows a series of attacks in Hormuz, through which a fifth of the world's oil and gas transited before the war",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/iran-oman-edge-closer-to-hormuz-shipping-routes-deal-as-war-continues-126081501311_1.html",
+      "bloc": "western",
+      "date": "2026-08-15",
+      "datetime": "2026-08-15T14:03:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump recognized Resistance Front in MoU signed with Iran: Ghalibaf",
       "summary": "Parliament Speaker Mohammad-Bagher Ghalibaf says US President Donald Trump had given the US recognition to the Axis of Resistance by signing the Islamabad Memorandum of Understanding (MoU) that included an end to war on all fronts, including Lebanon.",
@@ -62,58 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-      "summary": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory",
-      "bloc": "regional",
-      "date": "2026-08-14",
-      "datetime": "2026-08-14T21:50:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Warns Iran It Will Step Up Economic Pressure; Two More Ships Attacked in Hormuz",
-      "summary": "Transit through the Strait of Hormuz appeared to grind to a near standstill on Friday after two more ships were attacked there and the United States said it could maintain a naval blockade of Iran indefinitely.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/us-warns-iran-it-will-step-up-economic-pressure-two-more-ships-attacked-in-hormuz/",
-      "bloc": "western",
-      "date": "2026-08-14",
-      "datetime": "2026-08-14T12:24:05Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-08-15",
       "datetime": "2026-08-15T08:43:47Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran calls on US to accept defeat over Strait of Hormuz",
-      "summary": "Iran called on the US to accept defeat while President Donald Trump blasted Tehran as \"very evil\" and told Americans to brace for continued high fuel prices as a result of the war.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/2026/0815/1587983-iran-us-war/",
-      "bloc": "western",
-      "date": "2026-08-15",
-      "datetime": "2026-08-15T07:46:40Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

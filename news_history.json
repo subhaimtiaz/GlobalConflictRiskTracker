@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-16T12:45:04.505Z",
+  "updated": "2026-08-16T18:33:21.550Z",
   "retention_days": 30,
   "items": [
     {
@@ -14049,7 +14049,91 @@
       "_from": "newsapi",
       "first_seen": "2026-08-16T12:45:04.505Z",
       "run_id": "2026-08-16T12:45"
+    },
+    {
+      "headline": "The Middle East Under Transactional Diplomacy",
+      "summary": "US President Donald Trump’s second-term approach to the Middle East rests on the assumption that personal relationships and sequenced bilateral deals can impose order on a region shaped by revolutionary ideologies, sectarian divisions and entrenched proxy net…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/world-news/middle-east-news/the-middle-east-under-transactional-diplomacy/",
+      "bloc": "western",
+      "date": "2026-08-15",
+      "datetime": "2026-08-15T17:49:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-16T18:33:21.550Z",
+      "run_id": "2026-08-16T18:33"
+    },
+    {
+      "headline": "Trump Tells Americans To Accept High Gas Prices As Iran Remains Defiant On Strait Of Hormuz",
+      "summary": "“The Strait of Hormuz cannot be seized by a tweet or an aircraft carrier, by issuing an order or by delivering an election speech,” said Iran’s Deputy Foreign Minister Kazem Gharibabadi.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-tells-americans-to-accept-high-gas-prices-as-iran-remains-defiant-on-strait-of-hormuz_n_6a8099aee4b05886dff51fac",
+      "bloc": "western",
+      "date": "2026-08-15",
+      "datetime": "2026-08-15T17:04:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-16T18:33:21.550Z",
+      "run_id": "2026-08-16T18:33"
+    },
+    {
+      "headline": "Iran, Oman edge closer to Hormuz shipping routes deal as war continues",
+      "summary": "The move follows a series of attacks in Hormuz, through which a fifth of the world's oil and gas transited before the war",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/iran-oman-edge-closer-to-hormuz-shipping-routes-deal-as-war-continues-126081501311_1.html",
+      "bloc": "western",
+      "date": "2026-08-15",
+      "datetime": "2026-08-15T14:03:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-16T18:33:21.550Z",
+      "run_id": "2026-08-16T18:33"
     }
   ],
-  "total_items_ever": 3071
+  "total_items_ever": 3074
 }

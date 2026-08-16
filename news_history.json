@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-16T01:35:14.494Z",
+  "updated": "2026-08-16T06:44:31.201Z",
   "retention_days": 30,
   "items": [
     {
@@ -13797,7 +13797,63 @@
       "_from": "newsapi",
       "first_seen": "2026-08-16T01:35:14.494Z",
       "run_id": "2026-08-16T01:35"
+    },
+    {
+      "headline": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
+      "summary": "Iran has rejected US claims of control over the Strait of Hormuz and demanded Washington accept its conditions before shipping resumes. The conflict continues to disrupt oil traffic, push up US fuel prices and raise concerns about wider regional escalation.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-defiant-on-strait-as-trump-tells-americans-to-accept-high-gas-prices/articleshow/133256504.cms",
+      "bloc": "regional",
+      "date": "2026-08-15",
+      "datetime": "2026-08-15T05:20:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-16T06:44:31.201Z",
+      "run_id": "2026-08-16T06:44"
+    },
+    {
+      "headline": "Oil inches toward $90 on tanker attacks, lack of progress in Iran war peace deal",
+      "summary": "Crude oil futures experienced an upward trend on Friday due to disruptions from tanker attacks and the stagnation of peace talks. Brent crude closed at $88.52 a barrel while WTI crude settled at $82.40. Attacks within the Strait of Hormuz and disruptions at a…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-inches-toward-90-on-tanker-attacks-lack-of-progress-in-iran-war-peace-deal/articleshow/133256494.cms",
+      "bloc": "regional",
+      "date": "2026-08-15",
+      "datetime": "2026-08-15T05:17:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-16T06:44:31.201Z",
+      "run_id": "2026-08-16T06:44"
     }
   ],
-  "total_items_ever": 3062
+  "total_items_ever": 3064
 }

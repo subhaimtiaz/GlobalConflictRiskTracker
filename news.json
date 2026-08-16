@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-16T01:36:19.739Z",
+  "ts": "2026-08-16T06:45:36.379Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 89,
     "oilStress": 35,
-    "updatedAt": "2026-08-16T01:36:19.739Z"
+    "updatedAt": "2026-08-16T06:45:36.379Z"
   },
   "items": [
     {
@@ -118,6 +118,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
+      "summary": "Iran has rejected US claims of control over the Strait of Hormuz and demanded Washington accept its conditions before shipping resumes. The conflict continues to disrupt oil traffic, push up US fuel prices and raise concerns about wider regional escalation.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-defiant-on-strait-as-trump-tells-americans-to-accept-high-gas-prices/articleshow/133256504.cms",
+      "bloc": "regional",
+      "date": "2026-08-15",
+      "datetime": "2026-08-15T05:20:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil inches toward $90 on tanker attacks, lack of progress in Iran war peace deal",
+      "summary": "Crude oil futures experienced an upward trend on Friday due to disruptions from tanker attacks and the stagnation of peace talks. Brent crude closed at $88.52 a barrel while WTI crude settled at $82.40. Attacks within the Strait of Hormuz and disruptions at a…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-inches-toward-90-on-tanker-attacks-lack-of-progress-in-iran-war-peace-deal/articleshow/133256494.cms",
+      "bloc": "regional",
+      "date": "2026-08-15",
+      "datetime": "2026-08-15T05:17:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Somali Piracy Surges Amid Hormuz Blockade",
       "summary": "The effective closure of the Strait of Hormuz has forced hundreds of commercial ships onto longer routes around Africa, and Somali pirates are moving quickly to exploit the sudden increase in traffic off the continent’s eastern coast. Oil tankers MT Honour 25…",
       "source": "OilPrice.com",
@@ -177,32 +229,6 @@
       "bloc": "western",
       "date": "2026-08-14",
       "datetime": "2026-08-14T16:21:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
-      "summary": "Transit through the Strait of Hormuz has nearly stopped after two ships were attacked. The United States stated it can maintain a naval blockade of Iran indefinitely. Iran has resumed attacks on ships it accuses of violating transit rules. The US plans to inf…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-traffic-slows-further-after-us-threatens-more-economic-pressure-on-iran/articleshow/133244610.cms",
-      "bloc": "regional",
-      "date": "2026-08-14",
-      "datetime": "2026-08-14T14:33:18Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

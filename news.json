@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-15T18:34:53.113Z",
+  "ts": "2026-08-16T01:36:19.739Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 89,
     "oilStress": 35,
-    "updatedAt": "2026-08-15T18:34:53.113Z"
+    "updatedAt": "2026-08-16T01:36:19.739Z"
   },
   "items": [
+    {
+      "headline": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
+      "summary": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory",
+      "bloc": "regional",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T21:50:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US Warns Iran It Will Step Up Economic Pressure; Two More Ships Attacked in Hormuz",
       "summary": "Transit through the Strait of Hormuz appeared to grind to a near standstill on Friday after two more ships were attacked there and the United States said it could maintain a naval blockade of Iran indefinitely.",
@@ -92,28 +118,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "How traffic through the Strait of Hormuz is adapting to war",
-      "summary": "Mines, drones and competing shipping lanes – see how traffic through this vital waterway has changed",
-      "source": "CNN",
-      "url": "https://www.cnn.com/interactive/2026/08/world/strait-of-hormuz-shipping-data-traffic-routes-vis-intl",
+      "headline": "Somali Piracy Surges Amid Hormuz Blockade",
+      "summary": "The effective closure of the Strait of Hormuz has forced hundreds of commercial ships onto longer routes around Africa, and Somali pirates are moving quickly to exploit the sudden increase in traffic off the continent’s eastern coast. Oil tankers MT Honour 25…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Somali-Piracy-Surges-Amid-Hormuz-Blockade.html",
       "bloc": "western",
-      "date": "2026-08-14",
-      "datetime": "2026-08-14T00:00:00Z",
+      "date": "2026-08-15",
+      "datetime": "2026-08-15T00:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil climbs over $1 on tanker attacks, no progrees on peace",
+      "summary": "HOUSTON, Aug 14 (Reuters) - Crude oil futures climbed over $1 a berrel on Friday on tanker attacks and a lack of progress on a peace agreement between the Tr...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/oil-set-weekly-gains-us-110155136.html",
+      "bloc": "western",
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T19:21:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -166,58 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Mixed Signals on US Resuming Kinetic Action as Iran Moves to Offensive Stance; Flight from Israel Accelerating",
-      "summary": "Today's Iran war news: The Trump team is fracasing over what to do as Iran goes on the front foot while servicemembers are badly overstressed.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-mixed-signals-on-us-resuming-kinetic-action-as-iran-moves-to-offensive-stance-flight-from-israel-accelerating.html",
-      "bloc": "western",
-      "date": "2026-08-14",
-      "datetime": "2026-08-14T14:16:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "National Iranian Tanker Company resumes supertanker loadings at Kharg Island after weeks-long gap",
-      "summary": "Iran's sporadic oil exports highlight geopolitical tensions, impacting global energy markets and price stability amid enforcement challenges.\nThe post National Iranian Tanker Company resumes supertanker loadings at Kharg Island after weeks-long gap appeared f…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/nitc-resumes-supertanker-loadings-kharg-island/",
-      "bloc": "western",
-      "date": "2026-08-14",
-      "datetime": "2026-08-14T13:41:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -424,27 +424,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "World’s nine nuclear powers spend $119 billion in nuclear weaponry, as treaties expire and threats of annihilation increase",
-      "summary": "While the world’s attention fixates on isolated conflicts and political theater, the nine nuclear powers of the world are quietly orchestrating a global catastrophe with a level of spending that mocks our greatest humanitarian needs. The rulers of the United …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-08-nuclear-powers-spend-119b-in-nuclear-weaponry.html",
+      "headline": "Iran War: Mixed Signals on US Resuming Kinetic Action as Iran Moves to Offensive Stance; Flight from Israel Accelerating",
+      "summary": "Today's Iran war news: The Trump team is fracasing over what to do as Iran goes on the front foot while servicemembers are badly overstressed.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-mixed-signals-on-us-resuming-kinetic-action-as-iran-moves-to-offensive-stance-flight-from-israel-accelerating.html",
       "bloc": "western",
-      "date": "2026-08-08",
-      "datetime": "2026-08-08T06:00:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
+      "date": "2026-08-14",
+      "datetime": "2026-08-14T14:16:25Z",
+      "leaders": [],
       "watch_terms": [
-        "arms control New"
+        "oil refinery port"
       ],
       "dimensions": [
-        "accountability",
-        "values"
+        "survival",
+        "impulsivity",
+        "accountability"
       ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

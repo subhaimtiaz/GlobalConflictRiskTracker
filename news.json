@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-17T12:51:16.386Z",
+  "ts": "2026-08-17T18:44:38.290Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 89,
-    "oilStress": 35,
-    "updatedAt": "2026-08-17T12:51:16.386Z"
+    "oilPrice": 91,
+    "oilStress": 38,
+    "updatedAt": "2026-08-17T18:44:38.290Z"
   },
   "items": [
+    {
+      "headline": "Israel strikes Lebanon again, 11 dead; Iran still defiant on Hormuz control",
+      "summary": "Trump said a US blockade of Iranian ports was a \"wall of steel\" that enabled Washington to effectively govern Hormuz",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/israel-strikes-lebanon-again-11-dead-iran-still-defiant-on-hormuz-control-126081700004_1.html",
+      "bloc": "western",
+      "date": "2026-08-16",
+      "datetime": "2026-08-16T18:40:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Top US Commander Visits Long-Deployed USS Lincoln Amid Reports Of Poor Conditions",
+      "summary": "CENTCOM’s Adm. Brad Cooper visited the carrier in the Arabian Sea as Trump downplays reports of mental health and supply issues.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/ap-ml-mideast_n_6a81d2c9e4b05886dff52d55",
+      "bloc": "western",
+      "date": "2026-08-16",
+      "datetime": "2026-08-16T15:42:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Hormuz Ship Attacks Mount As US Vows To Cripple Iran Economy",
       "summary": "By Arsalan Shahla, Catherine Lucey and Sara Gharaibeh Aug 15, 2026 (Bloomberg) –More ships have come under attack in the Strait of Hormuz as talks to end the war in the...",
@@ -73,58 +125,6 @@
       "bloc": "western",
       "date": "2026-08-15",
       "datetime": "2026-08-15T17:04:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran, Oman edge closer to Hormuz shipping routes deal as war continues",
-      "summary": "The move follows a series of attacks in Hormuz, through which a fifth of the world's oil and gas transited before the war",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/iran-oman-edge-closer-to-hormuz-shipping-routes-deal-as-war-continues-126081501311_1.html",
-      "bloc": "western",
-      "date": "2026-08-15",
-      "datetime": "2026-08-15T14:03:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump recognized Resistance Front in MoU signed with Iran: Ghalibaf",
-      "summary": "Parliament Speaker Mohammad-Bagher Ghalibaf says US President Donald Trump had given the US recognition to the Axis of Resistance by signing the Islamabad Memorandum of Understanding (MoU) that included an end to war on all fronts, including Lebanon.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260815-irna03.htm",
-      "bloc": "western",
-      "date": "2026-08-15",
-      "datetime": "2026-08-15T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

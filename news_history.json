@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-17T12:50:10.804Z",
+  "updated": "2026-08-17T18:43:33.032Z",
   "retention_days": 30,
   "items": [
     {
@@ -13438,7 +13438,63 @@
       "_from": "newsapi",
       "first_seen": "2026-08-17T01:26:38.524Z",
       "run_id": "2026-08-17T01:26"
+    },
+    {
+      "headline": "Israel strikes Lebanon again, 11 dead; Iran still defiant on Hormuz control",
+      "summary": "Trump said a US blockade of Iranian ports was a \"wall of steel\" that enabled Washington to effectively govern Hormuz",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/israel-strikes-lebanon-again-11-dead-iran-still-defiant-on-hormuz-control-126081700004_1.html",
+      "bloc": "western",
+      "date": "2026-08-16",
+      "datetime": "2026-08-16T18:40:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-17T18:43:33.032Z",
+      "run_id": "2026-08-17T18:43"
+    },
+    {
+      "headline": "Top US Commander Visits Long-Deployed USS Lincoln Amid Reports Of Poor Conditions",
+      "summary": "CENTCOM’s Adm. Brad Cooper visited the carrier in the Arabian Sea as Trump downplays reports of mental health and supply issues.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/ap-ml-mideast_n_6a81d2c9e4b05886dff52d55",
+      "bloc": "western",
+      "date": "2026-08-16",
+      "datetime": "2026-08-16T15:42:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-17T18:43:33.032Z",
+      "run_id": "2026-08-17T18:43"
     }
   ],
-  "total_items_ever": 3076
+  "total_items_ever": 3078
 }

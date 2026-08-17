@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-16T18:34:26.891Z",
+  "ts": "2026-08-17T01:27:43.751Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 89,
-    "oilStress": 35,
-    "updatedAt": "2026-08-16T18:34:26.891Z"
+    "oilStress": 34,
+    "updatedAt": "2026-08-17T01:27:43.751Z"
   },
   "items": [
+    {
+      "headline": "Hormuz Ship Attacks Mount As US Vows To Cripple Iran Economy",
+      "summary": "By Arsalan Shahla, Catherine Lucey and Sara Gharaibeh Aug 15, 2026 (Bloomberg) –More ships have come under attack in the Strait of Hormuz as talks to end the war in the...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/hormuz-ship-attacks-mount-as-us-vows-to-cripple-iran-economy/",
+      "bloc": "western",
+      "date": "2026-08-15",
+      "datetime": "2026-08-15T21:38:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Middle East Under Transactional Diplomacy",
       "summary": "US President Donald Trump’s second-term approach to the Middle East rests on the assumption that personal relationships and sequenced bilateral deals can impose order on a region shaped by revolutionary ideologies, sectarian divisions and entrenched proxy net…",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
-      "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
+      "headline": "Saudi Arabia launches maritime coalition amid escalation in Yemen",
+      "summary": "Saudi Arabia has announced the formal launch of a maritime defense coalition aimed at protecting navigation in the Red Sea and Gulf of Aden Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/644292-saudi-arabia-launches-maritime-coalition/",
       "bloc": "western",
       "date": "2026-08-15",
-      "datetime": "2026-08-15T11:00:36Z",
+      "datetime": "2026-08-15T21:52:59Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-08-15",
       "datetime": "2026-08-15T10:47:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran defiant on Strait of Hormuz as Trump tells Americans to accept high fuel prices",
-      "summary": "Iran has not decided to resume peace talks, foreign minister  says",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/08/15/iran-defiant-on-strait-of-hormuz-as-trump-tells-americans-to-accept-high-fuel-prices/",
-      "bloc": "western",
-      "date": "2026-08-15",
-      "datetime": "2026-08-15T08:43:47Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

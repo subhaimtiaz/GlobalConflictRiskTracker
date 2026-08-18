@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-18T01:24:20.358Z",
+  "ts": "2026-08-18T06:50:20.308Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 91,
-    "oilStress": 38,
-    "updatedAt": "2026-08-18T01:24:20.358Z"
+    "oilPrice": 92,
+    "oilStress": 39,
+    "updatedAt": "2026-08-18T06:50:20.308Z"
   },
   "items": [
+    {
+      "headline": "Iran prepares to expand military efforts amid 2026 conflict: WSJ",
+      "summary": "Iran's military expansion amid ongoing conflict reduces chances for diplomatic resolution, impacting regional stability and market expectations.\nThe post Iran prepares to expand military efforts amid 2026 conflict: WSJ appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-prepares-to-expand-military-efforts-amid-2026-conflict-wsj/",
+      "bloc": "western",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T02:58:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Israel strikes Lebanon again, 11 dead; Iran still defiant on Hormuz control",
       "summary": "Trump said a US blockade of Iranian ports was a \"wall of steel\" that enabled Washington to effectively govern Hormuz",
@@ -92,54 +118,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Middle East Under Transactional Diplomacy",
-      "summary": "US President Donald Trump’s second-term approach to the Middle East rests on the assumption that personal relationships and sequenced bilateral deals can impose order on a region shaped by revolutionary ideologies, sectarian divisions and entrenched proxy net…",
-      "source": "Fair Observer",
-      "url": "https://www.fairobserver.com/world-news/middle-east-news/the-middle-east-under-transactional-diplomacy/",
+      "headline": "Strait of Hormuz traffic drops to near standstill following tanker attacks",
+      "summary": "Ship tracking data shows transit through the Strait of Hormuz nearly stopped over the weekend following attacks on UAE vessels and stalled US-Iran talks.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431799",
       "bloc": "western",
-      "date": "2026-08-15",
-      "datetime": "2026-08-15T17:49:38Z",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T01:23:27Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Tells Americans To Accept High Gas Prices As Iran Remains Defiant On Strait Of Hormuz",
-      "summary": "“The Strait of Hormuz cannot be seized by a tweet or an aircraft carrier, by issuing an order or by delivering an election speech,” said Iran’s Deputy Foreign Minister Kazem Gharibabadi.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-tells-americans-to-accept-high-gas-prices-as-iran-remains-defiant-on-strait-of-hormuz_n_6a8099aee4b05886dff51fac",
-      "bloc": "western",
-      "date": "2026-08-15",
-      "datetime": "2026-08-15T17:04:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -196,13 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran attacked state oil company vessel in Hormuz strait, says UAE",
-      "summary": "Tehran has imposed an effective blockade of the strait, a vital shipping route for global energy supplies, carrying out strikes on commercial ships since the war began in February.\nThe post Iran attacked state oil company vessel in Hormuz strait, says UAE app…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/iran-attacked-state-oil-company-vessel-in-hormuz-strait-says-uae/",
+      "headline": "Trump Tells Americans To Accept High Gas Prices As Iran Remains Defiant On Strait Of Hormuz",
+      "summary": "“The Strait of Hormuz cannot be seized by a tweet or an aircraft carrier, by issuing an order or by delivering an election speech,” said Iran’s Deputy Foreign Minister Kazem Gharibabadi.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-tells-americans-to-accept-high-gas-prices-as-iran-remains-defiant-on-strait-of-hormuz_n_6a8099aee4b05886dff51fac",
       "bloc": "western",
       "date": "2026-08-15",
-      "datetime": "2026-08-15T11:37:37Z",
+      "datetime": "2026-08-15T17:04:42Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -217,33 +217,57 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "UAE oil giant says vessel attacked in Hormuz strait",
-      "summary": "UAE’s state-owned oil giant ADNOC confirms one of its vessels was attacked in the Hormuz Strait, amid escalating US-Iran conflict and threats to global ene\n\nRead More: https://punchng.com/uae-oil-giant-says-vessel-attacked-in-hormuz-strait/",
-      "source": "The Punch",
-      "url": "https://punchng.com/uae-oil-giant-says-vessel-attacked-in-hormuz-strait/",
+      "headline": "Trump orders cuts to joint US military drills with South Korea",
+      "summary": "US president says move is based on his ‘very good relationship with Kim Jong-un’ but military officials warn North Korea’s combat capabilities are growing",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/08/17/trump-orders-cuts-to-joint-us-military-drills-with-south-korea/",
       "bloc": "western",
-      "date": "2026-08-15",
-      "datetime": "2026-08-15T11:07:45Z",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T06:46:36Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Kim Jong-un"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Kim Jong-un North"
       ],
       "dimensions": [
-        "survival",
-        "impulsivity"
+        "impulsivity",
+        "narcissism",
+        "survival"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump gushes about Kim Jong Un as he orders scaled-back US military exercises with South Korea... after country's two-word snub over Iran war",
+      "summary": "President Donald Trump ordered the Pentagon to scale back its planned joint military exercises with South Korea.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16057247/Trump-North-Soouth-Korea-military-exercises.html",
+      "bloc": "western",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T03:51:25Z",
+      "leaders": [
+        "Kim Jong-un"
+      ],
+      "watch_terms": [
+        "Kim Jong-un North"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "narcissism",
+        "survival"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-18T06:50:20.308Z",
+  "ts": "2026-08-18T12:53:35.365Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 92,
-    "oilStress": 39,
-    "updatedAt": "2026-08-18T06:50:20.308Z"
+    "oilPrice": 91,
+    "oilStress": 38,
+    "updatedAt": "2026-08-18T12:53:35.365Z"
   },
   "items": [
+    {
+      "headline": "The Best Available Self-Defense: Article 51 and the 2026 Iran War",
+      "summary": "[Davit Khachatryan is a lecturer at American University of Armenia and Russian-Armenian University] There is something almost ritualistic about restating the law of self-defense. Article 51 has been parsed, contested, stretched, and invoked in nearly every ma…",
+      "source": "Opiniojuris.org",
+      "url": "http://opiniojuris.org/2026/08/17/the-best-available-self-defense-article-51-and-the-2026-iran-war/",
+      "bloc": "western",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T10:00:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "'Closely consulting': South Korea, US coordinate on Iran ceasefire as Trump seeks to cut joint drills",
+      "summary": "Rest of World News: South Korea on Monday said it was closely consulting with the United States on practical and military contributions to international efforts to secure.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/closely-consulting-south-korea-us-coordinate-on-iran-ceasefire-as-trump-seeks-to-cut-joint-drills/articleshow/133292107.cms",
+      "bloc": "regional",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T09:14:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran prepares to expand military efforts amid 2026 conflict: WSJ",
       "summary": "Iran's military expansion amid ongoing conflict reduces chances for diplomatic resolution, impacting regional stability and market expectations.\nThe post Iran prepares to expand military efforts amid 2026 conflict: WSJ appeared first on Crypto Briefing.",
@@ -66,54 +118,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Top US Commander Visits Long-Deployed USS Lincoln Amid Reports Of Poor Conditions",
-      "summary": "CENTCOM’s Adm. Brad Cooper visited the carrier in the Arabian Sea as Trump downplays reports of mental health and supply issues.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/ap-ml-mideast_n_6a81d2c9e4b05886dff52d55",
+      "headline": "Hormuz Traffic Grinds To Near Halt Again As Talks Stall",
+      "summary": "Data showed that shipping through the Strait of Hormuz slowed over the weekend as attacks continued in the important waterway and as talks stalled between Washington and Tehran on ways to end the crisis.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260817-rferl01.htm",
       "bloc": "western",
-      "date": "2026-08-16",
-      "datetime": "2026-08-16T15:42:07Z",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T08:52:18Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz Ship Attacks Mount As US Vows To Cripple Iran Economy",
-      "summary": "By Arsalan Shahla, Catherine Lucey and Sara Gharaibeh Aug 15, 2026 (Bloomberg) –More ships have come under attack in the Strait of Hormuz as talks to end the war in the...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/hormuz-ship-attacks-mount-as-us-vows-to-cripple-iran-economy/",
-      "bloc": "western",
-      "date": "2026-08-15",
-      "datetime": "2026-08-15T21:38:43Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -196,32 +222,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Tells Americans To Accept High Gas Prices As Iran Remains Defiant On Strait Of Hormuz",
-      "summary": "“The Strait of Hormuz cannot be seized by a tweet or an aircraft carrier, by issuing an order or by delivering an election speech,” said Iran’s Deputy Foreign Minister Kazem Gharibabadi.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-tells-americans-to-accept-high-gas-prices-as-iran-remains-defiant-on-strait-of-hormuz_n_6a8099aee4b05886dff51fac",
-      "bloc": "western",
-      "date": "2026-08-15",
-      "datetime": "2026-08-15T17:04:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Trump orders cuts to joint US military drills with South Korea",
       "summary": "US president says move is based on his ‘very good relationship with Kim Jong-un’ but military officials warn North Korea’s combat capabilities are growing",
       "source": "The Irish Times",
@@ -272,6 +272,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran War: As MOU Expires, Iran and US Engage in Threat Display, With Iran Likely to Escalate Into Midterms; Energy and Commodity Supplies Continue to Deteriorate",
+      "summary": "Today's Iran war news: New shoes look set to drop as the MOU expires and the Gulf supply chokehold remains in place.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-as-mou-expires-iran-and-us-engage-in-threat-display-with-iran-likely-to-escalate-into-midterms-energy-and-commodity-supplies-continue-to-deteriorate.html",
+      "bloc": "western",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T10:54:19Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Critical Choices In The Indo-Pacific",
       "summary": "All the security variables—alliances, weapons, nuclear moves—converge on US-China relations.",
       "source": "Thefreedomfrequency.org",
@@ -291,6 +315,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Current price of oil as of August 17, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-17-2026/",
+      "bloc": "western",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T10:00:04Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -381,32 +431,6 @@
       "bloc": "western",
       "date": "2026-08-12",
       "datetime": "2026-08-12T00:09:10Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "BofA commodities expert reveals what must happen before oil prices fall",
-      "summary": "I've been tracking energy market fallout from the Strait of Hormuz, and every expert I've come across keeps circling back to the same uncomfortable truth. Th...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/bac-bank-of-america-blanch-10x-more-ships-must-cross-hormuz-to-normalize-oil-prices",
-      "bloc": "western",
-      "date": "2026-08-11",
-      "datetime": "2026-08-11T18:47:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-18T12:53:35.365Z",
+  "ts": "2026-08-18T18:43:02.168Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 91,
     "oilStress": 38,
-    "updatedAt": "2026-08-18T12:53:35.365Z"
+    "updatedAt": "2026-08-18T18:43:02.168Z"
   },
   "items": [
+    {
+      "headline": "Iran signals readiness for ‘US ground operations’ as MoU expires",
+      "summary": "Iran's more offensive posture follows Trump's comment that the US would soon make the Strait of Hormuz its territory.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires",
+      "bloc": "regional",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T14:15:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Best Available Self-Defense: Article 51 and the 2026 Iran War",
       "summary": "[Davit Khachatryan is a lecturer at American University of Armenia and Russian-Armenian University] There is something almost ritualistic about restating the law of self-defense. Article 51 has been parsed, contested, stretched, and invoked in nearly every ma…",
@@ -92,65 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israel strikes Lebanon again, 11 dead; Iran still defiant on Hormuz control",
-      "summary": "Trump said a US blockade of Iranian ports was a \"wall of steel\" that enabled Washington to effectively govern Hormuz",
+      "headline": "Iran threatens to go on offensive in Hormuz if diplomacy with US fails",
+      "summary": "There was no ​immediate response to those comments from Washington, but US Prez Donald Trump said in a phone interview with Fox News on Monday that Iran \"should put up the white flag of surrender\"",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/israel-strikes-lebanon-again-11-dead-iran-still-defiant-on-hormuz-control-126081700004_1.html",
-      "bloc": "western",
-      "date": "2026-08-16",
-      "datetime": "2026-08-16T18:40:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz Traffic Grinds To Near Halt Again As Talks Stall",
-      "summary": "Data showed that shipping through the Strait of Hormuz slowed over the weekend as attacks continued in the important waterway and as talks stalled between Washington and Tehran on ways to end the crisis.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260817-rferl01.htm",
+      "url": "https://www.business-standard.com/world-news/iran-threatens-to-go-on-offensive-in-hormuz-if-diplomacy-with-us-fails-126081701577_1.html",
       "bloc": "western",
       "date": "2026-08-17",
-      "datetime": "2026-08-17T08:52:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz traffic drops to near standstill following tanker attacks",
-      "summary": "Ship tracking data shows transit through the Strait of Hormuz nearly stopped over the weekend following attacks on UAE vessels and stalled US-Iran talks.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431799",
-      "bloc": "western",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T01:23:27Z",
+      "datetime": "2026-08-17T17:16:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Strait of Hormuz shipping slows sharply after tanker attacks",
-      "summary": "Shipping through the Strait of Hormuz slowed significantly over the weekend. This decline followed attacks on tankers and stalled United States-Iran conflict resolution talks. Commodity vessel transits dropped sharply, with very few ships registered for Sunda…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/strait-of-hormuz-shipping-slows-sharply-after-tanker-attacks/articleshow/133284237.cms",
-      "bloc": "regional",
+      "headline": "Iran Threatens to Go on Offensive in Strait of Hormuz if Diplomacy Fails",
+      "summary": "Iran has decided to shift its policy from defensive to “fully offensive” due to the deadlock in efforts to agree a permanent end to its war with the United States, a senior Iranian official told Reuters on Monday. Progress towards …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/08/17/881884.htm",
+      "bloc": "western",
       "date": "2026-08-17",
-      "datetime": "2026-08-17T00:36:41Z",
+      "datetime": "2026-08-17T16:41:17Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Saudi Arabia launches maritime coalition amid escalation in Yemen",
-      "summary": "Saudi Arabia has announced the formal launch of a maritime defense coalition aimed at protecting navigation in the Red Sea and Gulf of Aden Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/644292-saudi-arabia-launches-maritime-coalition/",
+      "headline": "Iran Threatens to Go On Offensive in Strait of Hormuz if Diplomacy With US Fails",
+      "summary": "Iran has decided to shift its policy from defensive to \"fully offensive\" due to the deadlock in efforts to agree a permanent end to its war with the United States, a senior Iranian official told Reuters on Monday.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-threatens-to-go-on-offensive-in-strait-of-hormuz-if-diplomacy-with-us-fails/",
       "bloc": "western",
-      "date": "2026-08-15",
-      "datetime": "2026-08-15T21:52:59Z",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T16:32:34Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -214,6 +188,57 @@
       "dimensions": [
         "survival",
         "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran threatens to escalate conflict if Hormuz shipping deal not reached",
+      "summary": "A memorandum of understanding signed between Iran and the US set out a 60-day timeframe for a broader deal, which passed on Monday local time.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-18/iran-us-memorandum-hormuz-strait/107048074",
+      "bloc": "western",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T14:34:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Top Russian banker is fired after warning Putin was leading country into 'social crisis' amid 'war of attrition' with Ukraine",
+      "summary": "The Kremlin has fired a top Russian banker for warning Vladimir Putin he was leading the country into 'social crisis' and a failure to gain victory in the Ukrainian conflict.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16058687/Top-Russian-banker-fired-warning-Putin-leading-country-social-crisis-amid-war-attrition-Ukraine.html",
+      "bloc": "western",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T15:07:36Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -450,6 +475,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Russian state economist fired after stark warning about Moscow’s economic future",
+      "summary": "VEB.RF, Russian state development bank, economist Andrei Klepach warned Russia is losing the war of attrition before his firing, as the European Union prepares sweeping sanctions.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/russian-state-economist-fired-after-stark-warning-about-moscows-economic-future",
+      "bloc": "western",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T15:43:35Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran War: Mixed Signals on US Resuming Kinetic Action as Iran Moves to Offensive Stance; Flight from Israel Accelerating",
       "summary": "Today's Iran war news: The Trump team is fracasing over what to do as Iran goes on the front foot while servicemembers are badly overstressed.",
       "source": "Nakedcapitalism.com",
@@ -503,29 +551,6 @@
       "bloc": "western",
       "date": "2026-08-14",
       "datetime": "2026-08-14T11:30:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine’s drones hit major Russian refinery 800 miles from the border, sparking fire",
-      "summary": "Ukrainian drones have struck a major refinery deep inside Russia, marking the fourth attack in three days",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/ukraines-drones-hit-major-russian-refinery-800-miles-135605504",
-      "bloc": "western",
-      "date": "2026-08-13",
-      "datetime": "2026-08-13T11:52:16Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

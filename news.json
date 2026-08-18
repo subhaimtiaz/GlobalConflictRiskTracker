@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-17T18:44:38.290Z",
+  "ts": "2026-08-18T01:24:20.358Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 91,
     "oilStress": 38,
-    "updatedAt": "2026-08-17T18:44:38.290Z"
+    "updatedAt": "2026-08-18T01:24:20.358Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Strait of Hormuz shipping slows sharply after tanker attacks",
+      "summary": "Shipping through the Strait of Hormuz slowed significantly over the weekend. This decline followed attacks on tankers and stalled United States-Iran conflict resolution talks. Commodity vessel transits dropped sharply, with very few ships registered for Sunda…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/strait-of-hormuz-shipping-slows-sharply-after-tanker-attacks/articleshow/133284237.cms",
+      "bloc": "regional",
+      "date": "2026-08-17",
+      "datetime": "2026-08-17T00:36:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Saudi Arabia launches maritime coalition amid escalation in Yemen",
       "summary": "Saudi Arabia has announced the formal launch of a maritime defense coalition aimed at protecting navigation in the Red Sea and Gulf of Aden Read Full Article at RT.com",
       "source": "RT",
@@ -222,32 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran rejects ‘delusions’ after Trump says he wants the Strait of Hormuz to be a U.S. territory",
-      "summary": "Iran called on the U.S. to “accept the reality of defeat” after President Donald Trump said he would declare the Strait of Hormuz a “territory” of the U.S.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/iran/iran-rejects-delusions-trump-strait-hormuz-us-territory-rcna592666",
-      "bloc": "western",
-      "date": "2026-08-15",
-      "datetime": "2026-08-15T10:47:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Critical Choices In The Indo-Pacific",
       "summary": "All the security variables—alliances, weapons, nuclear moves—converge on US-China relations.",
       "source": "Thefreedomfrequency.org",
@@ -255,54 +255,6 @@
       "bloc": "western",
       "date": "2026-08-13",
       "datetime": "2026-08-13T00:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Taiwan soft-pedals Scarborough claim as Manila ties take priority",
-      "summary": "Taiwan is trapped between sea rocks and a hard place: As the Philippines has filed documentation to strengthen its claims in the South China Sea, Taipei must balance asserting its own conflicting claims with building closer ties with Manila, especially as a p…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260810-rfa01.htm",
-      "bloc": "western",
-      "date": "2026-08-10",
-      "datetime": "2026-08-10T12:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "‘Defending Taiwan’ And The Limits Of Military-Only Deterrence",
-      "summary": "Hoover Institution fellow Eyck Freymann concludes in his new book, Defending Taiwan, that the U.S. military forces necessary to provide stability in East Asia have indeed fallen behind China’s. In response, Freymann argues that the United States needs a more …",
-      "source": "Lawfaremedia.org",
-      "url": "https://www.lawfaremedia.org/article/defending-taiwan--and-the-limits-of-military-only-deterrence",
-      "bloc": "western",
-      "date": "2026-08-10",
-      "datetime": "2026-08-10T00:00:00Z",
       "leaders": [
         "Xi Jinping"
       ],

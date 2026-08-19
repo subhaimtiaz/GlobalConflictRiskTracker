@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-19T06:49:51.437Z",
+  "updated": "2026-08-19T12:53:04.976Z",
   "retention_days": 30,
   "items": [
     {
@@ -13707,7 +13707,88 @@
       "_from": "newsapi",
       "first_seen": "2026-08-19T06:49:51.437Z",
       "run_id": "2026-08-19T06:49"
+    },
+    {
+      "headline": "The Short Life of a Newborn During the Iran War",
+      "summary": "“What crime had my 20-day-old grandchild committed?”\nThe post The Short Life of a Newborn During the Iran War appeared first on The Intercept.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2026/08/18/iran-war-civilian-deaths-families-infant/",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T10:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-19T12:53:04.976Z",
+      "run_id": "2026-08-19T12:53"
+    },
+    {
+      "headline": "Saudi Arabia Resumes Oil Loadings, Sales From Inside Strait of Hormuz",
+      "summary": "Saudi Aramco resumed oil loading from inside the Strait of Hormuz last week and has more tankers waiting to load as the state energy giant offers spot heavy crude cargoes, according to shipping data and trade sources.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/saudi-arabia-resumes-oil-loadings-sales-from-inside-strait-of-hormuz/",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T09:24:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-19T12:53:04.976Z",
+      "run_id": "2026-08-19T12:53"
+    },
+    {
+      "headline": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
+      "summary": "The Iran-aligned Houthi group on Tuesday claimed it had targeted Saudi Aramco’s Jazan oil refinery on Red Sea coast in southwest Saudi Arabia, in what was the third Houthi attack at the facility in the past two weeks, amid escalating hostilities in the region…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Third-Attack-on-Saudi-Aramco-Refinery-in-Two-Weeks.html",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T10:30:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-19T12:53:04.976Z",
+      "run_id": "2026-08-19T12:53"
     }
   ],
-  "total_items_ever": 3104
+  "total_items_ever": 3107
 }

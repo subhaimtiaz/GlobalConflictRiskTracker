@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-19T06:50:56.690Z",
+  "ts": "2026-08-19T12:54:10.201Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 91,
-    "oilStress": 39,
-    "updatedAt": "2026-08-19T06:50:56.690Z"
+    "oilStress": 38,
+    "updatedAt": "2026-08-19T12:54:10.201Z"
   },
   "items": [
+    {
+      "headline": "The Short Life of a Newborn During the Iran War",
+      "summary": "“What crime had my 20-day-old grandchild committed?”\nThe post The Short Life of a Newborn During the Iran War appeared first on The Intercept.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2026/08/18/iran-war-civilian-deaths-families-infant/",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T10:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran Stands Firm on Strait of Hormuz as Trump Warns Americans of Higher Gas Prices",
       "summary": "Iran’s Deputy Foreign Minister Kazem Gharibabadi said early Saturday that the Strait of Hormuz “will be opened and closed only under Iran’s command” and that Tehran would keep enforcing its blockade until Washington accepts “the reality of defeat,” according …",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran signals readiness for ‘US ground operations’ as MoU expires",
-      "summary": "Iran's more offensive posture follows Trump's comment that the US would soon make the Strait of Hormuz its territory.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires",
-      "bloc": "regional",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T14:15:17Z",
+      "headline": "Saudi Arabia Resumes Oil Loadings, Sales From Inside Strait of Hormuz",
+      "summary": "Saudi Aramco resumed oil loading from inside the Strait of Hormuz last week and has more tankers waiting to load as the state energy giant offers spot heavy crude cargoes, according to shipping data and trade sources.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/saudi-arabia-resumes-oil-loadings-sales-from-inside-strait-of-hormuz/",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T09:24:25Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -546,6 +572,29 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
+      "summary": "The Iran-aligned Houthi group on Tuesday claimed it had targeted Saudi Aramco’s Jazan oil refinery on Red Sea coast in southwest Saudi Arabia, in what was the third Houthi attack at the facility in the past two weeks, amid escalating hostilities in the region…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Third-Attack-on-Saudi-Aramco-Refinery-in-Two-Weeks.html",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T10:30:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

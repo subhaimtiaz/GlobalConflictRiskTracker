@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-19T12:54:10.201Z",
+  "ts": "2026-08-19T18:40:32.866Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 91,
-    "oilStress": 38,
-    "updatedAt": "2026-08-19T12:54:10.201Z"
+    "oilPrice": 92,
+    "oilStress": 39,
+    "updatedAt": "2026-08-19T18:40:32.866Z"
   },
   "items": [
+    {
+      "headline": "The Trump Administration Promised a Pivot From the Middle East to East Asia. It's Doing the Opposite.",
+      "summary": "The U.S. military is downsizing exercises in South Korea and pulling its last aircraft carrier out of the Pacific.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/08/18/the-trump-administration-promised-a-pivot-from-the-middle-east-to-east-asia-its-doing-the-opposite/",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T18:14:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "New Poll: Voters Oppose Integrating Israeli Military into Pentagon",
+      "summary": "On Tuesday, Demand Progress and IMEU Policy Project released a poll\r\n, first reported in Zeteo\r\n, showing that a clear majority of voters oppose a provision in the National Defense Authorization Act, known as Section 219, that would further integrate the Isra…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/newswire/new-poll-voters-oppose-integrating-israeli-military-into-pentagon",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T14:31:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Short Life of a Newborn During the Iran War",
       "summary": "“What crime had my 20-day-old grandchild committed?”\nThe post The Short Life of a Newborn During the Iran War appeared first on The Intercept.",
@@ -66,91 +118,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "'Peace first, war later': Arab state urged potential Israel partner to sign deal before launching war (Taqiyya)",
-      "summary": "Arab state reportedly urged another potential Israel-normalization country to sign deal with Israel, then go to war ‘when time is right’ i24NEWS. August 10, 2026. Information cleared for publication by the Israeli military has revealed a reported exchange bet…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4392173/posts",
+      "headline": "Saudi Arabia resumes oil loadings, sales from inside Strait of Hormuz",
+      "summary": "The resumption of Saudi exports could help ease the tight supply of heavier grades that produce more residue fuel which can be used to refuel ships or can be processed further at refineries",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/saudi-arabia-resumes-oil-loadings-sales-from-inside-strait-of-hormuz-126081801553_1.html",
       "bloc": "western",
       "date": "2026-08-18",
-      "datetime": "2026-08-18T05:29:54Z",
+      "datetime": "2026-08-18T17:13:28Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Teaching AI to Love Israel One Bot at a Time",
-      "summary": "Freddie Ponton21st Century Wire Over the past year, a paid campaign funded by the government of Israel, executed through the advertising network Havas and the firm Clock Tower X, has sought to shape how AI chatbots, including ChatGPT, Claude and Gemini, answe…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/teaching-ai-to-love-israel-one-bot-at-a-time/",
-      "bloc": "western",
-      "date": "2026-08-18",
-      "datetime": "2026-08-18T01:07:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Offers $30,000 Bounty to Kill US Soldiers",
-      "summary": "Iran announced on Aug. 16 that it will offer a bounty of $30,000 to any individual who “kills or captures a U.S. soldier and hands them over to authorities,” according to Iranian state media. Iranian Army Commander-in-Chief Major General Amir Hatami revealed …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4392130/posts",
-      "bloc": "western",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T20:08:27Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Arabia Resumes Oil Loadings, Sales From Inside Strait of Hormuz",
-      "summary": "Saudi Aramco resumed oil loading from inside the Strait of Hormuz last week and has more tankers waiting to load as the state energy giant offers spot heavy crude cargoes, according to shipping data and trade sources.",
+      "headline": "Trump Says No Talks are Taking Place With Iran and None are Scheduled",
+      "summary": "President Donald Trump said on Tuesday that talks between the U.S. and Iran were neither taking place nor scheduled but the Strait of Hormuz was open, while Iran said the shipping route would remain closed until the U.S. fulfilled the terms of an interim deal",
       "source": "gcaptain.com",
-      "url": "https://gcaptain.com/saudi-arabia-resumes-oil-loadings-sales-from-inside-strait-of-hormuz/",
+      "url": "https://gcaptain.com/trump-says-no-talks-are-taking-place-with-iran-and-none-are-scheduled/",
       "bloc": "western",
       "date": "2026-08-18",
-      "datetime": "2026-08-18T09:24:25Z",
+      "datetime": "2026-08-18T16:16:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,54 +222,26 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
-      "summary": "Iran will adopt an offensive military stance as peace negotiations with the United States have stalled. The memorandum of understanding signed in June has quickly unraveled over control of the Strait of Hormuz. President Trump has ruled out extending the temp…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-threatens-to-go-on-offensive-in-strait-of-hormuz-if-diplomacy-with-us-fails/articleshow/133309029.cms",
-      "bloc": "regional",
-      "date": "2026-08-18",
-      "datetime": "2026-08-18T01:03:19Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran threatens to go on offensive in Hormuz if diplomacy with US fails",
-      "summary": "There was no ​immediate response to those comments from Washington, but US Prez Donald Trump said in a phone interview with Fox News on Monday that Iran \"should put up the white flag of surrender\"",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/iran-threatens-to-go-on-offensive-in-hormuz-if-diplomacy-with-us-fails-126081701577_1.html",
+      "headline": "Empire Envy and Forked Tongues: How Washington Talks Itself Into War — Part 2",
+      "summary": "In my conversation with Claude provoked by an essay in Foreign Affairs analyzing the phenomenon of Washington’s addiction to foreign wars, we got to the point at which Claude pointed to a fundamental structural problem. The deeper diagnosis your Empire Envy f…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/politics/empire-envy-and-forked-tongues-how-washington-talks-itself-into-war-part-2/",
       "bloc": "western",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T17:16:00Z",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T13:19:09Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Trump Iran war"
       ],
       "dimensions": [
-        "survival",
+        "accountability",
         "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

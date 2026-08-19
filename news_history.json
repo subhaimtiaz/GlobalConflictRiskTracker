@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-19T12:53:04.976Z",
+  "updated": "2026-08-19T18:39:27.659Z",
   "retention_days": 30,
   "items": [
     {
@@ -13788,7 +13788,117 @@
       "_from": "newsapi",
       "first_seen": "2026-08-19T12:53:04.976Z",
       "run_id": "2026-08-19T12:53"
+    },
+    {
+      "headline": "The Trump Administration Promised a Pivot From the Middle East to East Asia. It's Doing the Opposite.",
+      "summary": "The U.S. military is downsizing exercises in South Korea and pulling its last aircraft carrier out of the Pacific.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/08/18/the-trump-administration-promised-a-pivot-from-the-middle-east-to-east-asia-its-doing-the-opposite/",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T18:14:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-19T18:39:27.659Z",
+      "run_id": "2026-08-19T18:39"
+    },
+    {
+      "headline": "New Poll: Voters Oppose Integrating Israeli Military into Pentagon",
+      "summary": "On Tuesday, Demand Progress and IMEU Policy Project released a poll\r\n, first reported in Zeteo\r\n, showing that a clear majority of voters oppose a provision in the National Defense Authorization Act, known as Section 219, that would further integrate the Isra…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/newswire/new-poll-voters-oppose-integrating-israeli-military-into-pentagon",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T14:31:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-19T18:39:27.659Z",
+      "run_id": "2026-08-19T18:39"
+    },
+    {
+      "headline": "Trump Says No Talks are Taking Place With Iran and None are Scheduled",
+      "summary": "President Donald Trump said on Tuesday that talks between the U.S. and Iran were neither taking place nor scheduled but the Strait of Hormuz was open, while Iran said the shipping route would remain closed until the U.S. fulfilled the terms of an interim deal",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/trump-says-no-talks-are-taking-place-with-iran-and-none-are-scheduled/",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T16:16:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-19T18:39:27.659Z",
+      "run_id": "2026-08-19T18:39"
+    },
+    {
+      "headline": "Empire Envy and Forked Tongues: How Washington Talks Itself Into War — Part 2",
+      "summary": "In my conversation with Claude provoked by an essay in Foreign Affairs analyzing the phenomenon of Washington’s addiction to foreign wars, we got to the point at which Claude pointed to a fundamental structural problem. The deeper diagnosis your Empire Envy f…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/politics/empire-envy-and-forked-tongues-how-washington-talks-itself-into-war-part-2/",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T13:19:09Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "Trump Iran war"
+      ],
+      "dimensions": [
+        "accountability",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-19T18:39:27.659Z",
+      "run_id": "2026-08-19T18:39"
     }
   ],
-  "total_items_ever": 3107
+  "total_items_ever": 3111
 }

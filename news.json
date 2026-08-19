@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-19T01:26:09.179Z",
+  "ts": "2026-08-19T06:50:56.690Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 92,
+    "oilPrice": 91,
     "oilStress": 39,
-    "updatedAt": "2026-08-19T01:26:09.179Z"
+    "updatedAt": "2026-08-19T06:50:56.690Z"
   },
   "items": [
+    {
+      "headline": "Iran Stands Firm on Strait of Hormuz as Trump Warns Americans of Higher Gas Prices",
+      "summary": "Iran’s Deputy Foreign Minister Kazem Gharibabadi said early Saturday that the Strait of Hormuz “will be opened and closed only under Iran’s command” and that Tehran would keep enforcing its blockade until Washington accepts “the reality of defeat,” according …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-18-iran-firm-hormuz-trump-warns-higher-gas-cost.html",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "'Peace first, war later': Arab state urged potential Israel partner to sign deal before launching war (Taqiyya)",
+      "summary": "Arab state reportedly urged another potential Israel-normalization country to sign deal with Israel, then go to war ‘when time is right’ i24NEWS. August 10, 2026. Information cleared for publication by the Israeli military has revealed a reported exchange bet…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4392173/posts",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T05:29:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Teaching AI to Love Israel One Bot at a Time",
       "summary": "Freddie Ponton21st Century Wire Over the past year, a paid campaign funded by the government of Israel, executed through the advertising network Havas and the firm Clock Tower X, has sought to shape how AI chatbots, including ChatGPT, Claude and Gemini, answe…",
@@ -92,53 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Best Available Self-Defense: Article 51 and the 2026 Iran War",
-      "summary": "[Davit Khachatryan is a lecturer at American University of Armenia and Russian-Armenian University] There is something almost ritualistic about restating the law of self-defense. Article 51 has been parsed, contested, stretched, and invoked in nearly every ma…",
-      "source": "Opiniojuris.org",
-      "url": "http://opiniojuris.org/2026/08/17/the-best-available-self-defense-article-51-and-the-2026-iran-war/",
+      "headline": "Iran threatens new offensive while Trump rules out extending ceasefire deal",
+      "summary": "Trump administration has reportedly opened back-channel discussions with Iran",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/08/18/iran-threatens-new-offensive-while-trump-rules-out-extending-ceasefire-deal/",
       "bloc": "western",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T10:00:11Z",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T06:11:48Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "'Closely consulting': South Korea, US coordinate on Iran ceasefire as Trump seeks to cut joint drills",
-      "summary": "Rest of World News: South Korea on Monday said it was closely consulting with the United States on practical and military contributions to international efforts to secure.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/closely-consulting-south-korea-us-coordinate-on-iran-ceasefire-as-trump-seeks-to-cut-joint-drills/articleshow/133292107.cms",
-      "bloc": "regional",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T09:14:44Z",
+      "headline": "Bessent warns of “never-before-seen” economic isolation for Iran as U.S. blocks ports",
+      "summary": "Treasury chief announces new punitive measures Treasury Secretary Scott Bessent has warned that Washington will impose economic isolation on Iran “the world has never seen before,” according to a report from Middle East Eye published Aug. 14. The same report …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-18-bessent-warns-never-before-seen-economic-isolation-iran.html",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -177,58 +229,6 @@
       "bloc": "western",
       "date": "2026-08-17",
       "datetime": "2026-08-17T17:16:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Threatens to Go On Offensive in Strait of Hormuz if Diplomacy With US Fails",
-      "summary": "Iran has decided to shift its policy from defensive to \"fully offensive\" due to the deadlock in efforts to agree a permanent end to its war with the United States, a senior Iranian official told Reuters on Monday.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/iran-threatens-to-go-on-offensive-in-strait-of-hormuz-if-diplomacy-with-us-fails/",
-      "bloc": "western",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T16:32:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran threatens to escalate conflict if Hormuz shipping deal not reached",
-      "summary": "A memorandum of understanding signed between Iran and the US set out a 60-day timeframe for a broader deal, which passed on Monday local time.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-18/iran-us-memorandum-hormuz-strait/107048074",
-      "bloc": "western",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T14:34:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-20T01:24:08.564Z",
+  "updated": "2026-08-20T06:51:36.256Z",
   "retention_days": 30,
   "items": [
     {
@@ -13197,7 +13197,173 @@
       "_from": "newsapi",
       "first_seen": "2026-08-20T01:24:08.563Z",
       "run_id": "2026-08-20T01:24"
+    },
+    {
+      "headline": "Trump Labels Strait of Hormuz “U.S. Territory”",
+      "summary": "President Donald Trump claimed the Strait of Hormuz as U.S. territory on Tuesday in a Truth Social post, while Tehran said the waterway will remain closed until Washington fulfills its commitments under a memorandum of understanding (MOU). The post included a…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-19-trump-labels-strait-of-hormuz-us-territory.html",
+      "bloc": "western",
+      "date": "2026-08-19",
+      "datetime": "2026-08-19T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-20T06:51:36.256Z",
+      "run_id": "2026-08-20T06:51"
+    },
+    {
+      "headline": "Pentagon Weighs Withdrawal from Gulf Bases After Iranian Strikes",
+      "summary": "The Pentagon is reassessing the size and location of its military presence in the Persian Gulf after months of Iranian missile and drone strikes, according to a Washington Post report published August 18. The report said the war has prompted a ‘once-in-a-gene…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-19-pentagon-weighs-withdrawal-gulf-bases-after-iranian-strikes.html",
+      "bloc": "western",
+      "date": "2026-08-19",
+      "datetime": "2026-08-19T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-20T06:51:36.256Z",
+      "run_id": "2026-08-20T06:51"
+    },
+    {
+      "headline": "Hormuz traffic slows as uncertainty over waterway persists",
+      "summary": "On Tuesday, US President Donald Trump said no talks were taking place with Iran and insisted ‌the Strait of Hormuz was open, contradicting ​Iran's assertion that it remained shut to shipping",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/hormuz-traffic-slows-as-uncertainty-over-waterway-persists/article71363498.ece",
+      "bloc": "western",
+      "date": "2026-08-19",
+      "datetime": "2026-08-19T05:42:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-20T06:51:36.256Z",
+      "run_id": "2026-08-20T06:51"
+    },
+    {
+      "headline": "UAE suspend Iran trade after ballistic missiles detected",
+      "summary": "The United Arab Emirates' defense ministry has said that it had ⁠detected two ballistic missiles launched from Iran, the first such incident reported since a 4 May strike on the Fujairah port.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/2026/0819/1588442-middle-east/",
+      "bloc": "western",
+      "date": "2026-08-19",
+      "datetime": "2026-08-19T05:35:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-20T06:51:36.256Z",
+      "run_id": "2026-08-20T06:51"
+    },
+    {
+      "headline": "Oil Price Today (August 19): Crude oil nears $92/barrel as Trump claims US in no talks with Iran. What lies ahead?",
+      "summary": "Crude oil prices edged closer to $92 a barrel on August 19 as escalating Middle East tensions and diplomatic stalemates between the US and Iran stoked global supply worries. Analysts at Goldman Sachs and JPMorgan warn Brent could spike past $110 if Strait of …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-19-crude-oil-nears-92/barrel-as-trump-claims-us-in-no-talks-with-iran-what-lies-ahead/articleshow/133336672.cms",
+      "bloc": "regional",
+      "date": "2026-08-19",
+      "datetime": "2026-08-19T03:49:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-20T06:51:36.256Z",
+      "run_id": "2026-08-20T06:51"
+    },
+    {
+      "headline": "Colby’s Empty Charm Offensive",
+      "summary": "U.S. government actions undermined the Trump official’s Southeast Asian tour.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/08/19/colby-philippines-southeast-asia-tour/",
+      "bloc": "western",
+      "date": "2026-08-19",
+      "datetime": "2026-08-19T05:00:21Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-20T06:51:36.256Z",
+      "run_id": "2026-08-20T06:51"
     }
   ],
-  "total_items_ever": 3113
+  "total_items_ever": 3119
 }

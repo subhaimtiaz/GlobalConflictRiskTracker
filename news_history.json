@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-20T12:55:05.208Z",
+  "updated": "2026-08-20T18:43:41.098Z",
   "retention_days": 30,
   "items": [
     {
@@ -13527,7 +13527,141 @@
       "_from": "newsapi",
       "first_seen": "2026-08-20T12:55:05.208Z",
       "run_id": "2026-08-20T12:55"
+    },
+    {
+      "headline": "Seven decades of US regime change efforts: What have they achieved?",
+      "summary": "US interventions in Iran and beyond reveal a recurring pattern of regime changes, with high human and financial costs.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved",
+      "bloc": "regional",
+      "date": "2026-08-19",
+      "datetime": "2026-08-19T15:46:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-20T18:43:41.098Z",
+      "run_id": "2026-08-20T18:43"
+    },
+    {
+      "headline": "Three Chinese Tankers U-Turn in Hormuz as Risks Remain High",
+      "summary": "Three China-linked supertankers have U-turned in the Strait of Hormuz as risks to shipping remain elevated, with prospects for a normalization of traffic dimming after President Donald Trump took a hard line on Iran.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/three-chinese-tankers-u-turn-in-hormuz-as-risks-remain-high/",
+      "bloc": "western",
+      "date": "2026-08-19",
+      "datetime": "2026-08-19T17:02:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-20T18:43:41.098Z",
+      "run_id": "2026-08-20T18:43"
+    },
+    {
+      "headline": "3 Chinese Supertankers Abort Hormuz Attempt",
+      "summary": "Three China-linked supertankers have U-turned in the strait as risks to shipping remain elevated, with prospects for a normalization of traffic dimming after President Donald Trump took a hard line on Iran.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/3_chinese_supertankers_abort_hormuz_attempt-19-aug-2026-184406-article/",
+      "bloc": "western",
+      "date": "2026-08-19",
+      "datetime": "2026-08-19T15:02:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-20T18:43:41.098Z",
+      "run_id": "2026-08-20T18:43"
+    },
+    {
+      "headline": "Ukraine attack sparks fire at refinery in Russia's Ufa; assessment underway",
+      "summary": "Ufa is home to three oil refineries, Novoil, Ufimsky and Ufaneftekhim, all owned by Rosneft PJSC's Bashneft unit.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/ukraine-attack-sparks-fire-at-refinery-in-russia-s-ufa-assessment-underway-126081901303_1.html",
+      "bloc": "western",
+      "date": "2026-08-19",
+      "datetime": "2026-08-19T17:50:26Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-20T18:43:41.098Z",
+      "run_id": "2026-08-20T18:43"
+    },
+    {
+      "headline": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian Drone Strike",
+      "summary": "Ukraine hit a refinery in Russia’s Bashkortostan region overnight in a drone attack that sparked a fire, as Kyiv continues to pound Russian energy infrastructure to reduce Russian fuel supply. One of the refineries in Ufa, in the Bashkortostan republic, caugh…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Fire-Breaks-Out-at-Rosneft-Owned-Refinery-After-Ukrainian-Drone-Strike.html",
+      "bloc": "western",
+      "date": "2026-08-19",
+      "datetime": "2026-08-19T14:30:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-20T18:43:41.098Z",
+      "run_id": "2026-08-20T18:43"
     }
   ],
-  "total_items_ever": 3125
+  "total_items_ever": 3130
 }

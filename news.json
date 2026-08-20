@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-19T18:40:32.866Z",
+  "ts": "2026-08-20T01:25:13.782Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 92,
-    "oilStress": 39,
-    "updatedAt": "2026-08-19T18:40:32.866Z"
+    "oilStress": 40,
+    "updatedAt": "2026-08-20T01:25:13.782Z"
   },
   "items": [
     {
@@ -118,6 +118,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Oil Hits Three-Week High on Iran Standoff",
+      "summary": "Crude gained as Hormuz tensions, tanker threats and tight fuel markets supported prices.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/oil_hits_threeweek_high_on_iran_standoff-18-aug-2026-184405-article/?rss=true",
+      "bloc": "western",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T19:31:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Saudi Arabia resumes oil loadings, sales from inside Strait of Hormuz",
       "summary": "The resumption of Saudi exports could help ease the tight supply of heavier grades that produce more residue fuel which can be used to refuel ships or can be processed further at refineries",
       "source": "Business Standard",
@@ -192,32 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Bessent warns of “never-before-seen” economic isolation for Iran as U.S. blocks ports",
-      "summary": "Treasury chief announces new punitive measures Treasury Secretary Scott Bessent has warned that Washington will impose economic isolation on Iran “the world has never seen before,” according to a report from Middle East Eye published Aug. 14. The same report …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-18-bessent-warns-never-before-seen-economic-isolation-iran.html",
-      "bloc": "western",
-      "date": "2026-08-18",
-      "datetime": "2026-08-18T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -445,78 +445,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Dearth Of Reliable Data Plagues Crude Oil Market Assessments",
-      "summary": "A dearth of reliable data created by the fog of war in the Middle East has rendered global crude oil market estimates hard to trust.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/davidblackmon/2026/08/12/dearth-of-reliable-data-plagues-crude-oil-market-assessments/",
+      "headline": "Donald Trump orders envoys to halt all negotiations with Iran",
+      "summary": "The halt in US-Iran negotiations heightens geopolitical tensions, potentially destabilizing global oil markets and impacting energy security.\nThe post Donald Trump orders envoys to halt all negotiations with Iran appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-halts-iran-negotiations/",
       "bloc": "western",
-      "date": "2026-08-12",
-      "datetime": "2026-08-12T12:39:16Z",
+      "date": "2026-08-18",
+      "datetime": "2026-08-18T22:27:05Z",
       "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
       ],
       "watch_terms": [
-        "oil Brent crude"
+        "Iran US diplomacy"
       ],
       "dimensions": [
-        "survival",
-        "values"
+        "values",
+        "survival"
       ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Best-Performing ETF of the Year Just Won't Stop Going Up",
-      "summary": "BWET is up more than 1,600% this year on surging tanker rates, yet almost nobody owns it.",
-      "source": "Etf.com",
-      "url": "http://www.etf.com/sections/features/best-performing-etf-year-just-wont-stop-going?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-      "bloc": "western",
-      "date": "2026-08-12",
-      "datetime": "2026-08-12T04:45:46Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Market battles at the gantry: How competition, not refining cost, sets petrol prices (1)",
-      "summary": "Explore why petrol prices in Nigeria are driven by market competition, global forces, and exchange rates, not just local refining costs. Understand the evo\n\nRead More: https://punchng.com/market-battles-at-the-gantry-how-competition-not-refining-cost-sets-pet…",
-      "source": "The Punch",
-      "url": "https://punchng.com/market-battles-at-the-gantry-how-competition-not-refining-cost-sets-petrol-prices-1/",
-      "bloc": "western",
-      "date": "2026-08-12",
-      "datetime": "2026-08-12T00:09:10Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
+      "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

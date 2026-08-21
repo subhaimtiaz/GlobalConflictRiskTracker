@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-20T18:44:46.353Z",
+  "ts": "2026-08-21T01:29:09.338Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 94,
-    "oilStress": 43,
-    "updatedAt": "2026-08-20T18:44:46.353Z"
+    "oilStress": 42,
+    "updatedAt": "2026-08-21T01:29:09.338Z"
   },
   "items": [
     {
@@ -118,6 +118,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "How Secretary Bessent Is Going Full-Hegseth Retard to No Avail",
+      "summary": "Six months after Trumpy & Bibi launched Operation Epic Fury against Iran on February 28th, the so-called kinetic campaign has settled into a costly stalemate, at best. And a de facto military defeat as a practical matter. In fact, what began as another furiou…",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/david_stockman/2026/08/19/how-secretary-bessent-is-going-full-hegseth-retard-to-no-avail/",
+      "bloc": "western",
+      "date": "2026-08-20",
+      "datetime": "2026-08-20T00:00:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Three Chinese Tankers U-Turn in Hormuz as Risks Remain High",
       "summary": "Three China-linked supertankers have U-turned in the Strait of Hormuz as risks to shipping remain elevated, with prospects for a normalization of traffic dimming after President Donald Trump took a hard line on Iran.",
       "source": "gcaptain.com",
@@ -177,32 +203,6 @@
       "bloc": "western",
       "date": "2026-08-19",
       "datetime": "2026-08-19T08:08:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz traffic slows as uncertainty over waterway persists",
-      "summary": "On Tuesday, US President Donald Trump said no talks were taking place with Iran and insisted ‌the Strait of Hormuz was open, contradicting ​Iran's assertion that it remained shut to shipping",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/hormuz-traffic-slows-as-uncertainty-over-waterway-persists/article71363498.ece",
-      "bloc": "western",
-      "date": "2026-08-19",
-      "datetime": "2026-08-19T05:42:39Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -474,32 +474,6 @@
       "bloc": "western",
       "date": "2026-08-17",
       "datetime": "2026-08-17T10:00:04Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz Stalemate Raises Risk of $120 Oil",
-      "summary": "For months now, traders and market analysts have had to weigh two opposing scenarios for oil prices—the ongoing war and severely disrupted oil flows at the Strait of Hormuz and hopes that a U.S.-Iran deal would free up millions of barrels of oil and refined p…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Oil-Prices/Hormuz-Stalemate-Raises-Risk-of-120-Oil.html",
-      "bloc": "western",
-      "date": "2026-08-13",
-      "datetime": "2026-08-13T15:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

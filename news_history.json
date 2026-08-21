@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-21T12:54:02.446Z",
+  "updated": "2026-08-21T18:40:48.438Z",
   "retention_days": 30,
   "items": [
     {
@@ -13101,7 +13101,60 @@
       "_from": "newsapi",
       "first_seen": "2026-08-21T12:54:02.446Z",
       "run_id": "2026-08-21T12:54"
+    },
+    {
+      "headline": "Taiwan proposes record USD 35B defence budget for 2027 as China's military pressure grows",
+      "summary": "Taiwan plans a record defense budget to counter China's military threats. This significant increase signals intensified efforts to deter potential aggression from Beijing. The proposed budget exceeds three percent of the island's gross domestic product. Taiwa…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/taiwan-proposes-record-usd-35b-defence-budget-for-2027-as-chinas-military-pressure-grows/articleshow/133380567.cms",
+      "bloc": "regional",
+      "date": "2026-08-20",
+      "datetime": "2026-08-20T14:30:56Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-21T18:40:48.438Z",
+      "run_id": "2026-08-21T18:40"
+    },
+    {
+      "headline": "In 1945, number of Japanese people survived World War 2 U.S. nuclear bombings of Hiroshima, Nagasaki, after 81 long years Nobel Peace Prize winning group of survivors fears worst. Here's why",
+      "summary": "New ​START was signed in 2010 by U.S. President Barack Obama and Dmitry Medvedev, an ally of Vladimir Putin who served a ⁠single term as Russia's president. At the time, relations between the two countries were undergoing a \"reset\". The treaty came into force…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/science-news-in-1945-number-of-japanese-people-survived-world-war-2-u-s-nuclear-bombings-of-hiroshima-nagasaki-after-81-long-years-nobel-peace-prize-winning-group-of-survivors-fears-worst-heres-why/articleshow/133379332.cms",
+      "bloc": "regional",
+      "date": "2026-08-20",
+      "datetime": "2026-08-20T13:37:50Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-21T18:40:48.438Z",
+      "run_id": "2026-08-21T18:40"
     }
   ],
-  "total_items_ever": 3139
+  "total_items_ever": 3141
 }

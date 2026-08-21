@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-21T06:53:35.499Z",
+  "ts": "2026-08-21T12:55:07.641Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 93,
-    "oilStress": 42,
-    "updatedAt": "2026-08-21T06:53:35.499Z"
+    "oilPrice": 94,
+    "oilStress": 43,
+    "updatedAt": "2026-08-21T12:55:07.641Z"
   },
   "items": [
+    {
+      "headline": "U.S. And EU Welcome Peace Progress Between Armenia And Azerbaijan",
+      "summary": "One year after the Washington peace summit, the United States and the European Union have welcomed Armenia’s and Azerbaijan’s progress toward peace.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/marktemnycky/2026/08/20/us-and-eu-welcome-peace-progress-between-armenia-and-azerbaijan/",
+      "bloc": "western",
+      "date": "2026-08-20",
+      "datetime": "2026-08-20T10:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "UAE Suspends Trade and Financial Ties With Iran After Alleged Missile Attack",
       "summary": "The United Arab Emirates (UAE) accused Iran of firing two ballistic missiles toward Emirati territory on Tuesday, Aug. 18, and announced a halt to all trade and financial transactions with Tehran, according to the Emirati Ministry of Defense (MOD) and the Emi…",
@@ -118,10 +144,62 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Chinese Refiners Snap Up Iraqi Oil as Gulf Supply Routes Fracture",
-      "summary": "Chinese refiners are buying Iraqi crude, with recent purchases of 8 million barrels of Basrah Heavy and Basrah Medium for prompt delivery, Bloomberg has reported, citing unnamed traders. Oil has continued flowing via the Strait of Hormuz—Iraq’s main export ch…",
+      "headline": "Are Hormuz ships more willing to defy Iran or the US? What data shows",
+      "summary": "Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows",
+      "bloc": "regional",
+      "date": "2026-08-20",
+      "datetime": "2026-08-20T08:43:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs",
+      "summary": "Demand for tankers from Middle Eastern oil producers has pushed prices to an all-time high, the Financial Times reported today, saying both new and second-hand very large crude carriers reached prices of over $130 million in the second quarter of the year. Ci…",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Refiners-Snap-Up-Iraqi-Oil-as-Gulf-Supply-Routes-Fracture.html",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Crisis-Sends-Supertanker-Prices-to-Record-Highs.html",
+      "bloc": "western",
+      "date": "2026-08-20",
+      "datetime": "2026-08-20T08:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Chinese Refiners Snap Up Iraqi Oil as Gulf Supply Routes Fracture",
+      "summary": "Chinese refiners are increasing purchases of Iraqi crude as disruptions at the Strait of Hormuz and in the Red Sea complicate traditional Gulf oil supplies t...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/chinese-refiners-snap-iraqi-oil-053000631.html",
       "bloc": "western",
       "date": "2026-08-20",
       "datetime": "2026-08-20T05:30:00Z",
@@ -151,84 +229,6 @@
       "bloc": "western",
       "date": "2026-08-20",
       "datetime": "2026-08-20T00:00:11Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Three Chinese Tankers U-Turn in Hormuz as Risks Remain High",
-      "summary": "Three China-linked supertankers have U-turned in the Strait of Hormuz as risks to shipping remain elevated, with prospects for a normalization of traffic dimming after President Donald Trump took a hard line on Iran.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/three-chinese-tankers-u-turn-in-hormuz-as-risks-remain-high/",
-      "bloc": "western",
-      "date": "2026-08-19",
-      "datetime": "2026-08-19T17:02:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "3 Chinese Supertankers Abort Hormuz Attempt",
-      "summary": "Three China-linked supertankers have U-turned in the strait as risks to shipping remain elevated, with prospects for a normalization of traffic dimming after President Donald Trump took a hard line on Iran.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/3_chinese_supertankers_abort_hormuz_attempt-19-aug-2026-184406-article/",
-      "bloc": "western",
-      "date": "2026-08-19",
-      "datetime": "2026-08-19T15:02:43Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "2 Chinese Supertankers Abort Hormuz Attempt",
-      "summary": "Two Chinese-linked supertankers U-turned in the strait as risks to shipping remain elevated, with prospects for a normalization of traffic dimming after President Donald Trump took a hard line on Iran.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/2_chinese_supertankers_abort_hormuz_attempt-19-aug-2026-184406-article/",
-      "bloc": "western",
-      "date": "2026-08-19",
-      "datetime": "2026-08-19T08:08:52Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -347,6 +347,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Why Taiwan and the South China Sea are two sides of the same strategic coin",
+      "summary": "Taiwan and the South China Sea hold significant global trade importance. China claims Taiwan and asserts sovereignty over the South China Sea. Tensions with China persist over these disputed maritime regions. The United States maintains unofficial relations a…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-taiwan-and-the-south-china-sea-are-two-sides-of-the-same-strategic-coin/articleshow/133373753.cms",
+      "bloc": "regional",
+      "date": "2026-08-20",
+      "datetime": "2026-08-20T10:17:58Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "China Completes First Stage of Work at Disputed South China Sea Reef, Images Show",
       "summary": "China has completed the first phase of construction on Antelope Reef in the Paracels archipelago, building a man-made island in the hotly-disputed South China Sea that analysts say will form part of its largest military base.",
       "source": "gcaptain.com",
@@ -415,54 +439,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China Wants Trump To Roll Out The Red Carpet—And Roll Over",
-      "summary": "Hoover Institution fellow Mike Kuiken said Chinese officials view countries that are not the US or China as \"meddling middle powers\" that China would like the US to drop.",
-      "source": "Newsweek",
-      "url": "https://www.newsweek.com/china-wants-trump-to-roll-out-the-red-carpet-and-roll-over-12323370",
-      "bloc": "western",
-      "date": "2026-08-18",
-      "datetime": "2026-08-18T00:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: As MOU Expires, Iran and US Engage in Threat Display, With Iran Likely to Escalate Into Midterms; Energy and Commodity Supplies Continue to Deteriorate",
-      "summary": "Today's Iran war news: New shoes look set to drop as the MOU expires and the Gulf supply chokehold remains in place.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-as-mou-expires-iran-and-us-engage-in-threat-display-with-iran-likely-to-escalate-into-midterms-energy-and-commodity-supplies-continue-to-deteriorate.html",
-      "bloc": "western",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T10:54:19Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

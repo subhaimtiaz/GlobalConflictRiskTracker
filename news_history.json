@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-21T06:52:30.105Z",
+  "updated": "2026-08-21T12:54:02.446Z",
   "retention_days": 30,
   "items": [
     {
@@ -12991,7 +12991,117 @@
       "_from": "newsapi",
       "first_seen": "2026-08-21T06:52:30.105Z",
       "run_id": "2026-08-21T06:52"
+    },
+    {
+      "headline": "U.S. And EU Welcome Peace Progress Between Armenia And Azerbaijan",
+      "summary": "One year after the Washington peace summit, the United States and the European Union have welcomed Armenia’s and Azerbaijan’s progress toward peace.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/marktemnycky/2026/08/20/us-and-eu-welcome-peace-progress-between-armenia-and-azerbaijan/",
+      "bloc": "western",
+      "date": "2026-08-20",
+      "datetime": "2026-08-20T10:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-21T12:54:02.446Z",
+      "run_id": "2026-08-21T12:54"
+    },
+    {
+      "headline": "Are Hormuz ships more willing to defy Iran or the US? What data shows",
+      "summary": "Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows",
+      "bloc": "regional",
+      "date": "2026-08-20",
+      "datetime": "2026-08-20T08:43:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-21T12:54:02.446Z",
+      "run_id": "2026-08-21T12:54"
+    },
+    {
+      "headline": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs",
+      "summary": "Demand for tankers from Middle Eastern oil producers has pushed prices to an all-time high, the Financial Times reported today, saying both new and second-hand very large crude carriers reached prices of over $130 million in the second quarter of the year. Ci…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Crisis-Sends-Supertanker-Prices-to-Record-Highs.html",
+      "bloc": "western",
+      "date": "2026-08-20",
+      "datetime": "2026-08-20T08:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-21T12:54:02.446Z",
+      "run_id": "2026-08-21T12:54"
+    },
+    {
+      "headline": "Why Taiwan and the South China Sea are two sides of the same strategic coin",
+      "summary": "Taiwan and the South China Sea hold significant global trade importance. China claims Taiwan and asserts sovereignty over the South China Sea. Tensions with China persist over these disputed maritime regions. The United States maintains unofficial relations a…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-taiwan-and-the-south-china-sea-are-two-sides-of-the-same-strategic-coin/articleshow/133373753.cms",
+      "bloc": "regional",
+      "date": "2026-08-20",
+      "datetime": "2026-08-20T10:17:58Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-21T12:54:02.446Z",
+      "run_id": "2026-08-21T12:54"
     }
   ],
-  "total_items_ever": 3135
+  "total_items_ever": 3139
 }

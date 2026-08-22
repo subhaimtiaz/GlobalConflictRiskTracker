@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-21T18:41:53.632Z",
+  "ts": "2026-08-22T01:24:26.953Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 95,
-    "oilStress": 44,
-    "updatedAt": "2026-08-21T18:41:53.632Z"
+    "oilPrice": 94,
+    "oilStress": 42,
+    "updatedAt": "2026-08-22T01:24:26.953Z"
   },
   "items": [
+    {
+      "headline": "Israeli’s Spy Agency Suffers a Crushing Defeat Entirely of Its Own Making",
+      "summary": "High-profile Mossad firings show that none of the agency’s promises about the war with Iran have come to pass.\nThe post Israeli’s Spy Agency Suffers a Crushing Defeat Entirely of Its Own Making appeared first on The Intercept.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2026/08/20/israel-iran-war-mossad-firings/",
+      "bloc": "western",
+      "date": "2026-08-20",
+      "datetime": "2026-08-20T19:06:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "U.S. And EU Welcome Peace Progress Between Armenia And Azerbaijan",
       "summary": "One year after the Washington peace summit, the United States and the European Union have welcomed Armenia’s and Azerbaijan’s progress toward peace.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-08-20",
       "datetime": "2026-08-20T04:15:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Seven decades of US regime change efforts: What have they achieved?",
-      "summary": "US interventions in Iran and beyond reveal a recurring pattern of regime changes, with high human and financial costs.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved",
-      "bloc": "regional",
-      "date": "2026-08-19",
-      "datetime": "2026-08-19T15:46:05Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -648,29 +648,6 @@
       "bloc": "western",
       "date": "2026-08-17",
       "datetime": "2026-08-17T15:43:35Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Mixed Signals on US Resuming Kinetic Action as Iran Moves to Offensive Stance; Flight from Israel Accelerating",
-      "summary": "Today's Iran war news: The Trump team is fracasing over what to do as Iran goes on the front foot while servicemembers are badly overstressed.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-mixed-signals-on-us-resuming-kinetic-action-as-iran-moves-to-offensive-stance-flight-from-israel-accelerating.html",
-      "bloc": "western",
-      "date": "2026-08-14",
-      "datetime": "2026-08-14T14:16:25Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

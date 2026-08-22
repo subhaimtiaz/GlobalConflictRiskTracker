@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-22T01:23:21.782Z",
+  "updated": "2026-08-22T06:44:42.977Z",
   "retention_days": 30,
   "items": [
     {
@@ -12376,7 +12376,35 @@
       "_from": "newsapi",
       "first_seen": "2026-08-22T01:23:21.782Z",
       "run_id": "2026-08-22T01:23"
+    },
+    {
+      "headline": "What happens when interceptor missiles run out? The growing shortage is causing panic in Ukraine and elsewhere",
+      "summary": "Residents of Kyiv are sleeping once again in overcrowded metro stations or in cars in underground garages. Above, the air war is turning into a turkey-shoot. Russia is bombarding the city with ever more ballistic and hypersonic missiles. Ukraine, which had pr…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4392573/posts",
+      "bloc": "western",
+      "date": "2026-08-21",
+      "datetime": "2026-08-21T02:15:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-22T06:44:42.977Z",
+      "run_id": "2026-08-22T06:44"
     }
   ],
-  "total_items_ever": 3142
+  "total_items_ever": 3143
 }

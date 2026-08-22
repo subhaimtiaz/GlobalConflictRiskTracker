@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-22T01:24:26.953Z",
+  "ts": "2026-08-22T06:45:48.218Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 94,
     "oilStress": 42,
-    "updatedAt": "2026-08-22T01:24:26.953Z"
+    "updatedAt": "2026-08-22T06:45:48.218Z"
   },
   "items": [
+    {
+      "headline": "What happens when interceptor missiles run out? The growing shortage is causing panic in Ukraine and elsewhere",
+      "summary": "Residents of Kyiv are sleeping once again in overcrowded metro stations or in cars in underground garages. Above, the air war is turning into a turkey-shoot. Russia is bombarding the city with ever more ballistic and hypersonic missiles. Ukraine, which had pr…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4392573/posts",
+      "bloc": "western",
+      "date": "2026-08-21",
+      "datetime": "2026-08-21T02:15:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Israeli’s Spy Agency Suffers a Crushing Defeat Entirely of Its Own Making",
       "summary": "High-profile Mossad firings show that none of the agency’s promises about the war with Iran have come to pass.\nThe post Israeli’s Spy Agency Suffers a Crushing Defeat Entirely of Its Own Making appeared first on The Intercept.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-08-20",
       "datetime": "2026-08-20T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Mecca Security Pact is not about Iran",
-      "summary": "The Pact suggests serious strategic rethinking about the reliability of the United States as the region's guarantor of peace and stability",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/08/mecca-security-about.html",
-      "bloc": "western",
-      "date": "2026-08-20",
-      "datetime": "2026-08-20T04:15:21Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

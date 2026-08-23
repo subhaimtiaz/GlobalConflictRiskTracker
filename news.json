@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-23T01:38:04.377Z",
+  "ts": "2026-08-23T06:47:25.075Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 94,
     "oilStress": 42,
-    "updatedAt": "2026-08-23T01:38:04.377Z"
+    "updatedAt": "2026-08-23T06:47:25.075Z"
   },
   "items": [
+    {
+      "headline": "Washington Eases Gasoline Rules as Iran Pressure Campaign Jolts Fuel Costs",
+      "summary": "Washington is tightening economic pressure on Iran while loosening domestic gasoline rules as U.S. drivers face pump prices above $4 a gallon, according to a report. The Environmental Protection Agency on Thursday authorized an early switch to winter-grade ga…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-22-washington-eases-gasoline-rules-iran-pressure-campaign.html",
+      "bloc": "western",
+      "date": "2026-08-22",
+      "datetime": "2026-08-22T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran Vows ‘Devastating’ Response to US Threat to Cut Off Its Economic Lifelines",
       "summary": "Iran said on Friday that its response to any new U.S. threats would be \"devastating\" after Washington pledged to impose the toughest financial penalties in history with the aim of toppling the Iranian leadership.",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran vows 'devastating' response as US threatens toughest ever economic hit",
-      "summary": "The chief of staff of Iran's Armed Forces, Major General Ali Abdollahi, said the Islamic Republic's reaction would be broad and decisive.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/iran-vows-devastating-response-as-us-threatens-toughest-ever-economic-hit-126082101122_1.html",
+      "headline": "Strait of Hormuz sees single ship transit amid US-Iran tensions",
+      "summary": "Heightened tensions in the Strait of Hormuz could disrupt global oil logistics, elevate tanker rates, and strain international relations.\nThe post Strait of Hormuz sees single ship transit amid US-Iran tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/strait-of-hormuz-sees-single-ship-transit-amid-us-iran-tensions/",
       "bloc": "western",
-      "date": "2026-08-21",
-      "datetime": "2026-08-21T13:28:04Z",
+      "date": "2026-08-22",
+      "datetime": "2026-08-22T02:20:49Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-08-20",
       "datetime": "2026-08-20T05:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How Secretary Bessent Is Going Full-Hegseth Retard to No Avail",
-      "summary": "Six months after Trumpy & Bibi launched Operation Epic Fury against Iran on February 28th, the so-called kinetic campaign has settled into a costly stalemate, at best. And a de facto military defeat as a practical matter. In fact, what began as another furiou…",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/david_stockman/2026/08/19/how-secretary-bessent-is-going-full-hegseth-retard-to-no-avail/",
-      "bloc": "western",
-      "date": "2026-08-20",
-      "datetime": "2026-08-20T00:00:11Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -439,6 +439,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How Secretary Bessent Is Going Full-Hegseth Retard to No Avail",
+      "summary": "Six months after Trumpy & Bibi launched Operation Epic Fury against Iran on February 28th, the so-called kinetic campaign has settled into a costly stalemate, at best. And a de facto military defeat as a practical matter. In fact, what began as another furiou…",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/david_stockman/2026/08/19/how-secretary-bessent-is-going-full-hegseth-retard-to-no-avail/",
+      "bloc": "western",
+      "date": "2026-08-20",
+      "datetime": "2026-08-20T00:00:11Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-23T12:45:52.704Z",
+  "updated": "2026-08-23T18:33:53.136Z",
   "retention_days": 30,
   "items": [
     {
@@ -11743,7 +11743,60 @@
       "_from": "newsapi",
       "first_seen": "2026-08-23T12:45:52.704Z",
       "run_id": "2026-08-23T12:45"
+    },
+    {
+      "headline": "Trump Administration Claims Massive Oil Flows Through Hormuz But Industry Data Raises Questions",
+      "summary": "U.S. Energy Secretary Chris Wright says the military helped move more than 15 million barrels of oil and petroleum products through the Strait of Hormuz on Tuesday, an extraordinary figure...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/trump-administration-claims-massive-oil-flows-through-hormuz-but-industry-data-raises-questions/",
+      "bloc": "western",
+      "date": "2026-08-22",
+      "datetime": "2026-08-22T15:54:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-23T18:33:53.136Z",
+      "run_id": "2026-08-23T18:33"
+    },
+    {
+      "headline": "Ukraine strikes Russian retail warehouse in wave of drone attacks",
+      "summary": "Ukraine has launched drone attacks targeting a Russian oil refinery and a online retail warehouse, while Russia continues its campaign of missile attacks on Kyiv.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-22/civilians-killed-in-ukrainian-drone-strikes-over-russia-/107067556",
+      "bloc": "western",
+      "date": "2026-08-22",
+      "datetime": "2026-08-22T13:52:25Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-23T18:33:53.136Z",
+      "run_id": "2026-08-23T18:33"
     }
   ],
-  "total_items_ever": 3151
+  "total_items_ever": 3153
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-24T07:05:18.294Z",
+  "ts": "2026-08-24T12:57:18.193Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 93,
     "oilStress": 41,
-    "updatedAt": "2026-08-24T07:05:18.294Z"
+    "updatedAt": "2026-08-24T12:57:18.193Z"
   },
   "items": [
+    {
+      "headline": "Syria foreign minister says door open for diplomacy with Israel",
+      "summary": "Asaad al-Shaibani urges Israel to seize 'historic opportunity' for diplomacy.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel",
+      "bloc": "regional",
+      "date": "2026-08-23",
+      "datetime": "2026-08-23T10:48:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump Heads Into Midterms Short On Foreign Policy Wins",
       "summary": "The setbacks are striking for a president who returned to office last year promising to be a “peacemaker.”",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran vows ‘devastating’ response as US threatens crushing sanctions designed to ‘collapse’ regime",
-      "summary": "The chief of staff of Iran's Armed Forces, Major General Ali Abdollahi, said the Islamic Republic's reaction would be broad and decisive.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/21/world-news/iran-vows-devastating-response-as-us-threatens-crushing-sanctions-designed-to-collapse-regime/",
+      "headline": "Iran says new sanctions threatened by 'desperate' US will fail",
+      "summary": "By Elwely Elwelly and Menna AlaaElDin DUBAI, Aug 23 (Reuters) - Iran's foreign minister dismissed the threat of new U.S. sanctions as a sign of desperation o...",
+      "source": "Yahoo Entertainment",
+      "url": "https://uk.news.yahoo.com/iran-says-sanctions-threatened-desperate-122445093.html",
       "bloc": "western",
-      "date": "2026-08-21",
-      "datetime": "2026-08-21T16:41:22Z",
+      "date": "2026-08-23",
+      "datetime": "2026-08-23T12:24:45Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -229,32 +255,6 @@
       "bloc": "regional",
       "date": "2026-08-20",
       "datetime": "2026-08-20T08:43:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs",
-      "summary": "Demand for tankers from Middle Eastern oil producers has pushed prices to an all-time high, the Financial Times reported today, saying both new and second-hand very large crude carriers reached prices of over $130 million in the second quarter of the year. Ci…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Crisis-Sends-Supertanker-Prices-to-Record-Highs.html",
-      "bloc": "western",
-      "date": "2026-08-20",
-      "datetime": "2026-08-20T08:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -398,6 +398,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The Dawn of a New Cold War",
+      "summary": "The growing tension between the United States and China boils down to a battle over resources.\nThe post The Dawn of a New Cold War appeared first on The Intercept.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
+      "bloc": "western",
+      "date": "2026-08-23",
+      "datetime": "2026-08-23T10:10:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Taiwan proposes record USD 35B defence budget for 2027 as China's military pressure grows",
       "summary": "Taiwan plans a record defense budget to counter China's military threats. This significant increase signals intensified efforts to deter potential aggression from Beijing. The proposed budget exceeds three percent of the island's gross domestic product. Taiwa…",
       "source": "The Times of India",
@@ -429,30 +453,6 @@
       "bloc": "regional",
       "date": "2026-08-20",
       "datetime": "2026-08-20T10:17:58Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China Completes First Stage of Work at Disputed South China Sea Reef, Images Show",
-      "summary": "China has completed the first phase of construction on Antelope Reef in the Paracels archipelago, building a man-made island in the hotly-disputed South China Sea that analysts say will form part of its largest military base.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/china-completes-first-stage-of-work-at-disputed-south-china-sea-reef-images-show/",
-      "bloc": "western",
-      "date": "2026-08-19",
-      "datetime": "2026-08-19T10:19:34Z",
       "leaders": [
         "Xi Jinping"
       ],

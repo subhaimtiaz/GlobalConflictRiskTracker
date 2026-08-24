@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-24T07:04:13.137Z",
+  "updated": "2026-08-24T12:56:12.919Z",
   "retention_days": 30,
   "items": [
     {
@@ -11183,7 +11183,89 @@
       "_from": "newsapi",
       "first_seen": "2026-08-24T01:35:10.014Z",
       "run_id": "2026-08-24T01:35"
+    },
+    {
+      "headline": "Syria foreign minister says door open for diplomacy with Israel",
+      "summary": "Asaad al-Shaibani urges Israel to seize 'historic opportunity' for diplomacy.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel",
+      "bloc": "regional",
+      "date": "2026-08-23",
+      "datetime": "2026-08-23T10:48:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-24T12:56:12.918Z",
+      "run_id": "2026-08-24T12:56"
+    },
+    {
+      "headline": "Iran says new sanctions threatened by 'desperate' US will fail",
+      "summary": "By Elwely Elwelly and Menna AlaaElDin DUBAI, Aug 23 (Reuters) - Iran's foreign minister dismissed the threat of new U.S. sanctions as a sign of desperation o...",
+      "source": "Yahoo Entertainment",
+      "url": "https://uk.news.yahoo.com/iran-says-sanctions-threatened-desperate-122445093.html",
+      "bloc": "western",
+      "date": "2026-08-23",
+      "datetime": "2026-08-23T12:24:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-24T12:56:12.918Z",
+      "run_id": "2026-08-24T12:56"
+    },
+    {
+      "headline": "The Dawn of a New Cold War",
+      "summary": "The growing tension between the United States and China boils down to a battle over resources.\nThe post The Dawn of a New Cold War appeared first on The Intercept.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
+      "bloc": "western",
+      "date": "2026-08-23",
+      "datetime": "2026-08-23T10:10:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-24T12:56:12.918Z",
+      "run_id": "2026-08-24T12:56"
     }
   ],
-  "total_items_ever": 3154
+  "total_items_ever": 3157
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-23T18:34:58.364Z",
+  "ts": "2026-08-24T01:36:15.495Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 94,
-    "oilStress": 42,
-    "updatedAt": "2026-08-23T18:34:58.364Z"
+    "oilPrice": 93,
+    "oilStress": 41,
+    "updatedAt": "2026-08-24T01:36:15.495Z"
   },
   "items": [
+    {
+      "headline": "Trump Heads Into Midterms Short On Foreign Policy Wins",
+      "summary": "The setbacks are striking for a president who returned to office last year promising to be a “peacemaker.”",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-midterms-foreign-policy_n_6a8a12a6e4b0313bf9e5f9e9",
+      "bloc": "western",
+      "date": "2026-08-22",
+      "datetime": "2026-08-22T21:28:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Washington Eases Gasoline Rules as Iran Pressure Campaign Jolts Fuel Costs",
       "summary": "Washington is tightening economic pressure on Iran while loosening domestic gasoline rules as U.S. drivers face pump prices above $4 a gallon, according to a report. The Environmental Protection Agency on Thursday authorized an early switch to winter-grade ga…",
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Moves to Scale Back US War Drills in Korea. We Should Support That.",
-      "summary": "While any diplomatic overture from Trump should be viewed with skepticism, we should welcome a chance to advance peace.",
-      "source": "Truthout",
-      "url": "https://truthout.org/articles/trump-moves-to-scale-back-us-war-drills-in-korea-we-should-support-that/",
-      "bloc": "western",
-      "date": "2026-08-21",
-      "datetime": "2026-08-21T14:56:40Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

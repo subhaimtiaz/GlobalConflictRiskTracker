@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-24T12:57:18.193Z",
+  "ts": "2026-08-24T18:45:44.389Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 93,
-    "oilStress": 41,
-    "updatedAt": "2026-08-24T12:57:18.193Z"
+    "oilPrice": 92,
+    "oilStress": 40,
+    "updatedAt": "2026-08-24T18:45:44.389Z"
   },
   "items": [
     {
@@ -144,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "United States to unveil ‘toughest sanctions in history’ on Iran",
+      "summary": "Economy already under enormous pressure from international restrictions, while infrastructure bombed repeatedly",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/us/2026/08/23/united-states-to-unveil-toughest-sanctions-in-history-on-iran/",
+      "bloc": "western",
+      "date": "2026-08-23",
+      "datetime": "2026-08-23T18:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Defiant Iran says new sanctions threatened by 'desperate' US will fail",
+      "summary": "Tehran remains defiant ahead of expected US sanctions announcement on Monday as shipping through the Strait of Hormuz remains virtually at a standstill",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/defiant-iran-says-new-sanctions-threatened-by-desperate-us-will-fail-126082300776_1.html",
+      "bloc": "western",
+      "date": "2026-08-23",
+      "datetime": "2026-08-23T17:02:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran says new sanctions threatened by 'desperate' US will fail",
       "summary": "By Elwely Elwelly and Menna AlaaElDin DUBAI, Aug 23 (Reuters) - Iran's foreign minister dismissed the threat of new U.S. sanctions as a sign of desperation o...",
       "source": "Yahoo Entertainment",
@@ -203,58 +255,6 @@
       "bloc": "western",
       "date": "2026-08-22",
       "datetime": "2026-08-22T09:00:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz sees single ship transit amid US-Iran tensions",
-      "summary": "Heightened tensions in the Strait of Hormuz could disrupt global oil logistics, elevate tanker rates, and strain international relations.\nThe post Strait of Hormuz sees single ship transit amid US-Iran tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/strait-of-hormuz-sees-single-ship-transit-amid-us-iran-tensions/",
-      "bloc": "western",
-      "date": "2026-08-22",
-      "datetime": "2026-08-22T02:20:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Are Hormuz ships more willing to defy Iran or the US? What data shows",
-      "summary": "Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows",
-      "bloc": "regional",
-      "date": "2026-08-20",
-      "datetime": "2026-08-20T08:43:17Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

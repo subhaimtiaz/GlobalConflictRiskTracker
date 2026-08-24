@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-24T12:56:12.919Z",
+  "updated": "2026-08-24T18:44:39.143Z",
   "retention_days": 30,
   "items": [
     {
@@ -11265,7 +11265,63 @@
       "_from": "newsapi",
       "first_seen": "2026-08-24T12:56:12.918Z",
       "run_id": "2026-08-24T12:56"
+    },
+    {
+      "headline": "United States to unveil ‘toughest sanctions in history’ on Iran",
+      "summary": "Economy already under enormous pressure from international restrictions, while infrastructure bombed repeatedly",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/us/2026/08/23/united-states-to-unveil-toughest-sanctions-in-history-on-iran/",
+      "bloc": "western",
+      "date": "2026-08-23",
+      "datetime": "2026-08-23T18:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-24T18:44:39.143Z",
+      "run_id": "2026-08-24T18:44"
+    },
+    {
+      "headline": "Defiant Iran says new sanctions threatened by 'desperate' US will fail",
+      "summary": "Tehran remains defiant ahead of expected US sanctions announcement on Monday as shipping through the Strait of Hormuz remains virtually at a standstill",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/defiant-iran-says-new-sanctions-threatened-by-desperate-us-will-fail-126082300776_1.html",
+      "bloc": "western",
+      "date": "2026-08-23",
+      "datetime": "2026-08-23T17:02:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-24T18:44:39.143Z",
+      "run_id": "2026-08-24T18:44"
     }
   ],
-  "total_items_ever": 3157
+  "total_items_ever": 3159
 }

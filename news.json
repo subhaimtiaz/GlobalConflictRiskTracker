@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-25T01:26:17.097Z",
+  "ts": "2026-08-25T06:54:42.432Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 92,
-    "oilStress": 40,
-    "updatedAt": "2026-08-25T01:26:17.097Z"
+    "oilStress": 39,
+    "updatedAt": "2026-08-25T06:54:42.432Z"
   },
   "items": [
+    {
+      "headline": "Israeli army officials accuse Netanyahu of seeking to escalate conflicts to delay elections, report says",
+      "summary": "Army officials allege political motive behind escalation Prime Minister Benjamin Netanyahu faces growing accusations from within the Israeli defense establishment that he is deliberately escalating military operations to postpone or disrupt national elections…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-24-netanyahu-seeking-escalate-conflicts-to-delay-elections.html",
+      "bloc": "western",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Syria foreign minister says door open for diplomacy with Israel",
       "summary": "Asaad al-Shaibani urges Israel to seize 'historic opportunity' for diplomacy.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-08-21",
       "datetime": "2026-08-21T17:50:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran warns of ‘devastating’ response as US plans toughest sanctions",
-      "summary": "Iran warns of a devastating response as the US prepares tougher sanctions, while falling oil flows through Hormuz raise concerns over global energy supplies.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-warns-of-devastating-response-as-us-plans-toughest-sanctions/article71375057.ece",
-      "bloc": "western",
-      "date": "2026-08-21",
-      "datetime": "2026-08-21T16:47:40Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

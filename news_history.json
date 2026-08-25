@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-25T01:25:11.815Z",
+  "updated": "2026-08-25T06:53:37.229Z",
   "retention_days": 30,
   "items": [
     {
@@ -10808,7 +10808,35 @@
       "_from": "newsapi",
       "first_seen": "2026-08-24T18:44:39.143Z",
       "run_id": "2026-08-24T18:44"
+    },
+    {
+      "headline": "Israeli army officials accuse Netanyahu of seeking to escalate conflicts to delay elections, report says",
+      "summary": "Army officials allege political motive behind escalation Prime Minister Benjamin Netanyahu faces growing accusations from within the Israeli defense establishment that he is deliberately escalating military operations to postpone or disrupt national elections…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-24-netanyahu-seeking-escalate-conflicts-to-delay-elections.html",
+      "bloc": "western",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-25T06:53:37.229Z",
+      "run_id": "2026-08-25T06:53"
     }
   ],
-  "total_items_ever": 3159
+  "total_items_ever": 3160
 }

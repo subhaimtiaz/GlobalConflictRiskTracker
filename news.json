@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-24T18:45:44.389Z",
+  "ts": "2026-08-25T01:26:17.097Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 92,
     "oilStress": 40,
-    "updatedAt": "2026-08-24T18:45:44.389Z"
+    "updatedAt": "2026-08-25T01:26:17.097Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran says new sanctions threatened by 'desperate' US will fail",
+      "summary": "Iranian Foreign Minister Abbas Araqchi has dismissed threatened US sanctions as a sign of desperation, insisting they will fail to defeat Tehran. The warning comes as the Strait of Hormuz remains effectively blocked, disrupting oil shipments and raising price…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-says-new-sanctions-threatened-by-desperate-us-will-fail/articleshow/133448862.cms",
+      "bloc": "regional",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T00:52:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "United States to unveil ‘toughest sanctions in history’ on Iran",
       "summary": "Economy already under enormous pressure from international restrictions, while infrastructure bombed repeatedly",
       "source": "The Irish Times",
@@ -196,32 +222,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran says new sanctions threatened by 'desperate' US will fail",
-      "summary": "By Elwely Elwelly and Menna AlaaElDin DUBAI, Aug 23 (Reuters) - Iran's foreign minister dismissed the threat of new U.S. sanctions as a sign of desperation o...",
-      "source": "Yahoo Entertainment",
-      "url": "https://uk.news.yahoo.com/iran-says-sanctions-threatened-desperate-122445093.html",
-      "bloc": "western",
-      "date": "2026-08-23",
-      "datetime": "2026-08-23T12:24:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Trump Administration Claims Massive Oil Flows Through Hormuz But Industry Data Raises Questions",
       "summary": "U.S. Energy Secretary Chris Wright says the military helped move more than 15 million barrels of oil and petroleum products through the Strait of Hormuz on Tuesday, an extraordinary figure...",
       "source": "gcaptain.com",
@@ -229,32 +229,6 @@
       "bloc": "western",
       "date": "2026-08-22",
       "datetime": "2026-08-22T15:54:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How Middle Eastern oil producers flipped the script on Iran | CNN Business",
-      "summary": "On the afternoon of July 25, the Greek-owned supertanker Kiku docked at Qatar’s Mesaieed oil export terminal, a massive, 30-berth port on the country’s west coast, 25 miles south of Doha.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/08/22/business/oil-strait-of-hormuz-iran",
-      "bloc": "western",
-      "date": "2026-08-22",
-      "datetime": "2026-08-22T09:00:29Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -319,81 +293,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Top Russian banker is fired after warning Putin was leading country into 'social crisis' amid 'war of attrition' with Ukraine",
-      "summary": "The Kremlin has fired a top Russian banker for warning Vladimir Putin he was leading the country into 'social crisis' and a failure to gain victory in the Ukrainian conflict.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16058687/Top-Russian-banker-fired-warning-Putin-leading-country-social-crisis-amid-war-attrition-Ukraine.html",
-      "bloc": "western",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T15:07:36Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump orders cuts to joint US military drills with South Korea",
-      "summary": "US president says move is based on his ‘very good relationship with Kim Jong-un’ but military officials warn North Korea’s combat capabilities are growing",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/08/17/trump-orders-cuts-to-joint-us-military-drills-with-south-korea/",
-      "bloc": "western",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T06:46:36Z",
-      "leaders": [
-        "Kim Jong-un"
-      ],
-      "watch_terms": [
-        "Kim Jong-un North"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "narcissism",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump gushes about Kim Jong Un as he orders scaled-back US military exercises with South Korea... after country's two-word snub over Iran war",
-      "summary": "President Donald Trump ordered the Pentagon to scale back its planned joint military exercises with South Korea.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16057247/Trump-North-Soouth-Korea-military-exercises.html",
-      "bloc": "western",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T03:51:25Z",
-      "leaders": [
-        "Kim Jong-un"
-      ],
-      "watch_terms": [
-        "Kim Jong-un North"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "narcissism",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -548,32 +447,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Current price of oil as of August 17, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-08-17-2026/",
-      "bloc": "western",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T10:00:04Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Donald Trump orders envoys to halt all negotiations with Iran",
       "summary": "The halt in US-Iran negotiations heightens geopolitical tensions, potentially destabilizing global oil markets and impacting energy security.\nThe post Donald Trump orders envoys to halt all negotiations with Iran appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
@@ -581,31 +454,6 @@
       "bloc": "western",
       "date": "2026-08-18",
       "datetime": "2026-08-18T22:27:05Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump says Hormuz 'new US territory', no talks planned",
-      "summary": "US President Donald Trump has said no talks with Iran are under way or scheduled, as he posted a map showing the Strait of Hormuz as a new American territory in a fresh jibe at Tehran.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/middle-east/2026/0818/1588299-iran-middle-east/",
-      "bloc": "western",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T23:27:33Z",
       "leaders": [
         "Donald J. Trump",
         "Mojtaba Khamenei"
@@ -725,29 +573,6 @@
       "bloc": "western",
       "date": "2026-08-18",
       "datetime": "2026-08-18T10:30:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russian state economist fired after stark warning about Moscow’s economic future",
-      "summary": "VEB.RF, Russian state development bank, economist Andrei Klepach warned Russia is losing the war of attrition before his firing, as the European Union prepares sweeping sanctions.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/russian-state-economist-fired-after-stark-warning-about-moscows-economic-future",
-      "bloc": "western",
-      "date": "2026-08-17",
-      "datetime": "2026-08-17T15:43:35Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

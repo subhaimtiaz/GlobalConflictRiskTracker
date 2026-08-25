@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-25T06:54:42.432Z",
+  "ts": "2026-08-25T12:53:48.280Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 92,
-    "oilStress": 39,
-    "updatedAt": "2026-08-25T06:54:42.432Z"
+    "oilPrice": 89,
+    "oilStress": 36,
+    "updatedAt": "2026-08-25T12:53:48.280Z"
   },
   "items": [
     {
@@ -144,6 +144,110 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation",
+      "summary": "Iran has blacklisted forty-five tankers for violating its Strait of Hormuz transit rules.  The Persian Gulf Strait Authority announced these vessels face fines and confiscation.  This action escalates threats over the key waterway six months into the ongoing …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-threatens-45-tankers-with-fines-confiscation-in-hormuz-escalation/articleshow/133461996.cms",
+      "bloc": "regional",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T10:49:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "UKMTO says tanker struck by unknown projectile off Saudi Arabia's Yanbu",
+      "summary": "A tanker sustained damage from an unknown projectile near Saudi Arabia's Yanbu port.  The vessel experienced a fire on its main deck, but all crew members are safe.  Yanbu serves as Saudi Arabia's primary Red Sea oil export hub.  This incident follows recent …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/ukmto-says-tanker-struck-by-unknown-projectile-off-saudi-arabias-yanbu/articleshow/133459341.cms",
+      "bloc": "regional",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T09:08:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Brent Sees Another Volatile Month of Trading",
+      "summary": "Brent crude has seen another volatile month of trading, analysts at BMI highlighted.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/brent_sees_another_volatile_month_of_trading-24-aug-2026-184439-article/",
+      "bloc": "western",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T09:05:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran’s oil shipments to Asia plummet as prices fall ahead of US sanctions",
+      "summary": "The plummeting oil exports could strain Iran's economy, heighten geopolitical tensions, and disrupt global oil supply chains.\nThe post Iran’s oil shipments to Asia plummet as prices fall ahead of US sanctions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-oil-exports-plummet-us-sanctions/",
+      "bloc": "western",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T07:14:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran says new sanctions threatened by 'desperate' US will fail",
       "summary": "Iranian Foreign Minister Abbas Araqchi has dismissed threatened US sanctions as a sign of desperation, insisting they will fail to defeat Tehran. The warning comes as the Strait of Hormuz remains effectively blocked, disrupting oil shipments and raising price…",
       "source": "The Times of India",
@@ -166,84 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "United States to unveil ‘toughest sanctions in history’ on Iran",
-      "summary": "Economy already under enormous pressure from international restrictions, while infrastructure bombed repeatedly",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/us/2026/08/23/united-states-to-unveil-toughest-sanctions-in-history-on-iran/",
-      "bloc": "western",
-      "date": "2026-08-23",
-      "datetime": "2026-08-23T18:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Defiant Iran says new sanctions threatened by 'desperate' US will fail",
-      "summary": "Tehran remains defiant ahead of expected US sanctions announcement on Monday as shipping through the Strait of Hormuz remains virtually at a standstill",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/defiant-iran-says-new-sanctions-threatened-by-desperate-us-will-fail-126082300776_1.html",
-      "bloc": "western",
-      "date": "2026-08-23",
-      "datetime": "2026-08-23T17:02:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Administration Claims Massive Oil Flows Through Hormuz But Industry Data Raises Questions",
-      "summary": "U.S. Energy Secretary Chris Wright says the military helped move more than 15 million barrels of oil and petroleum products through the Strait of Hormuz on Tuesday, an extraordinary figure...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/trump-administration-claims-massive-oil-flows-through-hormuz-but-industry-data-raises-questions/",
-      "bloc": "western",
-      "date": "2026-08-22",
-      "datetime": "2026-08-22T15:54:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

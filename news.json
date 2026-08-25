@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-25T12:53:48.280Z",
+  "ts": "2026-08-25T18:43:52.310Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 89,
-    "oilStress": 36,
-    "updatedAt": "2026-08-25T12:53:48.280Z"
+    "oilStress": 34,
+    "updatedAt": "2026-08-25T18:43:52.310Z"
   },
   "items": [
+    {
+      "headline": "China's Xi urges 'diplomatic' Mideast solution in talks with Jordan's king",
+      "summary": "Chinese President Xi Jinping urged a \"diplomatic\" solution to the Middle East crisis as he told the King of Jordan on Aug. 24 that the sovereignty of countries in the region should be respected.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/chinas-xi-urges-diplomatic-mideast-solution-in-talks-with-jordans-king-226004",
+      "bloc": "western",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T13:04:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Israeli army officials accuse Netanyahu of seeking to escalate conflicts to delay elections, report says",
       "summary": "Army officials allege political motive behind escalation Prime Minister Benjamin Netanyahu faces growing accusations from within the Israeli defense establishment that he is deliberately escalating military operations to postpone or disrupt national elections…",
@@ -118,28 +144,80 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Vows ‘Devastating’ Response to US Threat to Cut Off Its Economic Lifelines",
-      "summary": "Iran said on Friday that its response to any new U.S. threats would be \"devastating\" after Washington pledged to impose the toughest financial penalties in history with the aim of toppling the Iranian leadership.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/iran-vows-devastating-response-to-us-threat-to-cut-off-its-economic-lifelines/",
-      "bloc": "western",
-      "date": "2026-08-21",
-      "datetime": "2026-08-21T17:50:34Z",
+      "headline": "US to broaden secondary sanctions to isolate Iran on 'economic D-Day'",
+      "summary": "The United States is set to launch a significant financial offensive against Iran. This move aims to pressure countries to sever economic ties with Tehran. Measures will broaden secondary sanctions on entities maintaining business with Iran. Pakistan's army c…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-to-broaden-secondary-sanctions-to-isolate-iran-on-economic-d-day/articleshow/133473057.cms",
+      "bloc": "regional",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T16:18:58Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran blacklists 45 tankers in Strait of Hormuz, threatens to fine and confiscate cargo",
+      "summary": "Iran blacklisted 45 tankers that purportedly violated its protocols when transiting the Strait of Hormuz, threatening to fine the vessels or confiscate their cargo if they did so again.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/24/us-news/iran-blacklists-45-tankers-in-strait-of-hormuz-threatens-fines-and-confiscated-cargo/",
+      "bloc": "western",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T16:13:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "What to expect as Iran braces for new US economic measures amid war",
+      "summary": "Tehran may count on links with China and others to weather the storm, but average Iranian people will bear the brunt.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war",
+      "bloc": "regional",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T16:02:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -151,110 +229,6 @@
       "bloc": "regional",
       "date": "2026-08-24",
       "datetime": "2026-08-24T10:49:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "UKMTO says tanker struck by unknown projectile off Saudi Arabia's Yanbu",
-      "summary": "A tanker sustained damage from an unknown projectile near Saudi Arabia's Yanbu port.  The vessel experienced a fire on its main deck, but all crew members are safe.  Yanbu serves as Saudi Arabia's primary Red Sea oil export hub.  This incident follows recent …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/ukmto-says-tanker-struck-by-unknown-projectile-off-saudi-arabias-yanbu/articleshow/133459341.cms",
-      "bloc": "regional",
-      "date": "2026-08-24",
-      "datetime": "2026-08-24T09:08:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Brent Sees Another Volatile Month of Trading",
-      "summary": "Brent crude has seen another volatile month of trading, analysts at BMI highlighted.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/brent_sees_another_volatile_month_of_trading-24-aug-2026-184439-article/",
-      "bloc": "western",
-      "date": "2026-08-24",
-      "datetime": "2026-08-24T09:05:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran’s oil shipments to Asia plummet as prices fall ahead of US sanctions",
-      "summary": "The plummeting oil exports could strain Iran's economy, heighten geopolitical tensions, and disrupt global oil supply chains.\nThe post Iran’s oil shipments to Asia plummet as prices fall ahead of US sanctions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-oil-exports-plummet-us-sanctions/",
-      "bloc": "western",
-      "date": "2026-08-24",
-      "datetime": "2026-08-24T07:14:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says new sanctions threatened by 'desperate' US will fail",
-      "summary": "Iranian Foreign Minister Abbas Araqchi has dismissed threatened US sanctions as a sign of desperation, insisting they will fail to defeat Tehran. The warning comes as the Strait of Hormuz remains effectively blocked, disrupting oil shipments and raising price…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-says-new-sanctions-threatened-by-desperate-us-will-fail/articleshow/133448862.cms",
-      "bloc": "regional",
-      "date": "2026-08-24",
-      "datetime": "2026-08-24T00:52:24Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -395,6 +369,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Current price of oil as of August 24, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-24-2026/",
+      "bloc": "western",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T13:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "How Secretary Bessent Is Going Full-Hegseth Retard to No Avail",
       "summary": "Six months after Trumpy & Bibi launched Operation Epic Fury against Iran on February 28th, the so-called kinetic campaign has settled into a costly stalemate, at best. And a de facto military defeat as a practical matter. In fact, what began as another furiou…",
       "source": "Antiwar.com",
@@ -519,6 +519,29 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
+      "summary": "The UK's willingness to share classified missile-production knowledge sets a potentially important precedent.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters",
+      "bloc": "regional",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T15:17:36Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

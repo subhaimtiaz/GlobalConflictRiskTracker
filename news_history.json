@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-25T12:52:43.062Z",
+  "updated": "2026-08-25T18:42:47.097Z",
   "retention_days": 30,
   "items": [
     {
@@ -10948,7 +10948,172 @@
       "_from": "newsapi",
       "first_seen": "2026-08-25T12:52:43.062Z",
       "run_id": "2026-08-25T12:52"
+    },
+    {
+      "headline": "China's Xi urges 'diplomatic' Mideast solution in talks with Jordan's king",
+      "summary": "Chinese President Xi Jinping urged a \"diplomatic\" solution to the Middle East crisis as he told the King of Jordan on Aug. 24 that the sovereignty of countries in the region should be respected.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/chinas-xi-urges-diplomatic-mideast-solution-in-talks-with-jordans-king-226004",
+      "bloc": "western",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T13:04:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-25T18:42:47.097Z",
+      "run_id": "2026-08-25T18:42"
+    },
+    {
+      "headline": "US to broaden secondary sanctions to isolate Iran on 'economic D-Day'",
+      "summary": "The United States is set to launch a significant financial offensive against Iran. This move aims to pressure countries to sever economic ties with Tehran. Measures will broaden secondary sanctions on entities maintaining business with Iran. Pakistan's army c…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-to-broaden-secondary-sanctions-to-isolate-iran-on-economic-d-day/articleshow/133473057.cms",
+      "bloc": "regional",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T16:18:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-25T18:42:47.097Z",
+      "run_id": "2026-08-25T18:42"
+    },
+    {
+      "headline": "Iran blacklists 45 tankers in Strait of Hormuz, threatens to fine and confiscate cargo",
+      "summary": "Iran blacklisted 45 tankers that purportedly violated its protocols when transiting the Strait of Hormuz, threatening to fine the vessels or confiscate their cargo if they did so again.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/24/us-news/iran-blacklists-45-tankers-in-strait-of-hormuz-threatens-fines-and-confiscated-cargo/",
+      "bloc": "western",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T16:13:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-25T18:42:47.097Z",
+      "run_id": "2026-08-25T18:42"
+    },
+    {
+      "headline": "What to expect as Iran braces for new US economic measures amid war",
+      "summary": "Tehran may count on links with China and others to weather the storm, but average Iranian people will bear the brunt.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war",
+      "bloc": "regional",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T16:02:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-25T18:42:47.097Z",
+      "run_id": "2026-08-25T18:42"
+    },
+    {
+      "headline": "Current price of oil as of August 24, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-24-2026/",
+      "bloc": "western",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T13:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-25T18:42:47.097Z",
+      "run_id": "2026-08-25T18:42"
+    },
+    {
+      "headline": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
+      "summary": "The UK's willingness to share classified missile-production knowledge sets a potentially important precedent.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters",
+      "bloc": "regional",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T15:17:36Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-25T18:42:47.097Z",
+      "run_id": "2026-08-25T18:42"
     }
   ],
-  "total_items_ever": 3164
+  "total_items_ever": 3170
 }

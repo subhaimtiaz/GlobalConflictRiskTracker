@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-25T18:43:52.310Z",
+  "ts": "2026-08-26T01:36:17.552Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 89,
-    "oilStress": 34,
-    "updatedAt": "2026-08-25T18:43:52.310Z"
+    "oilPrice": 86,
+    "oilStress": 31,
+    "updatedAt": "2026-08-26T01:36:17.552Z"
   },
   "items": [
     {
@@ -144,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Houthis Target Saudi Oil Tanker in Red Sea Missile and Drone Attack",
+      "summary": "Yemen's Houthis on Monday targeted the Saudi oil tanker Amzan in the Red Sea off Yanbu with a ballistic missile and drones, the Iran-aligned militant group announced. Soon after initial reports emerged, Saudi Arabia confirmed the attack, with Saudi shipping c…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Houthis-Target-Saudi-Oil-Tanker-in-Red-Sea-Missile-and-Drone-Attack.html",
+      "bloc": "western",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T20:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Yemen’s Houthis report attack on Saudi ship",
+      "summary": "Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship",
+      "bloc": "regional",
+      "date": "2026-08-24",
+      "datetime": "2026-08-24T19:44:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "US to broaden secondary sanctions to isolate Iran on 'economic D-Day'",
       "summary": "The United States is set to launch a significant financial offensive against Iran. This move aims to pressure countries to sever economic ties with Tehran. Measures will broaden secondary sanctions on entities maintaining business with Iran. Pakistan's army c…",
       "source": "The Times of India",
@@ -213,56 +265,6 @@
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation",
-      "summary": "Iran has blacklisted forty-five tankers for violating its Strait of Hormuz transit rules.  The Persian Gulf Strait Authority announced these vessels face fines and confiscation.  This action escalates threats over the key waterway six months into the ongoing …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-threatens-45-tankers-with-fines-confiscation-in-hormuz-escalation/articleshow/133461996.cms",
-      "bloc": "regional",
-      "date": "2026-08-24",
-      "datetime": "2026-08-24T10:49:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Empire Envy and Forked Tongues: How Washington Talks Itself Into War — Part 2",
-      "summary": "In my conversation with Claude provoked by an essay in Foreign Affairs analyzing the phenomenon of Washington’s addiction to foreign wars, we got to the point at which Claude pointed to a fundamental structural problem. The deeper diagnosis your Empire Envy f…",
-      "source": "Fair Observer",
-      "url": "https://www.fairobserver.com/politics/empire-envy-and-forked-tongues-how-washington-talks-itself-into-war-part-2/",
-      "bloc": "western",
-      "date": "2026-08-18",
-      "datetime": "2026-08-18T13:19:09Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Trump Iran war"
-      ],
-      "dimensions": [
-        "accountability",
         "impulsivity"
       ],
       "variable_key": null,
@@ -473,31 +475,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Donald Trump orders envoys to halt all negotiations with Iran",
-      "summary": "The halt in US-Iran negotiations heightens geopolitical tensions, potentially destabilizing global oil markets and impacting energy security.\nThe post Donald Trump orders envoys to halt all negotiations with Iran appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-halts-iran-negotiations/",
-      "bloc": "western",
-      "date": "2026-08-18",
-      "datetime": "2026-08-18T22:27:05Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "In 1945, number of Japanese people survived World War 2 U.S. nuclear bombings of Hiroshima, Nagasaki, after 81 long years Nobel Peace Prize winning group of survivors fears worst. Here's why",
       "summary": "New ​START was signed in 2010 by U.S. President Barack Obama and Dmitry Medvedev, an ally of Vladimir Putin who served a ⁠single term as Russia's president. At the time, relations between the two countries were undergoing a \"reset\". The treaty came into force…",
       "source": "The Times of India",
@@ -599,29 +576,6 @@
       "bloc": "western",
       "date": "2026-08-19",
       "datetime": "2026-08-19T14:30:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
-      "summary": "The Iran-aligned Houthi group on Tuesday claimed it had targeted Saudi Aramco’s Jazan oil refinery on Red Sea coast in southwest Saudi Arabia, in what was the third Houthi attack at the facility in the past two weeks, amid escalating hostilities in the region…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Third-Attack-on-Saudi-Aramco-Refinery-in-Two-Weeks.html",
-      "bloc": "western",
-      "date": "2026-08-18",
-      "datetime": "2026-08-18T10:30:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

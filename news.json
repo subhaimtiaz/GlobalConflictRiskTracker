@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-26T06:55:55.193Z",
+  "ts": "2026-08-26T12:59:22.813Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 87,
-    "oilStress": 31,
-    "updatedAt": "2026-08-26T06:55:55.193Z"
+    "oilPrice": 86,
+    "oilStress": 30,
+    "updatedAt": "2026-08-26T12:59:22.813Z"
   },
   "items": [
+    {
+      "headline": "Tuesday: Hili dialogue",
+      "summary": "Welcome to The Cruelest Day: Tuesday, August 25, 2026, and it’s Back to School Time. I’m already in school, but no longer filled with dread in this season like I was all the way through college. It’s National Banana Split Day,  celebrating a huge treat from m…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/08/25/tuesday-hili-dialogue-594/",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T11:45:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "14 Possible Causes For An Upcoming WW3",
+      "summary": "When thinking about bleak scenarios for the future, it is always important to hope for the best, while preparing for the worst. As such, there are plenty of scenarios that could lead humanity into a third World War, but where said conflict would take place sh…",
+      "source": "Den of Geek US",
+      "url": "http://www.denofgeek.com/msn/14-possible-causes-for-an-upcoming-ww3/",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T10:45:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "China's Xi urges 'diplomatic' Mideast solution in talks with Jordan's king",
       "summary": "Chinese President Xi Jinping urged a \"diplomatic\" solution to the Middle East crisis as he told the King of Jordan on Aug. 24 that the sovereignty of countries in the region should be respected.",
@@ -92,54 +144,80 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Heads Into Midterms Short On Foreign Policy Wins",
-      "summary": "The setbacks are striking for a president who returned to office last year promising to be a “peacemaker.”",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-midterms-foreign-policy_n_6a8a12a6e4b0313bf9e5f9e9",
+      "headline": "Iran defiant in face of new U.S. sanctions, promises to respond forcefully",
+      "summary": "Iran pledged to fight back against expanded U.S. sanctions aimed at isolating its economy, expressing confidence that major ‌trading partners would resist Washington's pressure campaign.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/us-iran-war-179-9.7319301",
       "bloc": "western",
-      "date": "2026-08-22",
-      "datetime": "2026-08-22T21:28:47Z",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T12:23:16Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Undersea Infrastructure : A Weak Spot For National Security",
+      "summary": "Undersea infrastructure, mostly telecommunications cables and energy pipelines, are foundations of the modern economy. This infrastructure is under attack.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/arielcohen/2026/08/25/undersea-infrastructure--a-weak-spot-for-national-security/",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Washington Eases Gasoline Rules as Iran Pressure Campaign Jolts Fuel Costs",
-      "summary": "Washington is tightening economic pressure on Iran while loosening domestic gasoline rules as U.S. drivers face pump prices above $4 a gallon, according to a report. The Environmental Protection Agency on Thursday authorized an early switch to winter-grade ga…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-22-washington-eases-gasoline-rules-iran-pressure-campaign.html",
+      "headline": "Iran War: Bessent’s “The Nigger Gets It” Iran Sanctions Strategy as His Ex-Boss Druckenmiller Trashes His New Treasury Scheme; Iran Hits US Escorted Tanker as Strait of Hormuz Transits Fall Further",
+      "summary": "Today's Iran war news: Even more Trump Administration flailing about in the form of Bessent's Operation Economic Outcast.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-bessents-the-nigger-gets-it-iran-sanctions-strategy-as-his-ex-boss-druckenmiller-trashes-his-new-treasury-scheme-iran-hits-us-escorted-tanker-as-strait-of-hormuz-transits-fall-furthe.html",
       "bloc": "western",
-      "date": "2026-08-22",
-      "datetime": "2026-08-22T06:00:00Z",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T10:57:51Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -151,110 +229,6 @@
       "bloc": "western",
       "date": "2026-08-25",
       "datetime": "2026-08-25T04:51:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthis Target Saudi Oil Tanker in Red Sea Missile and Drone Attack",
-      "summary": "Yemen's Houthis on Monday targeted the Saudi oil tanker Amzan in the Red Sea off Yanbu with a ballistic missile and drones, the Iran-aligned militant group announced. Soon after initial reports emerged, Saudi Arabia confirmed the attack, with Saudi shipping c…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/Houthis-Target-Saudi-Oil-Tanker-in-Red-Sea-Missile-and-Drone-Attack.html",
-      "bloc": "western",
-      "date": "2026-08-24",
-      "datetime": "2026-08-24T20:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Yemen’s Houthis report attack on Saudi ship",
-      "summary": "Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship",
-      "bloc": "regional",
-      "date": "2026-08-24",
-      "datetime": "2026-08-24T19:44:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US to broaden secondary sanctions to isolate Iran on 'economic D-Day'",
-      "summary": "The United States is set to launch a significant financial offensive against Iran. This move aims to pressure countries to sever economic ties with Tehran. Measures will broaden secondary sanctions on entities maintaining business with Iran. Pakistan's army c…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-to-broaden-secondary-sanctions-to-isolate-iran-on-economic-d-day/articleshow/133473057.cms",
-      "bloc": "regional",
-      "date": "2026-08-24",
-      "datetime": "2026-08-24T16:18:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran blacklists 45 tankers in Strait of Hormuz, threatens to fine and confiscate cargo",
-      "summary": "Iran blacklisted 45 tankers that purportedly violated its protocols when transiting the Strait of Hormuz, threatening to fine the vessels or confiscate their cargo if they did so again.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/24/us-news/iran-blacklists-45-tankers-in-strait-of-hormuz-threatens-fines-and-confiscated-cargo/",
-      "bloc": "western",
-      "date": "2026-08-24",
-      "datetime": "2026-08-24T16:13:43Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

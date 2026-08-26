@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-26T12:59:22.813Z",
+  "ts": "2026-08-26T19:51:13.309Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 86,
-    "oilStress": 30,
-    "updatedAt": "2026-08-26T12:59:22.813Z"
+    "oilPrice": 88,
+    "oilStress": 33,
+    "updatedAt": "2026-08-26T19:51:13.309Z"
   },
   "items": [
     {
@@ -144,6 +144,84 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran Vows to Resist Widened U.S. Sanctions, Says Washington Seeks Talks",
+      "summary": "Iran pledged to fight back against expanded U.S. sanctions aimed at isolating its economy, expressing confidence that major trading partners would resist the pressure campaign and saying that Washington was keen to revive talks.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-vows-to-resist-widened-u-s-sanctions-says-washington-seeks-talks/",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T18:29:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Prices Fall as Iran Negotiation Hopes Return",
+      "summary": "U.S. sanctions pressure on Iran intensifies, but Pakistani mediation hopes push Brent back to $89. US Blockade Leaves Iran’s Oil Trade on Borrowed Time - The announcement of the Trump administration’s ‘Economic D-Day’ sanctions on Iran coincides with an overa…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Fall-as-Iran-Negotiation-Hopes-Return.html",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T15:53:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Houthi strikes threaten to pull Yemen back into full-scale war",
+      "summary": "The Iran-backed Houthis are using regional warfare to increase pressure on Saudi Arabia, while their attacks risk reopening Yemen's own conflict and disrupting shipping in the Red Sea. Yemen is increasingly at risk of backsliding into full-scale conflict. On …",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T15:31:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran defiant in face of new U.S. sanctions, promises to respond forcefully",
       "summary": "Iran pledged to fight back against expanded U.S. sanctions aimed at isolating its economy, expressing confidence that major ‌trading partners would resist Washington's pressure campaign.",
       "source": "CBC News",
@@ -196,54 +274,26 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War: Bessent’s “The Nigger Gets It” Iran Sanctions Strategy as His Ex-Boss Druckenmiller Trashes His New Treasury Scheme; Iran Hits US Escorted Tanker as Strait of Hormuz Transits Fall Further",
-      "summary": "Today's Iran war news: Even more Trump Administration flailing about in the form of Bessent's Operation Economic Outcast.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-bessents-the-nigger-gets-it-iran-sanctions-strategy-as-his-ex-boss-druckenmiller-trashes-his-new-treasury-scheme-iran-hits-us-escorted-tanker-as-strait-of-hormuz-transits-fall-furthe.html",
+      "headline": "We’re Half a Year Into Trump’s War on Iran. Congress Has Tools to End It.",
+      "summary": "The clash over whether the US has a functioning constitutional process for starting and ending wars is coming to a head.",
+      "source": "Truthout",
+      "url": "https://truthout.org/articles/were-half-a-year-into-trumps-war-on-iran-congress-has-tools-to-end-it/",
       "bloc": "western",
       "date": "2026-08-25",
-      "datetime": "2026-08-25T10:57:51Z",
+      "datetime": "2026-08-25T18:45:37Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Trump Iran war"
       ],
       "dimensions": [
-        "survival",
+        "accountability",
         "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "“Let no one test our resolve”: The US ultimatum to Iran’s partners and the threat of expulsion from the Dollar",
-      "summary": "New barrage of U.S. sanctions targeting gold, technology, digital resources, aviation and maritime transport is being prepared — Tehran promises Washington a “new defeat”\nThe post “Let no one test our resolve”: The US ultimatum to Iran’s partners and the thre…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/08/25/let-no-one-test-our-resolve-the-us-ultimatum-to-irans-partners-and-the-threat-of-expulsion-from-the-dollar/",
-      "bloc": "western",
-      "date": "2026-08-25",
-      "datetime": "2026-08-25T04:51:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -469,6 +519,29 @@
       ],
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
+      "summary": "Ukraine hits Russia's Afipsky oil refinery and gas plant in latest attacks targeting energy infrastructure.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack",
+      "bloc": "regional",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T13:10:24Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
       "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-26T12:58:17.663Z",
+  "updated": "2026-08-26T19:50:08.044Z",
   "retention_days": 30,
   "items": [
     {
@@ -10973,7 +10973,142 @@
       "_from": "newsapi",
       "first_seen": "2026-08-26T12:58:17.663Z",
       "run_id": "2026-08-26T12:58"
+    },
+    {
+      "headline": "Iran Vows to Resist Widened U.S. Sanctions, Says Washington Seeks Talks",
+      "summary": "Iran pledged to fight back against expanded U.S. sanctions aimed at isolating its economy, expressing confidence that major trading partners would resist the pressure campaign and saying that Washington was keen to revive talks.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-vows-to-resist-widened-u-s-sanctions-says-washington-seeks-talks/",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T18:29:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-26T19:50:08.044Z",
+      "run_id": "2026-08-26T19:50"
+    },
+    {
+      "headline": "Oil Prices Fall as Iran Negotiation Hopes Return",
+      "summary": "U.S. sanctions pressure on Iran intensifies, but Pakistani mediation hopes push Brent back to $89. US Blockade Leaves Iran’s Oil Trade on Borrowed Time - The announcement of the Trump administration’s ‘Economic D-Day’ sanctions on Iran coincides with an overa…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Fall-as-Iran-Negotiation-Hopes-Return.html",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T15:53:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-26T19:50:08.044Z",
+      "run_id": "2026-08-26T19:50"
+    },
+    {
+      "headline": "Houthi strikes threaten to pull Yemen back into full-scale war",
+      "summary": "The Iran-backed Houthis are using regional warfare to increase pressure on Saudi Arabia, while their attacks risk reopening Yemen's own conflict and disrupting shipping in the Red Sea. Yemen is increasingly at risk of backsliding into full-scale conflict. On …",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T15:31:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-26T19:50:08.044Z",
+      "run_id": "2026-08-26T19:50"
+    },
+    {
+      "headline": "We’re Half a Year Into Trump’s War on Iran. Congress Has Tools to End It.",
+      "summary": "The clash over whether the US has a functioning constitutional process for starting and ending wars is coming to a head.",
+      "source": "Truthout",
+      "url": "https://truthout.org/articles/were-half-a-year-into-trumps-war-on-iran-congress-has-tools-to-end-it/",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T18:45:37Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "Trump Iran war"
+      ],
+      "dimensions": [
+        "accountability",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-26T19:50:08.044Z",
+      "run_id": "2026-08-26T19:50"
+    },
+    {
+      "headline": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
+      "summary": "Ukraine hits Russia's Afipsky oil refinery and gas plant in latest attacks targeting energy infrastructure.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack",
+      "bloc": "regional",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T13:10:24Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-26T19:50:08.044Z",
+      "run_id": "2026-08-26T19:50"
     }
   ],
-  "total_items_ever": 3179
+  "total_items_ever": 3184
 }

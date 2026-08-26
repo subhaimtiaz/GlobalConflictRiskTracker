@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-26T01:35:12.393Z",
+  "updated": "2026-08-26T06:54:49.999Z",
   "retention_days": 30,
   "items": [
     {
@@ -10777,7 +10777,63 @@
       "_from": "newsapi",
       "first_seen": "2026-08-26T01:35:12.392Z",
       "run_id": "2026-08-26T01:35"
+    },
+    {
+      "headline": "“Let no one test our resolve”: The US ultimatum to Iran’s partners and the threat of expulsion from the Dollar",
+      "summary": "New barrage of U.S. sanctions targeting gold, technology, digital resources, aviation and maritime transport is being prepared — Tehran promises Washington a “new defeat”\nThe post “Let no one test our resolve”: The US ultimatum to Iran’s partners and the thre…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/08/25/let-no-one-test-our-resolve-the-us-ultimatum-to-irans-partners-and-the-threat-of-expulsion-from-the-dollar/",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T04:51:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-26T06:54:49.999Z",
+      "run_id": "2026-08-26T06:54"
+    },
+    {
+      "headline": "India bonds may edge up as oil remains steady despite US sanctions on Iran",
+      "summary": "India bonds may rise slightly as oil prices stabilize amid US sanctions on Iran, with yields expected between 6.84% and 6.87%.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/india-bonds-may-edge-up-as-oil-remains-steady-despite-us-sanctions-on-iran/article71387192.ece",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T03:54:30Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-26T06:54:49.999Z",
+      "run_id": "2026-08-26T06:54"
     }
   ],
-  "total_items_ever": 3172
+  "total_items_ever": 3174
 }

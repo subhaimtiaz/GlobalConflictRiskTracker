@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-26T01:36:17.552Z",
+  "ts": "2026-08-26T06:55:55.193Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 86,
+    "oilPrice": 87,
     "oilStress": 31,
-    "updatedAt": "2026-08-26T01:36:17.552Z"
+    "updatedAt": "2026-08-26T06:55:55.193Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "“Let no one test our resolve”: The US ultimatum to Iran’s partners and the threat of expulsion from the Dollar",
+      "summary": "New barrage of U.S. sanctions targeting gold, technology, digital resources, aviation and maritime transport is being prepared — Tehran promises Washington a “new defeat”\nThe post “Let no one test our resolve”: The US ultimatum to Iran’s partners and the thre…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/08/25/let-no-one-test-our-resolve-the-us-ultimatum-to-irans-partners-and-the-threat-of-expulsion-from-the-dollar/",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T04:51:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Houthis Target Saudi Oil Tanker in Red Sea Missile and Drone Attack",
       "summary": "Yemen's Houthis on Monday targeted the Saudi oil tanker Amzan in the Red Sea off Yanbu with a ballistic missile and drones, the Iran-aligned militant group announced. Soon after initial reports emerged, Saudi Arabia confirmed the attack, with Saudi shipping c…",
       "source": "OilPrice.com",
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "What to expect as Iran braces for new US economic measures amid war",
-      "summary": "Tehran may count on links with China and others to weather the storm, but average Iranian people will bear the brunt.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war",
-      "bloc": "regional",
-      "date": "2026-08-24",
-      "datetime": "2026-08-24T16:02:50Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "What happens when interceptor missiles run out? The growing shortage is causing panic in Ukraine and elsewhere",
       "summary": "Residents of Kyiv are sleeping once again in overcrowded metro stations or in cars in underground garages. Above, the air war is turning into a turkey-shoot. Russia is bombarding the city with ever more ballistic and hypersonic missiles. Ukraine, which had pr…",
       "source": "Freerepublic.com",
@@ -371,6 +371,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "India bonds may edge up as oil remains steady despite US sanctions on Iran",
+      "summary": "India bonds may rise slightly as oil prices stabilize amid US sanctions on Iran, with yields expected between 6.84% and 6.87%.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/india-bonds-may-edge-up-as-oil-remains-steady-despite-us-sanctions-on-iran/article71387192.ece",
+      "bloc": "western",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T03:54:30Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Current price of oil as of August 24, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
       "source": "Fortune",
@@ -430,32 +456,6 @@
       "bloc": "western",
       "date": "2026-08-19",
       "datetime": "2026-08-19T11:56:36Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Indian markets decline for seventh straight session; Nifty loses 2.1% in seven days",
-      "summary": "Sensex, Nifty, Share Prices Highlights: Indian equities extended their losing streak on Wednesday as surging crude oil prices and rising global bond yields weakened risk appetite, with the Nifty 50 posting its longest run of daily losses in 11 months.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-19th-august-2026/article71360276.ece",
-      "bloc": "western",
-      "date": "2026-08-19",
-      "datetime": "2026-08-19T10:33:24Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

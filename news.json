@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-27T08:22:04.973Z",
+  "ts": "2026-08-27T22:01:27.115Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 87,
-    "oilStress": 32,
-    "updatedAt": "2026-08-27T08:22:04.973Z"
+    "oilPrice": 90,
+    "oilStress": 36,
+    "updatedAt": "2026-08-27T22:01:27.115Z"
   },
   "items": [
+    {
+      "headline": "Iran and Oman reportedly still working on Strait of Hormuz accord",
+      "summary": "Iran and Oman have held on-and-off talks for weeks about controlling traffic through the strait, ‌which handled one-fifth of global oil and liquefied natural gas shipments before the war began in Feb",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/iran-and-oman-reportedly-still-working-on-strait-of-hormuz-accord-126082601395_1.html",
+      "bloc": "western",
+      "date": "2026-08-26",
+      "datetime": "2026-08-26T18:18:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Understanding Iranian Victory",
+      "summary": "Iranian strategic logic and why Tehran believes it has already won against the US.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/understanding-iranian-victory.html",
+      "bloc": "western",
+      "date": "2026-08-26",
+      "datetime": "2026-08-26T09:50:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "TORM plc Q2 2026 Results, Dividend Distribution, and Financial Outlook 2026",
       "summary": "HELLERUP, Denmark, Aug. 26, 2026 /PRNewswire/ -- INSIDE INFORMATION \"We delivered the strongest quarterly results in TORM's history, turning exceptional market conditions into tangible value for our shareholders,\" said Jacob Meldgaard, CEO of TORM, adding: \"S…",
@@ -92,53 +144,79 @@
       "_from": "newsapi"
     },
     {
-      "headline": "14 Possible Causes For An Upcoming WW3",
-      "summary": "When thinking about bleak scenarios for the future, it is always important to hope for the best, while preparing for the worst. As such, there are plenty of scenarios that could lead humanity into a third World War, but where said conflict would take place sh…",
-      "source": "Den of Geek US",
-      "url": "http://www.denofgeek.com/msn/14-possible-causes-for-an-upcoming-ww3/",
+      "headline": "Millions of barrels of Iranian oil sit beyond Trump blockade as he vows ‘zero leakage’",
+      "summary": "Nearly 40 million barrels of Iranian crude sit on tankers near Malaysia, posing a test for Trump's \"zero-leakage\" sanctions campaign against Tehran.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/millions-barrels-iranian-oil-sit-beyond-trump-blockade-vows-zero-leakage",
       "bloc": "western",
-      "date": "2026-08-25",
-      "datetime": "2026-08-25T10:45:00Z",
+      "date": "2026-08-26",
+      "datetime": "2026-08-26T18:23:44Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "China's Xi urges 'diplomatic' Mideast solution in talks with Jordan's king",
-      "summary": "Chinese President Xi Jinping urged a \"diplomatic\" solution to the Middle East crisis as he told the King of Jordan on Aug. 24 that the sovereignty of countries in the region should be respected.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/chinas-xi-urges-diplomatic-mideast-solution-in-talks-with-jordans-king-226004",
-      "bloc": "western",
-      "date": "2026-08-24",
-      "datetime": "2026-08-24T13:04:46Z",
+      "headline": "Iran, Oman agree on temporary Hormuz route: What we know",
+      "summary": "Iran’s deputy foreign minister announced a temporary shipping corridor in the Strait of Hormuz.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know",
+      "bloc": "regional",
+      "date": "2026-08-26",
+      "datetime": "2026-08-26T12:05:09Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Strait of Hormuz: Iran and Oman negotiate a temporary shipping corridor",
+      "summary": "The first organized attempt to restore passage includes mine clearance — Only five vessels passed through on Tuesday, while Brent fell by more than 2%\nThe post Strait of Hormuz: Iran and Oman negotiate a temporary shipping corridor appeared first on ProtoThem…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/08/26/strait-of-hormuz-iran-and-oman-negotiate-a-temporary-shipping-corridor/",
+      "bloc": "western",
+      "date": "2026-08-26",
+      "datetime": "2026-08-26T10:31:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -151,84 +229,6 @@
       "bloc": "western",
       "date": "2026-08-26",
       "datetime": "2026-08-26T00:17:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Vows To Resist Widened U.S. Sanctions Aimed At Isolating Economy",
-      "summary": "Iran described the new measures as “gross lawlessness,” expressing confidence many countries won’t join the pressure campaign.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-vows-resist-us-sanctions_n_6a8e0b51e4b0e34ff061f640",
-      "bloc": "western",
-      "date": "2026-08-25",
-      "datetime": "2026-08-25T22:00:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Vows to Resist Widened U.S. Sanctions, Says Washington Seeks Talks",
-      "summary": "Iran pledged to fight back against expanded U.S. sanctions aimed at isolating its economy, expressing confidence that major trading partners would resist the pressure campaign and saying that Washington was keen to revive talks.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/iran-vows-to-resist-widened-u-s-sanctions-says-washington-seeks-talks/",
-      "bloc": "western",
-      "date": "2026-08-25",
-      "datetime": "2026-08-25T18:29:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Prices Fall as Iran Negotiation Hopes Return",
-      "summary": "U.S. sanctions pressure on Iran intensifies, but Pakistani mediation hopes push Brent back to $89. US Blockade Leaves Iran’s Oil Trade on Borrowed Time - The announcement of the Trump administration’s ‘Economic D-Day’ sanctions on Iran coincides with an overa…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Fall-as-Iran-Negotiation-Hopes-Return.html",
-      "bloc": "western",
-      "date": "2026-08-25",
-      "datetime": "2026-08-25T15:53:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -293,6 +293,30 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "After America: The Causes and Consequences of US Global Decline",
+      "summary": "While Washington’s war with Iran drags on, month after month, without any end in sight, the world is witnessing the very real limits of US global power. As US President Donald Trump lurches repeatedly from threats of devastation to promises of peace, it’s bec…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/politics/after-america-the-causes-and-consequences-of-us-global-decline/",
+      "bloc": "western",
+      "date": "2026-08-26",
+      "datetime": "2026-08-26T13:36:46Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -469,6 +493,31 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ukraine and Our Wildly Reckless Flirtation With a Nuclear War",
+      "summary": "Matt Bivens\n\n\n\nFor the first time in the lifetime of most of us, there are no remaining US-Russian arms control agreements.\r\n\n\r\n\n\nThe post Ukraine and Our Wildly Reckless Flirtation With a Nuclear War appeared first on The Nation.",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/?post_type=article&p=607776",
+      "bloc": "western",
+      "date": "2026-08-26",
+      "datetime": "2026-08-26T09:00:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-27T22:01:27.115Z",
+  "ts": "2026-08-28T10:23:14.691Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 90,
     "oilStress": 36,
-    "updatedAt": "2026-08-27T22:01:27.115Z"
+    "updatedAt": "2026-08-28T10:23:14.691Z"
   },
   "items": [
+    {
+      "headline": "How a 95 percent drop in Hormuz traffic changed global shipping",
+      "summary": "A crisis in one narrow passage has disrupted an industry that carries about 80 percent of the world’s trade.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping",
+      "bloc": "regional",
+      "date": "2026-08-27",
+      "datetime": "2026-08-27T09:29:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran warns of military ship ban in Hormuz under potential deal with Oman",
+      "summary": "Iran and Oman are negotiating arrangements to manage commercial shipping through the Strait of Hormuz, excluding military vessels, as Qatar seeks to de-escalate tensions. The Middle East remains volatile: Israeli strikes challenge Gaza’s ceasefire, Israel dem…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-warns-of-military-ship-ban-in-hormuz-under-potential-deal-with-oman/articleshow/133553454.cms",
+      "bloc": "regional",
+      "date": "2026-08-27",
+      "datetime": "2026-08-27T00:39:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran and Oman reportedly still working on Strait of Hormuz accord",
       "summary": "Iran and Oman have held on-and-off talks for weeks about controlling traffic through the strait, ‌which handled one-fifth of global oil and liquefied natural gas shipments before the war began in Feb",
@@ -92,54 +144,80 @@
       "_from": "newsapi"
     },
     {
-      "headline": "War and Climate Breakdown: We owe Children More",
-      "summary": "Children in Palestine have the right to learn, play and achieve the hopes and ambitions that the war has killed",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/08/climate-breakdown-children.html",
+      "headline": "Iran war reaches costly stalemate after six months as oil markets and global trade absorb the fallout",
+      "summary": "The prolonged conflict exacerbates global economic instability, heightening energy market volatility and complicating diplomatic resolutions.\nThe post Iran war reaches costly stalemate after six months as oil markets and global trade absorb the fallout appear…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-war-stalemate-six-months-oil-impact/",
       "bloc": "western",
-      "date": "2026-08-26",
-      "datetime": "2026-08-26T04:15:33Z",
+      "date": "2026-08-27",
+      "datetime": "2026-08-27T10:09:34Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Tuesday: Hili dialogue",
-      "summary": "Welcome to The Cruelest Day: Tuesday, August 25, 2026, and it’s Back to School Time. I’m already in school, but no longer filled with dread in this season like I was all the way through college. It’s National Banana Split Day,  celebrating a huge treat from m…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/08/25/tuesday-hili-dialogue-594/",
+      "headline": "Iran War: Bloomberg Claims High Oil Flows Through Hormuz as Iran Threatens for Real Closure; Diesel Stress Rises as Canada Oil Exports to Fall Near Term; Investors Diss Bessent Treasury Meddling, Finger Inflation as the Issue",
+      "summary": "Today's Iran war news: Diverging claims on Strait of Hormuz oil transits as Iran vows tight closure and investors trash Bessent Treasury meddling.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-bloomberg-claims-high-oil-flows-through-hormuz-as-iran-threatens-for-real-closure-diesel-stress-rises-as-canada-oil-exports-to-fall-near-term-investors-diss-bessent-treasury-meddling-fing.html",
       "bloc": "western",
-      "date": "2026-08-25",
-      "datetime": "2026-08-25T11:45:14Z",
+      "date": "2026-08-27",
+      "datetime": "2026-08-27T09:10:48Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Tanker attack tests Trump’s claim that Hormuz is a 'functioning strait'",
+      "summary": "An oil tanker was struck by an unidentified projectile in the Strait of Hormuz, keeping alive risks deterring vessesl from the vital energy corridor.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html",
+      "bloc": "western",
+      "date": "2026-08-27",
+      "datetime": "2026-08-27T04:45:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -177,58 +255,6 @@
       "bloc": "regional",
       "date": "2026-08-26",
       "datetime": "2026-08-26T12:05:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz: Iran and Oman negotiate a temporary shipping corridor",
-      "summary": "The first organized attempt to restore passage includes mine clearance — Only five vessels passed through on Tuesday, while Brent fell by more than 2%\nThe post Strait of Hormuz: Iran and Oman negotiate a temporary shipping corridor appeared first on ProtoThem…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/08/26/strait-of-hormuz-iran-and-oman-negotiate-a-temporary-shipping-corridor/",
-      "bloc": "western",
-      "date": "2026-08-26",
-      "datetime": "2026-08-26T10:31:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US naval blockade forces Iranian tankers to anchor off Sri Lanka and Malaysia as crude exports halt",
-      "summary": "The US blockade disrupts global oil markets, heightening geopolitical tensions and economic strain, with potential ripple effects on energy prices.\nThe post US naval blockade forces Iranian tankers to anchor off Sri Lanka and Malaysia as crude exports halt ap…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-naval-blockade-iranian-tankers-sri-lanka/",
-      "bloc": "western",
-      "date": "2026-08-26",
-      "datetime": "2026-08-26T00:17:16Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -345,54 +371,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Taiwan proposes record USD 35B defence budget for 2027 as China's military pressure grows",
-      "summary": "Taiwan plans a record defense budget to counter China's military threats. This significant increase signals intensified efforts to deter potential aggression from Beijing. The proposed budget exceeds three percent of the island's gross domestic product. Taiwa…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/taiwan-proposes-record-usd-35b-defence-budget-for-2027-as-chinas-military-pressure-grows/articleshow/133380567.cms",
-      "bloc": "regional",
-      "date": "2026-08-20",
-      "datetime": "2026-08-20T14:30:56Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why Taiwan and the South China Sea are two sides of the same strategic coin",
-      "summary": "Taiwan and the South China Sea hold significant global trade importance. China claims Taiwan and asserts sovereignty over the South China Sea. Tensions with China persist over these disputed maritime regions. The United States maintains unofficial relations a…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-taiwan-and-the-south-china-sea-are-two-sides-of-the-same-strategic-coin/articleshow/133373753.cms",
-      "bloc": "regional",
-      "date": "2026-08-20",
-      "datetime": "2026-08-20T10:17:58Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "IMF's Georgieva says global economy weathering energy shock, sees fiscal concerns",
       "summary": "By David Lawder WASHINGTON, Aug 25 (Reuters) - The global economy has weathered the Iran war energy shock better than feared, International Monetary Fund Man...",
       "source": "Yahoo Entertainment",
@@ -471,28 +449,52 @@
       "_from": "newsapi"
     },
     {
-      "headline": "How Secretary Bessent Is Going Full-Hegseth Retard to No Avail",
-      "summary": "Six months after Trumpy & Bibi launched Operation Epic Fury against Iran on February 28th, the so-called kinetic campaign has settled into a costly stalemate, at best. And a de facto military defeat as a practical matter. In fact, what began as another furiou…",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/david_stockman/2026/08/19/how-secretary-bessent-is-going-full-hegseth-retard-to-no-avail/",
+      "headline": "Qatari PM to visit Tehran in effort to relaunch mediation",
+      "summary": "Qatar's prime minister will visit Tehran ⁠in an effort to relaunch diplomacy after the US and Iran traded recriminations over Washington's promise to increase economic pressure on Tehran.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/world/2026/0827/1589376-middle-east/",
       "bloc": "western",
-      "date": "2026-08-20",
-      "datetime": "2026-08-20T00:00:11Z",
+      "date": "2026-08-26",
+      "datetime": "2026-08-26T23:35:49Z",
       "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran US diplomacy"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The threat of nuclear weapons is greater than ever. Here’s how international law can help",
+      "summary": "With nuclear stockpiles growing, understanding and applying international law  has become more important than ever.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/the-threat-of-nuclear-weapons-is-greater-than-ever-heres-how-international-law-can-help-290523",
+      "bloc": "western",
+      "date": "2026-08-27",
+      "datetime": "2026-08-27T01:49:12Z",
+      "leaders": [
+        "Vladimir Putin",
         "Donald J. Trump"
       ],
       "watch_terms": [
-        "oil Brent crude"
+        "arms control New"
       ],
       "dimensions": [
-        "survival",
+        "accountability",
         "values"
       ],
-      "variable_key": "oilPrice",
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
-      "escalation": 2,
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -568,31 +570,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "In 1945, number of Japanese people survived World War 2 U.S. nuclear bombings of Hiroshima, Nagasaki, after 81 long years Nobel Peace Prize winning group of survivors fears worst. Here's why",
-      "summary": "New ​START was signed in 2010 by U.S. President Barack Obama and Dmitry Medvedev, an ally of Vladimir Putin who served a ⁠single term as Russia's president. At the time, relations between the two countries were undergoing a \"reset\". The treaty came into force…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/science-news-in-1945-number-of-japanese-people-survived-world-war-2-u-s-nuclear-bombings-of-hiroshima-nagasaki-after-81-long-years-nobel-peace-prize-winning-group-of-survivors-fears-worst-heres-why/articleshow/133379332.cms",
-      "bloc": "regional",
-      "date": "2026-08-20",
-      "datetime": "2026-08-20T13:37:50Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

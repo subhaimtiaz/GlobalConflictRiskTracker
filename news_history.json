@@ -1,592 +1,8 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-28T21:55:27.825Z",
+  "updated": "2026-08-29T06:22:11.836Z",
   "retention_days": 30,
   "items": [
-    {
-      "headline": "The U.S. Says It Thwarted An Iranian Missile Attack That Ended A Brief Pause In Fighting",
-      "summary": "The U.S. military says Iran has launched multiple ballistic missiles at American forces in the Middle East, shattering a brief pause in fighting as mediators tried to get both sides back to negotiations.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_6a694dc7e4b0fddbd7122958",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T00:53:32Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T02:39:03.416Z",
-      "run_id": "2026-07-30T02:39"
-    },
-    {
-      "headline": "US military shoots down Iranian ballistic missiles targeting its Middle East forces",
-      "summary": "US Iran war news: United States forces intercepted an Iranian ballistic missile attack targeting American troops.  US and Saudi Arabia forces then struck Iran-backed militia positions in Iraq.  These actions followed recent drone attacks and military escalati…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-military-shoots-down-iranian-ballistic-missiles-targeting-its-middle-east-forces/articleshow/132697119.cms",
-      "bloc": "regional",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T00:58:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T02:39:03.416Z",
-      "run_id": "2026-07-30T02:39"
-    },
-    {
-      "headline": "US, Saudi forces strike Iran-backed groups in Iraq",
-      "summary": "US and Saudi warplanes carried out strikes on Tuesday against Iran-backed militants in Iraq who launched more than two dozen drone attacks in recent days, the US military said.\nThe post US, Saudi forces strike Iran-backed groups in Iraq appeared first on Vang…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/us-saudi-forces-strike-iran-backed-groups-in-iraq/",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T07:46:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T08:32:17.756Z",
-      "run_id": "2026-07-30T08:32"
-    },
-    {
-      "headline": "Iran to get Chinese shoulder-launched missile systems in weeks: report",
-      "summary": "Iran needs to rearm after months of fighting in which the US and Israel have struck facilities linked to its missile, drone and air-defense programs.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/29/world-news/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks/",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T06:46:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T08:32:17.756Z",
-      "run_id": "2026-07-30T08:32"
-    },
-    {
-      "headline": "Trump Threatens to Seize Frozen Iranian Assets Over Ship Attacks",
-      "summary": "Trump’s Warning President Donald Trump announced on July 24 that the United States will use frozen Iranian assets to cover any damages to ships and cargo resulting from attacks in the Middle East, according to a post on Truth Social. Trump wrote that “from th…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-29-trump-threatens-seize-iranian-assets-ship-attacks.html",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T08:32:17.756Z",
-      "run_id": "2026-07-30T08:32"
-    },
-    {
-      "headline": "Trump Threatens Military Action Against Houthis, Iran Over Tanker Attacks",
-      "summary": "President Donald Trump said in a post on Truth Social on July 23, 2026, that he would target Yemen’s Houthis, officially known as Ansar Allah, and inflict “major military punishment” on Iran if more tankers are attacked in the Red Sea. The statement came afte…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-29-trump-threatens-military-action-against-houthis-iran.html",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T08:32:17.756Z",
-      "run_id": "2026-07-30T08:32"
-    },
-    {
-      "headline": "There Is No Oil Price",
-      "summary": "The Oil Primer, Midstream. Everything between the wellhead and the engine, who owns it, and where the war's money really landed.",
-      "source": "Substack.com",
-      "url": "https://tscsw.substack.com/p/there-is-no-oil-price",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T05:47:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T08:32:17.756Z",
-      "run_id": "2026-07-30T08:32"
-    },
-    {
-      "headline": "Ships transiting via Bab el-Mandeb strait at highest in a week, data shows",
-      "summary": "Thirty-seven commodity ships passed through the Bab el-Mandeb strait on Tuesday, a notable increase.  Only a few vessels transited the Strait of Hormuz, indicating a shift in shipping routes.  Yemen's Houthis claimed missile attacks on a Saudi oil tanker in t…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/ships-transiting-via-bab-el-mandeb-strait-at-highest-in-a-week-data-shows/articleshow/132699846.cms",
-      "bloc": "regional",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T04:12:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T08:32:17.756Z",
-      "run_id": "2026-07-30T08:32"
-    },
-    {
-      "headline": "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
-      "summary": "New law enforcement operations could quickly escalate into a blockade of Taiwan, say analysts.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols",
-      "bloc": "regional",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T05:22:18Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T08:32:17.756Z",
-      "run_id": "2026-07-30T08:32"
-    },
-    {
-      "headline": "Rupee's RBI-spurred rally faces twin headwinds of oil volatility, Fed uncertainty",
-      "summary": "The currency ‌has drawn support over the last three ​sessions from likely intervention by the Reserve Bank ⁠of India, which traders expect will continue to underpin the currency",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupees-rbi-spurred-rally-faces-twin-headwinds-of-oil-volatility-fed-uncertainty/article71279665.ece",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T03:51:59Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T08:32:17.756Z",
-      "run_id": "2026-07-30T08:32"
-    },
-    {
-      "headline": "Iran War: Iran Hits US Base in Jordan After US-Saudi Strike on Iraqi Militia",
-      "summary": "Today's Iran war news. So much for that pause. Iran hit the US base in Jordan because provocation as Netanyahu pushes for bigger US strikes.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-iran-hits-us-base-in-jordan-after-us-saudi-strike-on-iraqi-militia.html",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T09:09:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T14:09:38.814Z",
-      "run_id": "2026-07-30T14:09"
-    },
-    {
-      "headline": "Jordan intercepts Iranian missiles as U.S., Saudi Arabia target militias in Iraq",
-      "summary": "Jordan intercepted missiles launched from Iran early Wednesday, hours after the U.S. military said it knocked down another Iranian barrage launched against American forces in the Middle East, ending a brief pause in fighting between Tehran and Washington.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/iran-us-war-middle-east-9.7288672",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T13:13:53Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T14:09:38.814Z",
-      "run_id": "2026-07-30T14:09"
-    },
-    {
-      "headline": "Houthis consider Red Sea toll for ships in echo of Iran's Strait of Hormuz demands - as oil prices surge 5% and US ceasefire crumbles",
-      "summary": "Yemen's Houthi group is considering imposing fees on commercial ships sailing through the southern Red Sea.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16013591/Houthis-consider-Red-Sea-toll-ships-echo-Irans-Strait-Hormuz-demands-oil-prices-surge-5-US-ceasefire-crumbles.html",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T12:51:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T14:09:38.814Z",
-      "run_id": "2026-07-30T14:09"
-    },
-    {
-      "headline": "Yemen’s Houthis Consider Imposing Fees on Ships Sailing Through Red Sea: Sources",
-      "summary": "Yemen’s Houthi group is considering imposing fees on commercial ships sailing through the southern Red Sea, a week after declaring a naval blockade on Saudi Arabia, regional sources with knowledge of the matter told Reuters. The Iran-aligned Houthis on July …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/07/29/879298.htm",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T12:33:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T14:09:38.814Z",
-      "run_id": "2026-07-30T14:09"
-    },
-    {
-      "headline": "Yemen’s Houthis reportedly considering fees for ships sailing through Red Sea",
-      "summary": "Yemen's Houthi group is considering imposing fees on commercial ships sailing through the southern Red Sea, a week after declaring a naval blockade on Saudi Arabia, sources say.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/29/world-news/yemens-houthis-considering-fees-for-ships-sailing-through-red-sea-sources-say/",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T12:13:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T14:09:38.814Z",
-      "run_id": "2026-07-30T14:09"
-    },
-    {
-      "headline": "Yemen's Houthis considering fees for ships sailing through Red Sea, sources say",
-      "summary": "Yemen's Houthi faction is exploring the potential of levying fees on maritime traffic in the southern Red Sea. This fee proposal emerged from discussions between Iranian officials and Houthi delegates. Interestingly, Chinese vessels are set to be exempt from …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/yemens-houthis-considering-fees-for-ships-sailing-through-red-sea-sources-say/articleshow/132709209.cms",
-      "bloc": "regional",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T10:31:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T14:09:38.814Z",
-      "run_id": "2026-07-30T14:09"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Sensex rises 888 pts to close at 77,654, Nifty ends at 24,250; Hindustan Unilever, Infosys top gainers",
-      "summary": "Sensex Today, Nifty 50 | Stock Market Highlights: Find here all the key highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 29th July 2026.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-29-july-2026/article71276758.ece",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T10:58:52Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T14:09:38.814Z",
-      "run_id": "2026-07-30T14:09"
-    },
-    {
-      "headline": "Trump Keeps Claiming Iran Is Desperate For A Deal Weeks After Explaining Why It's Not",
-      "summary": "The “dealmaker-in-chief” told the world last month how close the economy is to collapse if the Strait of Hormuz remains closed, giving Iran plenty of incentive not to give in.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-iran-not-desperate_n_6a67a8d9e4b00feba846bc96",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T18:04:55Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T19:38:05.637Z",
-      "run_id": "2026-07-30T19:38"
-    },
-    {
-      "headline": "Ships passing through Bab el-Mandeb reach one-week high",
-      "summary": "The number of ships transiting the Bab el-Mandeb Strait on Tuesday reached ​the highest level since July 19, preliminary shipping data showed on...",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/business/economy/ships-passing-through-bab-el-mandeb-reach-one-week-high",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T15:15:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T19:38:05.637Z",
-      "run_id": "2026-07-30T19:38"
-    },
-    {
-      "headline": "China Moves to Lock in a New Edge on Taiwan Before the Next Trump-Xi Summit",
-      "summary": "The China Coast Guard has apparently established a regular presence in the waters east of Taiwan, asserting Beijing’s jurisdictional claim.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/07/china-moves-to-lock-in-a-new-edge-on-taiwan-before-the-next-trump-xi-summit/",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T14:19:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-30T19:38:05.637Z",
-      "run_id": "2026-07-30T19:38"
-    },
-    {
-      "headline": "Trump says US to hit Iran hard",
-      "summary": "US President Donald Trump vowed to hit back hard at Iran after it attacked US bases in Jordan on Wednesday, as the Middle East war reignited and again drew in the Islamic republic's proxies.\nThe post Trump says US to hit Iran hard appeared first on Vanguard N…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/trump-says-us-to-hit-iran-hard-2/",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T22:21:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-31T03:20:15.880Z",
-      "run_id": "2026-07-31T03:20"
-    },
     {
       "headline": "U.S. Launches Strikes On Iranian Targets A Day After It Foiled Missile Attack On American Forces",
       "summary": "The U.S. military says it has completed what it describes as “a heavy wave of strikes against Iran” conducted in response to an earlier Iranian missile attack on a U.S. base in Jordan.",
@@ -595,34 +11,6 @@
       "bloc": "western",
       "date": "2026-07-30",
       "datetime": "2026-07-30T02:35:05Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-07-31T03:20:15.880Z",
-      "run_id": "2026-07-31T03:20"
-    },
-    {
-      "headline": "Brief pause in Iran war ends with new attacks in Iraq and Egypt",
-      "summary": "The brief pause in the war with Iran appears to be over. President Trump used blunt language to threaten Iran with further strikes in response to new Iranian attacks on a U.S. base in Jordan. The war also appears to be spreading, with a new explosion reported…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/brief-pause-in-iran-war-ends-with-new-attacks-in-iraq-and-egypt",
-      "bloc": "western",
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T22:50:10Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -10355,7 +9743,117 @@
       "_from": "newsapi",
       "first_seen": "2026-08-28T21:55:27.825Z",
       "run_id": "2026-08-28T21:55"
+    },
+    {
+      "headline": "U.S. Military Says It Has Cleared Iran’s Mines From Strait of Hormuz Shipping Lanes",
+      "summary": "U.S. Central Command Commander Admiral Brad Cooper says U.S. forces have cleared sea mines laid by Iran from the internationally recognized shipping lanes through the Strait of Hormuz, offering new...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/u-s-military-says-it-has-cleared-irans-mines-from-strait-of-hormuz-shipping-lanes/",
+      "bloc": "western",
+      "date": "2026-08-28",
+      "datetime": "2026-08-28T04:07:19Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-29T06:22:11.835Z",
+      "run_id": "2026-08-29T06:22"
+    },
+    {
+      "headline": "US Central Command clears shipping lanes in Strait of Hormuz as Iranian oil exports remain halted",
+      "summary": "The clearance of the Strait of Hormuz stabilizes global oil trade but escalates US-Iran tensions, risking further regional conflict.\nThe post US Central Command clears shipping lanes in Strait of Hormuz as Iranian oil exports remain halted appeared first on C…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-clears-strait-hormuz-iran-oil-halted/",
+      "bloc": "western",
+      "date": "2026-08-28",
+      "datetime": "2026-08-28T01:14:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-29T06:22:11.836Z",
+      "run_id": "2026-08-29T06:22"
+    },
+    {
+      "headline": "Mediators place renewed focus on reopening Hormuz",
+      "summary": "Iran war mediators have placed ⁠renewed emphasis on reopening the Strait of Hormuz, with Tehran agreeing to draw up a list of conditions to restore normal traffic.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/world/2026/0828/1589513-middle-east-iran/",
+      "bloc": "western",
+      "date": "2026-08-28",
+      "datetime": "2026-08-28T03:30:10Z",
+      "leaders": [
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran US diplomacy"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-29T06:22:11.836Z",
+      "run_id": "2026-08-29T06:22"
+    },
+    {
+      "headline": "Iran war diplomacy shifts focus to reopening Strait of Hormuz",
+      "summary": "The prolonged closure of the Strait of Hormuz underscores the geopolitical leverage Iran holds over global energy markets, impacting global oil supply stability.\nThe post Iran war diplomacy shifts focus to reopening Strait of Hormuz appeared first on Crypto B…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-strait-hormuz-diplomacy-reopening/",
+      "bloc": "western",
+      "date": "2026-08-28",
+      "datetime": "2026-08-28T01:44:59Z",
+      "leaders": [
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran US diplomacy"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-29T06:22:11.836Z",
+      "run_id": "2026-08-29T06:22"
     }
   ],
-  "total_items_ever": 3210
+  "total_items_ever": 3214
 }

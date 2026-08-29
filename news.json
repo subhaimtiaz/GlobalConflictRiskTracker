@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-29T06:23:17.056Z",
+  "ts": "2026-08-29T16:28:08.012Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 88,
     "oilStress": 34,
-    "updatedAt": "2026-08-29T06:23:17.056Z"
+    "updatedAt": "2026-08-29T16:28:08.012Z"
   },
   "items": [
+    {
+      "headline": "Roger Waters, Annie Ernaux Urge Venice Fest Action for Palestine",
+      "summary": "For the second year running, Italian and international artists under the Venice4Palestine banner have called for the Venice film festival to help stop what they describe as a genocide of the Palestinian people.",
+      "source": "Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/roger-waters-annie-ernaux-venice-fest-action-palestine-1236684274/",
+      "bloc": "western",
+      "date": "2026-08-28",
+      "datetime": "2026-08-28T16:14:17Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "After six months of war, what have US, Iran gained and lost?",
+      "summary": "Many of the US president's goals remain unfulfilled, despite claims of victory.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost",
+      "bloc": "regional",
+      "date": "2026-08-28",
+      "datetime": "2026-08-28T12:37:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Nepal’s glacial collapse, Haiti’s latest massacre, and Mladić’s death: The Cheat Sheet",
+      "summary": "Nepal’s glacial collapse, Haiti’s latest massacre, and Mladić’s death: The Cheat Sheet\n\nsofia\n\nFri, 08/28/2026 - 12:38",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/08/28/nepal-glacial-collapse-haiti-massacre-mladics-death-cheat-sheet",
+      "bloc": "western",
+      "date": "2026-08-28",
+      "datetime": "2026-08-28T11:38:26Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: July 2026: Atrocities 1117-1207",
       "summary": "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to …",
@@ -66,79 +144,105 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran warns of military ship ban in Hormuz under potential deal with Oman",
-      "summary": "Iran and Oman are negotiating arrangements to manage commercial shipping through the Strait of Hormuz, excluding military vessels, as Qatar seeks to de-escalate tensions. The Middle East remains volatile: Israeli strikes challenge Gaza’s ceasefire, Israel dem…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-warns-of-military-ship-ban-in-hormuz-under-potential-deal-with-oman/articleshow/133553454.cms",
+      "headline": "Oil Selloff Outruns Reality in Hormuz",
+      "summary": "WTI crude oil futures were trading at $83.51 late Thursday, down $3.13, or 3.61%, for the week. The market opened near the weekly high at $86.57, then broke to $79.62 as traders sold on reports that Iran, Oman and the United States were moving toward a workab…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Selloff-Outruns-Reality-in-Hormuz.html",
+      "bloc": "western",
+      "date": "2026-08-28",
+      "datetime": "2026-08-28T12:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump declares Strait of Hormuz open as commercial traffic tells a different story",
+      "summary": "The disparity between political claims and actual shipping data highlights ongoing geopolitical tensions, impacting global oil markets significantly.\nThe post Trump declares Strait of Hormuz open as commercial traffic tells a different story appeared first on…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-strait-hormuz-open-iran-response/",
+      "bloc": "western",
+      "date": "2026-08-28",
+      "datetime": "2026-08-28T10:28:19Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. says pipelines will make Strait of Hormuz be irrelevant. Energy experts disagree",
+      "summary": "Treasure Secretary Scott Bessent said oil pipelines will make Strait of Hormuz irrelevant in two years. Energy experts say that is unlikely to happen.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
+      "bloc": "western",
+      "date": "2026-08-28",
+      "datetime": "2026-08-28T09:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Six months on, Trump’s Iran strategy is starting to pay off",
+      "summary": "The US has not won the war, but sustained pressure is weakening Tehran and giving Washington a stronger hand.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-trumps-iran-strategy-is-starting-to-pay-off",
       "bloc": "regional",
-      "date": "2026-08-27",
-      "datetime": "2026-08-27T00:39:22Z",
+      "date": "2026-08-28",
+      "datetime": "2026-08-28T06:31:47Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran and Oman reportedly still working on Strait of Hormuz accord",
-      "summary": "Iran and Oman have held on-and-off talks for weeks about controlling traffic through the strait, ‌which handled one-fifth of global oil and liquefied natural gas shipments before the war began in Feb",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/iran-and-oman-reportedly-still-working-on-strait-of-hormuz-accord-126082601395_1.html",
-      "bloc": "western",
-      "date": "2026-08-26",
-      "datetime": "2026-08-26T18:18:43Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Understanding Iranian Victory",
-      "summary": "Iranian strategic logic and why Tehran believes it has already won against the US.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/understanding-iranian-victory.html",
-      "bloc": "western",
-      "date": "2026-08-26",
-      "datetime": "2026-08-26T09:50:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -170,110 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US Central Command clears shipping lanes in Strait of Hormuz as Iranian oil exports remain halted",
-      "summary": "The clearance of the Strait of Hormuz stabilizes global oil trade but escalates US-Iran tensions, risking further regional conflict.\nThe post US Central Command clears shipping lanes in Strait of Hormuz as Iranian oil exports remain halted appeared first on C…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-clears-strait-hormuz-iran-oil-halted/",
-      "bloc": "western",
-      "date": "2026-08-28",
-      "datetime": "2026-08-28T01:14:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "CMB.TECH Q2 Earnings Call Highlights",
-      "summary": "CMB.TECH (NYSE:CMBT) reported second-quarter 2026 net profit of $364.4 million, supported by revenue of more than $700 million and $127 million in gains from...",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-cmbtech-q2-earnings-call-highlights-2026-08-27/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "bloc": "western",
-      "date": "2026-08-27",
-      "datetime": "2026-08-27T15:04:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran war reaches costly stalemate after six months as oil markets and global trade absorb the fallout",
-      "summary": "The prolonged conflict exacerbates global economic instability, heightening energy market volatility and complicating diplomatic resolutions.\nThe post Iran war reaches costly stalemate after six months as oil markets and global trade absorb the fallout appear…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-war-stalemate-six-months-oil-impact/",
-      "bloc": "western",
-      "date": "2026-08-27",
-      "datetime": "2026-08-27T10:09:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Bloomberg Claims High Oil Flows Through Hormuz as Iran Threatens for Real Closure; Diesel Stress Rises as Canada Oil Exports to Fall Near Term; Investors Diss Bessent Treasury Meddling, Finger Inflation as the Issue",
-      "summary": "Today's Iran war news: Diverging claims on Strait of Hormuz oil transits as Iran vows tight closure and investors trash Bessent Treasury meddling.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-bloomberg-claims-high-oil-flows-through-hormuz-as-iran-threatens-for-real-closure-diesel-stress-rises-as-canada-oil-exports-to-fall-near-term-investors-diss-bessent-treasury-meddling-fing.html",
-      "bloc": "western",
-      "date": "2026-08-27",
-      "datetime": "2026-08-27T09:10:48Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "We’re Half a Year Into Trump’s War on Iran. Congress Has Tools to End It.",
       "summary": "The clash over whether the US has a functioning constitutional process for starting and ending wars is coming to a head.",
       "source": "Truthout",
@@ -290,6 +290,31 @@
       "dimensions": [
         "accountability",
         "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Understanding Iranian Victory",
+      "summary": "Iranian strategic logic and why Tehran believes it has already won against the US.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/understanding-iranian-victory.html",
+      "bloc": "western",
+      "date": "2026-08-26",
+      "datetime": "2026-08-26T09:50:03Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -527,7 +552,7 @@
       "headline": "Qatari PM to visit Tehran in effort to relaunch mediation",
       "summary": "Qatar's prime minister will visit Tehran ⁠in an effort to relaunch diplomacy after the US and Iran traded recriminations over Washington's promise to increase economic pressure on Tehran.",
       "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0827/1589376-middle-east/",
+      "url": "https://www.rte.ie/news/world/2026/0827/1589376-iran-middle-east/",
       "bloc": "western",
       "date": "2026-08-26",
       "datetime": "2026-08-26T23:35:49Z",

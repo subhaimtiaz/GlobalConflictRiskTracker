@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-29T16:28:08.012Z",
+  "ts": "2026-08-29T20:41:48.312Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 88,
     "oilStress": 34,
-    "updatedAt": "2026-08-29T16:28:08.012Z"
+    "updatedAt": "2026-08-29T20:41:48.312Z"
   },
   "items": [
+    {
+      "headline": "Iran Urges Countries Not to Implement New U.S. Sanctions as Mediators Focus on Reopening Strait",
+      "summary": "Iran condemned the United States' new economic sanctions on Friday as \"state terrorism,\" while its supreme leader said he was banning acts that could harm \"social cohesion\" amid concern that more financial pain could spark unrest at home.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-urges-countries-not-to-implement-new-u-s-sanctions-as-mediators-focus-on-reopening-strait/",
+      "bloc": "western",
+      "date": "2026-08-28",
+      "datetime": "2026-08-28T19:14:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Roger Waters, Annie Ernaux Urge Venice Fest Action for Palestine",
       "summary": "For the second year running, Italian and international artists under the Venice4Palestine banner have called for the Venice film festival to help stop what they describe as a genocide of the Palestinian people.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-08-27",
       "datetime": "2026-08-27T11:45:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How a 95 percent drop in Hormuz traffic changed global shipping",
-      "summary": "A crisis in one narrow passage has disrupted an industry that carries about 80 percent of the world’s trade.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping",
-      "bloc": "regional",
-      "date": "2026-08-27",
-      "datetime": "2026-08-27T09:29:06Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -294,6 +294,31 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Deal, warning or spy swap? What Russian media are saying about the CIA chief’s Moscow visit",
+      "summary": "Russian media offer competing theories about CIA Director John Ratcliffe’s Moscow visit, from Ukraine talks to NATO warnings and spy swaps Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/russia/644787-cia-chief-moscow-russian-media/",
+      "bloc": "western",
+      "date": "2026-08-28",
+      "datetime": "2026-08-28T19:59:53Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -552,7 +577,7 @@
       "headline": "Qatari PM to visit Tehran in effort to relaunch mediation",
       "summary": "Qatar's prime minister will visit Tehran ⁠in an effort to relaunch diplomacy after the US and Iran traded recriminations over Washington's promise to increase economic pressure on Tehran.",
       "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0827/1589376-iran-middle-east/",
+      "url": "https://www.rte.ie/news/world/2026/0827/1589376-middle-east/",
       "bloc": "western",
       "date": "2026-08-26",
       "datetime": "2026-08-26T23:35:49Z",

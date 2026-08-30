@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-30T11:34:11.899Z",
+  "ts": "2026-08-30T16:21:26.458Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 88,
     "oilStress": 33,
-    "updatedAt": "2026-08-30T11:34:11.899Z"
+    "updatedAt": "2026-08-30T16:21:26.458Z"
   },
   "items": [
     {
@@ -602,7 +602,7 @@
       "headline": "Qatari PM to visit Tehran in effort to relaunch mediation",
       "summary": "Qatar's prime minister will visit Tehran ⁠in an effort to relaunch diplomacy after the US and Iran traded recriminations over Washington's promise to increase economic pressure on Tehran.",
       "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0827/1589376-iran-middle-east/",
+      "url": "https://www.rte.ie/news/world/2026/0827/1589376-middle-east/",
       "bloc": "western",
       "date": "2026-08-26",
       "datetime": "2026-08-26T23:35:49Z",
@@ -620,6 +620,31 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Andrey Belousov: NATO nuclear expansion leaves Russia no choice but to respond",
+      "summary": "The Foreign Ministry’s Ambassador-at-Large says any wider US nuclear mission in Europe would force a military-technical response Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/644810-belousov-nato-russia-response/",
+      "bloc": "western",
+      "date": "2026-08-29",
+      "datetime": "2026-08-29T16:00:18Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -678,31 +703,6 @@
       "summary": "It was considered a major achievement when most countries in the world agreed to ban anti-personnel mines in the 1990s. But given the Russia-Ukraine war, the situation in Europe is changing. Raheela Bibi was outside playing with her siblings when a landmine e…",
       "source": "DW (English)",
       "url": "https://www.dw.com/en/despite-international-bans-landmines-are-back-in-force/a-78501702",
-      "bloc": "western",
-      "date": "2026-08-26",
-      "datetime": "2026-08-26T05:18:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why landmines are back in force despite international bans",
-      "summary": "Russia's war on Ukraine has prompted several European countries to abandon a landmark 1990s landmine treaty. DW examines what is at stake. Raheela Bibi was outside playing with her siblings when a landmine exploded. It was August 2020 and she was 12, living i…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/landmines-landmine-ban-ottawa-treaty/a-78501702",
       "bloc": "western",
       "date": "2026-08-26",
       "datetime": "2026-08-26T05:18:00Z",

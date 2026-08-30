@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-30T11:33:06.710Z",
+  "updated": "2026-08-30T16:20:21.166Z",
   "retention_days": 30,
   "items": [
     {
@@ -9576,7 +9576,34 @@
       "_from": "newsapi",
       "first_seen": "2026-08-30T04:32:28.874Z",
       "run_id": "2026-08-30T04:32"
+    },
+    {
+      "headline": "Andrey Belousov: NATO nuclear expansion leaves Russia no choice but to respond",
+      "summary": "The Foreign Ministry’s Ambassador-at-Large says any wider US nuclear mission in Europe would force a military-technical response Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/644810-belousov-nato-russia-response/",
+      "bloc": "western",
+      "date": "2026-08-29",
+      "datetime": "2026-08-29T16:00:18Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-30T16:20:21.166Z",
+      "run_id": "2026-08-30T16:20"
     }
   ],
-  "total_items_ever": 3224
+  "total_items_ever": 3225
 }

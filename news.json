@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-29T20:41:48.312Z",
+  "ts": "2026-08-30T04:33:34.082Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 88,
-    "oilStress": 34,
-    "updatedAt": "2026-08-29T20:41:48.312Z"
+    "oilStress": 33,
+    "updatedAt": "2026-08-30T04:33:34.082Z"
   },
   "items": [
     {
@@ -290,6 +290,31 @@
       "dimensions": [
         "accountability",
         "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Betrayal by Luke Harding: A colourful, entertaining take on Trump, Russia and Ukraine",
+      "summary": "Interviews with ordinary Ukrainians light up this book’s pages, although it contains a strange fascination with ornithological detail",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/culture/books/review/2026/08/29/betrayal-by-luke-harding-a-colourful-entertaining-take-on-trump-russia-and-ukraine/",
+      "bloc": "western",
+      "date": "2026-08-29",
+      "datetime": "2026-08-29T03:33:00Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -752,29 +777,6 @@
       "bloc": "regional",
       "date": "2026-08-24",
       "datetime": "2026-08-24T15:17:36Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine strikes Russian retail warehouse in wave of drone attacks",
-      "summary": "Ukraine has launched drone attacks targeting a Russian oil refinery and a online retail warehouse, while Russia continues its campaign of missile attacks on Kyiv.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-22/civilians-killed-in-ukrainian-drone-strikes-over-russia-/107067556",
-      "bloc": "western",
-      "date": "2026-08-22",
-      "datetime": "2026-08-22T13:52:25Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

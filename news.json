@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-30T20:47:44.639Z",
+  "ts": "2026-08-31T04:37:28.242Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 88,
-    "oilStress": 33,
-    "updatedAt": "2026-08-30T20:47:44.639Z"
+    "oilPrice": 90,
+    "oilStress": 37,
+    "updatedAt": "2026-08-31T04:37:28.242Z"
   },
   "items": [
+    {
+      "headline": "Iran is spending its way to a stronger military than it had before the war, and preparing for the rematch",
+      "summary": "Iran's military buildup may escalate regional tensions, reducing chances for diplomatic solutions and impacting global market stability.\nThe post Iran is spending its way to a stronger military than it had before the war, and preparing for the rematch appeare…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-is-spending-its-way-to-a-stronger-military-than-it-had-before-the-war-and/",
+      "bloc": "western",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T02:18:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran Urges Countries Not to Implement New U.S. Sanctions as Mediators Focus on Reopening Strait",
       "summary": "Iran condemned the United States' new economic sanctions on Friday as \"state terrorism,\" while its supreme leader said he was banning acts that could harm \"social cohesion\" amid concern that more financial pain could spark unrest at home.",
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: July 2026: Atrocities 1117-1207",
-      "summary": "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to …",
-      "source": "Mcsweeneys.net",
-      "url": "https://www.mcsweeneys.net/articles/july-2026-atrocities-1117-1207",
-      "bloc": "western",
-      "date": "2026-08-27",
-      "datetime": "2026-08-27T11:45:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -404,30 +404,6 @@
       "bloc": "western",
       "date": "2026-08-26",
       "datetime": "2026-08-26T13:36:46Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Dawn of a New Cold War",
-      "summary": "The growing tension between the United States and China boils down to a battle over resources.\nThe post The Dawn of a New Cold War appeared first on The Intercept.",
-      "source": "The Intercept",
-      "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
-      "bloc": "western",
-      "date": "2026-08-23",
-      "datetime": "2026-08-23T10:10:00Z",
       "leaders": [
         "Xi Jinping"
       ],

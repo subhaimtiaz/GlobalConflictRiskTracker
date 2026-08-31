@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-31T04:37:28.242Z",
+  "ts": "2026-08-31T13:08:13.262Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 90,
-    "oilStress": 37,
-    "updatedAt": "2026-08-31T04:37:28.242Z"
+    "oilPrice": 91,
+    "oilStress": 38,
+    "updatedAt": "2026-08-31T13:08:13.262Z"
   },
   "items": [
+    {
+      "headline": "Sunday: Hili dialogue",
+      "summary": "Welcome to Sunday, August 30, 2026: Sabbath for goyische cats and the sixth weekiversary since Miss Duck and her brood came to Botany Pond. Here are the babies on July 20, the second day after they came to the pond (they presumably hatched one day before Pond…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/08/30/sunday-hili-dialogue-601/",
+      "bloc": "western",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T11:45:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Report: U.S. Shifts from Military Strikes to Economic Warfare Against Iran",
+      "summary": "The U.S. is not expected to launch new military attacks on Iran and will instead focus on economic warfare, according to a report by The Cradle. The report, citing unnamed officials, states that the shift in strategy comes after recent exchanges and aims to p…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-30-us-shifts-military-strikes-economic-warfare-iran.html",
+      "bloc": "western",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran is spending its way to a stronger military than it had before the war, and preparing for the rematch",
       "summary": "Iran's military buildup may escalate regional tensions, reducing chances for diplomatic solutions and impacting global market stability.\nThe post Iran is spending its way to a stronger military than it had before the war, and preparing for the rematch appeare…",
@@ -88,58 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "After six months of war, what have US, Iran gained and lost?",
-      "summary": "Many of the US president's goals remain unfulfilled, despite claims of victory.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost",
-      "bloc": "regional",
-      "date": "2026-08-28",
-      "datetime": "2026-08-28T12:37:10Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Nepal’s glacial collapse, Haiti’s latest massacre, and Mladić’s death: The Cheat Sheet",
-      "summary": "Nepal’s glacial collapse, Haiti’s latest massacre, and Mladić’s death: The Cheat Sheet\n\nsofia\n\nFri, 08/28/2026 - 12:38",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/news/2026/08/28/nepal-glacial-collapse-haiti-massacre-mladics-death-cheat-sheet",
-      "bloc": "western",
-      "date": "2026-08-28",
-      "datetime": "2026-08-28T11:38:26Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -578,7 +578,7 @@
       "headline": "Qatari PM to visit Tehran in effort to relaunch mediation",
       "summary": "Qatar's prime minister will visit Tehran ⁠in an effort to relaunch diplomacy after the US and Iran traded recriminations over Washington's promise to increase economic pressure on Tehran.",
       "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0827/1589376-middle-east/",
+      "url": "https://www.rte.ie/news/world/2026/0827/1589376-iran-middle-east/",
       "bloc": "western",
       "date": "2026-08-26",
       "datetime": "2026-08-26T23:35:49Z",
@@ -596,6 +596,31 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Nuclear Safeguards Are Gone – Former Canadian Foreign Minister Pt. 1/2",
+      "summary": "Lloyd Axworthy, the former Canadian Foreign Minister who led the campaign to ban landmines, traces how the memory of nuclear danger has faded even as more countries flirt with joining the club.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/nuclear-safeguards-are-gone-former-canadian-foreign-minister-pt-1-2.html",
+      "bloc": "western",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T10:00:33Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -675,27 +700,48 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Despite international bans, landmines are back in force",
-      "summary": "It was considered a major achievement when most countries in the world agreed to ban anti-personnel mines in the 1990s. But given the Russia-Ukraine war, the situation in Europe is changing. Raheela Bibi was outside playing with her siblings when a landmine e…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/despite-international-bans-landmines-are-back-in-force/a-78501702",
+      "headline": "Russia says preparing ‘massive strikes’ on Ukraine’s energy sector",
+      "summary": "Russia’s Defense Ministry said on Aug. 30 that it was gearing up for large-scale attacks on Ukraine’s energy infrastructure in a tit-for-tat response to strikes by Kiev.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/russia-says-preparing-massive-strikes-on-ukraines-energy-sector-226223",
       "bloc": "western",
-      "date": "2026-08-26",
-      "datetime": "2026-08-26T05:18:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T09:13:39Z",
+      "leaders": [],
       "watch_terms": [
-        "arms control New"
+        "oil refinery port"
       ],
       "dimensions": [
-        "accountability",
-        "values"
+        "survival",
+        "impulsivity",
+        "accountability"
       ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
+      "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil",
+      "bloc": "regional",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T05:09:11Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

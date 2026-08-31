@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-08-31T04:36:23.061Z",
+  "updated": "2026-08-31T13:07:08.011Z",
   "retention_days": 30,
   "items": [
     {
@@ -9219,7 +9219,112 @@
       "_from": "newsapi",
       "first_seen": "2026-08-31T04:36:23.061Z",
       "run_id": "2026-08-31T04:36"
+    },
+    {
+      "headline": "Report: U.S. Shifts from Military Strikes to Economic Warfare Against Iran",
+      "summary": "The U.S. is not expected to launch new military attacks on Iran and will instead focus on economic warfare, according to a report by The Cradle. The report, citing unnamed officials, states that the shift in strategy comes after recent exchanges and aims to p…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-30-us-shifts-military-strikes-economic-warfare-iran.html",
+      "bloc": "western",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-31T13:07:08.011Z",
+      "run_id": "2026-08-31T13:07"
+    },
+    {
+      "headline": "Nuclear Safeguards Are Gone – Former Canadian Foreign Minister Pt. 1/2",
+      "summary": "Lloyd Axworthy, the former Canadian Foreign Minister who led the campaign to ban landmines, traces how the memory of nuclear danger has faded even as more countries flirt with joining the club.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/nuclear-safeguards-are-gone-former-canadian-foreign-minister-pt-1-2.html",
+      "bloc": "western",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T10:00:33Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-31T13:07:08.011Z",
+      "run_id": "2026-08-31T13:07"
+    },
+    {
+      "headline": "Russia says preparing ‘massive strikes’ on Ukraine’s energy sector",
+      "summary": "Russia’s Defense Ministry said on Aug. 30 that it was gearing up for large-scale attacks on Ukraine’s energy infrastructure in a tit-for-tat response to strikes by Kiev.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/russia-says-preparing-massive-strikes-on-ukraines-energy-sector-226223",
+      "bloc": "western",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T09:13:39Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-31T13:07:08.011Z",
+      "run_id": "2026-08-31T13:07"
+    },
+    {
+      "headline": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
+      "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil",
+      "bloc": "regional",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T05:09:11Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-08-31T13:07:08.011Z",
+      "run_id": "2026-08-31T13:07"
     }
   ],
-  "total_items_ever": 3226
+  "total_items_ever": 3230
 }

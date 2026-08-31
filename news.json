@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-31T13:08:13.262Z",
+  "ts": "2026-08-31T22:40:22.886Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 91,
     "oilStress": 38,
-    "updatedAt": "2026-08-31T13:08:13.262Z"
+    "updatedAt": "2026-08-31T22:40:22.886Z"
   },
   "items": [
+    {
+      "headline": "Why Qatar Ordered KC-46A Refueling Aircraft For Its Western Air Force",
+      "summary": "Doha will unlikely receive any of these aircraft for at least a few years. Nevertheless, one can already reasonably speculate why it opted to buy them now.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/pauliddon/2026/08/30/why-qatar-ordered-kc-46a-refueling-aircraft-for-its-western-air-force/",
+      "bloc": "western",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T16:58:19Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Sunday: Hili dialogue",
       "summary": "Welcome to Sunday, August 30, 2026: Sabbath for goyische cats and the sixth weekiversary since Miss Duck and her brood came to Botany Pond. Here are the babies on July 20, the second day after they came to the pond (they presumably hatched one day before Pond…",
@@ -118,28 +144,80 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Roger Waters, Annie Ernaux Urge Venice Fest Action for Palestine",
-      "summary": "For the second year running, Italian and international artists under the Venice4Palestine banner have called for the Venice film festival to help stop what they describe as a genocide of the Palestinian people.",
-      "source": "Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/roger-waters-annie-ernaux-venice-fest-action-palestine-1236684274/",
+      "headline": "U.S. Forces Strike Iranian Rocket Launchers On The Strait Of Hormuz In First Military Action In Weeks",
+      "summary": "A U.S. officials says that U.S. forces have struck Iranian rocket launchers on the Strait of Hormuz in the first military action in a month.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/us-forces-strike-iranian-rocket-launchers-strait-hormuz_n_6a948d4fe4b0e9dbd39bcf91",
       "bloc": "western",
-      "date": "2026-08-28",
-      "datetime": "2026-08-28T16:14:17Z",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T21:46:29Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po",
+      "bloc": "western",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T21:15:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US strikes IRGC positions as forces prepare to launch sea mines into Strait of Hormuz",
+      "summary": "US forces struck IRGC positions preparing to launch sea mine-armed rockets at the Strait of Hormuz, escalating a months-long confrontation over\nThe post US strikes IRGC positions as forces prepare to launch sea mines into Strait of Hormuz appeared first on Cr…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-strikes-iranian-launchers-strait-hormuz/",
+      "bloc": "western",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T19:44:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -177,84 +255,6 @@
       "bloc": "western",
       "date": "2026-08-28",
       "datetime": "2026-08-28T10:28:19Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. says pipelines will make Strait of Hormuz be irrelevant. Energy experts disagree",
-      "summary": "Treasure Secretary Scott Bessent said oil pipelines will make Strait of Hormuz irrelevant in two years. Energy experts say that is unlikely to happen.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
-      "bloc": "western",
-      "date": "2026-08-28",
-      "datetime": "2026-08-28T09:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Six months on, Trump’s Iran strategy is starting to pay off",
-      "summary": "The US has not won the war, but sustained pressure is weakening Tehran and giving Washington a stronger hand.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-trumps-iran-strategy-is-starting-to-pay-off",
-      "bloc": "regional",
-      "date": "2026-08-28",
-      "datetime": "2026-08-28T06:31:47Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. Military Says It Has Cleared Iran’s Mines From Strait of Hormuz Shipping Lanes",
-      "summary": "U.S. Central Command Commander Admiral Brad Cooper says U.S. forces have cleared sea mines laid by Iran from the internationally recognized shipping lanes through the Strait of Hormuz, offering new...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/u-s-military-says-it-has-cleared-irans-mines-from-strait-of-hormuz-shipping-lanes/",
-      "bloc": "western",
-      "date": "2026-08-28",
-      "datetime": "2026-08-28T04:07:19Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -369,6 +369,30 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The terrifying holes in America's China defense as Iran war drains the arsenal: Just 1,000 missile interceptors left, 30 warships diverted from the Pacific and $30bn in Taiwan weapons still undelivered",
+      "summary": "America's military stockpiles are being dangerously depleted by the prolonged war in the Middle East.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16085533/america-china-defense-iran-war-strain.html",
+      "bloc": "western",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T15:17:30Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -578,7 +602,7 @@
       "headline": "Qatari PM to visit Tehran in effort to relaunch mediation",
       "summary": "Qatar's prime minister will visit Tehran ⁠in an effort to relaunch diplomacy after the US and Iran traded recriminations over Washington's promise to increase economic pressure on Tehran.",
       "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0827/1589376-iran-middle-east/",
+      "url": "https://www.rte.ie/news/world/2026/0827/1589376-middle-east/",
       "bloc": "western",
       "date": "2026-08-26",
       "datetime": "2026-08-26T23:35:49Z",

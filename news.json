@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-31T22:40:22.886Z",
+  "ts": "2026-09-01T04:19:13.891Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 91,
     "oilStress": 38,
-    "updatedAt": "2026-08-31T22:40:22.886Z"
+    "updatedAt": "2026-09-01T04:19:13.891Z"
   },
   "items": [
     {
@@ -144,91 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "U.S. Forces Strike Iranian Rocket Launchers On The Strait Of Hormuz In First Military Action In Weeks",
-      "summary": "A U.S. officials says that U.S. forces have struck Iranian rocket launchers on the Strait of Hormuz in the first military action in a month.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/us-forces-strike-iranian-rocket-launchers-strait-hormuz_n_6a948d4fe4b0e9dbd39bcf91",
-      "bloc": "western",
-      "date": "2026-08-30",
-      "datetime": "2026-08-30T21:46:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-      "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po",
-      "bloc": "western",
-      "date": "2026-08-30",
-      "datetime": "2026-08-30T21:15:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US strikes IRGC positions as forces prepare to launch sea mines into Strait of Hormuz",
-      "summary": "US forces struck IRGC positions preparing to launch sea mine-armed rockets at the Strait of Hormuz, escalating a months-long confrontation over\nThe post US strikes IRGC positions as forces prepare to launch sea mines into Strait of Hormuz appeared first on Cr…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-strikes-iranian-launchers-strait-hormuz/",
-      "bloc": "western",
-      "date": "2026-08-30",
-      "datetime": "2026-08-30T19:44:07Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Selloff Outruns Reality in Hormuz",
-      "summary": "WTI crude oil futures were trading at $83.51 late Thursday, down $3.13, or 3.61%, for the week. The market opened near the weekly high at $86.57, then broke to $79.62 as traders sold on reports that Iran, Oman and the United States were moving toward a workab…",
+      "headline": "Oil Prices Surge as U.S. and Iran Exchange Strikes",
+      "summary": "Oil prices climbed in early Asian trade on Monday after the U.S. struck Iran for the first time in over a month, with Iran then retaliating against U.S. bases in Jordan. At the time of writing, WTI front-month futures were trading at $85.46 per barrel, up 2.4…",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Oil-Selloff-Outruns-Reality-in-Hormuz.html",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Surge-as-US-and-Iran-Exchange-Strikes.html",
       "bloc": "western",
-      "date": "2026-08-28",
-      "datetime": "2026-08-28T12:30:00Z",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T02:30:06Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -243,18 +165,96 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Trump declares Strait of Hormuz open as commercial traffic tells a different story",
-      "summary": "The disparity between political claims and actual shipping data highlights ongoing geopolitical tensions, impacting global oil markets significantly.\nThe post Trump declares Strait of Hormuz open as commercial traffic tells a different story appeared first on…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-strait-hormuz-open-iran-response/",
+      "headline": "US strikes Iranian rocket launchers in first military action in weeks",
+      "summary": "US forces struck Iranian rocket launchers on the Strait of Hormuz in their first military action in a month on Sunday, breaking a lull in fighting during an intermittent war that has lasted more than six months. Iran swiftly vowed to retaliate for what it cal…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/us-strikes-iranian-rocket-launchers-in-first-military-action-in-weeks-126083100048_1.html",
       "bloc": "western",
-      "date": "2026-08-28",
-      "datetime": "2026-08-28T10:28:19Z",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T02:10:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US strikes Iranian rocket launchers on Strait of Hormuz in first military action in weeks",
+      "summary": "A return to open conflict would be dangerous for the region, where Iran has targeted US military bases and infrastructure in Gulf countries since the war began on February 28",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/us-strikes-iranian-rocket-launchers-on-strait-of-hormuz-in-first-military-action-in-weeks/article71409544.ece",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T02:07:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US Strikes Iranian Rocket Launchers on the Strait of Hormuz in First Military Action in Weeks",
+      "summary": "Iran swiftly vowed to retaliate for what it called a deadly attack.",
+      "source": "Military.com",
+      "url": "https://military.com/us-strikes-iranian-rocket-launchers-on-the-strait-of-hormuz-in-first-military-action-in-weeks",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T01:14:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Vessels Crossing Strait Of Hormuz Drop To 5 Per Day",
+      "summary": "By Florence Tan SINGAPORE, Aug 31 (Reuters) – The number of visible commodity vessels transiting the Strait of Hormuz dropped to five per day over the weekend,shipping data showed on Monday, as companies...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/vessels-crossing-strait-of-hormuz-drop-to-5-per-day/",
+      "bloc": "western",
+      "date": "2026-08-30",
+      "datetime": "2026-08-30T23:42:52Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -365,6 +365,31 @@
         "survival",
         "impulsivity",
         "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Understanding And Dealing With Kim Jong-Un’s Resilience",
+      "summary": "Photo Credit:\n \n American Thinker AIBy Mario Alexis PortellaKim Jong Un has strengthened North Korea through repression, nuclear expansion, strategic alliances, and carefully managing looming succession risks.",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/articles/2026/08/understanding-and-dealing-with-kim-jong-un-s-resilience/",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T04:00:00Z",
+      "leaders": [
+        "Kim Jong-un"
+      ],
+      "watch_terms": [
+        "Kim Jong-un North"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "narcissism",
+        "survival"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -519,32 +544,6 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of August 24, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-08-24-2026/",
-      "bloc": "western",
-      "date": "2026-08-24",
-      "datetime": "2026-08-24T13:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -812,29 +811,6 @@
       "variable_key": null,
       "event_type": "infrastructure_attack",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
-      "summary": "The UK's willingness to share classified missile-production knowledge sets a potentially important precedent.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters",
-      "bloc": "regional",
-      "date": "2026-08-24",
-      "datetime": "2026-08-24T15:17:36Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     }

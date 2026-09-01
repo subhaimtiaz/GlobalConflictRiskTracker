@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-01T11:22:16.317Z",
+  "ts": "2026-09-01T16:19:15.207Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 92,
-    "oilStress": 40,
-    "updatedAt": "2026-09-01T11:22:16.317Z"
+    "oilPrice": 93,
+    "oilStress": 41,
+    "updatedAt": "2026-09-01T16:19:15.207Z"
   },
   "items": [
     {
@@ -248,32 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US Strikes Iranian Rocket Launchers on the Strait of Hormuz in First Military Action in Weeks",
-      "summary": "Iran swiftly vowed to retaliate for what it called a deadly attack.",
-      "source": "Military.com",
-      "url": "https://military.com/us-strikes-iranian-rocket-launchers-on-the-strait-of-hormuz-in-first-military-action-in-weeks",
-      "bloc": "western",
-      "date": "2026-08-31",
-      "datetime": "2026-08-31T01:14:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "We’re Half a Year Into Trump’s War on Iran. Congress Has Tools to End It.",
       "summary": "The clash over whether the US has a functioning constitutional process for starting and ending wars is coming to a head.",
       "source": "Truthout",
@@ -470,6 +444,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Current price of oil as of August 31, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-31-2026/",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T12:30:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Meeting of 22-23 July 2026",
       "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
       "source": "Europa.eu",
@@ -628,7 +628,7 @@
       "headline": "Qatari PM to visit Tehran in effort to relaunch mediation",
       "summary": "Qatar's prime minister will visit Tehran ⁠in an effort to relaunch diplomacy after the US and Iran traded recriminations over Washington's promise to increase economic pressure on Tehran.",
       "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0827/1589376-iran-middle-east/",
+      "url": "https://www.rte.ie/news/world/2026/0827/1589376-middle-east/",
       "bloc": "western",
       "date": "2026-08-26",
       "datetime": "2026-08-26T23:35:49Z",

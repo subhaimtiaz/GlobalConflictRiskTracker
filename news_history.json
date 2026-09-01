@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-01T04:18:08.675Z",
+  "updated": "2026-09-01T11:21:11.123Z",
   "retention_days": 30,
   "items": [
     {
@@ -9489,7 +9489,142 @@
       "_from": "newsapi",
       "first_seen": "2026-09-01T04:18:08.675Z",
       "run_id": "2026-09-01T04:18"
+    },
+    {
+      "headline": "Iran attacks US military targets in retaliation for first American strikes in a month",
+      "summary": "Jordan’s army said it had intercepted eight missiles, without stating their origin.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/iran-attacks-us-military-targets-in-retaliation-for-first-american-strikes-in-a-month-7147146-Aug2026/",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T05:58:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-01T11:21:11.123Z",
+      "run_id": "2026-09-01T11:21"
+    },
+    {
+      "headline": "U.S.-Iran escalation shows Washington's frustration with slow-moving sanctions",
+      "summary": "Renewed hostilities reopen the question of whether the conflict is grinding toward a settlement or further escalation.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/31/us-trump-hormuz-iran-kharg-larak-oil-analysts-sanctions-.html",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T06:59:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-01T11:21:11.123Z",
+      "run_id": "2026-09-01T11:21"
+    },
+    {
+      "headline": "The Ukrainization of Europe Picks Up Steam",
+      "summary": "The UK and others dare Russia as Washington warns Moscow—or is it Russia warning the US?",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/the-ukrainization-of-europe-picks-up-steam.html",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T09:00:07Z",
+      "leaders": [
+        "Kim Jong-un",
+        "Vladimir Putin",
+        "General Asim Munir"
+      ],
+      "watch_terms": [
+        "nuclear signalling threat"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "survival",
+        "narcissism"
+      ],
+      "variable_key": "nuclearSignalling",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-01T11:21:11.123Z",
+      "run_id": "2026-09-01T11:21"
+    },
+    {
+      "headline": "Putin 'fears being hanged' for failing in Ukraine and is planning to escalate war, insider claims amid Kremlin warnings Britain is in the crosshairs",
+      "summary": "Sources close to the Kremlin have claimed Mr Putin has chosen to escalate the war, fearing he could face backlash from the Russian public if he ends the conflict without being able to claim victory.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16092593/Putin-fears-hanged-failing-Ukraine-planning-escalate-war-insider-claims-amid-Kremlin-warnings-Britain-crosshairs.html",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T09:37:50Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-01T11:21:11.123Z",
+      "run_id": "2026-09-01T11:21"
+    },
+    {
+      "headline": "Russian Forces Strike Transport and Logistics Center Near Kyiv",
+      "summary": "Russian armed forces carried out strikes on the Fim Service transport and logistics center in the settlement of Chaiky near Kyiv on Saturday, according to the Russian Defense Ministry. The ministry stated that the facility stored components for long-range Fla…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-31-russian-forces-strike-transport-logistics-center-near-kyiv.html",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T06:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-01T11:21:11.123Z",
+      "run_id": "2026-09-01T11:21"
     }
   ],
-  "total_items_ever": 3241
+  "total_items_ever": 3246
 }

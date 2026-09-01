@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-01T16:19:15.207Z",
+  "ts": "2026-09-01T20:47:55.017Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 93,
-    "oilStress": 41,
-    "updatedAt": "2026-09-01T16:19:15.207Z"
+    "oilPrice": 95,
+    "oilStress": 45,
+    "updatedAt": "2026-09-01T20:47:55.017Z"
   },
   "items": [
+    {
+      "headline": "Coffee Break: A Trump Scampire Bank With No Capital and A Dem Party With No Values Beyond Crushing the Left",
+      "summary": "Trump has somehow managed to make his stablecoin scampire even worse by bringing in the UAE, the Dem zio-centrist establishment is going all-in on war with Hasan Piker, while Dem candidates miss massive opportunities to connect with voters.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/world-liberty-trust-uae-democrats-hasan-piker-talarico-texas.html",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T18:00:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran attacks US military targets in retaliation for first American strikes in a month",
       "summary": "Jordan’s army said it had intercepted eight missiles, without stating their origin.",
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran is spending its way to a stronger military than it had before the war, and preparing for the rematch",
-      "summary": "Iran's military buildup may escalate regional tensions, reducing chances for diplomatic solutions and impacting global market stability.\nThe post Iran is spending its way to a stronger military than it had before the war, and preparing for the rematch appeare…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-is-spending-its-way-to-a-stronger-military-than-it-had-before-the-war-and/",
-      "bloc": "western",
-      "date": "2026-08-30",
-      "datetime": "2026-08-30T02:18:36Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -628,7 +628,7 @@
       "headline": "Qatari PM to visit Tehran in effort to relaunch mediation",
       "summary": "Qatar's prime minister will visit Tehran ⁠in an effort to relaunch diplomacy after the US and Iran traded recriminations over Washington's promise to increase economic pressure on Tehran.",
       "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0827/1589376-middle-east/",
+      "url": "https://www.rte.ie/news/world/2026/0827/1589376-iran-middle-east/",
       "bloc": "western",
       "date": "2026-08-26",
       "datetime": "2026-08-26T23:35:49Z",

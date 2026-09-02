@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-02T16:16:04.574Z",
+  "ts": "2026-09-02T20:47:23.750Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 95,
     "oilStress": 45,
-    "updatedAt": "2026-09-02T16:16:04.574Z"
+    "updatedAt": "2026-09-02T20:47:23.750Z"
   },
   "items": [
+    {
+      "headline": "China’s Xi visits Egypt as US sanctions threat looms over Iran links",
+      "summary": "Chinese President Xi Jinping visits Egypt as both nations face potential US sanctions due to financial ties with Iran. Discover the strategic implications.\n\nRead More: https://punchng.com/chinas-xi-visits-egypt-as-us-sanctions-threat-looms-over-iran-links/",
+      "source": "The Punch",
+      "url": "https://punchng.com/chinas-xi-visits-egypt-as-us-sanctions-threat-looms-over-iran-links/",
+      "bloc": "western",
+      "date": "2026-09-01",
+      "datetime": "2026-09-01T16:23:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "China's Xi visits Egypt as US sanctions threat looms over Iran links",
       "summary": "Chinese President Xi Jinping is set to arrive in Egypt on Sept. 1, making a rare trip to the Middle East as both countries face the threat of U.S. sanctions over financial links to Iran.",
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why Qatar Ordered KC-46A Refueling Aircraft For Its Western Air Force",
-      "summary": "Doha will unlikely receive any of these aircraft for at least a few years. Nevertheless, one can already reasonably speculate why it opted to buy them now.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/pauliddon/2026/08/30/why-qatar-ordered-kc-46a-refueling-aircraft-for-its-western-air-force/",
-      "bloc": "western",
-      "date": "2026-08-30",
-      "datetime": "2026-08-30T16:58:19Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -578,7 +578,7 @@
       "headline": "Qatari PM to visit Tehran in effort to relaunch mediation",
       "summary": "Qatar's prime minister will visit Tehran ⁠in an effort to relaunch diplomacy after the US and Iran traded recriminations over Washington's promise to increase economic pressure on Tehran.",
       "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0827/1589376-iran-middle-east/",
+      "url": "https://www.rte.ie/news/world/2026/0827/1589376-middle-east/",
       "bloc": "western",
       "date": "2026-08-26",
       "datetime": "2026-08-26T23:35:49Z",

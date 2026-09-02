@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-02T10:55:23.426Z",
+  "updated": "2026-09-02T16:14:59.288Z",
   "retention_days": 30,
   "items": [
     {
@@ -9792,7 +9792,63 @@
       "_from": "newsapi",
       "first_seen": "2026-09-02T10:55:23.426Z",
       "run_id": "2026-09-02T10:55"
+    },
+    {
+      "headline": "China's Xi visits Egypt as US sanctions threat looms over Iran links",
+      "summary": "Chinese President Xi Jinping is set to arrive in Egypt on Sept. 1, making a rare trip to the Middle East as both countries face the threat of U.S. sanctions over financial links to Iran.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/chinas-xi-visits-egypt-as-us-sanctions-threat-looms-over-iran-links-226331",
+      "bloc": "western",
+      "date": "2026-09-01",
+      "datetime": "2026-09-01T12:45:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-02T16:14:59.288Z",
+      "run_id": "2026-09-02T16:14"
+    },
+    {
+      "headline": "Links 9/1/2026",
+      "summary": "Our therapeutic daily links: CDs redux, Army chief Driscoll out, China economic weakness, Japan yen wobbles, Israel desalination plants shut, gas prices hobble Germany, moar Russia strikes, Ben Gvir flogs genocide, Iran naval bunkers, Trump to sell Yosemitie?…",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/links-9-1-2026.html",
+      "bloc": "western",
+      "date": "2026-09-01",
+      "datetime": "2026-09-01T10:55:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-02T16:14:59.288Z",
+      "run_id": "2026-09-02T16:14"
     }
   ],
-  "total_items_ever": 3258
+  "total_items_ever": 3260
 }

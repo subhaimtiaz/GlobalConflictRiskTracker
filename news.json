@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-02T10:56:28.710Z",
+  "ts": "2026-09-02T16:16:04.574Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 95,
     "oilStress": 45,
-    "updatedAt": "2026-09-02T10:56:28.710Z"
+    "updatedAt": "2026-09-02T16:16:04.574Z"
   },
   "items": [
+    {
+      "headline": "China's Xi visits Egypt as US sanctions threat looms over Iran links",
+      "summary": "Chinese President Xi Jinping is set to arrive in Egypt on Sept. 1, making a rare trip to the Middle East as both countries face the threat of U.S. sanctions over financial links to Iran.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/chinas-xi-visits-egypt-as-us-sanctions-threat-looms-over-iran-links-226331",
+      "bloc": "western",
+      "date": "2026-09-01",
+      "datetime": "2026-09-01T12:45:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump dismisses ‘little war’ with Iran amid resumed clashes",
       "summary": "Trump's rhetoric may hinder diplomatic efforts, reducing chances for a comprehensive US-Iran deal and impacting reconstruction funding prospects.\nThe post Trump dismisses ‘little war’ with Iran amid resumed clashes appeared first on Crypto Briefing.",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Sunday: Hili dialogue",
-      "summary": "Welcome to Sunday, August 30, 2026: Sabbath for goyische cats and the sixth weekiversary since Miss Duck and her brood came to Botany Pond. Here are the babies on July 20, the second day after they came to the pond (they presumably hatched one day before Pond…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/08/30/sunday-hili-dialogue-601/",
+      "headline": "Links 9/1/2026",
+      "summary": "Our therapeutic daily links: CDs redux, Army chief Driscoll out, China economic weakness, Japan yen wobbles, Israel desalination plants shut, gas prices hobble Germany, moar Russia strikes, Ben Gvir flogs genocide, Iran naval bunkers, Trump to sell Yosemitie?…",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/links-9-1-2026.html",
       "bloc": "western",
-      "date": "2026-08-30",
-      "datetime": "2026-08-30T11:45:22Z",
+      "date": "2026-09-01",
+      "datetime": "2026-09-01T10:55:29Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump’s Economic D-Day Puts America First, Crushes Iranian Jihadists",
-      "summary": "Photo Credit:Iran flag\n \n PixabayBy Joseph Ford CottoDo Republican voters want this actual America-first pressure continued?",
-      "source": "Americanthinker.com",
-      "url": "https://www.americanthinker.com/articles/2026/09/trump-s-economic-d-day-puts-america-first-crushes-iranian-jihadists/",
-      "bloc": "western",
-      "date": "2026-09-01",
-      "datetime": "2026-09-01T04:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

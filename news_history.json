@@ -1,142 +1,8 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-01T20:46:49.867Z",
+  "updated": "2026-09-02T03:40:56.841Z",
   "retention_days": 30,
   "items": [
-    {
-      "headline": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-      "summary": "Trump says 'perimeters of a deal has been agreed to' as he pauses attacks. But is there any substance to his claim?",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at",
-      "bloc": "regional",
-      "date": "2026-08-02",
-      "datetime": "2026-08-02T09:43:10Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-08-03T09:52:25.491Z",
-      "run_id": "2026-08-03T09:52"
-    },
-    {
-      "headline": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
-      "summary": "The U.S. president said Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
-      "bloc": "western",
-      "date": "2026-08-02",
-      "datetime": "2026-08-02T07:47:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-08-03T09:52:25.491Z",
-      "run_id": "2026-08-03T09:52"
-    },
-    {
-      "headline": "Kyiv hits Rosneft refinery, Engels air base in Russia",
-      "summary": "The renewed attacks threaten to disrupt Russia's fuel supplies just as several regions had begun easing restrictions on gasoline and diesel sales imposed during recent shortages. The Saratov refinery, with a crude processing capacity of about 140,000 barrels …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/kyiv-hits-rosneft-refinery-engels-air-base-in-russia/articleshow/132812650.cms",
-      "bloc": "regional",
-      "date": "2026-08-02",
-      "datetime": "2026-08-02T18:27:58Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-08-03T19:41:59.975Z",
-      "run_id": "2026-08-03T19:41"
-    },
-    {
-      "headline": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
-      "summary": "Aug 2 () - Ukrainian drone strikes killed at least eight people in Russian regions overnight and on Sunday, hitting targets including a warehouse belonging t...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/world/articles/ukrainian-drones-kill-two-russia-070130969.html",
-      "bloc": "western",
-      "date": "2026-08-02",
-      "datetime": "2026-08-02T18:03:23Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-08-03T19:41:59.975Z",
-      "run_id": "2026-08-03T19:41"
-    },
-    {
-      "headline": "Trump Says He Will Order Halt To Iran Strikes After Parameters Reached For Deal To End War",
-      "summary": "Trump says he'll order American forces to hold off on strikes he had threatened against Iran, claiming Mideast allies have reached the parameters of a deal to end the war.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-halt-strikes-again-iran_n_6a6fc99ce4b03026f4f01606",
-      "bloc": "western",
-      "date": "2026-08-02",
-      "datetime": "2026-08-02T23:08:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-08-04T02:49:59.673Z",
-      "run_id": "2026-08-04T02:49"
-    },
     {
       "headline": "Oil prices surge 20% in July as US-Iran war heightens Strait of Hormuz tensions",
       "summary": "Oil prices saw volatility last week but are set for significant monthly gains.  Escalating United States-Iran tensions and Houthi attacks are impacting global energy markets.  Saudi Arabia is forming an alliance to protect Red Sea navigation from militant blo…",
@@ -145,34 +11,6 @@
       "bloc": "regional",
       "date": "2026-08-03",
       "datetime": "2026-08-03T01:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-08-04T02:49:59.673Z",
-      "run_id": "2026-08-04T02:49"
-    },
-    {
-      "headline": "Saudi Oil Reroutes Hit Capacity and Security Limits",
-      "summary": "When Iran shut down the Strait of Hormuz, Saudi Arabia quickly redirected its oil flows to the Red Sea. Now, that route has become dangerous because of the Houthi blockade, so Saudi is rerouting to Egypt—and two LNG tankers in the Egyptian port of Damietta ju…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
-      "bloc": "western",
-      "date": "2026-08-02",
-      "datetime": "2026-08-02T23:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -9680,7 +9518,88 @@
       "_from": "newsapi",
       "first_seen": "2026-09-01T20:46:49.867Z",
       "run_id": "2026-09-01T20:46"
+    },
+    {
+      "headline": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'",
+      "summary": "Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
+      "bloc": "western",
+      "date": "2026-09-01",
+      "datetime": "2026-09-01T01:59:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-02T03:40:56.841Z",
+      "run_id": "2026-09-02T03:40"
+    },
+    {
+      "headline": "What the latest U.S.-Iran strikes mean for oil supplies and maritime safety",
+      "summary": "For perspective on the latest developments in the war with Iran, Amna Nawaz spoke with retired U.S. Navy Rear Adm. Mark Montgomery and Michelle Wiese Bockmann, an analyst at Windward, a London-based maritime intelligence company. PBS News is supported by - ht…",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/show/what-the-latest-u-s-iran-strikes-mean-for-oil-supplies-and-maritime-safety",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T22:52:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-02T03:40:56.841Z",
+      "run_id": "2026-09-02T03:40"
+    },
+    {
+      "headline": "Awkward moment squirming Putin is told to 'move from endless war to the end of war' in meeting with India's PM Modi",
+      "summary": "Vladimir Putin has been told to halt his interminable war in Ukraine for the sake of humanity during a meeting in Kyrgyzstan with Indian Prime Minister Narendra Modi.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16093667/squirming-Putin-endless-war-end-India-Modi.html",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T23:01:55Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-02T03:40:56.841Z",
+      "run_id": "2026-09-02T03:40"
     }
   ],
-  "total_items_ever": 3248
+  "total_items_ever": 3251
 }

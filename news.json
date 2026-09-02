@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-01T20:47:55.017Z",
+  "ts": "2026-09-02T03:42:02.049Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 95,
     "oilStress": 45,
-    "updatedAt": "2026-09-01T20:47:55.017Z"
+    "updatedAt": "2026-09-02T03:42:02.049Z"
   },
   "items": [
     {
@@ -144,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'",
+      "summary": "Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
+      "bloc": "western",
+      "date": "2026-09-01",
+      "datetime": "2026-09-01T01:59:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "What the latest U.S.-Iran strikes mean for oil supplies and maritime safety",
+      "summary": "For perspective on the latest developments in the war with Iran, Amna Nawaz spoke with retired U.S. Navy Rear Adm. Mark Montgomery and Michelle Wiese Bockmann, an analyst at Windward, a London-based maritime intelligence company. PBS News is supported by - ht…",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/show/what-the-latest-u-s-iran-strikes-mean-for-oil-supplies-and-maritime-safety",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T22:52:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "U.S.-Iran escalation shows Washington's frustration with slow-moving sanctions",
       "summary": "Renewed hostilities reopen the question of whether the conflict is grinding toward a settlement or further escalation.",
       "source": "CNBC",
@@ -192,82 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US strikes Iranian rocket launchers in first military action in weeks",
-      "summary": "US forces struck Iranian rocket launchers on the Strait of Hormuz in their first military action in a month on Sunday, breaking a lull in fighting during an intermittent war that has lasted more than six months. Iran swiftly vowed to retaliate for what it cal…",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/us-strikes-iranian-rocket-launchers-in-first-military-action-in-weeks-126083100048_1.html",
-      "bloc": "western",
-      "date": "2026-08-31",
-      "datetime": "2026-08-31T02:10:13Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US strikes Iranian rocket launchers on Strait of Hormuz in first military action in weeks",
-      "summary": "A return to open conflict would be dangerous for the region, where Iran has targeted US military bases and infrastructure in Gulf countries since the war began on February 28",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/us-strikes-iranian-rocket-launchers-on-strait-of-hormuz-in-first-military-action-in-weeks/article71409544.ece",
-      "bloc": "western",
-      "date": "2026-08-31",
-      "datetime": "2026-08-31T02:07:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "We’re Half a Year Into Trump’s War on Iran. Congress Has Tools to End It.",
-      "summary": "The clash over whether the US has a functioning constitutional process for starting and ending wars is coming to a head.",
-      "source": "Truthout",
-      "url": "https://truthout.org/articles/were-half-a-year-into-trumps-war-on-iran-congress-has-tools-to-end-it/",
-      "bloc": "western",
-      "date": "2026-08-25",
-      "datetime": "2026-08-25T18:45:37Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Trump Iran war"
-      ],
-      "dimensions": [
-        "accountability",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -496,58 +472,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "IMF's Georgieva says global economy weathering energy shock, sees fiscal concerns",
-      "summary": "By David Lawder WASHINGTON, Aug 25 (Reuters) - The global economy has weathered the Iran war energy shock better than feared, International Monetary Fund Man...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/news/imfs-georgieva-says-global-economy-180320279.html",
-      "bloc": "western",
-      "date": "2026-08-25",
-      "datetime": "2026-08-25T20:26:17Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "India bonds may edge up as oil remains steady despite US sanctions on Iran",
-      "summary": "India bonds may rise slightly as oil prices stabilize amid US sanctions on Iran, with yields expected between 6.84% and 6.87%.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/india-bonds-may-edge-up-as-oil-remains-steady-despite-us-sanctions-on-iran/article71387192.ece",
-      "bloc": "western",
-      "date": "2026-08-25",
-      "datetime": "2026-08-25T03:54:30Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "The Ukrainization of Europe Picks Up Steam",
       "summary": "The UK and others dare Russia as Washington warns Moscow—or is it Russia warning the US?",
       "source": "Nakedcapitalism.com",
@@ -628,7 +552,7 @@
       "headline": "Qatari PM to visit Tehran in effort to relaunch mediation",
       "summary": "Qatar's prime minister will visit Tehran ⁠in an effort to relaunch diplomacy after the US and Iran traded recriminations over Washington's promise to increase economic pressure on Tehran.",
       "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0827/1589376-iran-middle-east/",
+      "url": "https://www.rte.ie/news/world/2026/0827/1589376-middle-east/",
       "bloc": "western",
       "date": "2026-08-26",
       "datetime": "2026-08-26T23:35:49Z",
@@ -750,6 +674,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Awkward moment squirming Putin is told to 'move from endless war to the end of war' in meeting with India's PM Modi",
+      "summary": "Vladimir Putin has been told to halt his interminable war in Ukraine for the sake of humanity during a meeting in Kyrgyzstan with Indian Prime Minister Narendra Modi.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16093667/squirming-Putin-endless-war-end-India-Modi.html",
+      "bloc": "western",
+      "date": "2026-08-31",
+      "datetime": "2026-08-31T23:01:55Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Putin 'fears being hanged' for failing in Ukraine and is planning to escalate war, insider claims amid Kremlin warnings Britain is in the crosshairs",
       "summary": "Sources close to the Kremlin have claimed Mr Putin has chosen to escalate the war, fearing he could face backlash from the Russian public if he ends the conflict without being able to claim victory.",
       "source": "Dailymail.com",
@@ -826,29 +773,6 @@
       "bloc": "regional",
       "date": "2026-08-30",
       "datetime": "2026-08-30T05:09:11Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia warns it could target UK in response to Kyiv firing British missiles",
-      "summary": "Foreign ministry warns against 'terrorism' of firing long-range British cruise missiles at targets in Russia.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/27/russia-warns-it-could-target-uk-in-response-to-kyiv-firing-british-missiles",
-      "bloc": "regional",
-      "date": "2026-08-27",
-      "datetime": "2026-08-27T12:58:11Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

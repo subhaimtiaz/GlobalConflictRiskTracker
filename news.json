@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-02T20:47:23.750Z",
+  "ts": "2026-09-03T03:41:11.016Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 95,
+    "oilPrice": 96,
     "oilStress": 45,
-    "updatedAt": "2026-09-02T20:47:23.750Z"
+    "updatedAt": "2026-09-03T03:41:11.016Z"
   },
   "items": [
+    {
+      "headline": "Di Leo: Iran’s Military Is Broken — But the Regime Refuses to Surrender",
+      "summary": "There are several ways that wars end. –One side conquers and annexes the other. –One side surrenders and gives up some of their land, treasure, and authority in a peace treaty. –One side has a domestic change of government and the new one befriends the other …",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-bloggers/4393924/posts",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T03:12:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "China’s Xi visits Egypt as US sanctions threat looms over Iran links",
       "summary": "Chinese President Xi Jinping visits Egypt as both nations face potential US sanctions due to financial ties with Iran. Discover the strategic implications.\n\nRead More: https://punchng.com/chinas-xi-visits-egypt-as-us-sanctions-threat-looms-over-iran-links/",
@@ -118,27 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran attacks US military targets in retaliation for first American strikes in a month",
-      "summary": "Jordan’s army said it had intercepted eight missiles, without stating their origin.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/iran-attacks-us-military-targets-in-retaliation-for-first-american-strikes-in-a-month-7147146-Aug2026/",
-      "bloc": "western",
-      "date": "2026-08-31",
-      "datetime": "2026-08-31T05:58:13Z",
+      "headline": "'Tanker for tanker': Inside Trump's new retaliation policy behind US strikes on Iran",
+      "summary": "United States forces struck two Iranian government tankers on Tuesday. These strikes were part of a new policy aimed at deterring attacks. Approximately one hundred targets, including military sites, were hit by US drones. Iran's retaliation involved ballisti…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/tanker-for-tanker-inside-trumps-new-retaliation-policy-behind-us-strikes-on-iran/articleshow/133695900.cms",
+      "bloc": "regional",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T02:58:04Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Brent above $94 following new US strikes on Iran — European natural gas hits highest level since 2023",
+      "summary": "Oil and natural gas prices surged following the US-Iran escalation — Markets are once again concerned about developments in the Strait of Hormuz\nThe post Brent above $94 following new US strikes on Iran — European natural gas hits highest level since 2023 app…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/09/02/brent-above-94-following-new-us-strikes-on-iran-european-natural-gas-hits-highest-level-since-2023/",
+      "bloc": "western",
+      "date": "2026-09-01",
+      "datetime": "2026-09-01T23:46:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
@@ -222,58 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "New U.S.-Iran escalation: Strikes in the Strait of Hormuz, Iranian retaliation and Trump’s threats",
-      "summary": "“We will hit them hard,” the U.S. president warned — “Continuing the war is in no one’s interest,” Tehran says — Oil rises above $90 again\nThe post New U.S.-Iran escalation: Strikes in the Strait of Hormuz, Iranian retaliation and Trump’s threats appeared fir…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/09/01/new-u-s-iran-escalation-strikes-in-the-strait-of-hormuz-iranian-retaliation-and-trumps-threats/",
-      "bloc": "western",
-      "date": "2026-09-01",
-      "datetime": "2026-09-01T05:32:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Prices Climb as Trump Threatens New Strikes on Iran",
-      "summary": "Crude oil prices extended their earlier climb as President Trump issued his latest threat to Iran, following the first exchange of fire in weeks. At the time of writing, Brent crude was trading at $91.48 per barrel, with West Texas Intermediate at $86.97 per …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Trump-Threatens-New-Strikes-on-Iran.html",
-      "bloc": "western",
-      "date": "2026-09-01",
-      "datetime": "2026-09-01T05:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Betrayal by Luke Harding: A colourful, entertaining take on Trump, Russia and Ukraine",
       "summary": "Interviews with ordinary Ukrainians light up this book’s pages, although it contains a strange fascination with ornithological detail",
       "source": "The Irish Times",
@@ -320,31 +320,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Understanding Iranian Victory",
-      "summary": "Iranian strategic logic and why Tehran believes it has already won against the US.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/understanding-iranian-victory.html",
-      "bloc": "western",
-      "date": "2026-08-26",
-      "datetime": "2026-08-26T09:50:03Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -422,34 +397,10 @@
       "_from": "newsapi"
     },
     {
-      "headline": "After America: The Causes and Consequences of US Global Decline",
-      "summary": "While Washington’s war with Iran drags on, month after month, without any end in sight, the world is witnessing the very real limits of US global power. As US President Donald Trump lurches repeatedly from threats of devastation to promises of peace, it’s bec…",
-      "source": "Fair Observer",
-      "url": "https://www.fairobserver.com/politics/after-america-the-causes-and-consequences-of-us-global-decline/",
-      "bloc": "western",
-      "date": "2026-08-26",
-      "datetime": "2026-08-26T13:36:46Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Current price of oil as of August 31, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-08-31-2026/",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-august-31-123000575.html",
       "bloc": "western",
       "date": "2026-08-31",
       "datetime": "2026-08-31T12:30:00Z",
@@ -575,31 +526,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Qatari PM to visit Tehran in effort to relaunch mediation",
-      "summary": "Qatar's prime minister will visit Tehran ⁠in an effort to relaunch diplomacy after the US and Iran traded recriminations over Washington's promise to increase economic pressure on Tehran.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0827/1589376-middle-east/",
-      "bloc": "western",
-      "date": "2026-08-26",
-      "datetime": "2026-08-26T23:35:49Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Nuclear Safeguards Are Gone – Former Canadian Foreign Minister Pt. 1/2",
       "summary": "Lloyd Axworthy, the former Canadian Foreign Minister who led the campaign to ban landmines, traces how the memory of nuclear danger has faded even as more countries flirt with joining the club.",
       "source": "Nakedcapitalism.com",
@@ -657,31 +583,6 @@
       "bloc": "western",
       "date": "2026-08-27",
       "datetime": "2026-08-27T01:49:12Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine and Our Wildly Reckless Flirtation With a Nuclear War",
-      "summary": "Matt Bivens\n\n\n\nFor the first time in the lifetime of most of us, there are no remaining US-Russian arms control agreements.\r\n\n\r\n\n\nThe post Ukraine and Our Wildly Reckless Flirtation With a Nuclear War appeared first on The Nation.",
-      "source": "Thenation.com",
-      "url": "https://www.thenation.com/?post_type=article&p=607776",
-      "bloc": "western",
-      "date": "2026-08-26",
-      "datetime": "2026-08-26T09:00:00Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

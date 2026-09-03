@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-03T03:40:05.798Z",
+  "updated": "2026-09-03T10:54:32.767Z",
   "retention_days": 30,
   "items": [
     {
@@ -9484,7 +9484,175 @@
       "_from": "newsapi",
       "first_seen": "2026-09-03T03:40:05.798Z",
       "run_id": "2026-09-03T03:40"
+    },
+    {
+      "headline": "US-Iran fighting escalates as Tehran retaliates with missile, drone strikes",
+      "summary": "The US military carried out its second round of attacks in three days, which US Central Command said targeted radar systems and mine-laying capabilities along Iran's southern coast",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/us-iran-fighting-escalates-as-tehran-retaliates-with-missile-drone-strikes-126090200710_1.html",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T09:20:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-03T10:54:32.767Z",
+      "run_id": "2026-09-03T10:54"
+    },
+    {
+      "headline": "US attacks prompt Iranian retaliation as fighting intensifies",
+      "summary": "The US Central Command said it targeted radar systems and mine-laying capabilities along Iran’s southern coast; Iran retaliated with drone and missile volleys across West Asia",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-02/us-attacks-prompt-iranian-retaliation-as-fighting-intensifies",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T08:55:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-03T10:54:32.767Z",
+      "run_id": "2026-09-03T10:54"
+    },
+    {
+      "headline": "What are Iran's options to retaliate as open warfare resumes with the US?",
+      "summary": "The US launched a fresh wave of attacks on Iran, prompting Iranian missile strikes on what Tehran said were US assets in Jordan, Bahrain, Kuwait and Iraq.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/what-are-irans-options-to-retaliate-as-open-warfare-resumes-with-the-us/articleshow/133703077.cms",
+      "bloc": "regional",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T07:58:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-03T10:54:32.767Z",
+      "run_id": "2026-09-03T10:54"
+    },
+    {
+      "headline": "Oil Prices Rally as U.S. Targets Iranian Tankers in New Escalation",
+      "summary": "Oil prices climbed once again in early Asian trade on Wednesday as the U.S. and Iran traded strikes in a significant escalation after a month of relative calm.  At the time of writing, WTI had climbed to $91.05 per barrel, trading 0.92% higher on the session,…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rally-as-US-Targets-Iranian-Tankers-in-New-Escalation.html",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T03:53:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-03T10:54:32.767Z",
+      "run_id": "2026-09-03T10:54"
+    },
+    {
+      "headline": "Tehran fires on Gulf neighbors after US renews Iran strikes",
+      "summary": "The latest violence has ended a monthlong lull in fighting between the US and Iran.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/02/world-news/iran-fires-on-gulf-neighbors-after-us-military-strikes-iran-after-a-monthlong-lull/",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T10:49:59Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-03T10:54:32.767Z",
+      "run_id": "2026-09-03T10:54"
+    },
+    {
+      "headline": "Fed’s Goolsbee says AI is ‘not far’ from overheating the economy",
+      "summary": "Everything you need to know before you reach the office this morning.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/02/fed-austan-goolsbee-ai-is-not-far-from-overheating-economy/",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T10:19:43Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-03T10:54:32.767Z",
+      "run_id": "2026-09-03T10:54"
     }
   ],
-  "total_items_ever": 3264
+  "total_items_ever": 3270
 }

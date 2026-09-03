@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-03T03:41:11.016Z",
+  "ts": "2026-09-03T10:55:38.043Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 96,
-    "oilStress": 45,
-    "updatedAt": "2026-09-03T03:41:11.016Z"
+    "oilPrice": 97,
+    "oilStress": 48,
+    "updatedAt": "2026-09-03T10:55:38.043Z"
   },
   "items": [
     {
@@ -144,13 +144,91 @@
       "_from": "newsapi"
     },
     {
-      "headline": "'Tanker for tanker': Inside Trump's new retaliation policy behind US strikes on Iran",
-      "summary": "United States forces struck two Iranian government tankers on Tuesday. These strikes were part of a new policy aimed at deterring attacks. Approximately one hundred targets, including military sites, were hit by US drones. Iran's retaliation involved ballisti…",
+      "headline": "US-Iran fighting escalates as Tehran retaliates with missile, drone strikes",
+      "summary": "The US military carried out its second round of attacks in three days, which US Central Command said targeted radar systems and mine-laying capabilities along Iran's southern coast",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/us-iran-fighting-escalates-as-tehran-retaliates-with-missile-drone-strikes-126090200710_1.html",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T09:20:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US attacks prompt Iranian retaliation as fighting intensifies",
+      "summary": "The US Central Command said it targeted radar systems and mine-laying capabilities along Iran’s southern coast; Iran retaliated with drone and missile volleys across West Asia",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-02/us-attacks-prompt-iranian-retaliation-as-fighting-intensifies",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T08:55:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "What are Iran's options to retaliate as open warfare resumes with the US?",
+      "summary": "The US launched a fresh wave of attacks on Iran, prompting Iranian missile strikes on what Tehran said were US assets in Jordan, Bahrain, Kuwait and Iraq.",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/tanker-for-tanker-inside-trumps-new-retaliation-policy-behind-us-strikes-on-iran/articleshow/133695900.cms",
+      "url": "https://economictimes.indiatimes.com/news/defence/what-are-irans-options-to-retaliate-as-open-warfare-resumes-with-the-us/articleshow/133703077.cms",
       "bloc": "regional",
       "date": "2026-09-02",
-      "datetime": "2026-09-02T02:58:04Z",
+      "datetime": "2026-09-02T07:58:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Prices Rally as U.S. Targets Iranian Tankers in New Escalation",
+      "summary": "Oil prices climbed once again in early Asian trade on Wednesday as the U.S. and Iran traded strikes in a significant escalation after a month of relative calm.  At the time of writing, WTI had climbed to $91.05 per barrel, trading 0.92% higher on the session,…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rally-as-US-Targets-Iranian-Tankers-in-New-Escalation.html",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T03:53:42Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -166,110 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Brent above $94 following new US strikes on Iran — European natural gas hits highest level since 2023",
-      "summary": "Oil and natural gas prices surged following the US-Iran escalation — Markets are once again concerned about developments in the Strait of Hormuz\nThe post Brent above $94 following new US strikes on Iran — European natural gas hits highest level since 2023 app…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/09/02/brent-above-94-following-new-us-strikes-on-iran-european-natural-gas-hits-highest-level-since-2023/",
-      "bloc": "western",
-      "date": "2026-09-01",
-      "datetime": "2026-09-01T23:46:48Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Links 9/1/2026",
-      "summary": "Our therapeutic daily links: CDs redux, Army chief Driscoll out, China economic weakness, Japan yen wobbles, Israel desalination plants shut, gas prices hobble Germany, moar Russia strikes, Ben Gvir flogs genocide, Iran naval bunkers, Trump to sell Yosemitie?…",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-1-2026.html",
-      "bloc": "western",
-      "date": "2026-09-01",
-      "datetime": "2026-09-01T10:55:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran's president says his country would return to ceasefire agreement if US does",
-      "summary": "Iran’s president says his country is ready to return to the ceasefire deal agreed to with the United States in June so long as Washington follows suit. The conciliatory remarks came after the first exchange of fire between the two countries in a month. Meanti…",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/mideast-iran-israel-palestinians-hormuz-washington-september-1-2026-9342eb46aedd484cdf58895c8a116677",
-      "bloc": "western",
-      "date": "2026-09-01",
-      "datetime": "2026-09-01T10:49:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news",
-      "summary": "Iran is ready to return to the ceasefire deal reached with the United States in June if Washington does the same, President Masoud Pezeshkian said on Tuesday...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/world/articles/irans-president-says-iran-return-093502284.html",
-      "bloc": "western",
-      "date": "2026-09-01",
-      "datetime": "2026-09-01T09:35:02Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -392,6 +366,58 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Tehran fires on Gulf neighbors after US renews Iran strikes",
+      "summary": "The latest violence has ended a monthlong lull in fighting between the US and Iran.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/02/world-news/iran-fires-on-gulf-neighbors-after-us-military-strikes-iran-after-a-monthlong-lull/",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T10:49:59Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Fed’s Goolsbee says AI is ‘not far’ from overheating the economy",
+      "summary": "Everything you need to know before you reach the office this morning.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/02/fed-austan-goolsbee-ai-is-not-far-from-overheating-economy/",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T10:19:43Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

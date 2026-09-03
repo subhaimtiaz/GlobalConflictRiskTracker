@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-03T10:55:38.043Z",
+  "ts": "2026-09-03T16:05:41.427Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 97,
-    "oilStress": 48,
-    "updatedAt": "2026-09-03T10:55:38.043Z"
+    "oilPrice": 96,
+    "oilStress": 46,
+    "updatedAt": "2026-09-03T16:05:41.427Z"
   },
   "items": [
+    {
+      "headline": "The Twin Tragedies of the Donald J. Trump Institute of Peace",
+      "summary": "Established by Congress in 1984, with legislation signed by Ronald Reagan and funded annually by Congress, the United States Institute of Peace\r\n, or USIP, was a well-respected, authoritative, independent, officially nonpartisan, nonprofit organization, until…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/tragedies-donald-trump-peace",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T11:29:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Di Leo: Iran’s Military Is Broken — But the Regime Refuses to Surrender",
       "summary": "There are several ways that wars end. –One side conquers and annexes the other. –One side surrenders and gives up some of their land, treasure, and authority in a peace treaty. –One side has a domestic change of government and the new one befriends the other …",
@@ -118,28 +144,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Coffee Break: A Trump Scampire Bank With No Capital and A Dem Party With No Values Beyond Crushing the Left",
-      "summary": "Trump has somehow managed to make his stablecoin scampire even worse by bringing in the UAE, the Dem zio-centrist establishment is going all-in on war with Hasan Piker, while Dem candidates miss massive opportunities to connect with voters.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/world-liberty-trust-uae-democrats-hasan-piker-talarico-texas.html",
-      "bloc": "western",
-      "date": "2026-08-31",
-      "datetime": "2026-08-31T18:00:07Z",
+      "headline": "Saudi Arabia says Iran attacked vessel in Hormuz, killing two sailors",
+      "summary": "Saudi Arabia reported an Iranian attack on a national oil tanker.  This incident tragically killed two Filipino seafarers on Monday.  The supertanker Sidr was hit while transiting the Strait of Hormuz.  Saudi Arabia stressed the necessity of halting escalatio…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-says-iran-attacked-vessel-in-hormuz-killing-two-sailors/articleshow/133711921.cms",
+      "bloc": "regional",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T13:32:28Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US, Iran trade strikes as fears mount over wider return to hostilities",
+      "summary": "Iran launched a wave of attacks on U.S. sites across the Middle East on Sept. 2, as violence surged after an extensive American bombardment and the deaths of four people at an Iranian wedding party.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-iran-trade-strikes-as-fears-mount-over-wider-return-to-hostilities-226375",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T11:25:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -222,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil Prices Rally as U.S. Targets Iranian Tankers in New Escalation",
-      "summary": "Oil prices climbed once again in early Asian trade on Wednesday as the U.S. and Iran traded strikes in a significant escalation after a month of relative calm.  At the time of writing, WTI had climbed to $91.05 per barrel, trading 0.92% higher on the session,…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rally-as-US-Targets-Iranian-Tankers-in-New-Escalation.html",
-      "bloc": "western",
-      "date": "2026-09-02",
-      "datetime": "2026-09-02T03:53:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Betrayal by Luke Harding: A colourful, entertaining take on Trump, Russia and Ukraine",
       "summary": "Interviews with ordinary Ukrainians light up this book’s pages, although it contains a strange fascination with ornithological detail",
       "source": "The Irish Times",
@@ -323,6 +349,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "China’s Xi visits Egypt’s el-Sisi: Why it matters",
+      "summary": "Xi Jinping's historic Egypt visit aims to strengthen China-Egypt ties amid rising Middle East tensions.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters",
+      "bloc": "regional",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T15:00:30Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The terrifying holes in America's China defense as Iran war drains the arsenal: Just 1,000 missile interceptors left, 30 warships diverted from the Pacific and $30bn in Taiwan weapons still undelivered",
       "summary": "America's military stockpiles are being dangerously depleted by the prolonged war in the Middle East.",
       "source": "Dailymail.com",
@@ -366,6 +416,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Sensex today | Stock Market Highlights: Sensex ends 373 pts lower at 76,570, Nifty below 24,000; Asian Paints, HDFC Bank fall most",
+      "summary": "Sensex, Nifty, Share Prices Highlights: BSE Sensex dropped 373.93 points, or 0.49 per cent, to settle at 76,570.35, while NSE Nifty slumped 141.35 points, or 0.59 per cent, to end at 23,914.45",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-2nd-september-2026/article71416736.ece",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T11:11:06Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -425,37 +501,11 @@
     {
       "headline": "Current price of oil as of August 31, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-august-31-123000575.html",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-31-2026/",
       "bloc": "western",
       "date": "2026-08-31",
       "datetime": "2026-08-31T12:30:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Meeting of 22-23 July 2026",
-      "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
-      "source": "Europa.eu",
-      "url": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
-      "bloc": "western",
-      "date": "2026-08-27",
-      "datetime": "2026-08-27T11:30:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

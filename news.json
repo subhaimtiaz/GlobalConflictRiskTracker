@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-04T03:42:07.402Z",
+  "ts": "2026-09-04T10:55:09.585Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 96,
-    "oilStress": 46,
-    "updatedAt": "2026-09-04T03:42:07.401Z"
+    "oilPrice": 95,
+    "oilStress": 45,
+    "updatedAt": "2026-09-04T10:55:09.585Z"
   },
   "items": [
+    {
+      "headline": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
+      "summary": "Outrage grows over US strike that killed four people and wounded 67 at a wedding party in Kuhestak.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party",
+      "bloc": "regional",
+      "date": "2026-09-03",
+      "datetime": "2026-09-03T07:41:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Twin Tragedies of the Donald J. Trump Institute of Peace",
       "summary": "Established by Congress in 1984, with legislation signed by Ronald Reagan and funded annually by Congress, the United States Institute of Peace\r\n, or USIP, was a well-respected, authoritative, independent, officially nonpartisan, nonprofit organization, until…",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump dismisses ‘little war’ with Iran amid resumed clashes",
-      "summary": "Trump's rhetoric may hinder diplomatic efforts, reducing chances for a comprehensive US-Iran deal and impacting reconstruction funding prospects.\nThe post Trump dismisses ‘little war’ with Iran amid resumed clashes appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-dismisses-little-war-with-iran-amid-resumed-clashes/",
-      "bloc": "western",
-      "date": "2026-09-01",
-      "datetime": "2026-09-01T04:41:32Z",
+      "headline": "60 targets struck in a day: Inside the US military's biggest push to secure Hormuz",
+      "summary": "US forces escorted forty commercial vessels carrying eighteen million barrels of oil.  Simultaneously, American troops struck nearly sixty Iranian military targets around the strategic waterway.  This escalation follows a week of increased incidents and retal…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/60-targets-struck-in-a-day-inside-the-us-militarys-biggest-push-to-secure-hormuz/articleshow/133725436.cms",
+      "bloc": "regional",
+      "date": "2026-09-03",
+      "datetime": "2026-09-03T04:56:56Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -229,32 +255,6 @@
       "bloc": "western",
       "date": "2026-09-02",
       "datetime": "2026-09-02T17:05:02Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US-Iran Clashes Escalate as Fears Grow of Extended Conflict",
-      "summary": "Fighting between the US and Iran over control of the Strait of Hormuz intensified after a period of relative calm, triggering a fresh jump in energy prices as fears grow of an open-ended war. The US military carried out a …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/09/02/883731.htm",
-      "bloc": "western",
-      "date": "2026-09-02",
-      "datetime": "2026-09-02T16:44:51Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -397,6 +397,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Striking Oil: How the U.S. Play for Venezuela Fuels Supermajors",
+      "summary": "U.S. pursuit of a stake in Venezuelan oil rights amid Middle East supply risks could benefit Chevron, ExxonMobil, and Halliburton, whose recent earnings and...",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/articles/striking-oil-how-the-us-play-for-venezuela-fuels-supermajors/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T17:55:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Sensex today | Stock Market Highlights: Sensex ends 373 pts lower at 76,570, Nifty below 24,000; Asian Paints, HDFC Bank fall most",
       "summary": "Sensex, Nifty, Share Prices Highlights: BSE Sensex dropped 373.93 points, or 0.49 per cent, to settle at 76,570.35, while NSE Nifty slumped 141.35 points, or 0.59 per cent, to end at 23,914.45",
       "source": "BusinessLine",
@@ -477,8 +503,8 @@
     {
       "headline": "Current price of oil as of August 31, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-august-31-123000575.html",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-31-2026/",
       "bloc": "western",
       "date": "2026-08-31",
       "datetime": "2026-08-31T12:30:00Z",
@@ -574,6 +600,31 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Rules-Based Nuclear Bomb",
+      "summary": "Traditional accounts of nuclear nonproliferation obfuscate that states with the bomb sell the path to it and are planning to use it themselves.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/the-rules-based-nuclear-bomb.html",
+      "bloc": "western",
+      "date": "2026-09-03",
+      "datetime": "2026-09-03T10:00:13Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

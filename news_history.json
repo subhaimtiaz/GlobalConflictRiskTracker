@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-04T03:41:02.190Z",
+  "updated": "2026-09-04T10:54:04.311Z",
   "retention_days": 30,
   "items": [
     {
@@ -9571,7 +9571,118 @@
       "_from": "newsapi",
       "first_seen": "2026-09-04T03:41:02.190Z",
       "run_id": "2026-09-04T03:41"
+    },
+    {
+      "headline": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
+      "summary": "Outrage grows over US strike that killed four people and wounded 67 at a wedding party in Kuhestak.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party",
+      "bloc": "regional",
+      "date": "2026-09-03",
+      "datetime": "2026-09-03T07:41:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-04T10:54:04.311Z",
+      "run_id": "2026-09-04T10:54"
+    },
+    {
+      "headline": "60 targets struck in a day: Inside the US military's biggest push to secure Hormuz",
+      "summary": "US forces escorted forty commercial vessels carrying eighteen million barrels of oil.  Simultaneously, American troops struck nearly sixty Iranian military targets around the strategic waterway.  This escalation follows a week of increased incidents and retal…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/60-targets-struck-in-a-day-inside-the-us-militarys-biggest-push-to-secure-hormuz/articleshow/133725436.cms",
+      "bloc": "regional",
+      "date": "2026-09-03",
+      "datetime": "2026-09-03T04:56:56Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-04T10:54:04.311Z",
+      "run_id": "2026-09-04T10:54"
+    },
+    {
+      "headline": "Striking Oil: How the U.S. Play for Venezuela Fuels Supermajors",
+      "summary": "U.S. pursuit of a stake in Venezuelan oil rights amid Middle East supply risks could benefit Chevron, ExxonMobil, and Halliburton, whose recent earnings and...",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/articles/striking-oil-how-the-us-play-for-venezuela-fuels-supermajors/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "bloc": "western",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T17:55:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-04T10:54:04.311Z",
+      "run_id": "2026-09-04T10:54"
+    },
+    {
+      "headline": "The Rules-Based Nuclear Bomb",
+      "summary": "Traditional accounts of nuclear nonproliferation obfuscate that states with the bomb sell the path to it and are planning to use it themselves.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/the-rules-based-nuclear-bomb.html",
+      "bloc": "western",
+      "date": "2026-09-03",
+      "datetime": "2026-09-03T10:00:13Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-04T10:54:04.311Z",
+      "run_id": "2026-09-04T10:54"
     }
   ],
-  "total_items_ever": 3280
+  "total_items_ever": 3284
 }

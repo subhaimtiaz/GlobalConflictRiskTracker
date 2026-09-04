@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-04T10:55:09.585Z",
+  "ts": "2026-09-04T16:01:25.314Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 95,
+    "oilPrice": 96,
     "oilStress": 45,
-    "updatedAt": "2026-09-04T10:55:09.585Z"
+    "updatedAt": "2026-09-04T16:01:25.314Z"
   },
   "items": [
+    {
+      "headline": "‘We Are Stalled’: US-Iran Conflict Stuck With No End in Sight",
+      "summary": "Iran and the U.S. seem far from getting back to formal negotiations and their so-called memorandum of understanding, signed in mid-June, expired.",
+      "source": "Military.com",
+      "url": "https://military.com/we-are-stalled-us-iran-conflict-stuck-with-no-end-in-sight",
+      "bloc": "western",
+      "date": "2026-09-03",
+      "datetime": "2026-09-03T14:19:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
       "summary": "Outrage grows over US strike that killed four people and wounded 67 at a wedding party in Kuhestak.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-09-01",
       "datetime": "2026-09-01T16:23:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China's Xi visits Egypt as US sanctions threat looms over Iran links",
-      "summary": "Chinese President Xi Jinping is set to arrive in Egypt on Sept. 1, making a rare trip to the Middle East as both countries face the threat of U.S. sanctions over financial links to Iran.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/chinas-xi-visits-egypt-as-us-sanctions-threat-looms-over-iran-links-226331",
-      "bloc": "western",
-      "date": "2026-09-01",
-      "datetime": "2026-09-01T12:45:47Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -679,6 +679,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Russian nuclear chief who ordered strike on Ukrainian children’s hospital shot in head in attempted assassination",
+      "summary": "The commander is blamed by Ukrainian security services for multiple atrocities during the conflict.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/03/world-news/russian-nuclear-commander-shot-in-head-in-failed-assassination/",
+      "bloc": "western",
+      "date": "2026-09-03",
+      "datetime": "2026-09-03T12:58:21Z",
+      "leaders": [],
+      "watch_terms": [
+        "general commander killed"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "personnel_killed",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Taiwan isn't saying much about its war plans for a China fight — but its military drills are",
       "summary": "Unlike the staged drills of the past, Taiwan is now using its big Han Kuang exercise as a stress test for its troops.",
       "source": "Business Insider",
@@ -789,6 +812,28 @@
       ],
       "variable_key": null,
       "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Says Iran Strikes to Be Short, Asserts Hormuz Control",
+      "summary": "President Donald Trump said renewed attacks on Iran would likely be short-lived, reiterating his claim that the US controls the crucial Strait of Hormuz after fresh fighting spiked energy prices and rekindled fears of an open-ended war. Asked on Wednesday …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/09/03/883847.htm",
+      "bloc": "western",
+      "date": "2026-09-03",
+      "datetime": "2026-09-03T14:23:17Z",
+      "leaders": [],
+      "watch_terms": [
+        "airstrike missile drone"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "survival"
+      ],
+      "variable_key": null,
+      "event_type": "regional_strike",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"

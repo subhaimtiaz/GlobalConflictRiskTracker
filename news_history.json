@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-05T14:51:13.207Z",
+  "updated": "2026-09-05T20:06:40.688Z",
   "retention_days": 30,
   "items": [
     {
@@ -9539,7 +9539,35 @@
       "_from": "newsapi",
       "first_seen": "2026-09-05T14:51:13.207Z",
       "run_id": "2026-09-05T14:51"
+    },
+    {
+      "headline": "‘We Are Stalled’: US-Iran War Stuck With No End in Sight",
+      "summary": "The US and Iran have intensified tit-for-tat military strikes in recent days, remaining locked between ceasefire and all-out war as the White House struggles to end the six-month conflict.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/we-are-stalled-us-iran-war-stuck-with-no-end-in-sight/",
+      "bloc": "western",
+      "date": "2026-09-04",
+      "datetime": "2026-09-04T16:44:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-05T20:06:40.687Z",
+      "run_id": "2026-09-05T20:06"
     }
   ],
-  "total_items_ever": 3292
+  "total_items_ever": 3293
 }

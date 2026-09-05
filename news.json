@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-05T14:52:18.418Z",
+  "ts": "2026-09-05T20:07:45.846Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 95,
     "oilStress": 44,
-    "updatedAt": "2026-09-05T14:52:18.418Z"
+    "updatedAt": "2026-09-05T20:07:45.846Z"
   },
   "items": [
+    {
+      "headline": "‘We Are Stalled’: US-Iran War Stuck With No End in Sight",
+      "summary": "The US and Iran have intensified tit-for-tat military strikes in recent days, remaining locked between ceasefire and all-out war as the White House struggles to end the six-month conflict.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/we-are-stalled-us-iran-war-stuck-with-no-end-in-sight/",
+      "bloc": "western",
+      "date": "2026-09-04",
+      "datetime": "2026-09-04T16:44:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "How Much Oil Is Getting Through the Strait of Hormuz?",
       "summary": "If you've looked at gas prices lately you already know the conflict with Iran is still having a big impact on prices at the pump. However, there's a genuine disagreement over how much oil is currently making it through the Strait of Hormuz. This week the Trum…",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-09-03",
       "datetime": "2026-09-03T18:15:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "‘We Are Stalled’: US-Iran Conflict Stuck With No End in Sight",
-      "summary": "Iran and the U.S. seem far from getting back to formal negotiations and their so-called memorandum of understanding, signed in mid-June, expired.",
-      "source": "Military.com",
-      "url": "https://military.com/we-are-stalled-us-iran-conflict-stuck-with-no-end-in-sight",
-      "bloc": "western",
-      "date": "2026-09-03",
-      "datetime": "2026-09-03T14:19:53Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -476,8 +476,8 @@
     {
       "headline": "Current price of oil as of August 31, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-august-31-123000575.html",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-31-2026/",
       "bloc": "western",
       "date": "2026-08-31",
       "datetime": "2026-08-31T12:30:00Z",

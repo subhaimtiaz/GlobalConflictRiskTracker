@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-04T20:31:38.856Z",
+  "ts": "2026-09-05T03:41:39.664Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 96,
-    "oilStress": 46,
-    "updatedAt": "2026-09-04T20:31:38.856Z"
+    "oilPrice": 95,
+    "oilStress": 44,
+    "updatedAt": "2026-09-05T03:41:39.664Z"
   },
   "items": [
+    {
+      "headline": "IDF Wipes Out Hezbollah-IRGC Underground Bunker Complex After Iran’s Latest Empty 'Red Line'",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu announced Thursday that the final major IRGC-Hezbollah facility in southern Lebanon had been cleared, with all the occupants killed, captured, or moving at a very high speed out of the area. Israeli Prime Minister Ben…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4394146/posts",
+      "bloc": "western",
+      "date": "2026-09-04",
+      "datetime": "2026-09-04T00:29:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump’s Saudi Nuclear Agreement May Prolong the Iran War",
+      "summary": "Reprinted with permission from Trita Parsi’s Substack. A final deal between the United States and Iran is slipping further out of reach. Since the Memorandum of Understanding collapsed in July, the prospects for reviving it have deteriorated by the day. While…",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/trita-parsi/2026/09/03/trumps-saudi-nuclear-agreement-may-prolong-the-iran-war/",
+      "bloc": "western",
+      "date": "2026-09-04",
+      "datetime": "2026-09-04T00:00:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Midterm bloodbath looms for the GOP: Democrats storm to an 8-point lead as Trump's Iran war and prices bite",
       "summary": "Democrats are heading into the 2026 midterms with a significant polling advantage, as a new survey shows the party leading Republicans by 10 points among likely voters.",
@@ -88,58 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Twin Tragedies of the Donald J. Trump Institute of Peace",
-      "summary": "Established by Congress in 1984, with legislation signed by Ronald Reagan and funded annually by Congress, the United States Institute of Peace\r\n, or USIP, was a well-respected, authoritative, independent, officially nonpartisan, nonprofit organization, until…",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/opinion/tragedies-donald-trump-peace",
-      "bloc": "western",
-      "date": "2026-09-02",
-      "datetime": "2026-09-02T11:29:05Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Di Leo: Iran’s Military Is Broken — But the Regime Refuses to Surrender",
-      "summary": "There are several ways that wars end. –One side conquers and annexes the other. –One side surrenders and gives up some of their land, treasure, and authority in a peace treaty. –One side has a domestic change of government and the new one befriends the other …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4393924/posts",
-      "bloc": "western",
-      "date": "2026-09-02",
-      "datetime": "2026-09-02T03:12:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -295,31 +295,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Deal, warning or spy swap? What Russian media are saying about the CIA chief’s Moscow visit",
-      "summary": "Russian media offer competing theories about CIA Director John Ratcliffe’s Moscow visit, from Ukraine talks to NATO warnings and spy swaps Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/russia/644787-cia-chief-moscow-russian-media/",
-      "bloc": "western",
-      "date": "2026-08-28",
-      "datetime": "2026-08-28T19:59:53Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -550,56 +525,6 @@
       "variable_key": "nuclearSignalling",
       "event_type": "static_variable",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Mediators place renewed focus on reopening Hormuz",
-      "summary": "Iran war mediators have placed ⁠renewed emphasis on reopening the Strait of Hormuz, with Tehran agreeing to draw up a list of conditions to restore normal traffic.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0828/1589513-middle-east-iran/",
-      "bloc": "western",
-      "date": "2026-08-28",
-      "datetime": "2026-08-28T03:30:10Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran war diplomacy shifts focus to reopening Strait of Hormuz",
-      "summary": "The prolonged closure of the Strait of Hormuz underscores the geopolitical leverage Iran holds over global energy markets, impacting global oil supply stability.\nThe post Iran war diplomacy shifts focus to reopening Strait of Hormuz appeared first on Crypto B…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-strait-hormuz-diplomacy-reopening/",
-      "bloc": "western",
-      "date": "2026-08-28",
-      "datetime": "2026-08-28T01:44:59Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-05T20:07:45.846Z",
+  "ts": "2026-09-06T03:43:48.921Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 95,
     "oilStress": 44,
-    "updatedAt": "2026-09-05T20:07:45.846Z"
+    "updatedAt": "2026-09-06T03:43:48.921Z"
   },
   "items": [
     {
@@ -240,31 +240,6 @@
       "dimensions": [
         "survival",
         "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Betrayal by Luke Harding: A colourful, entertaining take on Trump, Russia and Ukraine",
-      "summary": "Interviews with ordinary Ukrainians light up this book’s pages, although it contains a strange fascination with ornithological detail",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/culture/books/review/2026/08/29/betrayal-by-luke-harding-a-colourful-entertaining-take-on-trump-russia-and-ukraine/",
-      "bloc": "western",
-      "date": "2026-08-29",
-      "datetime": "2026-08-29T03:33:00Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -559,31 +534,6 @@
       "bloc": "western",
       "date": "2026-08-30",
       "datetime": "2026-08-30T10:00:33Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Andrey Belousov: NATO nuclear expansion leaves Russia no choice but to respond",
-      "summary": "The Foreign Ministry’s Ambassador-at-Large says any wider US nuclear mission in Europe would force a military-technical response Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/644810-belousov-nato-russia-response/",
-      "bloc": "western",
-      "date": "2026-08-29",
-      "datetime": "2026-08-29T16:00:18Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

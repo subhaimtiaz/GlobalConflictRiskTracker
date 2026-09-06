@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-06T03:43:48.921Z",
+  "ts": "2026-09-06T10:36:06.828Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 95,
     "oilStress": 44,
-    "updatedAt": "2026-09-06T03:43:48.921Z"
+    "updatedAt": "2026-09-06T10:36:06.828Z"
   },
   "items": [
+    {
+      "headline": "New Saudi Nuclear Agreement Raises Concerns for Ending Iran Conflict",
+      "summary": "A newly publicized nuclear cooperation agreement between the United States and Saudi Arabia is raising concerns among analysts about its potential to undermine diplomatic efforts to end the ongoing conflict with Iran. The agreement, which was formally submitt…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-05-saudi-nuclear-agreement-concerns-ending-iran-conflict.html",
+      "bloc": "western",
+      "date": "2026-09-05",
+      "datetime": "2026-09-05T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "‘We Are Stalled’: US-Iran War Stuck With No End in Sight",
       "summary": "The US and Iran have intensified tit-for-tat military strikes in recent days, remaining locked between ceasefire and all-out war as the White House struggles to end the six-month conflict.",
@@ -118,28 +144,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Midterm bloodbath looms for the GOP: Democrats storm to an 8-point lead as Trump's Iran war and prices bite",
-      "summary": "Democrats are heading into the 2026 midterms with a significant polling advantage, as a new survey shows the party leading Republicans by 10 points among likely voters.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/us-politics/article-16096827/Midterm-bloodbath-GOP-Democrats-Iran.html",
+      "headline": "European Gas Prices Rise to Highest Since 2023 as U.S. Intensifies Strikes on Iran",
+      "summary": "European benchmark natural gas prices have climbed to their highest level since the 2023 energy crisis, according to market data, as the United States intensifies military operations against Iran. The Dutch TTF futures contract, the standard for European gas …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-05-european-gas-rise-highest-us-intesifies-strikes-iran.html",
       "bloc": "western",
-      "date": "2026-09-03",
-      "datetime": "2026-09-03T18:15:39Z",
+      "date": "2026-09-05",
+      "datetime": "2026-09-05T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Sanctioning a Ghost: Europe’s Empty Gesture Against Iran",
+      "summary": "US Treasury Secretary Scott Bessent announced today that the European Union has “officially joined” the American sanctions campaign against Iran — Operation Economic Outcast — and framed Tehran’s choice in the usual absolutes: complete global isolation and a …",
+      "source": "Lewrockwell.com",
+      "url": "https://www.lewrockwell.com/2026/09/no_author/sanctioning-a-ghost-europes-empty-gesture-against-iran/",
+      "bloc": "western",
+      "date": "2026-09-05",
+      "datetime": "2026-09-05T04:01:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -177,58 +229,6 @@
       "bloc": "western",
       "date": "2026-09-02",
       "datetime": "2026-09-02T22:50:57Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
-      "summary": "Regional neighbours condemn attack this week that killed two crew members from the Philippines.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz",
-      "bloc": "regional",
-      "date": "2026-09-02",
-      "datetime": "2026-09-02T19:16:36Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Oil Exports Dive as Tankers at Risk From Hormuz to Red Sea",
-      "summary": "Saudi Arabia’s observed crude exports last month slumped to the lowest in at least nine years, as tankers were attacked following rising tensions in the Middle East.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/saudi-oil-exports-dive-as-tankers-at-risk-from-hormuz-to-red-sea/",
-      "bloc": "western",
-      "date": "2026-09-02",
-      "datetime": "2026-09-02T17:26:34Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -451,8 +451,8 @@
     {
       "headline": "Current price of oil as of August 31, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-08-31-2026/",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-august-31-123000575.html",
       "bloc": "western",
       "date": "2026-08-31",
       "datetime": "2026-08-31T12:30:00Z",

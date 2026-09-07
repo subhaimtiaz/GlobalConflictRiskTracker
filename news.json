@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-06T20:12:24.306Z",
+  "ts": "2026-09-07T03:43:06.988Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 96,
     "oilStress": 46,
-    "updatedAt": "2026-09-06T20:12:24.306Z"
+    "updatedAt": "2026-09-07T03:43:06.988Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "US Central Command confirms striking and sinking Iranian oil tanker M/T Kylo in Gulf of Oman",
+      "summary": "The sinking of the Iranian tanker by the US escalates tensions, potentially increasing global oil prices and impacting regional stability.\nThe post US Central Command confirms striking and sinking Iranian oil tanker M/T Kylo in Gulf of Oman appeared first on …",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-centcom-sinks-iranian-oil-tanker-kylo/",
+      "bloc": "western",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T00:52:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "US military says three Iranian tankers struck in Gulf | CNN",
       "summary": "The United States military said Saturday its forces had struck three Iranian crude oil carriers after the Islamic Revolutionary Guard Corps (IRGC) launched ballistic missiles toward two US Navy warships.",
       "source": "CNN",
@@ -177,58 +203,6 @@
       "bloc": "western",
       "date": "2026-09-05",
       "datetime": "2026-09-05T11:56:32Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "European Gas Prices Rise to Highest Since 2023 as U.S. Intensifies Strikes on Iran",
-      "summary": "European benchmark natural gas prices have climbed to their highest level since the 2023 energy crisis, according to market data, as the United States intensifies military operations against Iran. The Dutch TTF futures contract, the standard for European gas …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-05-european-gas-rise-highest-us-intesifies-strikes-iran.html",
-      "bloc": "western",
-      "date": "2026-09-05",
-      "datetime": "2026-09-05T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sanctioning a Ghost: Europe’s Empty Gesture Against Iran",
-      "summary": "US Treasury Secretary Scott Bessent announced today that the European Union has “officially joined” the American sanctions campaign against Iran — Operation Economic Outcast — and framed Tehran’s choice in the usual absolutes: complete global isolation and a …",
-      "source": "Lewrockwell.com",
-      "url": "https://www.lewrockwell.com/2026/09/no_author/sanctioning-a-ghost-europes-empty-gesture-against-iran/",
-      "bloc": "western",
-      "date": "2026-09-05",
-      "datetime": "2026-09-05T04:01:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -317,30 +291,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The terrifying holes in America's China defense as Iran war drains the arsenal: Just 1,000 missile interceptors left, 30 warships diverted from the Pacific and $30bn in Taiwan weapons still undelivered",
-      "summary": "America's military stockpiles are being dangerously depleted by the prolonged war in the Middle East.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16085533/america-china-defense-iran-war-strain.html",
-      "bloc": "western",
-      "date": "2026-08-30",
-      "datetime": "2026-08-30T15:17:30Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -451,8 +401,8 @@
     {
       "headline": "Current price of oil as of August 31, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-august-31-123000575.html",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-31-2026/",
       "bloc": "western",
       "date": "2026-08-31",
       "datetime": "2026-08-31T12:30:00Z",
@@ -509,31 +459,6 @@
       "bloc": "western",
       "date": "2026-09-03",
       "datetime": "2026-09-03T10:00:13Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Nuclear Safeguards Are Gone – Former Canadian Foreign Minister Pt. 1/2",
-      "summary": "Lloyd Axworthy, the former Canadian Foreign Minister who led the campaign to ban landmines, traces how the memory of nuclear danger has faded even as more countries flirt with joining the club.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/nuclear-safeguards-are-gone-former-canadian-foreign-minister-pt-1-2.html",
-      "bloc": "western",
-      "date": "2026-08-30",
-      "datetime": "2026-08-30T10:00:33Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"
@@ -651,29 +576,6 @@
       "bloc": "western",
       "date": "2026-08-31",
       "datetime": "2026-08-31T06:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia says preparing ‘massive strikes’ on Ukraine’s energy sector",
-      "summary": "Russia’s Defense Ministry said on Aug. 30 that it was gearing up for large-scale attacks on Ukraine’s energy infrastructure in a tit-for-tat response to strikes by Kiev.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/russia-says-preparing-massive-strikes-on-ukraines-energy-sector-226223",
-      "bloc": "western",
-      "date": "2026-08-30",
-      "datetime": "2026-08-30T09:13:39Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

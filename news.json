@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-07T12:00:19.587Z",
+  "ts": "2026-09-07T17:43:52.044Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 96,
-    "oilStress": 46,
-    "updatedAt": "2026-09-07T12:00:19.587Z"
+    "oilPrice": 97,
+    "oilStress": 48,
+    "updatedAt": "2026-09-07T17:43:52.044Z"
   },
   "items": [
     {
@@ -144,13 +144,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Sunday: Hili dialogue",
-      "summary": "Welcome to Sunday, September 6, 2026, the second day of a three-day weekend, for tomorrow is Labor Day in America. It’s also National Read a Book Day (note, they don’t say “Listen to a book”). I’m on a Maggie O’Farrell kick, and after reading and enjoying Ham…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/09/06/sunday-hili-dialogue-602/",
+      "headline": "Trump’s “small potatoes” Iran War keeps escalating",
+      "summary": "Trump downplays 18 dead US troops and billions spent as US and Iran continue trading attacks and threats at sea",
+      "source": "Salon",
+      "url": "https://www.salon.com/2026/09/06/trumps-small-potatoes-iran-war-keeps-escalating/",
       "bloc": "western",
       "date": "2026-09-06",
-      "datetime": "2026-09-06T11:45:10Z",
+      "datetime": "2026-09-06T17:00:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "\"Strait of Hormuz is effectively blocked\": Foreign expert Robinder Sachdev on US-Iran \"tit-for-tat\" phase",
+      "summary": "The Strait of Hormuz faces sporadic tit-for-tat strikes between the United States and Iran.  American forces struck Iranian targets after Iran targeted US warships and bases.  Only a fraction of daily shipping traffic now passes through the vital waterway.  T…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/strait-of-hormuz-is-effectively-blocked-foreign-expert-robinder-sachdev-on-us-iran-tit-for-tat-phase/articleshow/133839328.cms",
+      "bloc": "regional",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T13:45:12Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran has 30 million barrels of oil left for China, says Treasury Secretary Bessent",
-      "summary": "US sanctions on Iran could destabilize global oil markets, strain Iran's economy, and test US-China relations amid geopolitical tensions.\nThe post Iran has 30 million barrels of oil left for China, says Treasury Secretary Bessent appeared first on Crypto Brie…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-30m-barrels-oil-china-bessent/",
+      "headline": "Iran, US Trade Tit-for-Tat Tanker Attacks As War Drags On",
+      "summary": "By Eltaf Najafizada and Weilun Soon Sep 6, 2026 (Bloomberg) –Iran said it targeted three oil tankers using an unauthorized route through the Strait of Hormuz, as well as a number...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-us-trade-tit-for-tat-tanker-attacks-as-war-drags-on/",
       "bloc": "western",
       "date": "2026-09-06",
-      "datetime": "2026-09-06T09:53:07Z",
+      "datetime": "2026-09-06T13:36:51Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -191,18 +217,18 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "WSJ: Say, Trump May Actually Win the Hormuz Crisis – by Mooting It",
-      "summary": "Strategic patience for the win? Iran's regime leaders thought they could force the US to buckle by strangling the global economy at the Strait of Hormuz. The US, however, has an actual blue-water navy, and that tends to matter in blockades involving a country…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4394406/posts",
+      "headline": "Strait Of Hormuz Remains In 'Lethal Stalemate' As Iran Attacks Persist Six Months Into War",
+      "summary": "The ongoing conflict in the Strait of Hormuz between the US, Israel, and Iran has led to a lethal stalemate, affecting global oil markets and posing significant risks to shipping companies.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-us-israel-iran-conflict-1875110",
       "bloc": "western",
       "date": "2026-09-06",
-      "datetime": "2026-09-06T05:12:24Z",
+      "datetime": "2026-09-06T13:23:06Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -217,18 +243,18 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "In War Crime, Trump sinks Civilian Iranian Tanker, disables 2 Others",
-      "summary": "The strikes and counter-strikes of Iran and the US are extremely dangerous and could easily spin out of control",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/09/civilian-iranian-disables.html",
+      "headline": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts",
+      "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
       "bloc": "western",
       "date": "2026-09-06",
-      "datetime": "2026-09-06T04:15:45Z",
+      "datetime": "2026-09-06T12:02:47Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -243,33 +269,7 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Central Command confirms striking and sinking Iranian oil tanker M/T Kylo in Gulf of Oman",
-      "summary": "The sinking of the Iranian tanker by the US escalates tensions, potentially increasing global oil prices and impacting regional stability.\nThe post US Central Command confirms striking and sinking Iranian oil tanker M/T Kylo in Gulf of Oman appeared first on …",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-centcom-sinks-iranian-oil-tanker-kylo/",
-      "bloc": "western",
-      "date": "2026-09-06",
-      "datetime": "2026-09-06T00:52:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-07T03:43:06.988Z",
+  "ts": "2026-09-07T12:00:19.587Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 96,
     "oilStress": 46,
-    "updatedAt": "2026-09-07T03:43:06.988Z"
+    "updatedAt": "2026-09-07T12:00:19.587Z"
   },
   "items": [
+    {
+      "headline": "Germany Approves Nearly $1 Billion in Arms Exports to Israel, Der Spiegel Reports",
+      "summary": "The German government approved nearly €800 million ($930 million) in arms exports to Israel between January and June, according to a report by German weekly Der Spiegel. The figure, which the magazine cited from a government response to a parliamentary inquir…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-06-germany-approves-israel-arms-exports-der-spiegel.html",
+      "bloc": "western",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US drafting post-war Middle East plan amid regional tensions: Axios",
       "summary": "The US's shift towards diplomacy in the Middle East could redefine regional alliances and impact future US-Iran relations significantly.\nThe post US drafting post-war Middle East plan amid regional tensions: Axios appeared first on Crypto Briefing.",
@@ -118,27 +144,105 @@
       "_from": "newsapi"
     },
     {
-      "headline": "How Much Oil Is Getting Through the Strait of Hormuz?",
-      "summary": "If you've looked at gas prices lately you already know the conflict with Iran is still having a big impact on prices at the pump. However, there's a genuine disagreement over how much oil is currently making it through the Strait of Hormuz. This week the Trum…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4394175/posts",
+      "headline": "Sunday: Hili dialogue",
+      "summary": "Welcome to Sunday, September 6, 2026, the second day of a three-day weekend, for tomorrow is Labor Day in America. It’s also National Read a Book Day (note, they don’t say “Listen to a book”). I’m on a Maggie O’Farrell kick, and after reading and enjoying Ham…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/09/06/sunday-hili-dialogue-602/",
       "bloc": "western",
-      "date": "2026-09-04",
-      "datetime": "2026-09-04T04:08:11Z",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T11:45:10Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran has 30 million barrels of oil left for China, says Treasury Secretary Bessent",
+      "summary": "US sanctions on Iran could destabilize global oil markets, strain Iran's economy, and test US-China relations amid geopolitical tensions.\nThe post Iran has 30 million barrels of oil left for China, says Treasury Secretary Bessent appeared first on Crypto Brie…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-30m-barrels-oil-china-bessent/",
+      "bloc": "western",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T09:53:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "WSJ: Say, Trump May Actually Win the Hormuz Crisis – by Mooting It",
+      "summary": "Strategic patience for the win? Iran's regime leaders thought they could force the US to buckle by strangling the global economy at the Strait of Hormuz. The US, however, has an actual blue-water navy, and that tends to matter in blockades involving a country…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4394406/posts",
+      "bloc": "western",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T05:12:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "In War Crime, Trump sinks Civilian Iranian Tanker, disables 2 Others",
+      "summary": "The strikes and counter-strikes of Iran and the US are extremely dangerous and could easily spin out of control",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/09/civilian-iranian-disables.html",
+      "bloc": "western",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T04:15:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -166,58 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US military says three Iranian tankers struck in Gulf | CNN",
-      "summary": "The United States military said Saturday its forces had struck three Iranian crude oil carriers after the Islamic Revolutionary Guard Corps (IRGC) launched ballistic missiles toward two US Navy warships.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/05/middleeast/iran-us-tanker-kharg-intl",
-      "bloc": "western",
-      "date": "2026-09-05",
-      "datetime": "2026-09-05T14:00:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US military warns Iranian oil tanker STARK 1 amid strike near Kharg Island",
-      "summary": "The escalation near Kharg Island heightens US-Iran tensions, impacting global oil markets and challenging maritime security norms.\nThe post US military warns Iranian oil tanker STARK 1 amid strike near Kharg Island appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-military-warns-iranian-tanker-stark-1-kharg-island/",
-      "bloc": "western",
-      "date": "2026-09-05",
-      "datetime": "2026-09-05T11:56:32Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -291,6 +343,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "South Korea Weighs Military Deployment to Strait of Hormuz, Presidential Office Says",
+      "summary": "The presidential office in Seoul said on Sept. 4 that military measures are among the options under review for a potential deployment to the Strait of Hormuz, according to officials. A presidential Blue House official said South Korea is reviewing practical o…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-06-south-korea-weighs-military-deployment-to-hormuz.html",
+      "bloc": "western",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -399,32 +477,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Current price of oil as of August 31, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-08-31-2026/",
-      "bloc": "western",
-      "date": "2026-08-31",
-      "datetime": "2026-08-31T12:30:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "The Ukrainization of Europe Picks Up Steam",
       "summary": "The UK and others dare Russia as Washington warns Moscow—or is it Russia warning the US?",
       "source": "Nakedcapitalism.com",
@@ -500,6 +552,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "India emerges as key diesel supplier to Europe as Russian, US flows falter",
+      "summary": "India now supplies sixty percent of diesel transiting Bab-el-Mandeb to Europe. Russian diesel exports remain severely constrained due to ongoing disruptions. US shipments to Europe have also begun to weaken significantly. Indian refineries are filling a cruci…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-emerges-as-key-diesel-supplier-to-europe-as-russian-us-flows-falter/articleshow/133826348.cms",
+      "bloc": "regional",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T04:59:25Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Taiwan isn't saying much about its war plans for a China fight — but its military drills are",
       "summary": "Unlike the staged drills of the past, Taiwan is now using its big Han Kuang exercise as a stress test for its troops.",
       "source": "Business Insider",
@@ -553,29 +628,6 @@
       "bloc": "western",
       "date": "2026-08-31",
       "datetime": "2026-08-31T09:37:50Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russian Forces Strike Transport and Logistics Center Near Kyiv",
-      "summary": "Russian armed forces carried out strikes on the Fim Service transport and logistics center in the settlement of Chaiky near Kyiv on Saturday, according to the Russian Defense Ministry. The ministry stated that the facility stored components for long-range Fla…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-31-russian-forces-strike-transport-logistics-center-near-kyiv.html",
-      "bloc": "western",
-      "date": "2026-08-31",
-      "datetime": "2026-08-31T06:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-07T03:42:01.615Z",
+  "updated": "2026-09-07T11:59:14.395Z",
   "retention_days": 30,
   "items": [
     {
@@ -8912,7 +8912,172 @@
       "_from": "newsapi",
       "first_seen": "2026-09-07T03:42:01.615Z",
       "run_id": "2026-09-07T03:42"
+    },
+    {
+      "headline": "Germany Approves Nearly $1 Billion in Arms Exports to Israel, Der Spiegel Reports",
+      "summary": "The German government approved nearly €800 million ($930 million) in arms exports to Israel between January and June, according to a report by German weekly Der Spiegel. The figure, which the magazine cited from a government response to a parliamentary inquir…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-06-germany-approves-israel-arms-exports-der-spiegel.html",
+      "bloc": "western",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-07T11:59:14.395Z",
+      "run_id": "2026-09-07T11:59"
+    },
+    {
+      "headline": "Iran has 30 million barrels of oil left for China, says Treasury Secretary Bessent",
+      "summary": "US sanctions on Iran could destabilize global oil markets, strain Iran's economy, and test US-China relations amid geopolitical tensions.\nThe post Iran has 30 million barrels of oil left for China, says Treasury Secretary Bessent appeared first on Crypto Brie…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-30m-barrels-oil-china-bessent/",
+      "bloc": "western",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T09:53:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-07T11:59:14.395Z",
+      "run_id": "2026-09-07T11:59"
+    },
+    {
+      "headline": "WSJ: Say, Trump May Actually Win the Hormuz Crisis – by Mooting It",
+      "summary": "Strategic patience for the win? Iran's regime leaders thought they could force the US to buckle by strangling the global economy at the Strait of Hormuz. The US, however, has an actual blue-water navy, and that tends to matter in blockades involving a country…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4394406/posts",
+      "bloc": "western",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T05:12:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-07T11:59:14.395Z",
+      "run_id": "2026-09-07T11:59"
+    },
+    {
+      "headline": "In War Crime, Trump sinks Civilian Iranian Tanker, disables 2 Others",
+      "summary": "The strikes and counter-strikes of Iran and the US are extremely dangerous and could easily spin out of control",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/09/civilian-iranian-disables.html",
+      "bloc": "western",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T04:15:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-07T11:59:14.395Z",
+      "run_id": "2026-09-07T11:59"
+    },
+    {
+      "headline": "South Korea Weighs Military Deployment to Strait of Hormuz, Presidential Office Says",
+      "summary": "The presidential office in Seoul said on Sept. 4 that military measures are among the options under review for a potential deployment to the Strait of Hormuz, according to officials. A presidential Blue House official said South Korea is reviewing practical o…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-06-south-korea-weighs-military-deployment-to-hormuz.html",
+      "bloc": "western",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-07T11:59:14.395Z",
+      "run_id": "2026-09-07T11:59"
+    },
+    {
+      "headline": "India emerges as key diesel supplier to Europe as Russian, US flows falter",
+      "summary": "India now supplies sixty percent of diesel transiting Bab-el-Mandeb to Europe. Russian diesel exports remain severely constrained due to ongoing disruptions. US shipments to Europe have also begun to weaken significantly. Indian refineries are filling a cruci…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-emerges-as-key-diesel-supplier-to-europe-as-russian-us-flows-falter/articleshow/133826348.cms",
+      "bloc": "regional",
+      "date": "2026-09-06",
+      "datetime": "2026-09-06T04:59:25Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-07T11:59:14.395Z",
+      "run_id": "2026-09-07T11:59"
     }
   ],
-  "total_items_ever": 3301
+  "total_items_ever": 3307
 }

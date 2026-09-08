@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-08T10:55:22.881Z",
+  "ts": "2026-09-08T16:19:16.742Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 99,
-    "oilStress": 50,
-    "updatedAt": "2026-09-08T10:55:22.881Z"
+    "oilPrice": 97,
+    "oilStress": 48,
+    "updatedAt": "2026-09-08T16:19:16.741Z"
   },
   "items": [
     {
@@ -144,65 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran to declare new ‘restricted zone’ outside Strait of Hormuz – official",
-      "summary": "Iran will announce a “restricted zone” for shipping outside the Strait of Hormuz in the coming days, National Security Council Secretary Mohsen Rezaei has said",
-      "source": "RT",
-      "url": "https://www.rt.com/news/645201-iran-us-hormuz-rezaei/",
+      "headline": "Iran vows response to US strikes, warns over energy sites",
+      "summary": "Iran has threatened to retaliate against any new US attacks on its assets, warning that the energy production chain in the region was \"sprawling, accessible and exposed\".",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/0907/1590537-iran-us-war/",
       "bloc": "western",
       "date": "2026-09-07",
-      "datetime": "2026-09-07T10:33:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Says to Announce New Restricted Zone in the Gulf in the Coming Days",
-      "summary": "Iran said it will announce a new restricted zone in the Gulf in the coming days, along with maps of a new shipping corridor through the Strait of Hormuz, as a weekend exchange of strikes on shipping sent oil prices higher on Monday.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/iran-says-to-announce-new-restricted-zone-in-the-gulf-in-the-coming-days/",
-      "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T09:40:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump’s “small potatoes” Iran War keeps escalating",
-      "summary": "Trump downplays 18 dead US troops and billions spent as US and Iran continue trading attacks and threats at sea",
-      "source": "Salon",
-      "url": "https://www.salon.com/2026/09/06/trumps-small-potatoes-iran-war-keeps-escalating/",
-      "bloc": "western",
-      "date": "2026-09-06",
-      "datetime": "2026-09-06T17:00:55Z",
+      "datetime": "2026-09-07T12:42:51Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,13 +170,91 @@
       "_from": "newsapi"
     },
     {
-      "headline": "\"Strait of Hormuz is effectively blocked\": Foreign expert Robinder Sachdev on US-Iran \"tit-for-tat\" phase",
-      "summary": "The Strait of Hormuz faces sporadic tit-for-tat strikes between the United States and Iran.  American forces struck Iranian targets after Iran targeted US warships and bases.  Only a fraction of daily shipping traffic now passes through the vital waterway.  T…",
+      "headline": "Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed'",
+      "summary": "Iran has threatened to retaliate against any new United States attacks on its assets. The nation warned that regional energy production is accessible and exposed to potential strikes. Iranian officials announced plans for a new restricted zone in the Gulf. Th…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/strait-of-hormuz-is-effectively-blocked-foreign-expert-robinder-sachdev-on-us-iran-tit-for-tat-phase/articleshow/133839328.cms",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-vows-to-respond-to-us-strikes-says-us-energy-companies-facilities-are-exposed/articleshow/133881313.cms",
       "bloc": "regional",
-      "date": "2026-09-06",
-      "datetime": "2026-09-06T13:45:12Z",
+      "date": "2026-09-07",
+      "datetime": "2026-09-07T12:31:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Says It Will Control New Hormuz Shipping Corridor",
+      "summary": "Iran said Monday that it is preparing to sign an agreement with Oman establishing a new shipping corridor through the Strait of Hormuz under Iranian control, with vessels required to coordinate with Tehran to enter a new restricted maritime zone around the cr…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-It-Will-Control-New-Hormuz-Shipping-Corridor.html",
+      "bloc": "western",
+      "date": "2026-09-07",
+      "datetime": "2026-09-07T11:47:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
+      "summary": "Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz",
+      "bloc": "regional",
+      "date": "2026-09-07",
+      "datetime": "2026-09-07T11:37:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran to declare new ‘restricted zone’ outside Strait of Hormuz – official",
+      "summary": "Iran will announce a “restricted zone” for shipping outside the Strait of Hormuz in the coming days, National Security Council Secretary Mohsen Rezaei has said",
+      "source": "RT",
+      "url": "https://www.rt.com/news/645201-iran-us-hormuz-rezaei/",
+      "bloc": "western",
+      "date": "2026-09-07",
+      "datetime": "2026-09-07T10:33:29Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

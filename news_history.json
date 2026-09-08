@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-08T16:18:11.525Z",
+  "updated": "2026-09-08T20:54:05.526Z",
   "retention_days": 30,
   "items": [
     {
@@ -9193,7 +9193,60 @@
       "_from": "newsapi",
       "first_seen": "2026-09-08T16:18:11.525Z",
       "run_id": "2026-09-08T16:18"
+    },
+    {
+      "headline": "Iran warns US energy assets in Gulf are vulnerable after latest clashes",
+      "summary": "Iran has tightened restrictions on shipping through ‌the Strait of Hormuz, a critical artery for global oil and gas supplies, since the war began ​with U.S. and Israeli strikes on February 28.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/iran-warns-us-energy-assets-in-gulf-are-vulnerable-after-latest-clashes-126090701495_1.html",
+      "bloc": "western",
+      "date": "2026-09-07",
+      "datetime": "2026-09-07T16:59:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-08T20:54:05.525Z",
+      "run_id": "2026-09-08T20:54"
+    },
+    {
+      "headline": "Sudan Could Become the Red Sea’s Next Energy Security Flashpoint",
+      "summary": "The investigations published by The New York Times and The Washington Post should not be dismissed as another collection of allegations emerging from Sudan’s opaque civil war. Taken together, they present the most substantial publicly available evidence yet t…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Africa/Sudan-Could-Become-the-Red-Seas-Next-Energy-Security-Flashpoint.html",
+      "bloc": "western",
+      "date": "2026-09-07",
+      "datetime": "2026-09-07T19:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-08T20:54:05.525Z",
+      "run_id": "2026-09-08T20:54"
     }
   ],
-  "total_items_ever": 3320
+  "total_items_ever": 3322
 }

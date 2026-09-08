@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-08T16:19:16.742Z",
+  "ts": "2026-09-08T20:55:10.742Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 97,
-    "oilStress": 48,
-    "updatedAt": "2026-09-08T16:19:16.741Z"
+    "oilPrice": 99,
+    "oilStress": 51,
+    "updatedAt": "2026-09-08T20:55:10.742Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran warns US energy assets in Gulf are vulnerable after latest clashes",
+      "summary": "Iran has tightened restrictions on shipping through ‌the Strait of Hormuz, a critical artery for global oil and gas supplies, since the war began ​with U.S. and Israeli strikes on February 28.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/iran-warns-us-energy-assets-in-gulf-are-vulnerable-after-latest-clashes-126090701495_1.html",
+      "bloc": "western",
+      "date": "2026-09-07",
+      "datetime": "2026-09-07T16:59:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran vows response to US strikes, warns over energy sites",
       "summary": "Iran has threatened to retaliate against any new US attacks on its assets, warning that the energy production chain in the region was \"sprawling, accessible and exposed\".",
       "source": "RTE",
@@ -229,32 +255,6 @@
       "bloc": "regional",
       "date": "2026-09-07",
       "datetime": "2026-09-07T11:37:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran to declare new ‘restricted zone’ outside Strait of Hormuz – official",
-      "summary": "Iran will announce a “restricted zone” for shipping outside the Strait of Hormuz in the coming days, National Security Council Secretary Mohsen Rezaei has said",
-      "source": "RT",
-      "url": "https://www.rt.com/news/645201-iran-us-hormuz-rezaei/",
-      "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T10:33:29Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -496,6 +496,29 @@
       "variable_key": null,
       "event_type": "personnel_killed",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Sudan Could Become the Red Sea’s Next Energy Security Flashpoint",
+      "summary": "The investigations published by The New York Times and The Washington Post should not be dismissed as another collection of allegations emerging from Sudan’s opaque civil war. Taken together, they present the most substantial publicly available evidence yet t…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Africa/Sudan-Could-Become-the-Red-Seas-Next-Energy-Security-Flashpoint.html",
+      "bloc": "western",
+      "date": "2026-09-07",
+      "datetime": "2026-09-07T19:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

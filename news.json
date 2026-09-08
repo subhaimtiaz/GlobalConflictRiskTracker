@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-07T21:20:05.819Z",
+  "ts": "2026-09-08T03:48:04.563Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 97,
-    "oilStress": 48,
-    "updatedAt": "2026-09-07T21:20:05.819Z"
+    "oilPrice": 98,
+    "oilStress": 49,
+    "updatedAt": "2026-09-08T03:48:04.563Z"
   },
   "items": [
     {
@@ -274,31 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Understanding And Dealing With Kim Jong-Un’s Resilience",
-      "summary": "Photo Credit:\n \n American Thinker AIBy Mario Alexis PortellaKim Jong Un has strengthened North Korea through repression, nuclear expansion, strategic alliances, and carefully managing looming succession risks.",
-      "source": "Americanthinker.com",
-      "url": "https://www.americanthinker.com/articles/2026/08/understanding-and-dealing-with-kim-jong-un-s-resilience/",
-      "bloc": "western",
-      "date": "2026-08-31",
-      "datetime": "2026-08-31T04:00:00Z",
-      "leaders": [
-        "Kim Jong-un"
-      ],
-      "watch_terms": [
-        "Kim Jong-un North"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "narcissism",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Chinese general responsible for Taiwan meets US Indo-Pacific commander for first time",
       "summary": "This unprecedented dialogue may ease tensions and foster military communication, impacting future US-China relations and Taiwan's security dynamics.\nThe post Chinese general responsible for Taiwan meets US Indo-Pacific commander for first time appeared first …",
       "source": "Crypto Briefing",
@@ -343,6 +318,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil extends gains after US and Iran strike ships",
+      "summary": "Oil prices experienced a significant rise on Monday, following a spike in tensions between the US and Iran. The US struck three Iranian oil tankers in a bold move, while Iran responded by targeting US vessels. Maritime intelligence highlighted an alarming esc…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-extends-gains-after-us-and-iran-strike-ships/articleshow/133859487.cms",
+      "bloc": "regional",
+      "date": "2026-09-07",
+      "datetime": "2026-09-07T02:07:15Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -451,59 +452,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Fed’s Goolsbee says AI is ‘not far’ from overheating the economy",
-      "summary": "Everything you need to know before you reach the office this morning.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/02/fed-austan-goolsbee-ai-is-not-far-from-overheating-economy/",
-      "bloc": "western",
-      "date": "2026-09-02",
-      "datetime": "2026-09-02T10:19:43Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Ukrainization of Europe Picks Up Steam",
-      "summary": "The UK and others dare Russia as Washington warns Moscow—or is it Russia warning the US?",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/the-ukrainization-of-europe-picks-up-steam.html",
-      "bloc": "western",
-      "date": "2026-08-31",
-      "datetime": "2026-08-31T09:00:07Z",
-      "leaders": [
-        "Kim Jong-un",
-        "Vladimir Putin",
-        "General Asim Munir"
-      ],
-      "watch_terms": [
-        "nuclear signalling threat"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival",
-        "narcissism"
-      ],
-      "variable_key": "nuclearSignalling",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "The Rules-Based Nuclear Bomb",
       "summary": "Traditional accounts of nuclear nonproliferation obfuscate that states with the bomb sell the path to it and are planning to use it themselves.",
       "source": "Nakedcapitalism.com",
@@ -582,52 +530,6 @@
       "bloc": "western",
       "date": "2026-09-01",
       "datetime": "2026-09-01T05:19:45Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Awkward moment squirming Putin is told to 'move from endless war to the end of war' in meeting with India's PM Modi",
-      "summary": "Vladimir Putin has been told to halt his interminable war in Ukraine for the sake of humanity during a meeting in Kyrgyzstan with Indian Prime Minister Narendra Modi.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16093667/squirming-Putin-endless-war-end-India-Modi.html",
-      "bloc": "western",
-      "date": "2026-08-31",
-      "datetime": "2026-08-31T23:01:55Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Putin 'fears being hanged' for failing in Ukraine and is planning to escalate war, insider claims amid Kremlin warnings Britain is in the crosshairs",
-      "summary": "Sources close to the Kremlin have claimed Mr Putin has chosen to escalate the war, fearing he could face backlash from the Russian public if he ends the conflict without being able to claim victory.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16092593/Putin-fears-hanged-failing-Ukraine-planning-escalate-war-insider-claims-amid-Kremlin-warnings-Britain-crosshairs.html",
-      "bloc": "western",
-      "date": "2026-08-31",
-      "datetime": "2026-08-31T09:37:50Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

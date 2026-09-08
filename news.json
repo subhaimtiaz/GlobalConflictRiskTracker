@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-08T03:48:04.563Z",
+  "ts": "2026-09-08T10:55:22.881Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 98,
-    "oilStress": 49,
-    "updatedAt": "2026-09-08T03:48:04.563Z"
+    "oilPrice": 99,
+    "oilStress": 50,
+    "updatedAt": "2026-09-08T10:55:22.881Z"
   },
   "items": [
+    {
+      "headline": "The \"genocide\" LIE (2026 Update)",
+      "summary": "[Updated frequently]The genocide lieThe \"Genocide\" lie isn't a debate over facts—it's a coldly orchestrated political weapon: funded, coordinated, and laser-focused on forcing one toxic smear-word into every mouth, every headline, every official statement, th…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-bloggers/4394531/posts",
+      "bloc": "western",
+      "date": "2026-09-07",
+      "datetime": "2026-09-07T10:32:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Germany Approves Nearly $1 Billion in Arms Exports to Israel, Der Spiegel Reports",
       "summary": "The German government approved nearly €800 million ($930 million) in arms exports to Israel between January and June, according to a report by German weekly Der Spiegel. The figure, which the magazine cited from a government response to a parliamentary inquir…",
@@ -118,27 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "‘We Are Stalled’: US-Iran War Stuck With No End in Sight",
-      "summary": "The US and Iran have intensified tit-for-tat military strikes in recent days, remaining locked between ceasefire and all-out war as the White House struggles to end the six-month conflict.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/we-are-stalled-us-iran-war-stuck-with-no-end-in-sight/",
+      "headline": "Iran to declare new ‘restricted zone’ outside Strait of Hormuz – official",
+      "summary": "Iran will announce a “restricted zone” for shipping outside the Strait of Hormuz in the coming days, National Security Council Secretary Mohsen Rezaei has said",
+      "source": "RT",
+      "url": "https://www.rt.com/news/645201-iran-us-hormuz-rezaei/",
       "bloc": "western",
-      "date": "2026-09-04",
-      "datetime": "2026-09-04T16:44:51Z",
+      "date": "2026-09-07",
+      "datetime": "2026-09-07T10:33:29Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Says to Announce New Restricted Zone in the Gulf in the Coming Days",
+      "summary": "Iran said it will announce a new restricted zone in the Gulf in the coming days, along with maps of a new shipping corridor through the Strait of Hormuz, as a weekend exchange of strikes on shipping sent oil prices higher on Monday.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-says-to-announce-new-restricted-zone-in-the-gulf-in-the-coming-days/",
+      "bloc": "western",
+      "date": "2026-09-07",
+      "datetime": "2026-09-07T09:40:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -192,84 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran, US Trade Tit-for-Tat Tanker Attacks As War Drags On",
-      "summary": "By Eltaf Najafizada and Weilun Soon Sep 6, 2026 (Bloomberg) –Iran said it targeted three oil tankers using an unauthorized route through the Strait of Hormuz, as well as a number...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/iran-us-trade-tit-for-tat-tanker-attacks-as-war-drags-on/",
-      "bloc": "western",
-      "date": "2026-09-06",
-      "datetime": "2026-09-06T13:36:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait Of Hormuz Remains In 'Lethal Stalemate' As Iran Attacks Persist Six Months Into War",
-      "summary": "The ongoing conflict in the Strait of Hormuz between the US, Israel, and Iran has led to a lethal stalemate, affecting global oil markets and posing significant risks to shipping companies.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/strait-hormuz-us-israel-iran-conflict-1875110",
-      "bloc": "western",
-      "date": "2026-09-06",
-      "datetime": "2026-09-06T13:23:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts",
-      "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-      "bloc": "western",
-      "date": "2026-09-06",
-      "datetime": "2026-09-06T12:02:47Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

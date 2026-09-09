@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-09T16:14:18.478Z",
+  "ts": "2026-09-09T20:43:13.170Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 101,
-    "oilStress": 54,
-    "updatedAt": "2026-09-09T16:14:18.478Z"
+    "oilPrice": 102,
+    "oilStress": 55,
+    "updatedAt": "2026-09-09T20:43:13.170Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran-backed attacks threaten a second major oil chokepoint as new risk emerges for US consumers",
+      "summary": "Houthi missiles and drones struck Aramco facilities across Saudi Arabia, threatening to squeeze both the Strait of Hormuz and Bab el-Mandeb.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/iran-backed-attacks-threaten-second-major-oil-chokepoint-new-risk-emerges-us-consumers",
+      "bloc": "western",
+      "date": "2026-09-08",
+      "datetime": "2026-09-08T16:27:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Oil’s $100 nightmare is back as worst-case scenario is taking shape",
       "summary": "Houthi attacks on Saudi energy facilities have disrupted oil operations.  These strikes also pressure the Bab al-Mandeb chokepoint, impacting oil flows.  The Strait of Hormuz remains impaired, creating a dual threat to global supply.  This situation makes sig…",
       "source": "The Times of India",
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran warns US energy assets in Gulf are vulnerable after latest clashes",
-      "summary": "Iran has tightened restrictions on shipping through ‌the Strait of Hormuz, a critical artery for global oil and gas supplies, since the war began ​with U.S. and Israeli strikes on February 28.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/iran-warns-us-energy-assets-in-gulf-are-vulnerable-after-latest-clashes-126090701495_1.html",
-      "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T16:59:48Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Will Taiwan Just Give Up?",
       "summary": "The Taiwanese don’t trust Trump, and they don’t believe America will come to their defense. A deal with China is starting to look inevitable.",
       "source": "The Atlantic",
@@ -370,6 +370,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Labor Day Gasoline Just Hit a Record. Here’s What Comes Next",
+      "summary": "Beyond its historical roots as a day to honor the achievements and contributions of workers, Labor Day has emerged as one of the largest retail sales weekends of the year in the U.S., second only to Black Friday. People usually travel in large numbers, too, w…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Labor-Day-Gasoline-Just-Hit-a-Record-Heres-What-Comes-Next.html",
+      "bloc": "western",
+      "date": "2026-09-08",
+      "datetime": "2026-09-08T20:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
       "summary": "Bitcoin is in danger of repeating its failed May breakout, analysis warns as crypto and risk assets fall on renewed Middle East military escalation.",
       "source": "Cointelegraph",
@@ -455,32 +481,6 @@
       "bloc": "regional",
       "date": "2026-09-07",
       "datetime": "2026-09-07T02:07:15Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "South Korea Weighs Military Deployment to Strait of Hormuz, Presidential Office Says",
-      "summary": "The presidential office in Seoul said on Sept. 4 that military measures are among the options under review for a potential deployment to the Strait of Hormuz, according to officials. A presidential Blue House official said South Korea is reviewing practical o…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-06-south-korea-weighs-military-deployment-to-hormuz.html",
-      "bloc": "western",
-      "date": "2026-09-06",
-      "datetime": "2026-09-06T06:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

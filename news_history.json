@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-09T16:13:13.266Z",
+  "updated": "2026-09-09T20:42:07.794Z",
   "retention_days": 30,
   "items": [
     {
@@ -9105,7 +9105,63 @@
       "_from": "newsapi",
       "first_seen": "2026-09-09T16:13:13.266Z",
       "run_id": "2026-09-09T16:13"
+    },
+    {
+      "headline": "Iran-backed attacks threaten a second major oil chokepoint as new risk emerges for US consumers",
+      "summary": "Houthi missiles and drones struck Aramco facilities across Saudi Arabia, threatening to squeeze both the Strait of Hormuz and Bab el-Mandeb.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/iran-backed-attacks-threaten-second-major-oil-chokepoint-new-risk-emerges-us-consumers",
+      "bloc": "western",
+      "date": "2026-09-08",
+      "datetime": "2026-09-08T16:27:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-09T20:42:07.793Z",
+      "run_id": "2026-09-09T20:42"
+    },
+    {
+      "headline": "Labor Day Gasoline Just Hit a Record. Here’s What Comes Next",
+      "summary": "Beyond its historical roots as a day to honor the achievements and contributions of workers, Labor Day has emerged as one of the largest retail sales weekends of the year in the U.S., second only to Black Friday. People usually travel in large numbers, too, w…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Labor-Day-Gasoline-Just-Hit-a-Record-Heres-What-Comes-Next.html",
+      "bloc": "western",
+      "date": "2026-09-08",
+      "datetime": "2026-09-08T20:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-09T20:42:07.793Z",
+      "run_id": "2026-09-09T20:42"
     }
   ],
-  "total_items_ever": 3334
+  "total_items_ever": 3336
 }

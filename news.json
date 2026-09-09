@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-09T10:59:44.487Z",
+  "ts": "2026-09-09T16:14:18.478Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 101,
-    "oilStress": 53,
-    "updatedAt": "2026-09-09T10:59:44.487Z"
+    "oilStress": 54,
+    "updatedAt": "2026-09-09T16:14:18.478Z"
   },
   "items": [
+    {
+      "headline": "Pakistan Takes SCO Presidency at a Crucial Time: What to Expect",
+      "summary": "As SCO chair, Pakistan can be expected to highlight new connectivity routes via Iran and Central Asia that link the Belt and Road Initiative to the Arabian Sea.",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/09/pakistan-takes-sco-presidency-at-a-crucial-time-what-to-expect/",
+      "bloc": "western",
+      "date": "2026-09-08",
+      "datetime": "2026-09-08T13:17:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Foreign Secretary Oral Statement on Israel-Palestine",
+      "summary": "Foreign Secretary's oral statement to the House of Commons on Israel-Palestine as delivered.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260908-ukfcdo02.htm",
+      "bloc": "western",
+      "date": "2026-09-08",
+      "datetime": "2026-09-08T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
       "summary": "The Islamic Republic has vowed to announce a new restricted zone in the Gulf in the coming days, along with maps of a new shipping corridor through the Strait of Hormuz, though it was unclear when details would emerge",
@@ -92,54 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US drafting post-war Middle East plan amid regional tensions: Axios",
-      "summary": "The US's shift towards diplomacy in the Middle East could redefine regional alliances and impact future US-Iran relations significantly.\nThe post US drafting post-war Middle East plan amid regional tensions: Axios appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-drafting-post-war-middle-east-plan-amid-regional-tensions-axios/",
-      "bloc": "western",
-      "date": "2026-09-05",
-      "datetime": "2026-09-05T14:08:08Z",
+      "headline": "Oil’s $100 nightmare is back as worst-case scenario is taking shape",
+      "summary": "Houthi attacks on Saudi energy facilities have disrupted oil operations.  These strikes also pressure the Bab al-Mandeb chokepoint, impacting oil flows.  The Strait of Hormuz remains impaired, creating a dual threat to global supply.  This situation makes sig…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oils-100-nightmare-is-back-as-worst-case-scenario-is-taking-shape/articleshow/133930259.cms",
+      "bloc": "regional",
+      "date": "2026-09-08",
+      "datetime": "2026-09-08T14:58:02Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait Of Hormuz Remains Effectively Closed As Six-Month Iran Crisis Grinds Into September Amid Tanker Attacks",
-      "summary": "The ongoing conflict involving the US, Israel, and Iran has severely disrupted shipping through the Strait of Hormuz, a critical oil trade route, with significant economic and human impacts.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/strait-hormuz-crisis-global-oil-trade-disruption-1875063",
-      "bloc": "western",
-      "date": "2026-09-05",
-      "datetime": "2026-09-05T13:02:13Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -248,20 +274,18 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran vows response to US strikes, warns over energy sites",
-      "summary": "Iran has threatened to retaliate against any new US attacks on its assets, warning that the energy production chain in the region was \"sprawling, accessible and exposed\".",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/middle-east/2026/0907/1590537-iran-us-war/",
+      "headline": "Will Taiwan Just Give Up?",
+      "summary": "The Taiwanese don’t trust Trump, and they don’t believe America will come to their defense. A deal with China is starting to look inevitable.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/magazine/2026/10/trump-taiwan-sovereignty-china/688356/",
       "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T12:42:51Z",
+      "date": "2026-09-08",
+      "datetime": "2026-09-08T11:00:00Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
         "Xi Jinping"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",
@@ -269,7 +293,7 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -341,6 +365,58 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
+      "summary": "Bitcoin is in danger of repeating its failed May breakout, analysis warns as crypto and risk assets fall on renewed Middle East military escalation.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high",
+      "bloc": "western",
+      "date": "2026-09-08",
+      "datetime": "2026-09-08T15:41:11Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "$100 Brent Looms as China’s Oil Buying Rebounds",
+      "summary": "One of the reasons why the price of oil failed to soar during the \"actively kinetic\" phase of the Iran war, when shipments through Hormuz were effectively halted and the world faced a shortage of about 10-15 million barrels of oil per day, is that Chinese oil…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/100-Brent-Looms-as-Chinas-Oil-Buying-Rebounds.html",
+      "bloc": "western",
+      "date": "2026-09-08",
+      "datetime": "2026-09-08T14:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -420,58 +496,6 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Striking Oil: How the U.S. Play for Venezuela Fuels Supermajors",
-      "summary": "U.S. pursuit of a stake in Venezuelan oil rights amid Middle East supply risks could benefit Chevron, ExxonMobil, and Halliburton, whose recent earnings and...",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/articles/striking-oil-how-the-us-play-for-venezuela-fuels-supermajors/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "bloc": "western",
-      "date": "2026-09-02",
-      "datetime": "2026-09-02T17:55:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Sensex ends 373 pts lower at 76,570, Nifty below 24,000; Asian Paints, HDFC Bank fall most",
-      "summary": "Sensex, Nifty, Share Prices Highlights: BSE Sensex dropped 373.93 points, or 0.49 per cent, to settle at 76,570.35, while NSE Nifty slumped 141.35 points, or 0.59 per cent, to end at 23,914.45",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-2nd-september-2026/article71416736.ece",
-      "bloc": "western",
-      "date": "2026-09-02",
-      "datetime": "2026-09-02T11:11:06Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

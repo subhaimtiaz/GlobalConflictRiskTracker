@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-08T20:55:10.742Z",
+  "ts": "2026-09-09T03:52:53.611Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 99,
     "oilStress": 51,
-    "updatedAt": "2026-09-08T20:55:10.742Z"
+    "updatedAt": "2026-09-09T03:52:53.611Z"
   },
   "items": [
+    {
+      "headline": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
+      "summary": "The Islamic Republic has vowed to announce a new restricted zone in the Gulf in the coming days, along with maps of a new shipping corridor through the Strait of Hormuz, though it was unclear when details would emerge",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles/article71441119.ece",
+      "bloc": "western",
+      "date": "2026-09-08",
+      "datetime": "2026-09-08T03:21:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The \"genocide\" LIE (2026 Update)",
       "summary": "[Updated frequently]The genocide lieThe \"Genocide\" lie isn't a debate over facts—it's a coldly orchestrated political weapon: funded, coordinated, and laser-focused on forcing one toxic smear-word into every mouth, every headline, every official statement, th…",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "New Saudi Nuclear Agreement Raises Concerns for Ending Iran Conflict",
-      "summary": "A newly publicized nuclear cooperation agreement between the United States and Saudi Arabia is raising concerns among analysts about its potential to undermine diplomatic efforts to end the ongoing conflict with Iran. The agreement, which was formally submitt…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-05-saudi-nuclear-agreement-concerns-ending-iran-conflict.html",
+      "headline": "Iran says improved ballistic missile shows it will take preemptive action against threats",
+      "summary": "Iran state media on Monday said a ballistic missile with improved capabilities was demonstrating a new doctrine: Tehran “will take action against any threat,...",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/world/articles/iran-says-improved-ballistic-missile-212447311.html",
       "bloc": "western",
-      "date": "2026-09-05",
-      "datetime": "2026-09-05T06:00:00Z",
+      "date": "2026-09-07",
+      "datetime": "2026-09-07T21:24:47Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -229,32 +255,6 @@
       "bloc": "western",
       "date": "2026-09-07",
       "datetime": "2026-09-07T11:47:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
-      "summary": "Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz",
-      "bloc": "regional",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T11:37:46Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -530,29 +530,6 @@
       "bloc": "regional",
       "date": "2026-09-06",
       "datetime": "2026-09-06T04:59:25Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Taiwan isn't saying much about its war plans for a China fight — but its military drills are",
-      "summary": "Unlike the staged drills of the past, Taiwan is now using its big Han Kuang exercise as a stress test for its troops.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/how-taiwans-drills-reveal-unspoken-blueprint-for-chinese-invasion-2026-9#article",
-      "bloc": "western",
-      "date": "2026-09-01",
-      "datetime": "2026-09-01T05:19:45Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

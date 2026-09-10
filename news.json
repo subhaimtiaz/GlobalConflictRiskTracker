@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-09T20:43:13.170Z",
+  "ts": "2026-09-10T03:51:52.237Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 102,
-    "oilStress": 55,
-    "updatedAt": "2026-09-09T20:43:13.170Z"
+    "oilPrice": 101,
+    "oilStress": 54,
+    "updatedAt": "2026-09-10T03:51:52.237Z"
   },
   "items": [
     {
@@ -144,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "US hits Iranian tankers as Tehran attacks American bases",
+      "summary": "The Middle East war intensified with Iranian-backed Houthis in Yemen launching strikes on several Saudi cities, further embroiling a US ally in the conflict, while US forces hit ⁠multiple Iranian oil tankers and Iran targeted a US base in Jordan.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/0909/1590828-middle-east-iran/",
+      "bloc": "western",
+      "date": "2026-09-09",
+      "datetime": "2026-09-09T02:36:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran threatens tankers near Bahrain and Kuwait after US strikes",
+      "summary": "Iran’s Islamic Revolutionary Guard Corps (IRGC) has threatened to attack oil tankers near ports in Bahrain and Kuwait after US forces struck Iranian vessels just off Kharg Island, the country’s main oil export hub.",
+      "source": "RT",
+      "url": "https://www.rt.com/news/645293-iran-oil-tanker-attacks/",
+      "bloc": "western",
+      "date": "2026-09-08",
+      "datetime": "2026-09-08T21:25:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran-backed attacks threaten a second major oil chokepoint as new risk emerges for US consumers",
       "summary": "Houthi missiles and drones struck Aramco facilities across Saudi Arabia, threatening to squeeze both the Strait of Hormuz and Bab el-Mandeb.",
       "source": "Fox News",
@@ -222,58 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil Prices Climb Toward $100 as Middle East Peace Hopes Fade",
-      "summary": "Brent crude ticked up closer to $100 per barrel today as hopes for peace in the Middle East continued to shrink amid renewed mutual threats between the United States and Iran. At the time of writing, the international benchmark was trading at $97.66 per barre…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Toward-100-as-Middle-East-Peace-Hopes-Fade.html",
-      "bloc": "western",
-      "date": "2026-09-08",
-      "datetime": "2026-09-08T05:30:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says improved ballistic missile shows it will take preemptive action against threats",
-      "summary": "Iran state media on Monday said a ballistic missile with improved capabilities was demonstrating a new doctrine: Tehran “will take action against any threat,...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/world/articles/iran-says-improved-ballistic-missile-212447311.html",
-      "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T21:24:47Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Will Taiwan Just Give Up?",
       "summary": "The Taiwanese don’t trust Trump, and they don’t believe America will come to their defense. A deal with China is starting to look inevitable.",
       "source": "The Atlantic",
@@ -329,30 +329,6 @@
       "bloc": "western",
       "date": "2026-09-04",
       "datetime": "2026-09-04T11:49:24Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China’s Xi visits Egypt’s el-Sisi: Why it matters",
-      "summary": "Xi Jinping's historic Egypt visit aims to strengthen China-Egypt ties amid rising Middle East tensions.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters",
-      "bloc": "regional",
-      "date": "2026-09-02",
-      "datetime": "2026-09-02T15:00:30Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -448,6 +424,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Current price of oil as of September 8, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-september-8-130000481.html",
+      "bloc": "western",
+      "date": "2026-09-08",
+      "datetime": "2026-09-08T13:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Sensex today | Stock Market Highlights: Sensex down 555 pts, Nifty ends at 23,635 as crude oil nears $100",
       "summary": "Sensex, Nifty, Share Prices Highlights: Indian shares extended losses on Tuesday ​as oil surged toward $100 a barrel on escalating Middle East ‌tensions, while elevated volatility deepened declines in the Nifty ​during the closing auction for the ⁠weekly expi…",
       "source": "BusinessLine",
@@ -470,32 +472,6 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil extends gains after US and Iran strike ships",
-      "summary": "Oil prices experienced a significant rise on Monday, following a spike in tensions between the US and Iran. The US struck three Iranian oil tankers in a bold move, while Iran responded by targeting US vessels. Maritime intelligence highlighted an alarming esc…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-extends-gains-after-us-and-iran-strike-ships/articleshow/133859487.cms",
-      "bloc": "regional",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T02:07:15Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

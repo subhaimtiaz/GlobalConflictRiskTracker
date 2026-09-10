@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-10T10:56:40.906Z",
+  "ts": "2026-09-10T16:05:42.257Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 102,
-    "oilStress": 55,
-    "updatedAt": "2026-09-10T10:56:40.905Z"
+    "oilPrice": 107,
+    "oilStress": 63,
+    "updatedAt": "2026-09-10T16:05:42.257Z"
   },
   "items": [
     {
@@ -144,13 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran and US hit tankers in biggest wave of attacks on shipping since war began",
-      "summary": "The attacks in and around the vital Strait of Hormuz have sent the price of oil surging.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/iran-us-tankers-attacks-shipping-hormuz-war-6372881",
+      "headline": "US Destroys Five Iranian Tankers After Missile Attacks; Iran Hits Jordan Base as Oil Tops $100",
+      "summary": "The U.S. destroyed five Iranian oil tankers following missile attacks on a Navy warship, escalating tensions in a six-month conflict affecting global oil prices and regional stability.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/us-destroys-iranian-oil-tankers-naval-conflict-1875255",
       "bloc": "western",
       "date": "2026-09-09",
-      "datetime": "2026-09-09T10:55:00Z",
+      "datetime": "2026-09-09T15:34:54Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran is forging a new ring of proxies to threaten US allies in the Gulf, officials say",
-      "summary": "Regional officials tell The Associated Press that Yemen's Houthi rebels helped Iraqi militias launch drone attacks on Saudi oil facilities in July",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Business/wireStory/iran-forging-new-ring-proxies-threaten-us-allies-136292836",
+      "headline": "US, Iran Trade Strikes On Shipping As Oil Prices Surge Above $100 A Barrel",
+      "summary": "Iran said it attacked vessels near the Strait of Hormuz on September 9 after the United States destroyed several Iranian oil tankers overnight, in a sharp escalation in the six-month war.",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/iran-us-oil-shipping-hormuz/33851101.html",
       "bloc": "western",
       "date": "2026-09-09",
-      "datetime": "2026-09-09T06:19:38Z",
+      "datetime": "2026-09-09T15:29:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +196,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran-backed fighters in Yemen and Iraq are joining forces to threaten Gulf, officials say",
-      "summary": "Iran-backed groups in Iraq and Yemen are coordinating attacks on Saudi Arabia, with an aim to increase the costs of the ongoing war in Gaza.  The Houthis have also declared a blockade against Saudi shipping in the Red Sea.  This escalation threatens to reigni…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-backed-fighters-in-yemen-and-iraq-are-joining-forces-to-threaten-gulf-officials-say/articleshow/133954099.cms",
-      "bloc": "regional",
+      "headline": "With Hezbollah battered, Iran’s emerging proxy network of Houthis and Iraqi militias target Saudi Arabia and other U.S. allies",
+      "summary": "Cooperation between the two groups grew during the war in Gaza and now they are “squeezing Saudi like with pliers,” a senior analyst said.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/09/iran-hezbollah-houthis-saudi-arabia/",
+      "bloc": "western",
       "date": "2026-09-09",
-      "datetime": "2026-09-09T05:21:34Z",
+      "datetime": "2026-09-09T14:27:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran and US Hit Tankers in Biggest Wave of Attacks on Shipping Since War Began",
+      "summary": "Iran said on Wednesday it had attacked 10 ships near the Strait of Hormuz after the U.S. sank five Iranian oil tankers, in the biggest declared wave of tit-for-tat attacks on shipping by both sides since the start of the six-month-old war.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-and-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-began/",
+      "bloc": "western",
+      "date": "2026-09-09",
+      "datetime": "2026-09-09T12:08:38Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -218,6 +244,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Renewed U.S.-Iran exchanges send oil price back over $100 US for first time in several weeks",
+      "summary": "Iran said Wednesday it had attacked 10 ships near the Strait of Hormuz after the U.S. sank five Iranian oil tankers, with the\nattacks ‌in and around the vital waterway sending the international Brent crude benchmark over $100 US a barrel for the first time si…",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/iran-war-day-194-oil-price-9.7336774",
+      "bloc": "western",
+      "date": "2026-09-09",
+      "datetime": "2026-09-09T11:56:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -318,6 +370,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Bank of England Warns Iran War Could Push UK Inflation Above 4%",
+      "summary": "Bank of England governor Andrew Bailey has warned inflationary pressures are still buffeting the UK economy and energy prices could rise further next year if the war in Iran continues. Speaking to MPs on Tuesday, the Bank chief said inflation risks were “to t…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Bank-of-England-Warns-Iran-War-Could-Push-UK-Inflation-Above-4.html",
+      "bloc": "western",
+      "date": "2026-09-09",
+      "datetime": "2026-09-09T16:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Chinese Oil Demand Surge Drives Shanghai Crude Above $100, Brent Approaches Key Level",
       "summary": "Shanghai crude futures rose above $100 per barrel for the first time since the Iran war as Chinese buyers ramped up imports, according to a September 7 report from Zero Hedge [1]. Brent crude climbed above $97, marking the highest level in over a month, with …",
       "source": "Naturalnews.com",
@@ -377,32 +455,6 @@
       "bloc": "western",
       "date": "2026-09-08",
       "datetime": "2026-09-08T15:41:11Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "$100 Brent Looms as China’s Oil Buying Rebounds",
-      "summary": "One of the reasons why the price of oil failed to soar during the \"actively kinetic\" phase of the Iran war, when shipments through Hormuz were effectively halted and the world faced a shortage of about 10-15 million barrels of oil per day, is that Chinese oil…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/100-Brent-Looms-as-Chinas-Oil-Buying-Rebounds.html",
-      "bloc": "western",
-      "date": "2026-09-08",
-      "datetime": "2026-09-08T14:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

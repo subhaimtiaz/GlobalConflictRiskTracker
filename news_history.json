@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-10T03:50:47.022Z",
+  "updated": "2026-09-10T10:55:35.690Z",
   "retention_days": 30,
   "items": [
     {
@@ -8919,7 +8919,170 @@
       "_from": "newsapi",
       "first_seen": "2026-09-10T03:50:47.022Z",
       "run_id": "2026-09-10T03:50"
+    },
+    {
+      "headline": "Iran and US hit tankers in biggest wave of attacks on shipping since war began",
+      "summary": "The attacks in and around the vital Strait of Hormuz have sent the price of oil surging.",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/iran-us-tankers-attacks-shipping-hormuz-war-6372881",
+      "bloc": "western",
+      "date": "2026-09-09",
+      "datetime": "2026-09-09T10:55:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-10T10:55:35.690Z",
+      "run_id": "2026-09-10T10:55"
+    },
+    {
+      "headline": "Iran is forging a new ring of proxies to threaten US allies in the Gulf, officials say",
+      "summary": "Regional officials tell The Associated Press that Yemen's Houthi rebels helped Iraqi militias launch drone attacks on Saudi oil facilities in July",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/iran-forging-new-ring-proxies-threaten-us-allies-136292836",
+      "bloc": "western",
+      "date": "2026-09-09",
+      "datetime": "2026-09-09T06:19:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-10T10:55:35.690Z",
+      "run_id": "2026-09-10T10:55"
+    },
+    {
+      "headline": "Iran-backed fighters in Yemen and Iraq are joining forces to threaten Gulf, officials say",
+      "summary": "Iran-backed groups in Iraq and Yemen are coordinating attacks on Saudi Arabia, with an aim to increase the costs of the ongoing war in Gaza.  The Houthis have also declared a blockade against Saudi shipping in the Red Sea.  This escalation threatens to reigni…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-backed-fighters-in-yemen-and-iraq-are-joining-forces-to-threaten-gulf-officials-say/articleshow/133954099.cms",
+      "bloc": "regional",
+      "date": "2026-09-09",
+      "datetime": "2026-09-09T05:21:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-10T10:55:35.690Z",
+      "run_id": "2026-09-10T10:55"
+    },
+    {
+      "headline": "How to Survive in a World Without Rules",
+      "summary": "Self-help is becoming more vital in a vicious world.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/09/09/hal-brands-rules-based-order-great-power-politics-geopolitics/",
+      "bloc": "western",
+      "date": "2026-09-09",
+      "datetime": "2026-09-09T04:02:35Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-10T10:55:35.690Z",
+      "run_id": "2026-09-10T10:55"
+    },
+    {
+      "headline": "Chinese Oil Demand Surge Drives Shanghai Crude Above $100, Brent Approaches Key Level",
+      "summary": "Shanghai crude futures rose above $100 per barrel for the first time since the Iran war as Chinese buyers ramped up imports, according to a September 7 report from Zero Hedge [1]. Brent crude climbed above $97, marking the highest level in over a month, with …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-09-chinese-oil-demand-shanghai-above-100-level.html",
+      "bloc": "western",
+      "date": "2026-09-09",
+      "datetime": "2026-09-09T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-10T10:55:35.690Z",
+      "run_id": "2026-09-10T10:55"
+    },
+    {
+      "headline": "Houthi Strikes on Saudi Refinery Threaten Remaining Red Sea Energy Lifeline",
+      "summary": "Houthi Strikes Hit Key Saudi Energy Facility The Saudi Aramco refinery at Jazan on the Red Sea was engulfed in flames on Sept. 8 following a coordinated missile and drone attack by Yemen’s Houthi forces, according to reports from the War Zone and video circul…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-09-houthi-strikes-aramco-threaten-red-sea-energy-lifeline.html",
+      "bloc": "western",
+      "date": "2026-09-09",
+      "datetime": "2026-09-09T06:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-10T10:55:35.690Z",
+      "run_id": "2026-09-10T10:55"
     }
   ],
-  "total_items_ever": 3339
+  "total_items_ever": 3345
 }

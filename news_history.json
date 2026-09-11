@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-11T10:53:42.196Z",
+  "updated": "2026-09-11T16:08:26.830Z",
   "retention_days": 30,
   "items": [
     {
@@ -9051,7 +9051,119 @@
       "_from": "newsapi",
       "first_seen": "2026-09-11T10:53:42.196Z",
       "run_id": "2026-09-11T10:53"
+    },
+    {
+      "headline": "China’s Economic Crossroads: Growth, Inequality and Geopolitical Pressures",
+      "summary": "The momentum of China’s uneven 2025 recovery continued into the first six months of this year, but amid a decline in many sectors. Fixed asset investment fell 2.6% year-on-year by the end of 2025, and continued to fall into the first two quarters of 2026. Acc…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/economics/chinas-economic-crossroads-growth-inequality-and-geopolitical-pressures/",
+      "bloc": "western",
+      "date": "2026-09-10",
+      "datetime": "2026-09-10T13:09:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-11T16:08:26.830Z",
+      "run_id": "2026-09-11T16:08"
+    },
+    {
+      "headline": "Security Council, Surmounting Procedural Vote, Debates Work of 1737 Iran Sanctions Committee, with Divisions Lingering over 'Snapback', Nuclear Escalation Risks",
+      "summary": "With Security Council members locked into disagreement on whether sanctions concerning Iran's nuclear programme have snapped back or not, some speakers stressed the need to appoint experts to support that sanctions committee even as others insisted that the C…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260910-unsc01.htm",
+      "bloc": "western",
+      "date": "2026-09-10",
+      "datetime": "2026-09-10T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-11T16:08:26.830Z",
+      "run_id": "2026-09-11T16:08"
+    },
+    {
+      "headline": "Oil prices hit very unwelcome levels",
+      "summary": "Pump prices surge as Middle East fighting pushes Brent crude over $100.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/economy/middle-east-fighting-pushes-key-oil-price-above-100",
+      "bloc": "western",
+      "date": "2026-09-10",
+      "datetime": "2026-09-10T00:37:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-11T16:08:26.830Z",
+      "run_id": "2026-09-11T16:08"
+    },
+    {
+      "headline": "Why is the Bab el-Mandeb Strait so important?",
+      "summary": "Iran-backed Houthis aim to control Yemen's Red Sea coast and Bab el-Mandeb strait. This strategic waterway connects Asia to Europe via the Suez Canal. Major shipping firms have rerouted vessels, increasing freight costs and journey times. Houthi control could…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/why-is-the-bab-el-mandeb-strait-so-important/articleshow/134009253.cms",
+      "bloc": "regional",
+      "date": "2026-09-10",
+      "datetime": "2026-09-10T12:19:37Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-11T16:08:26.830Z",
+      "run_id": "2026-09-11T16:08"
     }
   ],
-  "total_items_ever": 3356
+  "total_items_ever": 3360
 }

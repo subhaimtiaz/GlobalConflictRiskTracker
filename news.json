@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-11T10:54:47.519Z",
+  "ts": "2026-09-11T16:09:32.089Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,19 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 104,
-    "oilStress": 59,
-    "updatedAt": "2026-09-11T10:54:47.519Z"
+    "oilPrice": 105,
+    "oilStress": 60,
+    "updatedAt": "2026-09-11T16:09:32.089Z"
   },
   "items": [
     {
-      "headline": "Pakistan Takes SCO Presidency at a Crucial Time: What to Expect",
-      "summary": "As SCO chair, Pakistan can be expected to highlight new connectivity routes via Iran and Central Asia that link the Belt and Road Initiative to the Arabian Sea.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/09/pakistan-takes-sco-presidency-at-a-crucial-time-what-to-expect/",
+      "headline": "China’s Economic Crossroads: Growth, Inequality and Geopolitical Pressures",
+      "summary": "The momentum of China’s uneven 2025 recovery continued into the first six months of this year, but amid a decline in many sectors. Fixed asset investment fell 2.6% year-on-year by the end of 2025, and continued to fall into the first two quarters of 2026. Acc…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/economics/chinas-economic-crossroads-growth-inequality-and-geopolitical-pressures/",
       "bloc": "western",
-      "date": "2026-09-08",
-      "datetime": "2026-09-08T13:17:00Z",
+      "date": "2026-09-10",
+      "datetime": "2026-09-10T13:09:58Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -40,13 +40,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Foreign Secretary Oral Statement on Israel-Palestine",
-      "summary": "Foreign Secretary's oral statement to the House of Commons on Israel-Palestine as delivered.",
+      "headline": "Security Council, Surmounting Procedural Vote, Debates Work of 1737 Iran Sanctions Committee, with Divisions Lingering over 'Snapback', Nuclear Escalation Risks",
+      "summary": "With Security Council members locked into disagreement on whether sanctions concerning Iran's nuclear programme have snapped back or not, some speakers stressed the need to appoint experts to support that sanctions committee even as others insisted that the C…",
       "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260908-ukfcdo02.htm",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260910-unsc01.htm",
       "bloc": "western",
-      "date": "2026-09-08",
-      "datetime": "2026-09-08T12:00:00Z",
+      "date": "2026-09-10",
+      "datetime": "2026-09-10T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil prices hit very unwelcome levels",
+      "summary": "Pump prices surge as Middle East fighting pushes Brent crude over $100.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/economy/middle-east-fighting-pushes-key-oil-price-above-100",
+      "bloc": "western",
+      "date": "2026-09-10",
+      "datetime": "2026-09-10T00:37:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,28 +92,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
-      "summary": "The Islamic Republic has vowed to announce a new restricted zone in the Gulf in the coming days, along with maps of a new shipping corridor through the Strait of Hormuz, though it was unclear when details would emerge",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles/article71441119.ece",
-      "bloc": "western",
-      "date": "2026-09-08",
-      "datetime": "2026-09-08T03:21:22Z",
+      "headline": "Why is the Bab el-Mandeb Strait so important?",
+      "summary": "Iran-backed Houthis aim to control Yemen's Red Sea coast and Bab el-Mandeb strait. This strategic waterway connects Asia to Europe via the Suez Canal. Major shipping firms have rerouted vessels, increasing freight costs and journey times. Houthi control could…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/why-is-the-bab-el-mandeb-strait-so-important/articleshow/134009253.cms",
+      "bloc": "regional",
+      "date": "2026-09-10",
+      "datetime": "2026-09-10T12:19:37Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -177,32 +203,6 @@
       "bloc": "western",
       "date": "2026-09-09",
       "datetime": "2026-09-09T15:34:54Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US, Iran Trade Strikes On Shipping As Oil Prices Surge Above $100 A Barrel",
-      "summary": "Iran said it attacked vessels near the Strait of Hormuz on September 9 after the United States destroyed several Iranian oil tankers overnight, in a sharp escalation in the six-month war.",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "url": "https://www.rferl.org/a/iran-us-oil-shipping-hormuz/33851101.html",
-      "bloc": "western",
-      "date": "2026-09-09",
-      "datetime": "2026-09-09T15:29:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

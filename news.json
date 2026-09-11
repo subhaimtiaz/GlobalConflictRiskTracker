@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-10T20:38:10.053Z",
+  "ts": "2026-09-11T03:48:30.679Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 108,
     "oilStress": 66,
-    "updatedAt": "2026-09-10T20:38:10.053Z"
+    "updatedAt": "2026-09-11T03:48:30.679Z"
   },
   "items": [
     {
@@ -448,80 +448,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
-      "summary": "Bitcoin is in danger of repeating its failed May breakout, analysis warns as crypto and risk assets fall on renewed Middle East military escalation.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high",
-      "bloc": "western",
-      "date": "2026-09-08",
-      "datetime": "2026-09-08T15:41:11Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Rules-Based Nuclear Bomb",
-      "summary": "Traditional accounts of nuclear nonproliferation obfuscate that states with the bomb sell the path to it and are planning to use it themselves.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/the-rules-based-nuclear-bomb.html",
-      "bloc": "western",
-      "date": "2026-09-03",
-      "datetime": "2026-09-03T10:00:13Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russian nuclear chief who ordered strike on Ukrainian children’s hospital shot in head in attempted assassination",
-      "summary": "The commander is blamed by Ukrainian security services for multiple atrocities during the conflict.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/03/world-news/russian-nuclear-commander-shot-in-head-in-failed-assassination/",
-      "bloc": "western",
-      "date": "2026-09-03",
-      "datetime": "2026-09-03T12:58:21Z",
-      "leaders": [],
-      "watch_terms": [
-        "general commander killed"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Houthi Strikes on Saudi Refinery Threaten Remaining Red Sea Energy Lifeline",
       "summary": "Houthi Strikes Hit Key Saudi Energy Facility The Saudi Aramco refinery at Jazan on the Red Sea was engulfed in flames on Sept. 8 following a coordinated missile and drone attack by Yemen’s Houthi forces, according to reports from the War Zone and video circul…",
       "source": "Naturalnews.com",
@@ -609,28 +535,6 @@
       ],
       "variable_key": null,
       "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Says Iran Strikes to Be Short, Asserts Hormuz Control",
-      "summary": "President Donald Trump said renewed attacks on Iran would likely be short-lived, reiterating his claim that the US controls the crucial Strait of Hormuz after fresh fighting spiked energy prices and rekindled fears of an open-ended war. Asked on Wednesday …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/09/03/883847.htm",
-      "bloc": "western",
-      "date": "2026-09-03",
-      "datetime": "2026-09-03T14:23:17Z",
-      "leaders": [],
-      "watch_terms": [
-        "airstrike missile drone"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"

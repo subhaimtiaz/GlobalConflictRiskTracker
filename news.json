@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-11T03:48:30.679Z",
+  "ts": "2026-09-11T10:54:47.519Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 108,
-    "oilStress": 66,
-    "updatedAt": "2026-09-11T03:48:30.679Z"
+    "oilPrice": 104,
+    "oilStress": 59,
+    "updatedAt": "2026-09-11T10:54:47.519Z"
   },
   "items": [
     {
@@ -92,53 +92,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The \"genocide\" LIE (2026 Update)",
-      "summary": "[Updated frequently]The genocide lieThe \"Genocide\" lie isn't a debate over facts—it's a coldly orchestrated political weapon: funded, coordinated, and laser-focused on forcing one toxic smear-word into every mouth, every headline, every official statement, th…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4394531/posts",
+      "headline": "Iran War: Pakistan and Turkiye Saber Rattle at Iran Over Ansar Allah Attacks on Saudis; Oil at $101 a Barrel Even as Flows Out of Persian Gulf Increase Despite Iran’s More Aggressive Footing",
+      "summary": "Today's Iran war news: Oil prices grind upward as Pakistan and Turkiye bare their teeth over Ansar Allah's attacks on the Saudis.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-pakistan-and-turkiye-saber-rattle-at-iran-over-ansar-allah-attacks-on-saudis-oil-at-101-a-barrel-even-as-flows-out-of-persian-gulf-increase-despite-irans-more-aggressive-footing.html",
       "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T10:32:39Z",
+      "date": "2026-09-10",
+      "datetime": "2026-09-10T09:15:49Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Germany Approves Nearly $1 Billion in Arms Exports to Israel, Der Spiegel Reports",
-      "summary": "The German government approved nearly €800 million ($930 million) in arms exports to Israel between January and June, according to a report by German weekly Der Spiegel. The figure, which the magazine cited from a government response to a parliamentary inquir…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-06-germany-approves-israel-arms-exports-der-spiegel.html",
+      "headline": "This small island off Yemen is now a strategic prize in the widening Iran war | CNN",
+      "summary": "Perim Island sits in the Bab al-Mandab Strait, a pinch-point that’s taken on outsized importance since the war with Iran effectively shuttered the Strait of Hormuz.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/10/middleeast/yemen-perim-houthis-saudi-iran-war-intl",
       "bloc": "western",
-      "date": "2026-09-06",
-      "datetime": "2026-09-06T06:00:00Z",
+      "date": "2026-09-10",
+      "datetime": "2026-09-10T04:01:30Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -203,58 +203,6 @@
       "bloc": "western",
       "date": "2026-09-09",
       "datetime": "2026-09-09T15:29:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "With Hezbollah battered, Iran’s emerging proxy network of Houthis and Iraqi militias target Saudi Arabia and other U.S. allies",
-      "summary": "Cooperation between the two groups grew during the war in Gaza and now they are “squeezing Saudi like with pliers,” a senior analyst said.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/09/iran-hezbollah-houthis-saudi-arabia/",
-      "bloc": "western",
-      "date": "2026-09-09",
-      "datetime": "2026-09-09T14:27:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran and US Hit Tankers in Biggest Wave of Attacks on Shipping Since War Began",
-      "summary": "Iran said on Wednesday it had attacked 10 ships near the Strait of Hormuz after the U.S. sank five Iranian oil tankers, in the biggest declared wave of tit-for-tat attacks on shipping by both sides since the start of the six-month-old war.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/iran-and-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-began/",
-      "bloc": "western",
-      "date": "2026-09-09",
-      "datetime": "2026-09-09T12:08:38Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -370,6 +318,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Wall Street has thrown in the towel on a quick end to the global oil shock",
+      "summary": "Oil analysts are raising 2027 forecasts as disrupted Middle East shipping, shrinking stockpiles, and inflation risks linger.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9",
+      "bloc": "western",
+      "date": "2026-09-10",
+      "datetime": "2026-09-10T09:50:01Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Bank of England Warns Iran War Could Push UK Inflation Above 4%",
       "summary": "Bank of England governor Andrew Bailey has warned inflationary pressures are still buffeting the UK economy and energy prices could rise further next year if the war in Iran continues. Speaking to MPs on Tuesday, the Bank chief said inflation risks were “to t…",
       "source": "OilPrice.com",
@@ -422,28 +396,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Labor Day Gasoline Just Hit a Record. Here’s What Comes Next",
-      "summary": "Beyond its historical roots as a day to honor the achievements and contributions of workers, Labor Day has emerged as one of the largest retail sales weekends of the year in the U.S., second only to Black Friday. People usually travel in large numbers, too, w…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Labor-Day-Gasoline-Just-Hit-a-Record-Heres-What-Comes-Next.html",
+      "headline": "Saudi Arabia’s ‘Muslim NATO’ faces its first trial by fire",
+      "summary": "A major Houthi attack on Saudi Arabia has become the first test of the Mecca Agreement and its collective defense with Türkiye and Pakistan Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/645361-first-test-for-mecca-agreement/",
       "bloc": "western",
-      "date": "2026-09-08",
-      "datetime": "2026-09-08T20:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
+      "date": "2026-09-10",
+      "datetime": "2026-09-10T10:32:01Z",
+      "leaders": [],
       "watch_terms": [
-        "oil Brent crude"
+        "oil refinery port"
       ],
       "dimensions": [
         "survival",
-        "values"
+        "impulsivity",
+        "accountability"
       ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

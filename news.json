@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-11T16:09:32.089Z",
+  "ts": "2026-09-11T20:43:06.818Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 105,
     "oilStress": 60,
-    "updatedAt": "2026-09-11T16:09:32.089Z"
+    "updatedAt": "2026-09-11T20:43:06.818Z"
   },
   "items": [
     {
@@ -66,28 +66,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil prices hit very unwelcome levels",
-      "summary": "Pump prices surge as Middle East fighting pushes Brent crude over $100.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/economy/middle-east-fighting-pushes-key-oil-price-above-100",
-      "bloc": "western",
+      "headline": "Oil surges 6%, Brent and US crude both surpass $100 on more tanker attacks",
+      "summary": "Oil prices climbed over one hundred dollars per barrel on Thursday amid escalating attacks on shipping lanes. The surge was driven by fears of supply disruptions sparked by the Houthis' capture of a Yemeni port, posing significant risks to Red Sea navigation.…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-surges-6-brent-and-us-crude-both-surpass-100-on-more-tanker-attacks/articleshow/134024353.cms",
+      "bloc": "regional",
       "date": "2026-09-10",
-      "datetime": "2026-09-10T00:37:00Z",
+      "datetime": "2026-09-10T18:07:15Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil surges 5%, Brent and US crude both over $100 on more tanker attacks",
+      "summary": "Oil prices jumped 5% to above $100 a barrel as escalating US-Iran fighting and attacks on tankers raised fears of wider supply disruptions. Brent hit $106.60 while WTI crossed $100. Rising Chinese demand and tighter OPEC output are adding to market pressure, …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-surges-5-brent-and-us-crude-both-over-100-on-more-tanker-attacks/articleshow/134023313.cms",
+      "bloc": "regional",
+      "date": "2026-09-10",
+      "datetime": "2026-09-10T17:47:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -166,58 +192,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait Of Hormuz Gridlock: Oil Surges Past $100 As U.S. Tanker Strikes And Iran Missile Retaliation Trigger Global Panic",
-      "summary": "For decades, foreign policy experts warned about what would happen if someone decided to shut down the Strait of Hormuz. Now we are living that reality. The price of Brent crude just smashed through the $100 barrier after fighting between the U.S. and Iran er…",
-      "source": "Theeconomiccollapseblog.com",
-      "url": "http://theeconomiccollapseblog.com/strait-of-hormuz-gridlock-oil-surges-past-100-as-u-s-tanker-strikes-and-iran-missile-retaliation-trigger-global-panic/",
-      "bloc": "western",
-      "date": "2026-09-09",
-      "datetime": "2026-09-09T18:03:59Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Destroys Five Iranian Tankers After Missile Attacks; Iran Hits Jordan Base as Oil Tops $100",
-      "summary": "The U.S. destroyed five Iranian oil tankers following missile attacks on a Navy warship, escalating tensions in a six-month conflict affecting global oil prices and regional stability.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/us-destroys-iranian-oil-tankers-naval-conflict-1875255",
-      "bloc": "western",
-      "date": "2026-09-09",
-      "datetime": "2026-09-09T15:34:54Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

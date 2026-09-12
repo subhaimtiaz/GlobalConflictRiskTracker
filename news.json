@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-12T03:51:44.367Z",
+  "ts": "2026-09-12T10:22:18.319Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-09-12T03:51:44.367Z"
+    "updatedAt": "2026-09-12T10:22:18.319Z"
   },
   "items": [
     {
@@ -92,6 +92,110 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Saudi Arabia airstrikes hit Houthi rebels-held Mokha airport in Yemen",
+      "summary": "Saudi airstrikes hit the rebel-held Mokha airport in Yemen on Friday, an Iranian-backed Houthi broadcaster reported, a day after the Houthis entered the key port city on the Red Sea, bringing them closer to the strategic Bab el-Mandeb Strait.\nTheir advance fu…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/saudi-arabia-airstrikes-hit-houthi-rebels-held-mokha-airport-in-yemen-126091100699_1.html",
+      "bloc": "western",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T10:03:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Hormuz Shipping Traffic Falls to Single Digits, Data Shows",
+      "summary": "Vessel transits at the Strait of Hormuz fell to seven on Thursday from 11 the previous day, preliminary ship-tracking data showed on Friday, well below the 10-day average of 15.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/hormuz-shipping-traffic-falls-to-single-digits-data-shows/",
+      "bloc": "western",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T06:11:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Saudi oil output plunges to lowest level since 1990 as Houthi blockade, Iran war squeeze exports",
+      "summary": "Saudi Arabia’s oil production plunged to its lowest level since 1990 amid Middle East conflicts. The kingdom’s output fell 1.9 million barrels per day in August, a 23% drop from July. Houthi attacks and blockades in the Red Sea compounded disruptions already …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-11-saudi-oil-output-lowest-level-houthi.html",
+      "bloc": "western",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Shipping traffic through Strait of Hormuz falls to single digits, data shows",
+      "summary": "Vessel traffic in the Strait of Hormuz dropped significantly on Thursday.  Two Panamax ships exited the strait, carrying fertilizer and sailing in ballast.  Five vessels entered the strait, including cargo and petroleum product carriers.  Iran-aligned Houthis…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/shipping-traffic-through-strait-of-hormuz-falls-to-single-digits-data-shows/articleshow/134043909.cms",
+      "bloc": "regional",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T05:55:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Saudi oil output plunges to lowest since 1990 – Bloomberg",
       "summary": "Saudi Arabia’s crude oil production plunged by nearly 2 million barrels per day in August to its lowest level in over 35 years as war across the Middle East squeezed the kingdom’s export routes, Bloomberg reported on Thursday.",
       "source": "RT",
@@ -114,110 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil surges 6%, Brent and US crude both surpass $100 on more tanker attacks",
-      "summary": "Oil prices climbed over one hundred dollars per barrel on Thursday amid escalating attacks on shipping lanes. The surge was driven by fears of supply disruptions sparked by the Houthis' capture of a Yemeni port, posing significant risks to Red Sea navigation.…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-surges-6-brent-and-us-crude-both-surpass-100-on-more-tanker-attacks/articleshow/134024353.cms",
-      "bloc": "regional",
-      "date": "2026-09-10",
-      "datetime": "2026-09-10T18:07:15Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil surges 5%, Brent and US crude both over $100 on more tanker attacks",
-      "summary": "Oil prices jumped 5% to above $100 a barrel as escalating US-Iran fighting and attacks on tankers raised fears of wider supply disruptions. Brent hit $106.60 while WTI crossed $100. Rising Chinese demand and tighter OPEC output are adding to market pressure, …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-surges-5-brent-and-us-crude-both-over-100-on-more-tanker-attacks/articleshow/134023313.cms",
-      "bloc": "regional",
-      "date": "2026-09-10",
-      "datetime": "2026-09-10T17:47:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why is the Bab el-Mandeb Strait so important?",
-      "summary": "Iran-backed Houthis aim to control Yemen's Red Sea coast and Bab el-Mandeb strait. This strategic waterway connects Asia to Europe via the Suez Canal. Major shipping firms have rerouted vessels, increasing freight costs and journey times. Houthi control could…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/why-is-the-bab-el-mandeb-strait-so-important/articleshow/134009253.cms",
-      "bloc": "regional",
-      "date": "2026-09-10",
-      "datetime": "2026-09-10T12:19:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Pakistan and Turkiye Saber Rattle at Iran Over Ansar Allah Attacks on Saudis; Oil at $101 a Barrel Even as Flows Out of Persian Gulf Increase Despite Iran’s More Aggressive Footing",
-      "summary": "Today's Iran war news: Oil prices grind upward as Pakistan and Turkiye bare their teeth over Ansar Allah's attacks on the Saudis.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-pakistan-and-turkiye-saber-rattle-at-iran-over-ansar-allah-attacks-on-saudis-oil-at-101-a-barrel-even-as-flows-out-of-persian-gulf-increase-despite-irans-more-aggressive-footing.html",
-      "bloc": "western",
-      "date": "2026-09-10",
-      "datetime": "2026-09-10T09:15:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

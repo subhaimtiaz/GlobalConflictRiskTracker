@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-12T10:22:18.319Z",
+  "ts": "2026-09-12T15:16:52.950Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-09-12T10:22:18.319Z"
+    "updatedAt": "2026-09-12T15:16:52.950Z"
   },
   "items": [
+    {
+      "headline": "UK condemns “settler terrorists”, Sudan’s chemical weapons exposed, and Yemen’s war escalates: The Cheat Sheet",
+      "summary": "A weekly read to keep you in the loop on humanitarian issues.",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/09/11/uk-condemns-settler-terrorists-sudan-chemical-weapons-yemen-war-cheat-sheet",
+      "bloc": "western",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T14:23:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Israeli PM Netanyahu Allegedly Ignored Oct. 7, 2023, Warning; US Then Provided $22B in Military Aid",
+      "summary": "A disputed warning raises questions about Israeli accountability and the growing U.S. military commitment. The PM called the claims \"malicious libel.\"",
+      "source": "Military.com",
+      "url": "https://military.com/israeli-pm-netanyahu-ignored-hamaswarning-leading-up-oct-7-report",
+      "bloc": "western",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T13:48:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Fact-checking night 2 of the GOP midterm convention | CNN Politics",
       "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. and other speakers made false claims in remarks at the Republican midterm convention’s second night Thursday.",
@@ -66,39 +118,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Security Council, Surmounting Procedural Vote, Debates Work of 1737 Iran Sanctions Committee, with Divisions Lingering over 'Snapback', Nuclear Escalation Risks",
-      "summary": "With Security Council members locked into disagreement on whether sanctions concerning Iran's nuclear programme have snapped back or not, some speakers stressed the need to appoint experts to support that sanctions committee even as others insisted that the C…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260910-unsc01.htm",
-      "bloc": "western",
-      "date": "2026-09-10",
-      "datetime": "2026-09-10T12:00:00Z",
+      "headline": "New problem shaping up for the oil market as Hormuz remains shut",
+      "summary": "Houthi forces have seized Perim Island, threatening the vital Bab el-Mandeb Strait shipping lane. This development occurs as the Strait of Hormuz faces severe disruptions, impacting global oil flows. Saudi Arabia increasingly relies on the Red Sea route, whic…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/new-problem-shaping-up-for-the-oil-market-as-hormuz-remains-shut/articleshow/134072838.cms",
+      "bloc": "regional",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T14:40:41Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Saudi Arabia airstrikes hit Houthi rebels-held Mokha airport in Yemen",
-      "summary": "Saudi airstrikes hit the rebel-held Mokha airport in Yemen on Friday, an Iranian-backed Houthi broadcaster reported, a day after the Houthis entered the key port city on the Red Sea, bringing them closer to the strategic Bab el-Mandeb Strait.\nTheir advance fu…",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/saudi-arabia-airstrikes-hit-houthi-rebels-held-mokha-airport-in-yemen-126091100699_1.html",
+      "headline": "Saudi airstrikes hit Yemen's rebel-held Mokha airport as Houthis capture strategic island",
+      "summary": "Yemen's Iranian-backed Houthi rebels captured a strategic island in the Bab el-Mandeb Strait at the entrance of the Red Sea, two officials said Friday, in a swift advance that further threatens Saudi oil exports through one of the world's key commercial lanes.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/saudi-strikes-yemen-mokha-airport-houthis-island-9.7339979",
       "bloc": "western",
       "date": "2026-09-11",
-      "datetime": "2026-09-11T10:03:58Z",
+      "datetime": "2026-09-11T12:10:58Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -118,13 +170,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Hormuz Shipping Traffic Falls to Single Digits, Data Shows",
-      "summary": "Vessel transits at the Strait of Hormuz fell to seven on Thursday from 11 the previous day, preliminary ship-tracking data showed on Friday, well below the 10-day average of 15.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/hormuz-shipping-traffic-falls-to-single-digits-data-shows/",
+      "headline": "Iran’s oil exports crushed by US naval blockade, down over 80% from pre-blockade levels",
+      "summary": "The blockade exacerbates global oil market volatility, benefiting rival Gulf producers while straining Iran's economy and geopolitical stability.\nThe post Iran’s oil exports crushed by US naval blockade, down over 80% from pre-blockade levels appeared first o…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-oil-exports-us-naval-blockade/",
       "bloc": "western",
       "date": "2026-09-11",
-      "datetime": "2026-09-11T06:11:35Z",
+      "datetime": "2026-09-11T11:29:24Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -144,65 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Saudi oil output plunges to lowest level since 1990 as Houthi blockade, Iran war squeeze exports",
-      "summary": "Saudi Arabia’s oil production plunged to its lowest level since 1990 amid Middle East conflicts. The kingdom’s output fell 1.9 million barrels per day in August, a 23% drop from July. Houthi attacks and blockades in the Red Sea compounded disruptions already …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-11-saudi-oil-output-lowest-level-houthi.html",
+      "headline": "Houthis Capture a Key Red Sea Island; Saudis Retaliate",
+      "summary": "Yemen's Iranian-backed Houthi rebels captured a strategic island in the Bab el-Mandeb Strait at the entrance to the Red Sea, two officials said Friday, in a swift advance that further threatens Saudi oil exports through one of the world's key commercial lanes…",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/396273/houthis-capture-a-key-red-sea-island-saudis-retaliate.html",
       "bloc": "western",
       "date": "2026-09-11",
-      "datetime": "2026-09-11T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Shipping traffic through Strait of Hormuz falls to single digits, data shows",
-      "summary": "Vessel traffic in the Strait of Hormuz dropped significantly on Thursday.  Two Panamax ships exited the strait, carrying fertilizer and sailing in ballast.  Five vessels entered the strait, including cargo and petroleum product carriers.  Iran-aligned Houthis…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/shipping-traffic-through-strait-of-hormuz-falls-to-single-digits-data-shows/articleshow/134043909.cms",
-      "bloc": "regional",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T05:55:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi oil output plunges to lowest since 1990 – Bloomberg",
-      "summary": "Saudi Arabia’s crude oil production plunged by nearly 2 million barrels per day in August to its lowest level in over 35 years as war across the Middle East squeezed the kingdom’s export routes, Bloomberg reported on Thursday.",
-      "source": "RT",
-      "url": "https://www.rt.com/business/645415-saudi-oil-output-lowest/",
-      "bloc": "western",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T02:00:07Z",
+      "datetime": "2026-09-11T11:16:52Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -294,6 +294,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Sensex today | Stock Market Highlights: Sensex down 120 pts, Nifty closes at 23,398, logs 5th weekly loss as oil fears grip markets",
+      "summary": "Sensex, Nifty, Stock Price Highlights: Benchmark indices Sensex and Nifty ended marginally lower on Friday after registering sharp losses during the day following a drop in crude oil prices and buying in blue-chip HDFC Bank and IT stocks.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-11th-september-2026/article71453005.ece",
+      "bloc": "western",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T11:20:12Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Wall Street has thrown in the towel on a quick end to the global oil shock",
       "summary": "Oil analysts are raising 2027 forecasts as disrupted Middle East shipping, shrinking stockpiles, and inflation risks linger.",
       "source": "Business Insider",
@@ -346,26 +372,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Chinese Oil Demand Surge Drives Shanghai Crude Above $100, Brent Approaches Key Level",
-      "summary": "Shanghai crude futures rose above $100 per barrel for the first time since the Iran war as Chinese buyers ramped up imports, according to a September 7 report from Zero Hedge [1]. Brent crude climbed above $97, marking the highest level in over a month, with …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-09-chinese-oil-demand-shanghai-above-100-level.html",
+      "headline": "How 41 Senators Could End the Iran War and Rein In Defense Spending",
+      "summary": "In the days after the September 11, 2001 attacks, I joined Harry Belafonte, Danny Glover, the Institute for Policy Studies, YES! Magazine, and hundreds of other signatories in calling for “Justice, Not Vengeance.” We argued that the United States should find …",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/41-senators-end-iran-war",
       "bloc": "western",
-      "date": "2026-09-09",
-      "datetime": "2026-09-09T06:00:00Z",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T12:09:03Z",
       "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
+        "Vladimir Putin",
         "Donald J. Trump"
       ],
       "watch_terms": [
-        "oil Brent crude"
+        "arms control New"
       ],
       "dimensions": [
-        "survival",
+        "accountability",
         "values"
       ],
-      "variable_key": "oilPrice",
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-12T15:16:52.950Z",
+  "ts": "2026-09-12T20:27:21.434Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-09-12T15:16:52.950Z"
+    "updatedAt": "2026-09-12T20:27:21.434Z"
   },
   "items": [
     {
@@ -118,6 +118,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Houthi Territory Gains Threaten To Choke Off Saudi Oil, As Trump Refuses Call For Strikes",
+      "summary": "The Daily Caller is a 24-hour news publication providing its audience with original reporting, thought-provoking commentary and breaking news.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/09/11/houthis-saudi-arabia-oil-yemen-trump-strikes",
+      "bloc": "western",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T19:56:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Don’t Blame Ukraine for High Gas Prices",
+      "summary": "Kyiv’s energy war on Russia may hurt on the margins, but the real culprit is Trump’s war on Iran.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/09/11/gas-prices-trump-iran-war-wright-ukraine-russia/",
+      "bloc": "western",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T16:24:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "New problem shaping up for the oil market as Hormuz remains shut",
       "summary": "Houthi forces have seized Perim Island, threatening the vital Bab el-Mandeb Strait shipping lane. This development occurs as the Strait of Hormuz faces severe disruptions, impacting global oil flows. Saudi Arabia increasingly relies on the Red Sea route, whic…",
       "source": "The Times of India",
@@ -166,58 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran’s oil exports crushed by US naval blockade, down over 80% from pre-blockade levels",
-      "summary": "The blockade exacerbates global oil market volatility, benefiting rival Gulf producers while straining Iran's economy and geopolitical stability.\nThe post Iran’s oil exports crushed by US naval blockade, down over 80% from pre-blockade levels appeared first o…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-oil-exports-us-naval-blockade/",
-      "bloc": "western",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T11:29:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthis Capture a Key Red Sea Island; Saudis Retaliate",
-      "summary": "Yemen's Iranian-backed Houthi rebels captured a strategic island in the Bab el-Mandeb Strait at the entrance to the Red Sea, two officials said Friday, in a swift advance that further threatens Saudi oil exports through one of the world's key commercial lanes…",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/396273/houthis-capture-a-key-red-sea-island-saudis-retaliate.html",
-      "bloc": "western",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T11:16:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -323,7 +323,7 @@
       "headline": "Wall Street has thrown in the towel on a quick end to the global oil shock",
       "summary": "Oil analysts are raising 2027 forecasts as disrupted Middle East shipping, shrinking stockpiles, and inflation risks linger.",
       "source": "Business Insider",
-      "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9#article",
+      "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9",
       "bloc": "western",
       "date": "2026-09-10",
       "datetime": "2026-09-10T09:50:01Z",

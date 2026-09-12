@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-12T15:15:47.680Z",
+  "updated": "2026-09-12T20:26:16.095Z",
   "retention_days": 30,
   "items": [
     {
@@ -9361,7 +9361,63 @@
       "_from": "newsapi",
       "first_seen": "2026-09-12T15:15:47.680Z",
       "run_id": "2026-09-12T15:15"
+    },
+    {
+      "headline": "Houthi Territory Gains Threaten To Choke Off Saudi Oil, As Trump Refuses Call For Strikes",
+      "summary": "The Daily Caller is a 24-hour news publication providing its audience with original reporting, thought-provoking commentary and breaking news.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/09/11/houthis-saudi-arabia-oil-yemen-trump-strikes",
+      "bloc": "western",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T19:56:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-12T20:26:16.095Z",
+      "run_id": "2026-09-12T20:26"
+    },
+    {
+      "headline": "Don’t Blame Ukraine for High Gas Prices",
+      "summary": "Kyiv’s energy war on Russia may hurt on the margins, but the real culprit is Trump’s war on Iran.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/09/11/gas-prices-trump-iran-war-wright-ukraine-russia/",
+      "bloc": "western",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T16:24:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-12T20:26:16.095Z",
+      "run_id": "2026-09-12T20:26"
     }
   ],
-  "total_items_ever": 3376
+  "total_items_ever": 3378
 }

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-13T03:58:53.807Z",
+  "updated": "2026-09-13T11:22:09.645Z",
   "retention_days": 30,
   "items": [
     {
@@ -9176,7 +9176,63 @@
       "_from": "newsapi",
       "first_seen": "2026-09-13T03:58:53.806Z",
       "run_id": "2026-09-13T03:58"
+    },
+    {
+      "headline": "Saudi Arabia has few options as it faces mounting threats from Iran, its allies",
+      "summary": "US President Donald Trump seems reluctant to widen an already unpopular and stalemated West Asia war ahead of congressional elections",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-its-allies/article71459258.ece",
+      "bloc": "western",
+      "date": "2026-09-12",
+      "datetime": "2026-09-12T06:11:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-13T11:22:09.645Z",
+      "run_id": "2026-09-13T11:22"
+    },
+    {
+      "headline": "Links 9/12/2026",
+      "summary": "Our testy links: Houthi lighting strike takes key island + most of Bab el Mandeb coast, Saudis close key pipeline, US diesel over $6 and Brent nears $110, El Nino snarls Asia ports, UK bond yields spike, 9/11, Isreal destruction in Lebanon and Syria, McClatch…",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/links-9-12-2026.html",
+      "bloc": "western",
+      "date": "2026-09-12",
+      "datetime": "2026-09-12T10:55:36Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-13T11:22:09.645Z",
+      "run_id": "2026-09-13T11:22"
     }
   ],
-  "total_items_ever": 3379
+  "total_items_ever": 3381
 }

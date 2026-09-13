@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-12T20:27:21.434Z",
+  "ts": "2026-09-13T03:59:59.048Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-09-12T20:27:21.434Z"
+    "updatedAt": "2026-09-13T03:59:59.048Z"
   },
   "items": [
     {
@@ -113,6 +113,32 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iraqi Militias Join The Iran War As The Fire Rises",
+      "summary": "Just when you thought things couldn’t get worse, another player has entered the arena in the Iran War.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/09/11/iraq-militias-iran-war-saudi-arabia-pipeline-oil",
+      "bloc": "western",
+      "date": "2026-09-11",
+      "datetime": "2026-09-11T20:58:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -323,7 +349,7 @@
       "headline": "Wall Street has thrown in the towel on a quick end to the global oil shock",
       "summary": "Oil analysts are raising 2027 forecasts as disrupted Middle East shipping, shrinking stockpiles, and inflation risks linger.",
       "source": "Business Insider",
-      "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9",
+      "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9#article",
       "bloc": "western",
       "date": "2026-09-10",
       "datetime": "2026-09-10T09:50:01Z",

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-13T11:23:14.879Z",
+  "ts": "2026-09-13T15:53:13.594Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-09-13T11:23:14.879Z"
+    "updatedAt": "2026-09-13T15:53:13.594Z"
   },
   "items": [
+    {
+      "headline": "BRICS Summit 2026 Day 1 Highlights: India steers BRICS to consensus on trade, coercive measures amid West Asia rift",
+      "summary": "In a significant diplomatic breakthrough for India, the BRICS grouping on Saturday adopted a joint declaration with consensus, overcoming sharp divisions between Iran and the UAE over the West Asia conflict following a series of back-channel negotiations",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/brics-summit-2026-new-delhi-day-1-highlights/article71459080.ece",
+      "bloc": "western",
+      "date": "2026-09-12",
+      "datetime": "2026-09-12T15:29:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Saudi Arabia has few options as it faces mounting threats from Iran, its allies",
       "summary": "US President Donald Trump seems reluctant to widen an already unpopular and stalemated West Asia war ahead of congressional elections",
@@ -375,7 +401,7 @@
       "headline": "Wall Street has thrown in the towel on a quick end to the global oil shock",
       "summary": "Oil analysts are raising 2027 forecasts as disrupted Middle East shipping, shrinking stockpiles, and inflation risks linger.",
       "source": "Business Insider",
-      "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9",
+      "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9#article",
       "bloc": "western",
       "date": "2026-09-10",
       "datetime": "2026-09-10T09:50:01Z",

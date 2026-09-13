@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-13T11:22:09.645Z",
+  "updated": "2026-09-13T15:52:08.264Z",
   "retention_days": 30,
   "items": [
     {
@@ -9232,7 +9232,35 @@
       "_from": "newsapi",
       "first_seen": "2026-09-13T11:22:09.645Z",
       "run_id": "2026-09-13T11:22"
+    },
+    {
+      "headline": "BRICS Summit 2026 Day 1 Highlights: India steers BRICS to consensus on trade, coercive measures amid West Asia rift",
+      "summary": "In a significant diplomatic breakthrough for India, the BRICS grouping on Saturday adopted a joint declaration with consensus, overcoming sharp divisions between Iran and the UAE over the West Asia conflict following a series of back-channel negotiations",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/brics-summit-2026-new-delhi-day-1-highlights/article71459080.ece",
+      "bloc": "western",
+      "date": "2026-09-12",
+      "datetime": "2026-09-12T15:29:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-13T15:52:08.264Z",
+      "run_id": "2026-09-13T15:52"
     }
   ],
-  "total_items_ever": 3381
+  "total_items_ever": 3382
 }

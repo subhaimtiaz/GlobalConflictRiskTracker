@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-14T04:07:50.053Z",
+  "ts": "2026-09-14T12:15:11.228Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 108,
-    "oilStress": 65,
-    "updatedAt": "2026-09-14T04:07:50.053Z"
+    "oilStress": 66,
+    "updatedAt": "2026-09-14T12:15:11.228Z"
   },
   "items": [
+    {
+      "headline": "BRICS summit 2026: What are the key takeaways?",
+      "summary": "The 11-nation bloc avoids condemning the US-Israel war on Iran, showing the divisions among the members.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways",
+      "bloc": "regional",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T12:04:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran never initiated a war, only defended itself against US-Israeli aggression: Pezeshkian",
+      "summary": "President Masoud Pezeshkian, referring to the recently imposed war on the country, says Iran did not start the conflict, but was forced to defend itself against the aggression launched by the United States and the Israeli regime under false pretexts.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260913-irna05.htm",
+      "bloc": "western",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "BRICS Summit 2026 Day 1 Highlights: India steers BRICS to consensus on trade, coercive measures amid West Asia rift",
       "summary": "In a significant diplomatic breakthrough for India, the BRICS grouping on Saturday adopted a joint declaration with consensus, overcoming sharp divisions between Iran and the UAE over the West Asia conflict following a series of back-channel negotiations",
@@ -88,58 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israeli PM Netanyahu Allegedly Ignored Oct. 7, 2023, Warning; US Then Provided $22B in Military Aid",
-      "summary": "A disputed warning raises questions about Israeli accountability and the growing U.S. military commitment. The PM called the claims \"malicious libel.\"",
-      "source": "Military.com",
-      "url": "https://military.com/israeli-pm-netanyahu-ignored-hamaswarning-leading-up-oct-7-report",
-      "bloc": "western",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T13:48:43Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Fact-checking night 2 of the GOP midterm convention | CNN Politics",
-      "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. and other speakers made false claims in remarks at the Republican midterm convention’s second night Thursday.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/10/politics/fact-check-republican-midterm-convention-night-2",
-      "bloc": "western",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T02:23:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -346,6 +346,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Canada's oil windfall may yet wipe out its losses from tariffs",
+      "summary": "The total cost of Trump's tariffs to Canada's GDP — about 0.5 per cent — could well be outweighed by the positive effects of oil topping $100 US per barrel. High prices that declined over the summer are back as peace recedes, and recent successes by Iran's Ho…",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/politics/canada-oil-prices-trump-iran-trade-war-tariffs-9.7341298",
+      "bloc": "western",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T08:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. Average Diesel Prices Cross $6 a Gallon for First Time, GasBuddy Says",
+      "summary": "The U.S. national average price of diesel surpassed $6 a gallon for the first time on Thursday, Sept. 10, 2026, according to price tracker GasBuddy, as the U.S.-Israeli war on Iran and Ukrainian attacks on Russia’s refineries squeezed supply [1]. AAA data con…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-13-us-diesel-prices-surpass-six-per-gallon-nationwide.html",
+      "bloc": "western",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Links 9/12/2026",
       "summary": "Our testy links: Houthi lighting strike takes key island + most of Bab el Mandeb coast, Saudis close key pipeline, US diesel over $6 and Brent nears $110, El Nino snarls Asia ports, UK bond yields spike, 9/11, Isreal destruction in Lebanon and Syria, McClatch…",
       "source": "Nakedcapitalism.com",
@@ -401,7 +453,7 @@
       "headline": "Wall Street has thrown in the towel on a quick end to the global oil shock",
       "summary": "Oil analysts are raising 2027 forecasts as disrupted Middle East shipping, shrinking stockpiles, and inflation risks linger.",
       "source": "Business Insider",
-      "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9#article",
+      "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9",
       "bloc": "western",
       "date": "2026-09-10",
       "datetime": "2026-09-10T09:50:01Z",

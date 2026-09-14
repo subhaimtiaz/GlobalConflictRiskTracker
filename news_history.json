@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-14T04:06:44.876Z",
+  "updated": "2026-09-14T12:14:05.880Z",
   "retention_days": 30,
   "items": [
     {
@@ -8930,7 +8930,119 @@
       "_from": "newsapi",
       "first_seen": "2026-09-14T04:06:44.876Z",
       "run_id": "2026-09-14T04:06"
+    },
+    {
+      "headline": "BRICS summit 2026: What are the key takeaways?",
+      "summary": "The 11-nation bloc avoids condemning the US-Israel war on Iran, showing the divisions among the members.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways",
+      "bloc": "regional",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T12:04:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-14T12:14:05.880Z",
+      "run_id": "2026-09-14T12:14"
+    },
+    {
+      "headline": "Iran never initiated a war, only defended itself against US-Israeli aggression: Pezeshkian",
+      "summary": "President Masoud Pezeshkian, referring to the recently imposed war on the country, says Iran did not start the conflict, but was forced to defend itself against the aggression launched by the United States and the Israeli regime under false pretexts.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260913-irna05.htm",
+      "bloc": "western",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-14T12:14:05.880Z",
+      "run_id": "2026-09-14T12:14"
+    },
+    {
+      "headline": "Canada's oil windfall may yet wipe out its losses from tariffs",
+      "summary": "The total cost of Trump's tariffs to Canada's GDP — about 0.5 per cent — could well be outweighed by the positive effects of oil topping $100 US per barrel. High prices that declined over the summer are back as peace recedes, and recent successes by Iran's Ho…",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/politics/canada-oil-prices-trump-iran-trade-war-tariffs-9.7341298",
+      "bloc": "western",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T08:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-14T12:14:05.880Z",
+      "run_id": "2026-09-14T12:14"
+    },
+    {
+      "headline": "U.S. Average Diesel Prices Cross $6 a Gallon for First Time, GasBuddy Says",
+      "summary": "The U.S. national average price of diesel surpassed $6 a gallon for the first time on Thursday, Sept. 10, 2026, according to price tracker GasBuddy, as the U.S.-Israeli war on Iran and Ukrainian attacks on Russia’s refineries squeezed supply [1]. AAA data con…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-13-us-diesel-prices-surpass-six-per-gallon-nationwide.html",
+      "bloc": "western",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-14T12:14:05.880Z",
+      "run_id": "2026-09-14T12:14"
     }
   ],
-  "total_items_ever": 3384
+  "total_items_ever": 3388
 }

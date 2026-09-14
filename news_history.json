@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-14T12:14:05.880Z",
+  "updated": "2026-09-14T21:39:07.600Z",
   "retention_days": 30,
   "items": [
     {
@@ -9042,7 +9042,119 @@
       "_from": "newsapi",
       "first_seen": "2026-09-14T12:14:05.880Z",
       "run_id": "2026-09-14T12:14"
+    },
+    {
+      "headline": "How Israel’s destruction of south Lebanon is making displacement permanent",
+      "summary": "With lost livelihoods, destroyed homes and little security, many displaced Lebanese are facing an entrenched reality.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent",
+      "bloc": "regional",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T13:09:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-14T21:39:07.600Z",
+      "run_id": "2026-09-14T21:39"
+    },
+    {
+      "headline": "Iran, Gulf countries to discuss Strait of Hormuz deal without US",
+      "summary": "Gulf diplomats and Iranian officials will meet without US involvement to discuss an Omani plan for re-opening the Strait of Hormuz to regular tanker traffic.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/13/politics/iran-gulf-countries-strait-of-hormuz",
+      "bloc": "western",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T16:00:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-14T21:39:07.600Z",
+      "run_id": "2026-09-14T21:39"
+    },
+    {
+      "headline": "Further Oil Price Spikes Could Rekindle Recession Fears",
+      "summary": "This week’s oil price surge sharply raised the odds of a Fed interest rate hike next week and re-launched the recession conversation, for the first time since the early weeks of the Iran war. The price spike this week saw Brent Crude prices topping $100 per b…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Further-Oil-Price-Spikes-Could-Rekindle-Recession-Fears.html",
+      "bloc": "western",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T21:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-14T21:39:07.600Z",
+      "run_id": "2026-09-14T21:39"
+    },
+    {
+      "headline": "HSBC raises its oil forecast as the Hormuz backup plan burns",
+      "summary": "The bank’s new Brent call rests on one assumption, and recent satellite images put it in doubt.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/economy/hsbc-raises-its-oil-forecast-as-the-hormuz-backup-plan-burns",
+      "bloc": "western",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T15:07:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-14T21:39:07.600Z",
+      "run_id": "2026-09-14T21:39"
     }
   ],
-  "total_items_ever": 3388
+  "total_items_ever": 3392
 }

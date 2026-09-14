@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-14T12:15:11.228Z",
+  "ts": "2026-09-14T21:40:12.921Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 108,
-    "oilStress": 66,
-    "updatedAt": "2026-09-14T12:15:11.228Z"
+    "oilPrice": 106,
+    "oilStress": 62,
+    "updatedAt": "2026-09-14T21:40:12.920Z"
   },
   "items": [
+    {
+      "headline": "How Israel’s destruction of south Lebanon is making displacement permanent",
+      "summary": "With lost livelihoods, destroyed homes and little security, many displaced Lebanese are facing an entrenched reality.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent",
+      "bloc": "regional",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T13:09:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "BRICS summit 2026: What are the key takeaways?",
       "summary": "The 11-nation bloc avoids condemning the US-Israel war on Iran, showing the divisions among the members.",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "UK condemns “settler terrorists”, Sudan’s chemical weapons exposed, and Yemen’s war escalates: The Cheat Sheet",
-      "summary": "A weekly read to keep you in the loop on humanitarian issues.",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/news/2026/09/11/uk-condemns-settler-terrorists-sudan-chemical-weapons-yemen-war-cheat-sheet",
+      "headline": "Iran, Gulf countries to discuss Strait of Hormuz deal without US",
+      "summary": "Gulf diplomats and Iranian officials will meet without US involvement to discuss an Omani plan for re-opening the Strait of Hormuz to regular tanker traffic.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/13/politics/iran-gulf-countries-strait-of-hormuz",
       "bloc": "western",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T14:23:02Z",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T16:00:29Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Don’t Blame Ukraine for High Gas Prices",
-      "summary": "Kyiv’s energy war on Russia may hurt on the margins, but the real culprit is Trump’s war on Iran.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/09/11/gas-prices-trump-iran-war-wright-ukraine-russia/",
-      "bloc": "western",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T16:24:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "How to Survive in a World Without Rules",
       "summary": "Self-help is becoming more vital in a vicious world.",
       "source": "Foreign Policy",
@@ -346,6 +346,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Further Oil Price Spikes Could Rekindle Recession Fears",
+      "summary": "This week’s oil price surge sharply raised the odds of a Fed interest rate hike next week and re-launched the recession conversation, for the first time since the early weeks of the Iran war. The price spike this week saw Brent Crude prices topping $100 per b…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Further-Oil-Price-Spikes-Could-Rekindle-Recession-Fears.html",
+      "bloc": "western",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T21:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "HSBC raises its oil forecast as the Hormuz backup plan burns",
+      "summary": "The bank’s new Brent call rests on one assumption, and recent satellite images put it in doubt.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/economy/hsbc-raises-its-oil-forecast-as-the-hormuz-backup-plan-burns",
+      "bloc": "western",
+      "date": "2026-09-13",
+      "datetime": "2026-09-13T15:07:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Canada's oil windfall may yet wipe out its losses from tariffs",
       "summary": "The total cost of Trump's tariffs to Canada's GDP — about 0.5 per cent — could well be outweighed by the positive effects of oil topping $100 US per barrel. High prices that declined over the summer are back as peace recedes, and recent successes by Iran's Ho…",
       "source": "CBC News",
@@ -405,58 +457,6 @@
       "bloc": "western",
       "date": "2026-09-12",
       "datetime": "2026-09-12T10:55:36Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Sensex down 120 pts, Nifty closes at 23,398, logs 5th weekly loss as oil fears grip markets",
-      "summary": "Sensex, Nifty, Stock Price Highlights: Benchmark indices Sensex and Nifty ended marginally lower on Friday after registering sharp losses during the day following a drop in crude oil prices and buying in blue-chip HDFC Bank and IT stocks.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-11th-september-2026/article71453005.ece",
-      "bloc": "western",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T11:20:12Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Wall Street has thrown in the towel on a quick end to the global oil shock",
-      "summary": "Oil analysts are raising 2027 forecasts as disrupted Middle East shipping, shrinking stockpiles, and inflation risks linger.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/oil-price-forecasts-global-shock-iran-war-wall-street-outlook-2026-9",
-      "bloc": "western",
-      "date": "2026-09-10",
-      "datetime": "2026-09-10T09:50:01Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

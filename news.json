@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-13T20:32:10.051Z",
+  "ts": "2026-09-14T04:07:50.053Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 104,
-    "oilStress": 59,
-    "updatedAt": "2026-09-13T20:32:10.051Z"
+    "oilPrice": 108,
+    "oilStress": 65,
+    "updatedAt": "2026-09-14T04:07:50.053Z"
   },
   "items": [
     {
@@ -144,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Oil Industry Braces for Years-Long Iran War",
+      "summary": "Oil producers, traders, and refiners are bracing for a prolonged war between the United States and Iran in the Persian Gulf with little to no hope of a quick resolution. By extension, they are also preparing for higher prices for longer, a theme present at th…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Industry-Braces-for-Years-Long-Iran-War.html",
+      "bloc": "western",
+      "date": "2026-09-12",
+      "datetime": "2026-09-12T23:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Saudi Pipeline Attacked, Diesel at $6: The Fuel Crisis That Could Upend Economy",
+      "summary": "Saudi Pipeline Attacked, Diesel at $6: The Fuel Crisis That Could Upend Economy\nSaudi Arabia's last workaround around the Strait of Hormuz was hit by drones and shut down this week. At the same time, Iran-backed Houthi forces finished taking Yemen's entire Re…",
+      "source": "Offgridsurvival.com",
+      "url": "https://offgridsurvival.com/saudi-pipeline-attacked-diesel-at-6-the-fuel-crisis-that-could-upend-economy/",
+      "bloc": "western",
+      "date": "2026-09-12",
+      "datetime": "2026-09-12T21:50:37Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iraqi Militias Join The Iran War As The Fire Rises",
       "summary": "Just when you thought things couldn’t get worse, another player has entered the arena in the Iran War.",
       "source": "The Daily Caller",
@@ -218,58 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "New problem shaping up for the oil market as Hormuz remains shut",
-      "summary": "Houthi forces have seized Perim Island, threatening the vital Bab el-Mandeb Strait shipping lane. This development occurs as the Strait of Hormuz faces severe disruptions, impacting global oil flows. Saudi Arabia increasingly relies on the Red Sea route, whic…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/new-problem-shaping-up-for-the-oil-market-as-hormuz-remains-shut/articleshow/134072838.cms",
-      "bloc": "regional",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T14:40:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi airstrikes hit Yemen's rebel-held Mokha airport as Houthis capture strategic island",
-      "summary": "Yemen's Iranian-backed Houthi rebels captured a strategic island in the Bab el-Mandeb Strait at the entrance of the Red Sea, two officials said Friday, in a swift advance that further threatens Saudi oil exports through one of the world's key commercial lanes.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/saudi-strikes-yemen-mokha-airport-houthis-island-9.7339979",
-      "bloc": "western",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T12:10:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

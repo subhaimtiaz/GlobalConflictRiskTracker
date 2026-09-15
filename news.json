@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-14T21:40:12.921Z",
+  "ts": "2026-09-15T04:06:51.008Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 106,
-    "oilStress": 62,
-    "updatedAt": "2026-09-14T21:40:12.920Z"
+    "oilPrice": 107,
+    "oilStress": 64,
+    "updatedAt": "2026-09-15T04:06:51.008Z"
   },
   "items": [
     {
@@ -501,6 +501,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump calls on Zelenskyy to halt strikes on Russian oil refineries",
+      "summary": "US President Donald Trump on Sunday called on Ukrainian President Volodymyr Zelenskyy to halt strikes on Russian oil refineries and other infrastructure used to produce and distribute diesel, saying the attacks are causing a global shortage. He spoke after di…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/trump-calls-on-zelenskyy-to-halt-strikes-on-russian-oil-refineries-126091400028_1.html",
+      "bloc": "western",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T02:02:18Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Saudi Arabia’s ‘Muslim NATO’ faces its first trial by fire",
       "summary": "A major Houthi attack on Saudi Arabia has become the first test of the Mecca Agreement and its collective defense with Türkiye and Pakistan Read Full Article at RT.com",
       "source": "RT",
@@ -577,29 +600,6 @@
       "bloc": "western",
       "date": "2026-09-08",
       "datetime": "2026-09-08T10:35:03Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sudan Could Become the Red Sea’s Next Energy Security Flashpoint",
-      "summary": "The investigations published by The New York Times and The Washington Post should not be dismissed as another collection of allegations emerging from Sudan’s opaque civil war. Taken together, they present the most substantial publicly available evidence yet t…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Geopolitics/Africa/Sudan-Could-Become-the-Red-Seas-Next-Energy-Security-Flashpoint.html",
-      "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T19:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

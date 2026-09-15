@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-15T04:06:51.008Z",
+  "ts": "2026-09-15T11:24:19.845Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 107,
-    "oilStress": 64,
-    "updatedAt": "2026-09-15T04:06:51.008Z"
+    "oilPrice": 106,
+    "oilStress": 62,
+    "updatedAt": "2026-09-15T11:24:19.845Z"
   },
   "items": [
+    {
+      "headline": "Iran’s Ally Poised to Choke Additional 10 Percent of Oil Trade by Sea",
+      "summary": "<table><tr><td></td></tr><tr><td>yemen.liveuamap.com (14/09/2026)</td></tr>\r\n</table>SEP 11, 2026 AT 04:28 PM EDTBy Tom O'Connor, Deputy Editor, National Security and Foreign PolicyA rapid offensive by the Yemeni Ansar Allah movement, also known as the Houthi…",
+      "source": "Blogspot.com",
+      "url": "https://i-epikaira.blogspot.com/2026/09/irans-ally-poised-to-choke-additional.html",
+      "bloc": "western",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T07:52:26Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil prices surge higher after Gulf states postpone talks with Iran over Hormuz",
+      "summary": "Delay to crunch meeting sets back efforts to restore shipping through vital waterway",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/09/14/oil-prices-surge-higher-after-gulf-states-postpone-talks-with-iran-over-hormuz/",
+      "bloc": "western",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T06:15:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "How Israel’s destruction of south Lebanon is making displacement permanent",
       "summary": "With lost livelihoods, destroyed homes and little security, many displaced Lebanese are facing an entrenched reality.",
@@ -92,54 +144,106 @@
       "_from": "newsapi"
     },
     {
-      "headline": "BRICS Summit 2026 Day 1 Highlights: India steers BRICS to consensus on trade, coercive measures amid West Asia rift",
-      "summary": "In a significant diplomatic breakthrough for India, the BRICS grouping on Saturday adopted a joint declaration with consensus, overcoming sharp divisions between Iran and the UAE over the West Asia conflict following a series of back-channel negotiations",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/brics-summit-2026-new-delhi-day-1-highlights/article71459080.ece",
-      "bloc": "western",
-      "date": "2026-09-12",
-      "datetime": "2026-09-12T15:29:42Z",
+      "headline": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?",
+      "summary": "Brent crude crosses $107 as Hormuz disruptions and Saudi pipeline shutdown threaten global oil supply.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/14/us-says-its-clearing-hormuz-traffic-why-are-oil-futures-beyond-100",
+      "bloc": "regional",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T11:06:17Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Saudi Arabia has few options as it faces mounting threats from Iran, its allies",
-      "summary": "US President Donald Trump seems reluctant to widen an already unpopular and stalemated West Asia war ahead of congressional elections",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-its-allies/article71459258.ece",
+      "headline": "Can Iran replace sea trade with land routes?",
+      "summary": "Iran is shifting trade toward northern ports and land routes as its southern shipping faces a US blockade. Analysts say the corridors can keep essential goods moving, but cannot replace maritime trade. Can land corridors offset the impact of the maritime bloc…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/can-iran-replace-sea-trade-with-land-routes/a-79211179",
       "bloc": "western",
-      "date": "2026-09-12",
-      "datetime": "2026-09-12T06:11:38Z",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T07:50:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Saudi Pipeline Is Gone: Why the Global Energy Shock Just Got Far Worse",
+      "summary": "The Saudi Pipeline Is Gone I have been warning for months that the global energy system was balanced on a knife’s edge, and now the blade has cut deep. Saudi Arabia announced on Friday, September 11, 2026, that it had shut down its East-West Pipeline after mu…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-14-saudi-pipeline-gone-global-energy-shock-worse.html",
+      "bloc": "western",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil markets survived the Iran war sprint. Now comes the marathon",
+      "summary": "The Iran war is increasingly looking like a prolonged threat to global energy markets, rather than a short-term supply shock. Crude has risen back above $100 a barrel as disruptions spread to Yemen and Saudi Arabia.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-markets-survived-the-iran-war-sprint-now-comes-the-marathon/articleshow/134232350.cms",
+      "bloc": "regional",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T04:21:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -170,106 +274,26 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil Industry Braces for Years-Long Iran War",
-      "summary": "Oil producers, traders, and refiners are bracing for a prolonged war between the United States and Iran in the Persian Gulf with little to no hope of a quick resolution. By extension, they are also preparing for higher prices for longer, a theme present at th…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Industry-Braces-for-Years-Long-Iran-War.html",
+      "headline": "How Congress Empowered Presidential War-Making After 9/11",
+      "summary": "Its effects continue to shape national security policy today.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/09/14/aumf-presidential-war-powers-bush-9-11/",
       "bloc": "western",
-      "date": "2026-09-12",
-      "datetime": "2026-09-12T23:00:00Z",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T05:58:45Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Trump Iran war"
       ],
       "dimensions": [
-        "survival",
+        "accountability",
         "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Pipeline Attacked, Diesel at $6: The Fuel Crisis That Could Upend Economy",
-      "summary": "Saudi Pipeline Attacked, Diesel at $6: The Fuel Crisis That Could Upend Economy\nSaudi Arabia's last workaround around the Strait of Hormuz was hit by drones and shut down this week. At the same time, Iran-backed Houthi forces finished taking Yemen's entire Re…",
-      "source": "Offgridsurvival.com",
-      "url": "https://offgridsurvival.com/saudi-pipeline-attacked-diesel-at-6-the-fuel-crisis-that-could-upend-economy/",
-      "bloc": "western",
-      "date": "2026-09-12",
-      "datetime": "2026-09-12T21:50:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iraqi Militias Join The Iran War As The Fire Rises",
-      "summary": "Just when you thought things couldn’t get worse, another player has entered the arena in the Iran War.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/09/11/iraq-militias-iran-war-saudi-arabia-pipeline-oil",
-      "bloc": "western",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T20:58:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthi Territory Gains Threaten To Choke Off Saudi Oil, As Trump Refuses Call For Strikes",
-      "summary": "The Daily Caller is a 24-hour news publication providing its audience with original reporting, thought-provoking commentary and breaking news.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/09/11/houthis-saudi-arabia-oil-yemen-trump-strikes",
-      "bloc": "western",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T19:56:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -341,6 +365,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Soaring Oil Prices Put Fed on Track for September Rate Hike",
+      "summary": "The recent spike in crude oil prices will likely result in a fresh rate hike by the Fed this week, according to data from CME Group, cited by The National today. As much as 90% of respondents from trading circles expect a rate hike of 25 basis points, after l…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Soaring-Oil-Prices-Put-Fed-on-Track-for-September-Rate-Hike.html",
+      "bloc": "western",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T08:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -424,58 +474,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "U.S. Average Diesel Prices Cross $6 a Gallon for First Time, GasBuddy Says",
-      "summary": "The U.S. national average price of diesel surpassed $6 a gallon for the first time on Thursday, Sept. 10, 2026, according to price tracker GasBuddy, as the U.S.-Israeli war on Iran and Ukrainian attacks on Russia’s refineries squeezed supply [1]. AAA data con…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-13-us-diesel-prices-surpass-six-per-gallon-nationwide.html",
-      "bloc": "western",
-      "date": "2026-09-13",
-      "datetime": "2026-09-13T06:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Links 9/12/2026",
-      "summary": "Our testy links: Houthi lighting strike takes key island + most of Bab el Mandeb coast, Saudis close key pipeline, US diesel over $6 and Brent nears $110, El Nino snarls Asia ports, UK bond yields spike, 9/11, Isreal destruction in Lebanon and Syria, McClatch…",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-12-2026.html",
-      "bloc": "western",
-      "date": "2026-09-12",
-      "datetime": "2026-09-12T10:55:36Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "How 41 Senators Could End the Iran War and Rein In Defense Spending",
       "summary": "In the days after the September 11, 2001 attacks, I joined Harry Belafonte, Danny Glover, the Institute for Policy Studies, YES! Magazine, and hundreds of other signatories in calling for “Justice, Not Vengeance.” We argued that the United States should find …",
       "source": "Common Dreams",
@@ -497,6 +495,52 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, citing a global shortage",
+      "summary": "U.S. President Donald Trump has called on Ukrainian President Volodymyr Zelenskyy to halt strikes on Russian diesel fuel infrastructure, saying attacks are causing a global shortage",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/trump-calls-ukraine-halt-strikes-russian-diesel-fuel-136413942",
+      "bloc": "western",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T06:36:01Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Saudi Arabia May Run Out of Oil Stocks if East-West Pipeline Not Restarted Within Days, Report Says",
+      "summary": "Saudi Arabia could exhaust its available oil stocks for exports if it does not restart its East-West Pipeline to the Red Sea within days, according to Saudi oil buyers and traders cited in a Reuters report published Sunday. The reported disruption could remov…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-14-saudi-arabia-may-run-out-of-oil-stocks.html",
+      "bloc": "western",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T06:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -531,75 +575,6 @@
       "bloc": "western",
       "date": "2026-09-10",
       "datetime": "2026-09-10T10:32:01Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthi Strikes on Saudi Refinery Threaten Remaining Red Sea Energy Lifeline",
-      "summary": "Houthi Strikes Hit Key Saudi Energy Facility The Saudi Aramco refinery at Jazan on the Red Sea was engulfed in flames on Sept. 8 following a coordinated missile and drone attack by Yemen’s Houthi forces, according to reports from the War Zone and video circul…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-09-houthi-strikes-aramco-threaten-red-sea-energy-lifeline.html",
-      "bloc": "western",
-      "date": "2026-09-09",
-      "datetime": "2026-09-09T06:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil’s $100 nightmare is back as worst-case scenario is taking shape",
-      "summary": "Houthi attacks on Saudi energy facilities have disrupted oil operations.  These strikes also pressure the Bab al-Mandeb chokepoint, impacting oil flows.  The Strait of Hormuz remains impaired, creating a dual threat to global supply.  This situation makes sig…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oils-100-nightmare-is-back-as-worst-case-scenario-is-taking-shape/articleshow/133930259.cms",
-      "bloc": "regional",
-      "date": "2026-09-08",
-      "datetime": "2026-09-08T14:58:02Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Sensex down 555 pts, Nifty ends at 23,635 as crude oil nears $100",
-      "summary": "Sensex, Nifty, Share Prices Highlights: Indian shares extended losses on Tuesday ​as oil surged toward $100 a barrel on escalating Middle East ‌tensions, while elevated volatility deepened declines in the Nifty ​during the closing auction for the ⁠weekly expi…",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-8th-september-2026/article71441098.ece",
-      "bloc": "western",
-      "date": "2026-09-08",
-      "datetime": "2026-09-08T10:35:03Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

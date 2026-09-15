@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-15T11:23:14.650Z",
+  "updated": "2026-09-15T16:35:20.881Z",
   "retention_days": 30,
   "items": [
     {
@@ -9031,7 +9031,116 @@
       "_from": "newsapi",
       "first_seen": "2026-09-15T11:23:14.650Z",
       "run_id": "2026-09-15T11:23"
+    },
+    {
+      "headline": "Gulf States Postpone Iran Talks as Houthis Strike Saudi Arabia",
+      "summary": "TAIZ, Yemen/DUBAI, Sept 14 (Reuters) – Arab states in the Gulf called off a meeting with Iran planned for Monday, while Yemen’s Houthis launched a new attack on Saudi Arabia after fighting that has...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/gulf-states-postpone-iran-talks-as-houthis-strike-saudi-arabia/",
+      "bloc": "western",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T16:25:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-15T16:35:20.881Z",
+      "run_id": "2026-09-15T16:35"
+    },
+    {
+      "headline": "Houthi Red Sea Gains Pose New Risks for Shipping’s Return to Suez Canal",
+      "summary": "Houthi control of key positions near the Bab el-Mandeb Strait could give the Iran-backed group greater leverage over a shipping corridor that carriers have only recently begun to return to.",
+      "source": "WWD",
+      "url": "http://wwd.com/sourcing-journal/logistics/houthi-red-sea-bab-el-mandeb-strait-of-hormuz-container-shipping-suez-canal-1239222628/",
+      "bloc": "western",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T13:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-15T16:35:20.881Z",
+      "run_id": "2026-09-15T16:35"
+    },
+    {
+      "headline": "Current price of oil as of September 14, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-09-14-2026/",
+      "bloc": "western",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T13:15:18Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-15T16:35:20.881Z",
+      "run_id": "2026-09-15T16:35"
+    },
+    {
+      "headline": "Why Saudi Arabia’s East-West pipeline matters for global oil",
+      "summary": "The 1,200km (745-mile) pipeline has been temporarily closed, affecting up to 5 percent of global oil supply.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil",
+      "bloc": "regional",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T13:15:14Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-15T16:35:20.881Z",
+      "run_id": "2026-09-15T16:35"
     }
   ],
-  "total_items_ever": 3403
+  "total_items_ever": 3407
 }

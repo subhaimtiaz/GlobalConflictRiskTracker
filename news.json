@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-16T11:09:06.110Z",
+  "ts": "2026-09-16T16:29:02.377Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 108,
-    "oilStress": 64,
-    "updatedAt": "2026-09-16T11:09:06.110Z"
+    "oilPrice": 105,
+    "oilStress": 61,
+    "updatedAt": "2026-09-16T16:29:02.377Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T13:05:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "CENTCOM Claims Iranian Missile and Drone Crippled Oil Tanker, Not Mines",
       "summary": "U.S. Central Command (CENTCOM) denied an Iranian report on Monday, Sept. 14, that an oil tanker exploded after colliding with mines in the Strait of Hormuz. Instead, it stated that the vessel had instead been struck by an Iranian missile last month and again …",
       "source": "Naturalnews.com",
@@ -222,32 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Houthi Red Sea Gains Pose New Risks for Shipping’s Return to Suez Canal",
-      "summary": "Houthi control of key positions near the Bab el-Mandeb Strait could give the Iran-backed group greater leverage over a shipping corridor that carriers have only recently begun to return to.",
-      "source": "WWD",
-      "url": "http://wwd.com/sourcing-journal/logistics/houthi-red-sea-bab-el-mandeb-strait-of-hormuz-container-shipping-suez-canal-1239222628/",
-      "bloc": "western",
-      "date": "2026-09-14",
-      "datetime": "2026-09-14T13:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "How Congress Empowered Presidential War-Making After 9/11",
       "summary": "Its effects continue to shape national security policy today.",
       "source": "Foreign Policy",
@@ -263,6 +263,30 @@
       ],
       "dimensions": [
         "accountability",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The New Geopolitcal Landscape: How to Do Business in a World Adrift",
+      "summary": "[T]he next iteration of the global security, political and economic system will not be framed by the United States alone. The reality is already something else. It is not an “order,” which inherently points to a hierarchy, and perhaps not even a “disorder.” A…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/politics/the-new-geopolitcal-landscape-how-to-do-business-in-a-world-adrift/",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T14:03:17Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
         "impulsivity"
       ],
       "variable_key": null,
@@ -288,6 +312,31 @@
       "dimensions": [
         "survival",
         "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Saudi Arabia faces tough choices as Houthis gain in Yemen",
+      "summary": "Saudi Arabia faces growing security and economic problems as it seeks to balance deterrence and diplomacy amid an escalating conflict with the Iran-backed Houthis in neighboring Yemen.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/saudi-arabia-options-conflict-houthis-attack-yemen/a-79274826",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T14:03:00Z",
+      "leaders": [
+        "Mohammed bin Salman"
+      ],
+      "watch_terms": [
+        "Saudi Arabia Iran"
+      ],
+      "dimensions": [
+        "survival",
+        "values",
+        "accountability"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -424,6 +473,52 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Russia and Ukraine Press on With Energy Strikes Despite Trump",
+      "summary": "Russia hit petrol stations in Kyiv on Tuesday and Ukraine struck a Russian oil refinery, as the warring sides carried on with strikes on each other's energy targets despite an announcement by U.S. President Donald Trump that they had agreed to stop.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/russia-and-ukraine-press-on-with-energy-strikes-despite-trump/",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T16:26:04Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Russia: Trump's Ukraine ceasefire proposal is 'good idea'",
+      "summary": "The Kremlin has hailed an \"energy ceasefire\" proposed by US President Trump, but has criticized a French initiative to share its nuclear deterrent. Meanwhile, hostilities have continued on the ground and in the air.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/russia-trumps-ukraine-ceasefire-proposal-is-good-idea/a-79280087",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T15:12:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran War: Ansar Allah Strikes Yanbu Port as Rising Energy Prices Help Push 10 Year Treasury Yields Over 5%",
       "summary": "Today's Iran war news: Ansar Allah makes biggest Saudi attack so far, hitting the Yanbu port and a key refinery as 10 year Treasury yields top 5%",
       "source": "Nakedcapitalism.com",
@@ -477,52 +572,6 @@
       "bloc": "western",
       "date": "2026-09-14",
       "datetime": "2026-09-14T06:36:01Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Arabia May Run Out of Oil Stocks if East-West Pipeline Not Restarted Within Days, Report Says",
-      "summary": "Saudi Arabia could exhaust its available oil stocks for exports if it does not restart its East-West Pipeline to the Red Sea within days, according to Saudi oil buyers and traders cited in a Reuters report published Sunday. The reported disruption could remov…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-14-saudi-arabia-may-run-out-of-oil-stocks.html",
-      "bloc": "western",
-      "date": "2026-09-14",
-      "datetime": "2026-09-14T06:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Saudi Pipeline Is Gone: Why the Global Energy Shock Just Got Far Worse",
-      "summary": "The Saudi Pipeline Is Gone I have been warning for months that the global energy system was balanced on a knife’s edge, and now the blade has cut deep. Saudi Arabia announced on Friday, September 11, 2026, that it had shut down its East-West Pipeline after mu…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-14-saudi-pipeline-gone-global-energy-shock-worse.html",
-      "bloc": "western",
-      "date": "2026-09-14",
-      "datetime": "2026-09-14T06:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

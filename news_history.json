@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-16T04:02:21.984Z",
+  "updated": "2026-09-16T11:08:00.794Z",
   "retention_days": 30,
   "items": [
     {
@@ -9167,7 +9167,88 @@
       "_from": "newsapi",
       "first_seen": "2026-09-16T04:02:21.984Z",
       "run_id": "2026-09-16T04:02"
+    },
+    {
+      "headline": "CENTCOM Claims Iranian Missile and Drone Crippled Oil Tanker, Not Mines",
+      "summary": "U.S. Central Command (CENTCOM) denied an Iranian report on Monday, Sept. 14, that an oil tanker exploded after colliding with mines in the Strait of Hormuz. Instead, it stated that the vessel had instead been struck by an Iranian missile last month and again …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-15-centcom-iranian-missile-and-drone-crippled-tanker.html",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-16T11:08:00.794Z",
+      "run_id": "2026-09-16T11:08"
+    },
+    {
+      "headline": "Strait of Hormuz Crisis Deepens as Iran Claims Tanker Mine Strike and Gulf Talks Collapse Once Again",
+      "summary": "The Strait of Hormuz crisis has intensified after a disputed tanker explosion, renewed attacks and the collapse of regional talks aimed at creating safer shipping routes.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-crisis-tanker-blast-talks-collapse-1875548",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T04:16:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-16T11:08:00.794Z",
+      "run_id": "2026-09-16T11:08"
+    },
+    {
+      "headline": "Iran War: Ansar Allah Strikes Yanbu Port as Rising Energy Prices Help Push 10 Year Treasury Yields Over 5%",
+      "summary": "Today's Iran war news: Ansar Allah makes biggest Saudi attack so far, hitting the Yanbu port and a key refinery as 10 year Treasury yields top 5%",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-ansar-allah-strikes-yanbu-port-as-rising-energy-prices-help-push-10-year-treasury-yields-over-5.html",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T10:58:56Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-16T11:08:00.794Z",
+      "run_id": "2026-09-16T11:08"
     }
   ],
-  "total_items_ever": 3410
+  "total_items_ever": 3413
 }

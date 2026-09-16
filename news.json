@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-16T04:03:27.315Z",
+  "ts": "2026-09-16T11:09:06.110Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 108,
-    "oilStress": 65,
-    "updatedAt": "2026-09-16T04:03:27.315Z"
+    "oilStress": 64,
+    "updatedAt": "2026-09-16T11:09:06.110Z"
   },
   "items": [
     {
@@ -144,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "CENTCOM Claims Iranian Missile and Drone Crippled Oil Tanker, Not Mines",
+      "summary": "U.S. Central Command (CENTCOM) denied an Iranian report on Monday, Sept. 14, that an oil tanker exploded after colliding with mines in the Strait of Hormuz. Instead, it stated that the vessel had instead been struck by an Iranian missile last month and again …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-15-centcom-iranian-missile-and-drone-crippled-tanker.html",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Strait of Hormuz Crisis Deepens as Iran Claims Tanker Mine Strike and Gulf Talks Collapse Once Again",
+      "summary": "The Strait of Hormuz crisis has intensified after a disputed tanker explosion, renewed attacks and the collapse of regional talks aimed at creating safer shipping routes.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-crisis-tanker-blast-talks-collapse-1875548",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T04:16:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran says tanker hit naval mine near Hormuz, US calls claim false",
       "summary": "Iran says an oil tanker struck a naval mine near the Strait of Hormuz, while CENTCOM says the vessel was hit by an Iranian missile and drone.",
       "source": "Israelnationalnews.com",
@@ -177,58 +229,6 @@
       "bloc": "western",
       "date": "2026-09-14",
       "datetime": "2026-09-14T13:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?",
-      "summary": "Brent crude crosses $107 as Hormuz disruptions and Saudi pipeline shutdown threaten global oil supply.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/14/us-says-its-clearing-hormuz-traffic-why-are-oil-futures-beyond-100",
-      "bloc": "regional",
-      "date": "2026-09-14",
-      "datetime": "2026-09-14T11:06:17Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Can Iran replace sea trade with land routes?",
-      "summary": "Iran is shifting trade toward northern ports and land routes as its southern shipping faces a US blockade. Analysts say the corridors can keep essential goods moving, but cannot replace maritime trade. Can land corridors offset the impact of the maritime bloc…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/can-iran-replace-sea-trade-with-land-routes/a-79211179",
-      "bloc": "western",
-      "date": "2026-09-14",
-      "datetime": "2026-09-14T07:50:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -297,9 +297,9 @@
     },
     {
       "headline": "Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis",
-      "summary": "The U.S. and global economies have continued to mint high-net-worth individuals at a historic clip, with wealth intelligence firm Altrata noting that the combined wealth of the world’s billionaires jumped 12.8% Y/Y to a record $15.1 trillion in 2025. The rank…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Wealthy-Investors-Flock-To-Oil-Gas-Assets-Amid-Energy-Crisis.html",
+      "summary": "Competition for energy assets is intensifying, with major M&A activity alongside commodity traders and hedge funds such as Gunvor, Citadel and Vitol increasi...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/wealthy-investors-flock-oil-gas-000000966.html",
       "bloc": "western",
       "date": "2026-09-15",
       "datetime": "2026-09-15T00:00:00Z",
@@ -374,32 +374,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Saudi Pipeline Is Gone: Why the Global Energy Shock Just Got Far Worse",
-      "summary": "The Saudi Pipeline Is Gone I have been warning for months that the global energy system was balanced on a knife’s edge, and now the blade has cut deep. Saudi Arabia announced on Friday, September 11, 2026, that it had shut down its East-West Pipeline after mu…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-14-saudi-pipeline-gone-global-energy-shock-worse.html",
-      "bloc": "western",
-      "date": "2026-09-14",
-      "datetime": "2026-09-14T06:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Nuclear Deterrence Is Changing—So Must Diplomacy",
       "summary": "The binary world of dueling superpowers is no more. China, France, and Britain can now take the lead against proliferation.",
       "source": "Thefreedomfrequency.org",
@@ -446,6 +420,29 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran War: Ansar Allah Strikes Yanbu Port as Rising Energy Prices Help Push 10 Year Treasury Yields Over 5%",
+      "summary": "Today's Iran war news: Ansar Allah makes biggest Saudi attack so far, hitting the Yanbu port and a key refinery as 10 year Treasury yields top 5%",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-ansar-allah-strikes-yanbu-port-as-rising-energy-prices-help-push-10-year-treasury-yields-over-5.html",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T10:58:56Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -519,13 +516,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump calls on Zelenskyy to halt strikes on Russian oil refineries",
-      "summary": "US President Donald Trump on Sunday called on Ukrainian President Volodymyr Zelenskyy to halt strikes on Russian oil refineries and other infrastructure used to produce and distribute diesel, saying the attacks are causing a global shortage. He spoke after di…",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/trump-calls-on-zelenskyy-to-halt-strikes-on-russian-oil-refineries-126091400028_1.html",
+      "headline": "The Saudi Pipeline Is Gone: Why the Global Energy Shock Just Got Far Worse",
+      "summary": "The Saudi Pipeline Is Gone I have been warning for months that the global energy system was balanced on a knife’s edge, and now the blade has cut deep. Saudi Arabia announced on Friday, September 11, 2026, that it had shut down its East-West Pipeline after mu…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-14-saudi-pipeline-gone-global-energy-shock-worse.html",
       "bloc": "western",
       "date": "2026-09-14",
-      "datetime": "2026-09-14T02:02:18Z",
+      "datetime": "2026-09-14T06:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

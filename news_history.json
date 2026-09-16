@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-16T16:27:57.070Z",
+  "updated": "2026-09-16T21:03:48.408Z",
   "retention_days": 30,
   "items": [
     {
@@ -9379,7 +9379,116 @@
       "_from": "newsapi",
       "first_seen": "2026-09-16T16:27:57.070Z",
       "run_id": "2026-09-16T16:27"
+    },
+    {
+      "headline": "Views of the U.S. providing military assistance to Israel and humanitarian aid to Gaza",
+      "summary": "On military assistance to Israel, roughly half of Israeli adults say the U.S. is providing about the right amount and a majority of Palestinians in the West Bank and East Jerusalem say the U.S. is providing too much.",
+      "source": "Pew Research Center",
+      "url": "https://www.pewresearch.org/global/2026/09/15/views-of-the-u-s-providing-military-assistance-to-israel-and-humanitarian-aid-to-gaza/",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T17:56:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-16T21:03:48.408Z",
+      "run_id": "2026-09-16T21:03"
+    },
+    {
+      "headline": "Many Israelis and Palestinians Say They Cannot Coexist Peacefully – and Explain Why",
+      "summary": "Israelis and Palestinians in the West Bank and East Jerusalem reflect on the viability of a two-state solution",
+      "source": "Pew Research Center",
+      "url": "https://www.pewresearch.org/global/2026/09/15/many-israelis-and-palestinians-say-they-cannot-coexist-peacefully-and-explain-why/",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T17:56:54Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-16T21:03:48.408Z",
+      "run_id": "2026-09-16T21:03"
+    },
+    {
+      "headline": "European shares fall as rising oil prices trigger rise in global borrowing costs",
+      "summary": "Iseq ends session down with banking stocks out of sorts",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/2026/09/15/european-shares-fall-as-rising-oil-prices-trigger-rise-in-global-borrowing-costs/",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T16:56:46Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-16T21:03:48.408Z",
+      "run_id": "2026-09-16T21:03"
+    },
+    {
+      "headline": "How much oil-market buffer is left?",
+      "summary": "Track the 2026 oil supply crisis with charts of fuel prices, oil reserves, and effects on the economy. Explore how long stored oil could last under three scenarios. Day 199, data as of Sep 15, 2026.",
+      "source": "Depletion.org",
+      "url": "https://www.depletion.org",
+      "bloc": "western",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T19:56:56Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-16T21:03:48.408Z",
+      "run_id": "2026-09-16T21:03"
     }
   ],
-  "total_items_ever": 3418
+  "total_items_ever": 3422
 }

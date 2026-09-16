@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-15T21:02:25.382Z",
+  "ts": "2026-09-16T04:03:27.315Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 108,
-    "oilStress": 66,
-    "updatedAt": "2026-09-15T21:02:25.382Z"
+    "oilStress": 65,
+    "updatedAt": "2026-09-16T04:03:27.315Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran says tanker hit naval mine near Hormuz, US calls claim false",
+      "summary": "Iran says an oil tanker struck a naval mine near the Strait of Hormuz, while CENTCOM says the vessel was hit by an Iranian missile and drone.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/433163",
+      "bloc": "western",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T21:09:27Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Houthi Red Sea Gains Pose New Risks for Shipping’s Return to Suez Canal",
       "summary": "Houthi control of key positions near the Bab el-Mandeb Strait could give the Iran-backed group greater leverage over a shipping corridor that carriers have only recently begun to return to.",
       "source": "WWD",
@@ -222,58 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Saudi Pipeline Is Gone: Why the Global Energy Shock Just Got Far Worse",
-      "summary": "The Saudi Pipeline Is Gone I have been warning for months that the global energy system was balanced on a knife’s edge, and now the blade has cut deep. Saudi Arabia announced on Friday, September 11, 2026, that it had shut down its East-West Pipeline after mu…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-14-saudi-pipeline-gone-global-energy-shock-worse.html",
-      "bloc": "western",
-      "date": "2026-09-14",
-      "datetime": "2026-09-14T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil markets survived the Iran war sprint. Now comes the marathon",
-      "summary": "The Iran war is increasingly looking like a prolonged threat to global energy markets, rather than a short-term supply shock. Crude has risen back above $100 a barrel as disruptions spread to Yemen and Saudi Arabia.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-markets-survived-the-iran-war-sprint-now-comes-the-marathon/articleshow/134232350.cms",
-      "bloc": "regional",
-      "date": "2026-09-14",
-      "datetime": "2026-09-14T04:21:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "How Congress Empowered Presidential War-Making After 9/11",
       "summary": "Its effects continue to shape national security policy today.",
       "source": "Foreign Policy",
@@ -322,49 +296,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Will Taiwan Just Give Up?",
-      "summary": "The Taiwanese don’t trust Trump, and they don’t believe America will come to their defense. A deal with China is starting to look inevitable.",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/magazine/2026/10/trump-taiwan-sovereignty-china/688356/",
+      "headline": "Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis",
+      "summary": "The U.S. and global economies have continued to mint high-net-worth individuals at a historic clip, with wealth intelligence firm Altrata noting that the combined wealth of the world’s billionaires jumped 12.8% Y/Y to a record $15.1 trillion in 2025. The rank…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Wealthy-Investors-Flock-To-Oil-Gas-Assets-Amid-Energy-Crisis.html",
       "bloc": "western",
-      "date": "2026-09-08",
-      "datetime": "2026-09-08T11:00:00Z",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T00:00:00Z",
       "leaders": [
-        "Xi Jinping"
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "oil Brent crude"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "values"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China’s Warrior Scientists: Insights from Recent Operations Around Taiwan",
-      "summary": "China’s marine scientific research ships are expanding their operations around Taiwan, and they are not just there to advance the frontiers of human knowledge. Their operations serve to undermine Taiwan’s independent political status and to force internationa…",
-      "source": "War on the Rocks",
-      "url": "https://warontherocks.com/chinas-warrior-scientists-insights-from-recent-operations-around-taiwan/",
-      "bloc": "western",
-      "date": "2026-09-08",
-      "datetime": "2026-09-08T07:30:45Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -422,13 +374,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Further Oil Price Spikes Could Rekindle Recession Fears",
-      "summary": "This week’s oil price surge sharply raised the odds of a Fed interest rate hike next week and re-launched the recession conversation, for the first time since the early weeks of the Iran war. The price spike this week saw Brent Crude prices topping $100 per b…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Oil-Prices/Further-Oil-Price-Spikes-Could-Rekindle-Recession-Fears.html",
+      "headline": "The Saudi Pipeline Is Gone: Why the Global Energy Shock Just Got Far Worse",
+      "summary": "The Saudi Pipeline Is Gone I have been warning for months that the global energy system was balanced on a knife’s edge, and now the blade has cut deep. Saudi Arabia announced on Friday, September 11, 2026, that it had shut down its East-West Pipeline after mu…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-14-saudi-pipeline-gone-global-energy-shock-worse.html",
       "bloc": "western",
-      "date": "2026-09-13",
-      "datetime": "2026-09-13T21:00:00Z",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T06:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -448,28 +400,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "HSBC raises its oil forecast as the Hormuz backup plan burns",
-      "summary": "The bank’s new Brent call rests on one assumption, and recent satellite images put it in doubt.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/economy/hsbc-raises-its-oil-forecast-as-the-hormuz-backup-plan-burns",
+      "headline": "Nuclear Deterrence Is Changing—So Must Diplomacy",
+      "summary": "The binary world of dueling superpowers is no more. China, France, and Britain can now take the lead against proliferation.",
+      "source": "Thefreedomfrequency.org",
+      "url": "https://www.thefreedomfrequency.org/p/nuclear-deterrence-is-changingso",
       "bloc": "western",
-      "date": "2026-09-13",
-      "datetime": "2026-09-13T15:07:00Z",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T00:00:00Z",
       "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
+        "Vladimir Putin",
         "Donald J. Trump"
       ],
       "watch_terms": [
-        "oil Brent crude"
+        "arms control New"
       ],
       "dimensions": [
-        "survival",
+        "accountability",
         "values"
       ],
-      "variable_key": "oilPrice",
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
-      "escalation": 2,
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

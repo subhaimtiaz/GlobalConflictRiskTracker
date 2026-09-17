@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-17T16:34:51.398Z",
+  "ts": "2026-09-17T21:07:25.729Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 104,
-    "oilStress": 58,
-    "updatedAt": "2026-09-17T16:34:51.398Z"
+    "oilStress": 59,
+    "updatedAt": "2026-09-17T21:07:25.729Z"
   },
   "items": [
     {
@@ -290,6 +290,31 @@
       "dimensions": [
         "accountability",
         "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Putin, Persia and a Perfect Storm for Diesel",
+      "summary": "This post Putin, Persia and a Perfect Storm for Diesel appeared first on Daily Reckoning.\nThe diesel shock is here. Between Russia and the Middle East, the world is in for a world of hurt.\nThe post Putin, Persia and a Perfect Storm for Diesel appeared first o…",
+      "source": "Dailyreckoning.com",
+      "url": "https://dailyreckoning.com/putin-persia-and-a-perfect-storm-for-diesel/",
+      "bloc": "western",
+      "date": "2026-09-16",
+      "datetime": "2026-09-16T20:00:10Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",

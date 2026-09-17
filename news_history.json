@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-17T11:16:58.576Z",
+  "updated": "2026-09-17T16:33:46.235Z",
   "retention_days": 30,
   "items": [
     {
@@ -9235,7 +9235,91 @@
       "_from": "newsapi",
       "first_seen": "2026-09-17T11:16:58.576Z",
       "run_id": "2026-09-17T11:16"
+    },
+    {
+      "headline": "US set to approve 60,000 heavy bombs for Israel: What that means",
+      "summary": "The package of 2,000-pound bombs comes amid Israel's genocidal war on Gaza and its occupation of southern Lebanon.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/9/16/us-set-to-approve-60000-heavy-bombs-for-israel-what-that-means",
+      "bloc": "regional",
+      "date": "2026-09-16",
+      "datetime": "2026-09-16T12:09:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-17T16:33:46.234Z",
+      "run_id": "2026-09-17T16:33"
+    },
+    {
+      "headline": "Trump is fighting Iran with strategic clarity — and America is winning",
+      "summary": "Operation Epic Fury targets Iran's nuclear weapon sites, ballistic missiles, and proxy networks as unprecedented sanctions choke oil exports.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/trump-fighting-iran-strategic-clarity-america-winning",
+      "bloc": "western",
+      "date": "2026-09-16",
+      "datetime": "2026-09-16T13:00:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-17T16:33:46.234Z",
+      "run_id": "2026-09-17T16:33"
+    },
+    {
+      "headline": "Russia squeezed, Saudi route hit, China circles: Why India's oil bill could get heavier",
+      "summary": "India is encountering soaring costs for crude oil imports due to ongoing global supply chain issues. Disruptions in Saudi oil export infrastructure and limitations on Russian shipments contribute to the turmoil. Additionally, China's rising thirst for Russian…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/russia-squeezed-saudi-route-hit-china-circles-why-indias-oil-bill-could-get-heavier/articleshow/134287455.cms",
+      "bloc": "regional",
+      "date": "2026-09-16",
+      "datetime": "2026-09-16T12:09:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-17T16:33:46.234Z",
+      "run_id": "2026-09-17T16:33"
     }
   ],
-  "total_items_ever": 3432
+  "total_items_ever": 3435
 }

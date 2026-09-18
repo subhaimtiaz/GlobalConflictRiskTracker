@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-18T03:56:03.896Z",
+  "ts": "2026-09-18T10:51:19.110Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 104,
-    "oilStress": 58,
-    "updatedAt": "2026-09-18T03:56:03.896Z"
+    "oilPrice": 103,
+    "oilStress": 57,
+    "updatedAt": "2026-09-18T10:51:19.110Z"
   },
   "items": [
+    {
+      "headline": "The Test: Gaza Puts the India–Israel Alliance on Trial",
+      "summary": "Freddie Ponton21st Century Wire In December 2025, Alpha Elsec shipped 122 armed five-kilogram warhead assemblies from India to Israel. Their customs description and specifications matched the warhead carried by Elbit Systems’ SkyStriker, a loitering munition …",
+      "source": "Activistpost.com",
+      "url": "https://activistpost.com/the-test-gaza-puts-the-india-israel-alliance-on-trial/",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T09:54:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "A Spreading War Rattles Global Energy Markets",
+      "summary": "Stanley Reed\n\n\n\nAnalysts say the consequences for energy prices and the world economy may be more serious in this later phase of a war that many had expected to be largely over by now.\r\n\n\r\n\n\nThe post A Spreading War Rattles Global Energy Markets appeared firs…",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/article/world/iran-war-oil-prices-global-energy-markets/",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T09:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Threatens Further Strikes on Iran as U.S. Generals Warn of Overstretched Forces",
+      "summary": "On Aug. 31, U.S. President Donald Trump said there would be a response to Iran’s recent attack on a U.S. military base in Jordan, telling Fox News that the United States would “hit them hard,” according to an interview with the network [1]. The remarks follow…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-17-trump-threatens-further-strikes-iran-overstretched-forces.html",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The War between the Wars",
       "summary": "For President Donald Trump and Israeli Prime Minister Benjamin Netanyahu, their second war on Iran in less than a year has proven to be ambitious and poorly planned. It is likely to be remembered less for the rapid victory that was promised than for the strat…",
@@ -47,84 +125,6 @@
       "bloc": "western",
       "date": "2026-09-17",
       "datetime": "2026-09-17T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Admin Quietly Opens Direct Talks With Iran-Backed Houthis As Yemen War Heats Up",
-      "summary": "U.S. officials reportedly held undisclosed talks with Iran-backed Houthi representatives in Oman over the weekend as the rebels pound Saudi Arabia.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/09/16/trump-admin-houthis-direct-talks-iran-oman-saudi-arabia",
-      "bloc": "western",
-      "date": "2026-09-16",
-      "datetime": "2026-09-16T21:19:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US set to approve 60,000 heavy bombs for Israel: What that means",
-      "summary": "The package of 2,000-pound bombs comes amid Israel's genocidal war on Gaza and its occupation of southern Lebanon.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/9/16/us-set-to-approve-60000-heavy-bombs-for-israel-what-that-means",
-      "bloc": "regional",
-      "date": "2026-09-16",
-      "datetime": "2026-09-16T12:09:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Targeting Merchant Ships in the Strait of Hormuz: The Iran–U.S. MoU and the Resumption of Hostilities",
-      "summary": "[Amir Abbas Kiani is a collaborating researcher in International Law at Shiraz University, Iran.] On June 17, 2026, the Islamic Republic of Iran and the United States of America (U.S.) signed an agreement, formally entitled the ‘Islamabad Memorandum of Unders…",
-      "source": "Opiniojuris.org",
-      "url": "http://opiniojuris.org/2026/09/16/targeting-merchant-ships-in-the-strait-of-hormuz-the-iran-u-s-mou-and-the-resumption-of-hostilities/",
-      "bloc": "western",
-      "date": "2026-09-16",
-      "datetime": "2026-09-16T08:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -315,6 +315,31 @@
         "survival",
         "impulsivity",
         "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Kim’s sister says only ‘idiots’ think N Korea to give up nukes",
+      "summary": "The powerful sister of North Korean leader Kim Jong Un said on Sept. 17 that the country’s nuclear-armed status was “absolute,” calling those hoping for its denuclearization “idiots.”",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/kims-sister-says-only-idiots-think-n-korea-to-give-up-nukes-226988",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T10:20:28Z",
+      "leaders": [
+        "Kim Jong-un"
+      ],
+      "watch_terms": [
+        "Kim Jong-un North"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "narcissism",
+        "survival"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -622,6 +647,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "At least 19 injured in Russian attacks across Ukraine",
+      "summary": "Missile and drone strikes targeted Ukraine's capital Kyiv as well as the Zaporizhzhia and Odesa regions.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/17/at-least-19-injured-in-russian-attacks-across-ukraine",
+      "bloc": "regional",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T10:07:57Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Saudi Oil Halt Is a Self-Inflicted European Catastrophe … and a Warning to the West",
       "summary": "Introduction: Europe’s Last Energy Lifeline Just Got Cut Western Europe is now staring into the worst energy crisis since World War II, and its leaders have no one to blame but themselves. On Friday, September 11, 2026, Saudi Arabia announced it had shut down…",
       "source": "Naturalnews.com",
@@ -698,29 +746,6 @@
       "bloc": "western",
       "date": "2026-09-15",
       "datetime": "2026-09-15T15:12:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Ansar Allah Strikes Yanbu Port as Rising Energy Prices Help Push 10 Year Treasury Yields Over 5%",
-      "summary": "Today's Iran war news: Ansar Allah makes biggest Saudi attack so far, hitting the Yanbu port and a key refinery as 10 year Treasury yields top 5%",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-ansar-allah-strikes-yanbu-port-as-rising-energy-prices-help-push-10-year-treasury-yields-over-5.html",
-      "bloc": "western",
-      "date": "2026-09-15",
-      "datetime": "2026-09-15T10:58:56Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

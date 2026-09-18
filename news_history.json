@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-18T03:54:58.583Z",
+  "updated": "2026-09-18T10:50:13.863Z",
   "retention_days": 30,
   "items": [
     {
@@ -9045,7 +9045,143 @@
       "_from": "newsapi",
       "first_seen": "2026-09-18T03:54:58.583Z",
       "run_id": "2026-09-18T03:54"
+    },
+    {
+      "headline": "The Test: Gaza Puts the India–Israel Alliance on Trial",
+      "summary": "Freddie Ponton21st Century Wire In December 2025, Alpha Elsec shipped 122 armed five-kilogram warhead assemblies from India to Israel. Their customs description and specifications matched the warhead carried by Elbit Systems’ SkyStriker, a loitering munition …",
+      "source": "Activistpost.com",
+      "url": "https://activistpost.com/the-test-gaza-puts-the-india-israel-alliance-on-trial/",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T09:54:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-18T10:50:13.863Z",
+      "run_id": "2026-09-18T10:50"
+    },
+    {
+      "headline": "A Spreading War Rattles Global Energy Markets",
+      "summary": "Stanley Reed\n\n\n\nAnalysts say the consequences for energy prices and the world economy may be more serious in this later phase of a war that many had expected to be largely over by now.\r\n\n\r\n\n\nThe post A Spreading War Rattles Global Energy Markets appeared firs…",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/article/world/iran-war-oil-prices-global-energy-markets/",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T09:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-18T10:50:13.863Z",
+      "run_id": "2026-09-18T10:50"
+    },
+    {
+      "headline": "Trump Threatens Further Strikes on Iran as U.S. Generals Warn of Overstretched Forces",
+      "summary": "On Aug. 31, U.S. President Donald Trump said there would be a response to Iran’s recent attack on a U.S. military base in Jordan, telling Fox News that the United States would “hit them hard,” according to an interview with the network [1]. The remarks follow…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-17-trump-threatens-further-strikes-iran-overstretched-forces.html",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-18T10:50:13.863Z",
+      "run_id": "2026-09-18T10:50"
+    },
+    {
+      "headline": "Kim’s sister says only ‘idiots’ think N Korea to give up nukes",
+      "summary": "The powerful sister of North Korean leader Kim Jong Un said on Sept. 17 that the country’s nuclear-armed status was “absolute,” calling those hoping for its denuclearization “idiots.”",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/kims-sister-says-only-idiots-think-n-korea-to-give-up-nukes-226988",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T10:20:28Z",
+      "leaders": [
+        "Kim Jong-un"
+      ],
+      "watch_terms": [
+        "Kim Jong-un North"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "narcissism",
+        "survival"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-18T10:50:13.863Z",
+      "run_id": "2026-09-18T10:50"
+    },
+    {
+      "headline": "At least 19 injured in Russian attacks across Ukraine",
+      "summary": "Missile and drone strikes targeted Ukraine's capital Kyiv as well as the Zaporizhzhia and Odesa regions.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/17/at-least-19-injured-in-russian-attacks-across-ukraine",
+      "bloc": "regional",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T10:07:57Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-18T10:50:13.863Z",
+      "run_id": "2026-09-18T10:50"
     }
   ],
-  "total_items_ever": 3441
+  "total_items_ever": 3446
 }

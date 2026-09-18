@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-18T16:06:29.548Z",
+  "ts": "2026-09-18T20:39:35.914Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 105,
-    "oilStress": 60,
-    "updatedAt": "2026-09-18T16:06:29.548Z"
+    "oilPrice": 103,
+    "oilStress": 57,
+    "updatedAt": "2026-09-18T20:39:35.914Z"
   },
   "items": [
+    {
+      "headline": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
+      "summary": "With assorted economic and military crises boiling all across the Middle East in the wake of his disastrous decision to launch a war on Iran, President Trump will meet with Persian Gulf leaders in New York next week, on the margins of the United Nations Gener…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/US-and-Houthis-Open-Talks-as-Saudi-Oil-Crisis-Deepens.html",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T20:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks",
+      "summary": "The French presidency said the aim of the Paris talks was to review a Lebanese armed forces deployment plan.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks",
+      "bloc": "regional",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T18:06:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Links 9/17/2026",
       "summary": "Our street-legal daily links: Hormuz drops global emissions, increases protests over fuel costs, EU bunker state, and billionaires bankrolling midterms.",
@@ -73,58 +125,6 @@
       "bloc": "western",
       "date": "2026-09-17",
       "datetime": "2026-09-17T09:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Threatens Further Strikes on Iran as U.S. Generals Warn of Overstretched Forces",
-      "summary": "On Aug. 31, U.S. President Donald Trump said there would be a response to Iran’s recent attack on a U.S. military base in Jordan, telling Fox News that the United States would “hit them hard,” according to an interview with the network [1]. The remarks follow…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-17-trump-threatens-further-strikes-iran-overstretched-forces.html",
-      "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The War between the Wars",
-      "summary": "For President Donald Trump and Israeli Prime Minister Benjamin Netanyahu, their second war on Iran in less than a year has proven to be ambitious and poorly planned. It is likely to be remembered less for the rapid victory that was promised than for the strat…",
-      "source": "Hoover.org",
-      "url": "https://www.hoover.org/research/war-between-wars",
-      "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T00:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

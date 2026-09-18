@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-18T10:51:19.110Z",
+  "ts": "2026-09-18T16:06:29.548Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 103,
-    "oilStress": 57,
-    "updatedAt": "2026-09-18T10:51:19.110Z"
+    "oilPrice": 105,
+    "oilStress": 60,
+    "updatedAt": "2026-09-18T16:06:29.548Z"
   },
   "items": [
+    {
+      "headline": "Links 9/17/2026",
+      "summary": "Our street-legal daily links: Hormuz drops global emissions, increases protests over fuel costs, EU bunker state, and billionaires bankrolling midterms.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/links-9-17-2026.html",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T10:55:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Test: Gaza Puts the India–Israel Alliance on Trial",
       "summary": "Freddie Ponton21st Century Wire In December 2025, Alpha Elsec shipped 122 armed five-kilogram warhead assemblies from India to Israel. Their customs description and specifications matched the warhead carried by Elbit Systems’ SkyStriker, a loitering munition …",
@@ -96,32 +122,6 @@
       "summary": "For President Donald Trump and Israeli Prime Minister Benjamin Netanyahu, their second war on Iran in less than a year has proven to be ambitious and poorly planned. It is likely to be remembered less for the rapid victory that was promised than for the strat…",
       "source": "Hoover.org",
       "url": "https://www.hoover.org/research/war-between-wars",
-      "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Enduring Implications of Epic Fury: Jordan’s Strategic Importance to Washington Increases",
-      "summary": "US military bases in the Arabian Peninsula were pounded during the war with Iran.  Shortly after the onset of “Epic Fury,” the Combined Air Operations Center (CAOC) at Al Udeid airbase in Qatar—command post for all US and coalition air operations in the Centr…",
-      "source": "Hoover.org",
-      "url": "https://www.hoover.org/research/enduring-implications-epic-fury-jordans-strategic-importance-washington-increases",
       "bloc": "western",
       "date": "2026-09-17",
       "datetime": "2026-09-17T00:00:00Z",
@@ -348,6 +348,78 @@
       "_from": "newsapi"
     },
     {
+      "headline": "China, Not Iran, Is Trump’s Real Foreign-Policy Debacle",
+      "summary": "In 19 months, Washington has lost ground to Beijing on every conceivable front.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/09/17/china-iran-trump-debacle-foreign-policy-war-trade-sanctions/",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T15:50:31Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "China Officially Stands for World Peace Yet Cooperates with U.S. War-Making and Promotes Alienation",
+      "summary": "[Parts I and II of Ron Ridenour’s China series can be read here and here.—Editors] Part Three: Artificial Intelligence = Alienation Instructors I am conscious of being alienated. Feeling, knowing we have no real control over our lives, or over what happens ar…",
+      "source": "Covertactionmagazine.com",
+      "url": "https://covertactionmagazine.com/2026/09/15/china-officially-stands-for-world-peace-yet-cooperates-with-u-s-war-making-and-promotes-alienation-2/",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T15:16:05Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "China is building 'first-ever mothership capable of launching submarine drones'",
+      "summary": "China is building the world's first-ever underwater mothership capable of launching submarine drones, according to new satellite images.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16138591/China-building-mothership-capable-launching-submarine-drones.html",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T13:51:11Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Strategic Stability and the Rebuilding of Xi’s Military",
       "summary": "For all the warnings about an increasingly capable Chinese military, this may very well be an awkward moment for Beijing to have that military tested. General Secretary Xi Jinping has hollowed out much of the People’s Liberation Army’s senior command through …",
       "source": "War on the Rocks",
@@ -396,54 +468,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "China’s defence chief warns against coercion, avoids US, Japan mention",
-      "summary": "Dong Jun pitches shared security governance and military cooperation while warning against coercion.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention",
-      "bloc": "regional",
-      "date": "2026-09-16",
-      "datetime": "2026-09-16T03:38:57Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The New Geopolitcal Landscape: How to Do Business in a World Adrift",
-      "summary": "[T]he next iteration of the global security, political and economic system will not be framed by the United States alone. The reality is already something else. It is not an “order,” which inherently points to a hierarchy, and perhaps not even a “disorder.” A…",
-      "source": "Fair Observer",
-      "url": "https://www.fairobserver.com/politics/the-new-geopolitcal-landscape-how-to-do-business-in-a-world-adrift/",
-      "bloc": "western",
-      "date": "2026-09-15",
-      "datetime": "2026-09-15T14:03:17Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Saudi Arabia faces tough choices as Houthis gain in Yemen",
       "summary": "Saudi Arabia faces growing security and economic problems as it seeks to balance deterrence and diplomacy amid an escalating conflict with the Iran-backed Houthis in neighboring Yemen.",
       "source": "DW (English)",
@@ -464,6 +488,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran War: Saudi Transits Out of Strait of Hormuz Up Markedly But Diesel Crunch Acute as US Weighs Export Ban",
+      "summary": "Today's Iran war news: More oil is exiting the Gulf than before, but diesel and food supplies are in a global crunch.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-saudi-transits-out-of-strait-of-hormuz-up-markedly-but-diesel-crunch-acute-as-us-weighs-export-ban.html",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T10:54:34Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -647,6 +697,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Fresh Russian Strikes Hit Ukraine As US House Passes Sanctions Bill Targeting Moscow",
+      "summary": "Russia resumed its missile and drone attacks on Ukrainian cities on September 17, hours after the US Congress passed a sanctions package that supporters say will increase pressure on Moscow and countries that help it finance its war against Ukraine.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260917-rferl01.htm",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "At least 19 injured in Russian attacks across Ukraine",
       "summary": "Missile and drone strikes targeted Ukraine's capital Kyiv as well as the Zaporizhzhia and Odesa regions.",
       "source": "Al Jazeera English",
@@ -723,29 +796,6 @@
       "bloc": "western",
       "date": "2026-09-15",
       "datetime": "2026-09-15T16:26:04Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia: Trump's Ukraine ceasefire proposal is 'good idea'",
-      "summary": "The Kremlin has hailed an \"energy ceasefire\" proposed by US President Trump, but has criticized a French initiative to share its nuclear deterrent. Meanwhile, hostilities have continued on the ground and in the air.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/russia-trumps-ukraine-ceasefire-proposal-is-good-idea/a-79280087",
-      "bloc": "western",
-      "date": "2026-09-15",
-      "datetime": "2026-09-15T15:12:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

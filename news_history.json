@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-18T10:50:13.863Z",
+  "updated": "2026-09-18T16:05:24.205Z",
   "retention_days": 30,
   "items": [
     {
@@ -9181,7 +9181,166 @@
       "_from": "newsapi",
       "first_seen": "2026-09-18T10:50:13.863Z",
       "run_id": "2026-09-18T10:50"
+    },
+    {
+      "headline": "Links 9/17/2026",
+      "summary": "Our street-legal daily links: Hormuz drops global emissions, increases protests over fuel costs, EU bunker state, and billionaires bankrolling midterms.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/links-9-17-2026.html",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T10:55:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-18T16:05:24.205Z",
+      "run_id": "2026-09-18T16:05"
+    },
+    {
+      "headline": "China, Not Iran, Is Trump’s Real Foreign-Policy Debacle",
+      "summary": "In 19 months, Washington has lost ground to Beijing on every conceivable front.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/09/17/china-iran-trump-debacle-foreign-policy-war-trade-sanctions/",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T15:50:31Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-18T16:05:24.205Z",
+      "run_id": "2026-09-18T16:05"
+    },
+    {
+      "headline": "China Officially Stands for World Peace Yet Cooperates with U.S. War-Making and Promotes Alienation",
+      "summary": "[Parts I and II of Ron Ridenour’s China series can be read here and here.—Editors] Part Three: Artificial Intelligence = Alienation Instructors I am conscious of being alienated. Feeling, knowing we have no real control over our lives, or over what happens ar…",
+      "source": "Covertactionmagazine.com",
+      "url": "https://covertactionmagazine.com/2026/09/15/china-officially-stands-for-world-peace-yet-cooperates-with-u-s-war-making-and-promotes-alienation-2/",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T15:16:05Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-18T16:05:24.205Z",
+      "run_id": "2026-09-18T16:05"
+    },
+    {
+      "headline": "China is building 'first-ever mothership capable of launching submarine drones'",
+      "summary": "China is building the world's first-ever underwater mothership capable of launching submarine drones, according to new satellite images.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16138591/China-building-mothership-capable-launching-submarine-drones.html",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T13:51:11Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-18T16:05:24.205Z",
+      "run_id": "2026-09-18T16:05"
+    },
+    {
+      "headline": "Iran War: Saudi Transits Out of Strait of Hormuz Up Markedly But Diesel Crunch Acute as US Weighs Export Ban",
+      "summary": "Today's Iran war news: More oil is exiting the Gulf than before, but diesel and food supplies are in a global crunch.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-saudi-transits-out-of-strait-of-hormuz-up-markedly-but-diesel-crunch-acute-as-us-weighs-export-ban.html",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T10:54:34Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-18T16:05:24.205Z",
+      "run_id": "2026-09-18T16:05"
+    },
+    {
+      "headline": "Fresh Russian Strikes Hit Ukraine As US House Passes Sanctions Bill Targeting Moscow",
+      "summary": "Russia resumed its missile and drone attacks on Ukrainian cities on September 17, hours after the US Congress passed a sanctions package that supporters say will increase pressure on Moscow and countries that help it finance its war against Ukraine.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260917-rferl01.htm",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-18T16:05:24.205Z",
+      "run_id": "2026-09-18T16:05"
     }
   ],
-  "total_items_ever": 3446
+  "total_items_ever": 3452
 }

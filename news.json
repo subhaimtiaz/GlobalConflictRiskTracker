@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-19T03:53:02.510Z",
+  "ts": "2026-09-19T10:35:00.934Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-09-19T03:53:02.510Z"
+    "updatedAt": "2026-09-19T10:35:00.934Z"
   },
   "items": [
+    {
+      "headline": "Israel is killing the people who could end its wars",
+      "summary": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars",
+      "bloc": "regional",
+      "date": "2026-09-18",
+      "datetime": "2026-09-18T10:29:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Saudis and Houthis Exchange Strikes, Yemenis Flee by Boat as Middle East War Spreads",
+      "summary": "Saudi Arabia and Yemen’s Iran-backed Houthis exchanged fresh strikes across their border on Thursday and Yemenis took to boats in the Red Sea to escape fighting, as the spreading Middle East war created new threats to global oil supplies. Houthi-controlled …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/09/18/885638.htm",
+      "bloc": "western",
+      "date": "2026-09-18",
+      "datetime": "2026-09-18T10:18:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump to Meet Gulf Leaders as U.S. Assesses Yemen and Regional Security",
+      "summary": "President Donald Trump is scheduled to meet with Persian Gulf leaders in New York next week on the margins of the United Nations General Assembly, according to Axios. The meeting is expected to center on American ideas for postwar strategy in the region [1]. …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-18-trump-meet-gulf-leaders-assesses-yemen-regional-security.html",
+      "bloc": "western",
+      "date": "2026-09-18",
+      "datetime": "2026-09-18T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
       "summary": "With assorted economic and military crises boiling all across the Middle East in the wake of his disastrous decision to launch a war on Iran, President Trump will meet with Persian Gulf leaders in New York next week, on the margins of the United Nations Gener…",
@@ -66,79 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Links 9/17/2026",
-      "summary": "Our street-legal daily links: Hormuz drops global emissions, increases protests over fuel costs, EU bunker state, and billionaires bankrolling midterms.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-17-2026.html",
-      "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T10:55:10Z",
+      "headline": "Oman oil escape route: How ship-to-ship transfers work — despite big risks",
+      "summary": "Oman’s Sohar port is becoming a popular spot for ship-to-ship oil transfers amid continued Hormuz blockade.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/18/oman-oil-escape-route-how-ship-to-ship-transfers-work-despite-big",
+      "bloc": "regional",
+      "date": "2026-09-18",
+      "datetime": "2026-09-18T06:02:08Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Test: Gaza Puts the India–Israel Alliance on Trial",
-      "summary": "Freddie Ponton21st Century Wire In December 2025, Alpha Elsec shipped 122 armed five-kilogram warhead assemblies from India to Israel. Their customs description and specifications matched the warhead carried by Elbit Systems’ SkyStriker, a loitering munition …",
-      "source": "Activistpost.com",
-      "url": "https://activistpost.com/the-test-gaza-puts-the-india-israel-alliance-on-trial/",
-      "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T09:54:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "A Spreading War Rattles Global Energy Markets",
-      "summary": "Stanley Reed\n\n\n\nAnalysts say the consequences for energy prices and the world economy may be more serious in this later phase of a war that many had expected to be largely over by now.\r\n\n\r\n\n\nThe post A Spreading War Rattles Global Energy Markets appeared firs…",
-      "source": "Thenation.com",
-      "url": "https://www.thenation.com/article/world/iran-war-oil-prices-global-energy-markets/",
-      "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T09:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo",
-      "bloc": "western",
-      "date": "2026-09-15",
-      "datetime": "2026-09-15T13:05:36Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "How Congress Empowered Presidential War-Making After 9/11",
       "summary": "Its effects continue to shape national security policy today.",
       "source": "Foreign Policy",
@@ -340,6 +340,54 @@
         "impulsivity",
         "narcissism",
         "survival"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "China Coast Guard rams Philippine vessel on resupply mission",
+      "summary": "The incident exacerbates regional tensions, potentially influencing China's military posture towards Taiwan and affecting regional stability.\nThe post China Coast Guard rams Philippine vessel on resupply mission appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/china-coast-guard-rams-philippine-vessel-on-resupply-mission/",
+      "bloc": "western",
+      "date": "2026-09-18",
+      "datetime": "2026-09-18T08:53:02Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence",
+      "summary": "Washington is preparing for the right war, but in the wrong theater. For years, U.S. strategic thinking has centered on the Indo‑Pacific: the militarized atolls of the South China Sea, China’s churning naval shipyards, and the tense waters of the Taiwan Strai…",
+      "source": "War on the Rocks",
+      "url": "https://warontherocks.com/why-eurasia-not-the-indo-pacific-matters-most-in-next-phase-of-taiwan-deterrence/",
+      "bloc": "western",
+      "date": "2026-09-18",
+      "datetime": "2026-09-18T07:30:22Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -420,30 +468,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Strategic Stability and the Rebuilding of Xi’s Military",
-      "summary": "For all the warnings about an increasingly capable Chinese military, this may very well be an awkward moment for Beijing to have that military tested. General Secretary Xi Jinping has hollowed out much of the People’s Liberation Army’s senior command through …",
-      "source": "War on the Rocks",
-      "url": "https://warontherocks.com/strategic-stability-and-the-rebuilding-of-xis-military/",
-      "bloc": "western",
-      "date": "2026-09-16",
-      "datetime": "2026-09-16T07:30:51Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Saudi Arabia faces tough choices as Houthis gain in Yemen",
       "summary": "Saudi Arabia faces growing security and economic problems as it seeks to balance deterrence and diplomacy amid an escalating conflict with the Iran-backed Houthis in neighboring Yemen.",
       "source": "DW (English)",
@@ -465,6 +489,58 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Yuan-Denominated Crude Futures Hit Record as Middle East Supply Risks Persist",
+      "summary": "Yuan-denominated crude oil futures in China climbed to their highest level on record this week, according to a report published by OilPrice.com on Tuesday. The INE crude oil futures contract (SC), launched in March 2018, is a physical-settlement contract pric…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-18-yuan-denominated-crude-futures-hit-highest-level.html",
+      "bloc": "western",
+      "date": "2026-09-18",
+      "datetime": "2026-09-18T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Refinery Kill Shot: How the Global Energy Choke Point Is Being Dismantled to Collapse Civilization",
+      "summary": "The Refinery Kill Shot Explained After watching the events of this year (2026), I am now certain of one thing: the global wave of refinery attacks, pipeline sabotage, and refining closures is not a market accident, a run of bad luck, or the invisible hand of …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-18-refinery-kill-shot-how-global-energy-choke-point.html",
+      "bloc": "western",
+      "date": "2026-09-18",
+      "datetime": "2026-09-18T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -502,58 +578,6 @@
       "bloc": "western",
       "date": "2026-09-15",
       "datetime": "2026-09-15T22:11:27Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "European shares fall as rising oil prices trigger rise in global borrowing costs",
-      "summary": "Iseq ends session down with banking stocks out of sorts",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/business/2026/09/15/european-shares-fall-as-rising-oil-prices-trigger-rise-in-global-borrowing-costs/",
-      "bloc": "western",
-      "date": "2026-09-15",
-      "datetime": "2026-09-15T16:56:46Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis",
-      "summary": "Competition for energy assets is intensifying, with major M&A activity alongside commodity traders and hedge funds such as Gunvor, Citadel and Vitol increasi...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/energy/articles/wealthy-investors-flock-oil-gas-000000966.html",
-      "bloc": "western",
-      "date": "2026-09-15",
-      "datetime": "2026-09-15T00:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -648,6 +672,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Ukraine fires drone barrage as Russia launches elections",
+      "summary": "Russia's first parliamentary election since the invasion opens with no antiwar party on the ballot.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections",
+      "bloc": "regional",
+      "date": "2026-09-18",
+      "datetime": "2026-09-18T10:28:17Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Fresh Russian Strikes Hit Ukraine As US House Passes Sanctions Bill Targeting Moscow",
       "summary": "Russia resumed its missile and drone attacks on Ukrainian cities on September 17, hours after the US Congress passed a sanctions package that supporters say will increase pressure on Moscow and countries that help it finance its war against Ukraine.",
       "source": "Globalsecurity.org",
@@ -724,29 +771,6 @@
       "bloc": "western",
       "date": "2026-09-15",
       "datetime": "2026-09-15T19:56:56Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia and Ukraine Press on With Energy Strikes Despite Trump",
-      "summary": "Russia hit petrol stations in Kyiv on Tuesday and Ukraine struck a Russian oil refinery, as the warring sides carried on with strikes on each other's energy targets despite an announcement by U.S. President Donald Trump that they had agreed to stop.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/russia-and-ukraine-press-on-with-energy-strikes-despite-trump/",
-      "bloc": "western",
-      "date": "2026-09-15",
-      "datetime": "2026-09-15T16:26:04Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

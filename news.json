@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-18T20:39:35.914Z",
+  "ts": "2026-09-19T03:53:02.510Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 103,
-    "oilStress": 57,
-    "updatedAt": "2026-09-18T20:39:35.914Z"
+    "oilStress": 58,
+    "updatedAt": "2026-09-19T03:53:02.510Z"
   },
   "items": [
     {
@@ -348,6 +348,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "China is building 'first-ever mothership capable of launching submarine drones'",
+      "summary": "Images taken by Vantor, a US defence intelligence company, show a red ship under construction at the Hudong-Zhonghua shipyard.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16139937/China-building-mothership-capable-launching-submarine-drones.html",
+      "bloc": "western",
+      "date": "2026-09-17",
+      "datetime": "2026-09-17T23:10:14Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "China, Not Iran, Is Trump’s Real Foreign-Policy Debacle",
       "summary": "In 19 months, Washington has lost ground to Beijing on every conceivable front.",
       "source": "Foreign Policy",
@@ -396,30 +420,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "China is building 'first-ever mothership capable of launching submarine drones'",
-      "summary": "China is building the world's first-ever underwater mothership capable of launching submarine drones, according to new satellite images.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16138591/China-building-mothership-capable-launching-submarine-drones.html",
-      "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T13:51:11Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Strategic Stability and the Rebuilding of Xi’s Military",
       "summary": "For all the warnings about an increasingly capable Chinese military, this may very well be an awkward moment for Beijing to have that military tested. General Secretary Xi Jinping has hollowed out much of the People’s Liberation Army’s senior command through …",
       "source": "War on the Rocks",
@@ -427,30 +427,6 @@
       "bloc": "western",
       "date": "2026-09-16",
       "datetime": "2026-09-16T07:30:51Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China’s defence chief warns against ‘historical revisionism’ in apparent Japan message",
-      "summary": "China's Defence Minister Dong Jun urged nations to avoid provocative acts and historical revisionism. He spoke at the Beijing Xiangshan Forum amid regional tensions over Taiwan and the South China Sea. Dong called for a multipolar world marked by partnership …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/chinas-defence-chief-warns-against-historical-revisionism-in-apparent-japan-message/articleshow/134279893.cms",
-      "bloc": "regional",
-      "date": "2026-09-16",
-      "datetime": "2026-09-16T06:18:04Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -668,31 +644,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How 41 Senators Could End the Iran War and Rein In Defense Spending",
-      "summary": "In the days after the September 11, 2001 attacks, I joined Harry Belafonte, Danny Glover, the Institute for Policy Studies, YES! Magazine, and hundreds of other signatories in calling for “Justice, Not Vengeance.” We argued that the United States should find …",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/opinion/41-senators-end-iran-war",
-      "bloc": "western",
-      "date": "2026-09-11",
-      "datetime": "2026-09-11T12:09:03Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-19T15:37:50.629Z",
+  "updated": "2026-09-19T20:17:05.987Z",
   "retention_days": 30,
   "items": [
     {
@@ -9177,7 +9177,63 @@
       "_from": "newsapi",
       "first_seen": "2026-09-19T10:33:55.571Z",
       "run_id": "2026-09-19T10:33"
+    },
+    {
+      "headline": "Trump Returns to UN as Iran War Spreads Across Shipping Chokepoints",
+      "summary": "WASHINGTON, Sept 18 (Reuters) – When President Donald Trump addressed the United Nations a year ago, he touted the US bombing of Iran’s nuclear sites just months earlier as “totally obliterating everything” and...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/trump-returns-to-un-as-iran-war-spreads-across-shipping-chokepoints/",
+      "bloc": "western",
+      "date": "2026-09-18",
+      "datetime": "2026-09-18T16:58:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-19T20:17:05.987Z",
+      "run_id": "2026-09-19T20:17"
+    },
+    {
+      "headline": "Tehran rallies hundreds of thousands of civilians for ‘sacrifice’ army: ‘We Iranians have no fear’",
+      "summary": "It was the largest demonstration in the country since the United States and Israel attacked Iran in February.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/18/us-news/iran-rallies-hundreds-of-thousands-of-civilians-for-military/",
+      "bloc": "western",
+      "date": "2026-09-18",
+      "datetime": "2026-09-18T19:07:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-19T20:17:05.987Z",
+      "run_id": "2026-09-19T20:17"
     }
   ],
-  "total_items_ever": 3463
+  "total_items_ever": 3465
 }

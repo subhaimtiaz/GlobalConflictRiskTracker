@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-20T15:43:59.174Z",
+  "updated": "2026-09-20T20:32:19.547Z",
   "retention_days": 30,
   "items": [
     {
@@ -9014,7 +9014,35 @@
       "_from": "newsapi",
       "first_seen": "2026-09-20T15:43:59.174Z",
       "run_id": "2026-09-20T15:43"
+    },
+    {
+      "headline": "Hormuz oil shipments hit 6-month high",
+      "summary": "Oil and liquefied natural gas shipments through the Strait of Hormuz in the past two weeks reached the highest level in six months, a regional U.S. commander said.",
+      "source": "Boston Herald",
+      "url": "https://www.bostonherald.com/2026/09/19/hormuz-oil-shipments-hit-6-month-high/",
+      "bloc": "western",
+      "date": "2026-09-19",
+      "datetime": "2026-09-19T18:22:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-20T20:32:19.547Z",
+      "run_id": "2026-09-20T20:32"
     }
   ],
-  "total_items_ever": 3469
+  "total_items_ever": 3470
 }

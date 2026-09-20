@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-20T15:45:04.370Z",
+  "ts": "2026-09-20T20:33:24.705Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-09-20T15:45:04.370Z"
+    "updatedAt": "2026-09-20T20:33:24.705Z"
   },
   "items": [
     {
@@ -118,6 +118,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Hormuz oil shipments hit 6-month high",
+      "summary": "Oil and liquefied natural gas shipments through the Strait of Hormuz in the past two weeks reached the highest level in six months, a regional U.S. commander said.",
+      "source": "Boston Herald",
+      "url": "https://www.bostonherald.com/2026/09/19/hormuz-oil-shipments-hit-6-month-high/",
+      "bloc": "western",
+      "date": "2026-09-19",
+      "datetime": "2026-09-19T18:22:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "‘Sacrifice your lives’: Hundreds of thousands take to Tehran’s streets for citizen ‘mobilisation’",
       "summary": "The largest mobilisation since the US and Israeli strikes – Iran projects military strength amid sanctions and crisis\nThe post ‘Sacrifice your lives’: Hundreds of thousands take to Tehran’s streets for citizen ‘mobilisation’ appeared first on ProtoThema Engli…",
       "source": "Protothema.gr",
@@ -203,32 +229,6 @@
       "bloc": "regional",
       "date": "2026-09-18",
       "datetime": "2026-09-18T06:02:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Have We Lost the Iran War?",
-      "summary": "Has the United States lost the Iran war?  The Iranian regime certainly thinks it has.  The big Iranian funk that came after the 12-Day War in June, which climaxed the Israeli multi-front offensive that followed the horrors of October 7th, has faded. From a di…",
-      "source": "Hoover.org",
-      "url": "https://www.hoover.org/research/have-we-lost-iran-war",
-      "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T00:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

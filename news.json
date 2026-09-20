@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-20T10:57:38.694Z",
+  "ts": "2026-09-20T15:45:04.370Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-09-20T10:57:38.694Z"
+    "updatedAt": "2026-09-20T15:45:04.370Z"
   },
   "items": [
+    {
+      "headline": "Saudi Arabia issues air raid alerts across the country, and other Mideast developments",
+      "summary": "Saudi Arabia issues nationwide air raid alerts amid escalating tensions, while Iran executes a spy and regional conflicts continue.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/saudi-arabia-issues-air-raid-alerts-across-the-country-and-other-mideast-developments/article71485388.ece",
+      "bloc": "western",
+      "date": "2026-09-19",
+      "datetime": "2026-09-19T15:02:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump Returns to UN as Iran War Spreads Across Shipping Chokepoints",
       "summary": "WASHINGTON, Sept 18 (Reuters) – When President Donald Trump addressed the United Nations a year ago, he touted the US bombing of Iran’s nuclear sites just months earlier as “totally obliterating everything” and...",
@@ -88,32 +114,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump to Meet Gulf Leaders as U.S. Assesses Yemen and Regional Security",
-      "summary": "President Donald Trump is scheduled to meet with Persian Gulf leaders in New York next week on the margins of the United Nations General Assembly, according to Axios. The meeting is expected to center on American ideas for postwar strategy in the region [1]. …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-18-trump-meet-gulf-leaders-assesses-yemen-regional-security.html",
-      "bloc": "western",
-      "date": "2026-09-18",
-      "datetime": "2026-09-18T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

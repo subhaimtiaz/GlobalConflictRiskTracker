@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-20T04:09:43.418Z",
+  "ts": "2026-09-20T10:57:38.694Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 58,
-    "updatedAt": "2026-09-20T04:09:43.418Z"
+    "updatedAt": "2026-09-20T10:57:38.694Z"
   },
   "items": [
     {
@@ -118,6 +118,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "‘Sacrifice your lives’: Hundreds of thousands take to Tehran’s streets for citizen ‘mobilisation’",
+      "summary": "The largest mobilisation since the US and Israeli strikes – Iran projects military strength amid sanctions and crisis\nThe post ‘Sacrifice your lives’: Hundreds of thousands take to Tehran’s streets for citizen ‘mobilisation’ appeared first on ProtoThema Engli…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/09/19/sacrifice-your-lives-hundreds-of-thousands-take-to-tehrans-streets-for-citizen-mobilisation/",
+      "bloc": "western",
+      "date": "2026-09-19",
+      "datetime": "2026-09-19T04:31:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran claims it struck an oil tanker in the Strait of Hormuz",
       "summary": "Iran reports striking an oil tanker in the Strait of Hormuz. Hundreds of thousands rallied in Tehran showing strong government support. South Korea considers expanding its naval presence in the Gulf of Aden. Houthi supporters demonstrated in Yemen protesting …",
       "source": "The Times of India",
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-09-17",
       "datetime": "2026-09-17T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump is fighting Iran with strategic clarity — and America is winning",
-      "summary": "Operation Epic Fury targets Iran's nuclear weapon sites, ballistic missiles, and proxy networks as unprecedented sanctions choke oil exports.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/opinion/trump-fighting-iran-strategic-clarity-america-winning",
-      "bloc": "western",
-      "date": "2026-09-16",
-      "datetime": "2026-09-16T13:00:33Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -462,6 +462,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Prices Are High But Could Be Much Worse. Trump Has China's Xi To Thank For That",
+      "summary": "Trump’s conflict with Iran has not led to the doomsday oil price spike many feared at the start of the war.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/ap-us-trump-xi-iran-oil-iran-war_n_6aae114ae4b07bc48dde47aa",
+      "bloc": "western",
+      "date": "2026-09-19",
+      "datetime": "2026-09-19T04:44:18Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

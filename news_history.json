@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-20T04:08:38.108Z",
+  "updated": "2026-09-20T10:56:33.441Z",
   "retention_days": 30,
   "items": [
     {
@@ -8930,7 +8930,63 @@
       "_from": "newsapi",
       "first_seen": "2026-09-20T04:08:38.108Z",
       "run_id": "2026-09-20T04:08"
+    },
+    {
+      "headline": "‘Sacrifice your lives’: Hundreds of thousands take to Tehran’s streets for citizen ‘mobilisation’",
+      "summary": "The largest mobilisation since the US and Israeli strikes – Iran projects military strength amid sanctions and crisis\nThe post ‘Sacrifice your lives’: Hundreds of thousands take to Tehran’s streets for citizen ‘mobilisation’ appeared first on ProtoThema Engli…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/09/19/sacrifice-your-lives-hundreds-of-thousands-take-to-tehrans-streets-for-citizen-mobilisation/",
+      "bloc": "western",
+      "date": "2026-09-19",
+      "datetime": "2026-09-19T04:31:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-20T10:56:33.441Z",
+      "run_id": "2026-09-20T10:56"
+    },
+    {
+      "headline": "Oil Prices Are High But Could Be Much Worse. Trump Has China's Xi To Thank For That",
+      "summary": "Trump’s conflict with Iran has not led to the doomsday oil price spike many feared at the start of the war.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/ap-us-trump-xi-iran-oil-iran-war_n_6aae114ae4b07bc48dde47aa",
+      "bloc": "western",
+      "date": "2026-09-19",
+      "datetime": "2026-09-19T04:44:18Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-20T10:56:33.441Z",
+      "run_id": "2026-09-20T10:56"
     }
   ],
-  "total_items_ever": 3466
+  "total_items_ever": 3468
 }

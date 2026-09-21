@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-21T04:07:18.368Z",
+  "ts": "2026-09-21T12:23:21.715Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 102,
-    "oilStress": 55,
-    "updatedAt": "2026-09-21T04:07:18.367Z"
+    "oilPrice": 101,
+    "oilStress": 54,
+    "updatedAt": "2026-09-21T12:23:21.715Z"
   },
   "items": [
+    {
+      "headline": "Sunday: Hili dialogue",
+      "summary": "Welcome to Sunday, September 20. Yom Kippur, the Day of Atonement and the holiest day on the Jewish calendar, ends at sunset, so you can start eating and drinking again, and can kiss your wife. Below you can see a painting of the holiday, labeled “Jews Prayin…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/09/20/sunday-hili-dialogue-604/",
+      "bloc": "western",
+      "date": "2026-09-20",
+      "datetime": "2026-09-20T11:45:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Saudi Arabia issues air raid alerts across the country, and other Mideast developments",
       "summary": "Saudi Arabia issues nationwide air raid alerts amid escalating tensions, while Iran executes a spy and regional conflicts continue.",
@@ -88,32 +114,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudis and Houthis Exchange Strikes, Yemenis Flee by Boat as Middle East War Spreads",
-      "summary": "Saudi Arabia and Yemen’s Iran-backed Houthis exchanged fresh strikes across their border on Thursday and Yemenis took to boats in the Red Sea to escape fighting, as the spreading Middle East war created new threats to global oil supplies. Houthi-controlled …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/09/18/885638.htm",
-      "bloc": "western",
-      "date": "2026-09-18",
-      "datetime": "2026-09-18T10:18:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

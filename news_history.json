@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-21T12:22:16.437Z",
+  "updated": "2026-09-21T21:49:47.901Z",
   "retention_days": 30,
   "items": [
     {
@@ -8902,7 +8902,63 @@
       "_from": "newsapi",
       "first_seen": "2026-09-21T12:22:16.437Z",
       "run_id": "2026-09-21T12:22"
+    },
+    {
+      "headline": "Postponing the future: War and inflation redraw marriage terms in Iran",
+      "summary": "Iran's cost of living crisis is affecting the dreams and everyday life choices of young Iranians.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/9/20/postponing-the-future-war-and-inflation-redraw-marriage-terms-in-iran",
+      "bloc": "regional",
+      "date": "2026-09-20",
+      "datetime": "2026-09-20T13:12:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-21T21:49:47.901Z",
+      "run_id": "2026-09-21T21:49"
+    },
+    {
+      "headline": "Chevron CEO sends a strong message on oil price and the economy",
+      "summary": "Something Chevron’s CEO said at an energy conference puts the White House’s oil price message in a difficult spot",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/economy/chevron-ceo-sends-a-strong-message-on-oil-price-and-the-economy",
+      "bloc": "western",
+      "date": "2026-09-20",
+      "datetime": "2026-09-20T16:47:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-21T21:49:47.901Z",
+      "run_id": "2026-09-21T21:49"
     }
   ],
-  "total_items_ever": 3471
+  "total_items_ever": 3473
 }

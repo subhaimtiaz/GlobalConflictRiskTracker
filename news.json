@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-21T12:23:21.715Z",
+  "ts": "2026-09-21T21:50:53.150Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 101,
-    "oilStress": 54,
-    "updatedAt": "2026-09-21T12:23:21.715Z"
+    "oilPrice": 100,
+    "oilStress": 52,
+    "updatedAt": "2026-09-21T21:50:53.150Z"
   },
   "items": [
+    {
+      "headline": "Postponing the future: War and inflation redraw marriage terms in Iran",
+      "summary": "Iran's cost of living crisis is affecting the dreams and everyday life choices of young Iranians.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/9/20/postponing-the-future-war-and-inflation-redraw-marriage-terms-in-iran",
+      "bloc": "regional",
+      "date": "2026-09-20",
+      "datetime": "2026-09-20T13:12:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Sunday: Hili dialogue",
       "summary": "Welcome to Sunday, September 20. Yom Kippur, the Day of Atonement and the holiest day on the Jewish calendar, ends at sunset, so you can start eating and drinking again, and can kiss your wife. Below you can see a painting of the holiday, labeled “Jews Prayin…",
@@ -73,32 +99,6 @@
       "bloc": "western",
       "date": "2026-09-18",
       "datetime": "2026-09-18T16:58:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Israel is killing the people who could end its wars",
-      "summary": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars",
-      "bloc": "regional",
-      "date": "2026-09-18",
-      "datetime": "2026-09-18T10:29:34Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -467,6 +467,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Chevron CEO sends a strong message on oil price and the economy",
+      "summary": "Something Chevron’s CEO said at an energy conference puts the White House’s oil price message in a difficult spot",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/economy/chevron-ceo-sends-a-strong-message-on-oil-price-and-the-economy",
+      "bloc": "western",
+      "date": "2026-09-20",
+      "datetime": "2026-09-20T16:47:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Oil Prices Are High But Could Be Much Worse. Trump Has China's Xi To Thank For That",
       "summary": "Trump’s conflict with Iran has not led to the doomsday oil price spike many feared at the start of the war.",
       "source": "HuffPost",
@@ -552,32 +578,6 @@
       "bloc": "western",
       "date": "2026-09-17",
       "datetime": "2026-09-17T10:54:34Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China Charges Back Into The Oil Market As Hormuz Chaos Sends Crude Toward $110",
-      "summary": "China is returning to the global oil market after months of leaning heavily on its own crude stockpiles as Middle East disruptions squeeze supplies.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/09/15/china-oil-market-strait-hormuz-prices-surge-david-blackmon-stuart-turley-james-taylor",
-      "bloc": "western",
-      "date": "2026-09-15",
-      "datetime": "2026-09-15T22:11:27Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-22T04:04:17.594Z",
+  "ts": "2026-09-22T11:14:15.181Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 101,
-    "oilStress": 54,
-    "updatedAt": "2026-09-22T04:04:17.594Z"
+    "oilPrice": 98,
+    "oilStress": 49,
+    "updatedAt": "2026-09-22T11:14:15.181Z"
   },
   "items": [
+    {
+      "headline": "Houthis and Saudi Arabia Exchange Strikes as Yemen Fighting Spreads",
+      "summary": "Saudi Arabia and Iran-backed Houthi rebels in Yemen traded cross-border strikes Thursday, Sept. 17, according to Houthi-controlled television and Saudi civil defense said. Houthi-controlled television reported Saudi airstrikes in Yemen’s Hajjah province near …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-21-houthis-saudi-exchange-strikes-yemen-fighting-spreads.html",
+      "bloc": "western",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Signs Russia Sanctions Bill Into Law, Authorizing Tariffs on Russian Energy Buyers",
+      "summary": "President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law on Friday, according to White House statements and public records. The legislation authorizes new sanctions on Russia and extends existing sanctions on Iran, …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-21-trumps-signs-russia-law-tariffs-energy-buyers.html",
+      "bloc": "western",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "War and sanctions are crippling Iran’s economy, with GDP plunging 10.1%",
       "summary": "Oil exports collapse, inflation reaches 69.9% and the rial falls further against the dollar\nThe post War and sanctions are crippling Iran’s economy, with GDP plunging 10.1% appeared first on ProtoThema English.",
@@ -92,27 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Saudi Arabia issues air raid alerts across the country, and other Mideast developments",
-      "summary": "Saudi Arabia issues nationwide air raid alerts amid escalating tensions, while Iran executes a spy and regional conflicts continue.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/saudi-arabia-issues-air-raid-alerts-across-the-country-and-other-mideast-developments/article71485388.ece",
+      "headline": "Never Underestimate the Houthis",
+      "summary": "Yemen's Houthi rebels are in a position to shape the next phase of the conflict between the United States and Iran if they attempt to renew their blockade of the Bab al-Mandab Strait. And no one should assume that a deal with Iran will bind what the Houthis d…",
+      "source": "Rand.org",
+      "url": "https://www.rand.org/pubs/commentary/2026/09/never-underestimate-the-houthis.html",
       "bloc": "western",
-      "date": "2026-09-19",
-      "datetime": "2026-09-19T15:02:23Z",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T10:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
+      "summary": "Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, complicating efforts at diplomacy.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+      "bloc": "western",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T04:04:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -151,84 +229,6 @@
       "bloc": "western",
       "date": "2026-09-19",
       "datetime": "2026-09-19T04:31:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran claims it struck an oil tanker in the Strait of Hormuz",
-      "summary": "Iran reports striking an oil tanker in the Strait of Hormuz. Hundreds of thousands rallied in Tehran showing strong government support. South Korea considers expanding its naval presence in the Gulf of Aden. Houthi supporters demonstrated in Yemen protesting …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-claims-it-struck-an-oil-tanker-in-the-strait-of-hormuz/articleshow/134346222.cms",
-      "bloc": "regional",
-      "date": "2026-09-19",
-      "datetime": "2026-09-19T01:20:54Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tehran rallies hundreds of thousands of civilians for ‘sacrifice’ army: ‘We Iranians have no fear’",
-      "summary": "It was the largest demonstration in the country since the United States and Israel attacked Iran in February.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/18/us-news/iran-rallies-hundreds-of-thousands-of-civilians-for-military/",
-      "bloc": "western",
-      "date": "2026-09-18",
-      "datetime": "2026-09-18T19:07:05Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oman oil escape route: How ship-to-ship transfers work — despite big risks",
-      "summary": "Oman’s Sohar port is becoming a popular spot for ship-to-ship oil transfers amid continued Hormuz blockade.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/18/oman-oil-escape-route-how-ship-to-ship-transfers-work-despite-big",
-      "bloc": "regional",
-      "date": "2026-09-18",
-      "datetime": "2026-09-18T06:02:08Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -443,6 +443,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Sensex today | Stock Market Highlights: Sensex rises 564 pts, Nifty closes at 23,414; Rupee ends at 95.81 in subdued trade",
+      "summary": "Sensex, Nifty, Stock Price Highlights: Indian shares edged higher on Monday, ​aided by bargain-buying following recent losses, while elevated crude prices ‌and heightened primary market activity limited the gains.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-21st-september-2026/article71488721.ece",
+      "bloc": "western",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T10:38:06Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Chevron CEO sends a strong message on oil price and the economy",
       "summary": "Something Chevron’s CEO said at an energy conference puts the White House’s oil price message in a difficult spot",
       "source": "TheStreet",
@@ -547,26 +573,24 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War: Saudi Transits Out of Strait of Hormuz Up Markedly But Diesel Crunch Acute as US Weighs Export Ban",
-      "summary": "Today's Iran war news: More oil is exiting the Gulf than before, but diesel and food supplies are in a global crunch.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-saudi-transits-out-of-strait-of-hormuz-up-markedly-but-diesel-crunch-acute-as-us-weighs-export-ban.html",
+      "headline": "After 6 months of war, US must prepare for a future after Iran’s government falls",
+      "summary": "The IRGC, Mojtaba Khamenei and Masoud Pezeshkian compete for power as Iran's Islamic Republic fights for survival amid escalating war and sanctions.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/after-6-months-war-us-must-prepare-future-after-irans-government-falls",
       "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T10:54:34Z",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T09:00:55Z",
       "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
+        "Mojtaba Khamenei"
       ],
       "watch_terms": [
-        "oil Brent crude"
+        "Iran IRGC regime"
       ],
       "dimensions": [
         "survival",
-        "values"
+        "accountability"
       ],
-      "variable_key": "oilPrice",
+      "variable_key": "iranRegimeCohesion",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
@@ -648,6 +672,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Drone Warfare Is Coming to America … And We’re Dangerously Unprepared",
+      "summary": "If It Sits Above Ground, It Can Be Destroyed by Drones The drone revolution has quietly ended the era when America’s above-ground infrastructure could be considered safe. The same precision-strike capability that hit Saudi pipelines and Qatari gas trains can …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-21-drone-warfare-coming-to-america-dangerously-unprepared.html",
+      "bloc": "western",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T06:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Ukraine fires drone barrage as Russia launches elections",
       "summary": "Russia's first parliamentary election since the invasion opens with no antiwar party on the ballot.",
       "source": "Al Jazeera English",
@@ -724,29 +771,6 @@
       "bloc": "western",
       "date": "2026-09-16",
       "datetime": "2026-09-16T06:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How much oil-market buffer is left?",
-      "summary": "Track the 2026 oil supply crisis with charts of fuel prices, oil reserves, and effects on the economy. Explore how long stored oil could last under three scenarios. Day 199, data as of Sep 15, 2026.",
-      "source": "Depletion.org",
-      "url": "https://www.depletion.org",
-      "bloc": "western",
-      "date": "2026-09-15",
-      "datetime": "2026-09-15T19:56:56Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

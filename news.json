@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-21T21:50:53.150Z",
+  "ts": "2026-09-22T04:04:17.594Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 100,
-    "oilStress": 52,
-    "updatedAt": "2026-09-21T21:50:53.150Z"
+    "oilPrice": 101,
+    "oilStress": 54,
+    "updatedAt": "2026-09-22T04:04:17.594Z"
   },
   "items": [
+    {
+      "headline": "War and sanctions are crippling Iran’s economy, with GDP plunging 10.1%",
+      "summary": "Oil exports collapse, inflation reaches 69.9% and the rial falls further against the dollar\nThe post War and sanctions are crippling Iran’s economy, with GDP plunging 10.1% appeared first on ProtoThema English.",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/09/21/war-and-sanctions-are-crippling-irans-economy-with-gdp-plunging-10-1/",
+      "bloc": "western",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T00:08:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Postponing the future: War and inflation redraw marriage terms in Iran",
       "summary": "Iran's cost of living crisis is affecting the dreams and everyday life choices of young Iranians.",
@@ -73,32 +99,6 @@
       "bloc": "western",
       "date": "2026-09-19",
       "datetime": "2026-09-19T15:02:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Returns to UN as Iran War Spreads Across Shipping Chokepoints",
-      "summary": "WASHINGTON, Sept 18 (Reuters) – When President Donald Trump addressed the United Nations a year ago, he touted the US bombing of Iran’s nuclear sites just months earlier as “totally obliterating everything” and...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/trump-returns-to-un-as-iran-war-spreads-across-shipping-chokepoints/",
-      "bloc": "western",
-      "date": "2026-09-18",
-      "datetime": "2026-09-18T16:58:46Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -239,30 +239,6 @@
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How Congress Empowered Presidential War-Making After 9/11",
-      "summary": "Its effects continue to shape national security policy today.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/09/14/aumf-presidential-war-powers-bush-9-11/",
-      "bloc": "western",
-      "date": "2026-09-14",
-      "datetime": "2026-09-14T05:58:45Z",
-      "leaders": [
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "Trump Iran war"
-      ],
-      "dimensions": [
-        "accountability",
         "impulsivity"
       ],
       "variable_key": null,

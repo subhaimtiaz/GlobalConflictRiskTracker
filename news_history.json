@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-22T16:35:26.283Z",
+  "updated": "2026-09-22T21:02:39.740Z",
   "retention_days": 30,
   "items": [
     {
@@ -9152,7 +9152,91 @@
       "_from": "newsapi",
       "first_seen": "2026-09-22T16:35:26.283Z",
       "run_id": "2026-09-22T16:35"
+    },
+    {
+      "headline": "Coffee Break: Western Ruling Elites & Their Vassals Re-Confirm Fealty to Unreality",
+      "summary": "Poised on the brink of a wider war and economic collapse, the leaders of the US empire and their lackeys have doubled down and re-confirmed their fealty to unreality and delusion like a fundamentalist religious couple renewing their marriage vows at a mega-ch…",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/western-elites-fealty-to-unreality-trump-mbs-dan-caine-hegseth.html",
+      "bloc": "western",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T18:00:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-22T21:02:39.740Z",
+      "run_id": "2026-09-22T21:02"
+    },
+    {
+      "headline": "Oil’s sea lanes get tougher to navigate; India must press Iran to ease Hormuz blockade",
+      "summary": "Sea lane disruptions in the Red Sea and Persian Gulf impact India's oil imports significantly.  India faces challenges securing oil from West Asia and Russia due to these maritime blockades.  Diplomacy with Iran may be necessary for crucial oil shipments thro…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/oils-sea-lanes-get-tougher-to-navigate-india-must-press-iran-to-ease-hormuz-blockade/articleshow/134394845.cms",
+      "bloc": "regional",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T17:37:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-22T21:02:39.740Z",
+      "run_id": "2026-09-22T21:02"
+    },
+    {
+      "headline": "Hormuz Shuttles Keep Oil Flowing, But At a High Cost",
+      "summary": "A new shuttling system is reshaping the Middle East oil market, as producers seek to keep exports flowing despite the escalating regional conflict. The question now is whether this complex, expensive process is a stopgap measure or the global energy market’s …",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/hormuz-shuttles-keep-oil-flowing-but-at-a-high-cost/",
+      "bloc": "western",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T16:38:06Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-22T21:02:39.740Z",
+      "run_id": "2026-09-22T21:02"
     }
   ],
-  "total_items_ever": 3486
+  "total_items_ever": 3489
 }

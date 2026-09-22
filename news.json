@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-22T16:36:31.490Z",
+  "ts": "2026-09-22T21:03:45.084Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 100,
-    "oilStress": 53,
-    "updatedAt": "2026-09-22T16:36:31.490Z"
+    "oilPrice": 99,
+    "oilStress": 50,
+    "updatedAt": "2026-09-22T21:03:45.084Z"
   },
   "items": [
+    {
+      "headline": "Coffee Break: Western Ruling Elites & Their Vassals Re-Confirm Fealty to Unreality",
+      "summary": "Poised on the brink of a wider war and economic collapse, the leaders of the US empire and their lackeys have doubled down and re-confirmed their fealty to unreality and delusion like a fundamentalist religious couple renewing their marriage vows at a mega-ch…",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/western-elites-fealty-to-unreality-trump-mbs-dan-caine-hegseth.html",
+      "bloc": "western",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T18:00:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Mark Levin Celebrates Trump Banning Politico, Slams ‘Disgusting Hit Piece’ of Ambassador Aide Stepson in Angry Diatribe",
       "summary": "Mark Levin celebrated Donald Trump's banning of Politico from the White House, and slammed its \"disgusting hit piece\" on his stepson.\nThe post Mark Levin Celebrates Trump Banning Politico, Slams ‘Disgusting Hit Piece’ of Ambassador Aide Stepson in Angry Diatr…",
@@ -66,32 +92,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Houthis and Saudi Arabia Exchange Strikes as Yemen Fighting Spreads",
-      "summary": "Saudi Arabia and Iran-backed Houthi rebels in Yemen traded cross-border strikes Thursday, Sept. 17, according to Houthi-controlled television and Saudi civil defense said. Houthi-controlled television reported Saudi airstrikes in Yemen’s Hajjah province near …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-21-houthis-saudi-exchange-strikes-yemen-fighting-spreads.html",
-      "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Trump Signs Russia Sanctions Bill Into Law, Authorizing Tariffs on Russian Energy Buyers",
       "summary": "President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law on Friday, according to White House statements and public records. The legislation authorizes new sanctions on Russia and extends existing sanctions on Iran, …",
       "source": "Naturalnews.com",
@@ -118,13 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "War and sanctions are crippling Iran’s economy, with GDP plunging 10.1%",
-      "summary": "Oil exports collapse, inflation reaches 69.9% and the rial falls further against the dollar\nThe post War and sanctions are crippling Iran’s economy, with GDP plunging 10.1% appeared first on ProtoThema English.",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/09/21/war-and-sanctions-are-crippling-irans-economy-with-gdp-plunging-10-1/",
+      "headline": "Houthis and Saudi Arabia Exchange Strikes as Yemen Fighting Spreads",
+      "summary": "Saudi Arabia and Iran-backed Houthi rebels in Yemen traded cross-border strikes Thursday, Sept. 17, according to Houthi-controlled television and Saudi civil defense said. Houthi-controlled television reported Saudi airstrikes in Yemen’s Hajjah province near …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-21-houthis-saudi-exchange-strikes-yemen-fighting-spreads.html",
       "bloc": "western",
       "date": "2026-09-21",
-      "datetime": "2026-09-21T00:08:04Z",
+      "datetime": "2026-09-21T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -140,6 +140,32 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil’s sea lanes get tougher to navigate; India must press Iran to ease Hormuz blockade",
+      "summary": "Sea lane disruptions in the Red Sea and Persian Gulf impact India's oil imports significantly.  India faces challenges securing oil from West Asia and Russia due to these maritime blockades.  Diplomacy with Iran may be necessary for crucial oil shipments thro…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/oils-sea-lanes-get-tougher-to-navigate-india-must-press-iran-to-ease-hormuz-blockade/articleshow/134394845.cms",
+      "bloc": "regional",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T17:37:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-09-21",
       "datetime": "2026-09-21T04:04:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz oil shipments hit 6-month high",
-      "summary": "Oil and liquefied natural gas shipments through the Strait of Hormuz in the past two weeks reached the highest level in six months, a regional U.S. commander said.",
-      "source": "Boston Herald",
-      "url": "https://www.bostonherald.com/2026/09/19/hormuz-oil-shipments-hit-6-month-high/",
-      "bloc": "western",
-      "date": "2026-09-19",
-      "datetime": "2026-09-19T18:22:53Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -443,6 +443,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Hormuz Shuttles Keep Oil Flowing, But At a High Cost",
+      "summary": "A new shuttling system is reshaping the Middle East oil market, as producers seek to keep exports flowing despite the escalating regional conflict. The question now is whether this complex, expensive process is a stopgap measure or the global energy market’s …",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/hormuz-shuttles-keep-oil-flowing-but-at-a-high-cost/",
+      "bloc": "western",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T16:38:06Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Why oil prices are sliding again after their latest $100-a-barrel spike",
       "summary": "Oil prices dropped below $100 a barrel this week amid a stronger-than-expected flows and news about diplomacy with Iran.",
       "source": "Business Insider",
@@ -528,32 +554,6 @@
       "bloc": "western",
       "date": "2026-09-20",
       "datetime": "2026-09-20T16:47:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Prices Are High But Could Be Much Worse. Trump Has China's Xi To Thank For That",
-      "summary": "Trump’s conflict with Iran has not led to the doomsday oil price spike many feared at the start of the war.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/ap-us-trump-xi-iran-oil-iran-war_n_6aae114ae4b07bc48dde47aa",
-      "bloc": "western",
-      "date": "2026-09-19",
-      "datetime": "2026-09-19T04:44:18Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

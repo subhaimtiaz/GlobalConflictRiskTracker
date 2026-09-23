@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-23T11:06:10.059Z",
+  "ts": "2026-09-23T16:27:30.584Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 99,
-    "oilStress": 51,
-    "updatedAt": "2026-09-23T11:06:10.059Z"
+    "oilPrice": 103,
+    "oilStress": 57,
+    "updatedAt": "2026-09-23T16:27:30.584Z"
   },
   "items": [
+    {
+      "headline": "Qatar: Absence of a regional collective security system is fuelling crisis in the Gulf",
+      "summary": "The crisis in the Gulf should come as a surprise to no one, the Emir of Qatar, Sheikh Tamim bin Hamad Al Thani said on Tuesday, describing it as the cumulative result of years of delay, crisis management through temporary fixes, and unrealistic policies.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-unnews04.htm",
+      "bloc": "western",
+      "date": "2026-09-22",
+      "datetime": "2026-09-22T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Can the US ban Iranian airlines worldwide – and what would it mean?",
+      "summary": "Analysts say new sweeping US sanctions stand to worsen lives of millions of Iranians struggling in battered economy.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/9/22/can-the-us-ban-iranian-airlines-worldwide-and-what-would-it-mean",
+      "bloc": "regional",
+      "date": "2026-09-22",
+      "datetime": "2026-09-22T11:19:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Coffee Break: Western Ruling Elites & Their Vassals Re-Confirm Fealty to Unreality",
       "summary": "Poised on the brink of a wider war and economic collapse, the leaders of the US empire and their lackeys have doubled down and re-confirmed their fealty to unreality and delusion like a fundamentalist religious couple renewing their marriage vows at a mega-ch…",
@@ -92,54 +144,54 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Signs Russia Sanctions Bill Into Law, Authorizing Tariffs on Russian Energy Buyers",
-      "summary": "President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law on Friday, according to White House statements and public records. The legislation authorizes new sanctions on Russia and extends existing sanctions on Iran, …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-21-trumps-signs-russia-law-tariffs-energy-buyers.html",
+      "headline": "Saudi Arabia Reportedly Restarts Pipeline That Moved Oil Around Hormuz After Drone Attacks Knocked It Offline",
+      "summary": "Saudi Arabia has reportedly restarted its pipeline that bypasses the Strait of Hormuz after drone attacks forced it offline earlier in September.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/09/22/saudi-arabia-east-west-pipeline-restart-yanbu-hormuz-oil",
       "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T06:00:00Z",
+      "date": "2026-09-22",
+      "datetime": "2026-09-22T14:29:55Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Houthis and Saudi Arabia Exchange Strikes as Yemen Fighting Spreads",
-      "summary": "Saudi Arabia and Iran-backed Houthi rebels in Yemen traded cross-border strikes Thursday, Sept. 17, according to Houthi-controlled television and Saudi civil defense said. Houthi-controlled television reported Saudi airstrikes in Yemen’s Hajjah province near …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-21-houthis-saudi-exchange-strikes-yemen-fighting-spreads.html",
+      "headline": "Iran Offers to Reopen Strait of Hormuz Within Seven Days if US Eases Military Pressure, Lifts Blockade",
+      "summary": "Iran has offered to reopen the Strait of Hormuz within seven days if Washington eases military pressure and lifts its blockade, while attacks and shipping disruptions continue.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/iran-offers-reopen-strait-hormuz-seven-days-1875762",
       "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T06:00:00Z",
+      "date": "2026-09-22",
+      "datetime": "2026-09-22T14:11:13Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -222,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
-      "summary": "Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, complicating efforts at diplomacy.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
-      "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T04:04:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Putin, Persia and a Perfect Storm for Diesel",
       "summary": "This post Putin, Persia and a Perfect Storm for Diesel appeared first on Daily Reckoning.\nThe diesel shock is here. Between Russia and the Middle East, the world is in for a world of hurt.\nThe post Putin, Persia and a Perfect Storm for Diesel appeared first o…",
       "source": "Dailyreckoning.com",
@@ -290,6 +316,30 @@
         "impulsivity",
         "narcissism",
         "survival"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "SCO, BRICS, Trump-Xi: What Does the Spate of Summits Mean for India?",
+      "summary": "This year’s summit season reveals conflicting visions of global order (and India’s place in it).",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/09/sco-brics-trump-xi-what-does-the-spate-of-summits-mean-for-india/",
+      "bloc": "western",
+      "date": "2026-09-22",
+      "datetime": "2026-09-22T13:55:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -390,30 +440,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China, Not Iran, Is Trump’s Real Foreign-Policy Debacle",
-      "summary": "In 19 months, Washington has lost ground to Beijing on every conceivable front.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/09/17/china-iran-trump-debacle-foreign-policy-war-trade-sanctions/",
-      "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T15:50:31Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -596,13 +622,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump",
-      "summary": "Officials say Russia has bombarded at least four Ukrainian regions with missiles and drones in that attacks that have killed four people",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-deadly-strikes-zelenskyy-prepares-meet-136642887",
+      "headline": "Russia and Ukraine Trade Deadly Strikes as Zelenskyy Prepares to Meet Trump",
+      "summary": "The repeated attacks on Russian refineries, following Moscow’s strikes on Ukraine’s power grid, have caused international shortages of diesel.",
+      "source": "Military.com",
+      "url": "https://military.com/russia-and-ukraine-trade-deadly-strikes-as-zelenskyy-prepares-to-meet-trump",
       "bloc": "western",
       "date": "2026-09-22",
-      "datetime": "2026-09-22T09:42:48Z",
+      "datetime": "2026-09-22T13:58:20Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"
@@ -672,29 +698,6 @@
       "bloc": "regional",
       "date": "2026-09-18",
       "datetime": "2026-09-18T10:28:17Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Fresh Russian Strikes Hit Ukraine As US House Passes Sanctions Bill Targeting Moscow",
-      "summary": "Russia resumed its missile and drone attacks on Ukrainian cities on September 17, hours after the US Congress passed a sanctions package that supporters say will increase pressure on Moscow and countries that help it finance its war against Ukraine.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260917-rferl01.htm",
-      "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T12:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

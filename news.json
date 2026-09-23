@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-22T21:03:45.084Z",
+  "ts": "2026-09-23T04:01:04.667Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 99,
+    "oilPrice": 98,
     "oilStress": 50,
-    "updatedAt": "2026-09-22T21:03:45.084Z"
+    "updatedAt": "2026-09-23T04:01:04.667Z"
   },
   "items": [
     {
@@ -418,31 +418,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Saudi Arabia faces tough choices as Houthis gain in Yemen",
-      "summary": "Saudi Arabia faces growing security and economic problems as it seeks to balance deterrence and diplomacy amid an escalating conflict with the Iran-backed Houthis in neighboring Yemen.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/saudi-arabia-options-conflict-houthis-attack-yemen/a-79274826",
-      "bloc": "western",
-      "date": "2026-09-15",
-      "datetime": "2026-09-15T14:03:00Z",
-      "leaders": [
-        "Mohammed bin Salman"
-      ],
-      "watch_terms": [
-        "Saudi Arabia Iran"
-      ],
-      "dimensions": [
-        "survival",
-        "values",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Hormuz Shuttles Keep Oil Flowing, But At a High Cost",
       "summary": "A new shuttling system is reshaping the Middle East oil market, as producers seek to keep exports flowing despite the escalating regional conflict. The question now is whether this complex, expensive process is a stopgap measure or the global energy market’s …",
       "source": "gcaptain.com",
@@ -497,8 +472,8 @@
     {
       "headline": "Current price of oil as of Sept. 21, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-09-21-2026/",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-sept-21-135558433.html",
       "bloc": "western",
       "date": "2026-09-21",
       "datetime": "2026-09-21T13:55:58Z",
@@ -528,32 +503,6 @@
       "bloc": "western",
       "date": "2026-09-21",
       "datetime": "2026-09-21T10:38:06Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Chevron CEO sends a strong message on oil price and the economy",
-      "summary": "Something Chevron’s CEO said at an energy conference puts the White House’s oil price message in a difficult spot",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/economy/chevron-ceo-sends-a-strong-message-on-oil-price-and-the-economy",
-      "bloc": "western",
-      "date": "2026-09-20",
-      "datetime": "2026-09-20T16:47:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -643,31 +592,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Nuclear Deterrence Is Changing—So Must Diplomacy",
-      "summary": "The binary world of dueling superpowers is no more. China, France, and Britain can now take the lead against proliferation.",
-      "source": "Thefreedomfrequency.org",
-      "url": "https://www.thefreedomfrequency.org/p/nuclear-deterrence-is-changingso",
-      "bloc": "western",
-      "date": "2026-09-15",
-      "datetime": "2026-09-15T00:00:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

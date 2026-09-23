@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-23T16:27:30.584Z",
+  "ts": "2026-09-23T21:18:36.698Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 103,
-    "oilStress": 57,
-    "updatedAt": "2026-09-23T16:27:30.584Z"
+    "oilPrice": 104,
+    "oilStress": 58,
+    "updatedAt": "2026-09-23T21:18:36.698Z"
   },
   "items": [
+    {
+      "headline": "Fact check: Trump’s false claims to the United Nations | CNN Politics",
+      "summary": "President Donald Trump made multiple false claims in his address to the United Nations General Assembly on Tuesday, though he largely stuck to a prepared text.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/22/politics/fact-check-trump-united-nations",
+      "bloc": "western",
+      "date": "2026-09-22",
+      "datetime": "2026-09-22T19:23:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump at UN: Iran Must Make a Deal or Face ‘Annihilation’",
+      "summary": "\"Do I drive them into hell with no chance of survival and no hope of future greatness or generations?\"\nThe post Trump at UN: Iran Must Make a Deal or Face ‘Annihilation’ first appeared on Le·gal In·sur·rec·tion.",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2026/09/trump-at-un-iran-must-make-a-deal-or-face-annihilation/",
+      "bloc": "western",
+      "date": "2026-09-22",
+      "datetime": "2026-09-22T17:00:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Qatar: Absence of a regional collective security system is fuelling crisis in the Gulf",
       "summary": "The crisis in the Gulf should come as a surprise to no one, the Emir of Qatar, Sheikh Tamim bin Hamad Al Thani said on Tuesday, describing it as the cumulative result of years of delay, crisis management through temporary fixes, and unrealistic policies.",
@@ -73,58 +125,6 @@
       "bloc": "western",
       "date": "2026-09-21",
       "datetime": "2026-09-21T18:00:04Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Mark Levin Celebrates Trump Banning Politico, Slams ‘Disgusting Hit Piece’ of Ambassador Aide Stepson in Angry Diatribe",
-      "summary": "Mark Levin celebrated Donald Trump's banning of Politico from the White House, and slammed its \"disgusting hit piece\" on his stepson.\nThe post Mark Levin Celebrates Trump Banning Politico, Slams ‘Disgusting Hit Piece’ of Ambassador Aide Stepson in Angry Diatr…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/mark-levin-celebrates-trump-banning-politico-slams-disgusting-hit-piece-of-ambassador-aide-stepson-in-angry-diatribe/",
-      "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T14:53:27Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Progressive Principles for a New US Foreign Policy",
-      "summary": "For many years, progressive movements and activists have longed for the moment when we could imagine a real foreign policy rooted in true internationalism and solidarity.But in our efforts to influence actual policy decisions, we’ve settled for important but …",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/opinion/what-does-progressive-foreign-policy-look-like",
-      "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T11:23:22Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -566,6 +566,31 @@
         "accountability"
       ],
       "variable_key": "iranRegimeCohesion",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Progressive Principles for a New US Foreign Policy",
+      "summary": "For many years, progressive movements and activists have longed for the moment when we could imagine a real foreign policy rooted in true internationalism and solidarity.But in our efforts to influence actual policy decisions, we’ve settled for important but …",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/what-does-progressive-foreign-policy-look-like",
+      "bloc": "western",
+      "date": "2026-09-21",
+      "datetime": "2026-09-21T11:23:22Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

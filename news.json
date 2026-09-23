@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-23T04:01:04.667Z",
+  "ts": "2026-09-23T11:06:10.059Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 98,
-    "oilStress": 50,
-    "updatedAt": "2026-09-23T04:01:04.667Z"
+    "oilPrice": 99,
+    "oilStress": 51,
+    "updatedAt": "2026-09-23T11:06:10.059Z"
   },
   "items": [
     {
@@ -298,6 +298,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Links 9/22/2026",
+      "summary": "Our dangerous daily links: Condom holes = baby boom? China buys energy from Canada, Trump press ban backfire, data centers run out of steel, airlines cut flighs over fuel scarcity, Europe climate risk, Japan new interest rate high, Himalayas risk to India, Is…",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/links-9-22-2026.html",
+      "bloc": "western",
+      "date": "2026-09-22",
+      "datetime": "2026-09-22T10:59:40Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "China Coast Guard rams Philippine vessel on resupply mission",
       "summary": "The incident exacerbates regional tensions, potentially influencing China's military posture towards Taiwan and affecting regional stability.\nThe post China Coast Guard rams Philippine vessel on resupply mission appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
@@ -377,30 +401,6 @@
       "bloc": "western",
       "date": "2026-09-17",
       "datetime": "2026-09-17T15:50:31Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China Officially Stands for World Peace Yet Cooperates with U.S. War-Making and Promotes Alienation",
-      "summary": "[Parts I and II of Ron Ridenour’s China series can be read here and here.—Editors] Part Three: Artificial Intelligence = Alienation Instructors I am conscious of being alienated. Feeling, knowing we have no real control over our lives, or over what happens ar…",
-      "source": "Covertactionmagazine.com",
-      "url": "https://covertactionmagazine.com/2026/09/15/china-officially-stands-for-world-peace-yet-cooperates-with-u-s-war-making-and-promotes-alienation-2/",
-      "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T15:16:05Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -596,6 +596,52 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump",
+      "summary": "Officials say Russia has bombarded at least four Ukrainian regions with missiles and drones in that attacks that have killed four people",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-deadly-strikes-zelenskyy-prepares-meet-136642887",
+      "bloc": "western",
+      "date": "2026-09-22",
+      "datetime": "2026-09-22T09:42:48Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Moscow’s Mach-9 message: Russia unleashes barrage of nuclear-capable Zircon missiles into Ukraine",
+      "summary": "Under a blanket of darkness, Russia’s military machine came alive across three domains at once, launching salvo after salvo of precision-guided munitions from land batteries, naval vessels and aircraft, while swarms of drones filled the gaps overhead. The tar…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-22-russia-unleashes-barrage-nuclear-capable-zircon-missiles.html",
+      "bloc": "western",
+      "date": "2026-09-22",
+      "datetime": "2026-09-22T06:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Drone Warfare Is Coming to America … And We’re Dangerously Unprepared",
       "summary": "If It Sits Above Ground, It Can Be Destroyed by Drones The drone revolution has quietly ended the era when America’s above-ground infrastructure could be considered safe. The same precision-strike capability that hit Saudi pipelines and Qatari gas trains can …",
       "source": "Naturalnews.com",
@@ -649,52 +695,6 @@
       "bloc": "western",
       "date": "2026-09-17",
       "datetime": "2026-09-17T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "At least 19 injured in Russian attacks across Ukraine",
-      "summary": "Missile and drone strikes targeted Ukraine's capital Kyiv as well as the Zaporizhzhia and Odesa regions.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/17/at-least-19-injured-in-russian-attacks-across-ukraine",
-      "bloc": "regional",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T10:07:57Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Oil Halt Is a Self-Inflicted European Catastrophe … and a Warning to the West",
-      "summary": "Introduction: Europe’s Last Energy Lifeline Just Got Cut Western Europe is now staring into the worst energy crisis since World War II, and its leaders have no one to blame but themselves. On Friday, September 11, 2026, Saudi Arabia announced it had shut down…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-16-saudi-oil-halt-self-inflicted-european-catastrophe.html",
-      "bloc": "western",
-      "date": "2026-09-16",
-      "datetime": "2026-09-16T06:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

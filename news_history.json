@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-24T11:22:42.259Z",
+  "updated": "2026-09-24T16:47:27.483Z",
   "retention_days": 30,
   "items": [
     {
@@ -9142,7 +9142,171 @@
       "_from": "newsapi",
       "first_seen": "2026-09-24T11:22:42.259Z",
       "run_id": "2026-09-24T11:22"
+    },
+    {
+      "headline": "Iran’s President Tells U.N. We Have Been 'Victims Of Terrorism'",
+      "summary": "“We have only defended ourselves,” President Masoud Pezeshkian said in the rare wartime speech. “America and Israel attacked us.”",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-speech-un-victims-terrorism_n_6ab3e24de4b043d6b56a5472",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T14:40:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-24T16:47:27.483Z",
+      "run_id": "2026-09-24T16:47"
+    },
+    {
+      "headline": "Iran “Offered” to Reopen the Strait of Hormuz. These Stocks Could Be the Biggest Winners",
+      "summary": "A senior Iranian official told a Japanese news agency that Tehran could reopen one of the world's most critical oil chokepoints within seven days, and the st...",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/23/iran-offered-to-reopen-the-strait-of-hormuz-these-stocks-could-be-the-biggest-winners/",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T16:07:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-24T16:47:27.483Z",
+      "run_id": "2026-09-24T16:47"
+    },
+    {
+      "headline": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
+      "summary": "UK to refuel Saudi fighter jets and France to secure energy infrastructure amid fighting with Yemen's Houthi group.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis",
+      "bloc": "regional",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T13:57:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-24T16:47:27.483Z",
+      "run_id": "2026-09-24T16:47"
+    },
+    {
+      "headline": "Xi Is Getting What He Wants",
+      "summary": "The Chinese president has neutralized Trump.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/international/2026/09/xi-trump-summit/688743/?utm_source=feed",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T15:21:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-24T16:47:27.483Z",
+      "run_id": "2026-09-24T16:47"
+    },
+    {
+      "headline": "The Trump-Xi Summit: Stakes for Australia",
+      "summary": "Trump wants more sales. Xi wants fewer constraints. What does Australia need from the Trump-Xi summit?",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/09/the-trump-xi-summit-stakes-for-australia/",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T13:47:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-24T16:47:27.483Z",
+      "run_id": "2026-09-24T16:47"
+    },
+    {
+      "headline": "If Hormuz Stays Shut, How High Can Exxon Go?",
+      "summary": "The Strait of Hormuz is closer to closed than open, yet crude just fell and Exxon barely stirred. Understanding that contradiction reveals exactly how much u...",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/23/if-hormuz-stays-shut-how-high-can-exxon-go/",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T15:50:30Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-24T16:47:27.483Z",
+      "run_id": "2026-09-24T16:47"
     }
   ],
-  "total_items_ever": 3504
+  "total_items_ever": 3510
 }

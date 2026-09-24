@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-24T11:23:47.513Z",
+  "ts": "2026-09-24T16:48:32.759Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 105,
     "oilStress": 60,
-    "updatedAt": "2026-09-24T11:23:47.513Z"
+    "updatedAt": "2026-09-24T16:48:32.759Z"
   },
   "items": [
+    {
+      "headline": "Iran’s President Tells U.N. We Have Been 'Victims Of Terrorism'",
+      "summary": "“We have only defended ourselves,” President Masoud Pezeshkian said in the rare wartime speech. “America and Israel attacked us.”",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-speech-un-victims-terrorism_n_6ab3e24de4b043d6b56a5472",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T14:40:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran War: WaPo Notices Casualty Count a Bit Off, GOP Senators Run for the Exits, Trump Freestyles at the UN",
       "summary": "Today’s Iran war news: Washington Post notices the Pentagon's body count a bit low, GOP Senate candidates call for end of War, Trump at UN.",
@@ -118,27 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Can the US ban Iranian airlines worldwide – and what would it mean?",
-      "summary": "Analysts say new sweeping US sanctions stand to worsen lives of millions of Iranians struggling in battered economy.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/9/22/can-the-us-ban-iranian-airlines-worldwide-and-what-would-it-mean",
-      "bloc": "regional",
-      "date": "2026-09-22",
-      "datetime": "2026-09-22T11:19:08Z",
+      "headline": "Iran “Offered” to Reopen the Strait of Hormuz. These Stocks Could Be the Biggest Winners",
+      "summary": "A senior Iranian official told a Japanese news agency that Tehran could reopen one of the world's most critical oil chokepoints within seven days, and the st...",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/23/iran-offered-to-reopen-the-strait-of-hormuz-these-stocks-could-be-the-biggest-winners/",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T16:07:57Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
+      "summary": "UK to refuel Saudi fighter jets and France to secure energy infrastructure amid fighting with Yemen's Houthi group.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis",
+      "bloc": "regional",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T13:57:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -222,58 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Offers to Reopen Strait of Hormuz Within Seven Days if US Eases Military Pressure, Lifts Blockade",
-      "summary": "Iran has offered to reopen the Strait of Hormuz within seven days if Washington eases military pressure and lifts its blockade, while attacks and shipping disruptions continue.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/iran-offers-reopen-strait-hormuz-seven-days-1875762",
-      "bloc": "western",
-      "date": "2026-09-22",
-      "datetime": "2026-09-22T14:11:13Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil’s sea lanes get tougher to navigate; India must press Iran to ease Hormuz blockade",
-      "summary": "Sea lane disruptions in the Red Sea and Persian Gulf impact India's oil imports significantly.  India faces challenges securing oil from West Asia and Russia due to these maritime blockades.  Diplomacy with Iran may be necessary for crucial oil shipments thro…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/oils-sea-lanes-get-tougher-to-navigate-india-must-press-iran-to-ease-hormuz-blockade/articleshow/134394845.cms",
-      "bloc": "regional",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T17:37:38Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Kim’s sister says only ‘idiots’ think N Korea to give up nukes",
       "summary": "The powerful sister of North Korean leader Kim Jong Un said on Sept. 17 that the country’s nuclear-armed status was “absolute,” calling those hoping for its denuclearization “idiots.”",
       "source": "Hurriyet Daily News",
@@ -291,6 +291,54 @@
         "impulsivity",
         "narcissism",
         "survival"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Xi Is Getting What He Wants",
+      "summary": "The Chinese president has neutralized Trump.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/international/2026/09/xi-trump-summit/688743/?utm_source=feed",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T15:21:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Trump-Xi Summit: Stakes for Australia",
+      "summary": "Trump wants more sales. Xi wants fewer constraints. What does Australia need from the Trump-Xi summit?",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/09/the-trump-xi-summit-stakes-for-australia/",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T13:47:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -371,49 +419,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "China Coast Guard rams Philippine vessel on resupply mission",
-      "summary": "The incident exacerbates regional tensions, potentially influencing China's military posture towards Taiwan and affecting regional stability.\nThe post China Coast Guard rams Philippine vessel on resupply mission appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/china-coast-guard-rams-philippine-vessel-on-resupply-mission/",
+      "headline": "If Hormuz Stays Shut, How High Can Exxon Go?",
+      "summary": "The Strait of Hormuz is closer to closed than open, yet crude just fell and Exxon barely stirred. Understanding that contradiction reveals exactly how much u...",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/23/if-hormuz-stays-shut-how-high-can-exxon-go/",
       "bloc": "western",
-      "date": "2026-09-18",
-      "datetime": "2026-09-18T08:53:02Z",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T15:50:30Z",
       "leaders": [
-        "Xi Jinping"
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "oil Brent crude"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "values"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence",
-      "summary": "Washington is preparing for the right war, but in the wrong theater. For years, U.S. strategic thinking has centered on the Indo‑Pacific: the militarized atolls of the South China Sea, China’s churning naval shipyards, and the tense waters of the Taiwan Strai…",
-      "source": "War on the Rocks",
-      "url": "https://warontherocks.com/why-eurasia-not-the-indo-pacific-matters-most-in-next-phase-of-taiwan-deterrence/",
-      "bloc": "western",
-      "date": "2026-09-18",
-      "datetime": "2026-09-18T07:30:22Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -478,32 +504,6 @@
       "bloc": "western",
       "date": "2026-09-21",
       "datetime": "2026-09-21T13:55:58Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Sensex rises 564 pts, Nifty closes at 23,414; Rupee ends at 95.81 in subdued trade",
-      "summary": "Sensex, Nifty, Stock Price Highlights: Indian shares edged higher on Monday, ​aided by bargain-buying following recent losses, while elevated crude prices ‌and heightened primary market activity limited the gains.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-21st-september-2026/article71488721.ece",
-      "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T10:38:06Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

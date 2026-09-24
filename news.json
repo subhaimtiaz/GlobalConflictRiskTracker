@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-23T21:18:36.698Z",
+  "ts": "2026-09-24T03:55:26.773Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 104,
-    "oilStress": 58,
-    "updatedAt": "2026-09-23T21:18:36.698Z"
+    "oilPrice": 102,
+    "oilStress": 56,
+    "updatedAt": "2026-09-24T03:55:26.773Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump Turns Up Pressure on Iran as Hormuz Shipping Remains in Limbo",
+      "summary": "Trump threatened to “annihilate” the Islamic republic from the UN podium hours before his envoys met with Tehran’s delegation to discuss a possible path toward ending the war.",
+      "source": "WWD",
+      "url": "http://wwd.com/sourcing-journal/logistics/donald-trump-iran-war-strait-of-hormuz-un-talks-shipping-ultimatum-1239254216/",
+      "bloc": "western",
+      "date": "2026-09-22",
+      "datetime": "2026-09-22T23:01:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Saudi Arabia Reportedly Restarts Pipeline That Moved Oil Around Hormuz After Drone Attacks Knocked It Offline",
       "summary": "Saudi Arabia has reportedly restarted its pipeline that bypasses the Strait of Hormuz after drone attacks forced it offline earlier in September.",
       "source": "The Daily Caller",
@@ -248,57 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Never Underestimate the Houthis",
-      "summary": "Yemen's Houthi rebels are in a position to shape the next phase of the conflict between the United States and Iran if they attempt to renew their blockade of the Bab al-Mandab Strait. And no one should assume that a deal with Iran will bind what the Houthis d…",
-      "source": "Rand.org",
-      "url": "https://www.rand.org/pubs/commentary/2026/09/never-underestimate-the-houthis.html",
-      "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T10:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Putin, Persia and a Perfect Storm for Diesel",
-      "summary": "This post Putin, Persia and a Perfect Storm for Diesel appeared first on Daily Reckoning.\nThe diesel shock is here. Between Russia and the Middle East, the world is in for a world of hurt.\nThe post Putin, Persia and a Perfect Storm for Diesel appeared first o…",
-      "source": "Dailyreckoning.com",
-      "url": "https://dailyreckoning.com/putin-persia-and-a-perfect-storm-for-diesel/",
-      "bloc": "western",
-      "date": "2026-09-16",
-      "datetime": "2026-09-16T20:00:10Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Kim’s sister says only ‘idiots’ think N Korea to give up nukes",
       "summary": "The powerful sister of North Korean leader Kim Jong Un said on Sept. 17 that the country’s nuclear-armed status was “absolute,” calling those hoping for its denuclearization “idiots.”",
       "source": "Hurriyet Daily News",
@@ -316,6 +291,30 @@
         "impulsivity",
         "narcissism",
         "survival"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Takaichi, Trump Confirm Alliance Unity",
+      "summary": "Prime Minister Sanae Takaichi and U.S. President Donald Trump met in New York on September 22, confirming close cooperation on security and economic issues ahead of Trump’s planned summit with Chinese President Xi Jinping. (News On Japan)",
+      "source": "Newsonjapan.com",
+      "url": "https://newsonjapan.com/article/150834.php",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T00:38:25Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -416,30 +415,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China is building 'first-ever mothership capable of launching submarine drones'",
-      "summary": "Images taken by Vantor, a US defence intelligence company, show a red ship under construction at the Hudong-Zhonghua shipyard.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16139937/China-building-mothership-capable-launching-submarine-drones.html",
-      "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T23:10:14Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -622,27 +597,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The US says it has launched ‘space control weapons’. It plays into the hands of its enemies",
-      "summary": "This could mark the start of a major arms race in space, which would threaten all of us on Earth.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/the-us-says-it-has-launched-space-control-weapons-it-plays-into-the-hands-of-its-enemies-292110",
-      "bloc": "western",
-      "date": "2026-09-16",
-      "datetime": "2026-09-16T05:14:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
+      "headline": "Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks",
+      "summary": "Ukraine leader says Kyiv is ready to stop strikes on Russian facilities if Moscow halts attacks on its energy system.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks",
+      "bloc": "regional",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T01:20:39Z",
+      "leaders": [],
       "watch_terms": [
-        "arms control New"
+        "oil refinery port"
       ],
       "dimensions": [
-        "accountability",
-        "values"
+        "survival",
+        "impulsivity",
+        "accountability"
       ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -700,29 +673,6 @@
       "bloc": "western",
       "date": "2026-09-21",
       "datetime": "2026-09-21T06:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine fires drone barrage as Russia launches elections",
-      "summary": "Russia's first parliamentary election since the invasion opens with no antiwar party on the ballot.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections",
-      "bloc": "regional",
-      "date": "2026-09-18",
-      "datetime": "2026-09-18T10:28:17Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

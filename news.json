@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-24T03:55:26.773Z",
+  "ts": "2026-09-24T11:23:47.513Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 102,
-    "oilStress": 56,
-    "updatedAt": "2026-09-24T03:55:26.773Z"
+    "oilPrice": 105,
+    "oilStress": 60,
+    "updatedAt": "2026-09-24T11:23:47.513Z"
   },
   "items": [
+    {
+      "headline": "Iran War: WaPo Notices Casualty Count a Bit Off, GOP Senators Run for the Exits, Trump Freestyles at the UN",
+      "summary": "Today’s Iran war news: Washington Post notices the Pentagon's body count a bit low, GOP Senate candidates call for end of War, Trump at UN.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-wapo-pentagon-casualty-count-off-gop-senators-trump-un.html",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T10:00:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Fact check: Trump’s false claims to the United Nations | CNN Politics",
       "summary": "President Donald Trump made multiple false claims in his address to the United Nations General Assembly on Tuesday, though he largely stuck to a prepared text.",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Coffee Break: Western Ruling Elites & Their Vassals Re-Confirm Fealty to Unreality",
-      "summary": "Poised on the brink of a wider war and economic collapse, the leaders of the US empire and their lackeys have doubled down and re-confirmed their fealty to unreality and delusion like a fundamentalist religious couple renewing their marriage vows at a mega-ch…",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/western-elites-fealty-to-unreality-trump-mbs-dan-caine-hegseth.html",
+      "headline": "UK makes military pledge to Saudi Arabia",
+      "summary": "Britain will deploy an RAF tanker to Saudi Arabia as fighting with Yemen’s Houthis intensifies, the UK government has said Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/646107-uk-saudi-military-support-houthis/",
       "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T18:00:04Z",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T04:33:01Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -229,32 +255,6 @@
       "bloc": "regional",
       "date": "2026-09-21",
       "datetime": "2026-09-21T17:37:38Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Secret Houthi-U.S. Deal That Could Push Saudi Arabia Back to Beijing",
-      "summary": "Back at the start of the U.S.’s ‘Operation Epic Fury’, OilPrice.com predicted three courses of action that Iran would take as it moved through the conflict escalation gears. First, most obviously, although apparently not to President Donald Trump’s team, was …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/The-Secret-Houthi-US-Deal-That-Could-Push-Saudi-Arabia-Back-to-Beijing.html",
-      "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T15:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

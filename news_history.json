@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-24T03:54:21.471Z",
+  "updated": "2026-09-24T11:22:42.259Z",
   "retention_days": 30,
   "items": [
     {
@@ -9086,7 +9086,63 @@
       "_from": "newsapi",
       "first_seen": "2026-09-24T03:54:21.471Z",
       "run_id": "2026-09-24T03:54"
+    },
+    {
+      "headline": "Iran War: WaPo Notices Casualty Count a Bit Off, GOP Senators Run for the Exits, Trump Freestyles at the UN",
+      "summary": "Today’s Iran war news: Washington Post notices the Pentagon's body count a bit low, GOP Senate candidates call for end of War, Trump at UN.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-wapo-pentagon-casualty-count-off-gop-senators-trump-un.html",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T10:00:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-24T11:22:42.259Z",
+      "run_id": "2026-09-24T11:22"
+    },
+    {
+      "headline": "UK makes military pledge to Saudi Arabia",
+      "summary": "Britain will deploy an RAF tanker to Saudi Arabia as fighting with Yemen’s Houthis intensifies, the UK government has said Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/646107-uk-saudi-military-support-houthis/",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T04:33:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-24T11:22:42.259Z",
+      "run_id": "2026-09-24T11:22"
     }
   ],
-  "total_items_ever": 3502
+  "total_items_ever": 3504
 }

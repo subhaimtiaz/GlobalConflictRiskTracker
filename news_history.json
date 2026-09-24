@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-24T16:47:27.483Z",
+  "updated": "2026-09-24T21:18:54.041Z",
   "retention_days": 30,
   "items": [
     {
@@ -9306,7 +9306,61 @@
       "_from": "newsapi",
       "first_seen": "2026-09-24T16:47:27.483Z",
       "run_id": "2026-09-24T16:47"
+    },
+    {
+      "headline": "After Trump's annihilation threat, Pezeshkian says Iran won't surrender",
+      "summary": "In a potential new ‌flashpoint, Iran also threatened to act against its neighbours if they abide by new US sanctions intended to ​ground Iranian civilian aircraft worldwide.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/after-trump-s-annihilation-threat-pezeshkian-says-iran-won-t-surrender-126092301557_1.html",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T18:25:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-24T21:18:54.041Z",
+      "run_id": "2026-09-24T21:18"
+    },
+    {
+      "headline": "Xi heads into Trump visit after making China into a global force since 2015",
+      "summary": "Chinese leader Xi Jinping's visit to Washington this week marks a shift in relations",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/xi-heads-trump-visit-after-making-china-global-136695450",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T20:54:46Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-24T21:18:54.041Z",
+      "run_id": "2026-09-24T21:18"
     }
   ],
-  "total_items_ever": 3510
+  "total_items_ever": 3512
 }

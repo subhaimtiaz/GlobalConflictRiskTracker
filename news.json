@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-24T16:48:32.759Z",
+  "ts": "2026-09-24T21:19:59.326Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 105,
-    "oilStress": 60,
-    "updatedAt": "2026-09-24T16:48:32.759Z"
+    "oilPrice": 107,
+    "oilStress": 63,
+    "updatedAt": "2026-09-24T21:19:59.326Z"
   },
   "items": [
+    {
+      "headline": "After Trump's annihilation threat, Pezeshkian says Iran won't surrender",
+      "summary": "In a potential new ‌flashpoint, Iran also threatened to act against its neighbours if they abide by new US sanctions intended to ​ground Iranian civilian aircraft worldwide.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/after-trump-s-annihilation-threat-pezeshkian-says-iran-won-t-surrender-126092301557_1.html",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T18:25:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran’s President Tells U.N. We Have Been 'Victims Of Terrorism'",
       "summary": "“We have only defended ourselves,” President Masoud Pezeshkian said in the rare wartime speech. “America and Israel attacked us.”",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-09-22",
       "datetime": "2026-09-22T17:00:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Qatar: Absence of a regional collective security system is fuelling crisis in the Gulf",
-      "summary": "The crisis in the Gulf should come as a surprise to no one, the Emir of Qatar, Sheikh Tamim bin Hamad Al Thani said on Tuesday, describing it as the cumulative result of years of delay, crisis management through temporary fixes, and unrealistic policies.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-unnews04.htm",
-      "bloc": "western",
-      "date": "2026-09-22",
-      "datetime": "2026-09-22T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -299,6 +299,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Xi heads into Trump visit after making China into a global force since 2015",
+      "summary": "Chinese leader Xi Jinping's visit to Washington this week marks a shift in relations",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/xi-heads-trump-visit-after-making-china-global-136695450",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T20:54:46Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Xi Is Getting What He Wants",
       "summary": "The Chinese president has neutralized Trump.",
       "source": "The Atlantic",
@@ -378,30 +402,6 @@
       "bloc": "western",
       "date": "2026-09-22",
       "datetime": "2026-09-22T13:55:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Links 9/22/2026",
-      "summary": "Our dangerous daily links: Condom holes = baby boom? China buys energy from Canada, Trump press ban backfire, data centers run out of steel, airlines cut flighs over fuel scarcity, Europe climate risk, Japan new interest rate high, Himalayas risk to India, Is…",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-22-2026.html",
-      "bloc": "western",
-      "date": "2026-09-22",
-      "datetime": "2026-09-22T10:59:40Z",
       "leaders": [
         "Xi Jinping"
       ],

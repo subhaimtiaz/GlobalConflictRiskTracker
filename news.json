@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-25T11:29:12.553Z",
+  "ts": "2026-09-25T16:53:40.490Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 105,
-    "oilStress": 60,
-    "updatedAt": "2026-09-25T11:29:12.553Z"
+    "oilPrice": 104,
+    "oilStress": 59,
+    "updatedAt": "2026-09-25T16:53:40.490Z"
   },
   "items": [
+    {
+      "headline": "Trump invites Putin to Miami G20: Why that matters",
+      "summary": "US Secretary of State Rubio said the summit would be an 'opportunity' for Putin to engage with other world leaders.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/24/trump-invites-putin-to-miami-g20-why-that-matters",
+      "bloc": "regional",
+      "date": "2026-09-24",
+      "datetime": "2026-09-24T16:32:56Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Links 9/24/2026",
       "summary": "Our watchful daily links, including spooks warn of Russian drone attacks on Europe, Xi in DC, 'blind' food crisis, and end of the NGO age.",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War: WaPo Notices Casualty Count a Bit Off, GOP Senators Run for the Exits, Trump Freestyles at the UN",
-      "summary": "Today’s Iran war news: Washington Post notices the Pentagon's body count a bit low, GOP Senate candidates call for end of War, Trump at UN.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-wapo-pentagon-casualty-count-off-gop-senators-trump-un.html",
+      "headline": "US steps up military activity near Iran – media",
+      "summary": "American reconnaissance aircraft have reportedly been spotted around the Strait of Hormuz as tanker traffic through the key waterway rises Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/646198-us-military-activity-iran/",
       "bloc": "western",
-      "date": "2026-09-23",
-      "datetime": "2026-09-23T10:00:05Z",
+      "date": "2026-09-24",
+      "datetime": "2026-09-24T13:37:39Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -247,6 +273,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Senate Democrats' Statement on President Trump and President Xi's Summit in Washington",
+      "summary": "Today, U.S. Senators Jeanne Shaheen (D-NH), Ranking Member of the Senate Foreign Relations Committee, Chris Coons (D-DE), Chris Murphy (D-CT), Tim Kaine (D-VA), Jeff Merkley (D-OR), Cory Booker (D-NJ), Brian Schatz (D-HI), Chris Van Hollen (D-MD), Tammy Duckw…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260924-sfrc01.htm",
+      "bloc": "western",
+      "date": "2026-09-24",
+      "datetime": "2026-09-24T12:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Miranda Devine: Trump’s crafty ‘Commie Week’ diplomacy with Mamdani and Xi",
       "summary": "President Trump schmoozing his Chinese counterpart Xi Jinping we can stomach, but no more with NYC's socialist Mayor Zohran Mandani, please.",
       "source": "New York Post",
@@ -343,25 +393,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Xi Is Getting What He Wants",
-      "summary": "The Chinese president has neutralized Trump.",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/international/2026/09/xi-trump-summit/688743/?utm_source=feed",
+      "headline": "What the bond market is telling us as yields spike to 2-decade highs",
+      "summary": "Key bond yields are at their highest levels in decades, signaling deepening concerns about US fiscal health and demand for US government debt.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/bond-market-explained-higher-yields-spike-stock-market-impact-inflation-2026-9#article",
       "bloc": "western",
-      "date": "2026-09-23",
-      "datetime": "2026-09-23T15:21:00Z",
+      "date": "2026-09-24",
+      "datetime": "2026-09-24T14:41:16Z",
       "leaders": [
-        "Xi Jinping"
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "oil Brent crude"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "values"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -452,32 +504,6 @@
       "bloc": "western",
       "date": "2026-09-21",
       "datetime": "2026-09-21T15:58:47Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of Sept. 21, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-sept-21-135558433.html",
-      "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T13:55:58Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

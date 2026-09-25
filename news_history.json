@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-25T16:52:35.219Z",
+  "updated": "2026-09-25T21:16:59.362Z",
   "retention_days": 30,
   "items": [
     {
@@ -9356,7 +9356,61 @@
       "_from": "newsapi",
       "first_seen": "2026-09-25T16:52:35.219Z",
       "run_id": "2026-09-25T16:52"
+    },
+    {
+      "headline": "Saudi Arabia Bribed the Wrong People",
+      "summary": "Riyadh’s bet on Trumpism has failed.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/09/24/iran-trump-saudi-war-mbs-bad-bet/",
+      "bloc": "western",
+      "date": "2026-09-24",
+      "datetime": "2026-09-24T17:36:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-25T21:16:59.361Z",
+      "run_id": "2026-09-25T21:16"
+    },
+    {
+      "headline": "Trump's state dinner for Xi to feature sea bass and a long list of tech titans",
+      "summary": "President Donald Trump is hosting a state dinner for China's leader Xi Jinping, an event that will be closely scrutinized for clues about their relationship",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/trumps-state-dinner-xi-feature-sea-bass-long-136734926",
+      "bloc": "western",
+      "date": "2026-09-24",
+      "datetime": "2026-09-24T20:45:24Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-25T21:16:59.361Z",
+      "run_id": "2026-09-25T21:16"
     }
   ],
-  "total_items_ever": 3526
+  "total_items_ever": 3528
 }

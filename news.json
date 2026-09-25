@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-25T16:53:40.490Z",
+  "ts": "2026-09-25T21:18:04.677Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-09-25T16:53:40.490Z"
+    "updatedAt": "2026-09-25T21:18:04.677Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Saudi Arabia Bribed the Wrong People",
+      "summary": "Riyadh’s bet on Trumpism has failed.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/09/24/iran-trump-saudi-war-mbs-bad-bet/",
+      "bloc": "western",
+      "date": "2026-09-24",
+      "datetime": "2026-09-24T17:36:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "US steps up military activity near Iran – media",
       "summary": "American reconnaissance aircraft have reportedly been spotted around the Strait of Hormuz as tanker traffic through the key waterway rises Read Full Article at RT.com",
       "source": "RT",
@@ -222,32 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Gulf nations keep oil flowing through Iran war, but costs are mounting",
-      "summary": "When Iran shut down the Strait of Hormuz at the start of the war, choking off sea passage for some 15 million barrels of oil a day, many feared that prices would skyrocket, cratering the world economy.\nInstead, nearly seven months on, oil is expensive but not…",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/gulf-nations-keep-oil-flowing-through-iran-war-but-costs-are-mounting-126092400297_1.html",
-      "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T05:06:36Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Ukraine War Entering 'Dangerous New Phase' as Attacks Intensify, Risk of Regional Spillover Grows, Political Affairs Chief Warns Security Council",
       "summary": "Nearly five years into the war, the Russian Federation and Ukraine face a stark choice: a wider conflict or a deliberate turn towards peace, the United Nations political affairs chief told the Security Council today, urging renewed diplomatic efforts towards …",
       "source": "Globalsecurity.org",
@@ -269,6 +269,30 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump's state dinner for Xi to feature sea bass and a long list of tech titans",
+      "summary": "President Donald Trump is hosting a state dinner for China's leader Xi Jinping, an event that will be closely scrutinized for clues about their relationship",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/trumps-state-dinner-xi-feature-sea-bass-long-136734926",
+      "bloc": "western",
+      "date": "2026-09-24",
+      "datetime": "2026-09-24T20:45:24Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -352,30 +376,6 @@
       "bloc": "western",
       "date": "2026-09-23",
       "datetime": "2026-09-23T21:20:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Xi heads into Trump visit after making China into a global force since 2015",
-      "summary": "Chinese leader Xi Jinping's visit to Washington this week marks a shift in relations",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/wireStory/xi-heads-trump-visit-after-making-china-global-136695450",
-      "bloc": "western",
-      "date": "2026-09-23",
-      "datetime": "2026-09-23T20:54:46Z",
       "leaders": [
         "Xi Jinping"
       ],

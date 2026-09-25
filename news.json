@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-24T21:19:59.326Z",
+  "ts": "2026-09-25T04:10:23.756Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 107,
-    "oilStress": 63,
-    "updatedAt": "2026-09-24T21:19:59.326Z"
+    "oilPrice": 106,
+    "oilStress": 61,
+    "updatedAt": "2026-09-25T04:10:23.756Z"
   },
   "items": [
     {
@@ -274,23 +274,46 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Kim’s sister says only ‘idiots’ think N Korea to give up nukes",
-      "summary": "The powerful sister of North Korean leader Kim Jong Un said on Sept. 17 that the country’s nuclear-armed status was “absolute,” calling those hoping for its denuclearization “idiots.”",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/kims-sister-says-only-idiots-think-n-korea-to-give-up-nukes-226988",
+      "headline": "Don’t Engage In False Hope",
+      "summary": "Eleven years after Chairman Xi Jinping’s last White House visit, U.S. leaders should resolve to not be fooled again.",
+      "source": "Substack.com",
+      "url": "https://historywedontknow.substack.com/p/dont-engage-in-false-hope",
       "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T10:20:28Z",
+      "date": "2026-09-24",
+      "datetime": "2026-09-24T00:00:00Z",
       "leaders": [
-        "Kim Jong-un"
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Kim Jong-un North"
+        "Xi Jinping China"
       ],
       "dimensions": [
-        "impulsivity",
-        "narcissism",
-        "survival"
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Don’t Be Fooled by China’s Recent Months of Low Military Activity",
+      "summary": "A day before the Washington meeting between Chinese leader Xi Jinping and President Donald Trump, Chinese military activity in the Taiwan Strait has been relatively subdued compared to previous years. Recent restraint, however, should not be mistaken for a st…",
+      "source": "Daily Signal",
+      "url": "https://www.dailysignal.com/2026/09/23/dont-be-fooled-by-chinas-recent-months-of-low-military-activity-china/",
+      "bloc": "western",
+      "date": "2026-09-23",
+      "datetime": "2026-09-23T21:20:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -354,54 +377,6 @@
       "bloc": "western",
       "date": "2026-09-23",
       "datetime": "2026-09-23T13:47:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Takaichi, Trump Confirm Alliance Unity",
-      "summary": "Prime Minister Sanae Takaichi and U.S. President Donald Trump met in New York on September 22, confirming close cooperation on security and economic issues ahead of Trump’s planned summit with Chinese President Xi Jinping. (News On Japan)",
-      "source": "Newsonjapan.com",
-      "url": "https://newsonjapan.com/article/150834.php",
-      "bloc": "western",
-      "date": "2026-09-23",
-      "datetime": "2026-09-23T00:38:25Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "SCO, BRICS, Trump-Xi: What Does the Spate of Summits Mean for India?",
-      "summary": "This year’s summit season reveals conflicting visions of global order (and India’s place in it).",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/09/sco-brics-trump-xi-what-does-the-spate-of-summits-mean-for-india/",
-      "bloc": "western",
-      "date": "2026-09-22",
-      "datetime": "2026-09-22T13:55:00Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -568,31 +543,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "As Space Force Admits to Deploying Weapons in Orbit, US Contempt for Arms Control Continues",
-      "summary": "During a recent “State of the Space Force” address in Maryland, Chief of Space Operations Gen. Douglas Schiess stated frankly that the US has at least non-kinetic weapons positioned in space, and that these capabilities were used in the war on Iran. “Let me b…",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/andy_corbley/2026/09/16/as-space-force-admits-to-deploying-weapons-in-orbit-us-contempt-for-arms-control-continues/",
-      "bloc": "western",
-      "date": "2026-09-17",
-      "datetime": "2026-09-17T00:00:40Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

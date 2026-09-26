@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-26T16:03:28.936Z",
+  "updated": "2026-09-26T20:49:38.287Z",
   "retention_days": 30,
   "items": [
     {
@@ -9597,7 +9597,89 @@
       "_from": "newsapi",
       "first_seen": "2026-09-26T16:03:28.936Z",
       "run_id": "2026-09-26T16:03"
+    },
+    {
+      "headline": "Iran offers to reopen Strait of Hormuz in 7 days if US lifts blockade, waives sanctions",
+      "summary": "The proposal comes amid renewed diplomatic contacts, continued tensions over shipping routes, oil markets, Lebanon and Iran’s nuclear programme",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-offers-to-reopen-strait-of-hormuz-in-7-days-if-us-lifts-blockade-waives-sanctions/article71510297.ece",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T18:42:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-26T20:49:38.287Z",
+      "run_id": "2026-09-26T20:49"
+    },
+    {
+      "headline": "Iran Proposes A Deal To Reopen Strait Of Hormuz In 7 Days If The U.S. Meets Its Conditions",
+      "summary": "Iran’s disruption of the strait has emerged as its main point of leverage. The effects have been felt far beyond the Middle East.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-proposes-deal-reopen-strait-of-hormuz-7-days-us-meets-conditions_n_6ab69619e4b0bad9a6472b11",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T16:25:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-26T20:49:38.287Z",
+      "run_id": "2026-09-26T20:49"
+    },
+    {
+      "headline": "Trump Is Being Oddly Cozy With Xi Jinping",
+      "summary": "Trump tends to make this mistake with authoritarians whose power he admires and envies.",
+      "source": "Slate Magazine",
+      "url": "https://slate.com/news-and-politics/2026/09/trump-news-us-china-xi-jinping.html",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T17:28:40Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-26T20:49:38.287Z",
+      "run_id": "2026-09-26T20:49"
     }
   ],
-  "total_items_ever": 3548
+  "total_items_ever": 3551
 }

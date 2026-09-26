@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-26T16:04:34.201Z",
+  "ts": "2026-09-26T20:50:43.590Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-09-26T16:04:34.201Z"
+    "updatedAt": "2026-09-26T20:50:43.590Z"
   },
   "items": [
+    {
+      "headline": "Iran offers to reopen Strait of Hormuz in 7 days if US lifts blockade, waives sanctions",
+      "summary": "The proposal comes amid renewed diplomatic contacts, continued tensions over shipping routes, oil markets, Lebanon and Iran’s nuclear programme",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-offers-to-reopen-strait-of-hormuz-in-7-days-if-us-lifts-blockade-waives-sanctions/article71510297.ece",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T18:42:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Proposes A Deal To Reopen Strait Of Hormuz In 7 Days If The U.S. Meets Its Conditions",
+      "summary": "Iran’s disruption of the strait has emerged as its main point of leverage. The effects have been felt far beyond the Middle East.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/iran-proposes-deal-reopen-strait-of-hormuz-7-days-us-meets-conditions_n_6ab69619e4b0bad9a6472b11",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T16:25:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Netanyahu Came to New York. New Yorkers Were Ready For Him.",
       "summary": "Ella Fanger\n\n\n\nScenes from the defiant protest against the genocidal leader’s UN speech.\r\n\n\r\n\n\nThe post Netanyahu Came to New York. New Yorkers Were Ready For Him. appeared first on The Nation.",
@@ -73,58 +125,6 @@
       "bloc": "western",
       "date": "2026-09-25",
       "datetime": "2026-09-25T03:37:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Netanyahu at UN: ‘Gaza genocide allegations are the biggest lie of the century’",
-      "summary": "Netanyahu rejects Gaza genocide allegations as the “biggest lie of the century”, defends Israel’s Iran attack and faces a mass walkout at the UN.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/netanyahu-at-un-gaza-genocide-allegations-are-the-biggest-lie-of-the-century/article71506842.ece",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T01:56:47Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Netanyahu Uses UN Speech To Paint Israel As The Victim While Bragging Of Violence",
-      "summary": "The Israeli prime minister delivered remarks as dozens of delegations and hundreds of demonstrators protested his visit to New York City.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/netanyhu-un-speech-israel_n_6ab57eb3e4b075a3d284e4a9",
-      "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T21:45:32Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -299,6 +299,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump Is Being Oddly Cozy With Xi Jinping",
+      "summary": "Trump tends to make this mistake with authoritarians whose power he admires and envies.",
+      "source": "Slate Magazine",
+      "url": "https://slate.com/news-and-politics/2026/09/trump-news-us-china-xi-jinping.html",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T17:28:40Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Links 9/25/2026",
       "summary": "Our shiny daily links, including Xi-Trump talks, forest management myth, neoliberal grid crisis, AI battles drive up healthcare costs, and Trump TV.",
       "source": "Nakedcapitalism.com",
@@ -354,30 +378,6 @@
       "bloc": "western",
       "date": "2026-09-25",
       "datetime": "2026-09-25T05:42:25Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump's state dinner for Xi to feature sea bass and a long list of tech titans",
-      "summary": "President Donald Trump is hosting a state dinner for China's leader Xi Jinping, an event that will be closely scrutinized for clues about their relationship",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/wireStory/trumps-state-dinner-xi-feature-sea-bass-long-136734926",
-      "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T20:45:24Z",
       "leaders": [
         "Xi Jinping"
       ],

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-25T21:18:04.677Z",
+  "ts": "2026-09-26T04:14:59.513Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-09-25T21:18:04.677Z"
+    "updatedAt": "2026-09-26T04:14:59.513Z"
   },
   "items": [
+    {
+      "headline": "Trump Welcomes China's Xi With Fanfare, But No Breakthroughs Emerge",
+      "summary": "The lavish summit was heavy on symbolism but light on substance.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-xi-china-summit_n_6ab5eabfe4b075a3d2853107",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T03:37:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Netanyahu at UN: ‘Gaza genocide allegations are the biggest lie of the century’",
+      "summary": "Netanyahu rejects Gaza genocide allegations as the “biggest lie of the century”, defends Israel’s Iran attack and faces a mass walkout at the UN.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/netanyahu-at-un-gaza-genocide-allegations-are-the-biggest-lie-of-the-century/article71506842.ece",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T01:56:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Netanyahu Uses UN Speech To Paint Israel As The Victim While Bragging Of Violence",
+      "summary": "The Israeli prime minister delivered remarks as dozens of delegations and hundreds of demonstrators protested his visit to New York City.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/netanyhu-un-speech-israel_n_6ab57eb3e4b075a3d284e4a9",
+      "bloc": "western",
+      "date": "2026-09-24",
+      "datetime": "2026-09-24T21:45:32Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump invites Putin to Miami G20: Why that matters",
       "summary": "US Secretary of State Rubio said the summit would be an 'opportunity' for Putin to engage with other world leaders.",
@@ -66,91 +144,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump: U.S. and Iranian Officials Hold Three-Hour Meeting at UN Sidelines",
-      "summary": "President Donald Trump said U.S. officials met with an Iranian delegation for three hours on the sidelines of the United Nations General Assembly in New York City on Tuesday, Sept. 22, according to multiple news reports. [1] [2] The meeting was the first dire…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-24-trump-us-iran-officials-meet-un-sidelines.html",
-      "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "After Trump's annihilation threat, Pezeshkian says Iran won't surrender",
-      "summary": "In a potential new ‌flashpoint, Iran also threatened to act against its neighbours if they abide by new US sanctions intended to ​ground Iranian civilian aircraft worldwide.",
+      "headline": "Oil prices fall as markets weigh Iran truce, oil facility attack risks",
+      "summary": "Brent was down 87 cents, or ​0.82%, at $105.73 a barrel at 0212 GMT, while West Texas Intermediate (WTI) was down $1.56, or 1.65%, at $93.05 ‌a barrel",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/after-trump-s-annihilation-threat-pezeshkian-says-iran-won-t-surrender-126092301557_1.html",
+      "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-markets-weigh-iran-truce-oil-facility-attack-risks-126092500081_1.html",
       "bloc": "western",
-      "date": "2026-09-23",
-      "datetime": "2026-09-23T18:25:18Z",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T03:39:57Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Iran’s President Tells U.N. We Have Been 'Victims Of Terrorism'",
-      "summary": "“We have only defended ourselves,” President Masoud Pezeshkian said in the rare wartime speech. “America and Israel attacked us.”",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-speech-un-victims-terrorism_n_6ab3e24de4b043d6b56a5472",
+      "headline": "The Houthi–Saudi conflict has the hallmarks of another major Middle Eastern war",
+      "summary": "A military response from Saudi Arabia is unlikely to bring a definitive end to the conflict, but ignoring the Houthis would be tantamount to resigning to Iranian influence on the nation’s doorstep.\nThe post The Houthi–Saudi conflict has the hallmarks of anoth…",
+      "source": "Crikey",
+      "url": "http://www.crikey.com.au/2026/09/25/houthi-saudi-arabia-conflict-middle-east-war-usa-iran-oil/",
       "bloc": "western",
-      "date": "2026-09-23",
-      "datetime": "2026-09-23T14:40:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Arabia Bribed the Wrong People",
-      "summary": "Riyadh’s bet on Trumpism has failed.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/09/24/iran-trump-saudi-war-mbs-bad-bet/",
-      "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T17:36:41Z",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T02:18:23Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,65 +196,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US steps up military activity near Iran – media",
-      "summary": "American reconnaissance aircraft have reportedly been spotted around the Strait of Hormuz as tanker traffic through the key waterway rises Read Full Article at RT.com",
+      "headline": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities",
+      "summary": "On Friday, oil prices took a small dip after a week marked by fluctuations. Brent crude prices lowered to $105.85 per barrel, while West Texas Intermediate decreased to $93.80 per barrel. This decrease aligns with US and Iranian discussions regarding a ceasef…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-as-markets-look-to-iran-truce-but-remain-wary-of-attacks-on-oil-facilities/articleshow/134473082.cms",
+      "bloc": "regional",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T02:00:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Macron to send French troops to Saudi Arabia",
+      "summary": "France will deploy troops, radar and air-defense systems to Saudi Arabia to protect a key Red Sea oil hub as Riyadh struggles to contain escalating Houthi missile and drone attacks, President Emmanuel Macron has announced.",
       "source": "RT",
-      "url": "https://www.rt.com/news/646198-us-military-activity-iran/",
+      "url": "https://www.rt.com/news/646220-france-troops-saudi-arabia/",
       "bloc": "western",
       "date": "2026-09-24",
-      "datetime": "2026-09-24T13:37:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting",
-      "summary": "Gulf nations navigate costly oil transport challenges amid the Iran war, maintaining supply but facing escalating expenses and vulnerabilities.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/gulf-nations-have-found-ways-to-keep-oil-flowing-through-the-iran-war-but-the-costs-are-mounting/article71502877.ece",
-      "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T06:03:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Gulf nations have found ways to keep oil flowing",
-      "summary": "At the start of the Iran war, many feared that Tehran's closure of the Strait of Hormuz would send oil prices through the roof and throttle the global economy",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/wireStory/gulf-nations-found-ways-oil-flowing-iran-war-136708375",
-      "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T05:22:24Z",
+      "datetime": "2026-09-24T23:12:50Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -352,30 +352,6 @@
       "bloc": "western",
       "date": "2026-09-24",
       "datetime": "2026-09-24T00:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Don’t Be Fooled by China’s Recent Months of Low Military Activity",
-      "summary": "A day before the Washington meeting between Chinese leader Xi Jinping and President Donald Trump, Chinese military activity in the Taiwan Strait has been relatively subdued compared to previous years. Recent restraint, however, should not be mistaken for a st…",
-      "source": "Daily Signal",
-      "url": "https://www.dailysignal.com/2026/09/23/dont-be-fooled-by-chinas-recent-months-of-low-military-activity-china/",
-      "bloc": "western",
-      "date": "2026-09-23",
-      "datetime": "2026-09-23T21:20:00Z",
       "leaders": [
         "Xi Jinping"
       ],

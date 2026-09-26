@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-26T11:03:32.131Z",
+  "updated": "2026-09-26T16:03:28.936Z",
   "retention_days": 30,
   "items": [
     {
@@ -9541,7 +9541,63 @@
       "_from": "newsapi",
       "first_seen": "2026-09-26T11:03:32.131Z",
       "run_id": "2026-09-26T11:03"
+    },
+    {
+      "headline": "Netanyahu Came to New York. New Yorkers Were Ready For Him.",
+      "summary": "Ella Fanger\n\n\n\nScenes from the defiant protest against the genocidal leader’s UN speech.\r\n\n\r\n\n\nThe post Netanyahu Came to New York. New Yorkers Were Ready For Him. appeared first on The Nation.",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/article/activism/netanyahu-un-protest-dispatch/",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T15:52:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-26T16:03:28.936Z",
+      "run_id": "2026-09-26T16:03"
+    },
+    {
+      "headline": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch",
+      "summary": "November WTI crude oil futures spent the week trading a possible reopening of the Strait of Hormuz against the risk that shipping conditions have not normalized. The contract fell to $88.67 Tuesday after reports that Iran could reopen the Strait within seven …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Hormuz-Hopes-Collide-With-Diesel-Crunch.html",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T13:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-26T16:03:28.936Z",
+      "run_id": "2026-09-26T16:03"
     }
   ],
-  "total_items_ever": 3546
+  "total_items_ever": 3548
 }

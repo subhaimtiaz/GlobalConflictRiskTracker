@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-26T11:04:37.375Z",
+  "ts": "2026-09-26T16:04:34.201Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-09-26T11:04:37.375Z"
+    "updatedAt": "2026-09-26T16:04:34.201Z"
   },
   "items": [
+    {
+      "headline": "Netanyahu Came to New York. New Yorkers Were Ready For Him.",
+      "summary": "Ella Fanger\n\n\n\nScenes from the defiant protest against the genocidal leader’s UN speech.\r\n\n\r\n\n\nThe post Netanyahu Came to New York. New Yorkers Were Ready For Him. appeared first on The Nation.",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/article/activism/netanyahu-un-protest-dispatch/",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T15:52:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran’s President Tells UN Tehran Will Not “Bow Its Head” to U.S. Threats",
       "summary": "Iranian President Masoud Pezeshkian told the United Nations General Assembly on Wednesday that Tehran will never “bow its head” to U.S. threats but remains open to diplomacy. Pezeshkian spoke a day after U.S. President Donald Trump threatened to “annihilate” …",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump invites Putin to Miami G20: Why that matters",
-      "summary": "US Secretary of State Rubio said the summit would be an 'opportunity' for Putin to engage with other world leaders.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/24/trump-invites-putin-to-miami-g20-why-that-matters",
-      "bloc": "regional",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T16:32:56Z",
+      "headline": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch",
+      "summary": "November WTI crude oil futures spent the week trading a possible reopening of the Strait of Hormuz against the risk that shipping conditions have not normalized. The contract fell to $88.67 Tuesday after reports that Iran could reopen the Strait within seven …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Hormuz-Hopes-Collide-With-Diesel-Crunch.html",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T13:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Houthi–Saudi conflict has the hallmarks of another major Middle Eastern war",
-      "summary": "A military response from Saudi Arabia is unlikely to bring a definitive end to the conflict, but ignoring the Houthis would be tantamount to resigning to Iranian influence on the nation’s doorstep.\nThe post The Houthi–Saudi conflict has the hallmarks of anoth…",
-      "source": "Crikey",
-      "url": "http://www.crikey.com.au/2026/09/25/houthi-saudi-arabia-conflict-middle-east-war-usa-iran-oil/",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T02:18:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

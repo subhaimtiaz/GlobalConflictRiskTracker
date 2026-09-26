@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-26T04:14:59.513Z",
+  "ts": "2026-09-26T11:04:37.375Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-09-26T04:14:59.513Z"
+    "updatedAt": "2026-09-26T11:04:37.375Z"
   },
   "items": [
+    {
+      "headline": "Iran’s President Tells UN Tehran Will Not “Bow Its Head” to U.S. Threats",
+      "summary": "Iranian President Masoud Pezeshkian told the United Nations General Assembly on Wednesday that Tehran will never “bow its head” to U.S. threats but remains open to diplomacy. Pezeshkian spoke a day after U.S. President Donald Trump threatened to “annihilate” …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-25-iran-president-tehran-not-bow-head-threats.html",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump Welcomes China's Xi With Fanfare, But No Breakthroughs Emerge",
       "summary": "The lavish summit was heavy on symbolism but light on substance.",
@@ -118,27 +144,79 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Links 9/24/2026",
-      "summary": "Our watchful daily links, including spooks warn of Russian drone attacks on Europe, Xi in DC, 'blind' food crisis, and end of the NGO age.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-24-2026.html",
+      "headline": "Oil Slides As U.S.-Iran Truce Hopes Outweigh Houthi Attacks On Saudi Arabia",
+      "summary": "Iranian President Masoud Pezeshkian said it was up to the U.S. to choose when the Iran war will end.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/oil-prices-middle-east_n_6ab652a4e4b0a4e394058736",
       "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T10:55:53Z",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T11:00:44Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil prices fall as markets look to Iran truce",
+      "summary": "Oil prices fell slightly todayas markets weighed the possibility of a truce between the US and Iran against the bombing of Saudi Arabia by Houthi rebels after a week of price spikes.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/0925/1592902-oil-prices-fall-as-markets-look-to-iran-truce/",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T06:03:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Global Oil Shipments Under Pressure as Supertanker Supplies Tighten",
+      "summary": "A shortage of available supertankers is raising global oil shipping costs and making some long-distance crude trades uneconomical, according to shipbrokers, traders and industry data cited in a Sept. 19 report. The squeeze arrives as fuel markets remain tight…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-25-global-oil-shipments-under-pressure-supertanker-supplies-tighten.html",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -196,58 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities",
-      "summary": "On Friday, oil prices took a small dip after a week marked by fluctuations. Brent crude prices lowered to $105.85 per barrel, while West Texas Intermediate decreased to $93.80 per barrel. This decrease aligns with US and Iranian discussions regarding a ceasef…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-as-markets-look-to-iran-truce-but-remain-wary-of-attacks-on-oil-facilities/articleshow/134473082.cms",
-      "bloc": "regional",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T02:00:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Macron to send French troops to Saudi Arabia",
-      "summary": "France will deploy troops, radar and air-defense systems to Saudi Arabia to protect a key Red Sea oil hub as Riyadh struggles to contain escalating Houthi missile and drone attacks, President Emmanuel Macron has announced.",
-      "source": "RT",
-      "url": "https://www.rt.com/news/646220-france-troops-saudi-arabia/",
-      "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T23:12:50Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Ukraine War Entering 'Dangerous New Phase' as Attacks Intensify, Risk of Regional Spillover Grows, Political Affairs Chief Warns Security Council",
       "summary": "Nearly five years into the war, the Russian Federation and Ukraine face a stark choice: a wider conflict or a deliberate turn towards peace, the United Nations political affairs chief told the Security Council today, urging renewed diplomatic efforts towards …",
       "source": "Globalsecurity.org",
@@ -269,6 +295,78 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Links 9/25/2026",
+      "summary": "Our shiny daily links, including Xi-Trump talks, forest management myth, neoliberal grid crisis, AI battles drive up healthcare costs, and Trump TV.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/links-9-25-2026.html",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T10:55:37Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump hosts Xi Jinping for state dinner and the guest list included Elon Musk and Sam Altman",
+      "summary": "Numerous US tech titans attended the banquet, underscoring that trade and artificial intelligence were high on the agenda for Xi’s visit.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/trump-xi-jinping-state-dinner-china-us-7173038-Sep2026/",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T06:24:01Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Inside Trump's glitzy state dinner with China's Xi attended by tech titans and DC's elite as details emerge about talks between two world leaders",
+      "summary": "The two world powers remain divided on the war in Iran and are still grappling to find common ground on trade and how to best navigate the jarring advances of artificial intelligence.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16159331/Inside-Donald-Trump-state-dinner-Xi-China.html",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T05:42:25Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -297,73 +395,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Senate Democrats' Statement on President Trump and President Xi's Summit in Washington",
-      "summary": "Today, U.S. Senators Jeanne Shaheen (D-NH), Ranking Member of the Senate Foreign Relations Committee, Chris Coons (D-DE), Chris Murphy (D-CT), Tim Kaine (D-VA), Jeff Merkley (D-OR), Cory Booker (D-NJ), Brian Schatz (D-HI), Chris Van Hollen (D-MD), Tammy Duckw…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260924-sfrc01.htm",
+      "headline": "Bank of America Warns Oil Could Surge Above $150 a Barrel if Iran War Disruptions Persist",
+      "summary": "Bank of America warned that oil prices could exceed $150 a barrel if inventories continue to deplete during the war in Iran, according to a note released to the media on Tuesday [1]. The bank raised its year-end forecast for Brent crude from $83 a barrel to $…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-25-bofa-warns-oil-surge-iran-war-disruptions.html",
       "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T12:00:00Z",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T06:00:00Z",
       "leaders": [
-        "Xi Jinping"
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "oil Brent crude"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "values"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Miranda Devine: Trump’s crafty ‘Commie Week’ diplomacy with Mamdani and Xi",
-      "summary": "President Trump schmoozing his Chinese counterpart Xi Jinping we can stomach, but no more with NYC's socialist Mayor Zohran Mandani, please.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/24/opinion/miranda-devine-trumps-crafty-commie-week-diplomacy-with-mamdani-and-xi/",
-      "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T04:15:26Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Don’t Engage In False Hope",
-      "summary": "Eleven years after Chairman Xi Jinping’s last White House visit, U.S. leaders should resolve to not be fooled again.",
-      "source": "Substack.com",
-      "url": "https://historywedontknow.substack.com/p/dont-engage-in-false-hope",
-      "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T00:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -473,32 +525,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Why oil prices are sliding again after their latest $100-a-barrel spike",
-      "summary": "Oil prices dropped below $100 a barrel this week amid a stronger-than-expected flows and news about diplomacy with Iran.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/oil-prices-today-brent-crude-wti-iran-war-diplomacy-2026-9#article",
-      "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T15:58:47Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "After 6 months of war, US must prepare for a future after Iran’s government falls",
       "summary": "The IRGC, Mojtaba Khamenei and Masoud Pezeshkian compete for power as Iran's Islamic Republic fights for survival amid escalating war and sanctions.",
       "source": "Fox News",
@@ -548,6 +574,75 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Sensex today | Stock Market Highlights: Sensex gains 315 pts, Nifty ends at 23,140 as oil prices bite; Rupee closes at 95.80/$",
+      "summary": "Sensex, Nifty, Share Prices Highlights: Indian shares posted modest gains ⁠on Friday in a partial rebound after previous session's slide, but still logged their longest weekly losing streak in six years as high oil prices drove ‌up bond yields and inflationar…",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-25-september-2026/article71503684.ece",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T10:36:08Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Deadly New Strikes In Russia's War On Ukraine As Spillover Concerns Mount",
+      "summary": "Russia kept up its pattern of relentless attacks on Kyiv, killing a 14-year-old boy and injuring seven other people in a drone strike on an apartment building in the capital on September 25, Ukrainian authorities said.",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/ukraie-russia-attacks-civilians-killed-drone-threats/33864157.html",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T10:19:49Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Russia not preparing for conflict with Europe, Putin says",
+      "summary": "Russia is not preparing for \"any kind\" of conflict with Europe, President Vladimir Putin said, following warnings from some European NATO members of potential Russian attacks on the alliance's territory.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/2026/0925/1592910-ukraine-russia-putin/",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T06:53:42Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks",
       "summary": "Ukraine leader says Kyiv is ready to stop strikes on Russian facilities if Moscow halts attacks on its energy system.",
       "source": "Al Jazeera English",
@@ -578,52 +673,6 @@
       "bloc": "western",
       "date": "2026-09-22",
       "datetime": "2026-09-22T13:58:20Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Moscow’s Mach-9 message: Russia unleashes barrage of nuclear-capable Zircon missiles into Ukraine",
-      "summary": "Under a blanket of darkness, Russia’s military machine came alive across three domains at once, launching salvo after salvo of precision-guided munitions from land batteries, naval vessels and aircraft, while swarms of drones filled the gaps overhead. The tar…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-22-russia-unleashes-barrage-nuclear-capable-zircon-missiles.html",
-      "bloc": "western",
-      "date": "2026-09-22",
-      "datetime": "2026-09-22T06:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Drone Warfare Is Coming to America … And We’re Dangerously Unprepared",
-      "summary": "If It Sits Above Ground, It Can Be Destroyed by Drones The drone revolution has quietly ended the era when America’s above-ground infrastructure could be considered safe. The same precision-strike capability that hit Saudi pipelines and Qatari gas trains can …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-21-drone-warfare-coming-to-america-dangerously-unprepared.html",
-      "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T06:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

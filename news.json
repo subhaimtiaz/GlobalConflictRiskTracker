@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-27T11:43:15.352Z",
+  "ts": "2026-09-27T16:41:23.891Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-09-27T11:43:15.352Z"
+    "updatedAt": "2026-09-27T16:41:23.891Z"
   },
   "items": [
+    {
+      "headline": "Pezeshkian: Iran 'no longer' trusts US after being attacked twice during talks",
+      "summary": "Iranian President Masoud Pezeshkian says Tehran has lost faith in negotiating with the United States after earlier rounds of talks were disrupted by military strikes and sanctions against the Islamic Republic.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260926-presstv06.htm",
+      "bloc": "western",
+      "date": "2026-09-26",
+      "datetime": "2026-09-26T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran War: Trump Rejects Iranian Offer, Saudi-Yemeni War On the Boil",
       "summary": "Trump rejects Iranian ceasefire terms, threatens to attack in November. US casualty count continues to mount. The war between Saudi Arabia and Yemen continues to heat up.",
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran reconfigures military capabilities, upgrades Arash drone for battlefield: Army",
-      "summary": "Iran has reconfigured its military capabilities and significantly upgraded its Arash loitering drone for more effective battlefield use, says the Iranian Army Deputy for Executive Affairs.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260925-presstv05.htm",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T12:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-26T20:50:43.590Z",
+  "ts": "2026-09-27T04:30:24.139Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-09-26T20:50:43.590Z"
+    "updatedAt": "2026-09-27T04:30:24.139Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran Adds Nuclear Inspections to Hormuz Reopening Offer, But Strait Remains Closed on Crisis Day 208",
+      "summary": "Iran has offered access for nuclear inspectors as part of a seven-day plan to reopen the Strait of Hormuz, but shipping disruption, violence and diplomatic uncertainty persist.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/iran-offers-nuclear-inspections-reopen-strait-hormuz-1875869",
+      "bloc": "western",
+      "date": "2026-09-26",
+      "datetime": "2026-09-26T04:06:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch",
       "summary": "November WTI crude oil futures spent the week trading a possible reopening of the Strait of Hormuz against the risk that shipping conditions have not normalized. The contract fell to $88.67 Tuesday after reports that Iran could reopen the Strait within seven …",
       "source": "OilPrice.com",
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil prices fall as markets weigh Iran truce, oil facility attack risks",
-      "summary": "Brent was down 87 cents, or ​0.82%, at $105.73 a barrel at 0212 GMT, while West Texas Intermediate (WTI) was down $1.56, or 1.65%, at $93.05 ‌a barrel",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-markets-weigh-iran-truce-oil-facility-attack-risks-126092500081_1.html",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T03:39:57Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -574,6 +574,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Ukraine's largest steel plant to shutter amid recurring Russian strikes",
+      "summary": "Steelmaker ArcelorMittal said it was shutting production at Ukraine's largest steel plant, underscoring the growing economic toll of Russia's airstrikes that on ‌Friday killed seven people in Kyiv including a 14-year-old boy and injured more than 50.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/ukraine-steel-arcelormittal-shutdown-9.7359241",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T23:27:16Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Sensex today | Stock Market Highlights: Sensex gains 315 pts, Nifty ends at 23,140 as oil prices bite; Rupee closes at 95.80/$",
       "summary": "Sensex, Nifty, Share Prices Highlights: Indian shares posted modest gains ⁠on Friday in a partial rebound after previous session's slide, but still logged their longest weekly losing streak in six years as high oil prices drove ‌up bond yields and inflationar…",
       "source": "BusinessLine",
@@ -650,29 +673,6 @@
       "bloc": "regional",
       "date": "2026-09-23",
       "datetime": "2026-09-23T01:20:39Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia and Ukraine Trade Deadly Strikes as Zelenskyy Prepares to Meet Trump",
-      "summary": "The repeated attacks on Russian refineries, following Moscow’s strikes on Ukraine’s power grid, have caused international shortages of diesel.",
-      "source": "Military.com",
-      "url": "https://military.com/russia-and-ukraine-trade-deadly-strikes-as-zelenskyy-prepares-to-meet-trump",
-      "bloc": "western",
-      "date": "2026-09-22",
-      "datetime": "2026-09-22T13:58:20Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-27T04:30:24.139Z",
+  "ts": "2026-09-27T11:43:15.352Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-09-27T04:30:24.139Z"
+    "updatedAt": "2026-09-27T11:43:15.352Z"
   },
   "items": [
+    {
+      "headline": "Iran War: Trump Rejects Iranian Offer, Saudi-Yemeni War On the Boil",
+      "summary": "Trump rejects Iranian ceasefire terms, threatens to attack in November. US casualty count continues to mount. The war between Saudi Arabia and Yemen continues to heat up.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-trump-rejects-iranian-offer-saudi-yemeni-war.html",
+      "bloc": "western",
+      "date": "2026-09-26",
+      "datetime": "2026-09-26T10:15:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran offers to reopen Strait of Hormuz in 7 days if US lifts blockade, waives sanctions",
       "summary": "The proposal comes amid renewed diplomatic contacts, continued tensions over shipping routes, oil markets, Lebanon and Iran’s nuclear programme",
@@ -92,13 +118,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran’s President Tells UN Tehran Will Not “Bow Its Head” to U.S. Threats",
-      "summary": "Iranian President Masoud Pezeshkian told the United Nations General Assembly on Wednesday that Tehran will never “bow its head” to U.S. threats but remains open to diplomacy. Pezeshkian spoke a day after U.S. President Donald Trump threatened to “annihilate” …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-25-iran-president-tehran-not-bow-head-threats.html",
+      "headline": "Iran reconfigures military capabilities, upgrades Arash drone for battlefield: Army",
+      "summary": "Iran has reconfigured its military capabilities and significantly upgraded its Arash loitering drone for more effective battlefield use, says the Iranian Army Deputy for Executive Affairs.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260925-presstv05.htm",
       "bloc": "western",
       "date": "2026-09-25",
-      "datetime": "2026-09-25T06:00:00Z",
+      "datetime": "2026-09-25T12:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Welcomes China's Xi With Fanfare, But No Breakthroughs Emerge",
-      "summary": "The lavish summit was heavy on symbolism but light on substance.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-xi-china-summit_n_6ab5eabfe4b075a3d2853107",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T03:37:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -248,24 +248,23 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Global Oil Shipments Under Pressure as Supertanker Supplies Tighten",
-      "summary": "A shortage of available supertankers is raising global oil shipping costs and making some long-distance crude trades uneconomical, according to shipbrokers, traders and industry data cited in a Sept. 19 report. The squeeze arrives as fuel markets remain tight…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-25-global-oil-shipments-under-pressure-supertanker-supplies-tighten.html",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T06:00:00Z",
+      "headline": "Israel bans Arab parties from election: Who they are, why it matters",
+      "summary": "Israeli politicians subject to ICC arrest warrants or international sanctions remain eligible to run.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters",
+      "bloc": "regional",
+      "date": "2026-09-26",
+      "datetime": "2026-09-26T10:27:11Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Benjamin Netanyahu"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Netanyahu trial ICC"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "accountability",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -378,6 +377,30 @@
       "bloc": "western",
       "date": "2026-09-25",
       "datetime": "2026-09-25T05:42:25Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Welcomes China's Xi With Fanfare, But No Breakthroughs Emerge",
+      "summary": "The lavish summit was heavy on symbolism but light on substance.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-xi-china-summit_n_6ab5eabfe4b075a3d2853107",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T03:37:41Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -597,6 +620,29 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Deadly New Strikes In Russia's War On Ukraine As Spillover Concerns Mount",
+      "summary": "Russia continued its pattern of relentless attacks on Kyiv overnight, killing at least seven people, including a 14-year-old boy, and injuring dozens more in a drone strike on an apartment building in the capital on September 25, Ukrainian authorities said.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260925-rferl01.htm",
+      "bloc": "western",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T12:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Sensex today | Stock Market Highlights: Sensex gains 315 pts, Nifty ends at 23,140 as oil prices bite; Rupee closes at 95.80/$",
       "summary": "Sensex, Nifty, Share Prices Highlights: Indian shares posted modest gains ⁠on Friday in a partial rebound after previous session's slide, but still logged their longest weekly losing streak in six years as high oil prices drove ‌up bond yields and inflationar…",
       "source": "BusinessLine",
@@ -620,29 +666,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Deadly New Strikes In Russia's War On Ukraine As Spillover Concerns Mount",
-      "summary": "Russia kept up its pattern of relentless attacks on Kyiv, killing a 14-year-old boy and injuring seven other people in a drone strike on an apartment building in the capital on September 25, Ukrainian authorities said.",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "url": "https://www.rferl.org/a/ukraie-russia-attacks-civilians-killed-drone-threats/33864157.html",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T10:19:49Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Russia not preparing for conflict with Europe, Putin says",
       "summary": "Russia is not preparing for \"any kind\" of conflict with Europe, President Vladimir Putin said, following warnings from some European NATO members of potential Russian attacks on the alliance's territory.",
       "source": "RTE",
@@ -650,29 +673,6 @@
       "bloc": "western",
       "date": "2026-09-25",
       "datetime": "2026-09-25T06:53:42Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks",
-      "summary": "Ukraine leader says Kyiv is ready to stop strikes on Russian facilities if Moscow halts attacks on its energy system.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks",
-      "bloc": "regional",
-      "date": "2026-09-23",
-      "datetime": "2026-09-23T01:20:39Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-28T04:31:42.486Z",
+  "ts": "2026-09-28T13:20:06.599Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 107,
+    "oilPrice": 106,
     "oilStress": 63,
-    "updatedAt": "2026-09-28T04:31:42.486Z"
+    "updatedAt": "2026-09-28T13:20:06.599Z"
   },
   "items": [
+    {
+      "headline": "Iran urges UN to address European states' complicity in US-Israeli aggression",
+      "summary": "A senior Iranian diplomat has called on the United Nations to address the complicity of European countries in the war crimes committed by the United States and Israel during their war of aggression against the Islamic Republic.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260927-presstv09.htm",
+      "bloc": "western",
+      "date": "2026-09-27",
+      "datetime": "2026-09-27T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Pezeshkian: Iran 'no longer' trusts US after being attacked twice during talks",
       "summary": "Iranian President Masoud Pezeshkian says Tehran has lost faith in negotiating with the United States after earlier rounds of talks were disrupted by military strikes and sanctions against the Islamic Republic.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-09-25",
       "datetime": "2026-09-25T16:25:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Netanyahu Came to New York. New Yorkers Were Ready For Him.",
-      "summary": "Ella Fanger\n\n\n\nScenes from the defiant protest against the genocidal leader’s UN speech.\r\n\n\r\n\n\nThe post Netanyahu Came to New York. New Yorkers Were Ready For Him. appeared first on The Nation.",
-      "source": "Thenation.com",
-      "url": "https://www.thenation.com/article/activism/netanyahu-un-protest-dispatch/",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T15:52:04Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-28T13:20:06.599Z",
+  "ts": "2026-09-28T23:04:36.974Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 106,
-    "oilStress": 63,
-    "updatedAt": "2026-09-28T13:20:06.599Z"
+    "oilStress": 62,
+    "updatedAt": "2026-09-28T23:04:36.974Z"
   },
   "items": [
+    {
+      "headline": "Has prelude to World War III arrived? ‘Key players greatly underestimate the potential for disaster’",
+      "summary": "'There are nine nuclear weapons states, and nuclear weapons significantly constrain the freedom of action of the great powers'",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/09/has-prelude-world-war-iii-arrived-key-players/",
+      "bloc": "western",
+      "date": "2026-09-27",
+      "datetime": "2026-09-27T17:12:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Pushes for A Negotiated End to War After Trump Rejects Ceasefire Proposal",
+      "summary": "“There is no alternative to a negotiated solution,\" an Iranian foreign minister said.",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/news/iran-foreign-minister",
+      "bloc": "western",
+      "date": "2026-09-27",
+      "datetime": "2026-09-27T15:42:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran urges UN to address European states' complicity in US-Israeli aggression",
       "summary": "A senior Iranian diplomat has called on the United Nations to address the complicity of European countries in the war crimes committed by the United States and Israel during their war of aggression against the Islamic Republic.",
@@ -73,58 +125,6 @@
       "bloc": "western",
       "date": "2026-09-26",
       "datetime": "2026-09-26T10:15:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran offers to reopen Strait of Hormuz in 7 days if US lifts blockade, waives sanctions",
-      "summary": "The proposal comes amid renewed diplomatic contacts, continued tensions over shipping routes, oil markets, Lebanon and Iran’s nuclear programme",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-offers-to-reopen-strait-of-hormuz-in-7-days-if-us-lifts-blockade-waives-sanctions/article71510297.ece",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T18:42:18Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Proposes A Deal To Reopen Strait Of Hormuz In 7 Days If The U.S. Meets Its Conditions",
-      "summary": "Iran’s disruption of the strait has emerged as its main point of leverage. The effects have been felt far beyond the Middle East.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/iran-proposes-deal-reopen-strait-of-hormuz-7-days-us-meets-conditions_n_6ab69619e4b0bad9a6472b11",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T16:25:22Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

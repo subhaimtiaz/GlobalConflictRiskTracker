@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-29T12:26:26.602Z",
+  "ts": "2026-09-29T22:03:15.194Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 104,
-    "oilStress": 59,
-    "updatedAt": "2026-09-29T12:26:26.602Z"
+    "oilPrice": 103,
+    "oilStress": 57,
+    "updatedAt": "2026-09-29T22:03:15.194Z"
   },
   "items": [
     {
@@ -144,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran’s Dwindling Influence on Shipping",
+      "summary": "For decades, Iran’s clout was based on far more than missiles, proxies, or a nuclear file. It was about its ability to control shipping traffic through the Strait of Hormuz. Geographic location has given the regime significant strategic leverage and an abilit…",
+      "source": "Daily Signal",
+      "url": "https://www.dailysignal.com/2026/09/28/iran-dwindling-influence-shipping/",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T21:40:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Rejects Iran's Seven-Day Hormuz Reopening Plan as Mediators Still Seek a Deal This Week",
+      "summary": "President Donald Trump rejected Iran's proposal to reopen the Strait of Hormuz within seven days, while mediators continued efforts to resume talks and oil prices remained elevated.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/trump-rejects-iran-hormuz-reopening-plan-1875996",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T14:44:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Trump stonewalls Iran as U.S. helps double oil volume exiting the Persian Gulf, with the military now guiding ships through Hormuz in broad daylight",
       "summary": "Tanker Trackers estimated that the total amount of crude oil exiting the U.S. blockade line is now 13 million barrels per day.",
       "source": "Fortune",
@@ -218,58 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch",
-      "summary": "November WTI crude oil futures spent the week trading a possible reopening of the Strait of Hormuz against the risk that shipping conditions have not normalized. The contract fell to $88.67 Tuesday after reports that Iran could reopen the Strait within seven …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Hormuz-Hopes-Collide-With-Diesel-Crunch.html",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T13:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Slides As U.S.-Iran Truce Hopes Outweigh Houthi Attacks On Saudi Arabia",
-      "summary": "Iranian President Masoud Pezeshkian said it was up to the U.S. to choose when the Iran war will end.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/oil-prices-middle-east_n_6ab652a4e4b0a4e394058736",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T11:00:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -469,6 +469,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Standard Chartered: Record CTA Long Bets Are Capping Oil's Upside",
+      "summary": "Oil prices rebounded from their recent slide on fears of U.S.-Iran escalation after attempts at diplomacy yielded mixed results, with speeches by leaders on both sides laced with threats and belligerence. Brent crude for November delivery was up 1.70% to trad…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Record-CTA-Long-Bets-Are-Capping-Oils-Upside.html",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T22:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Current price of oil as of Sept. 28, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-09-28-2026/",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T15:42:49Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Bank of America Warns Oil Could Surge Above $150 a Barrel if Iran War Disruptions Persist",
       "summary": "Bank of America warned that oil prices could exceed $150 a barrel if inventories continue to deplete during the war in Iran, according to a note released to the media on Tuesday [1]. The bank raised its year-end forecast for Brent crude from $83 a barrel to $…",
       "source": "Naturalnews.com",
@@ -528,32 +580,6 @@
       "bloc": "western",
       "date": "2026-09-24",
       "datetime": "2026-09-24T10:41:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "If Hormuz Stays Shut, How High Can Exxon Go?",
-      "summary": "The Strait of Hormuz is closer to closed than open, yet crude just fell and Exxon barely stirred. Understanding that contradiction reveals exactly how much u...",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/23/if-hormuz-stays-shut-how-high-can-exxon-go/",
-      "bloc": "western",
-      "date": "2026-09-23",
-      "datetime": "2026-09-23T15:50:30Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

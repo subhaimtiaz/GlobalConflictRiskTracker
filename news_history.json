@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-29T12:25:21.260Z",
+  "updated": "2026-09-29T22:02:09.913Z",
   "retention_days": 30,
   "items": [
     {
@@ -9374,7 +9374,119 @@
       "_from": "newsapi",
       "first_seen": "2026-09-29T12:25:21.260Z",
       "run_id": "2026-09-29T12:25"
+    },
+    {
+      "headline": "Iran’s Dwindling Influence on Shipping",
+      "summary": "For decades, Iran’s clout was based on far more than missiles, proxies, or a nuclear file. It was about its ability to control shipping traffic through the Strait of Hormuz. Geographic location has given the regime significant strategic leverage and an abilit…",
+      "source": "Daily Signal",
+      "url": "https://www.dailysignal.com/2026/09/28/iran-dwindling-influence-shipping/",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T21:40:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-29T22:02:09.913Z",
+      "run_id": "2026-09-29T22:02"
+    },
+    {
+      "headline": "Trump Rejects Iran's Seven-Day Hormuz Reopening Plan as Mediators Still Seek a Deal This Week",
+      "summary": "President Donald Trump rejected Iran's proposal to reopen the Strait of Hormuz within seven days, while mediators continued efforts to resume talks and oil prices remained elevated.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/trump-rejects-iran-hormuz-reopening-plan-1875996",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T14:44:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-29T22:02:09.913Z",
+      "run_id": "2026-09-29T22:02"
+    },
+    {
+      "headline": "Standard Chartered: Record CTA Long Bets Are Capping Oil's Upside",
+      "summary": "Oil prices rebounded from their recent slide on fears of U.S.-Iran escalation after attempts at diplomacy yielded mixed results, with speeches by leaders on both sides laced with threats and belligerence. Brent crude for November delivery was up 1.70% to trad…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Record-CTA-Long-Bets-Are-Capping-Oils-Upside.html",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T22:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-29T22:02:09.913Z",
+      "run_id": "2026-09-29T22:02"
+    },
+    {
+      "headline": "Current price of oil as of Sept. 28, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-09-28-2026/",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T15:42:49Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-29T22:02:09.913Z",
+      "run_id": "2026-09-29T22:02"
     }
   ],
-  "total_items_ever": 3566
+  "total_items_ever": 3570
 }

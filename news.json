@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-28T23:04:36.974Z",
+  "ts": "2026-09-29T05:00:48.047Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 106,
-    "oilStress": 62,
-    "updatedAt": "2026-09-28T23:04:36.974Z"
+    "oilPrice": 107,
+    "oilStress": 64,
+    "updatedAt": "2026-09-29T05:00:48.047Z"
   },
   "items": [
     {
@@ -541,81 +541,6 @@
         "values"
       ],
       "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz Shuttles Keep Oil Flowing, But At a High Cost",
-      "summary": "A new shuttling system is reshaping the Middle East oil market, as producers seek to keep exports flowing despite the escalating regional conflict. The question now is whether this complex, expensive process is a stopgap measure or the global energy market’s …",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/hormuz-shuttles-keep-oil-flowing-but-at-a-high-cost/",
-      "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T16:38:06Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "After 6 months of war, US must prepare for a future after Iran’s government falls",
-      "summary": "The IRGC, Mojtaba Khamenei and Masoud Pezeshkian compete for power as Iran's Islamic Republic fights for survival amid escalating war and sanctions.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/opinion/after-6-months-war-us-must-prepare-future-after-irans-government-falls",
-      "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T09:00:55Z",
-      "leaders": [
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran IRGC regime"
-      ],
-      "dimensions": [
-        "survival",
-        "accountability"
-      ],
-      "variable_key": "iranRegimeCohesion",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Progressive Principles for a New US Foreign Policy",
-      "summary": "For many years, progressive movements and activists have longed for the moment when we could imagine a real foreign policy rooted in true internationalism and solidarity.But in our efforts to influence actual policy decisions, we’ve settled for important but …",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/opinion/what-does-progressive-foreign-policy-look-like",
-      "bloc": "western",
-      "date": "2026-09-21",
-      "datetime": "2026-09-21T11:23:22Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

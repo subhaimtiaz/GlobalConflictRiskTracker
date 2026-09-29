@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-09-29T04:59:42.798Z",
+  "updated": "2026-09-29T12:25:21.260Z",
   "retention_days": 30,
   "items": [
     {
@@ -9265,7 +9265,116 @@
       "_from": "newsapi",
       "first_seen": "2026-09-28T23:03:31.727Z",
       "run_id": "2026-09-28T23:03"
+    },
+    {
+      "headline": "New front will open if Iran is attacked again, Leader's advisor warns",
+      "summary": "If Iran is attacked by the United States again, the confrontation will expand to new fronts, says a senior advisor to the Leader of the Islamic Revolution, Ayatollah Seyyed Mojtaba Khamenei.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260928-presstv03.htm",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-29T12:25:21.260Z",
+      "run_id": "2026-09-29T12:25"
+    },
+    {
+      "headline": "Iran, US send mixed signals over talks to end war",
+      "summary": "Iran and the United States sent mixed signals on Sept. 28 over negotiations aimed at ending the war and reopening the Strait of Hormuz, as reports indicated that mediators were pressing Tehran to make certain concessions.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/iran-us-send-mixed-signals-over-talks-to-end-war-227469",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T11:35:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-29T12:25:21.260Z",
+      "run_id": "2026-09-29T12:25"
+    },
+    {
+      "headline": "North Korea issue dwarfed by more pressing concerns during Trump-Xi summit",
+      "summary": "U.S. President Donald Trump and Chinese President Xi Jinping discussed a wide range of issues during their summit in Washington last week, but Washington and Beijing offered few details about any discussion of North Korea, indicating that Pyongyang was not a …",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260928-rfa01.htm",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T12:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-29T12:25:21.260Z",
+      "run_id": "2026-09-29T12:25"
+    },
+    {
+      "headline": "The dilemma of space weaponization",
+      "summary": "The Space Force revealed earlier this month that it has \"space control\" weapons in orbit. Ajey Lele examines the implications that announcement has on efforts to prevent an arms race in outer space.",
+      "source": "The Space Review",
+      "url": "https://www.thespacereview.com/article/5322/1",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T11:57:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-09-29T12:25:21.260Z",
+      "run_id": "2026-09-29T12:25"
     }
   ],
-  "total_items_ever": 3562
+  "total_items_ever": 3566
 }

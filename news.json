@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-29T05:00:48.047Z",
+  "ts": "2026-09-29T12:26:26.602Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 107,
-    "oilStress": 64,
-    "updatedAt": "2026-09-29T05:00:48.047Z"
+    "oilPrice": 104,
+    "oilStress": 59,
+    "updatedAt": "2026-09-29T12:26:26.602Z"
   },
   "items": [
+    {
+      "headline": "New front will open if Iran is attacked again, Leader's advisor warns",
+      "summary": "If Iran is attacked by the United States again, the confrontation will expand to new fronts, says a senior advisor to the Leader of the Islamic Revolution, Ayatollah Seyyed Mojtaba Khamenei.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260928-presstv03.htm",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T12:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran, US send mixed signals over talks to end war",
+      "summary": "Iran and the United States sent mixed signals on Sept. 28 over negotiations aimed at ending the war and reopening the Strait of Hormuz, as reports indicated that mediators were pressing Tehran to make certain concessions.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/iran-us-send-mixed-signals-over-talks-to-end-war-227469",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T11:35:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Has prelude to World War III arrived? ‘Key players greatly underestimate the potential for disaster’",
       "summary": "'There are nine nuclear weapons states, and nuclear weapons significantly constrain the freedom of action of the great powers'",
@@ -92,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Pezeshkian: Iran 'no longer' trusts US after being attacked twice during talks",
-      "summary": "Iranian President Masoud Pezeshkian says Tehran has lost faith in negotiating with the United States after earlier rounds of talks were disrupted by military strikes and sanctions against the Islamic Republic.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260926-presstv06.htm",
+      "headline": "Trump stonewalls Iran as U.S. helps double oil volume exiting the Persian Gulf, with the military now guiding ships through Hormuz in broad daylight",
+      "summary": "Tanker Trackers estimated that the total amount of crude oil exiting the U.S. blockade line is now 13 million barrels per day.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/26/trump-iran-war-ceasefire-offer-oil-volume-persian-gulf-us-military-hormuz-daytime/",
       "bloc": "western",
       "date": "2026-09-26",
-      "datetime": "2026-09-26T12:00:00Z",
+      "datetime": "2026-09-26T19:40:53Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -125,32 +177,6 @@
       "bloc": "western",
       "date": "2026-09-26",
       "datetime": "2026-09-26T10:15:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump stonewalls Iran as U.S. helps double oil volume exiting the Persian Gulf, with the military now guiding ships through Hormuz in broad daylight",
-      "summary": "Tanker Trackers estimated that the total amount of crude oil exiting the U.S. blockade line is now 13 million barrels per day.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/26/trump-iran-war-ceasefire-offer-oil-volume-persian-gulf-us-military-hormuz-daytime/",
-      "bloc": "western",
-      "date": "2026-09-26",
-      "datetime": "2026-09-26T19:40:53Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -323,6 +349,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "North Korea issue dwarfed by more pressing concerns during Trump-Xi summit",
+      "summary": "U.S. President Donald Trump and Chinese President Xi Jinping discussed a wide range of issues during their summit in Washington last week, but Washington and Beijing offered few details about any discussion of North Korea, indicating that Pyongyang was not a …",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260928-rfa01.htm",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T12:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Trump Is Being Oddly Cozy With Xi Jinping",
       "summary": "Trump tends to make this mistake with authoritarians whose power he admires and envies.",
       "source": "Slate Magazine",
@@ -402,30 +452,6 @@
       "bloc": "western",
       "date": "2026-09-25",
       "datetime": "2026-09-25T05:42:25Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Welcomes China's Xi With Fanfare, But No Breakthroughs Emerge",
-      "summary": "The lavish summit was heavy on symbolism but light on substance.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-xi-china-summit_n_6ab5eabfe4b075a3d2853107",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T03:37:41Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -541,6 +567,31 @@
         "values"
       ],
       "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The dilemma of space weaponization",
+      "summary": "The Space Force revealed earlier this month that it has \"space control\" weapons in orbit. Ajey Lele examines the implications that announcement has on efforts to prevent an arms race in outer space.",
+      "source": "The Space Review",
+      "url": "https://www.thespacereview.com/article/5322/1",
+      "bloc": "western",
+      "date": "2026-09-28",
+      "datetime": "2026-09-28T11:57:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

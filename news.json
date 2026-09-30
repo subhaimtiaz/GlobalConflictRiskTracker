@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-30T12:11:32.017Z",
+  "ts": "2026-09-30T22:02:18.947Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 103,
+    "oilPrice": 104,
     "oilStress": 58,
-    "updatedAt": "2026-09-30T12:11:32.017Z"
+    "updatedAt": "2026-09-30T22:02:18.947Z"
   },
   "items": [
+    {
+      "headline": "US-Iran talks in New York: What’s the latest?",
+      "summary": "Both sides remain interested in a diplomatic settlement but differ on how to achieve one.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest",
+      "bloc": "regional",
+      "date": "2026-09-29",
+      "datetime": "2026-09-29T15:09:53Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "New front will open if Iran is attacked again, Leader's advisor warns",
       "summary": "If Iran is attacked by the United States again, the confrontation will expand to new fronts, says a senior advisor to the Leader of the Islamic Revolution, Ayatollah Seyyed Mojtaba Khamenei.",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran urges UN to address European states' complicity in US-Israeli aggression",
-      "summary": "A senior Iranian diplomat has called on the United Nations to address the complicity of European countries in the war crimes committed by the United States and Israel during their war of aggression against the Islamic Republic.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260927-presstv09.htm",
+      "headline": "Fog of War Deepens in Hormuz as Ship Attacks Go Unreported for Days",
+      "summary": "The maritime picture in the Strait of Hormuz is becoming harder to verify, with another delayed report of a vessel strike raising questions over how much of the fighting is...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/fog-of-war-deepens-in-hormuz-as-ship-attacks-go-unreported-for-days/",
       "bloc": "western",
-      "date": "2026-09-27",
-      "datetime": "2026-09-27T12:00:00Z",
+      "date": "2026-09-29",
+      "datetime": "2026-09-29T15:53:56Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Adds Nuclear Inspections to Hormuz Reopening Offer, But Strait Remains Closed on Crisis Day 208",
-      "summary": "Iran has offered access for nuclear inspectors as part of a seven-day plan to reopen the Strait of Hormuz, but shipping disruption, violence and diplomatic uncertainty persist.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/iran-offers-nuclear-inspections-reopen-strait-hormuz-1875869",
-      "bloc": "western",
-      "date": "2026-09-26",
-      "datetime": "2026-09-26T04:06:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -593,6 +593,56 @@
         "values"
       ],
       "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Militarizing the Final Frontier — How Space Became the New Battleground",
+      "summary": "Question: When we say “the militarization of space,” what exactly does that mean? What are countries actually doing up there? Dr. Joanna Rozpedowski: It is important to distinguish between the “militarization” and “weaponization” of space. Space has been mili…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/interview/militarizing-the-final-frontier-how-space-became-the-new-battleground/",
+      "bloc": "western",
+      "date": "2026-09-29",
+      "datetime": "2026-09-29T17:30:59Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. space weapons probably aren’t what you think",
+      "summary": "Elusive, satellite-stalking spacecraft could unleash space war—or help keep orbital peace",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/u-s-space-weapons-probably-arent-what-you-think/",
+      "bloc": "western",
+      "date": "2026-09-29",
+      "datetime": "2026-09-29T14:15:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

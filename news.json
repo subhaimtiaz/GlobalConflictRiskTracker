@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-30T22:02:18.947Z",
+  "ts": "2026-10-01T04:59:48.761Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 104,
-    "oilStress": 58,
-    "updatedAt": "2026-09-30T22:02:18.947Z"
+    "oilPrice": 97,
+    "oilStress": 48,
+    "updatedAt": "2026-10-01T04:59:48.761Z"
   },
   "items": [
     {
@@ -320,31 +320,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine War Entering 'Dangerous New Phase' as Attacks Intensify, Risk of Regional Spillover Grows, Political Affairs Chief Warns Security Council",
-      "summary": "Nearly five years into the war, the Russian Federation and Ukraine face a stark choice: a wider conflict or a deliberate turn towards peace, the United Nations political affairs chief told the Security Council today, urging renewed diplomatic efforts towards …",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260923-unsc01.htm",
-      "bloc": "western",
-      "date": "2026-09-23",
-      "datetime": "2026-09-23T12:00:00Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

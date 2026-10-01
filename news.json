@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-01T04:59:48.761Z",
+  "ts": "2026-10-01T12:45:51.572Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 97,
-    "oilStress": 48,
-    "updatedAt": "2026-10-01T04:59:48.761Z"
+    "oilPrice": 100,
+    "oilStress": 52,
+    "updatedAt": "2026-10-01T12:45:51.572Z"
   },
   "items": [
+    {
+      "headline": "Iran War: The Narrative War Over Hormuz, Meetings in NY, Abu Dhabi, Riyadh, London",
+      "summary": "The Trump 2.0 regime seems to be succeeding in its efforts to convince the oil markets that they have cracked open the Hormuz Strait and are escorting an ever-increasing amount of crude oil past the Iranian blockade. For their part, the Iranian claims to have…",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-the-narrative-war-over-hormuz-continues-big-meeting-in-uae.html",
+      "bloc": "western",
+      "date": "2026-09-30",
+      "datetime": "2026-09-30T10:00:19Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Saudi Arabia Restarts East-West Pipeline, Bypassing Strait of Hormuz",
+      "summary": "Saudi Arabia has resumed oil exports through its East-West pipeline, restoring access to Red Sea loading facilities that bypass the Strait of Hormuz, according to a Bloomberg report cited by ZeroHedge [1]. The restart coincides with Kpler data from late last …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-30-saudi-arabia-restarts-east-west-pipeline-bypassing-hormuz.html",
+      "bloc": "western",
+      "date": "2026-09-30",
+      "datetime": "2026-09-30T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran urges US voters to oust Trump's allies as American troops leave Iraq",
+      "summary": "The 26-page letter by the Guards, urges Americans to use their political power to remove current leaders from office and reject US support for Israel and military intervention abroad",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/iran-urges-us-voters-to-oust-trump-s-allies-as-american-troops-leave-iraq-126093000279_1.html",
+      "bloc": "western",
+      "date": "2026-09-30",
+      "datetime": "2026-09-30T05:15:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US-Iran talks in New York: What’s the latest?",
       "summary": "Both sides remain interested in a diplomatic settlement but differ on how to achieve one.",
@@ -62,84 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran, US send mixed signals over talks to end war",
-      "summary": "Iran and the United States sent mixed signals on Sept. 28 over negotiations aimed at ending the war and reopening the Strait of Hormuz, as reports indicated that mediators were pressing Tehran to make certain concessions.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/iran-us-send-mixed-signals-over-talks-to-end-war-227469",
-      "bloc": "western",
-      "date": "2026-09-28",
-      "datetime": "2026-09-28T11:35:04Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Has prelude to World War III arrived? ‘Key players greatly underestimate the potential for disaster’",
-      "summary": "'There are nine nuclear weapons states, and nuclear weapons significantly constrain the freedom of action of the great powers'",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/09/has-prelude-world-war-iii-arrived-key-players/",
-      "bloc": "western",
-      "date": "2026-09-27",
-      "datetime": "2026-09-27T17:12:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Pushes for A Negotiated End to War After Trump Rejects Ceasefire Proposal",
-      "summary": "“There is no alternative to a negotiated solution,\" an Iranian foreign minister said.",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/news/iran-foreign-minister",
-      "bloc": "western",
-      "date": "2026-09-27",
-      "datetime": "2026-09-27T15:42:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -229,32 +229,6 @@
       "bloc": "western",
       "date": "2026-09-26",
       "datetime": "2026-09-26T19:40:53Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Trump Rejects Iranian Offer, Saudi-Yemeni War On the Boil",
-      "summary": "Trump rejects Iranian ceasefire terms, threatens to attack in November. US casualty count continues to mount. The war between Saudi Arabia and Yemen continues to heat up.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-trump-rejects-iranian-offer-saudi-yemeni-war.html",
-      "bloc": "western",
-      "date": "2026-09-26",
-      "datetime": "2026-09-26T10:15:41Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

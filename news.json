@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-01T12:45:51.572Z",
+  "ts": "2026-10-01T22:30:05.441Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 100,
-    "oilStress": 52,
-    "updatedAt": "2026-10-01T12:45:51.572Z"
+    "oilPrice": 103,
+    "oilStress": 57,
+    "updatedAt": "2026-10-01T22:30:05.441Z"
   },
   "items": [
+    {
+      "headline": "Iran's nuclear program remains shrouded in mystery as the regime debates ditching non-proliferation",
+      "summary": "Iran's nuclear program is entering a critical phase as Tehran debates dropping out of a nuclear non-proliferation treaty. Satellite images also show activity at known nuclear sites.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/irans-nuclear-program-remains-shrouded-in-mystery-as-the-regime-debates-ditching-non-proliferation/a-79488197",
+      "bloc": "western",
+      "date": "2026-09-30",
+      "datetime": "2026-09-30T14:01:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran War: The Narrative War Over Hormuz, Meetings in NY, Abu Dhabi, Riyadh, London",
       "summary": "The Trump 2.0 regime seems to be succeeding in its efforts to convince the oil markets that they have cracked open the Hormuz Strait and are escorting an ever-increasing amount of crude oil past the Iranian blockade. For their part, the Iranian claims to have…",
@@ -92,54 +118,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US-Iran talks in New York: What’s the latest?",
-      "summary": "Both sides remain interested in a diplomatic settlement but differ on how to achieve one.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest",
-      "bloc": "regional",
-      "date": "2026-09-29",
-      "datetime": "2026-09-29T15:09:53Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "New front will open if Iran is attacked again, Leader's advisor warns",
-      "summary": "If Iran is attacked by the United States again, the confrontation will expand to new fronts, says a senior advisor to the Leader of the Islamic Revolution, Ayatollah Seyyed Mojtaba Khamenei.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260928-presstv03.htm",
+      "headline": "Iran Receives Official US Response to Its Offer to End the War as Three Ships Are Hit in Strait of Hormuz",
+      "summary": "Iran has received a US response to its proposal to end the war, while negotiations remain uncertain amid continued tensions in the Strait of Hormuz and new sanctions.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/iran-receives-us-response-war-end-proposal-1876104",
       "bloc": "western",
-      "date": "2026-09-28",
-      "datetime": "2026-09-28T12:00:00Z",
+      "date": "2026-09-30",
+      "datetime": "2026-09-30T16:19:19Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,32 +203,6 @@
       "bloc": "western",
       "date": "2026-09-28",
       "datetime": "2026-09-28T14:44:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump stonewalls Iran as U.S. helps double oil volume exiting the Persian Gulf, with the military now guiding ships through Hormuz in broad daylight",
-      "summary": "Tanker Trackers estimated that the total amount of crude oil exiting the U.S. blockade line is now 13 million barrels per day.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/26/trump-iran-war-ceasefire-offer-oil-volume-persian-gulf-us-military-hormuz-daytime/",
-      "bloc": "western",
-      "date": "2026-09-26",
-      "datetime": "2026-09-26T19:40:53Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

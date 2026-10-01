@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-01T12:44:46.231Z",
+  "updated": "2026-10-01T22:29:00.217Z",
   "retention_days": 30,
   "items": [
     {
@@ -8998,7 +8998,63 @@
       "_from": "newsapi",
       "first_seen": "2026-10-01T12:44:46.231Z",
       "run_id": "2026-10-01T12:44"
+    },
+    {
+      "headline": "Iran's nuclear program remains shrouded in mystery as the regime debates ditching non-proliferation",
+      "summary": "Iran's nuclear program is entering a critical phase as Tehran debates dropping out of a nuclear non-proliferation treaty. Satellite images also show activity at known nuclear sites.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/irans-nuclear-program-remains-shrouded-in-mystery-as-the-regime-debates-ditching-non-proliferation/a-79488197",
+      "bloc": "western",
+      "date": "2026-09-30",
+      "datetime": "2026-09-30T14:01:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-01T22:29:00.217Z",
+      "run_id": "2026-10-01T22:29"
+    },
+    {
+      "headline": "Iran Receives Official US Response to Its Offer to End the War as Three Ships Are Hit in Strait of Hormuz",
+      "summary": "Iran has received a US response to its proposal to end the war, while negotiations remain uncertain amid continued tensions in the Strait of Hormuz and new sanctions.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/iran-receives-us-response-war-end-proposal-1876104",
+      "bloc": "western",
+      "date": "2026-09-30",
+      "datetime": "2026-09-30T16:19:19Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-01T22:29:00.217Z",
+      "run_id": "2026-10-01T22:29"
     }
   ],
-  "total_items_ever": 3577
+  "total_items_ever": 3579
 }

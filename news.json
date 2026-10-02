@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-02T12:10:01.737Z",
+  "ts": "2026-10-02T21:59:46.509Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 100,
-    "oilStress": 52,
-    "updatedAt": "2026-10-02T12:10:01.737Z"
+    "oilPrice": 103,
+    "oilStress": 57,
+    "updatedAt": "2026-10-02T21:59:46.509Z"
   },
   "items": [
+    {
+      "headline": "Iran War Highlights 2 Challenges for Japan in a Taiwan Contingency",
+      "summary": "Japan can use the Iran war to reexamine its security framework, with particular attention to preparations for a contingency involving Taiwan.",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/10/iran-war-highlights-2-challenges-for-japan-in-a-taiwan-contingency/",
+      "bloc": "western",
+      "date": "2026-10-01",
+      "datetime": "2026-10-01T12:54:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Jared Kushner’s company has large stake in firm with Israeli military links | CNN",
       "summary": "At the same time Jared Kushner has negotiated in the war in Gaza, his company has held the largest stake in a firm backing businesses involved in Israel’s military campaigns.",
@@ -92,27 +118,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Saudi Arabia Restarts East-West Pipeline, Bypassing Strait of Hormuz",
-      "summary": "Saudi Arabia has resumed oil exports through its East-West pipeline, restoring access to Red Sea loading facilities that bypass the Strait of Hormuz, according to a Bloomberg report cited by ZeroHedge [1]. The restart coincides with Kpler data from late last …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-30-saudi-arabia-restarts-east-west-pipeline-bypassing-hormuz.html",
+      "headline": "Oil Is Again Flowing Out of Hormuz",
+      "summary": "But the continued shortfall of refined products means little relief at the pump.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/10/01/oil-strait-hormuz-iran-trump-war-gulf-gas-diesel-prices/",
       "bloc": "western",
-      "date": "2026-09-30",
-      "datetime": "2026-09-30T06:00:00Z",
+      "date": "2026-10-01",
+      "datetime": "2026-10-01T17:48:13Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -196,32 +222,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Rejects Iran's Seven-Day Hormuz Reopening Plan as Mediators Still Seek a Deal This Week",
-      "summary": "President Donald Trump rejected Iran's proposal to reopen the Strait of Hormuz within seven days, while mediators continued efforts to resume talks and oil prices remained elevated.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/trump-rejects-iran-hormuz-reopening-plan-1875996",
-      "bloc": "western",
-      "date": "2026-09-28",
-      "datetime": "2026-09-28T14:44:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Israel bans Arab parties from election: Who they are, why it matters",
       "summary": "Israeli politicians subject to ICC arrest warrants or international sanctions remain eligible to run.",
       "source": "Al Jazeera English",
@@ -238,6 +238,31 @@
       "dimensions": [
         "survival",
         "accountability",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+      "summary": "Putin warned the West he would deploy nuclear weapons if necessary to defend the Russian Baltic exclave of Kaliningrad.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow",
+      "bloc": "regional",
+      "date": "2026-10-01",
+      "datetime": "2026-10-01T21:33:15Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
         "narcissism"
       ],
       "variable_key": null,

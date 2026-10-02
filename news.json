@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-01T22:30:05.441Z",
+  "ts": "2026-10-02T04:49:53.705Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 103,
-    "oilStress": 57,
-    "updatedAt": "2026-10-01T22:30:05.441Z"
+    "oilPrice": 102,
+    "oilStress": 56,
+    "updatedAt": "2026-10-02T04:49:53.705Z"
   },
   "items": [
     {
@@ -470,58 +470,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "What the bond market is telling us as yields spike to 2-decade highs",
-      "summary": "Key bond yields are at their highest levels in decades, signaling deepening concerns about US fiscal health and demand for US government debt.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/bond-market-explained-higher-yields-spike-stock-market-impact-inflation-2026-9#article",
-      "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T14:41:16Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Dalal Street hit by crude fire, US yield surge, Nifty closes 1.64% lower at 23,063, Sensex lost 1,247 points",
-      "summary": "Sensex, Nifty, Share Prices Highlights: Indian equity markets witnessed sharp selling pressure on Thursday as rising US bond yields, renewed strength in crude oil prices and persistent geopolitical uncertainty weighed heavily on investor sentiment.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-24-september-2026/article71499498.ece",
-      "bloc": "western",
-      "date": "2026-09-24",
-      "datetime": "2026-09-24T10:41:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Militarizing the Final Frontier — How Space Became the New Battleground",
       "summary": "Question: When we say “the militarization of space,” what exactly does that mean? What are countries actually doing up there? Dr. Joanna Rozpedowski: It is important to distinguish between the “militarization” and “weaponization” of space. Space has been mili…",
       "source": "Fair Observer",
@@ -593,6 +541,29 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Taliban Tale: How Afghan Militants Survived Campaigns in 2006-16",
+      "summary": "Perhaps no country is as identified with the American war on terror that began twenty-five years ago than Afghanistan, its launchpad and the site of what is still the longest war in American history at the time of writing. September 2026 marks not only a quar…",
+      "source": "Muslimmatters.org",
+      "url": "https://muslimmatters.org/?p=96725&preview=true&preview_id=96725",
+      "bloc": "western",
+      "date": "2026-10-01",
+      "datetime": "2026-10-01T03:52:53Z",
+      "leaders": [],
+      "watch_terms": [
+        "general commander killed"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "personnel_killed",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

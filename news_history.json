@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-03T11:19:34.651Z",
+  "updated": "2026-10-03T15:57:27.242Z",
   "retention_days": 30,
   "items": [
     {
@@ -8327,7 +8327,35 @@
       "_from": "newsapi",
       "first_seen": "2026-10-02T21:58:41.302Z",
       "run_id": "2026-10-02T21:58"
+    },
+    {
+      "headline": "Saudi Arabia Once Counted on US Protection. Now It’s Pivoting to New Alliances",
+      "summary": "As Persian Gulf nations contended with the fallout from the Israel- U.S. war on Iran, Saudi Arabia has supercharged its military-focused diplomacy.",
+      "source": "Military.com",
+      "url": "https://military.com/saudi-arabia-once-counted-on-us-protection-now-its-pivoting-to-new-alliances",
+      "bloc": "western",
+      "date": "2026-10-02",
+      "datetime": "2026-10-02T13:53:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-03T15:57:27.241Z",
+      "run_id": "2026-10-03T15:57"
     }
   ],
-  "total_items_ever": 3584
+  "total_items_ever": 3585
 }

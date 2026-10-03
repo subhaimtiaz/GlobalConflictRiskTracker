@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-03T15:58:32.453Z",
+  "ts": "2026-10-03T20:48:25.414Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 57,
-    "updatedAt": "2026-10-03T15:58:32.453Z"
+    "updatedAt": "2026-10-03T20:48:25.414Z"
   },
   "items": [
     {
@@ -273,6 +273,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump's 'excursion into hell' commentary may come back to bite",
+      "summary": "What so many of the current major global conflicts have in common with the debacle in Iraq is their undefined, or sometimes not truthfully defined, missions.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-10-03/global-excursion-into-hell-bigger-expensive-iraq/107220592",
+      "bloc": "western",
+      "date": "2026-10-02",
+      "datetime": "2026-10-02T18:30:00Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
       "summary": "Putin warned the West he would deploy nuclear weapons if necessary to defend the Russian Baltic exclave of Kaliningrad.",
       "source": "Al Jazeera English",
@@ -315,6 +340,30 @@
         "survival",
         "impulsivity",
         "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "China widens military footprint with Laos air base",
+      "summary": "China recently opened its first overseas air force base in Laos to enhance military training and influence. The base will train Laotian air force pilots and potentially house Chinese military assets. This move reflects China's ambition to expand its military …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/china-widens-military-footprint-with-laos-air-base/articleshow/134643373.cms",
+      "bloc": "regional",
+      "date": "2026-10-02",
+      "datetime": "2026-10-02T16:35:08Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",

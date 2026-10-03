@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-03T15:57:27.242Z",
+  "updated": "2026-10-03T20:47:20.146Z",
   "retention_days": 30,
   "items": [
     {
@@ -8355,7 +8355,60 @@
       "_from": "newsapi",
       "first_seen": "2026-10-03T15:57:27.241Z",
       "run_id": "2026-10-03T15:57"
+    },
+    {
+      "headline": "Trump's 'excursion into hell' commentary may come back to bite",
+      "summary": "What so many of the current major global conflicts have in common with the debacle in Iraq is their undefined, or sometimes not truthfully defined, missions.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-10-03/global-excursion-into-hell-bigger-expensive-iraq/107220592",
+      "bloc": "western",
+      "date": "2026-10-02",
+      "datetime": "2026-10-02T18:30:00Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-03T20:47:20.146Z",
+      "run_id": "2026-10-03T20:47"
+    },
+    {
+      "headline": "China widens military footprint with Laos air base",
+      "summary": "China recently opened its first overseas air force base in Laos to enhance military training and influence. The base will train Laotian air force pilots and potentially house Chinese military assets. This move reflects China's ambition to expand its military …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/china-widens-military-footprint-with-laos-air-base/articleshow/134643373.cms",
+      "bloc": "regional",
+      "date": "2026-10-02",
+      "datetime": "2026-10-02T16:35:08Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-03T20:47:20.146Z",
+      "run_id": "2026-10-03T20:47"
     }
   ],
-  "total_items_ever": 3585
+  "total_items_ever": 3587
 }

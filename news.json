@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-02T21:59:46.509Z",
+  "ts": "2026-10-03T04:32:33.193Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 57,
-    "updatedAt": "2026-10-02T21:59:46.509Z"
+    "updatedAt": "2026-10-03T04:32:33.192Z"
   },
   "items": [
     {
@@ -321,102 +321,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Is Being Oddly Cozy With Xi Jinping",
-      "summary": "Trump tends to make this mistake with authoritarians whose power he admires and envies.",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/news-and-politics/2026/09/trump-news-us-china-xi-jinping.html",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T17:28:40Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Links 9/25/2026",
-      "summary": "Our shiny daily links, including Xi-Trump talks, forest management myth, neoliberal grid crisis, AI battles drive up healthcare costs, and Trump TV.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-25-2026.html",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T10:55:37Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump hosts Xi Jinping for state dinner and the guest list included Elon Musk and Sam Altman",
-      "summary": "Numerous US tech titans attended the banquet, underscoring that trade and artificial intelligence were high on the agenda for Xi’s visit.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/trump-xi-jinping-state-dinner-china-us-7173038-Sep2026/",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T06:24:01Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Inside Trump's glitzy state dinner with China's Xi attended by tech titans and DC's elite as details emerge about talks between two world leaders",
-      "summary": "The two world powers remain divided on the war in Iran and are still grappling to find common ground on trade and how to best navigate the jarring advances of artificial intelligence.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16159331/Inside-Donald-Trump-state-dinner-Xi-China.html",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T05:42:25Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Standard Chartered: Record CTA Long Bets Are Capping Oil's Upside",
       "summary": "Oil prices rebounded from their recent slide on fears of U.S.-Iran escalation after attempts at diplomacy yielded mixed results, with speeches by leaders on both sides laced with threats and belligerence. Brent crude for November delivery was up 1.70% to trad…",
       "source": "OilPrice.com",
@@ -450,32 +354,6 @@
       "bloc": "western",
       "date": "2026-09-28",
       "datetime": "2026-09-28T15:42:49Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Bank of America Warns Oil Could Surge Above $150 a Barrel if Iran War Disruptions Persist",
-      "summary": "Bank of America warned that oil prices could exceed $150 a barrel if inventories continue to deplete during the war in Iran, according to a note released to the media on Tuesday [1]. The bank raised its year-end forecast for Brent crude from $83 a barrel to $…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-25-bofa-warns-oil-surge-iran-war-disruptions.html",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T06:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -589,98 +467,6 @@
       "variable_key": null,
       "event_type": "personnel_killed",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine's largest steel plant to shutter amid recurring Russian strikes",
-      "summary": "Steelmaker ArcelorMittal said it was shutting production at Ukraine's largest steel plant, underscoring the growing economic toll of Russia's airstrikes that on ‌Friday killed seven people in Kyiv including a 14-year-old boy and injured more than 50.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/ukraine-steel-arcelormittal-shutdown-9.7359241",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T23:27:16Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Deadly New Strikes In Russia's War On Ukraine As Spillover Concerns Mount",
-      "summary": "Russia continued its pattern of relentless attacks on Kyiv overnight, killing at least seven people, including a 14-year-old boy, and injuring dozens more in a drone strike on an apartment building in the capital on September 25, Ukrainian authorities said.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260925-rferl01.htm",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T12:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Sensex today | Stock Market Highlights: Sensex gains 315 pts, Nifty ends at 23,140 as oil prices bite; Rupee closes at 95.80/$",
-      "summary": "Sensex, Nifty, Share Prices Highlights: Indian shares posted modest gains ⁠on Friday in a partial rebound after previous session's slide, but still logged their longest weekly losing streak in six years as high oil prices drove ‌up bond yields and inflationar…",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-25-september-2026/article71503684.ece",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T10:36:08Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia not preparing for conflict with Europe, Putin says",
-      "summary": "Russia is not preparing for \"any kind\" of conflict with Europe, President Vladimir Putin said, following warnings from some European NATO members of potential Russian attacks on the alliance's territory.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/2026/0925/1592910-ukraine-russia-putin/",
-      "bloc": "western",
-      "date": "2026-09-25",
-      "datetime": "2026-09-25T06:53:42Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     }

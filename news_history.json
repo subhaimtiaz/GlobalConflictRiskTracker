@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-05T14:02:02.018Z",
+  "updated": "2026-10-05T23:53:04.443Z",
   "retention_days": 30,
   "items": [
     {
@@ -8275,7 +8275,91 @@
       "_from": "newsapi",
       "first_seen": "2026-10-05T14:02:02.018Z",
       "run_id": "2026-10-05T14:02"
+    },
+    {
+      "headline": "Full transcript of \"Face the Nation with Margaret Brennan,\" Oct. 4, 2026",
+      "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Energy Secretary Chris Wright and Zach Lahn, Iowa GOP nominee for governor, join Margaret Brennan.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-10-04-2026/",
+      "bloc": "western",
+      "date": "2026-10-04",
+      "datetime": "2026-10-04T17:49:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-05T23:53:04.442Z",
+      "run_id": "2026-10-05T23:53"
+    },
+    {
+      "headline": "Transcript: Brett McGurk on \"Face the Nation with Margaret Brennan,\" Oct. 4, 2026",
+      "summary": "The following is the full transcript of the interview with Brett McGurk, who served as a top Middle East adviser to former Preident Joe Biden, a portion of which aired on \"Face the Nation with Margaret Brennan\" on Oct. 4, 2026.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/brett-mcgurk-face-the-nation-transcript-10-04-2026/",
+      "bloc": "western",
+      "date": "2026-10-04",
+      "datetime": "2026-10-04T15:16:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-05T23:53:04.442Z",
+      "run_id": "2026-10-05T23:53"
+    },
+    {
+      "headline": "No military solution to Middle East war, Iran tells US",
+      "summary": "Iran’s top diplomat says there is no military solution to its conflict with the US, insisting only negotiations can end the war focused on the Hormuz Strai\n\nRead More: https://punchng.com/no-military-solution-to-middle-east-war-iran-tells-us/",
+      "source": "The Punch",
+      "url": "https://punchng.com/no-military-solution-to-middle-east-war-iran-tells-us/",
+      "bloc": "western",
+      "date": "2026-10-04",
+      "datetime": "2026-10-04T19:21:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-05T23:53:04.442Z",
+      "run_id": "2026-10-05T23:53"
     }
   ],
-  "total_items_ever": 3594
+  "total_items_ever": 3597
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-05T14:03:07.299Z",
+  "ts": "2026-10-05T23:54:09.700Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 102,
-    "oilStress": 55,
-    "updatedAt": "2026-10-05T14:03:07.299Z"
+    "oilPrice": 100,
+    "oilStress": 53,
+    "updatedAt": "2026-10-05T23:54:09.700Z"
   },
   "items": [
+    {
+      "headline": "Full transcript of \"Face the Nation with Margaret Brennan,\" Oct. 4, 2026",
+      "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Energy Secretary Chris Wright and Zach Lahn, Iowa GOP nominee for governor, join Margaret Brennan.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-10-04-2026/",
+      "bloc": "western",
+      "date": "2026-10-04",
+      "datetime": "2026-10-04T17:49:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Transcript: Brett McGurk on \"Face the Nation with Margaret Brennan,\" Oct. 4, 2026",
+      "summary": "The following is the full transcript of the interview with Brett McGurk, who served as a top Middle East adviser to former Preident Joe Biden, a portion of which aired on \"Face the Nation with Margaret Brennan\" on Oct. 4, 2026.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/brett-mcgurk-face-the-nation-transcript-10-04-2026/",
+      "bloc": "western",
+      "date": "2026-10-04",
+      "datetime": "2026-10-04T15:16:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Saudi Arabia Once Counted on US Protection. Now It’s Pivoting to New Alliances",
       "summary": "As Persian Gulf nations contended with the fallout from the Israel- U.S. war on Iran, Saudi Arabia has supercharged its military-focused diplomacy.",
@@ -92,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran's nuclear program remains shrouded in mystery as the regime debates ditching non-proliferation",
-      "summary": "Iran's nuclear program is entering a critical phase as Tehran debates dropping out of a nuclear non-proliferation treaty. Satellite images also show activity at known nuclear sites.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/irans-nuclear-program-remains-shrouded-in-mystery-as-the-regime-debates-ditching-non-proliferation/a-79488197",
+      "headline": "No military solution to Middle East war, Iran tells US",
+      "summary": "Iran’s top diplomat says there is no military solution to its conflict with the US, insisting only negotiations can end the war focused on the Hormuz Strai\n\nRead More: https://punchng.com/no-military-solution-to-middle-east-war-iran-tells-us/",
+      "source": "The Punch",
+      "url": "https://punchng.com/no-military-solution-to-middle-east-war-iran-tells-us/",
       "bloc": "western",
-      "date": "2026-09-30",
-      "datetime": "2026-09-30T14:01:00Z",
+      "date": "2026-10-04",
+      "datetime": "2026-10-04T19:21:08Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 4,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -218,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthis target Saudi oil facility as hostilities escalate in Yemen",
-      "summary": "Yemen's Iran-aligned Houthis say they targeted a Saudi Arabian oil company in retaliation for Saudi attacks on Yemen.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-10-04/houthi-saudi-yemen-iraq-middle-east-hostilities/107226524",
-      "bloc": "western",
-      "date": "2026-10-03",
-      "datetime": "2026-10-03T22:40:11Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

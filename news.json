@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-04T21:03:42.649Z",
+  "ts": "2026-10-05T04:49:51.899Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 103,
-    "oilStress": 57,
-    "updatedAt": "2026-10-04T21:03:42.649Z"
+    "oilPrice": 102,
+    "oilStress": 55,
+    "updatedAt": "2026-10-05T04:49:51.899Z"
   },
   "items": [
     {
@@ -118,6 +118,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Houthis target Saudi oil facility as hostilities escalate in Yemen",
+      "summary": "Yemen's Iran-aligned Houthis say they targeted a Saudi Arabian oil company in retaliation for Saudi attacks on Yemen.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-10-04/houthi-saudi-yemen-iraq-middle-east-hostilities/107226524",
+      "bloc": "western",
+      "date": "2026-10-03",
+      "datetime": "2026-10-03T22:40:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Oil Is Again Flowing Out of Hormuz",
       "summary": "But the continued shortfall of refined products means little relief at the pump.",
       "source": "Foreign Policy",
@@ -218,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran’s Dwindling Influence on Shipping",
-      "summary": "For decades, Iran’s clout was based on far more than missiles, proxies, or a nuclear file. It was about its ability to control shipping traffic through the Strait of Hormuz. Geographic location has given the regime significant strategic leverage and an abilit…",
-      "source": "Daily Signal",
-      "url": "https://www.dailysignal.com/2026/09/28/iran-dwindling-influence-shipping/",
-      "bloc": "western",
-      "date": "2026-09-28",
-      "datetime": "2026-09-28T21:40:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-05T23:54:09.700Z",
+  "ts": "2026-10-06T05:36:55.317Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 100,
-    "oilStress": 53,
-    "updatedAt": "2026-10-05T23:54:09.700Z"
+    "oilPrice": 101,
+    "oilStress": 54,
+    "updatedAt": "2026-10-06T05:36:55.317Z"
   },
   "items": [
     {
@@ -349,6 +349,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Taiwan Isn’t the Flashpoint for War that Analysts Say It Is",
+      "summary": "Washington and Beijing have managed the difficult issue much better than you might realize.\nThe post Taiwan Isn’t the Flashpoint for War that Analysts Say It Is appeared first on The American Conservative.",
+      "source": "The American Conservative",
+      "url": "https://www.theamericanconservative.com/taiwan-isnt-the-flashpoint-for-war-that-analysts-say-it-is/",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T04:05:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "What a US-China thaw could cost India",
       "summary": "In New Delhi’s eyes, the recent Xi–Trump summit was about much more than trade and tariffs Read Full Article at RT.com",
       "source": "RT",
@@ -397,82 +421,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "North Korea issue dwarfed by more pressing concerns during Trump-Xi summit",
-      "summary": "U.S. President Donald Trump and Chinese President Xi Jinping discussed a wide range of issues during their summit in Washington last week, but Washington and Beijing offered few details about any discussion of North Korea, indicating that Pyongyang was not a …",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260928-rfa01.htm",
-      "bloc": "western",
-      "date": "2026-09-28",
-      "datetime": "2026-09-28T12:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Standard Chartered: Record CTA Long Bets Are Capping Oil's Upside",
-      "summary": "Oil prices rebounded from their recent slide on fears of U.S.-Iran escalation after attempts at diplomacy yielded mixed results, with speeches by leaders on both sides laced with threats and belligerence. Brent crude for November delivery was up 1.70% to trad…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Record-CTA-Long-Bets-Are-Capping-Oils-Upside.html",
-      "bloc": "western",
-      "date": "2026-09-28",
-      "datetime": "2026-09-28T22:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of Sept. 28, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-09-28-2026/",
-      "bloc": "western",
-      "date": "2026-09-28",
-      "datetime": "2026-09-28T15:42:49Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Militarizing the Final Frontier — How Space Became the New Battleground",
       "summary": "Question: When we say “the militarization of space,” what exactly does that mean? What are countries actually doing up there? Dr. Joanna Rozpedowski: It is important to distinguish between the “militarization” and “weaponization” of space. Space has been mili…",
       "source": "Fair Observer",
@@ -505,31 +453,6 @@
       "bloc": "western",
       "date": "2026-09-29",
       "datetime": "2026-09-29T14:15:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The dilemma of space weaponization",
-      "summary": "The Space Force revealed earlier this month that it has \"space control\" weapons in orbit. Ajey Lele examines the implications that announcement has on efforts to prevent an arms race in outer space.",
-      "source": "The Space Review",
-      "url": "https://www.thespacereview.com/article/5322/1",
-      "bloc": "western",
-      "date": "2026-09-28",
-      "datetime": "2026-09-28T11:57:00Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

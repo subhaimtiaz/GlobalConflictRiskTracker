@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-06T05:35:50.105Z",
+  "updated": "2026-10-06T13:01:32.441Z",
   "retention_days": 30,
   "items": [
     {
@@ -8189,7 +8189,142 @@
       "_from": "newsapi",
       "first_seen": "2026-10-06T05:35:50.105Z",
       "run_id": "2026-10-06T05:35"
+    },
+    {
+      "headline": "After 47 years of confronting Iran, does America have a strategy for ending this war?",
+      "summary": "Trump told the United Nations Iran must make a deal or face destruction, but seven months of war have yet to produce a clear political end state.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/after-47-years-confronting-iran-does-america-have-strategy-ending-war",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T11:00:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-06T13:01:32.441Z",
+      "run_id": "2026-10-06T13:01"
+    },
+    {
+      "headline": "US warships have ‘fled’ Strait of Hormuz – IRGC",
+      "summary": "Iran’s IRGC says US warships withdrew from the Strait of Hormuz and nearby waters as the naval blockade and diplomatic deadlock continue Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/646746-iran-us-flee-waters/",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T12:48:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-06T13:01:32.441Z",
+      "run_id": "2026-10-06T13:01"
+    },
+    {
+      "headline": "How to Fix Our Global Malaise",
+      "summary": "Focusing on local communities can have a surprising international effect.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/10/05/global-malaise-international-order-economics-civic-life-hope-citizenship-community/",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T08:00:16Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-06T13:01:32.441Z",
+      "run_id": "2026-10-06T13:01"
+    },
+    {
+      "headline": "Gasoline-Only Vehicles Fall Below Half of Global New Car Sales for First Time on Record Amid Fuel Price Shock",
+      "summary": "Gasoline-only vehicles fell below half of global new vehicle sales for the first time on record, according to Mobility Global data cited by Nikkei Asia. Between January and June, sales of gas-powered vehicles excluding hybrids fell 10% from a year earlier to …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-05-gasoline-vehicles-fall-global-new-car-purchases.html",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-06T13:01:32.441Z",
+      "run_id": "2026-10-06T13:01"
+    },
+    {
+      "headline": "Ukraine claims its attacks have taken out more than half of Russia's oil refining capacity",
+      "summary": "Ukraine claims its attacks have taken out more than half of Russia's oil refining capacityclickondetroit.com",
+      "source": "WDIV ClickOnDetroit",
+      "url": "https://www.clickondetroit.com/business/2026/10/05/ukraine-claims-its-attacks-have-taken-out-more-than-half-of-russias-oil-refining-capacity/",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T10:13:27Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-06T13:01:32.441Z",
+      "run_id": "2026-10-06T13:01"
     }
   ],
-  "total_items_ever": 3598
+  "total_items_ever": 3603
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-06T13:02:37.688Z",
+  "ts": "2026-10-06T22:31:17.802Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 98,
-    "oilStress": 49,
-    "updatedAt": "2026-10-06T13:02:37.688Z"
+    "oilPrice": 101,
+    "oilStress": 54,
+    "updatedAt": "2026-10-06T22:31:17.802Z"
   },
   "items": [
+    {
+      "headline": "Three years after October 7, global attention on Gaza has receded. The real test will come after Israel’s election",
+      "summary": "A small but vocal global campaign has maintained pressure on Israel, but will this hold if a less extreme government is elected?",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/three-years-after-october-7-global-attention-on-gaza-has-receded-the-real-test-will-come-after-israels-election-292360",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T19:09:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "After 47 years of confronting Iran, does America have a strategy for ending this war?",
       "summary": "Trump told the United Nations Iran must make a deal or face destruction, but seven months of war have yet to produce a clear political end state.",
@@ -118,27 +144,79 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War Highlights 2 Challenges for Japan in a Taiwan Contingency",
-      "summary": "Japan can use the Iran war to reexamine its security framework, with particular attention to preparations for a contingency involving Taiwan.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/10/iran-war-highlights-2-challenges-for-japan-in-a-taiwan-contingency/",
+      "headline": "Five Hormuz Incidents Reported Monday as Tanker Attacks Mount",
+      "summary": "UK Maritime Trade Operations reported five separate incidents involving commercial shipping in or near the Strait of Hormuz on Monday, including four tanker attacks and an incident in which Iran’s...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/five-hormuz-incidents-reported-monday-as-tanker-attacks-mount/",
       "bloc": "western",
-      "date": "2026-10-01",
-      "datetime": "2026-10-01T12:54:00Z",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T22:28:14Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics",
+      "summary": "Middle East crude exports recently climbed to their highest levels since the start of the Iran war as more Gulf producers resume transit through the Strait of Hormuz – despite the continued threat of Iranian attacks. Yet oil prices remain stubbornly elevated,…",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/opinion-oils-new-problem-isnt-supply-its-logistics/",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T16:13:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+      "summary": "Crude exports bypassing Hormuz surged in September, yet oil prices remain high. Could a secret fee be the reason?",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz",
+      "bloc": "regional",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T13:11:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -151,110 +229,6 @@
       "bloc": "western",
       "date": "2026-10-05",
       "datetime": "2026-10-05T12:48:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "No military solution to Middle East war, Iran tells US",
-      "summary": "Iran’s top diplomat says there is no military solution to its conflict with the US, insisting only negotiations can end the war focused on the Hormuz Strai\n\nRead More: https://punchng.com/no-military-solution-to-middle-east-war-iran-tells-us/",
-      "source": "The Punch",
-      "url": "https://punchng.com/no-military-solution-to-middle-east-war-iran-tells-us/",
-      "bloc": "western",
-      "date": "2026-10-04",
-      "datetime": "2026-10-04T19:21:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
-      "summary": "Tehran's conditions include a halt to U.S. \"acts of aggression,\" an end to the naval blockade  and economic warfare, and the release of Iranian assets.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
-      "bloc": "western",
-      "date": "2026-10-04",
-      "datetime": "2026-10-04T12:03:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran tells US there is no military solution to Middle East war",
-      "summary": "TEHRAN: Iran's top diplomat insisted on Sunday (Oct 4) that there would be no military solution to the United States' war against the Islamic Republic, with talks on ending the conflict apparently at an impasse.A cam",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/iran-us-war-middle-east-no-military-solution-6430636",
-      "bloc": "western",
-      "date": "2026-10-04",
-      "datetime": "2026-10-04T10:12:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Team Trump at Camp David, Iran Flexes, Riyadh Burns",
-      "summary": "POTUS Trump met with his war council at Camp David this weekend as Iran flexed new missile capabilities and the Saudis and Ansar Allah exchanged hits on one another's capital cities.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/10/iran-war-trump-camp-david-iran-missile-test-ansar-allah-riyadh-hit.html",
-      "bloc": "western",
-      "date": "2026-10-04",
-      "datetime": "2026-10-04T10:07:44Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -471,6 +445,56 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Militarizing the Final Frontier — How Space Became the New Battleground",
+      "summary": "Question: When we say “the militarization of space,” what exactly does that mean? What are countries actually doing up there? Dr. Joanna Rozpedowski: It is important to distinguish between the “militarization” and “weaponization” of space. Space has been mili…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/interview/militarizing-the-final-frontier-how-space-became-the-new-battleground/",
+      "bloc": "western",
+      "date": "2026-09-29",
+      "datetime": "2026-09-29T17:30:59Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. space weapons probably aren’t what you think",
+      "summary": "Elusive, satellite-stalking spacecraft could unleash space war—or help keep orbital peace",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/u-s-space-weapons-probably-arent-what-you-think/",
+      "bloc": "western",
+      "date": "2026-09-29",
+      "datetime": "2026-09-29T14:15:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Taliban Tale: How Afghan Militants Survived Campaigns in 2006-16",
       "summary": "Perhaps no country is as identified with the American war on terror that began twenty-five years ago than Afghanistan, its launchpad and the site of what is still the longest war in American history at the time of writing. September 2026 marks not only a quar…",
       "source": "Muslimmatters.org",
@@ -490,6 +514,52 @@
       "variable_key": null,
       "event_type": "personnel_killed",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "summary": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T15:17:23Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Russian guided bombs kill three in Kharkiv with one wounded factory worker left with a nail in his head",
+      "summary": "A Russian-guided bomb attack on Ukraine's northeastern city of Kharkiv on Monday has killed three people and injured 29 more.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16184297/Russian-guided-bombs-kill-three-Kharkiv-one-wounded-factory-worker-left-nail-head.html",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T14:45:42Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

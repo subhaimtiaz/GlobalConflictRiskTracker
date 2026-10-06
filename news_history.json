@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-06T13:01:32.441Z",
+  "updated": "2026-10-06T22:30:12.589Z",
   "retention_days": 30,
   "items": [
     {
@@ -8324,7 +8324,169 @@
       "_from": "newsapi",
       "first_seen": "2026-10-06T13:01:32.441Z",
       "run_id": "2026-10-06T13:01"
+    },
+    {
+      "headline": "Three years after October 7, global attention on Gaza has receded. The real test will come after Israel’s election",
+      "summary": "A small but vocal global campaign has maintained pressure on Israel, but will this hold if a less extreme government is elected?",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/three-years-after-october-7-global-attention-on-gaza-has-receded-the-real-test-will-come-after-israels-election-292360",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T19:09:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-06T22:30:12.589Z",
+      "run_id": "2026-10-06T22:30"
+    },
+    {
+      "headline": "Five Hormuz Incidents Reported Monday as Tanker Attacks Mount",
+      "summary": "UK Maritime Trade Operations reported five separate incidents involving commercial shipping in or near the Strait of Hormuz on Monday, including four tanker attacks and an incident in which Iran’s...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/five-hormuz-incidents-reported-monday-as-tanker-attacks-mount/",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T22:28:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-06T22:30:12.589Z",
+      "run_id": "2026-10-06T22:30"
+    },
+    {
+      "headline": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics",
+      "summary": "Middle East crude exports recently climbed to their highest levels since the start of the Iran war as more Gulf producers resume transit through the Strait of Hormuz – despite the continued threat of Iranian attacks. Yet oil prices remain stubbornly elevated,…",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/opinion-oils-new-problem-isnt-supply-its-logistics/",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T16:13:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-06T22:30:12.589Z",
+      "run_id": "2026-10-06T22:30"
+    },
+    {
+      "headline": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+      "summary": "Crude exports bypassing Hormuz surged in September, yet oil prices remain high. Could a secret fee be the reason?",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz",
+      "bloc": "regional",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T13:11:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-06T22:30:12.589Z",
+      "run_id": "2026-10-06T22:30"
+    },
+    {
+      "headline": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "summary": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T15:17:23Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-06T22:30:12.589Z",
+      "run_id": "2026-10-06T22:30"
+    },
+    {
+      "headline": "Russian guided bombs kill three in Kharkiv with one wounded factory worker left with a nail in his head",
+      "summary": "A Russian-guided bomb attack on Ukraine's northeastern city of Kharkiv on Monday has killed three people and injured 29 more.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16184297/Russian-guided-bombs-kill-three-Kharkiv-one-wounded-factory-worker-left-nail-head.html",
+      "bloc": "western",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T14:45:42Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-06T22:30:12.589Z",
+      "run_id": "2026-10-06T22:30"
     }
   ],
-  "total_items_ever": 3603
+  "total_items_ever": 3609
 }

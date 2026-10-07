@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-06T22:31:17.802Z",
+  "ts": "2026-10-07T05:07:01.934Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 101,
-    "oilStress": 54,
-    "updatedAt": "2026-10-06T22:31:17.802Z"
+    "oilPrice": 102,
+    "oilStress": 55,
+    "updatedAt": "2026-10-07T05:07:01.934Z"
   },
   "items": [
+    {
+      "headline": "Why America's Gulf Allies Are Rethinking Aid - And Why It Matters",
+      "summary": "As the current conflict in the Gulf grinds on without resolution, pressure is mounting not just on defense systems, but also on aid budgets. Arab Gulf state aid budgets have historically been important alongside those from the European Union, United Kingdom, …",
+      "source": "Hoover.org",
+      "url": "https://www.hoover.org/research/why-americas-gulf-allies-are-rethinking-aid-and-why-it-matters",
+      "bloc": "western",
+      "date": "2026-10-06",
+      "datetime": "2026-10-06T00:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Three years after October 7, global attention on Gaza has receded. The real test will come after Israel’s election",
       "summary": "A small but vocal global campaign has maintained pressure on Israel, but will this hold if a less extreme government is elected?",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-10-04",
       "datetime": "2026-10-04T15:16:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Arabia Once Counted on US Protection. Now It’s Pivoting to New Alliances",
-      "summary": "As Persian Gulf nations contended with the fallout from the Israel- U.S. war on Iran, Saudi Arabia has supercharged its military-focused diplomacy.",
-      "source": "Military.com",
-      "url": "https://military.com/saudi-arabia-once-counted-on-us-protection-now-its-pivoting-to-new-alliances",
-      "bloc": "western",
-      "date": "2026-10-02",
-      "datetime": "2026-10-02T13:53:45Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -445,56 +445,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Militarizing the Final Frontier — How Space Became the New Battleground",
-      "summary": "Question: When we say “the militarization of space,” what exactly does that mean? What are countries actually doing up there? Dr. Joanna Rozpedowski: It is important to distinguish between the “militarization” and “weaponization” of space. Space has been mili…",
-      "source": "Fair Observer",
-      "url": "https://www.fairobserver.com/interview/militarizing-the-final-frontier-how-space-became-the-new-battleground/",
-      "bloc": "western",
-      "date": "2026-09-29",
-      "datetime": "2026-09-29T17:30:59Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. space weapons probably aren’t what you think",
-      "summary": "Elusive, satellite-stalking spacecraft could unleash space war—or help keep orbital peace",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/u-s-space-weapons-probably-arent-what-you-think/",
-      "bloc": "western",
-      "date": "2026-09-29",
-      "datetime": "2026-09-29T14:15:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Taliban Tale: How Afghan Militants Survived Campaigns in 2006-16",
       "summary": "Perhaps no country is as identified with the American war on terror that began twenty-five years ago than Afghanistan, its launchpad and the site of what is still the longest war in American history at the time of writing. September 2026 marks not only a quar…",
       "source": "Muslimmatters.org",
@@ -514,6 +464,29 @@
       "variable_key": null,
       "event_type": "personnel_killed",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ukraine claims to have taken out more than half of Russia's oil refining capacity",
+      "summary": "Ukraine said long-range strikes have put more than half of Russia’s oil refining capacity out of action",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/ukraine-claims-half-russias-oil-refining-capacity-136996327",
+      "bloc": "western",
+      "date": "2026-10-06",
+      "datetime": "2026-10-06T02:21:53Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

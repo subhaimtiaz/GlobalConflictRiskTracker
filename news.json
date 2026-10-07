@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-07T05:07:01.934Z",
+  "ts": "2026-10-07T12:57:00.303Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 102,
     "oilStress": 55,
-    "updatedAt": "2026-10-07T05:07:01.934Z"
+    "updatedAt": "2026-10-07T12:57:00.303Z"
   },
   "items": [
+    {
+      "headline": "Pakistan, Turkey deploy troops to Saudi Arabia under Mecca Defense Pact as Yemen forces retake key port",
+      "summary": "Saudi Arabia, Turkey and Pakistan activated the Mecca Defense Pact on Monday, agreeing to rapid troop deployment to counter Houthi attacks. Saudi-backed Yemeni government forces retook the port city of Mokha and secured areas around the strategic Bab al-Mande…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-06-pakistan-turkey-deploy-troops-to-saudi-arabia.html",
+      "bloc": "western",
+      "date": "2026-10-06",
+      "datetime": "2026-10-06T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Why America's Gulf Allies Are Rethinking Aid - And Why It Matters",
       "summary": "As the current conflict in the Gulf grinds on without resolution, pressure is mounting not just on defense systems, but also on aid budgets. Arab Gulf state aid budgets have historically been important alongside those from the European Union, United Kingdom, …",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Transcript: Brett McGurk on \"Face the Nation with Margaret Brennan,\" Oct. 4, 2026",
-      "summary": "The following is the full transcript of the interview with Brett McGurk, who served as a top Middle East adviser to former Preident Joe Biden, a portion of which aired on \"Face the Nation with Margaret Brennan\" on Oct. 4, 2026.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/brett-mcgurk-face-the-nation-transcript-10-04-2026/",
+      "headline": "At Least 50 Iranian Tankers Are Stuck in the Gulf as U.S. Blockade Holds",
+      "summary": "The U.S. blockade on Iranian oil exports has so far stranded at least 50 Iranian tankers laden with oil inside the Persian Gulf near Iran’s coastline, U.S.-based non-profit and non-partisan policy organization United Against Nuclear Iran (UANI) said in its la…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/At-Least-50-Iranian-Tankers-Are-Stuck-in-the-Gulf-as-US-Blockade-Holds.html",
       "bloc": "western",
-      "date": "2026-10-04",
-      "datetime": "2026-10-04T15:16:20Z",
+      "date": "2026-10-06",
+      "datetime": "2026-10-06T09:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -203,32 +229,6 @@
       "bloc": "regional",
       "date": "2026-10-05",
       "datetime": "2026-10-05T13:11:42Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US warships have ‘fled’ Strait of Hormuz – IRGC",
-      "summary": "Iran’s IRGC says US warships withdrew from the Strait of Hormuz and nearby waters as the naval blockade and diplomatic deadlock continue Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/646746-iran-us-flee-waters/",
-      "bloc": "western",
-      "date": "2026-10-05",
-      "datetime": "2026-10-05T12:48:28Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -439,6 +439,31 @@
         "values"
       ],
       "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Transcript: Brett McGurk on \"Face the Nation with Margaret Brennan,\" Oct. 4, 2026",
+      "summary": "The following is the full transcript of the interview with Brett McGurk, who served as a top Middle East adviser to former Preident Joe Biden, a portion of which aired on \"Face the Nation with Margaret Brennan\" on Oct. 4, 2026.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/brett-mcgurk-face-the-nation-transcript-10-04-2026/",
+      "bloc": "western",
+      "date": "2026-10-04",
+      "datetime": "2026-10-04T15:16:20Z",
+      "leaders": [
+        "Donald J. Trump",
+        "Mojtaba Khamenei"
+      ],
+      "watch_terms": [
+        "Iran US diplomacy"
+      ],
+      "dimensions": [
+        "values",
+        "survival"
+      ],
+      "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

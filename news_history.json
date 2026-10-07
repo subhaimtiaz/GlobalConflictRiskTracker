@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-07T05:05:56.735Z",
+  "updated": "2026-10-07T12:55:55.071Z",
   "retention_days": 30,
   "items": [
     {
@@ -8206,7 +8206,63 @@
       "_from": "newsapi",
       "first_seen": "2026-10-07T05:05:56.735Z",
       "run_id": "2026-10-07T05:05"
+    },
+    {
+      "headline": "Pakistan, Turkey deploy troops to Saudi Arabia under Mecca Defense Pact as Yemen forces retake key port",
+      "summary": "Saudi Arabia, Turkey and Pakistan activated the Mecca Defense Pact on Monday, agreeing to rapid troop deployment to counter Houthi attacks. Saudi-backed Yemeni government forces retook the port city of Mokha and secured areas around the strategic Bab al-Mande…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-06-pakistan-turkey-deploy-troops-to-saudi-arabia.html",
+      "bloc": "western",
+      "date": "2026-10-06",
+      "datetime": "2026-10-06T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-07T12:55:55.071Z",
+      "run_id": "2026-10-07T12:55"
+    },
+    {
+      "headline": "At Least 50 Iranian Tankers Are Stuck in the Gulf as U.S. Blockade Holds",
+      "summary": "The U.S. blockade on Iranian oil exports has so far stranded at least 50 Iranian tankers laden with oil inside the Persian Gulf near Iran’s coastline, U.S.-based non-profit and non-partisan policy organization United Against Nuclear Iran (UANI) said in its la…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/At-Least-50-Iranian-Tankers-Are-Stuck-in-the-Gulf-as-US-Blockade-Holds.html",
+      "bloc": "western",
+      "date": "2026-10-06",
+      "datetime": "2026-10-06T09:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-07T12:55:55.071Z",
+      "run_id": "2026-10-07T12:55"
     }
   ],
-  "total_items_ever": 3611
+  "total_items_ever": 3613
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-07T22:55:06.985Z",
+  "ts": "2026-10-08T05:17:41.271Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 101,
-    "oilStress": 54,
-    "updatedAt": "2026-10-07T22:55:06.985Z"
+    "oilPrice": 102,
+    "oilStress": 56,
+    "updatedAt": "2026-10-08T05:17:41.271Z"
   },
   "items": [
+    {
+      "headline": "Yemen is spiralling into another civil war that could swiftly engulf in the entire region",
+      "summary": "Turkey and Pakistan are poised to send troops to Saudi Arabia, but so far the Trump administration has avoided getting involved.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/yemen-is-spiralling-into-another-civil-war-that-could-swiftly-engulf-in-the-entire-region-293104",
+      "bloc": "western",
+      "date": "2026-10-07",
+      "datetime": "2026-10-07T02:49:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The day the fault lines cracked: October 7’s aftershocks travelled from Israel and Gaza to Iran, Red Sea and $100 oil",
       "summary": "It started at the Gaza border. Then came Hezbollah, Houthi attacks, rerouted ships, an Israel-Iran war, American strikes and an oil shock. Three years after October 7, the Middle East’s fault lines have cracked open far beyond where the first shots were fired.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-10-05",
       "datetime": "2026-10-05T19:09:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "After 47 years of confronting Iran, does America have a strategy for ending this war?",
-      "summary": "Trump told the United Nations Iran must make a deal or face destruction, but seven months of war have yet to produce a clear political end state.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/opinion/after-47-years-confronting-iran-does-america-have-strategy-ending-war",
-      "bloc": "western",
-      "date": "2026-10-05",
-      "datetime": "2026-10-05T11:00:33Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -414,6 +414,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why $100 Oil Is Hard to Kill",
+      "summary": "Brent Crude oil prices have held above $100 per barrel for most of the past month despite numerous reports and figures put out in recent weeks by tanker-tracking services and investment banks that crude oil flows from the Strait of Hormuz have recovered, and …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
+      "bloc": "western",
+      "date": "2026-10-07",
+      "datetime": "2026-10-07T00:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

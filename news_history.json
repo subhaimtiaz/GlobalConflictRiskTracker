@@ -1,285 +1,8 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-07T22:54:01.770Z",
+  "updated": "2026-10-08T05:16:36.054Z",
   "retention_days": 30,
   "items": [
-    {
-      "headline": "Oil extends gains after US and Iran strike ships",
-      "summary": "Oil prices experienced a significant rise on Monday, following a spike in tensions between the US and Iran. The US struck three Iranian oil tankers in a bold move, while Iran responded by targeting US vessels. Maritime intelligence highlighted an alarming esc…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-extends-gains-after-us-and-iran-strike-ships/articleshow/133859487.cms",
-      "bloc": "regional",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T02:07:15Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-08T03:46:59.190Z",
-      "run_id": "2026-09-08T03:46"
-    },
-    {
-      "headline": "The \"genocide\" LIE (2026 Update)",
-      "summary": "[Updated frequently]The genocide lieThe \"Genocide\" lie isn't a debate over facts—it's a coldly orchestrated political weapon: funded, coordinated, and laser-focused on forcing one toxic smear-word into every mouth, every headline, every official statement, th…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4394531/posts",
-      "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T10:32:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-08T10:54:17.643Z",
-      "run_id": "2026-09-08T10:54"
-    },
-    {
-      "headline": "Iran to declare new ‘restricted zone’ outside Strait of Hormuz – official",
-      "summary": "Iran will announce a “restricted zone” for shipping outside the Strait of Hormuz in the coming days, National Security Council Secretary Mohsen Rezaei has said",
-      "source": "RT",
-      "url": "https://www.rt.com/news/645201-iran-us-hormuz-rezaei/",
-      "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T10:33:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-08T10:54:17.643Z",
-      "run_id": "2026-09-08T10:54"
-    },
-    {
-      "headline": "Iran Says to Announce New Restricted Zone in the Gulf in the Coming Days",
-      "summary": "Iran said it will announce a new restricted zone in the Gulf in the coming days, along with maps of a new shipping corridor through the Strait of Hormuz, as a weekend exchange of strikes on shipping sent oil prices higher on Monday.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/iran-says-to-announce-new-restricted-zone-in-the-gulf-in-the-coming-days/",
-      "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T09:40:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-08T10:54:17.643Z",
-      "run_id": "2026-09-08T10:54"
-    },
-    {
-      "headline": "Iran vows response to US strikes, warns over energy sites",
-      "summary": "Iran has threatened to retaliate against any new US attacks on its assets, warning that the energy production chain in the region was \"sprawling, accessible and exposed\".",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/middle-east/2026/0907/1590537-iran-us-war/",
-      "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T12:42:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-08T16:18:11.525Z",
-      "run_id": "2026-09-08T16:18"
-    },
-    {
-      "headline": "Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed'",
-      "summary": "Iran has threatened to retaliate against any new United States attacks on its assets. The nation warned that regional energy production is accessible and exposed to potential strikes. Iranian officials announced plans for a new restricted zone in the Gulf. Th…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-vows-to-respond-to-us-strikes-says-us-energy-companies-facilities-are-exposed/articleshow/133881313.cms",
-      "bloc": "regional",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T12:31:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-08T16:18:11.525Z",
-      "run_id": "2026-09-08T16:18"
-    },
-    {
-      "headline": "Iran Says It Will Control New Hormuz Shipping Corridor",
-      "summary": "Iran said Monday that it is preparing to sign an agreement with Oman establishing a new shipping corridor through the Strait of Hormuz under Iranian control, with vessels required to coordinate with Tehran to enter a new restricted maritime zone around the cr…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-It-Will-Control-New-Hormuz-Shipping-Corridor.html",
-      "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T11:47:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-08T16:18:11.525Z",
-      "run_id": "2026-09-08T16:18"
-    },
-    {
-      "headline": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
-      "summary": "Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz",
-      "bloc": "regional",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T11:37:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-08T16:18:11.525Z",
-      "run_id": "2026-09-08T16:18"
-    },
-    {
-      "headline": "Iran warns US energy assets in Gulf are vulnerable after latest clashes",
-      "summary": "Iran has tightened restrictions on shipping through ‌the Strait of Hormuz, a critical artery for global oil and gas supplies, since the war began ​with U.S. and Israeli strikes on February 28.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/iran-warns-us-energy-assets-in-gulf-are-vulnerable-after-latest-clashes-126090701495_1.html",
-      "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T16:59:48Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-08T20:54:05.525Z",
-      "run_id": "2026-09-08T20:54"
-    },
-    {
-      "headline": "Sudan Could Become the Red Sea’s Next Energy Security Flashpoint",
-      "summary": "The investigations published by The New York Times and The Washington Post should not be dismissed as another collection of allegations emerging from Sudan’s opaque civil war. Taken together, they present the most substantial publicly available evidence yet t…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Geopolitics/Africa/Sudan-Could-Become-the-Red-Seas-Next-Energy-Security-Flashpoint.html",
-      "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T19:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-08T20:54:05.525Z",
-      "run_id": "2026-09-08T20:54"
-    },
     {
       "headline": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
       "summary": "The Islamic Republic has vowed to announce a new restricted zone in the Gulf in the coming days, along with maps of a new shipping corridor through the Strait of Hormuz, though it was unclear when details would emerge",
@@ -302,34 +25,6 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-09T03:51:48.307Z",
-      "run_id": "2026-09-09T03:51"
-    },
-    {
-      "headline": "Iran says improved ballistic missile shows it will take preemptive action against threats",
-      "summary": "Iran state media on Monday said a ballistic missile with improved capabilities was demonstrating a new doctrine: Tehran “will take action against any threat,...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/world/articles/iran-says-improved-ballistic-missile-212447311.html",
-      "bloc": "western",
-      "date": "2026-09-07",
-      "datetime": "2026-09-07T21:24:47Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi",
@@ -8346,7 +8041,63 @@
       "_from": "newsapi",
       "first_seen": "2026-10-07T22:54:01.770Z",
       "run_id": "2026-10-07T22:54"
+    },
+    {
+      "headline": "Yemen is spiralling into another civil war that could swiftly engulf in the entire region",
+      "summary": "Turkey and Pakistan are poised to send troops to Saudi Arabia, but so far the Trump administration has avoided getting involved.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/yemen-is-spiralling-into-another-civil-war-that-could-swiftly-engulf-in-the-entire-region-293104",
+      "bloc": "western",
+      "date": "2026-10-07",
+      "datetime": "2026-10-07T02:49:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-08T05:16:36.054Z",
+      "run_id": "2026-10-08T05:16"
+    },
+    {
+      "headline": "Why $100 Oil Is Hard to Kill",
+      "summary": "Brent Crude oil prices have held above $100 per barrel for most of the past month despite numerous reports and figures put out in recent weeks by tanker-tracking services and investment banks that crude oil flows from the Strait of Hormuz have recovered, and …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
+      "bloc": "western",
+      "date": "2026-10-07",
+      "datetime": "2026-10-07T00:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-08T05:16:36.054Z",
+      "run_id": "2026-10-08T05:16"
     }
   ],
-  "total_items_ever": 3616
+  "total_items_ever": 3618
 }

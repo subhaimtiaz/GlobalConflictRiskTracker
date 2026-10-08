@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-08T05:17:41.271Z",
+  "ts": "2026-10-08T13:05:29.647Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,19 +8,71 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 102,
-    "oilStress": 56,
-    "updatedAt": "2026-10-08T05:17:41.271Z"
+    "oilPrice": 105,
+    "oilStress": 60,
+    "updatedAt": "2026-10-08T13:05:29.647Z"
   },
   "items": [
     {
+      "headline": "US military aid to Israel continues three years into Gaza genocide",
+      "summary": "US military aid and arms transfer continue unchanged, as US public sentiment shifts.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide",
+      "bloc": "regional",
+      "date": "2026-10-07",
+      "datetime": "2026-10-07T11:23:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Yemen is spiralling into another civil war that could swiftly engulf in the entire region",
-      "summary": "Turkey and Pakistan are poised to send troops to Saudi Arabia, but so far the Trump administration has avoided getting involved.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/yemen-is-spiralling-into-another-civil-war-that-could-swiftly-engulf-in-the-entire-region-293104",
+      "summary": "Saudi Arabia turns to Pakistan and Turkiye after the US declines airstrikes, while oil flows face fresh disruption",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/yemen-is-spiralling-into-another-civil-war-that-could-swiftly-engulf-in-the-entire-region/article71554979.ece",
       "bloc": "western",
       "date": "2026-10-07",
-      "datetime": "2026-10-07T02:49:39Z",
+      "datetime": "2026-10-07T10:10:56Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Three years since October 7: The day that changed Israel, the Middle East and the world",
+      "summary": "From the 251 hostages and the invasion of Gaza to the Strait of Hormuz and the open U.S.-Iran conflict\nThe post Three years since October 7: The day that changed Israel, the Middle East and the world appeared first on ProtoThema English.",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/10/07/three-years-since-october-7-the-day-that-changed-israel-the-middle-east-and-the-world/",
+      "bloc": "western",
+      "date": "2026-10-07",
+      "datetime": "2026-10-07T05:52:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -66,79 +118,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Pakistan, Turkey deploy troops to Saudi Arabia under Mecca Defense Pact as Yemen forces retake key port",
-      "summary": "Saudi Arabia, Turkey and Pakistan activated the Mecca Defense Pact on Monday, agreeing to rapid troop deployment to counter Houthi attacks. Saudi-backed Yemeni government forces retook the port city of Mokha and secured areas around the strategic Bab al-Mande…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-06-pakistan-turkey-deploy-troops-to-saudi-arabia.html",
-      "bloc": "western",
-      "date": "2026-10-06",
-      "datetime": "2026-10-06T06:00:00Z",
+      "headline": "US sets new demands for Iran deal: What are they?",
+      "summary": "US Vice President Vance’s call for reduced nuclear enrichment suggests room for compromise, but major obstacles remain.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
+      "bloc": "regional",
+      "date": "2026-10-07",
+      "datetime": "2026-10-07T10:58:23Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why America's Gulf Allies Are Rethinking Aid - And Why It Matters",
-      "summary": "As the current conflict in the Gulf grinds on without resolution, pressure is mounting not just on defense systems, but also on aid budgets. Arab Gulf state aid budgets have historically been important alongside those from the European Union, United Kingdom, …",
-      "source": "Hoover.org",
-      "url": "https://www.hoover.org/research/why-americas-gulf-allies-are-rethinking-aid-and-why-it-matters",
-      "bloc": "western",
-      "date": "2026-10-06",
-      "datetime": "2026-10-06T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Three years after October 7, global attention on Gaza has receded. The real test will come after Israel’s election",
-      "summary": "A small but vocal global campaign has maintained pressure on Israel, but will this hold if a less extreme government is elected?",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/three-years-after-october-7-global-attention-on-gaza-has-receded-the-real-test-will-come-after-israels-election-292360",
+      "headline": "Saudi’s economic transformation collides with war and falling FDI",
+      "summary": "In this week’s Fortune Gulf Brief.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/07/saudi-economic-transformation-collides-war-falling-fdi/",
       "bloc": "western",
-      "date": "2026-10-05",
-      "datetime": "2026-10-05T19:09:30Z",
+      "date": "2026-10-07",
+      "datetime": "2026-10-07T09:36:55Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -177,58 +203,6 @@
       "bloc": "western",
       "date": "2026-10-06",
       "datetime": "2026-10-06T09:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Five Hormuz Incidents Reported Monday as Tanker Attacks Mount",
-      "summary": "UK Maritime Trade Operations reported five separate incidents involving commercial shipping in or near the Strait of Hormuz on Monday, including four tanker attacks and an incident in which Iran’s...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/five-hormuz-incidents-reported-monday-as-tanker-attacks-mount/",
-      "bloc": "western",
-      "date": "2026-10-05",
-      "datetime": "2026-10-05T22:28:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics",
-      "summary": "Middle East crude exports recently climbed to their highest levels since the start of the Iran war as more Gulf producers resume transit through the Strait of Hormuz – despite the continued threat of Iranian attacks. Yet oil prices remain stubbornly elevated,…",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/opinion-oils-new-problem-isnt-supply-its-logistics/",
-      "bloc": "western",
-      "date": "2026-10-05",
-      "datetime": "2026-10-05T16:13:33Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

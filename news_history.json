@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-08T05:16:36.054Z",
+  "updated": "2026-10-08T13:04:24.367Z",
   "retention_days": 30,
   "items": [
     {
@@ -8097,7 +8097,119 @@
       "_from": "newsapi",
       "first_seen": "2026-10-08T05:16:36.054Z",
       "run_id": "2026-10-08T05:16"
+    },
+    {
+      "headline": "US military aid to Israel continues three years into Gaza genocide",
+      "summary": "US military aid and arms transfer continue unchanged, as US public sentiment shifts.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide",
+      "bloc": "regional",
+      "date": "2026-10-07",
+      "datetime": "2026-10-07T11:23:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-08T13:04:24.367Z",
+      "run_id": "2026-10-08T13:04"
+    },
+    {
+      "headline": "Three years since October 7: The day that changed Israel, the Middle East and the world",
+      "summary": "From the 251 hostages and the invasion of Gaza to the Strait of Hormuz and the open U.S.-Iran conflict\nThe post Three years since October 7: The day that changed Israel, the Middle East and the world appeared first on ProtoThema English.",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/10/07/three-years-since-october-7-the-day-that-changed-israel-the-middle-east-and-the-world/",
+      "bloc": "western",
+      "date": "2026-10-07",
+      "datetime": "2026-10-07T05:52:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-08T13:04:24.367Z",
+      "run_id": "2026-10-08T13:04"
+    },
+    {
+      "headline": "US sets new demands for Iran deal: What are they?",
+      "summary": "US Vice President Vance’s call for reduced nuclear enrichment suggests room for compromise, but major obstacles remain.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
+      "bloc": "regional",
+      "date": "2026-10-07",
+      "datetime": "2026-10-07T10:58:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-08T13:04:24.367Z",
+      "run_id": "2026-10-08T13:04"
+    },
+    {
+      "headline": "Saudi’s economic transformation collides with war and falling FDI",
+      "summary": "In this week’s Fortune Gulf Brief.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/07/saudi-economic-transformation-collides-war-falling-fdi/",
+      "bloc": "western",
+      "date": "2026-10-07",
+      "datetime": "2026-10-07T09:36:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-08T13:04:24.367Z",
+      "run_id": "2026-10-08T13:04"
     }
   ],
-  "total_items_ever": 3618
+  "total_items_ever": 3622
 }

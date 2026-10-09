@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-08T23:07:20.725Z",
+  "ts": "2026-10-09T05:20:44.068Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 104,
-    "oilStress": 58,
-    "updatedAt": "2026-10-08T23:07:20.725Z"
+    "oilPrice": 103,
+    "oilStress": 57,
+    "updatedAt": "2026-10-09T05:20:44.068Z"
   },
   "items": [
     {
@@ -118,6 +118,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+      "summary": "The UK maritime agency has reported a rise in attacks on vessels in the vital Strait of Hormuz.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says",
+      "bloc": "regional",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T02:48:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump weighs huge strike on Iran to show voters bold display of US power before crucial midterm elections, report says",
+      "summary": "The President's favorability numbers have sunk since the strikes began in February, with Democrats now favored to take back the House and with a chance to regain the Senate.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16191579/Trump-weighs-huge-strike-Iran-midterms.html",
+      "bloc": "western",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T00:59:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "US sets new demands for Iran deal: What are they?",
       "summary": "US Vice President Vance’s call for reduced nuclear enrichment suggests room for compromise, but major obstacles remain.",
       "source": "Al Jazeera English",
@@ -196,58 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The day the fault lines cracked: October 7’s aftershocks travelled from Israel and Gaza to Iran, Red Sea and $100 oil",
-      "summary": "It started at the Gaza border. Then came Hezbollah, Houthi attacks, rerouted ships, an Israel-Iran war, American strikes and an oil shock. Three years after October 7, the Middle East’s fault lines have cracked open far beyond where the first shots were fired.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/october-7-attack-three-years-gaza-war-israel-iran-red-sea-houthi-attacks-strait-of-hormuz-oil-prices-middle-east-war/articleshow/134742045.cms",
-      "bloc": "regional",
-      "date": "2026-10-06",
-      "datetime": "2026-10-06T13:52:04Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "At Least 50 Iranian Tankers Are Stuck in the Gulf as U.S. Blockade Holds",
-      "summary": "The U.S. blockade on Iranian oil exports has so far stranded at least 50 Iranian tankers laden with oil inside the Persian Gulf near Iran’s coastline, U.S.-based non-profit and non-partisan policy organization United Against Nuclear Iran (UANI) said in its la…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/At-Least-50-Iranian-Tankers-Are-Stuck-in-the-Gulf-as-US-Blockade-Holds.html",
-      "bloc": "western",
-      "date": "2026-10-06",
-      "datetime": "2026-10-06T09:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "UK plays the blame game, terror in the skies, Russia’s red lines: RT stories that shaped the week",
       "summary": "RT looks at the top news stories this week, including a dubious ‘terror plot’ at RAF Fairford, a nuclear warning from Moscow, and crisis on board an Israel-bound airliner",
       "source": "RT",
@@ -280,31 +280,6 @@
       "bloc": "western",
       "date": "2026-10-02",
       "datetime": "2026-10-02T18:30:00Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-      "summary": "Putin warned the West he would deploy nuclear weapons if necessary to defend the Russian Baltic exclave of Kaliningrad.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow",
-      "bloc": "regional",
-      "date": "2026-10-01",
-      "datetime": "2026-10-01T21:33:15Z",
       "leaders": [
         "Vladimir Putin"
       ],
@@ -518,29 +493,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Taliban Tale: How Afghan Militants Survived Campaigns in 2006-16",
-      "summary": "Perhaps no country is as identified with the American war on terror that began twenty-five years ago than Afghanistan, its launchpad and the site of what is still the longest war in American history at the time of writing. September 2026 marks not only a quar…",
-      "source": "Muslimmatters.org",
-      "url": "https://muslimmatters.org/?p=96725&preview=true&preview_id=96725",
-      "bloc": "western",
-      "date": "2026-10-01",
-      "datetime": "2026-10-01T03:52:53Z",
-      "leaders": [],
-      "watch_terms": [
-        "general commander killed"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

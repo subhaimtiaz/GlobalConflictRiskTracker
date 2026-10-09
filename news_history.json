@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-09T12:50:54.588Z",
+  "updated": "2026-10-09T22:26:11.573Z",
   "retention_days": 30,
   "items": [
     {
@@ -7961,7 +7961,119 @@
       "_from": "newsapi",
       "first_seen": "2026-10-09T12:50:54.588Z",
       "run_id": "2026-10-09T12:50"
+    },
+    {
+      "headline": "Trump rules out Iran strike till 2026 US midterms, vows Tehran will never have a nuclear weapon",
+      "summary": "The United States has confirmed it will not engage in military actions against Iran before the upcoming midterm elections. A naval blockade remains enforced around Iranian ports, despite ongoing discussions between the two nations. Iran seeks to address the b…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-rules-out-iran-strike-till-2026-us-midterms-vows-tehran-will-never-have-a-nuclear-weapon/articleshow/134795521.cms",
+      "bloc": "regional",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T16:25:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-09T22:26:11.573Z",
+      "run_id": "2026-10-09T22:26"
+    },
+    {
+      "headline": "Report: US prepares major Iran strike plans",
+      "summary": "The New York Times reports that the Pentagon is preparing a three-day military campaign against Iran as three US aircraft carriers head to the Middle East, though Trump is reluctant to strike.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/434326",
+      "bloc": "western",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T22:05:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-09T22:26:11.573Z",
+      "run_id": "2026-10-09T22:26"
+    },
+    {
+      "headline": "Attack Risks Rise for Tankers as Iran Vows to Block More Hormuz Routes",
+      "summary": "Tankers are facing a higher risk of attacks and intimidation as they try to get critical shipments through the Strait of Hormuz after Iran issued new warnings it would block routes that it has not authorized, sources said.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/attack-risks-rise-for-tankers-as-iran-vows-to-block-more-hormuz-routes/",
+      "bloc": "western",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T17:03:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-09T22:26:11.573Z",
+      "run_id": "2026-10-09T22:26"
+    },
+    {
+      "headline": "Attack risks rise for tankers as Iran vows to block more Hormuz routes",
+      "summary": "Tankers face growing risks of attacks and intimidation while navigating the Strait of Hormuz after Iran warned regional countries against opening alternative oil-export routes. The latest violence has reduced tanker traffic through the key waterway, while a t…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/attack-risks-rise-for-tankers-as-iran-vows-to-block-more-hormuz-routes/articleshow/134792095.cms",
+      "bloc": "regional",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T14:32:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-09T22:26:11.573Z",
+      "run_id": "2026-10-09T22:26"
     }
   ],
-  "total_items_ever": 3628
+  "total_items_ever": 3632
 }

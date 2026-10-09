@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-09T12:51:59.940Z",
+  "ts": "2026-10-09T22:27:16.716Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 103,
-    "oilStress": 57,
-    "updatedAt": "2026-10-09T12:51:59.940Z"
+    "oilPrice": 105,
+    "oilStress": 60,
+    "updatedAt": "2026-10-09T22:27:16.716Z"
   },
   "items": [
+    {
+      "headline": "Trump rules out Iran strike till 2026 US midterms, vows Tehran will never have a nuclear weapon",
+      "summary": "The United States has confirmed it will not engage in military actions against Iran before the upcoming midterm elections. A naval blockade remains enforced around Iranian ports, despite ongoing discussions between the two nations. Iran seeks to address the b…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-rules-out-iran-strike-till-2026-us-midterms-vows-tehran-will-never-have-a-nuclear-weapon/articleshow/134795521.cms",
+      "bloc": "regional",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T16:25:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Thursday: Hili dialogue",
       "summary": "There will be a shortish version of Hili today as I’m not feeling that well (yes, the eye, which is ok but focusing makes me nauseated). Welcome to Thursday, October 8, 2026 and National Pierogi Day. I eat a lot of pierogi in Poland, and here’s some blueberry…",
@@ -118,28 +144,80 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Three years since October 7: The day that changed Israel, the Middle East and the world",
-      "summary": "From the 251 hostages and the invasion of Gaza to the Strait of Hormuz and the open U.S.-Iran conflict\nThe post Three years since October 7: The day that changed Israel, the Middle East and the world appeared first on ProtoThema English.",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/10/07/three-years-since-october-7-the-day-that-changed-israel-the-middle-east-and-the-world/",
+      "headline": "Report: US prepares major Iran strike plans",
+      "summary": "The New York Times reports that the Pentagon is preparing a three-day military campaign against Iran as three US aircraft carriers head to the Middle East, though Trump is reluctant to strike.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/434326",
       "bloc": "western",
-      "date": "2026-10-07",
-      "datetime": "2026-10-07T05:52:00Z",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T22:05:16Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Attack Risks Rise for Tankers as Iran Vows to Block More Hormuz Routes",
+      "summary": "Tankers are facing a higher risk of attacks and intimidation as they try to get critical shipments through the Strait of Hormuz after Iran issued new warnings it would block routes that it has not authorized, sources said.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/attack-risks-rise-for-tankers-as-iran-vows-to-block-more-hormuz-routes/",
+      "bloc": "western",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T17:03:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Attack risks rise for tankers as Iran vows to block more Hormuz routes",
+      "summary": "Tankers face growing risks of attacks and intimidation while navigating the Strait of Hormuz after Iran warned regional countries against opening alternative oil-export routes. The latest violence has reduced tanker traffic through the key waterway, while a t…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/attack-risks-rise-for-tankers-as-iran-vows-to-block-more-hormuz-routes/articleshow/134792095.cms",
+      "bloc": "regional",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T14:32:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -177,84 +255,6 @@
       "bloc": "western",
       "date": "2026-10-08",
       "datetime": "2026-10-08T10:07:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
-      "summary": "The UK maritime agency has reported a rise in attacks on vessels in the vital Strait of Hormuz.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says",
-      "bloc": "regional",
-      "date": "2026-10-08",
-      "datetime": "2026-10-08T02:48:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump weighs huge strike on Iran to show voters bold display of US power before crucial midterm elections, report says",
-      "summary": "The President's favorability numbers have sunk since the strikes began in February, with Democrats now favored to take back the House and with a chance to regain the Senate.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16191579/Trump-weighs-huge-strike-Iran-midterms.html",
-      "bloc": "western",
-      "date": "2026-10-08",
-      "datetime": "2026-10-08T00:59:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US sets new demands for Iran deal: What are they?",
-      "summary": "US Vice President Vance’s call for reduced nuclear enrichment suggests room for compromise, but major obstacles remain.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
-      "bloc": "regional",
-      "date": "2026-10-07",
-      "datetime": "2026-10-07T10:58:23Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

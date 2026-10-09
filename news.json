@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-09T05:20:44.068Z",
+  "ts": "2026-10-09T12:51:59.940Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 103,
     "oilStress": 57,
-    "updatedAt": "2026-10-09T05:20:44.068Z"
+    "updatedAt": "2026-10-09T12:51:59.940Z"
   },
   "items": [
+    {
+      "headline": "Thursday: Hili dialogue",
+      "summary": "There will be a shortish version of Hili today as I’m not feeling that well (yes, the eye, which is ok but focusing makes me nauseated). Welcome to Thursday, October 8, 2026 and National Pierogi Day. I eat a lot of pierogi in Poland, and here’s some blueberry…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/10/08/thursday-hili-dialogue-606/",
+      "bloc": "western",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T11:45:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Israelis Mourn Oct. 7 Attack As Palestinians In Gaza Languish In Ruins Of The War It Sparked",
       "summary": "Israelis have gathered at intersections, bomb shelters and the site of a music festival that Hamas-led militants overran on Oct. 7, 2023.",
@@ -118,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
+      "summary": "Reports have emerged that tanker captains are earning $100,000 plus a $50,000 per-trip bonus to transit the strait.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
+      "bloc": "regional",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T11:02:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo",
+      "bloc": "western",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T10:07:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
       "summary": "The UK maritime agency has reported a rise in attacks on vessels in the vital Strait of Hormuz.",
       "source": "Al Jazeera English",
@@ -192,58 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi’s economic transformation collides with war and falling FDI",
-      "summary": "In this week’s Fortune Gulf Brief.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/07/saudi-economic-transformation-collides-war-falling-fdi/",
-      "bloc": "western",
-      "date": "2026-10-07",
-      "datetime": "2026-10-07T09:36:55Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
-      "summary": "Gulf oil flows surge despite escalating ship attacks in the critical Strait of Hormuz energy corridor.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable",
-      "bloc": "regional",
-      "date": "2026-10-06",
-      "datetime": "2026-10-06T14:15:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

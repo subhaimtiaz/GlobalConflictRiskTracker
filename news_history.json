@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-09T05:19:38.854Z",
+  "updated": "2026-10-09T12:50:54.588Z",
   "retention_days": 30,
   "items": [
     {
@@ -7877,7 +7877,91 @@
       "_from": "newsapi",
       "first_seen": "2026-10-09T05:19:38.854Z",
       "run_id": "2026-10-09T05:19"
+    },
+    {
+      "headline": "Thursday: Hili dialogue",
+      "summary": "There will be a shortish version of Hili today as I’m not feeling that well (yes, the eye, which is ok but focusing makes me nauseated). Welcome to Thursday, October 8, 2026 and National Pierogi Day. I eat a lot of pierogi in Poland, and here’s some blueberry…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/10/08/thursday-hili-dialogue-606/",
+      "bloc": "western",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T11:45:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-09T12:50:54.588Z",
+      "run_id": "2026-10-09T12:50"
+    },
+    {
+      "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
+      "summary": "Reports have emerged that tanker captains are earning $100,000 plus a $50,000 per-trip bonus to transit the strait.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
+      "bloc": "regional",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T11:02:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-09T12:50:54.588Z",
+      "run_id": "2026-10-09T12:50"
+    },
+    {
+      "headline": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo",
+      "bloc": "western",
+      "date": "2026-10-08",
+      "datetime": "2026-10-08T10:07:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-09T12:50:54.588Z",
+      "run_id": "2026-10-09T12:50"
     }
   ],
-  "total_items_ever": 3625
+  "total_items_ever": 3628
 }

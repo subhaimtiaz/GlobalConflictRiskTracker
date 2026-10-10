@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-10T05:04:55.306Z",
+  "ts": "2026-10-10T12:10:10.966Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 105,
     "oilStress": 60,
-    "updatedAt": "2026-10-10T05:04:55.306Z"
+    "updatedAt": "2026-10-10T12:10:10.966Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Houthis Kill Three in Strikes on Saudi Arabian Airports",
+      "summary": "The Houthis struck two airports in Saudi Arabia in the past two days, killing three people and injuring dozens as the Iran-backed militant group intensifies its attacks on the kingdom from Yemen.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/houthis-kill-three-in-strikes-on-saudi-arabian-airports/",
+      "bloc": "western",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T09:20:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Report: US prepares major Iran strike plans",
       "summary": "The New York Times reports that the Pentagon is preparing a three-day military campaign against Iran as three US aircraft carriers head to the Middle East, though Trump is reluctant to strike.",
       "source": "Israelnationalnews.com",
@@ -248,24 +274,23 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-      "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo",
+      "headline": "Links 10/9/2026",
+      "summary": "Our thriving daily links: connecting Claude to sex toys, France fiscal propaganda, US to livestream execution, farm debt reaches record, and John Coltrane.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/10/links-10-9-2026.html",
       "bloc": "western",
-      "date": "2026-10-08",
-      "datetime": "2026-10-08T10:07:58Z",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T10:55:51Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Vladimir Putin"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Putin Ukraine ceasefire"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "impulsivity",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -365,6 +390,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Silver may trade at $58-$61 as dollar, yields weigh, says Mirae Asset",
+      "summary": "In near-term, silver is likely to range trade between $58 and $61. Interim resistance is at $60. Major hurdle is at $64.50.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/silver-may-trade-at-58-61-as-dollar-yields-weigh-says-mirae-asset-126100900471_1.html",
+      "bloc": "western",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T07:16:08Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

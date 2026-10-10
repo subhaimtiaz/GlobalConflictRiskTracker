@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-09T22:27:16.716Z",
+  "ts": "2026-10-10T05:04:55.306Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 105,
     "oilStress": 60,
-    "updatedAt": "2026-10-09T22:27:16.716Z"
+    "updatedAt": "2026-10-10T05:04:55.306Z"
   },
   "items": [
     {
@@ -274,48 +274,22 @@
       "_from": "newsapi"
     },
     {
-      "headline": "UK plays the blame game, terror in the skies, Russia’s red lines: RT stories that shaped the week",
-      "summary": "RT looks at the top news stories this week, including a dubious ‘terror plot’ at RAF Fairford, a nuclear warning from Moscow, and crisis on board an Israel-bound airliner",
-      "source": "RT",
-      "url": "https://www.rt.com/news/646650-rt-top-stories-lavrov-putin/",
+      "headline": "The Philippine Teacher Recall: China Plays the \"Safety\" Card ... Again",
+      "summary": "Ray Powell argues that the PRC recalled 150 Chinese teachers from Philippine schools, citing safety concerns after concerns were raised about CCP-linked education programs. This action follows a pattern of the PRC Government claiming its citizens are in dange…",
+      "source": "Sealight.live",
+      "url": "https://www.sealight.live/posts/the-philippine-teacher-recall-china-plays-the-safety-card-again",
       "bloc": "western",
-      "date": "2026-10-02",
-      "datetime": "2026-10-02T21:00:05Z",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T00:00:00Z",
       "leaders": [
-        "Vladimir Putin"
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Putin Ukraine ceasefire"
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump's 'excursion into hell' commentary may come back to bite",
-      "summary": "What so many of the current major global conflicts have in common with the debacle in Iraq is their undefined, or sometimes not truthfully defined, missions.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-10-03/global-excursion-into-hell-bigger-expensive-iraq/107220592",
-      "bloc": "western",
-      "date": "2026-10-02",
-      "datetime": "2026-10-02T18:30:00Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -379,30 +353,6 @@
       "bloc": "western",
       "date": "2026-10-04",
       "datetime": "2026-10-04T06:47:36Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China widens military footprint with Laos air base",
-      "summary": "China recently opened its first overseas air force base in Laos to enhance military training and influence. The base will train Laotian air force pilots and potentially house Chinese military assets. This move reflects China's ambition to expand its military …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/china-widens-military-footprint-with-laos-air-base/articleshow/134643373.cms",
-      "bloc": "regional",
-      "date": "2026-10-02",
-      "datetime": "2026-10-02T16:35:08Z",
       "leaders": [
         "Xi Jinping"
       ],

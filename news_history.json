@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-10T12:09:05.735Z",
+  "updated": "2026-10-10T21:21:03.757Z",
   "retention_days": 30,
   "items": [
     {
@@ -7795,7 +7795,144 @@
       "_from": "newsapi",
       "first_seen": "2026-10-10T12:09:05.735Z",
       "run_id": "2026-10-10T12:09"
+    },
+    {
+      "headline": "After Former ICC Judge Wins Nobel Peace Prize, US Hits Court With New Sanctions",
+      "summary": "Not long after a former International Criminal Court judge on Friday won the Nobel Peace Prize for \"ensuring that war crimes, crimes against humanity, and genocide are prosecuted,\" US President Donald Trump—who has long sought the award—continued his administ…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/news/trump-icc-sanctions",
+      "bloc": "western",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T17:32:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-10T21:21:03.757Z",
+      "run_id": "2026-10-10T21:21"
+    },
+    {
+      "headline": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
+      "summary": "The escalating attacks are testing whether a rebound in crude oil exports from the Middle East can be sustained under high risk conditions.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
+      "bloc": "western",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T18:02:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-10T21:21:03.757Z",
+      "run_id": "2026-10-10T21:21"
+    },
+    {
+      "headline": "Iran struck tanker transiting Hormuz via 'illegal route'",
+      "summary": "Iran's Revolutionary Guards said that they had struck a tanker attempting to take an \"illegal route\" through the Strait of Hormuz, which Iran has sought to blockade since the outset of the Middle East war.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/1009/1594747-middle-east/",
+      "bloc": "western",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T14:27:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-10T21:21:03.757Z",
+      "run_id": "2026-10-10T21:21"
+    },
+    {
+      "headline": "The oil market that sets today’s gas prices was invented in western Pennsylvania",
+      "summary": "A historian traces how Oil City brokers, then John D. Rockefeller, then futures exchanges decided what the world pays for crude – and why no one entity does today.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/the-oil-market-that-sets-todays-gas-prices-was-invented-in-western-pennsylvania-292855",
+      "bloc": "western",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T12:09:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-10T21:21:03.757Z",
+      "run_id": "2026-10-10T21:21"
+    },
+    {
+      "headline": "Ukraine takes aim at Russia’s AI data infrastructure",
+      "summary": "Drone attacks target Russian digital giant Yandex, as well as continuing strikes on missile plants and oil refineries.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure",
+      "bloc": "regional",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T13:01:57Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-10T21:21:03.757Z",
+      "run_id": "2026-10-10T21:21"
     }
   ],
-  "total_items_ever": 3636
+  "total_items_ever": 3641
 }

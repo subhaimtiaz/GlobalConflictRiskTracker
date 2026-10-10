@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-10T12:10:10.966Z",
+  "ts": "2026-10-10T21:22:08.973Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 105,
     "oilStress": 60,
-    "updatedAt": "2026-10-10T12:10:10.966Z"
+    "updatedAt": "2026-10-10T21:22:08.973Z"
   },
   "items": [
+    {
+      "headline": "After Former ICC Judge Wins Nobel Peace Prize, US Hits Court With New Sanctions",
+      "summary": "Not long after a former International Criminal Court judge on Friday won the Nobel Peace Prize for \"ensuring that war crimes, crimes against humanity, and genocide are prosecuted,\" US President Donald Trump—who has long sought the award—continued his administ…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/news/trump-icc-sanctions",
+      "bloc": "western",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T17:32:11Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump rules out Iran strike till 2026 US midterms, vows Tehran will never have a nuclear weapon",
       "summary": "The United States has confirmed it will not engage in military actions against Iran before the upcoming midterm elections. A naval blockade remains enforced around Iranian ports, despite ongoing discussions between the two nations. Iran seeks to address the b…",
@@ -118,27 +144,79 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Yemen is spiralling into another civil war that could swiftly engulf in the entire region",
-      "summary": "Saudi Arabia turns to Pakistan and Turkiye after the US declines airstrikes, while oil flows face fresh disruption",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/yemen-is-spiralling-into-another-civil-war-that-could-swiftly-engulf-in-the-entire-region/article71554979.ece",
+      "headline": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
+      "summary": "The escalating attacks are testing whether a rebound in crude oil exports from the Middle East can be sustained under high risk conditions.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
       "bloc": "western",
-      "date": "2026-10-07",
-      "datetime": "2026-10-07T10:10:56Z",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T18:02:01Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran struck tanker transiting Hormuz via 'illegal route'",
+      "summary": "Iran's Revolutionary Guards said that they had struck a tanker attempting to take an \"illegal route\" through the Strait of Hormuz, which Iran has sought to blockade since the outset of the Middle East war.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/1009/1594747-middle-east/",
+      "bloc": "western",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T14:27:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The oil market that sets today’s gas prices was invented in western Pennsylvania",
+      "summary": "A historian traces how Oil City brokers, then John D. Rockefeller, then futures exchanges decided what the world pays for crude – and why no one entity does today.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/the-oil-market-that-sets-todays-gas-prices-was-invented-in-western-pennsylvania-292855",
+      "bloc": "western",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T12:09:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -166,110 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Report: US prepares major Iran strike plans",
-      "summary": "The New York Times reports that the Pentagon is preparing a three-day military campaign against Iran as three US aircraft carriers head to the Middle East, though Trump is reluctant to strike.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/434326",
-      "bloc": "western",
-      "date": "2026-10-08",
-      "datetime": "2026-10-08T22:05:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Attack Risks Rise for Tankers as Iran Vows to Block More Hormuz Routes",
-      "summary": "Tankers are facing a higher risk of attacks and intimidation as they try to get critical shipments through the Strait of Hormuz after Iran issued new warnings it would block routes that it has not authorized, sources said.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/attack-risks-rise-for-tankers-as-iran-vows-to-block-more-hormuz-routes/",
-      "bloc": "western",
-      "date": "2026-10-08",
-      "datetime": "2026-10-08T17:03:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Attack risks rise for tankers as Iran vows to block more Hormuz routes",
-      "summary": "Tankers face growing risks of attacks and intimidation while navigating the Strait of Hormuz after Iran warned regional countries against opening alternative oil-export routes. The latest violence has reduced tanker traffic through the key waterway, while a t…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/attack-risks-rise-for-tankers-as-iran-vows-to-block-more-hormuz-routes/articleshow/134792095.cms",
-      "bloc": "regional",
-      "date": "2026-10-08",
-      "datetime": "2026-10-08T14:32:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
-      "summary": "Reports have emerged that tanker captains are earning $100,000 plus a $50,000 per-trip bonus to transit the strait.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
-      "bloc": "regional",
-      "date": "2026-10-08",
-      "datetime": "2026-10-08T11:02:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -520,6 +494,29 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ukraine takes aim at Russia’s AI data infrastructure",
+      "summary": "Drone attacks target Russian digital giant Yandex, as well as continuing strikes on missile plants and oil refineries.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure",
+      "bloc": "regional",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T13:01:57Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

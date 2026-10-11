@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-11T04:54:13.591Z",
+  "ts": "2026-10-11T12:23:55.179Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 105,
     "oilStress": 60,
-    "updatedAt": "2026-10-11T04:54:13.591Z"
+    "updatedAt": "2026-10-11T12:23:55.179Z"
   },
   "items": [
+    {
+      "headline": "\"Far more than necessary to win\": Trump again takes credit for India-Pakistan ceasefire in Nobel Prize claim",
+      "summary": "US President Trump asserted that he has resolved eight international conflicts, including the India-Pakistan situation. He claims that these achievements merit consideration for the Nobel Peace Prize. Pakistani Prime Minister Shehbaz Sharif expressed support …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/far-more-than-necessary-to-win-trump-again-takes-credit-for-india-pakistan-ceasefire-in-nobel-prize-claim/articleshow/134849255.cms",
+      "bloc": "regional",
+      "date": "2026-10-10",
+      "datetime": "2026-10-10T06:53:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "After Former ICC Judge Wins Nobel Peace Prize, US Hits Court With New Sanctions",
       "summary": "Not long after a former International Criminal Court judge on Friday won the Nobel Peace Prize for \"ensuring that war crimes, crimes against humanity, and genocide are prosecuted,\" US President Donald Trump—who has long sought the award—continued his administ…",
@@ -118,39 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "US military aid to Israel continues three years into Gaza genocide",
-      "summary": "US military aid and arms transfer continue unchanged, as US public sentiment shifts.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide",
-      "bloc": "regional",
-      "date": "2026-10-07",
-      "datetime": "2026-10-07T11:23:48Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Trump and Iran agree on one thing. The US election calendar isn't driving their decisions on the war",
-      "summary": "President Donald Trump and Iranian officials seem to agree on one thing about their seven-month-old war",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/wireStory/trump-iran-agree-thing-us-election-calendar-driving-137152402",
-      "bloc": "western",
+      "summary": "Trump and Iran both say the November 3 US midterms are not driving their decisions on the seven-month war, even as the conflict weighs heavily on American voters through high fuel prices and inflation. Talks have resumed indirectly, but Iran is demanding sanc…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions-on-the-war/articleshow/134847184.cms",
+      "bloc": "regional",
       "date": "2026-10-10",
-      "datetime": "2026-10-10T04:22:05Z",
+      "datetime": "2026-10-10T06:20:37Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -203,32 +203,6 @@
       "bloc": "western",
       "date": "2026-10-09",
       "datetime": "2026-10-09T14:27:58Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The oil market that sets today’s gas prices was invented in western Pennsylvania",
-      "summary": "A historian traces how Oil City brokers, then John D. Rockefeller, then futures exchanges decided what the world pays for crude – and why no one entity does today.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/the-oil-market-that-sets-todays-gas-prices-was-invented-in-western-pennsylvania-292855",
-      "bloc": "western",
-      "date": "2026-10-09",
-      "datetime": "2026-10-09T12:09:42Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

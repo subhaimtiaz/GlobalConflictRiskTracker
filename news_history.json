@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-11T04:53:08.397Z",
+  "updated": "2026-10-11T12:22:49.921Z",
   "retention_days": 30,
   "items": [
     {
@@ -7709,7 +7709,35 @@
       "_from": "newsapi",
       "first_seen": "2026-10-11T04:53:08.397Z",
       "run_id": "2026-10-11T04:53"
+    },
+    {
+      "headline": "\"Far more than necessary to win\": Trump again takes credit for India-Pakistan ceasefire in Nobel Prize claim",
+      "summary": "US President Trump asserted that he has resolved eight international conflicts, including the India-Pakistan situation. He claims that these achievements merit consideration for the Nobel Peace Prize. Pakistani Prime Minister Shehbaz Sharif expressed support …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/far-more-than-necessary-to-win-trump-again-takes-credit-for-india-pakistan-ceasefire-in-nobel-prize-claim/articleshow/134849255.cms",
+      "bloc": "regional",
+      "date": "2026-10-10",
+      "datetime": "2026-10-10T06:53:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-11T12:22:49.921Z",
+      "run_id": "2026-10-11T12:22"
     }
   ],
-  "total_items_ever": 3643
+  "total_items_ever": 3644
 }

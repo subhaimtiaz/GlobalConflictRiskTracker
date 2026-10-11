@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-10T21:22:08.973Z",
+  "ts": "2026-10-11T04:54:13.591Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 105,
     "oilStress": 60,
-    "updatedAt": "2026-10-10T21:22:08.973Z"
+    "updatedAt": "2026-10-11T04:54:13.591Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump and Iran agree on one thing. The US election calendar isn't driving their decisions on the war",
+      "summary": "President Donald Trump and Iranian officials seem to agree on one thing about their seven-month-old war",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/trump-iran-agree-thing-us-election-calendar-driving-137152402",
+      "bloc": "western",
+      "date": "2026-10-10",
+      "datetime": "2026-10-10T04:22:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
       "summary": "The escalating attacks are testing whether a rebound in crude oil exports from the Middle East can be sustained under high risk conditions.",
       "source": "CNBC",
@@ -222,32 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Houthis Kill Three in Strikes on Saudi Arabian Airports",
-      "summary": "The Houthis struck two airports in Saudi Arabia in the past two days, killing three people and injuring dozens as the Iran-backed militant group intensifies its attacks on the kingdom from Yemen.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/houthis-kill-three-in-strikes-on-saudi-arabian-airports/",
-      "bloc": "western",
-      "date": "2026-10-09",
-      "datetime": "2026-10-09T09:20:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Links 10/9/2026",
       "summary": "Our thriving daily links: connecting Claude to sex toys, France fiscal propaganda, US to livestream execution, farm debt reaches record, and John Coltrane.",
       "source": "Nakedcapitalism.com",
@@ -265,6 +265,30 @@
         "survival",
         "impulsivity",
         "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Face-Off: Trump vs. Xi",
+      "summary": "This post Face-Off: Trump vs. Xi appeared first on Daily Reckoning.\nCurrency and trade wars remain hot...\nThe post Face-Off: Trump vs. Xi appeared first on Daily Reckoning.",
+      "source": "Dailyreckoning.com",
+      "url": "https://dailyreckoning.com/face-off-trump-vs-xi/",
+      "bloc": "western",
+      "date": "2026-10-09",
+      "datetime": "2026-10-09T22:00:29Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -328,30 +352,6 @@
       "bloc": "western",
       "date": "2026-10-05",
       "datetime": "2026-10-05T04:05:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "What a US-China thaw could cost India",
-      "summary": "In New Delhi’s eyes, the recent Xi–Trump summit was about much more than trade and tariffs Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/india/646677-india-weighs-what-us-china-summit/",
-      "bloc": "western",
-      "date": "2026-10-04",
-      "datetime": "2026-10-04T06:47:36Z",
       "leaders": [
         "Xi Jinping"
       ],

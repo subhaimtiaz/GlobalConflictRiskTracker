@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-11T12:22:49.921Z",
+  "updated": "2026-10-11T21:39:45.099Z",
   "retention_days": 30,
   "items": [
     {
@@ -7737,7 +7737,119 @@
       "_from": "newsapi",
       "first_seen": "2026-10-11T12:22:49.921Z",
       "run_id": "2026-10-11T12:22"
+    },
+    {
+      "headline": "Drone strike in Sudan kills 40, including children: rights group",
+      "summary": "A drone strike in Sudan killed dozens of people, including children, said a rights group.",
+      "source": "Ap.org",
+      "url": "https://newsroom.ap.org/detail/DronestrikeinSudankills40LebanonwelcomesUSflightbanliftandotherMideastdevelopments/a5f40b5e0ab08ae8128db5ed749114d8/text?vs=false&#038;currentItemNo=1&#038;startingItemNo=0&#038;sourceLocation=Home%20Page%20",
+      "bloc": "western",
+      "date": "2026-10-10",
+      "datetime": "2026-10-10T16:19:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-11T21:39:45.099Z",
+      "run_id": "2026-10-11T21:39"
+    },
+    {
+      "headline": "Has Yemen returned to ‘full-scale war’?",
+      "summary": "Fighting is intensifying between Yemeni government forces and Houthi rebel group.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war",
+      "bloc": "regional",
+      "date": "2026-10-10",
+      "datetime": "2026-10-10T14:10:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-11T21:39:45.099Z",
+      "run_id": "2026-10-11T21:39"
+    },
+    {
+      "headline": "Trump is griping he should win the Nobel for settling eight wars, which he hasn’t done | CNN Politics",
+      "summary": "Again, President Donald Trump did not win the Nobel Peace Prize. Again, he complained about his non-victory at length. Again, his griping was centered on the false claim that he “settled eight wars.”",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/10/10/politics/trump-nobel-prize-eight-wars",
+      "bloc": "western",
+      "date": "2026-10-10",
+      "datetime": "2026-10-10T13:42:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-11T21:39:45.099Z",
+      "run_id": "2026-10-11T21:39"
+    },
+    {
+      "headline": "Shipping companies offering sailors 'crazy money' to transit Strait of Hormuz",
+      "summary": "Oil tanker captains in the Persian Gulf are being paid up to $US100,000 a month to navigate the Strait of Hormuz, industry insiders and maritime unions say.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-10-11/sailors-offered-bonuses-to-cross-strait-of-hormuz-in-iran-war/107248044",
+      "bloc": "western",
+      "date": "2026-10-10",
+      "datetime": "2026-10-10T18:48:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-11T21:39:45.099Z",
+      "run_id": "2026-10-11T21:39"
     }
   ],
-  "total_items_ever": 3644
+  "total_items_ever": 3648
 }

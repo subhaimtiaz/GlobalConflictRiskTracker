@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-11T21:40:50.320Z",
+  "ts": "2026-10-12T05:08:47.391Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 105,
-    "oilStress": 60,
-    "updatedAt": "2026-10-11T21:40:50.320Z"
+    "oilPrice": 103,
+    "oilStress": 58,
+    "updatedAt": "2026-10-12T05:08:47.391Z"
   },
   "items": [
     {
@@ -441,31 +441,6 @@
         "values"
       ],
       "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Transcript: Brett McGurk on \"Face the Nation with Margaret Brennan,\" Oct. 4, 2026",
-      "summary": "The following is the full transcript of the interview with Brett McGurk, who served as a top Middle East adviser to former Preident Joe Biden, a portion of which aired on \"Face the Nation with Margaret Brennan\" on Oct. 4, 2026.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/brett-mcgurk-face-the-nation-transcript-10-04-2026/",
-      "bloc": "western",
-      "date": "2026-10-04",
-      "datetime": "2026-10-04T15:16:20Z",
-      "leaders": [
-        "Donald J. Trump",
-        "Mojtaba Khamenei"
-      ],
-      "watch_terms": [
-        "Iran US diplomacy"
-      ],
-      "dimensions": [
-        "values",
-        "survival"
-      ],
-      "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

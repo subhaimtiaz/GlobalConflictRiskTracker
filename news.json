@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-12T14:52:08.091Z",
+  "ts": "2026-10-13T00:21:41.788Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 107,
-    "oilStress": 64,
-    "updatedAt": "2026-10-12T14:52:08.091Z"
+    "oilPrice": 106,
+    "oilStress": 62,
+    "updatedAt": "2026-10-13T00:21:41.788Z"
   },
   "items": [
     {
@@ -140,6 +140,32 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran sets supertanker ablaze after US takes out ship breaking blockade",
+      "summary": "“A devastating fire is the fate of any tanker that violates the rules and disregards security in the Strait of Hormuz,” Iran's top military arm said in a statement.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/11/world-news/iran-sets-supertanker-ablaze-after-us-takes-out-ship-breaking-blockade/",
+      "bloc": "western",
+      "date": "2026-10-11",
+      "datetime": "2026-10-11T16:27:27Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -295,54 +321,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "How to Fix Our Global Malaise",
-      "summary": "Focusing on local communities can have a surprising international effect.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/10/05/global-malaise-international-order-economics-civic-life-hope-citizenship-community/",
-      "bloc": "western",
-      "date": "2026-10-05",
-      "datetime": "2026-10-05T08:00:16Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Taiwan Isn’t the Flashpoint for War that Analysts Say It Is",
-      "summary": "Washington and Beijing have managed the difficult issue much better than you might realize.\nThe post Taiwan Isn’t the Flashpoint for War that Analysts Say It Is appeared first on The American Conservative.",
-      "source": "The American Conservative",
-      "url": "https://www.theamericanconservative.com/taiwan-isnt-the-flashpoint-for-war-that-analysts-say-it-is/",
-      "bloc": "western",
-      "date": "2026-10-05",
-      "datetime": "2026-10-05T04:05:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Silver may trade at $58-$61 as dollar, yields weigh, says Mirae Asset",
       "summary": "In near-term, silver is likely to range trade between $58 and $61. Interim resistance is at $60. Major hurdle is at $64.50.",
       "source": "Business Standard",
@@ -421,32 +399,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Gasoline-Only Vehicles Fall Below Half of Global New Car Sales for First Time on Record Amid Fuel Price Shock",
-      "summary": "Gasoline-only vehicles fell below half of global new vehicle sales for the first time on record, according to Mobility Global data cited by Nikkei Asia. Between January and June, sales of gas-powered vehicles excluding hybrids fell 10% from a year earlier to …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-05-gasoline-vehicles-fall-global-new-car-purchases.html",
-      "bloc": "western",
-      "date": "2026-10-05",
-      "datetime": "2026-10-05T06:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
       "summary": "Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh.",
       "source": "Al Jazeera English",
@@ -500,52 +452,6 @@
       "bloc": "western",
       "date": "2026-10-06",
       "datetime": "2026-10-06T02:21:53Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-      "summary": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o",
-      "bloc": "western",
-      "date": "2026-10-05",
-      "datetime": "2026-10-05T15:17:23Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russian guided bombs kill three in Kharkiv with one wounded factory worker left with a nail in his head",
-      "summary": "A Russian-guided bomb attack on Ukraine's northeastern city of Kharkiv on Monday has killed three people and injured 29 more.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16184297/Russian-guided-bombs-kill-three-Kharkiv-one-wounded-factory-worker-left-nail-head.html",
-      "bloc": "western",
-      "date": "2026-10-05",
-      "datetime": "2026-10-05T14:45:42Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-13T13:50:36.372Z",
+  "updated": "2026-10-13T22:25:51.645Z",
   "retention_days": 30,
   "items": [
     {
@@ -7425,7 +7425,63 @@
       "_from": "newsapi",
       "first_seen": "2026-10-13T13:50:36.372Z",
       "run_id": "2026-10-13T13:50"
+    },
+    {
+      "headline": "Tanker Data Shows Millions Fewer Barrels A Day Crossing Hormuz Than Energy Secretary Says",
+      "summary": "Tanker-tracking data shows a smaller recovery in oil flowing through the Strait of Hormuz than Energy Secretary Chris Wright described Monday.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/12/chris-wright-strait-of-hormuz-oil-flows-kpler-tanker-data-kevin-book-matthew-mcmanus",
+      "bloc": "western",
+      "date": "2026-10-12",
+      "datetime": "2026-10-12T21:38:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-13T22:25:51.644Z",
+      "run_id": "2026-10-13T22:25"
+    },
+    {
+      "headline": "Iran will destroy US data centers and AI facilities if attacked again – security chief",
+      "summary": "Iran’s Mohsen Rezaei warns US data centers, AI facilities and cables in the Gulf could be destroyed if Washington attacks again Read Full Article at RT.com",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/news/647096-iran-us-tech-targets/",
+      "bloc": "western",
+      "date": "2026-10-12",
+      "datetime": "2026-10-12T14:07:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-13T22:25:51.645Z",
+      "run_id": "2026-10-13T22:25"
     }
   ],
-  "total_items_ever": 3655
+  "total_items_ever": 3657
 }

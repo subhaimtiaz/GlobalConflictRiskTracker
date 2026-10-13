@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-13T13:51:41.588Z",
+  "ts": "2026-10-13T22:26:56.819Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 105,
-    "oilStress": 61,
-    "updatedAt": "2026-10-13T13:51:41.588Z"
+    "oilPrice": 106,
+    "oilStress": 62,
+    "updatedAt": "2026-10-13T22:26:56.819Z"
   },
   "items": [
     {
@@ -118,6 +118,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Tanker Data Shows Millions Fewer Barrels A Day Crossing Hormuz Than Energy Secretary Says",
+      "summary": "Tanker-tracking data shows a smaller recovery in oil flowing through the Strait of Hormuz than Energy Secretary Chris Wright described Monday.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/12/chris-wright-strait-of-hormuz-oil-flows-kpler-tanker-data-kevin-book-matthew-mcmanus",
+      "bloc": "western",
+      "date": "2026-10-12",
+      "datetime": "2026-10-12T21:38:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran will destroy US data centers and AI facilities if attacked again – security chief",
+      "summary": "Iran’s Mohsen Rezaei warns US data centers, AI facilities and cables in the Gulf could be destroyed if Washington attacks again Read Full Article at RT.com",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/news/647096-iran-us-tech-targets/",
+      "bloc": "western",
+      "date": "2026-10-12",
+      "datetime": "2026-10-12T14:07:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran sets supertanker ablaze after US takes out ship breaking blockade",
       "summary": "“A devastating fire is the fate of any tanker that violates the rules and disregards security in the Strait of Hormuz,” Iran's top military arm said in a statement.",
       "source": "New York Post",
@@ -151,32 +203,6 @@
       "bloc": "western",
       "date": "2026-10-10",
       "datetime": "2026-10-10T18:48:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump and Iran agree on one thing. The US election calendar isn't driving their decisions on the war",
-      "summary": "Trump and Iran both say the November 3 US midterms are not driving their decisions on the seven-month war, even as the conflict weighs heavily on American voters through high fuel prices and inflation. Talks have resumed indirectly, but Iran is demanding sanc…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions-on-the-war/articleshow/134847184.cms",
-      "bloc": "regional",
-      "date": "2026-10-10",
-      "datetime": "2026-10-10T06:20:37Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

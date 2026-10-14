@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-13T22:26:56.819Z",
+  "ts": "2026-10-14T04:11:07.893Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 106,
-    "oilStress": 62,
-    "updatedAt": "2026-10-13T22:26:56.819Z"
+    "oilStress": 63,
+    "updatedAt": "2026-10-14T04:11:07.893Z"
   },
   "items": [
     {
@@ -118,6 +118,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Global Oil Shipments Under Pressure as Supertanker Supplies Tighten",
+      "summary": "A shortage of available supertankers is raising global oil shipping costs and making some long-distance crude trades uneconomical, according to shipbrokers, traders and industry data cited in a Sept. 19 report. The squeeze arrives as fuel markets remain tight…",
+      "source": "Activistpost.com",
+      "url": "https://activistpost.com/global-oil-shipments-under-pressure-as-supertanker-supplies-tighten/",
+      "bloc": "western",
+      "date": "2026-10-13",
+      "datetime": "2026-10-13T01:51:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Tanker Data Shows Millions Fewer Barrels A Day Crossing Hormuz Than Energy Secretary Says",
       "summary": "Tanker-tracking data shows a smaller recovery in oil flowing through the Strait of Hormuz than Energy Secretary Chris Wright described Monday.",
       "source": "The Daily Caller",
@@ -196,28 +222,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Shipping companies offering sailors 'crazy money' to transit Strait of Hormuz",
-      "summary": "Oil tanker captains in the Persian Gulf are being paid up to $US100,000 a month to navigate the Strait of Hormuz, industry insiders and maritime unions say.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-10-11/sailors-offered-bonuses-to-cross-strait-of-hormuz-in-iran-war/107248044",
+      "headline": "NATO warns Russia: 'We will break' forces, destroy 'anything and everything' if you attack",
+      "summary": "Gen. Alexus Grynkewich outlined NATO's strategy to \"block, blunt and break\" enemy forces at the Warsaw Security Forum amid rising Russia tensions.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack",
       "bloc": "western",
-      "date": "2026-10-10",
-      "datetime": "2026-10-10T18:48:28Z",
+      "date": "2026-10-13",
+      "datetime": "2026-10-13T00:22:08Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Vladimir Putin"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Putin Ukraine ceasefire"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "impulsivity",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -371,32 +396,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "G7’s 100 Million Barrel Release Is Mostly Already Priced In",
-      "summary": "Following pressure from U.S. President Donald Trump, G7 leaders announced on Friday a coordinated release of 100 million barrels of emergency oil stocks through the IEA, to begin immediately and be completed over four months. Previously, Trump threatened to b…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/G7s-100-Million-Barrel-Release-Is-Mostly-Already-Priced-In.html",
-      "bloc": "western",
-      "date": "2026-10-06",
-      "datetime": "2026-10-06T22:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
       "summary": "Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh.",
       "source": "Al Jazeera English",
@@ -427,29 +426,6 @@
       "bloc": "regional",
       "date": "2026-10-09",
       "datetime": "2026-10-09T13:01:57Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine claims to have taken out more than half of Russia's oil refining capacity",
-      "summary": "Ukraine said long-range strikes have put more than half of Russia’s oil refining capacity out of action",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Business/wireStory/ukraine-claims-half-russias-oil-refining-capacity-136996327",
-      "bloc": "western",
-      "date": "2026-10-06",
-      "datetime": "2026-10-06T02:21:53Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

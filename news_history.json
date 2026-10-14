@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-14T11:28:08.637Z",
+  "updated": "2026-10-14T16:49:56.622Z",
   "retention_days": 30,
   "items": [
     {
@@ -7451,7 +7451,63 @@
       "_from": "newsapi",
       "first_seen": "2026-10-14T11:28:08.637Z",
       "run_id": "2026-10-14T11:28"
+    },
+    {
+      "headline": "Trump’s diesel deal opens a new rift with Europe over Ukraine",
+      "summary": "Trump calls for Zelenskyy to be replaced, while Europe devotes summit to funding Ukraine.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine",
+      "bloc": "regional",
+      "date": "2026-10-13",
+      "datetime": "2026-10-13T13:06:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-14T16:49:56.622Z",
+      "run_id": "2026-10-14T16:49"
+    },
+    {
+      "headline": "Tuesday: Hili dialogue",
+      "summary": "Welcome to The Cruelest Day, Tuesday, October 13, 2026 as well as National Yorkshire Pudding Day. I don’t have a picture of this delectable treat, always served in England with the Sunday roast, but here are two plump puddings from Wikipedia as part of the wh…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/10/13/tuesday-hili-dialogue-601/",
+      "bloc": "western",
+      "date": "2026-10-13",
+      "datetime": "2026-10-13T11:45:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-14T16:49:56.622Z",
+      "run_id": "2026-10-14T16:49"
     }
   ],
-  "total_items_ever": 3664
+  "total_items_ever": 3666
 }

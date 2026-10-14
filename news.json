@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-14T04:11:07.893Z",
+  "ts": "2026-10-14T11:29:13.827Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 106,
-    "oilStress": 63,
-    "updatedAt": "2026-10-14T04:11:07.893Z"
+    "oilStress": 62,
+    "updatedAt": "2026-10-14T11:29:13.827Z"
   },
   "items": [
+    {
+      "headline": "Top Oil CEOs Flee Saudi Summit Following Houthi Strikes on Kingdom",
+      "summary": "The chief executives of ExxonMobil, TotalEnergies, Shell, Chevron and British Petroleum (BP) were dropped from the schedule of the World Petroleum Council (WPC) Energy Congress in Riyadh on Monday, Oct. 12 – as Saudi authorities proceeded with the event despi…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-13-oil-ceos-flee-saudi-summit-after-strikes.html",
+      "bloc": "western",
+      "date": "2026-10-13",
+      "datetime": "2026-10-13T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Monday: Hili Dialogue",
       "summary": "It’s just another Manic Monday: October 12, 2026, and National Pulled Pork Day. Here’s a plate of the stuff at the Waiahole Poi Factory (it’s the Hawaiian version: kalua pig), along with beef laulau, a vegetable, and, my favorite, poi.  I love poi, though oth…",
@@ -92,27 +118,105 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil climbs as Mideast conflict, tanker attacks persist",
-      "summary": "Oil prices have increased amid worsening conflict in the Middle East, particularly involving Yemen's Houthis and Saudi Arabia. Brent crude futures saw a rise of 76 cents to reach $105.48 a barrel recently. Reports indicated that multiple tanker attacks have h…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-as-mideast-conflict-tanker-attacks-persist/articleshow/134880638.cms",
-      "bloc": "regional",
-      "date": "2026-10-12",
-      "datetime": "2026-10-12T02:08:18Z",
+      "headline": "October Is Beginning to Look a lot Like April for Oil",
+      "summary": "October is beginning to look a lot like April for the oil market, analysts at J.P. Morgan said.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/october_is_beginning_to_look_a_lot_like_april_for_oil-13-oct-2026-184832-article/",
+      "bloc": "western",
+      "date": "2026-10-13",
+      "datetime": "2026-10-13T09:58:20Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Strait of Hormuz Remains Severely Restricted as Tanker Attacks Continue and Traffic Stays Near 10% of Normal",
+      "summary": "The Strait of Hormuz remains technically open, but commercial crossings have fallen to about one-tenth of pre-crisis levels as vessel attacks continue and oil flows weaken.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-shipping-crisis-attacks-1876625",
+      "bloc": "western",
+      "date": "2026-10-13",
+      "datetime": "2026-10-13T08:03:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Crude oil crisis in Hormuz: Much more than just price and quantity",
+      "summary": "The conflict in Iran has closed the Strait of Hormuz, severely impacting global oil shipments and market dynamics. While oil availability has seemingly increased, a logistics premium affects shipping costs and insurance. This situation has led to heightened r…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/crude-oil-crisis-in-hormuz-much-more-than-just-price-and-quantity/articleshow/134907079.cms",
+      "bloc": "regional",
+      "date": "2026-10-13",
+      "datetime": "2026-10-13T06:47:37Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Rezaei: Iran Will Obliterate U.S. Tech Assets If Attacked",
+      "summary": "Iran will destroy U.S. technology infrastructure in the Gulf if Washington attacks again, the secretary of Iran’s Supreme National Security Council, Mohsen Rezaei, said in an interview aired over the weekend, according to a report by Russia Today (RT). [1] Re…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-13-iran-obliterate-us-tech-assets-if-attacked.html",
+      "bloc": "western",
+      "date": "2026-10-13",
+      "datetime": "2026-10-13T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
@@ -144,76 +248,23 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Tanker Data Shows Millions Fewer Barrels A Day Crossing Hormuz Than Energy Secretary Says",
-      "summary": "Tanker-tracking data shows a smaller recovery in oil flowing through the Strait of Hormuz than Energy Secretary Chris Wright described Monday.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/10/12/chris-wright-strait-of-hormuz-oil-flows-kpler-tanker-data-kevin-book-matthew-mcmanus",
-      "bloc": "western",
-      "date": "2026-10-12",
-      "datetime": "2026-10-12T21:38:14Z",
+      "headline": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
+      "summary": "US president has not endorsed Israeli prime minister ahead of October 27 election amid shifting public sentiment.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/13/despite-long-history-with-netanyahu-trump-hedges-as-israel-vote-nears",
+      "bloc": "regional",
+      "date": "2026-10-13",
+      "datetime": "2026-10-13T05:40:10Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Benjamin Netanyahu"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Netanyahu trial ICC"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran will destroy US data centers and AI facilities if attacked again – security chief",
-      "summary": "Iran’s Mohsen Rezaei warns US data centers, AI facilities and cables in the Gulf could be destroyed if Washington attacks again Read Full Article at RT.com",
-      "source": "Rt-english.com",
-      "url": "https://rt-english.com/news/647096-iran-us-tech-targets/",
-      "bloc": "western",
-      "date": "2026-10-12",
-      "datetime": "2026-10-12T14:07:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran sets supertanker ablaze after US takes out ship breaking blockade",
-      "summary": "“A devastating fire is the fate of any tanker that violates the rules and disregards security in the Strait of Hormuz,” Iran's top military arm said in a statement.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/11/world-news/iran-sets-supertanker-ablaze-after-us-takes-out-ship-breaking-blockade/",
-      "bloc": "western",
-      "date": "2026-10-11",
-      "datetime": "2026-10-11T16:27:27Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
+        "accountability",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",

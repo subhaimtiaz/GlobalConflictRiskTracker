@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-14T16:51:01.875Z",
+  "ts": "2026-10-14T21:25:20.846Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 106,
     "oilStress": 62,
-    "updatedAt": "2026-10-14T16:51:01.875Z"
+    "updatedAt": "2026-10-14T21:25:20.846Z"
   },
   "items": [
     {
@@ -290,6 +290,31 @@
       "dimensions": [
         "survival",
         "accountability",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Vladimir Putin and the pariah problem",
+      "summary": "Emphasising the Russian leader’s wickedness must not come at Ukraine’s expense.",
+      "source": "Www.nrc.nl",
+      "url": "https://www.nrc.nl/nieuws/2026/10/13/vladimir-putin-and-the-pariah-problem-a4938624",
+      "bloc": "western",
+      "date": "2026-10-13",
+      "datetime": "2026-10-13T20:00:00Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
         "narcissism"
       ],
       "variable_key": null,

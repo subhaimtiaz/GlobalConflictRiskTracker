@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-15T11:05:37.010Z",
+  "ts": "2026-10-15T16:36:43.033Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 105,
-    "oilStress": 60,
-    "updatedAt": "2026-10-15T11:05:37.010Z"
+    "oilPrice": 106,
+    "oilStress": 62,
+    "updatedAt": "2026-10-15T16:36:43.033Z"
   },
   "items": [
+    {
+      "headline": "UN official warns of looming food crisis as Hormuz fertiliser plan stalls",
+      "summary": "Without a quick deal to move fertiliser through the strait, agricultural productivity would 'significantly drop'.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/14/un-official-warns-of-looming-food-crisis-as-hormuz-fertiliser-plan-stalls",
+      "bloc": "regional",
+      "date": "2026-10-14",
+      "datetime": "2026-10-14T16:08:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
+      "summary": "One official claims satellite internet could erode online governance in Iran amid war with the US and Israel.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions",
+      "bloc": "regional",
+      "date": "2026-10-14",
+      "datetime": "2026-10-14T13:17:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "‘Extending Russia’: Successes, Failures, and What Comes Next?",
       "summary": "US ‘allies’ to continue to pay the price as hopes are pinned on a post-Putin crisis in Moscow.",
@@ -92,65 +144,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump’s diesel deal opens a new rift with Europe over Ukraine",
-      "summary": "Trump calls for Zelenskyy to be replaced, while Europe devotes summit to funding Ukraine.",
+      "headline": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
+      "summary": "Ukraine's Western allies are using maritime law to inspect Russian shadow tankers.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine",
+      "url": "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil",
       "bloc": "regional",
-      "date": "2026-10-13",
-      "datetime": "2026-10-13T13:06:42Z",
+      "date": "2026-10-14",
+      "datetime": "2026-10-14T14:38:09Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tuesday: Hili dialogue",
-      "summary": "Welcome to The Cruelest Day, Tuesday, October 13, 2026 as well as National Yorkshire Pudding Day. I don’t have a picture of this delectable treat, always served in England with the Sunday roast, but here are two plump puddings from Wikipedia as part of the wh…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/10/13/tuesday-hili-dialogue-601/",
-      "bloc": "western",
-      "date": "2026-10-13",
-      "datetime": "2026-10-13T11:45:40Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
       "headline": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
-      "summary": "The Middle East crisis has driven tanker rates to all-time highs and created a shortage of vessels. This oil logistics problem is now causing a ripple effect, tipping the heavy crude market in North and South America into oversupply—while Asia and Europe grap…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Leave-Heavy-Crude-Stranded-in-the-Americas.html",
+      "summary": "Nosebleed high tanker rates, thanks to Iran attacks on vessels, are producing oil supply chain breakage on the other side of the planet.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/10/record-tanker-rates-leave-heavy-crude-stranded-in-the-americas.html",
       "bloc": "western",
-      "date": "2026-10-13",
-      "datetime": "2026-10-13T23:00:00Z",
+      "date": "2026-10-14",
+      "datetime": "2026-10-14T13:48:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -166,6 +192,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+      "summary": "Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again",
+      "bloc": "regional",
+      "date": "2026-10-14",
+      "datetime": "2026-10-14T11:16:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -192,84 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz Remains Severely Restricted as Tanker Attacks Continue and Traffic Stays Near 10% of Normal",
-      "summary": "The Strait of Hormuz remains technically open, but commercial crossings have fallen to about one-tenth of pre-crisis levels as vessel attacks continue and oil flows weaken.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/strait-hormuz-shipping-crisis-attacks-1876625",
-      "bloc": "western",
-      "date": "2026-10-13",
-      "datetime": "2026-10-13T08:03:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Crude oil crisis in Hormuz: Much more than just price and quantity",
-      "summary": "The conflict in Iran has closed the Strait of Hormuz, severely impacting global oil shipments and market dynamics. While oil availability has seemingly increased, a logistics premium affects shipping costs and insurance. This situation has led to heightened r…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/crude-oil-crisis-in-hormuz-much-more-than-just-price-and-quantity/articleshow/134907079.cms",
-      "bloc": "regional",
-      "date": "2026-10-13",
-      "datetime": "2026-10-13T06:47:37Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Rezaei: Iran Will Obliterate U.S. Tech Assets If Attacked",
-      "summary": "Iran will destroy U.S. technology infrastructure in the Gulf if Washington attacks again, the secretary of Iran’s Supreme National Security Council, Mohsen Rezaei, said in an interview aired over the weekend, according to a report by Russia Today (RT). [1] Re…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-13-iran-obliterate-us-tech-assets-if-attacked.html",
-      "bloc": "western",
-      "date": "2026-10-13",
-      "datetime": "2026-10-13T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -366,6 +340,30 @@
         "survival",
         "impulsivity",
         "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Trump-Xi Summit Exposed the Problems in China-US Crisis Management",
+      "summary": "Military communication channels become bargaining chips precisely when a crisis makes them indispensable.",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/10/the-trump-xi-summit-exposed-the-problems-in-china-us-crisis-management/",
+      "bloc": "western",
+      "date": "2026-10-14",
+      "datetime": "2026-10-14T16:06:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",

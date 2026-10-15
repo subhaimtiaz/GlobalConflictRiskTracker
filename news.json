@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-14T21:25:20.846Z",
+  "ts": "2026-10-15T03:54:03.058Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 106,
-    "oilStress": 62,
-    "updatedAt": "2026-10-14T21:25:20.846Z"
+    "oilPrice": 104,
+    "oilStress": 59,
+    "updatedAt": "2026-10-15T03:54:03.058Z"
   },
   "items": [
+    {
+      "headline": "Diesel futures jump, signaling higher prices to come despite Trump’s Russia deal",
+      "summary": "Diesel futures traded sharply higher Tuesday, as doubts mounted about the likely impacts of the Trump administration’s latest efforts to push prices down. U.S. diesel futures were up 5% by midday to their highest level in weeks. In Europe, diesel futures rose…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4399086/posts",
+      "bloc": "western",
+      "date": "2026-10-14",
+      "datetime": "2026-10-14T02:43:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump’s diesel deal opens a new rift with Europe over Ukraine",
       "summary": "Trump calls for Zelenskyy to be replaced, while Europe devotes summit to funding Ukraine.",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Writing About War as Bombs Fall",
-      "summary": "Marwan Bishara\n\n\n\nWhile the Israeli government launched a well-orchestrated offensive of disinformation and hyperbole that would make the illegal permissible in the war on Gaza.\r\n\n\r\n\n\nThe post Writing About War as Bombs Fall appeared first on The Nation.",
-      "source": "Thenation.com",
-      "url": "https://www.thenation.com/?post_type=article&p=612158",
+      "headline": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
+      "summary": "The Middle East crisis has driven tanker rates to all-time highs and created a shortage of vessels. This oil logistics problem is now causing a ripple effect, tipping the heavy crude market in North and South America into oversupply—while Asia and Europe grap…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Leave-Heavy-Crude-Stranded-in-the-Americas.html",
       "bloc": "western",
-      "date": "2026-10-12",
-      "datetime": "2026-10-12T09:00:00Z",
+      "date": "2026-10-13",
+      "datetime": "2026-10-13T23:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Global Oil Shipments Under Pressure as Supertanker Supplies Tighten",
-      "summary": "A shortage of available supertankers is raising global oil shipping costs and making some long-distance crude trades uneconomical, according to shipbrokers, traders and industry data cited in a Sept. 19 report. The squeeze arrives as fuel markets remain tight…",
-      "source": "Activistpost.com",
-      "url": "https://activistpost.com/global-oil-shipments-under-pressure-as-supertanker-supplies-tighten/",
-      "bloc": "western",
-      "date": "2026-10-13",
-      "datetime": "2026-10-13T01:51:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -472,28 +472,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Why $100 Oil Is Hard to Kill",
-      "summary": "Brent Crude oil prices have held above $100 per barrel for most of the past month despite numerous reports and figures put out in recent weeks by tanker-tracking services and investment banks that crude oil flows from the Strait of Hormuz have recovered, and …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
+      "headline": "Houthis hit Saudi Aramco headquarters with missiles as conflict escalates",
+      "summary": "The strike on an office complex in Dhahran caused a limited fire and no injuries, according to Saudi Arabia's energy ministry",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/houthis-hit-saudi-aramco-headquarters-with-missiles-as-conflict-escalates-126101400141_1.html",
       "bloc": "western",
-      "date": "2026-10-07",
-      "datetime": "2026-10-07T00:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
+      "date": "2026-10-14",
+      "datetime": "2026-10-14T03:14:05Z",
+      "leaders": [],
       "watch_terms": [
-        "oil Brent crude"
+        "oil refinery port"
       ],
       "dimensions": [
         "survival",
-        "values"
+        "impulsivity",
+        "accountability"
       ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

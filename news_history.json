@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-15T16:35:37.790Z",
+  "updated": "2026-10-15T21:06:04.617Z",
   "retention_days": 30,
   "items": [
     {
@@ -7426,7 +7426,63 @@
       "_from": "newsapi",
       "first_seen": "2026-10-15T16:35:37.790Z",
       "run_id": "2026-10-15T16:35"
+    },
+    {
+      "headline": "Yemen’s Houthis are bringing their war to Saudi Arabia – and reframing the narrative of being an Iranian proxy",
+      "summary": "A deadly bombing at Riyadh’s international airport is the latest in a tit-for-tat retaliation campaign the Houthis have ramped up for weeks.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/yemens-houthis-are-bringing-their-war-to-saudi-arabia-and-reframing-the-narrative-of-being-an-iranian-proxy-294208",
+      "bloc": "western",
+      "date": "2026-10-14",
+      "datetime": "2026-10-14T17:57:45Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-15T21:06:04.617Z",
+      "run_id": "2026-10-15T21:06"
+    },
+    {
+      "headline": "UN peacekeeping chief says major questions hang over southern Lebanon as UNIFIL exit nears",
+      "summary": "The United Nations peacekeeping chief says major questions remain about plans for southern Lebanon as the UNIFIL mandate nears its end",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/peacekeeping-chief-major-questions-hang-southern-lebanon-unifil-137265005",
+      "bloc": "western",
+      "date": "2026-10-14",
+      "datetime": "2026-10-14T17:49:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-15T21:06:04.617Z",
+      "run_id": "2026-10-15T21:06"
     }
   ],
-  "total_items_ever": 3679
+  "total_items_ever": 3681
 }

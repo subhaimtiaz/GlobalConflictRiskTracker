@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-16T11:00:12.041Z",
+  "updated": "2026-10-16T16:20:09.568Z",
   "retention_days": 30,
   "items": [
     {
@@ -7213,7 +7213,61 @@
       "_from": "newsapi",
       "first_seen": "2026-10-16T11:00:12.041Z",
       "run_id": "2026-10-16T11:00"
+    },
+    {
+      "headline": "Is the US limiting Starlink in Ukraine? The risks could be catastrophic",
+      "summary": "The satellite technology is vital both on the battlefield and for defending Ukraine’s cities.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/is-the-us-limiting-starlink-in-ukraine-the-risks-could-be-catastrophic-294496",
+      "bloc": "western",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T14:18:03Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-16T16:20:09.568Z",
+      "run_id": "2026-10-16T16:20"
+    },
+    {
+      "headline": "Is the US limiting Starlink in Ukraine? The consequences could be catastrophic",
+      "summary": "The satellite technology is vital both on the battlefield and for defending Ukraine’s cities.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/is-the-us-limiting-starlink-in-ukraine-the-consequences-could-be-catastrophic-294496",
+      "bloc": "western",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T14:18:03Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-16T16:20:09.568Z",
+      "run_id": "2026-10-16T16:20"
     }
   ],
-  "total_items_ever": 3686
+  "total_items_ever": 3688
 }

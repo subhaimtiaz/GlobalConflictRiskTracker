@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-16T11:01:17.346Z",
+  "ts": "2026-10-16T16:21:14.801Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 106,
-    "oilStress": 62,
-    "updatedAt": "2026-10-16T11:01:17.346Z"
+    "oilPrice": 107,
+    "oilStress": 64,
+    "updatedAt": "2026-10-16T16:21:14.800Z"
   },
   "items": [
     {
@@ -264,6 +264,56 @@
       "dimensions": [
         "survival",
         "accountability",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Is the US limiting Starlink in Ukraine? The risks could be catastrophic",
+      "summary": "The satellite technology is vital both on the battlefield and for defending Ukraine’s cities.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/is-the-us-limiting-starlink-in-ukraine-the-risks-could-be-catastrophic-294496",
+      "bloc": "western",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T14:18:03Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Is the US limiting Starlink in Ukraine? The consequences could be catastrophic",
+      "summary": "The satellite technology is vital both on the battlefield and for defending Ukraine’s cities.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/is-the-us-limiting-starlink-in-ukraine-the-consequences-could-be-catastrophic-294496",
+      "bloc": "western",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T14:18:03Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
         "narcissism"
       ],
       "variable_key": null,

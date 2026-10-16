@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-16T16:21:14.801Z",
+  "ts": "2026-10-16T20:43:20.211Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 107,
-    "oilStress": 64,
-    "updatedAt": "2026-10-16T16:21:14.800Z"
+    "oilPrice": 110,
+    "oilStress": 68,
+    "updatedAt": "2026-10-16T20:43:20.211Z"
   },
   "items": [
+    {
+      "headline": "How the Houthis are Helping Iran Turn Saudi Arabia Into a Pressure Point",
+      "summary": "The Houthi attacks on Saudi Arabia are about more than Yemen.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/how-the-houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point/",
+      "bloc": "western",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T18:00:12Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How Iran helped Houthis build weapons capability and challenge Saudi Arabia’s defences",
+      "summary": "Iranian expertise, diversified supply chains and battlefield experience have strengthened Houthi missile and drone capabilities as Saudi Arabia's air defences face pressure.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/how-iran-helped-houthis-build-weapons-capability-and-challenge-saudi-arabias-defences/article71589719.ece",
+      "bloc": "western",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T17:19:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Houthis strike Saudi Aramco headquarters, damaging top floors in Dhahran",
+      "summary": "Houthi rebels struck Saudi Aramco’s Dhahran headquarters, damaging three floors as missile attacks intensify and concerns grow over regional security and oil infrastructure.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/houthis-strike-saudi-aramco-headquarters-damaging-top-floors-in-dhahran/article71589698.ece",
+      "bloc": "western",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T16:59:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Houthis 'have started producing their own advanced missiles using Chinese parts'",
       "summary": "The Houthis have begun producing their own advanced ballistic missiles using Chinese parts, according to a new report.",
@@ -62,84 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Yemen’s Houthis are bringing their war to Saudi Arabia – and reframing the narrative of being an Iranian proxy",
-      "summary": "A deadly bombing at Riyadh’s international airport is the latest in a tit-for-tat retaliation campaign the Houthis have ramped up for weeks.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/yemens-houthis-are-bringing-their-war-to-saudi-arabia-and-reframing-the-narrative-of-being-an-iranian-proxy-294208",
-      "bloc": "western",
-      "date": "2026-10-14",
-      "datetime": "2026-10-14T17:57:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "UN peacekeeping chief says major questions hang over southern Lebanon as UNIFIL exit nears",
-      "summary": "The United Nations peacekeeping chief says major questions remain about plans for southern Lebanon as the UNIFIL mandate nears its end",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/peacekeeping-chief-major-questions-hang-southern-lebanon-unifil-137265005",
-      "bloc": "western",
-      "date": "2026-10-14",
-      "datetime": "2026-10-14T17:49:16Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "UN official warns of looming food crisis as Hormuz fertiliser plan stalls",
-      "summary": "Without a quick deal to move fertiliser through the strait, agricultural productivity would 'significantly drop'.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/14/un-official-warns-of-looming-food-crisis-as-hormuz-fertiliser-plan-stalls",
-      "bloc": "regional",
-      "date": "2026-10-14",
-      "datetime": "2026-10-14T16:08:09Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

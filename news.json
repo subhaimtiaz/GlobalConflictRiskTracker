@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-15T21:07:09.804Z",
+  "ts": "2026-10-16T03:49:38.790Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 106,
-    "oilStress": 62,
-    "updatedAt": "2026-10-15T21:07:09.804Z"
+    "oilPrice": 105,
+    "oilStress": 61,
+    "updatedAt": "2026-10-16T03:49:38.790Z"
   },
   "items": [
+    {
+      "headline": "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
+      "summary": "Brent crude is once again over $106, Iran is intensifying attacks on tankers in Hormuz, and global inventories are draining, while OPEC just forecast stronger demand for next year. Six months ago, one well-timed TruthSocial post by President Trump would have …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Market-Tightens-as-Tanker-Attacks-and-Inventory-Draws-Mount.html",
+      "bloc": "western",
+      "date": "2026-10-14",
+      "datetime": "2026-10-14T23:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Yemen’s Houthis are bringing their war to Saudi Arabia – and reframing the narrative of being an Iranian proxy",
       "summary": "A deadly bombing at Riyadh’s international airport is the latest in a tit-for-tat retaliation campaign the Houthis have ramped up for weeks.",
@@ -99,32 +125,6 @@
       "bloc": "regional",
       "date": "2026-10-14",
       "datetime": "2026-10-14T13:17:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "‘Extending Russia’: Successes, Failures, and What Comes Next?",
-      "summary": "US ‘allies’ to continue to pay the price as hopes are pinned on a post-Putin crisis in Moscow.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/10/extending-russia-successes-failures-and-what-comes-next.html",
-      "bloc": "western",
-      "date": "2026-10-14",
-      "datetime": "2026-10-14T09:00:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

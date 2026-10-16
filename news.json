@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-16T03:49:38.790Z",
+  "ts": "2026-10-16T11:01:17.346Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 105,
-    "oilStress": 61,
-    "updatedAt": "2026-10-16T03:49:38.790Z"
+    "oilPrice": 106,
+    "oilStress": 62,
+    "updatedAt": "2026-10-16T11:01:17.346Z"
   },
   "items": [
+    {
+      "headline": "Houthis 'have started producing their own advanced missiles using Chinese parts'",
+      "summary": "The Houthis have begun producing their own advanced ballistic missiles using Chinese parts, according to a new report.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16210897/Houthis-China-advanced-missiles-Chinese-parts.html",
+      "bloc": "western",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T08:17:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
       "summary": "Brent crude is once again over $106, Iran is intensifying attacks on tankers in Hormuz, and global inventories are draining, while OPEC just forecast stronger demand for next year. Six months ago, one well-timed TruthSocial post by President Trump would have …",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
-      "summary": "One official claims satellite internet could erode online governance in Iran amid war with the US and Israel.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions",
-      "bloc": "regional",
-      "date": "2026-10-14",
-      "datetime": "2026-10-14T13:17:34Z",
+      "headline": "The oil market is facing a transportation crisis that suggests energy costs aren't falling soon",
+      "summary": "Oil prices are inching lower, but energy experts are now focused on a broader shipping crisis that could keep energy costs high.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/oil-market-tanker-rates-crisis-energy-costs-inflation-2026-10#article",
+      "bloc": "western",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T09:15:02Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -218,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "October Is Beginning to Look a lot Like April for Oil",
-      "summary": "October is beginning to look a lot like April for the oil market, analysts at J.P. Morgan said.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/october_is_beginning_to_look_a_lot_like_april_for_oil-13-oct-2026-184832-article/",
-      "bloc": "western",
-      "date": "2026-10-13",
-      "datetime": "2026-10-13T09:58:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -348,6 +348,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "China opens joint airfield in Laos with eyes on its military role",
+      "summary": "China’s newly opened joint military airfield in Laos is Beijing’s first overseas facility focused on air power",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/china-opens-joint-airfield-laos-construction-ongoing-eyes-137275971",
+      "bloc": "western",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T06:55:43Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The Trump-Xi Summit Exposed the Problems in China-US Crisis Management",
       "summary": "Military communication channels become bargaining chips precisely when a crisis makes them indispensable.",
       "source": "The Diplomat",
@@ -444,30 +468,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Philippine Teacher Recall: China Plays the \"Safety\" Card ... Again",
-      "summary": "Ray Powell argues that the PRC recalled 150 Chinese teachers from Philippine schools, citing safety concerns after concerns were raised about CCP-linked education programs. This action follows a pattern of the PRC Government claiming its citizens are in dange…",
-      "source": "Sealight.live",
-      "url": "https://www.sealight.live/posts/the-philippine-teacher-recall-china-plays-the-safety-card-again",
-      "bloc": "western",
-      "date": "2026-10-09",
-      "datetime": "2026-10-09T00:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Silver may trade at $58-$61 as dollar, yields weigh, says Mirae Asset",
       "summary": "In near-term, silver is likely to range trade between $58 and $61. Interim resistance is at $60. Major hurdle is at $64.50.",
       "source": "Business Standard",
@@ -490,6 +490,29 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+      "summary": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield",
+      "bloc": "regional",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T10:52:12Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-16T03:48:33.565Z",
+  "updated": "2026-10-16T11:00:12.041Z",
   "retention_days": 30,
   "items": [
     {
@@ -7106,7 +7106,114 @@
       "_from": "newsapi",
       "first_seen": "2026-10-16T03:48:33.565Z",
       "run_id": "2026-10-16T03:48"
+    },
+    {
+      "headline": "Houthis 'have started producing their own advanced missiles using Chinese parts'",
+      "summary": "The Houthis have begun producing their own advanced ballistic missiles using Chinese parts, according to a new report.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16210897/Houthis-China-advanced-missiles-Chinese-parts.html",
+      "bloc": "western",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T08:17:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-16T11:00:12.041Z",
+      "run_id": "2026-10-16T11:00"
+    },
+    {
+      "headline": "The oil market is facing a transportation crisis that suggests energy costs aren't falling soon",
+      "summary": "Oil prices are inching lower, but energy experts are now focused on a broader shipping crisis that could keep energy costs high.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/oil-market-tanker-rates-crisis-energy-costs-inflation-2026-10#article",
+      "bloc": "western",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T09:15:02Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-16T11:00:12.041Z",
+      "run_id": "2026-10-16T11:00"
+    },
+    {
+      "headline": "China opens joint airfield in Laos with eyes on its military role",
+      "summary": "China’s newly opened joint military airfield in Laos is Beijing’s first overseas facility focused on air power",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/china-opens-joint-airfield-laos-construction-ongoing-eyes-137275971",
+      "bloc": "western",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T06:55:43Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-16T11:00:12.041Z",
+      "run_id": "2026-10-16T11:00"
+    },
+    {
+      "headline": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+      "summary": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield",
+      "bloc": "regional",
+      "date": "2026-10-15",
+      "datetime": "2026-10-15T10:52:12Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-16T11:00:12.041Z",
+      "run_id": "2026-10-16T11:00"
     }
   ],
-  "total_items_ever": 3682
+  "total_items_ever": 3686
 }

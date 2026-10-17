@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-16T20:43:20.211Z",
+  "ts": "2026-10-17T03:39:55.211Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 110,
     "oilStress": 68,
-    "updatedAt": "2026-10-16T20:43:20.211Z"
+    "updatedAt": "2026-10-17T03:39:55.211Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying",
+      "summary": "Crude Oil Rallies as U.S. Inventory Draw Outruns Supply Relief November WTI crude oil futures are up sharply for the week through Thursday night. The gain did not come from one headline. The market has spent the week dealing with tanker attacks near the Strai…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/WTI-Outpaces-Brent-as-US-Crude-Draw-Ignites-Fresh-Buying.html",
+      "bloc": "western",
+      "date": "2026-10-16",
+      "datetime": "2026-10-16T03:10:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The oil market is facing a transportation crisis that suggests energy costs aren't falling soon",
       "summary": "Oil prices are inching lower, but energy experts are now focused on a broader shipping crisis that could keep energy costs high.",
       "source": "Business Insider",
@@ -218,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
-      "summary": "Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again",
-      "bloc": "regional",
-      "date": "2026-10-14",
-      "datetime": "2026-10-14T11:16:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -373,31 +373,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Links 10/9/2026",
-      "summary": "Our thriving daily links: connecting Claude to sex toys, France fiscal propaganda, US to livestream execution, farm debt reaches record, and John Coltrane.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/10/links-10-9-2026.html",
-      "bloc": "western",
-      "date": "2026-10-09",
-      "datetime": "2026-10-09T10:55:51Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "China opens joint airfield in Laos with eyes on its military role",
       "summary": "China’s newly opened joint military airfield in Laos is Beijing’s first overseas facility focused on air power",
       "source": "Abcnews.com",
@@ -494,56 +469,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Face-Off: Trump vs. Xi",
-      "summary": "This post Face-Off: Trump vs. Xi appeared first on Daily Reckoning.\nCurrency and trade wars remain hot...\nThe post Face-Off: Trump vs. Xi appeared first on Daily Reckoning.",
-      "source": "Dailyreckoning.com",
-      "url": "https://dailyreckoning.com/face-off-trump-vs-xi/",
-      "bloc": "western",
-      "date": "2026-10-09",
-      "datetime": "2026-10-09T22:00:29Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Silver may trade at $58-$61 as dollar, yields weigh, says Mirae Asset",
-      "summary": "In near-term, silver is likely to range trade between $58 and $61. Interim resistance is at $60. Major hurdle is at $64.50.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/silver-may-trade-at-58-61-as-dollar-yields-weigh-says-mirae-asset-126100900471_1.html",
-      "bloc": "western",
-      "date": "2026-10-09",
-      "datetime": "2026-10-09T07:16:08Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
       "summary": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
       "source": "Al Jazeera English",
@@ -620,29 +545,6 @@
       "bloc": "regional",
       "date": "2026-10-11",
       "datetime": "2026-10-11T10:45:15Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine takes aim at Russia’s AI data infrastructure",
-      "summary": "Drone attacks target Russian digital giant Yandex, as well as continuing strikes on missile plants and oil refineries.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure",
-      "bloc": "regional",
-      "date": "2026-10-09",
-      "datetime": "2026-10-09T13:01:57Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

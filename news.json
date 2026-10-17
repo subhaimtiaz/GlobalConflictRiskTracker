@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-17T15:15:31.994Z",
+  "ts": "2026-10-17T20:20:40.309Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 110,
     "oilStress": 68,
-    "updatedAt": "2026-10-17T15:15:31.994Z"
+    "updatedAt": "2026-10-17T20:20:40.309Z"
   },
   "items": [
+    {
+      "headline": "Israeli Military Raises Alert Level as Iran Tells Hezbollah to ‘Prepare For War’",
+      "summary": "Israel Hayom: \"Tehran has instructed its Lebanese proxy to prepare for independent operations as it begins decentralizing its military command.\"\nThe post Israeli Military Raises Alert Level as Iran Tells Hezbollah to ‘Prepare For War’ first appeared on Le·gal…",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2026/10/israeli-military-raises-alert-level-as-iran-tells-hezbollah-to-prepare-for-war/",
+      "bloc": "western",
+      "date": "2026-10-16",
+      "datetime": "2026-10-16T19:00:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Yemen’s Houthis are at War with Saudis for own Reasons, not as Iran Proxy",
       "summary": "The Houthis moved in early September to establish a degree of control over the Strait of Bab el-Mandeb",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Houthis strike Saudi Aramco headquarters, damaging top floors in Dhahran",
-      "summary": "Houthi rebels struck Saudi Aramco’s Dhahran headquarters, damaging three floors as missile attacks intensify and concerns grow over regional security and oil infrastructure.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/houthis-strike-saudi-aramco-headquarters-damaging-top-floors-in-dhahran/article71589698.ece",
+      "headline": "Europe Can Flag Ships to Keep the Black Sea Open",
+      "summary": "The price of deterring Russia is accepting a share of the risk.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/10/16/europe-russia-ukraine-odesa-shipping-black-sea/",
       "bloc": "western",
-      "date": "2026-10-15",
-      "datetime": "2026-10-15T16:59:43Z",
+      "date": "2026-10-16",
+      "datetime": "2026-10-16T16:08:30Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -218,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
-      "summary": "Nosebleed high tanker rates, thanks to Iran attacks on vessels, are producing oil supply chain breakage on the other side of the planet.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/10/record-tanker-rates-leave-heavy-crude-stranded-in-the-americas.html",
-      "bloc": "western",
-      "date": "2026-10-14",
-      "datetime": "2026-10-14T13:48:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -369,6 +369,31 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Report to Congress on North Korea’s Nuclear Weapons and Missile Programs",
+      "summary": "Over the past decade, the Democratic People’s Republic of Korea (DPRK, or North Korea) has advanced its nuclear weapons and ballistic missile programs, which has raised the threat Pyongyang poses to the United States, U.S. allies in East Asia, and U.S. intere…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4399416/posts",
+      "bloc": "western",
+      "date": "2026-10-16",
+      "datetime": "2026-10-16T16:31:00Z",
+      "leaders": [
+        "Kim Jong-un"
+      ],
+      "watch_terms": [
+        "Kim Jong-un North"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "narcissism",
+        "survival"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

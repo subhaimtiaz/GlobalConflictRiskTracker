@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-17T03:38:50.028Z",
+  "updated": "2026-10-17T10:21:26.242Z",
   "retention_days": 30,
   "items": [
     {
@@ -6998,7 +6998,88 @@
       "_from": "newsapi",
       "first_seen": "2026-10-17T03:38:50.028Z",
       "run_id": "2026-10-17T03:38"
+    },
+    {
+      "headline": "Yemen’s Houthis are at War with Saudis for own Reasons, not as Iran Proxy",
+      "summary": "The Houthis moved in early September to establish a degree of control over the Strait of Bab el-Mandeb",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/10/yemens-houthis-reasons.html",
+      "bloc": "western",
+      "date": "2026-10-16",
+      "datetime": "2026-10-16T04:06:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-17T10:21:26.242Z",
+      "run_id": "2026-10-17T10:21"
+    },
+    {
+      "headline": "The Nobel Committee messed up again",
+      "summary": "By Joseph PuderWhy give this woman the Peace Prize instead of Donald Trump?",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/10/the-nobel-committee-messed-up-again/",
+      "bloc": "western",
+      "date": "2026-10-16",
+      "datetime": "2026-10-16T04:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-17T10:21:26.242Z",
+      "run_id": "2026-10-17T10:21"
+    },
+    {
+      "headline": "Zelensky Says Ukraine Got No Warning Before Russian Strikes; Trump Denies Intel Cut-Off",
+      "summary": "Ukrainian President Volodymyr Zelensky said Tuesday that Ukrainian officials did not receive a warning from partners about the latest Russian assault on civilian sites, according to his statement and multiple news reports. The comments came after what he desc…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-16-zelensky-ukraine-got-no-warning-before-russian-strikes.html",
+      "bloc": "western",
+      "date": "2026-10-16",
+      "datetime": "2026-10-16T06:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-17T10:21:26.242Z",
+      "run_id": "2026-10-17T10:21"
     }
   ],
-  "total_items_ever": 3692
+  "total_items_ever": 3695
 }

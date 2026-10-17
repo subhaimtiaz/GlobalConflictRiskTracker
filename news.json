@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-17T03:39:55.211Z",
+  "ts": "2026-10-17T10:22:31.491Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 110,
     "oilStress": 68,
-    "updatedAt": "2026-10-17T03:39:55.211Z"
+    "updatedAt": "2026-10-17T10:22:31.491Z"
   },
   "items": [
+    {
+      "headline": "Yemen’s Houthis are at War with Saudis for own Reasons, not as Iran Proxy",
+      "summary": "The Houthis moved in early September to establish a degree of control over the Strait of Bab el-Mandeb",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/10/yemens-houthis-reasons.html",
+      "bloc": "western",
+      "date": "2026-10-16",
+      "datetime": "2026-10-16T04:06:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Nobel Committee messed up again",
+      "summary": "By Joseph PuderWhy give this woman the Peace Prize instead of Donald Trump?",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/10/the-nobel-committee-messed-up-again/",
+      "bloc": "western",
+      "date": "2026-10-16",
+      "datetime": "2026-10-16T04:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "How the Houthis are Helping Iran Turn Saudi Arabia Into a Pressure Point",
       "summary": "The Houthi attacks on Saudi Arabia are about more than Yemen.",
@@ -73,58 +125,6 @@
       "bloc": "western",
       "date": "2026-10-15",
       "datetime": "2026-10-15T16:59:43Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthis 'have started producing their own advanced missiles using Chinese parts'",
-      "summary": "The Houthis have begun producing their own advanced ballistic missiles using Chinese parts, according to a new report.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16210897/Houthis-China-advanced-missiles-Chinese-parts.html",
-      "bloc": "western",
-      "date": "2026-10-15",
-      "datetime": "2026-10-15T08:17:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
-      "summary": "Brent crude is once again over $106, Iran is intensifying attacks on tankers in Hormuz, and global inventories are draining, while OPEC just forecast stronger demand for next year. Six months ago, one well-timed TruthSocial post by President Trump would have …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Market-Tightens-as-Tanker-Attacks-and-Inventory-Draws-Mount.html",
-      "bloc": "western",
-      "date": "2026-10-14",
-      "datetime": "2026-10-14T23:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -465,6 +465,29 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Zelensky Says Ukraine Got No Warning Before Russian Strikes; Trump Denies Intel Cut-Off",
+      "summary": "Ukrainian President Volodymyr Zelensky said Tuesday that Ukrainian officials did not receive a warning from partners about the latest Russian assault on civilian sites, according to his statement and multiple news reports. The comments came after what he desc…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-16-zelensky-ukraine-got-no-warning-before-russian-strikes.html",
+      "bloc": "western",
+      "date": "2026-10-16",
+      "datetime": "2026-10-16T06:00:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

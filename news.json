@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-18T10:39:16.413Z",
+  "ts": "2026-10-18T15:37:24.876Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 110,
     "oilStress": 68,
-    "updatedAt": "2026-10-18T10:39:16.413Z"
+    "updatedAt": "2026-10-18T15:37:24.876Z"
   },
   "items": [
     {
@@ -144,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran’s Guards Say Two Tankers Hit Mines In Strait Of Hormuz",
+      "summary": "DUBAI, Oct 17 (Reuters) – Iran’s Revolutionary Guards Navy said on Saturday that two oil tankers had caught fire after hitting naval mines while crossing the Strait of Hormuz, the official Iranian news agency...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/",
+      "bloc": "western",
+      "date": "2026-10-17",
+      "datetime": "2026-10-17T14:44:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+      "summary": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
+      "bloc": "regional",
+      "date": "2026-10-17",
+      "datetime": "2026-10-17T12:10:56Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Europe Can Flag Ships to Keep the Black Sea Open",
       "summary": "The price of deterring Russia is accepting a share of the risk.",
       "source": "Foreign Policy",
@@ -177,32 +229,6 @@
       "bloc": "western",
       "date": "2026-10-16",
       "datetime": "2026-10-16T03:10:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The oil market is facing a transportation crisis that suggests energy costs aren't falling soon",
-      "summary": "Oil prices are inching lower, but energy experts are now focused on a broader shipping crisis that could keep energy costs high.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/oil-market-tanker-rates-crisis-energy-costs-inflation-2026-10#article",
-      "bloc": "western",
-      "date": "2026-10-15",
-      "datetime": "2026-10-15T09:15:02Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-18T10:38:11.073Z",
+  "updated": "2026-10-18T15:36:19.674Z",
   "retention_days": 30,
   "items": [
     {
@@ -6756,7 +6756,63 @@
       "_from": "newsapi",
       "first_seen": "2026-10-18T10:38:11.073Z",
       "run_id": "2026-10-18T10:38"
+    },
+    {
+      "headline": "Iran’s Guards Say Two Tankers Hit Mines In Strait Of Hormuz",
+      "summary": "DUBAI, Oct 17 (Reuters) – Iran’s Revolutionary Guards Navy said on Saturday that two oil tankers had caught fire after hitting naval mines while crossing the Strait of Hormuz, the official Iranian news agency...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/",
+      "bloc": "western",
+      "date": "2026-10-17",
+      "datetime": "2026-10-17T14:44:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-18T15:36:19.674Z",
+      "run_id": "2026-10-18T15:36"
+    },
+    {
+      "headline": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+      "summary": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
+      "bloc": "regional",
+      "date": "2026-10-17",
+      "datetime": "2026-10-17T12:10:56Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-18T15:36:19.674Z",
+      "run_id": "2026-10-18T15:36"
     }
   ],
-  "total_items_ever": 3700
+  "total_items_ever": 3702
 }

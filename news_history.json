@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-18T03:45:06.508Z",
+  "updated": "2026-10-18T10:38:11.073Z",
   "retention_days": 30,
   "items": [
     {
@@ -6728,7 +6728,35 @@
       "_from": "newsapi",
       "first_seen": "2026-10-18T03:45:06.508Z",
       "run_id": "2026-10-18T03:45"
+    },
+    {
+      "headline": "The Israeli politicians seeking to replace Netanyahu",
+      "summary": "A look at Israel's main opposition leaders, their parties and their largely shared positions on Gaza and other wars.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu",
+      "bloc": "regional",
+      "date": "2026-10-17",
+      "datetime": "2026-10-17T05:00:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-18T10:38:11.073Z",
+      "run_id": "2026-10-18T10:38"
     }
   ],
-  "total_items_ever": 3699
+  "total_items_ever": 3700
 }

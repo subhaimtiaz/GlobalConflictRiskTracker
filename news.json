@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-19T12:36:59.957Z",
+  "ts": "2026-10-19T22:09:09.447Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 108,
-    "oilStress": 65,
-    "updatedAt": "2026-10-19T12:36:59.957Z"
+    "oilPrice": 109,
+    "oilStress": 67,
+    "updatedAt": "2026-10-19T22:09:09.447Z"
   },
   "items": [
+    {
+      "headline": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
+      "summary": "FIFA committee to assess the merits of the award after several members demand its discontinuation.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump",
+      "bloc": "regional",
+      "date": "2026-10-18",
+      "datetime": "2026-10-18T12:49:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Why Iran-US negotiations keep failing",
       "summary": "Relations between the two countries are dominated by policy complexes shaped by a history of hostility.",
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How the Iran Conflict Opened a New Threat to the Global Monetary System",
-      "summary": "Midnight fell differently on February 28, 2026. Across trading floors from Singapore to Chicago, monitors flickered with data streams that would soon curdle into panic. At 0400 hours Tehran time, American B-2 Spirit bombers and Israeli F-35I Adir fighters cro…",
-      "source": "Activistpost.com",
-      "url": "https://activistpost.com/how-the-iran-conflict-opened-a-new-threat-to-the-global-monetary-system/",
-      "bloc": "western",
-      "date": "2026-10-17",
-      "datetime": "2026-10-17T01:29:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -490,6 +490,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How the Iran Conflict Opened a New Threat to the Global Monetary System",
+      "summary": "Midnight fell differently on February 28, 2026. Across trading floors from Singapore to Chicago, monitors flickered with data streams that would soon curdle into panic. At 0400 hours Tehran time, American B-2 Spirit bombers and Israeli F-35I Adir fighters cro…",
+      "source": "Activistpost.com",
+      "url": "https://activistpost.com/how-the-iran-conflict-opened-a-new-threat-to-the-global-monetary-system/",
+      "bloc": "western",
+      "date": "2026-10-17",
+      "datetime": "2026-10-17T01:29:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

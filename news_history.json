@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-19T03:54:50.235Z",
+  "updated": "2026-10-19T12:35:54.711Z",
   "retention_days": 30,
   "items": [
     {
@@ -6595,7 +6595,63 @@
       "_from": "newsapi",
       "first_seen": "2026-10-19T03:54:50.235Z",
       "run_id": "2026-10-19T03:54"
+    },
+    {
+      "headline": "Why Iran-US negotiations keep failing",
+      "summary": "Relations between the two countries are dominated by policy complexes shaped by a history of hostility.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing",
+      "bloc": "regional",
+      "date": "2026-10-18",
+      "datetime": "2026-10-18T07:32:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-19T12:35:54.711Z",
+      "run_id": "2026-10-19T12:35"
+    },
+    {
+      "headline": "West Asia Wars: Egyptian Parliament Weighs Defense of Saudi Arabia, Why Ansar Allah’s Missile Accuracy Has Improved",
+      "summary": "A roundup of news from the Saudi Arabian and Yemeni fronts, some Iranian news plus commentary and analysis on Ansar Allah.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/10/west-asia-wars-egypt-parliament-yemen-saudi-arabia-hormuz.html",
+      "bloc": "western",
+      "date": "2026-10-18",
+      "datetime": "2026-10-18T10:05:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-19T12:35:54.711Z",
+      "run_id": "2026-10-19T12:35"
     }
   ],
-  "total_items_ever": 3705
+  "total_items_ever": 3707
 }

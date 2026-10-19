@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-19T03:55:55.505Z",
+  "ts": "2026-10-19T12:36:59.957Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 108,
     "oilStress": 65,
-    "updatedAt": "2026-10-19T03:55:55.505Z"
+    "updatedAt": "2026-10-19T12:36:59.957Z"
   },
   "items": [
+    {
+      "headline": "Why Iran-US negotiations keep failing",
+      "summary": "Relations between the two countries are dominated by policy complexes shaped by a history of hostility.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing",
+      "bloc": "regional",
+      "date": "2026-10-18",
+      "datetime": "2026-10-18T07:32:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump says Iran war will end ‘very quickly’, predicts lower US gas prices",
       "summary": "Donald Trump predicts a quick end to the Iran war and lower US gas prices, while Tehran calls for an end to hostilities across the region.",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Israeli Military Raises Alert Level as Iran Tells Hezbollah to ‘Prepare For War’",
-      "summary": "Israel Hayom: \"Tehran has instructed its Lebanese proxy to prepare for independent operations as it begins decentralizing its military command.\"\nThe post Israeli Military Raises Alert Level as Iran Tells Hezbollah to ‘Prepare For War’ first appeared on Le·gal…",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/10/israeli-military-raises-alert-level-as-iran-tells-hezbollah-to-prepare-for-war/",
+      "headline": "West Asia Wars: Egyptian Parliament Weighs Defense of Saudi Arabia, Why Ansar Allah’s Missile Accuracy Has Improved",
+      "summary": "A roundup of news from the Saudi Arabian and Yemeni fronts, some Iranian news plus commentary and analysis on Ansar Allah.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/10/west-asia-wars-egypt-parliament-yemen-saudi-arabia-hormuz.html",
       "bloc": "western",
-      "date": "2026-10-16",
-      "datetime": "2026-10-16T19:00:49Z",
+      "date": "2026-10-18",
+      "datetime": "2026-10-18T10:05:01Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -218,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Europe Can Flag Ships to Keep the Black Sea Open",
-      "summary": "The price of deterring Russia is accepting a share of the risk.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/10/16/europe-russia-ukraine-odesa-shipping-black-sea/",
-      "bloc": "western",
-      "date": "2026-10-16",
-      "datetime": "2026-10-16T16:08:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

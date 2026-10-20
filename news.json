@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-20T04:08:04.591Z",
+  "ts": "2026-10-20T11:10:40.972Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 110,
-    "oilStress": 68,
-    "updatedAt": "2026-10-20T04:08:04.591Z"
+    "oilPrice": 111,
+    "oilStress": 70,
+    "updatedAt": "2026-10-20T11:10:40.972Z"
   },
   "items": [
+    {
+      "headline": "Hezbollah funding plan indicates a new challenge to Lebanon’s government",
+      "summary": "The reported $200m in aid from Iran to Hezbollah has put the Lebanese government under increased pressure from the US.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government",
+      "bloc": "regional",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T08:34:56Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
       "summary": "FIFA committee to assess the merits of the award after several members demand its discontinuation.",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Israeli politicians seeking to replace Netanyahu",
-      "summary": "A look at Israel's main opposition leaders, their parties and their largely shared positions on Gaza and other wars.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu",
-      "bloc": "regional",
-      "date": "2026-10-17",
-      "datetime": "2026-10-17T05:00:58Z",
+      "headline": "The Iran War is sprawling into an inflation nightmare for Trump ahead of the midterms",
+      "summary": "Americans are feeling the pressure at the pump as the Iran War keeps prices high. That could have a big midterm impact.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/gas-oil-prices-soar-as-trump-deals-iran-war-inflation-2026-10#article",
+      "bloc": "western",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T10:00:01Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-      "summary": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
-      "bloc": "regional",
-      "date": "2026-10-17",
-      "datetime": "2026-10-17T12:10:56Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

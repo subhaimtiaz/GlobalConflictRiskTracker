@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-20T11:09:35.740Z",
+  "updated": "2026-10-20T16:34:20.140Z",
   "retention_days": 30,
   "items": [
     {
@@ -6651,7 +6651,91 @@
       "_from": "newsapi",
       "first_seen": "2026-10-20T11:09:35.740Z",
       "run_id": "2026-10-20T11:09"
+    },
+    {
+      "headline": "Iran’s Main Oil Terminals Remain Empty as US Blockade Bites",
+      "summary": "Iran’s main oil-loading terminals have remained empty for weeks, adding to signs that a US naval blockade of the country is throttling Tehran’s exports.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/irans-main-oil-terminals-remain-empty-as-us-blockade-bites/",
+      "bloc": "western",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T16:26:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-20T16:34:20.140Z",
+      "run_id": "2026-10-20T16:34"
+    },
+    {
+      "headline": "Iran's Main Oil Terminals Remain Empty",
+      "summary": "Iran's main oil-loading terminals have remained empty for weeks.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/irans_main_oil_terminals_remain_empty-19-oct-2026-184877-article/",
+      "bloc": "western",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T14:28:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-20T16:34:20.140Z",
+      "run_id": "2026-10-20T16:34"
+    },
+    {
+      "headline": "Current price of oil as of October 19, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-10-19-2026/",
+      "bloc": "western",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T13:00:16Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-20T16:34:20.140Z",
+      "run_id": "2026-10-20T16:34"
     }
   ],
-  "total_items_ever": 3712
+  "total_items_ever": 3715
 }

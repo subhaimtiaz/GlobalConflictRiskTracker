@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-20T11:10:40.972Z",
+  "ts": "2026-10-20T16:35:25.342Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 111,
-    "oilStress": 70,
-    "updatedAt": "2026-10-20T11:10:40.972Z"
+    "oilPrice": 109,
+    "oilStress": 66,
+    "updatedAt": "2026-10-20T16:35:25.342Z"
   },
   "items": [
     {
@@ -144,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran’s Main Oil Terminals Remain Empty as US Blockade Bites",
+      "summary": "Iran’s main oil-loading terminals have remained empty for weeks, adding to signs that a US naval blockade of the country is throttling Tehran’s exports.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/irans-main-oil-terminals-remain-empty-as-us-blockade-bites/",
+      "bloc": "western",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T16:26:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran's Main Oil Terminals Remain Empty",
+      "summary": "Iran's main oil-loading terminals have remained empty for weeks.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/irans_main_oil_terminals_remain_empty-19-oct-2026-184877-article/",
+      "bloc": "western",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T14:28:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The Iran War is sprawling into an inflation nightmare for Trump ahead of the midterms",
       "summary": "Americans are feeling the pressure at the pump as the Iran War keeps prices high. That could have a big midterm impact.",
       "source": "Business Insider",
@@ -218,58 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Two supertankers hit mines in Strait of Hormuz – IRGC (VIDEO)",
-      "summary": "Two oil supertankers reportedly hit naval mines in the Strait of Hormuz on Saturday, Iran’s IRGC said, amid tensions with Washington and a US blockade",
-      "source": "Rt-english.com",
-      "url": "https://rt-english.com/news/647340-two-tankers-hormuz-mines-irgc/",
-      "bloc": "western",
-      "date": "2026-10-17",
-      "datetime": "2026-10-17T22:55:44Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran’s Guards Say Two Tankers Hit Mines In Strait Of Hormuz",
-      "summary": "DUBAI, Oct 17 (Reuters) – Iran’s Revolutionary Guards Navy said on Saturday that two oil tankers had caught fire after hitting naval mines while crossing the Strait of Hormuz, the official Iranian news agency...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/",
-      "bloc": "western",
-      "date": "2026-10-17",
-      "datetime": "2026-10-17T14:44:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -492,6 +492,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Current price of oil as of October 19, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-10-19-2026/",
+      "bloc": "western",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T13:00:16Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

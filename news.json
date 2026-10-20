@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-19T22:09:09.447Z",
+  "ts": "2026-10-20T04:08:04.591Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 109,
-    "oilStress": 67,
-    "updatedAt": "2026-10-19T22:09:09.447Z"
+    "oilPrice": 110,
+    "oilStress": 68,
+    "updatedAt": "2026-10-20T04:08:04.591Z"
   },
   "items": [
     {
@@ -139,6 +139,32 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil tanker on fire after hitting mine in Hormuz: Iran's Guards",
+      "summary": "An oil tanker struck a mine south of the Strait of Hormuz, resulting in significant damage after the explosion. The tanker was reportedly navigating in an unauthorized area, disabling its navigation systems. This incident follows a series of similar events wh…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/oil-tanker-on-fire-after-hitting-mine-in-hormuz-irans-guards/articleshow/135037303.cms",
+      "bloc": "regional",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T00:41:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -470,25 +496,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "How China and America Can Move from Competition to Stability",
-      "summary": "The American team thought it was signaling restraint. The Chinese team saw preparations for combat. In a closed-door Sino-American crisis simulation I helped organize in the 2010s — which the U.S. military funded as part of a long-term project — the Americans…",
-      "source": "War on the Rocks",
-      "url": "https://warontherocks.com/how-china-and-america-can-move-from-competition-to-stability/",
+      "headline": "Record Shipping Costs Force Oil Producers to Slash Prices",
+      "summary": "Freight is reshaping global oil trade and the prices producers can command for their crude. Soaring shipping costs are pushing delivered prices beyond what refiners are willing to pay, forcing sellers to cut differentials or find buyers closer to home. With C…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Record-Shipping-Costs-Force-Oil-Producers-to-Slash-Prices.html",
       "bloc": "western",
-      "date": "2026-10-12",
-      "datetime": "2026-10-12T07:30:20Z",
+      "date": "2026-10-18",
+      "datetime": "2026-10-18T23:00:00Z",
       "leaders": [
-        "Xi Jinping"
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "oil Brent crude"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "values"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

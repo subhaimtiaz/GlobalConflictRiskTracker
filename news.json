@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-20T16:35:25.342Z",
+  "ts": "2026-10-20T21:24:55.949Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 109,
-    "oilStress": 66,
-    "updatedAt": "2026-10-20T16:35:25.342Z"
+    "oilStress": 67,
+    "updatedAt": "2026-10-20T21:24:55.949Z"
   },
   "items": [
+    {
+      "headline": "How the Iran war is ruining Saudi Arabia’s plans",
+      "summary": "As the US-Iran war drags on, the damage is being felt regionally: Saudi Arabia experienced the worst attack in over a decade earlier this month, when Yemen’s Iran-backed Houthi militia struck an airport in the Saudi capital, Riyadh. The strike killed at least…",
+      "source": "Vox",
+      "url": "https://www.vox.com/podcasts/506853/saudi-arabia-airport-houthis-yemen-iran-war",
+      "bloc": "western",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T21:05:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Hezbollah funding plan indicates a new challenge to Lebanon’s government",
       "summary": "The reported $200m in aid from Iran to Hezbollah has put the Lebanese government under increased pressure from the US.",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
-      "summary": "During the first three months or so of the U.S. and Israeli war with Iran, the dominant mood on oil markets was that the conflict would end any day now. The brief June ceasefire reinforced that optimism, so it took a while longer for facts to be faced: the wa…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
+      "headline": "We Are Facing A Global Energy Crisis, A Global Food Crisis, A European Financial Crisis, The End Of The AI Bubble And A Super El Niño All At Once",
+      "summary": "We have never seen a year quite like 2026, and we are certainly not prepared for what is coming in 2027. There has never been a time when we haven’t had problems, but now we have entered an era when we are just getting hammered by crisis after crisis after cr…",
+      "source": "Theeconomiccollapseblog.com",
+      "url": "http://theeconomiccollapseblog.com/we-are-facing-a-global-energy-crisis-a-global-food-crisis-a-european-financial-crisis-the-end-of-the-ai-bubble-and-a-super-el-nino-all-at-once/",
       "bloc": "western",
-      "date": "2026-10-17",
-      "datetime": "2026-10-17T23:00:00Z",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T17:45:25Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "West Asia Wars: Egyptian Parliament Weighs Defense of Saudi Arabia, Why Ansar Allah’s Missile Accuracy Has Improved",
-      "summary": "A roundup of news from the Saudi Arabian and Yemeni fronts, some Iranian news plus commentary and analysis on Ansar Allah.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/10/west-asia-wars-egypt-parliament-yemen-saudi-arabia-hormuz.html",
-      "bloc": "western",
-      "date": "2026-10-18",
-      "datetime": "2026-10-18T10:05:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

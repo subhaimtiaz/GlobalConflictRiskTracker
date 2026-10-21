@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-21T16:53:37.370Z",
+  "ts": "2026-10-21T21:26:22.384Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 109,
-    "oilStress": 67,
-    "updatedAt": "2026-10-21T16:53:37.370Z"
+    "oilPrice": 110,
+    "oilStress": 68,
+    "updatedAt": "2026-10-21T21:26:22.384Z"
   },
   "items": [
+    {
+      "headline": "One Kurdish Peace Deal Could Ignite Another Middle Eastern Conflict",
+      "summary": "In October 2025, the PKK (Partiya Karkerên Kurdistanê, Kurdistan Workers' Party) announced it was withdrawing its fighters from Türkiye to northern Iraq as part of a peace effort with Ankara after four decades of hostilities. The statement said all PKK forces…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/One-Kurdish-Peace-Deal-Could-Ignite-Another-Middle-Eastern-Conflict.html",
+      "bloc": "western",
+      "date": "2026-10-20",
+      "datetime": "2026-10-20T19:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
       "summary": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-10-20",
       "datetime": "2026-10-20T04:01:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How the Iran war is ruining Saudi Arabia’s plans",
-      "summary": "As the US-Iran war drags on, the damage is being felt regionally: Saudi Arabia experienced the worst attack in over a decade earlier this month, when Yemen’s Iran-backed Houthi militia struck an airport in the Saudi capital, Riyadh. The strike killed at least…",
-      "source": "Vox",
-      "url": "https://www.vox.com/podcasts/506853/saudi-arabia-airport-houthis-yemen-iran-war",
-      "bloc": "western",
-      "date": "2026-10-19",
-      "datetime": "2026-10-19T21:05:39Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -323,6 +323,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "China Sends Navy After US Warship As Separate Maritime Standoff Erupts Near Taiwan",
+      "summary": "Things are continuing to heat up in the Taiwan Strait as naval confrontations become more frequent and aggressive.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/20/china-sends-navy-after-us-warship-taiwan-maritime-standoff",
+      "bloc": "western",
+      "date": "2026-10-20",
+      "datetime": "2026-10-20T20:51:20Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "China opens joint airfield in Laos with eyes on its military role",
       "summary": "China’s newly opened joint military airfield in Laos is Beijing’s first overseas facility focused on air power",
       "source": "Abcnews.com",
@@ -495,6 +519,31 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Kremlin warns of ‘extremely dangerous’ vacuum of nuclear arms control",
+      "summary": "A world where an international arms control framework does not exist is an “extremely dangerous” place, Kremlin spokesman Dmitry Peskov has warned",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/russia/647458-kremlin-dangerous-nuclear-arms-control/",
+      "bloc": "western",
+      "date": "2026-10-20",
+      "datetime": "2026-10-20T21:15:09Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

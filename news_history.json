@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-21T16:52:32.124Z",
+  "updated": "2026-10-21T21:25:17.181Z",
   "retention_days": 30,
   "items": [
     {
@@ -6929,7 +6929,88 @@
       "_from": "newsapi",
       "first_seen": "2026-10-21T16:52:32.124Z",
       "run_id": "2026-10-21T16:52"
+    },
+    {
+      "headline": "One Kurdish Peace Deal Could Ignite Another Middle Eastern Conflict",
+      "summary": "In October 2025, the PKK (Partiya Karkerên Kurdistanê, Kurdistan Workers' Party) announced it was withdrawing its fighters from Türkiye to northern Iraq as part of a peace effort with Ankara after four decades of hostilities. The statement said all PKK forces…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/One-Kurdish-Peace-Deal-Could-Ignite-Another-Middle-Eastern-Conflict.html",
+      "bloc": "western",
+      "date": "2026-10-20",
+      "datetime": "2026-10-20T19:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-21T21:25:17.181Z",
+      "run_id": "2026-10-21T21:25"
+    },
+    {
+      "headline": "China Sends Navy After US Warship As Separate Maritime Standoff Erupts Near Taiwan",
+      "summary": "Things are continuing to heat up in the Taiwan Strait as naval confrontations become more frequent and aggressive.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/20/china-sends-navy-after-us-warship-taiwan-maritime-standoff",
+      "bloc": "western",
+      "date": "2026-10-20",
+      "datetime": "2026-10-20T20:51:20Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-21T21:25:17.181Z",
+      "run_id": "2026-10-21T21:25"
+    },
+    {
+      "headline": "Kremlin warns of ‘extremely dangerous’ vacuum of nuclear arms control",
+      "summary": "A world where an international arms control framework does not exist is an “extremely dangerous” place, Kremlin spokesman Dmitry Peskov has warned",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/russia/647458-kremlin-dangerous-nuclear-arms-control/",
+      "bloc": "western",
+      "date": "2026-10-20",
+      "datetime": "2026-10-20T21:15:09Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-21T21:25:17.181Z",
+      "run_id": "2026-10-21T21:25"
     }
   ],
-  "total_items_ever": 3725
+  "total_items_ever": 3728
 }

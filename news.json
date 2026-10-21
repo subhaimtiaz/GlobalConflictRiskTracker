@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-21T11:26:13.930Z",
+  "ts": "2026-10-21T16:53:37.370Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 110,
-    "oilStress": 69,
-    "updatedAt": "2026-10-21T11:26:13.930Z"
+    "oilPrice": 109,
+    "oilStress": 67,
+    "updatedAt": "2026-10-21T16:53:37.370Z"
   },
   "items": [
+    {
+      "headline": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+      "summary": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting",
+      "bloc": "regional",
+      "date": "2026-10-20",
+      "datetime": "2026-10-20T14:39:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran War: Kinetic Action and US Threats Continue at Low Boil as Tanker Attacks and Resulting Nosebleed Charges Plus Continues Supply Choking Increase Economic Toll",
       "summary": "Today's Iran war news: Iran and the US poke at each other as futile talks continue and Trump loudly contemplates big, self-defeating strikes.",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Hezbollah funding plan indicates a new challenge to Lebanon’s government",
-      "summary": "The reported $200m in aid from Iran to Hezbollah has put the Lebanese government under increased pressure from the US.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government",
-      "bloc": "regional",
-      "date": "2026-10-19",
-      "datetime": "2026-10-19T08:34:56Z",
+      "headline": "Iran Strikes More Ship Engine Rooms in Ramp-Up of Hormuz Attacks",
+      "summary": "Iranian attacks in the Persian Gulf are striking more ships and causing more severe damage than earlier in the conflict, bringing fresh risks to energy flows from the region.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-strikes-more-ship-engine-rooms-in-ramp-up-of-hormuz-attacks/",
+      "bloc": "western",
+      "date": "2026-10-20",
+      "datetime": "2026-10-20T16:20:13Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-10-19",
       "datetime": "2026-10-19T14:28:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Iran War is sprawling into an inflation nightmare for Trump ahead of the midterms",
-      "summary": "Americans are feeling the pressure at the pump as the Iran War keeps prices high. That could have a big midterm impact.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/gas-oil-prices-soar-as-trump-deals-iran-war-inflation-2026-10#article",
-      "bloc": "western",
-      "date": "2026-10-19",
-      "datetime": "2026-10-19T10:00:01Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -391,6 +391,32 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Shipping Crisis Forces Asian Crude Buyers to Use Smaller Tankers",
+      "summary": "Record-high freight costs are changing the behavior of Asian buyers who are increasingly using smaller tankers and ships under long-term charter deals to pick crude oil supply, refining and trading sources tell Reuters. The costs of shipping crude oil have so…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Crisis-Forces-Asian-Crude-Buyers-to-Use-Smaller-Tankers.html",
+      "bloc": "western",
+      "date": "2026-10-20",
+      "datetime": "2026-10-20T14:30:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

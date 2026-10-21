@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-21T11:25:08.716Z",
+  "updated": "2026-10-21T16:52:32.124Z",
   "retention_days": 30,
   "items": [
     {
@@ -6845,7 +6845,91 @@
       "_from": "newsapi",
       "first_seen": "2026-10-21T11:25:08.716Z",
       "run_id": "2026-10-21T11:25"
+    },
+    {
+      "headline": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+      "summary": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting",
+      "bloc": "regional",
+      "date": "2026-10-20",
+      "datetime": "2026-10-20T14:39:50Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-21T16:52:32.124Z",
+      "run_id": "2026-10-21T16:52"
+    },
+    {
+      "headline": "Iran Strikes More Ship Engine Rooms in Ramp-Up of Hormuz Attacks",
+      "summary": "Iranian attacks in the Persian Gulf are striking more ships and causing more severe damage than earlier in the conflict, bringing fresh risks to energy flows from the region.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-strikes-more-ship-engine-rooms-in-ramp-up-of-hormuz-attacks/",
+      "bloc": "western",
+      "date": "2026-10-20",
+      "datetime": "2026-10-20T16:20:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-21T16:52:32.124Z",
+      "run_id": "2026-10-21T16:52"
+    },
+    {
+      "headline": "Shipping Crisis Forces Asian Crude Buyers to Use Smaller Tankers",
+      "summary": "Record-high freight costs are changing the behavior of Asian buyers who are increasingly using smaller tankers and ships under long-term charter deals to pick crude oil supply, refining and trading sources tell Reuters. The costs of shipping crude oil have so…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Crisis-Forces-Asian-Crude-Buyers-to-Use-Smaller-Tankers.html",
+      "bloc": "western",
+      "date": "2026-10-20",
+      "datetime": "2026-10-20T14:30:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-21T16:52:32.124Z",
+      "run_id": "2026-10-21T16:52"
     }
   ],
-  "total_items_ever": 3722
+  "total_items_ever": 3725
 }

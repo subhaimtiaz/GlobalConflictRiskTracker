@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-20T21:24:55.949Z",
+  "ts": "2026-10-21T03:56:38.797Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 109,
-    "oilStress": 67,
-    "updatedAt": "2026-10-20T21:24:55.949Z"
+    "oilPrice": 110,
+    "oilStress": 69,
+    "updatedAt": "2026-10-21T03:56:38.797Z"
   },
   "items": [
     {
@@ -274,31 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
-      "summary": "US president has not endorsed Israeli prime minister ahead of October 27 election amid shifting public sentiment.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/13/despite-long-history-with-netanyahu-trump-hedges-as-israel-vote-nears",
-      "bloc": "regional",
-      "date": "2026-10-13",
-      "datetime": "2026-10-13T05:40:10Z",
-      "leaders": [
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Netanyahu trial ICC"
-      ],
-      "dimensions": [
-        "survival",
-        "accountability",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Is the US limiting Starlink in Ukraine? The risks could be catastrophic",
       "summary": "The satellite technology is vital both on the battlefield and for defending Ukraine’s cities.",
       "source": "The Conversation Africa",
@@ -345,56 +320,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Vladimir Putin and the pariah problem",
-      "summary": "Emphasising the Russian leader’s wickedness must not come at Ukraine’s expense.",
-      "source": "Www.nrc.nl",
-      "url": "https://www.nrc.nl/nieuws/2026/10/13/vladimir-putin-and-the-pariah-problem-a4938624",
-      "bloc": "western",
-      "date": "2026-10-13",
-      "datetime": "2026-10-13T20:00:00Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "NATO warns Russia: 'We will break' forces, destroy 'anything and everything' if you attack",
-      "summary": "Gen. Alexus Grynkewich outlined NATO's strategy to \"block, blunt and break\" enemy forces at the Warsaw Security Forum amid rising Russia tensions.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack",
-      "bloc": "western",
-      "date": "2026-10-13",
-      "datetime": "2026-10-13T00:22:08Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -570,6 +495,31 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump says he's open to idea of joint meeting with Xi and Putin next month",
+      "summary": "By Trevor Hunnicutt and Ryan Patrick Jones WASHINGTON, Oct 19 (Reuters) - US President Donald Trump said on Monday he is open to three-way arms-control talks with the leaders of China and Russia as soon as next month, raising the prospect of an unprecedented …",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-says-open-joining-trilateral-194029621.html",
+      "bloc": "western",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T22:28:26Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

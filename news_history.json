@@ -1,92 +1,8 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-20T21:23:50.685Z",
+  "updated": "2026-10-21T03:55:33.596Z",
   "retention_days": 30,
   "items": [
-    {
-      "headline": "Sunday: Hili dialogue",
-      "summary": "Welcome to Sunday, September 20. Yom Kippur, the Day of Atonement and the holiest day on the Jewish calendar, ends at sunset, so you can start eating and drinking again, and can kiss your wife. Below you can see a painting of the holiday, labeled “Jews Prayin…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/09/20/sunday-hili-dialogue-604/",
-      "bloc": "western",
-      "date": "2026-09-20",
-      "datetime": "2026-09-20T11:45:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-21T12:22:16.437Z",
-      "run_id": "2026-09-21T12:22"
-    },
-    {
-      "headline": "Postponing the future: War and inflation redraw marriage terms in Iran",
-      "summary": "Iran's cost of living crisis is affecting the dreams and everyday life choices of young Iranians.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/9/20/postponing-the-future-war-and-inflation-redraw-marriage-terms-in-iran",
-      "bloc": "regional",
-      "date": "2026-09-20",
-      "datetime": "2026-09-20T13:12:40Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-21T21:49:47.901Z",
-      "run_id": "2026-09-21T21:49"
-    },
-    {
-      "headline": "Chevron CEO sends a strong message on oil price and the economy",
-      "summary": "Something Chevron’s CEO said at an energy conference puts the White House’s oil price message in a difficult spot",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/economy/chevron-ceo-sends-a-strong-message-on-oil-price-and-the-economy",
-      "bloc": "western",
-      "date": "2026-09-20",
-      "datetime": "2026-09-20T16:47:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-21T21:49:47.901Z",
-      "run_id": "2026-09-21T21:49"
-    },
     {
       "headline": "War and sanctions are crippling Iran’s economy, with GDP plunging 10.1%",
       "summary": "Oil exports collapse, inflation reaches 69.9% and the rial falls further against the dollar\nThe post War and sanctions are crippling Iran’s economy, with GDP plunging 10.1% appeared first on ProtoThema English.",
@@ -6791,7 +6707,34 @@
       "_from": "newsapi",
       "first_seen": "2026-10-20T21:23:50.685Z",
       "run_id": "2026-10-20T21:23"
+    },
+    {
+      "headline": "Trump says he's open to idea of joint meeting with Xi and Putin next month",
+      "summary": "By Trevor Hunnicutt and Ryan Patrick Jones WASHINGTON, Oct 19 (Reuters) - US President Donald Trump said on Monday he is open to three-way arms-control talks with the leaders of China and Russia as soon as next month, raising the prospect of an unprecedented …",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-says-open-joining-trilateral-194029621.html",
+      "bloc": "western",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T22:28:26Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-21T03:55:33.596Z",
+      "run_id": "2026-10-21T03:55"
     }
   ],
-  "total_items_ever": 3717
+  "total_items_ever": 3718
 }

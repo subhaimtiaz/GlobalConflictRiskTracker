@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-21T21:26:22.384Z",
+  "ts": "2026-10-22T03:56:52.390Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 110,
-    "oilStress": 68,
-    "updatedAt": "2026-10-21T21:26:22.384Z"
+    "oilPrice": 111,
+    "oilStress": 69,
+    "updatedAt": "2026-10-22T03:56:52.390Z"
   },
   "items": [
     {
@@ -323,6 +323,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "‘Immediately cease’: China sends its navy after U.S. warship as separate maritime standoff erupts near Taiwan",
+      "summary": "'Beijing has been so domineering that it has united the countries along the first island chain against it, including ourselves since we are a resident power in the Western Pacific'",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/10/immediately-cease-china-sends-its-navy-after-u/",
+      "bloc": "western",
+      "date": "2026-10-20",
+      "datetime": "2026-10-20T22:19:18Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "China Sends Navy After US Warship As Separate Maritime Standoff Erupts Near Taiwan",
       "summary": "Things are continuing to heat up in the Taiwan Strait as naval confrontations become more frequent and aggressive.",
       "source": "The Daily Caller",
@@ -367,54 +391,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Trump-Xi Summit Exposed the Problems in China-US Crisis Management",
-      "summary": "Military communication channels become bargaining chips precisely when a crisis makes them indispensable.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/10/the-trump-xi-summit-exposed-the-problems-in-china-us-crisis-management/",
-      "bloc": "western",
-      "date": "2026-10-14",
-      "datetime": "2026-10-14T16:06:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Iran war's unexpected impact on US defenses against China threat downplayed by top Army leader",
-      "summary": "Gen. Ronald Clark says China's PLA continues preparing despite Trump-Xi diplomacy as U.S. Army Pacific expands deterrence across the Indo-Pacific.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/iran-wars-unexpected-impact-us-defenses-against-china-threat-downplayed-top-army-leader",
-      "bloc": "western",
-      "date": "2026-10-14",
-      "datetime": "2026-10-14T10:00:28Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -628,52 +604,6 @@
       "bloc": "regional",
       "date": "2026-10-15",
       "datetime": "2026-10-15T10:52:12Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Residents In Saudi Arabia's Capital Say They Have Heard New Explosions In Riyadh",
-      "summary": "The Houthis have repeatedly targeted Saudi airports, military facilities and oil infrastructure in the latest front in the Iran war.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/riyadh-explosions-houthi-rebels_n_6acf5645e4b08a0fe85498f8",
-      "bloc": "western",
-      "date": "2026-10-14",
-      "datetime": "2026-10-14T10:20:19Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Houthis hit Saudi Aramco headquarters with missiles as conflict escalates",
-      "summary": "The strike on an office complex in Dhahran caused a limited fire and no injuries, according to Saudi Arabia's energy ministry",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/houthis-hit-saudi-aramco-headquarters-with-missiles-as-conflict-escalates-126101400141_1.html",
-      "bloc": "western",
-      "date": "2026-10-14",
-      "datetime": "2026-10-14T03:14:05Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

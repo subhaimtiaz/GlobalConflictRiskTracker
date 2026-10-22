@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-22T03:56:52.390Z",
+  "ts": "2026-10-22T11:26:29.373Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 111,
-    "oilStress": 69,
-    "updatedAt": "2026-10-22T03:56:52.390Z"
+    "oilPrice": 112,
+    "oilStress": 71,
+    "updatedAt": "2026-10-22T11:26:29.373Z"
   },
   "items": [
+    {
+      "headline": "Far from fringe: How Israel’s mainstream parties vote with the far right",
+      "summary": "Al Jazeera analysed how every party in the Knesset voted on the most consequential measures affecting Palestinians.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/21/far-from-fringe-how-israels-mainstream-parties-vote-with-the-far-right",
+      "bloc": "regional",
+      "date": "2026-10-21",
+      "datetime": "2026-10-21T05:24:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "One Kurdish Peace Deal Could Ignite Another Middle Eastern Conflict",
       "summary": "In October 2025, the PKK (Partiya Karkerên Kurdistanê, Kurdistan Workers' Party) announced it was withdrawing its fighters from Türkiye to northern Iraq as part of a peace effort with Ankara after four decades of hostilities. The statement said all PKK forces…",
@@ -118,27 +144,105 @@
       "_from": "newsapi"
     },
     {
-      "headline": "These Conservatives Fought an Ill-Fated War, but Recovered and Won the Next Election",
-      "summary": "J.D. Vance could learn a thing or two from Harold Macmillan.\nThe post These Conservatives Fought an Ill-Fated War, but Recovered and Won the Next Election appeared first on The American Conservative.",
-      "source": "The American Conservative",
-      "url": "https://www.theamericanconservative.com/these-conservatives-fought-an-ill-fated-war-but-recovered-and-won-the-next-election/",
+      "headline": "Iran Says Mines Set Three Tankers Ablaze in Strait of Hormuz as US Military Calls Tehran's Claims False",
+      "summary": "Iran's Revolutionary Guard says mines stopped three tankers and claims it downed a US drone in the Strait of Hormuz, while Washington rejects the allegations amid escalating attacks.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/iran-claims-mines-stopped-tankers-strait-hormuz-1877113",
       "bloc": "western",
-      "date": "2026-10-20",
-      "datetime": "2026-10-20T04:01:00Z",
+      "date": "2026-10-21",
+      "datetime": "2026-10-21T10:15:18Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US Iran war: Ship attacked near Strait of Hormuz, as per maritime agency",
+      "summary": "A ship was struck on Wednesday by \"an unknown projectile\" off the coast of Oman, near the Strait of Hormuz, sparking a fire, a British maritime security agency said. The Strait of Hormuz carried 20 percent of the world's oil and gas prior to the Middle East w…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-ship-attacked-near-strait-of-hormuz-as-per-maritime-agency/articleshow/135088375.cms",
+      "bloc": "regional",
+      "date": "2026-10-21",
+      "datetime": "2026-10-21T09:56:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Intensifies Strikes on Ships",
+      "summary": "At least 23 incidents involving ships attacked in or near Hormuz were logged in the first two weeks of October, with at least five reporting impacts to their engine rooms.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/iran_intensifies_strikes_on_ships-21-oct-2026-184891-article/",
+      "bloc": "western",
+      "date": "2026-10-21",
+      "datetime": "2026-10-21T08:52:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Tehran is a Different Beast Now",
+      "summary": "The Tehran that the world knew is gone. It died in the fires with former Supreme Leader Ali Khamenei on the first day of the war in February. His son and new Supreme Leader, Mojtaba Khamenei — wherever he is and in whatever physical condition — witnessed his …",
+      "source": "War on the Rocks",
+      "url": "https://warontherocks.com/tehran-is-a-different-beast-now/",
+      "bloc": "western",
+      "date": "2026-10-21",
+      "datetime": "2026-10-21T07:30:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -166,84 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "We Are Facing A Global Energy Crisis, A Global Food Crisis, A European Financial Crisis, The End Of The AI Bubble And A Super El Niño All At Once",
-      "summary": "We have never seen a year quite like 2026, and we are certainly not prepared for what is coming in 2027. There has never been a time when we haven’t had problems, but now we have entered an era when we are just getting hammered by crisis after crisis after cr…",
-      "source": "Theeconomiccollapseblog.com",
-      "url": "http://theeconomiccollapseblog.com/we-are-facing-a-global-energy-crisis-a-global-food-crisis-a-european-financial-crisis-the-end-of-the-ai-bubble-and-a-super-el-nino-all-at-once/",
-      "bloc": "western",
-      "date": "2026-10-19",
-      "datetime": "2026-10-19T17:45:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran’s Main Oil Terminals Remain Empty as US Blockade Bites",
-      "summary": "Iran’s main oil-loading terminals have remained empty for weeks, adding to signs that a US naval blockade of the country is throttling Tehran’s exports.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/irans-main-oil-terminals-remain-empty-as-us-blockade-bites/",
-      "bloc": "western",
-      "date": "2026-10-19",
-      "datetime": "2026-10-19T16:26:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran's Main Oil Terminals Remain Empty",
-      "summary": "Iran's main oil-loading terminals have remained empty for weeks.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/irans_main_oil_terminals_remain_empty-19-oct-2026-184877-article/",
-      "bloc": "western",
-      "date": "2026-10-19",
-      "datetime": "2026-10-19T14:28:30Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -319,6 +345,30 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "China says it is 'safeguarding order' around Taiwan-controlled South China Sea atoll",
+      "summary": "China has claimed it has sovereignty over the Pratas Islands, located strategically in the South China Sea. The Chinese coast guard has been patrolling these waters to enforce what it describes as law enforcement. Taiwan has rejected these claims, insisting t…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/china-says-it-is-safeguarding-order-around-taiwan-controlled-south-china-sea-atoll/articleshow/135082090.cms",
+      "bloc": "regional",
+      "date": "2026-10-21",
+      "datetime": "2026-10-21T04:28:54Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

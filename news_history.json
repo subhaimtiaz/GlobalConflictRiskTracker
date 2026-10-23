@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-23T03:59:40.093Z",
+  "updated": "2026-10-23T11:15:10.035Z",
   "retention_days": 30,
   "items": [
     {
@@ -6573,7 +6573,119 @@
       "_from": "newsapi",
       "first_seen": "2026-10-22T21:20:05.185Z",
       "run_id": "2026-10-22T21:20"
+    },
+    {
+      "headline": "Lebanon summoned to a U.S. military headquarters: disarm Hezbollah or the occupation drags on, as U.N. peacekeepers head for the exit",
+      "summary": "When a country is invited to negotiate its future at a foreign military headquarters, the venue tells you exactly who holds the pen and the power. This week, Lebanese and Israeli military delegations convened at U.S. Central Command headquarters in Tampa, Flo…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-22-lebanon-summoned-to-a-u-s-military-headquarters-disarm-hezbollah-or-the-occupation-drags-on.html",
+      "bloc": "western",
+      "date": "2026-10-22",
+      "datetime": "2026-10-22T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-23T11:15:10.035Z",
+      "run_id": "2026-10-23T11:15"
+    },
+    {
+      "headline": "The Iran War’s One Benefit",
+      "summary": "The scale of American defeat may—finally—force a foreign policy reckoning in Washington.\nThe post The Iran War’s One Benefit appeared first on The American Conservative.",
+      "source": "The American Conservative",
+      "url": "https://www.theamericanconservative.com/the-iran-wars-one-benefit/",
+      "bloc": "western",
+      "date": "2026-10-22",
+      "datetime": "2026-10-22T04:01:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-23T11:15:10.035Z",
+      "run_id": "2026-10-23T11:15"
+    },
+    {
+      "headline": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
+      "summary": "TEL AVIV, Israel (AP) — Seven oil tankers caught fire or were damaged in the Strait of Hormuz overnight after being hit by Iran or striking naval mines, Tehran said Thursday, a markedly high number as tensions rise over concerns about a return to all-out war.…",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/articles/iran-says-7-oil-tankers-085203145.html",
+      "bloc": "western",
+      "date": "2026-10-22",
+      "datetime": "2026-10-22T08:52:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-23T11:15:10.035Z",
+      "run_id": "2026-10-23T11:15"
+    },
+    {
+      "headline": "Iran War: Iran Believes Attack Imminent as Netanyahu Reported to Persuade Trump to Launch Before Midterms ; Global Stocks Fall as Oil Price Increases Continue",
+      "summary": "Today's Iran war news: Markets go wobbly as the date for loudly-signaled US/Israel attacks on Iran nears.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/10/iran-war-iran-believes-attack-imminent-as-netanyahu-reported-to-persuade-trump-to-launch-before-midterms-global-stocks-fall-as-oil-price-increases-continue.html",
+      "bloc": "western",
+      "date": "2026-10-22",
+      "datetime": "2026-10-22T10:54:25Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-23T11:15:10.035Z",
+      "run_id": "2026-10-23T11:15"
     }
   ],
-  "total_items_ever": 3739
+  "total_items_ever": 3743
 }

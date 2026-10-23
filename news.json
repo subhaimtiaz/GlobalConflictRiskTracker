@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-23T16:45:17.985Z",
+  "ts": "2026-10-23T21:11:36.451Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 79,
-    "updatedAt": "2026-10-23T16:45:17.985Z"
+    "updatedAt": "2026-10-23T21:11:36.451Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran Claims It Hit Multiple Ships In Persian Gulf, Warns US Military Of Major Escalation",
+      "summary": "Iran claimed Thursday that seven oil tankers were struck in the Persian Gulf and near the Strait of Hormuz.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/22/iran-claims-seven-vessels-attacked-in-persian-gulf",
+      "bloc": "western",
+      "date": "2026-10-22",
+      "datetime": "2026-10-22T20:20:27Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
       "summary": "TEL AVIV, Israel (AP) — Seven oil tankers caught fire or were damaged in the Strait of Hormuz overnight after being hit by Iran or striking naval mines, Tehran said Thursday, a markedly high number as tensions rise over concerns about a return to all-out war.…",
       "source": "Yahoo Entertainment",
@@ -229,32 +255,6 @@
       "bloc": "regional",
       "date": "2026-10-21",
       "datetime": "2026-10-21T09:56:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Intensifies Strikes on Ships",
-      "summary": "At least 23 incidents involving ships attacked in or near Hormuz were logged in the first two weeks of October, with at least five reporting impacts to their engine rooms.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/iran_intensifies_strikes_on_ships-21-oct-2026-184891-article/",
-      "bloc": "western",
-      "date": "2026-10-21",
-      "datetime": "2026-10-21T08:52:38Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

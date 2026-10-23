@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-23T16:44:12.753Z",
+  "updated": "2026-10-23T21:10:31.242Z",
   "retention_days": 30,
   "items": [
     {
@@ -6712,7 +6712,35 @@
       "_from": "newsapi",
       "first_seen": "2026-10-23T16:44:12.753Z",
       "run_id": "2026-10-23T16:44"
+    },
+    {
+      "headline": "Iran Claims It Hit Multiple Ships In Persian Gulf, Warns US Military Of Major Escalation",
+      "summary": "Iran claimed Thursday that seven oil tankers were struck in the Persian Gulf and near the Strait of Hormuz.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/22/iran-claims-seven-vessels-attacked-in-persian-gulf",
+      "bloc": "western",
+      "date": "2026-10-22",
+      "datetime": "2026-10-22T20:20:27Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-23T21:10:31.242Z",
+      "run_id": "2026-10-23T21:10"
     }
   ],
-  "total_items_ever": 3744
+  "total_items_ever": 3745
 }

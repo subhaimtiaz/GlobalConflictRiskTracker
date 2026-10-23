@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-23T11:16:15.298Z",
+  "ts": "2026-10-23T16:45:17.985Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 115,
-    "oilStress": 76,
-    "updatedAt": "2026-10-23T11:16:15.298Z"
+    "oilPrice": 117,
+    "oilStress": 79,
+    "updatedAt": "2026-10-23T16:45:17.985Z"
   },
   "items": [
     {
@@ -270,6 +270,31 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The view from Russia: The Ukraine conflict is entering its final phase",
+      "summary": "As Washington shifts the Ukraine burden to Europe, Sushentsov examines the EU’s strategic limits and its costly confrontation with Russia Read Full Article at RT.com",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/news/647500-ukraine-conflict-final-stage/",
+      "bloc": "western",
+      "date": "2026-10-22",
+      "datetime": "2026-10-22T13:40:18Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

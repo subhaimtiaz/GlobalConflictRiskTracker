@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-22T21:21:10.435Z",
+  "ts": "2026-10-23T04:00:45.349Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 113,
-    "oilStress": 73,
-    "updatedAt": "2026-10-22T21:21:10.435Z"
+    "oilPrice": 114,
+    "oilStress": 74,
+    "updatedAt": "2026-10-23T04:00:45.349Z"
   },
   "items": [
     {
@@ -274,56 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Is the US limiting Starlink in Ukraine? The risks could be catastrophic",
-      "summary": "The satellite technology is vital both on the battlefield and for defending Ukraine’s cities.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/is-the-us-limiting-starlink-in-ukraine-the-risks-could-be-catastrophic-294496",
-      "bloc": "western",
-      "date": "2026-10-15",
-      "datetime": "2026-10-15T14:18:03Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Is the US limiting Starlink in Ukraine? The consequences could be catastrophic",
-      "summary": "The satellite technology is vital both on the battlefield and for defending Ukraine’s cities.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/is-the-us-limiting-starlink-in-ukraine-the-consequences-could-be-catastrophic-294496",
-      "bloc": "western",
-      "date": "2026-10-15",
-      "datetime": "2026-10-15T14:18:03Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Report to Congress on North Korea’s Nuclear Weapons and Missile Programs",
       "summary": "Over the past decade, the Democratic People’s Republic of Korea (DPRK, or North Korea) has advanced its nuclear weapons and ballistic missile programs, which has raised the threat Pyongyang poses to the United States, U.S. allies in East Asia, and U.S. intere…",
       "source": "Freerepublic.com",
@@ -404,30 +354,6 @@
       "bloc": "western",
       "date": "2026-10-20",
       "datetime": "2026-10-20T20:51:20Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China opens joint airfield in Laos with eyes on its military role",
-      "summary": "China’s newly opened joint military airfield in Laos is Beijing’s first overseas facility focused on air power",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/china-opens-joint-airfield-laos-construction-ongoing-eyes-137275971",
-      "bloc": "western",
-      "date": "2026-10-15",
-      "datetime": "2026-10-15T06:55:43Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -657,29 +583,6 @@
       "bloc": "western",
       "date": "2026-10-16",
       "datetime": "2026-10-16T06:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
-      "summary": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield",
-      "bloc": "regional",
-      "date": "2026-10-15",
-      "datetime": "2026-10-15T10:52:12Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

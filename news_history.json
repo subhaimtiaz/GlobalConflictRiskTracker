@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-24T10:34:24.991Z",
+  "updated": "2026-10-24T15:37:47.107Z",
   "retention_days": 30,
   "items": [
     {
@@ -6362,7 +6362,35 @@
       "_from": "newsapi",
       "first_seen": "2026-10-23T21:10:31.242Z",
       "run_id": "2026-10-23T21:10"
+    },
+    {
+      "headline": "Sensex today | Stock Market Highlights: Sensex, Nifty extend losses as crude surges to $114, all sectors close in red",
+      "summary": "Sensex, Nifty, Share Prices Highlights: The domestic stock market continued its downward trend on Friday, with benchmark indices Sensex and Nifty 50 closing in the red amid selling pressure across sectors, rising crude oil prices and weak global cues.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-october-2026/article71611889.ece",
+      "bloc": "western",
+      "date": "2026-10-23",
+      "datetime": "2026-10-23T10:52:42Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-24T15:37:47.107Z",
+      "run_id": "2026-10-24T15:37"
     }
   ],
-  "total_items_ever": 3745
+  "total_items_ever": 3746
 }

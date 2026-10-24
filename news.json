@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-24T10:35:30.202Z",
+  "ts": "2026-10-24T15:38:52.289Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 80,
-    "updatedAt": "2026-10-24T10:35:30.202Z"
+    "updatedAt": "2026-10-24T15:38:52.289Z"
   },
   "items": [
     {
@@ -371,6 +371,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Sensex today | Stock Market Highlights: Sensex, Nifty extend losses as crude surges to $114, all sectors close in red",
+      "summary": "Sensex, Nifty, Share Prices Highlights: The domestic stock market continued its downward trend on Friday, with benchmark indices Sensex and Nifty 50 closing in the red amid selling pressure across sectors, rising crude oil prices and weak global cues.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-october-2026/article71611889.ece",
+      "bloc": "western",
+      "date": "2026-10-23",
+      "datetime": "2026-10-23T10:52:42Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran War: Iran Believes Attack Imminent as Netanyahu Reported to Persuade Trump to Launch Before Midterms ; Global Stocks Fall as Oil Price Increases Continue",
       "summary": "Today's Iran war news: Markets go wobbly as the date for loudly-signaled US/Israel attacks on Iran nears.",
       "source": "Nakedcapitalism.com",
@@ -456,32 +482,6 @@
       "bloc": "western",
       "date": "2026-10-19",
       "datetime": "2026-10-19T13:00:16Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Record Shipping Costs Force Oil Producers to Slash Prices",
-      "summary": "Freight is reshaping global oil trade and the prices producers can command for their crude. Soaring shipping costs are pushing delivered prices beyond what refiners are willing to pay, forcing sellers to cut differentials or find buyers closer to home. With C…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Record-Shipping-Costs-Force-Oil-Producers-to-Slash-Prices.html",
-      "bloc": "western",
-      "date": "2026-10-18",
-      "datetime": "2026-10-18T23:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-23T21:11:36.451Z",
+  "ts": "2026-10-24T03:55:00.393Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 117,
-    "oilStress": 79,
-    "updatedAt": "2026-10-23T21:11:36.451Z"
+    "oilStress": 80,
+    "updatedAt": "2026-10-24T03:55:00.393Z"
   },
   "items": [
     {
@@ -299,31 +299,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Report to Congress on North Korea’s Nuclear Weapons and Missile Programs",
-      "summary": "Over the past decade, the Democratic People’s Republic of Korea (DPRK, or North Korea) has advanced its nuclear weapons and ballistic missile programs, which has raised the threat Pyongyang poses to the United States, U.S. allies in East Asia, and U.S. intere…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4399416/posts",
-      "bloc": "western",
-      "date": "2026-10-16",
-      "datetime": "2026-10-16T16:31:00Z",
-      "leaders": [
-        "Kim Jong-un"
-      ],
-      "watch_terms": [
-        "Kim Jong-un North"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "narcissism",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "China says it is 'safeguarding order' around Taiwan-controlled South China Sea atoll",
       "summary": "China has claimed it has sovereignty over the Pratas Islands, located strategically in the South China Sea. The Chinese coast guard has been patrolling these waters to enforce what it describes as law enforcement. Taiwan has rejected these claims, insisting t…",
       "source": "The Times of India",
@@ -597,29 +572,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Zelensky Says Ukraine Got No Warning Before Russian Strikes; Trump Denies Intel Cut-Off",
-      "summary": "Ukrainian President Volodymyr Zelensky said Tuesday that Ukrainian officials did not receive a warning from partners about the latest Russian assault on civilian sites, according to his statement and multiple news reports. The comments came after what he desc…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-16-zelensky-ukraine-got-no-warning-before-russian-strikes.html",
-      "bloc": "western",
-      "date": "2026-10-16",
-      "datetime": "2026-10-16T06:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     }

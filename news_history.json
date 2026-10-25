@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-25T10:59:18.755Z",
+  "updated": "2026-10-25T15:47:48.183Z",
   "retention_days": 30,
   "items": [
     {
@@ -6031,7 +6031,62 @@
       "_from": "newsapi",
       "first_seen": "2026-10-25T10:59:18.755Z",
       "run_id": "2026-10-25T10:59"
+    },
+    {
+      "headline": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+      "summary": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
+      "bloc": "regional",
+      "date": "2026-10-24",
+      "datetime": "2026-10-24T13:06:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-25T15:47:48.183Z",
+      "run_id": "2026-10-25T15:47"
+    },
+    {
+      "headline": "What will future societies be like after fossil fuels are gone?",
+      "summary": "Preface.  I was writing about how deadly and brutal wars are today, nuclear bombs, and all the mafia totalitarian and gangster states like Russia and Mexico, Ecuador, various African states that make the lives of their people miserable and getting … Continue …",
+      "source": "Energyskeptic.com",
+      "url": "https://energyskeptic.com/2026/what-will-future-societies-be-like-after-fossil-fuels-are-gone/",
+      "bloc": "western",
+      "date": "2026-10-24",
+      "datetime": "2026-10-24T13:51:11Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-25T15:47:48.183Z",
+      "run_id": "2026-10-25T15:47"
     }
   ],
-  "total_items_ever": 3749
+  "total_items_ever": 3751
 }

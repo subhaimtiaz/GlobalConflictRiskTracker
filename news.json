@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-25T11:00:23.923Z",
+  "ts": "2026-10-25T15:48:53.383Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 80,
-    "updatedAt": "2026-10-25T11:00:23.923Z"
+    "updatedAt": "2026-10-25T15:48:53.383Z"
   },
   "items": [
+    {
+      "headline": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+      "summary": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
+      "bloc": "regional",
+      "date": "2026-10-24",
+      "datetime": "2026-10-24T13:06:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "U.S. and Israel Reportedly Drafting Major Assault Plans Against Iran After Midterm Elections",
       "summary": "Initial Report Details Military Planning Against Iranian Infrastructure The United States and Israel have reportedly developed plans for a major assault on Iran targeting the country’s nuclear, energy, and defense infrastructure, according to a person briefed…",
@@ -114,32 +140,6 @@
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran’s enriched uranium re-emerges as point of contention in US talks",
-      "summary": "Iran's nuclear enrichment has emerged as a major point of contention amid diplomatic push to end the war.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks",
-      "bloc": "regional",
-      "date": "2026-10-21",
-      "datetime": "2026-10-21T12:18:10Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -495,6 +495,31 @@
         "values"
       ],
       "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "What will future societies be like after fossil fuels are gone?",
+      "summary": "Preface.  I was writing about how deadly and brutal wars are today, nuclear bombs, and all the mafia totalitarian and gangster states like Russia and Mexico, Ecuador, various African states that make the lives of their people miserable and getting … Continue …",
+      "source": "Energyskeptic.com",
+      "url": "https://energyskeptic.com/2026/what-will-future-societies-be-like-after-fossil-fuels-are-gone/",
+      "bloc": "western",
+      "date": "2026-10-24",
+      "datetime": "2026-10-24T13:51:11Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

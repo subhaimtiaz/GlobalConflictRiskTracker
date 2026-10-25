@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-25T03:53:06.085Z",
+  "updated": "2026-10-25T10:59:18.755Z",
   "retention_days": 30,
   "items": [
     {
@@ -5975,7 +5975,63 @@
       "_from": "newsapi",
       "first_seen": "2026-10-24T20:27:36.953Z",
       "run_id": "2026-10-24T20:27"
+    },
+    {
+      "headline": "U.S. and Israel Reportedly Drafting Major Assault Plans Against Iran After Midterm Elections",
+      "summary": "Initial Report Details Military Planning Against Iranian Infrastructure The United States and Israel have reportedly developed plans for a major assault on Iran targeting the country’s nuclear, energy, and defense infrastructure, according to a person briefed…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-24-us-israel-planning-iran-assault-after-midterms.html",
+      "bloc": "western",
+      "date": "2026-10-24",
+      "datetime": "2026-10-24T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-25T10:59:18.755Z",
+      "run_id": "2026-10-25T10:59"
+    },
+    {
+      "headline": "Strait of Hormuz Status Today: Ship Attacks Hit Record High in October as Tankers Burn and War Fears Mount",
+      "summary": "Ship attacks around the Strait of Hormuz reached a record in October, damaging supertankers and reducing traffic sharply as tensions between Iran, the United States and Israel escalate.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-ship-attacks-record-oil-traffic-1877334",
+      "bloc": "western",
+      "date": "2026-10-24",
+      "datetime": "2026-10-24T06:26:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-25T10:59:18.755Z",
+      "run_id": "2026-10-25T10:59"
     }
   ],
-  "total_items_ever": 3747
+  "total_items_ever": 3749
 }

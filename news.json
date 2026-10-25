@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-25T03:54:11.310Z",
+  "ts": "2026-10-25T11:00:23.923Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 117,
     "oilStress": 80,
-    "updatedAt": "2026-10-25T03:54:11.310Z"
+    "updatedAt": "2026-10-25T11:00:23.923Z"
   },
   "items": [
+    {
+      "headline": "U.S. and Israel Reportedly Drafting Major Assault Plans Against Iran After Midterm Elections",
+      "summary": "Initial Report Details Military Planning Against Iranian Infrastructure The United States and Israel have reportedly developed plans for a major assault on Iran targeting the country’s nuclear, energy, and defense infrastructure, according to a person briefed…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-24-us-israel-planning-iran-assault-after-midterms.html",
+      "bloc": "western",
+      "date": "2026-10-24",
+      "datetime": "2026-10-24T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Lebanon summoned to a U.S. military headquarters: disarm Hezbollah or the occupation drags on, as U.N. peacekeepers head for the exit",
       "summary": "When a country is invited to negotiate its future at a foreign military headquarters, the venue tells you exactly who holds the pen and the power. This week, Lebanese and Israeli military delegations convened at U.S. Central Command headquarters in Tampa, Flo…",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Far from fringe: How Israel’s mainstream parties vote with the far right",
-      "summary": "Al Jazeera analysed how every party in the Knesset voted on the most consequential measures affecting Palestinians.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/21/far-from-fringe-how-israels-mainstream-parties-vote-with-the-far-right",
-      "bloc": "regional",
-      "date": "2026-10-21",
-      "datetime": "2026-10-21T05:24:49Z",
+      "headline": "Strait of Hormuz Status Today: Ship Attacks Hit Record High in October as Tankers Burn and War Fears Mount",
+      "summary": "Ship attacks around the Strait of Hormuz reached a record in October, damaging supertankers and reducing traffic sharply as tensions between Iran, the United States and Israel escalate.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-ship-attacks-record-oil-traffic-1877334",
+      "bloc": "western",
+      "date": "2026-10-24",
+      "datetime": "2026-10-24T06:26:20Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Iran war: Ship attacked near Strait of Hormuz, as per maritime agency",
-      "summary": "A ship was struck on Wednesday by \"an unknown projectile\" off the coast of Oman, near the Strait of Hormuz, sparking a fire, a British maritime security agency said. The Strait of Hormuz carried 20 percent of the world's oil and gas prior to the Middle East w…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-ship-attacked-near-strait-of-hormuz-as-per-maritime-agency/articleshow/135088375.cms",
-      "bloc": "regional",
-      "date": "2026-10-21",
-      "datetime": "2026-10-21T09:56:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

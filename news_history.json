@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-26T12:31:26.090Z",
+  "updated": "2026-10-26T22:26:22.618Z",
   "retention_days": 30,
   "items": [
     {
@@ -5546,7 +5546,35 @@
       "_from": "newsapi",
       "first_seen": "2026-10-26T12:31:26.090Z",
       "run_id": "2026-10-26T12:31"
+    },
+    {
+      "headline": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
+      "summary": "Prime Minister Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions",
+      "bloc": "regional",
+      "date": "2026-10-25",
+      "datetime": "2026-10-25T14:46:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-26T22:26:22.618Z",
+      "run_id": "2026-10-26T22:26"
     }
   ],
-  "total_items_ever": 3754
+  "total_items_ever": 3755
 }

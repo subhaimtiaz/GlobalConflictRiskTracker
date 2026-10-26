@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-26T12:32:31.292Z",
+  "ts": "2026-10-26T22:27:27.844Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 115,
     "oilStress": 76,
-    "updatedAt": "2026-10-26T12:32:31.292Z"
+    "updatedAt": "2026-10-26T22:27:27.844Z"
   },
   "items": [
+    {
+      "headline": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
+      "summary": "Prime Minister Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions",
+      "bloc": "regional",
+      "date": "2026-10-25",
+      "datetime": "2026-10-25T14:46:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Price Tags of War",
       "summary": "The hidden role of reinsurance in rising consumer prices.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-10-22",
       "datetime": "2026-10-22T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Iran War’s One Benefit",
-      "summary": "The scale of American defeat may—finally—force a foreign policy reckoning in Washington.\nThe post The Iran War’s One Benefit appeared first on The American Conservative.",
-      "source": "The American Conservative",
-      "url": "https://www.theamericanconservative.com/the-iran-wars-one-benefit/",
-      "bloc": "western",
-      "date": "2026-10-22",
-      "datetime": "2026-10-22T04:01:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

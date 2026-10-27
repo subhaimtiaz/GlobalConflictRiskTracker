@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-27T11:49:36.560Z",
+  "updated": "2026-10-27T17:43:34.831Z",
   "retention_days": 30,
   "items": [
     {
@@ -5520,7 +5520,174 @@
       "_from": "newsapi",
       "first_seen": "2026-10-27T11:49:36.560Z",
       "run_id": "2026-10-27T11:49"
+    },
+    {
+      "headline": "If Netanyahu loses, what happens next in the US-Israeli war on Iran?",
+      "summary": "Benjamin Netanyahu's upcoming election holds significant implications for Israel's policy on Iran. Depending on the election's result, the country's military posture towards regional adversaries could drastically change. Gadi Eisenkot might keep applying pres…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/netanyahu-election-defeat-what-happens-next-us-israel-war-iran-trump-gadi-eisenkot-iran-nuclear-programme-strait-of-hormuz/articleshow/135214879.cms",
+      "bloc": "regional",
+      "date": "2026-10-26",
+      "datetime": "2026-10-26T16:04:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-27T17:43:34.831Z",
+      "run_id": "2026-10-27T17:43"
+    },
+    {
+      "headline": "Why Saudi Just Abandoned Its Core Oil Rule",
+      "summary": "Few could argue with U.S. President Donald Trump’s key objective in launching ‘Operation Epic Fury’ against Iran on 28 February -- to prevent Iran from ever being able to develop a nuclear weapon. All members of his Cabinet fully backed this aim at the time, …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Why-Saudi-Just-Abandoned-Its-Core-Oil-Rule.html",
+      "bloc": "western",
+      "date": "2026-10-26",
+      "datetime": "2026-10-26T16:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-27T17:43:34.831Z",
+      "run_id": "2026-10-27T17:43"
+    },
+    {
+      "headline": "How Trump’s Energy Dominance Turned Into Hubris",
+      "summary": "When Donald Trump returned to the White House in 2025, “energy dominance” was the bedrock of his economic and foreign policy plans. But an unpopular war with Iran and soaring household fuel costs have now made energy policy a major liability for the US presid…",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/how-trumps-energy-dominance-turned-into-hubris/",
+      "bloc": "western",
+      "date": "2026-10-26",
+      "datetime": "2026-10-26T16:36:05Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-27T17:43:34.831Z",
+      "run_id": "2026-10-27T17:43"
+    },
+    {
+      "headline": "‘We’re making a freaking fortune’: Trump touts how much ‘money’ the U.S. is making from the Iran war as gas hits $4.29 a gallon and diesel tops $6",
+      "summary": "Eight months into the Iran war, gas has jumped from $2.98 to $4.29 a gallon, while diesel has climbed from $3.76 to $6.35.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/26/trump-iran-war-gas-diesel-prices/",
+      "bloc": "western",
+      "date": "2026-10-26",
+      "datetime": "2026-10-26T13:37:53Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-27T17:43:34.831Z",
+      "run_id": "2026-10-27T17:43"
+    },
+    {
+      "headline": "Current price of oil as of October 26, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-10-26-2026/",
+      "bloc": "western",
+      "date": "2026-10-26",
+      "datetime": "2026-10-26T12:30:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-27T17:43:34.831Z",
+      "run_id": "2026-10-27T17:43"
+    },
+    {
+      "headline": "Russia And Iran Expand Nuclear Cooperation As International Oversight Weakens",
+      "summary": "Russia and Iran are expanding their nuclear cooperation as both countries face Western sanctions and international isolation. Their partnership includes the construction of nuclear power plants, fuel supplies, and broader technological cooperation.",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/russia-and-iran-expand-nuclear-cooperation-as-international-oversight-weakens/33883109.html",
+      "bloc": "western",
+      "date": "2026-10-26",
+      "datetime": "2026-10-26T16:24:35Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-27T17:43:34.831Z",
+      "run_id": "2026-10-27T17:43"
     }
   ],
-  "total_items_ever": 3759
+  "total_items_ever": 3765
 }

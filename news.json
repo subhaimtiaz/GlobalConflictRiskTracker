@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-27T04:19:42.162Z",
+  "ts": "2026-10-27T11:50:41.783Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,61 @@
   "live_variables": {
     "oilPrice": 115,
     "oilStress": 76,
-    "updatedAt": "2026-10-27T04:19:42.162Z"
+    "updatedAt": "2026-10-27T11:50:41.783Z"
   },
   "items": [
+    {
+      "headline": "This Gay Week 39: LGBTQ Rights, Queer Media and Ukraine",
+      "summary": "“When I talk about policy, I say policy isn't just politics. It's people. Policy is people.” — Karel Bouley\nThe post This Gay Week 39: LGBTQ Rights, Queer Media and Ukraine appeared first on The Good Men Project.",
+      "source": "The Good Men Project",
+      "url": "https://goodmenproject.com/featured-content/karel-bouley-lgbtq-rights-queer-media-ukraine-sjbn/",
+      "bloc": "western",
+      "date": "2026-10-26",
+      "datetime": "2026-10-26T11:30:13Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Delegations meet in Iran with Middle East on edge over potential for renewed fighting",
+      "summary": "Officials from Saudi Arabia, Pakistan and Turkey met in Tehran on Monday to avert a wider war between Iran, Israel and the United States.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/26/world-news/delegations-meet-in-iran-with-middle-east-on-edge-over-potential-for-renewed-fighting/",
+      "bloc": "western",
+      "date": "2026-10-26",
+      "datetime": "2026-10-26T09:28:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "UAE's Nusseibeh vows independence, dialogue with Iran if elected UN chief",
       "summary": "A former UAE ambassador to the UN, Nusseibeh vowed to act as a voice for international diplomacy and the rule of law, principles she said would underpin her credibility",
@@ -92,53 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-      "summary": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
-      "bloc": "regional",
-      "date": "2026-10-24",
-      "datetime": "2026-10-24T13:06:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. and Israel Reportedly Drafting Major Assault Plans Against Iran After Midterm Elections",
-      "summary": "Initial Report Details Military Planning Against Iranian Infrastructure The United States and Israel have reportedly developed plans for a major assault on Iran targeting the country’s nuclear, energy, and defense infrastructure, according to a person briefed…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-24-us-israel-planning-iran-assault-after-midterms.html",
+      "headline": "Weekly Climate and Energy News Roundup #712",
+      "summary": "“Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve.”— Max Planck\nThe post Weekly Climate and Energy News Roundup #712 appeared first on Watts Up W…",
+      "source": "Wattsupwiththat.com",
+      "url": "https://wattsupwiththat.com/2026/10/26/weekly-climate-and-energy-news-roundup-712/",
       "bloc": "western",
-      "date": "2026-10-24",
-      "datetime": "2026-10-24T06:00:00Z",
+      "date": "2026-10-26",
+      "datetime": "2026-10-26T09:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -203,32 +229,6 @@
       "bloc": "western",
       "date": "2026-10-22",
       "datetime": "2026-10-22T08:52:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels",
-      "summary": "Commodity intelligence firm Kpler reports that oil flows out of the Arabian Gulf have rebounded so well that they now exceed levels seen before the st...",
-      "source": "The Maritime Executive",
-      "url": "https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels",
-      "bloc": "western",
-      "date": "2026-10-21",
-      "datetime": "2026-10-21T12:23:41Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

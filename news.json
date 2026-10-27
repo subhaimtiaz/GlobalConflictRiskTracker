@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-26T22:27:27.844Z",
+  "ts": "2026-10-27T04:19:42.162Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 115,
     "oilStress": 76,
-    "updatedAt": "2026-10-26T22:27:27.844Z"
+    "updatedAt": "2026-10-27T04:19:42.162Z"
   },
   "items": [
+    {
+      "headline": "UAE's Nusseibeh vows independence, dialogue with Iran if elected UN chief",
+      "summary": "A former UAE ambassador to the UN, Nusseibeh vowed to act as a voice for international diplomacy and the rule of law, principles she said would underpin her credibility",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/uae-s-nusseibeh-vows-independence-dialogue-with-iran-if-elected-un-chief-126102600079_1.html",
+      "bloc": "western",
+      "date": "2026-10-26",
+      "datetime": "2026-10-26T02:58:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
       "summary": "Prime Minister Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-10-24",
       "datetime": "2026-10-24T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Lebanon summoned to a U.S. military headquarters: disarm Hezbollah or the occupation drags on, as U.N. peacekeepers head for the exit",
-      "summary": "When a country is invited to negotiate its future at a foreign military headquarters, the venue tells you exactly who holds the pen and the power. This week, Lebanese and Israeli military delegations convened at U.S. Central Command headquarters in Tampa, Flo…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-22-lebanon-summoned-to-a-u-s-military-headquarters-disarm-hezbollah-or-the-occupation-drags-on.html",
-      "bloc": "western",
-      "date": "2026-10-22",
-      "datetime": "2026-10-22T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -532,31 +532,6 @@
       "bloc": "western",
       "date": "2026-10-20",
       "datetime": "2026-10-20T05:45:06Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump says he's open to idea of joint meeting with Xi and Putin next month",
-      "summary": "By Trevor Hunnicutt and Ryan Patrick Jones WASHINGTON, Oct 19 (Reuters) - US President Donald Trump said on Monday he is open to three-way arms-control talks with the leaders of China and Russia as soon as next month, raising the prospect of an unprecedented …",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/politics/articles/trump-says-open-joining-trilateral-194029621.html",
-      "bloc": "western",
-      "date": "2026-10-19",
-      "datetime": "2026-10-19T22:28:26Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

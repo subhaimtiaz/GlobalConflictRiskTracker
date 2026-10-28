@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-28T12:24:51.446Z",
+  "ts": "2026-10-28T22:22:29.473Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 115,
-    "oilStress": 76,
-    "updatedAt": "2026-10-28T12:24:51.446Z"
+    "oilPrice": 114,
+    "oilStress": 75,
+    "updatedAt": "2026-10-28T22:22:29.473Z"
   },
   "items": [
+    {
+      "headline": "The Greatest Ever! Here are 70 Major Trump Accomplishments Since He Retook the White House in 2025",
+      "summary": "The wild-eyed Democrat-socialists want to make the midterm election about Trump.\nThe post The Greatest Ever! Here are 70 Major Trump Accomplishments Since He Retook the White House in 2025 appeared first on The Gateway Pundit.",
+      "source": "Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/10/greatest-ever-here-are-70-major-trump-accomplishments/",
+      "bloc": "western",
+      "date": "2026-10-27",
+      "datetime": "2026-10-27T13:00:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran War: Western Media Ignores Mecca-Alliance-Sought Regional Security Meeting in Tehran; Would Republican Midterm Wipeout Force Trump into Iran and Ukraine Retreats?",
       "summary": "Today's Iran war news: A meeting of Mecca Alliance members with Iran seems promising but there is a very long way to go even if so.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-10-27",
       "datetime": "2026-10-27T03:52:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Nigeria misses 10-month revenue target by N20.7tn",
-      "summary": "Nigeria’s statutory revenue fell N20.74tn short of its budget target in the first 10 months of 2026, despite a sharp increase in crude oil prices.\n\nRead More: https://punchng.com/nigeria-misses-10-month-revenue-target-by-n20-7tn/",
-      "source": "The Punch",
-      "url": "https://punchng.com/nigeria-misses-10-month-revenue-target-by-n20-7tn/",
-      "bloc": "western",
-      "date": "2026-10-27",
-      "datetime": "2026-10-27T00:24:46Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -274,6 +274,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Melania or the Pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
+      "summary": "Competing claims over the ceasefire mark the latest tensions between the White House and the Vatican.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky",
+      "bloc": "regional",
+      "date": "2026-10-27",
+      "datetime": "2026-10-27T13:45:01Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The view from Russia: The Ukraine conflict is entering its final phase",
       "summary": "As Washington shifts the Ukraine burden to Europe, Sushentsov examines the EU’s strategic limits and its costly confrontation with Russia Read Full Article at RT.com",
       "source": "Rt-english.com",
@@ -291,6 +316,30 @@
         "survival",
         "impulsivity",
         "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
+      "summary": "The Iran war and Trump's criticisms of allies have led Asia-Pacific countries to recalibrate their calculations.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners",
+      "bloc": "regional",
+      "date": "2026-10-27",
+      "datetime": "2026-10-27T15:08:59Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -449,6 +498,31 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Turns to Russia for Nuclear Power as IAEA Oversight Falters",
+      "summary": "Russia and Iran are expanding their nuclear cooperation as both countries face Western sanctions and international isolation. Their partnership includes the construction of nuclear power plants, fuel supplies, and broader technological cooperation. While Bush…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Iran-Turns-to-Russia-for-Nuclear-Power-as-IAEA-Oversight-Falters.html",
+      "bloc": "western",
+      "date": "2026-10-27",
+      "datetime": "2026-10-27T14:00:00Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-28T04:48:32.752Z",
+  "updated": "2026-10-28T12:23:46.126Z",
   "retention_days": 30,
   "items": [
     {
@@ -5687,7 +5687,91 @@
       "_from": "newsapi",
       "first_seen": "2026-10-28T04:48:32.752Z",
       "run_id": "2026-10-28T04:48"
+    },
+    {
+      "headline": "Iran War: Western Media Ignores Mecca-Alliance-Sought Regional Security Meeting in Tehran; Would Republican Midterm Wipeout Force Trump into Iran and Ukraine Retreats?",
+      "summary": "Today's Iran war news: A meeting of Mecca Alliance members with Iran seems promising but there is a very long way to go even if so.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/10/iran-war-western-media-ignores-mecca-alliance-sought-regional-security-meeting-in-tehran-would-republican-midterm-wipeout-force-trump-into-iran-and-ukraine-retreats.html",
+      "bloc": "western",
+      "date": "2026-10-27",
+      "datetime": "2026-10-27T09:55:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-28T12:23:46.126Z",
+      "run_id": "2026-10-28T12:23"
+    },
+    {
+      "headline": "Could US midterms reshape Pakistan’s relationship with Washington?",
+      "summary": "Pakistan has gained diplomatic visibility under Trump, but analysts question how much the relationship has delivered.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/27/could-us-midterms-reshape-pakistans-relationship-with-washington",
+      "bloc": "regional",
+      "date": "2026-10-27",
+      "datetime": "2026-10-27T05:47:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-28T12:23:46.126Z",
+      "run_id": "2026-10-28T12:23"
+    },
+    {
+      "headline": "Trump boasts about U.S. oil giants cashing in on the Iran War – all while Americans suffer higher gas prices",
+      "summary": "President Trump has said out loud what many drivers already suspected. Speaking to supporters in Georgia on Saturday, he boasted that American oil and gas companies are raking in a “fortune” from the war with Iran, even as families watch their paychecks drain…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-27-trump-boasts-oil-giants-cashing-in-on-war.html",
+      "bloc": "western",
+      "date": "2026-10-27",
+      "datetime": "2026-10-27T06:00:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-28T12:23:46.126Z",
+      "run_id": "2026-10-28T12:23"
     }
   ],
-  "total_items_ever": 3768
+  "total_items_ever": 3771
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-29T12:34:22.719Z",
+  "ts": "2026-10-29T22:35:44.543Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 114,
-    "oilStress": 75,
-    "updatedAt": "2026-10-29T12:34:22.719Z"
+    "oilPrice": 116,
+    "oilStress": 77,
+    "updatedAt": "2026-10-29T22:35:44.543Z"
   },
   "items": [
+    {
+      "headline": "Trump Preparing for a ‘Short, Intense’ War Against Iran After Election Day",
+      "summary": "On the menu today: If, in the past five months or so, you argued that the memorandum of understanding with the Iranian regime was a terrible mistake and an insane series of concessions to one of the world’s most duplicitous regimes, you were probably accused …",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4400896/posts",
+      "bloc": "western",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T15:01:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Why India has soured on Trump ahead of US midterms",
       "summary": "Seven years after Modi backed Trump, New Delhi may now hope US midterm losses leave the president chastened.",
@@ -118,27 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Could US midterms reshape Pakistan’s relationship with Washington?",
-      "summary": "Pakistan has gained diplomatic visibility under Trump, but analysts question how much the relationship has delivered.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/27/could-us-midterms-reshape-pakistans-relationship-with-washington",
-      "bloc": "regional",
-      "date": "2026-10-27",
-      "datetime": "2026-10-27T05:47:36Z",
+      "headline": "The Incredible Shrinking Superpower",
+      "summary": "The failing war with Iran marks a dramatic retreat by the U.S. from the Middle East.\nThe post The Incredible Shrinking Superpower appeared first on The Intercept.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2026/10/28/yemen-saudi-arabia-iran/",
+      "bloc": "western",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T17:04:39Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -229,32 +255,6 @@
       "bloc": "western",
       "date": "2026-10-24",
       "datetime": "2026-10-24T06:26:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Claims It Hit Multiple Ships In Persian Gulf, Warns US Military Of Major Escalation",
-      "summary": "Iran claimed Thursday that seven oil tankers were struck in the Persian Gulf and near the Strait of Hormuz.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/10/22/iran-claims-seven-vessels-attacked-in-persian-gulf",
-      "bloc": "western",
-      "date": "2026-10-22",
-      "datetime": "2026-10-22T20:20:27Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -366,6 +366,30 @@
         "survival",
         "impulsivity",
         "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The Evolution of Taiwan’s Military",
+      "summary": "Insights from Eric Setzekorn.",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/10/the-evolution-of-taiwans-military/",
+      "bloc": "western",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T15:25:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",

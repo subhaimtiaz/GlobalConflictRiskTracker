@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-29T12:33:17.519Z",
+  "updated": "2026-10-29T22:34:39.349Z",
   "retention_days": 30,
   "items": [
     {
@@ -5768,7 +5768,89 @@
       "_from": "newsapi",
       "first_seen": "2026-10-29T12:33:17.519Z",
       "run_id": "2026-10-29T12:33"
+    },
+    {
+      "headline": "Trump Preparing for a ‘Short, Intense’ War Against Iran After Election Day",
+      "summary": "On the menu today: If, in the past five months or so, you argued that the memorandum of understanding with the Iranian regime was a terrible mistake and an insane series of concessions to one of the world’s most duplicitous regimes, you were probably accused …",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4400896/posts",
+      "bloc": "western",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T15:01:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-29T22:34:39.349Z",
+      "run_id": "2026-10-29T22:34"
+    },
+    {
+      "headline": "The Incredible Shrinking Superpower",
+      "summary": "The failing war with Iran marks a dramatic retreat by the U.S. from the Middle East.\nThe post The Incredible Shrinking Superpower appeared first on The Intercept.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2026/10/28/yemen-saudi-arabia-iran/",
+      "bloc": "western",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T17:04:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-29T22:34:39.349Z",
+      "run_id": "2026-10-29T22:34"
+    },
+    {
+      "headline": "The Evolution of Taiwan’s Military",
+      "summary": "Insights from Eric Setzekorn.",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/10/the-evolution-of-taiwans-military/",
+      "bloc": "western",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T15:25:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-29T22:34:39.349Z",
+      "run_id": "2026-10-29T22:34"
     }
   ],
-  "total_items_ever": 3779
+  "total_items_ever": 3782
 }

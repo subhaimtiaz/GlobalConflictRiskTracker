@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-28T22:22:29.473Z",
+  "ts": "2026-10-29T05:00:25.347Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 75,
-    "updatedAt": "2026-10-28T22:22:29.473Z"
+    "updatedAt": "2026-10-29T05:00:25.347Z"
   },
   "items": [
+    {
+      "headline": "An unreliable US President cosying up to Russia. War in the Middle East. And a global oil crunch... 70 years after the Suez Crisis, history is repeating itself in truly brutal ways",
+      "summary": "Meanwhile, in Eastern Europe the Russians are brutally attempting to extirpate a much smaller country, which is mounting a heroic but ultimately doomed resistance.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16244257/US-President-cosying-Russia-War-Middle-East.html",
+      "bloc": "western",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T00:41:27Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Greatest Ever! Here are 70 Major Trump Accomplishments Since He Retook the White House in 2025",
       "summary": "The wild-eyed Democrat-socialists want to make the midterm election about Trump.\nThe post The Greatest Ever! Here are 70 Major Trump Accomplishments Since He Retook the White House in 2025 appeared first on The Gateway Pundit.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-10-27",
       "datetime": "2026-10-27T04:04:23Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
-      "summary": "Around 2,000 people remain stranded in the city of Oleshky, facing severe shortages of food and medicine. The Russian-occupied town has been devastated by fighting and flooding since Moscow's invasion in 2022. Russia and Ukraine began a localized ceasefire ea…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/ukraine-war-russia-melania-trump-usa/a-79771473",
-      "bloc": "western",
-      "date": "2026-10-27",
-      "datetime": "2026-10-27T03:52:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -331,30 +331,6 @@
       "bloc": "regional",
       "date": "2026-10-27",
       "datetime": "2026-10-27T15:08:59Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "China says it is 'safeguarding order' around Taiwan-controlled South China Sea atoll",
-      "summary": "China has claimed it has sovereignty over the Pratas Islands, located strategically in the South China Sea. The Chinese coast guard has been patrolling these waters to enforce what it describes as law enforcement. Taiwan has rejected these claims, insisting t…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/china-says-it-is-safeguarding-order-around-taiwan-controlled-south-china-sea-atoll/articleshow/135082090.cms",
-      "bloc": "regional",
-      "date": "2026-10-21",
-      "datetime": "2026-10-21T04:28:54Z",
       "leaders": [
         "Xi Jinping"
       ],

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-29T05:00:25.347Z",
+  "ts": "2026-10-29T12:34:22.719Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 114,
     "oilStress": 75,
-    "updatedAt": "2026-10-29T05:00:25.347Z"
+    "updatedAt": "2026-10-29T12:34:22.719Z"
   },
   "items": [
+    {
+      "headline": "Why India has soured on Trump ahead of US midterms",
+      "summary": "Seven years after Modi backed Trump, New Delhi may now hope US midterm losses leave the president chastened.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms",
+      "bloc": "regional",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T05:43:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "An unreliable US President cosying up to Russia. War in the Middle East. And a global oil crunch... 70 years after the Suez Crisis, history is repeating itself in truly brutal ways",
       "summary": "Meanwhile, in Eastern Europe the Russians are brutally attempting to extirpate a much smaller country, which is mounting a heroic but ultimately doomed resistance.",
@@ -99,32 +125,6 @@
       "bloc": "regional",
       "date": "2026-10-27",
       "datetime": "2026-10-27T05:47:36Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Will UN Peacekeepers’ Exit From Lebanon Create a Security Vacuum?",
-      "summary": "UNIFIL also offered humanitarian aid to the affected civilian population of south Lebanon",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/10/peacekeepers-lebanon-security.html",
-      "bloc": "western",
-      "date": "2026-10-27",
-      "datetime": "2026-10-27T04:04:23Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -270,6 +270,56 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Coalition talks loom as Israel exit polls suggest Netanyahu and Eisenkot blocs tied",
+      "summary": "First election since October 7th attacks was marked by a record participation by Israeli citizens of Palestinian origin",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/10/28/coalition-talks-loom-as-israel-exit-polls-suggest-netanyahu-and-eisenkot-blocs-tied/",
+      "bloc": "western",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T06:28:14Z",
+      "leaders": [
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Netanyahu trial ICC"
+      ],
+      "dimensions": [
+        "survival",
+        "accountability",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Ukraine: Time to End the War",
+      "summary": "Robert L. Borosage, Katrina vanden Heuvel\n\n\n\nFor both Russia and Ukraine, the war has taken a staggering toll and poses an ever-greater danger of spreading.\r\n\n\r\n\n\nThe post Ukraine: Time to End the War appeared first on The Nation.",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/article/world/trump-putin-russia-ukraine-war-peace-negotiations/",
+      "bloc": "western",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T09:00:00Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

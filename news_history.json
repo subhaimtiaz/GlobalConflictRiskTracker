@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-30T04:59:03.641Z",
+  "updated": "2026-10-30T12:24:29.488Z",
   "retention_days": 30,
   "items": [
     {
@@ -5768,7 +5768,35 @@
       "_from": "newsapi",
       "first_seen": "2026-10-30T04:59:03.641Z",
       "run_id": "2026-10-30T04:59"
+    },
+    {
+      "headline": "Saudi Oil Exports Fight Back: East-West Pipeline Resumes Flows Amid War Risks and Shipping Disruptions",
+      "summary": "Energy Minister Prince Abdulaziz bin Salman has announced that Saudi Arabia’s East-West pipeline has moved 5.8 million barrels of crude as of Oct. 6 [1]. The figure marks a significant step in the kingdom’s effort to restore its Red Sea export corridor after …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-29-saudi-east-west-pipeline-resumes-amid-war-risks.html",
+      "bloc": "western",
+      "date": "2026-10-29",
+      "datetime": "2026-10-29T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-30T12:24:29.488Z",
+      "run_id": "2026-10-30T12:24"
     }
   ],
-  "total_items_ever": 3783
+  "total_items_ever": 3784
 }

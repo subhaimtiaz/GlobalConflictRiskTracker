@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-30T05:00:08.869Z",
+  "ts": "2026-10-30T12:25:34.735Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 116,
-    "oilStress": 78,
-    "updatedAt": "2026-10-30T05:00:08.869Z"
+    "oilPrice": 118,
+    "oilStress": 80,
+    "updatedAt": "2026-10-30T12:25:34.735Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Saudi Oil Exports Fight Back: East-West Pipeline Resumes Flows Amid War Risks and Shipping Disruptions",
+      "summary": "Energy Minister Prince Abdulaziz bin Salman has announced that Saudi Arabia’s East-West pipeline has moved 5.8 million barrels of crude as of Oct. 6 [1]. The figure marks a significant step in the kingdom’s effort to restore its Red Sea export corridor after …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-29-saudi-east-west-pipeline-resumes-amid-war-risks.html",
+      "bloc": "western",
+      "date": "2026-10-29",
+      "datetime": "2026-10-29T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The Incredible Shrinking Superpower",
       "summary": "The failing war with Iran marks a dramatic retreat by the U.S. from the Middle East.\nThe post The Incredible Shrinking Superpower appeared first on The Intercept.",
       "source": "The Intercept",
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz Status Today: Ship Attacks Hit Record High in October as Tankers Burn and War Fears Mount",
-      "summary": "Ship attacks around the Strait of Hormuz reached a record in October, damaging supertankers and reducing traffic sharply as tensions between Iran, the United States and Israel escalate.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/strait-hormuz-ship-attacks-record-oil-traffic-1877334",
-      "bloc": "western",
-      "date": "2026-10-24",
-      "datetime": "2026-10-24T06:26:20Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

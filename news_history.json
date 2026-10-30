@@ -1,118 +1,8 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-29T22:34:39.349Z",
+  "updated": "2026-10-30T04:59:03.641Z",
   "retention_days": 30,
   "items": [
-    {
-      "headline": "US-Iran talks in New York: What’s the latest?",
-      "summary": "Both sides remain interested in a diplomatic settlement but differ on how to achieve one.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest",
-      "bloc": "regional",
-      "date": "2026-09-29",
-      "datetime": "2026-09-29T15:09:53Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-30T22:01:13.692Z",
-      "run_id": "2026-09-30T22:01"
-    },
-    {
-      "headline": "Fog of War Deepens in Hormuz as Ship Attacks Go Unreported for Days",
-      "summary": "The maritime picture in the Strait of Hormuz is becoming harder to verify, with another delayed report of a vessel strike raising questions over how much of the fighting is...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/fog-of-war-deepens-in-hormuz-as-ship-attacks-go-unreported-for-days/",
-      "bloc": "western",
-      "date": "2026-09-29",
-      "datetime": "2026-09-29T15:53:56Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-30T22:01:13.692Z",
-      "run_id": "2026-09-30T22:01"
-    },
-    {
-      "headline": "Militarizing the Final Frontier — How Space Became the New Battleground",
-      "summary": "Question: When we say “the militarization of space,” what exactly does that mean? What are countries actually doing up there? Dr. Joanna Rozpedowski: It is important to distinguish between the “militarization” and “weaponization” of space. Space has been mili…",
-      "source": "Fair Observer",
-      "url": "https://www.fairobserver.com/interview/militarizing-the-final-frontier-how-space-became-the-new-battleground/",
-      "bloc": "western",
-      "date": "2026-09-29",
-      "datetime": "2026-09-29T17:30:59Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-30T22:01:13.692Z",
-      "run_id": "2026-09-30T22:01"
-    },
-    {
-      "headline": "U.S. space weapons probably aren’t what you think",
-      "summary": "Elusive, satellite-stalking spacecraft could unleash space war—or help keep orbital peace",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/u-s-space-weapons-probably-arent-what-you-think/",
-      "bloc": "western",
-      "date": "2026-09-29",
-      "datetime": "2026-09-29T14:15:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-09-30T22:01:13.692Z",
-      "run_id": "2026-09-30T22:01"
-    },
     {
       "headline": "Iran War: The Narrative War Over Hormuz, Meetings in NY, Abu Dhabi, Riyadh, London",
       "summary": "The Trump 2.0 regime seems to be succeeding in its efforts to convince the oil markets that they have cracked open the Hormuz Strait and are escorting an ever-increasing amount of crude oil past the Iranian blockade. For their part, the Iranian claims to have…",
@@ -5850,7 +5740,35 @@
       "_from": "newsapi",
       "first_seen": "2026-10-29T22:34:39.349Z",
       "run_id": "2026-10-29T22:34"
+    },
+    {
+      "headline": "Iran warns of economic fallout from any Israeli attack",
+      "summary": "Iran has warned of a devastating economic impact from any new Israeli-led attack.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/1028/1597144-israel-iran/",
+      "bloc": "western",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T22:48:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-30T04:59:03.641Z",
+      "run_id": "2026-10-30T04:59"
     }
   ],
-  "total_items_ever": 3782
+  "total_items_ever": 3783
 }

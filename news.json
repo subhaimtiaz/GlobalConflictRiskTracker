@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-29T22:35:44.543Z",
+  "ts": "2026-10-30T05:00:08.869Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,36 @@
   },
   "live_variables": {
     "oilPrice": 116,
-    "oilStress": 77,
-    "updatedAt": "2026-10-29T22:35:44.543Z"
+    "oilStress": 78,
+    "updatedAt": "2026-10-30T05:00:08.869Z"
   },
   "items": [
+    {
+      "headline": "Iran warns of economic fallout from any Israeli attack",
+      "summary": "Iran has warned of a devastating economic impact from any new Israeli-led attack.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/1028/1597144-israel-iran/",
+      "bloc": "western",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T22:48:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump Preparing for a ‘Short, Intense’ War Against Iran After Election Day",
       "summary": "On the menu today: If, in the past five months or so, you argued that the memorandum of understanding with the Iranian regime was a terrible mistake and an insane series of concessions to one of the world’s most duplicitous regimes, you were probably accused …",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-10-27",
       "datetime": "2026-10-27T13:00:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Western Media Ignores Mecca-Alliance-Sought Regional Security Meeting in Tehran; Would Republican Midterm Wipeout Force Trump into Iran and Ukraine Retreats?",
-      "summary": "Today's Iran war news: A meeting of Mecca Alliance members with Iran seems promising but there is a very long way to go even if so.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/10/iran-war-western-media-ignores-mecca-alliance-sought-regional-security-meeting-in-tehran-would-republican-midterm-wipeout-force-trump-into-iran-and-ukraine-retreats.html",
-      "bloc": "western",
-      "date": "2026-10-27",
-      "datetime": "2026-10-27T09:55:51Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -331,31 +331,6 @@
       "bloc": "regional",
       "date": "2026-10-27",
       "datetime": "2026-10-27T13:45:01Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The view from Russia: The Ukraine conflict is entering its final phase",
-      "summary": "As Washington shifts the Ukraine burden to Europe, Sushentsov examines the EU’s strategic limits and its costly confrontation with Russia Read Full Article at RT.com",
-      "source": "Rt-english.com",
-      "url": "https://rt-english.com/news/647500-ukraine-conflict-final-stage/",
-      "bloc": "western",
-      "date": "2026-10-22",
-      "datetime": "2026-10-22T13:40:18Z",
       "leaders": [
         "Vladimir Putin"
       ],

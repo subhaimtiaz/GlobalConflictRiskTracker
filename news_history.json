@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-31T17:01:01.310Z",
+  "updated": "2026-10-31T21:13:01.635Z",
   "retention_days": 30,
   "items": [
     {
@@ -5796,7 +5796,35 @@
       "_from": "newsapi",
       "first_seen": "2026-10-31T17:01:01.310Z",
       "run_id": "2026-10-31T17:01"
+    },
+    {
+      "headline": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+      "summary": "Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+      "bloc": "western",
+      "date": "2026-10-30",
+      "datetime": "2026-10-30T17:21:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-31T21:13:01.635Z",
+      "run_id": "2026-10-31T21:13"
     }
   ],
-  "total_items_ever": 3789
+  "total_items_ever": 3790
 }

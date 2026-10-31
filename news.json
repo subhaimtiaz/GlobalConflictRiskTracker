@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-30T22:04:38.770Z",
+  "ts": "2026-10-31T04:46:58.368Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 118,
-    "oilStress": 80,
-    "updatedAt": "2026-10-30T22:04:38.770Z"
+    "oilPrice": 113,
+    "oilStress": 73,
+    "updatedAt": "2026-10-31T04:46:58.368Z"
   },
   "items": [
+    {
+      "headline": "Putin Has Shown No Willingness To End Ukraine War, Says Mike Pompeo",
+      "summary": "WASHINGTON -- Former US Secretary of State Mike Pompeo says Russian President Vladimir Putin has shown no willingness to end his war against Ukraine, warning that Moscow’s growing cooperation with Beijing, Tehran, and Pyongyang poses a serious challenge to We…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-bloggers/4401068/posts",
+      "bloc": "western",
+      "date": "2026-10-29",
+      "datetime": "2026-10-29T22:14:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Iran warns of economic fallout from any Israeli attack",
       "summary": "Iran has warned of a devastating economic impact from any new Israeli-led attack.",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-10-28",
       "datetime": "2026-10-28T00:41:27Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Greatest Ever! Here are 70 Major Trump Accomplishments Since He Retook the White House in 2025",
-      "summary": "The wild-eyed Democrat-socialists want to make the midterm election about Trump.\nThe post The Greatest Ever! Here are 70 Major Trump Accomplishments Since He Retook the White House in 2025 appeared first on The Gateway Pundit.",
-      "source": "Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/10/greatest-ever-here-are-70-major-trump-accomplishments/",
-      "bloc": "western",
-      "date": "2026-10-27",
-      "datetime": "2026-10-27T13:00:08Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -598,29 +598,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Arabia wants to send 10 million barrels of oil a day around Hormuz. A former Treasury official says it may barely move prices",
-      "summary": "Aramco CEO Amin Nasser says the East-West pipeline will grow by 3 million barrels a day, but the expansion will take two to three years, and the line has been hit by drones repeatedly this year.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/23/aramco-east-west-pipeline-10-million-barrels-oil-prices-strait-of-hormuz/",
-      "bloc": "western",
-      "date": "2026-10-23",
-      "datetime": "2026-10-23T15:55:40Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     }

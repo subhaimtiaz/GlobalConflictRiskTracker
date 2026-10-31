@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-10-31T11:54:47.670Z",
+  "updated": "2026-10-31T17:01:01.310Z",
   "retention_days": 30,
   "items": [
     {
@@ -5712,7 +5712,91 @@
       "_from": "newsapi",
       "first_seen": "2026-10-31T11:54:47.670Z",
       "run_id": "2026-10-31T11:54"
+    },
+    {
+      "headline": "Anti-War Protests Spread Across Global Ports as Dockworkers Target Arms Trade",
+      "summary": "Dockworkers across 113 ports in 22 countries staged coordinated strikes and protests Friday, disrupting cargo operations and ferry services as part of a global campaign opposing arms shipments to Israel...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/anti-war-protests-spread-across-global-ports-as-dockworkers-target-arms-trade/",
+      "bloc": "western",
+      "date": "2026-10-30",
+      "datetime": "2026-10-30T16:02:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-31T17:01:01.310Z",
+      "run_id": "2026-10-31T17:01"
+    },
+    {
+      "headline": "Chicago-born Pope Leo becomes first pontiff to vote in US election after blasting Trump over Iran war and president's treatment of migrants",
+      "summary": "Pope Leo voted in Illinois by mail-in ballot in the 2026 midterm elections, the Vatican confirmed,",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16252693/pope-leo-chicago-midterm-elections-2026-vote.html",
+      "bloc": "western",
+      "date": "2026-10-30",
+      "datetime": "2026-10-30T14:51:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-31T17:01:01.310Z",
+      "run_id": "2026-10-31T17:01"
+    },
+    {
+      "headline": "Marriage Of Convenience: Russia And Iran Deepen Trade Ties, But Their Partnership Has Limits",
+      "summary": "Moscow and Tehran are expanding banking links and alternative shipping routes to withstand Western sanctions. But shallow waterways, limited port capacity, and the risks of maritime enforcement constrain their ability to keep trade flowing.",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/russia-iran-deepen-trade-ties-caspian-sea-western-sanctions/33886709.html",
+      "bloc": "western",
+      "date": "2026-10-30",
+      "datetime": "2026-10-30T12:22:25Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-10-31T17:01:01.310Z",
+      "run_id": "2026-10-31T17:01"
     }
   ],
-  "total_items_ever": 3786
+  "total_items_ever": 3789
 }

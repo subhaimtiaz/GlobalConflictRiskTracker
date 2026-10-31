@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-31T11:55:52.814Z",
+  "ts": "2026-10-31T17:02:06.479Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,62 @@
   },
   "live_variables": {
     "oilPrice": 113,
-    "oilStress": 73,
-    "updatedAt": "2026-10-31T11:55:52.814Z"
+    "oilStress": 74,
+    "updatedAt": "2026-10-31T17:02:06.479Z"
   },
   "items": [
+    {
+      "headline": "Anti-War Protests Spread Across Global Ports as Dockworkers Target Arms Trade",
+      "summary": "Dockworkers across 113 ports in 22 countries staged coordinated strikes and protests Friday, disrupting cargo operations and ferry services as part of a global campaign opposing arms shipments to Israel...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/anti-war-protests-spread-across-global-ports-as-dockworkers-target-arms-trade/",
+      "bloc": "western",
+      "date": "2026-10-30",
+      "datetime": "2026-10-30T16:02:58Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Chicago-born Pope Leo becomes first pontiff to vote in US election after blasting Trump over Iran war and president's treatment of migrants",
+      "summary": "Pope Leo voted in Illinois by mail-in ballot in the 2026 midterm elections, the Vatican confirmed,",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16252693/pope-leo-chicago-midterm-elections-2026-vote.html",
+      "bloc": "western",
+      "date": "2026-10-30",
+      "datetime": "2026-10-30T14:51:28Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Putin Has Shown No Willingness To End Ukraine War, Says Mike Pompeo",
       "summary": "WASHINGTON -- Former US Secretary of State Mike Pompeo says Russian President Vladimir Putin has shown no willingness to end his war against Ukraine, warning that Moscow’s growing cooperation with Beijing, Tehran, and Pyongyang poses a serious challenge to We…",
@@ -92,53 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Why India has soured on Trump ahead of US midterms",
-      "summary": "Seven years after Modi backed Trump, New Delhi may now hope US midterm losses leave the president chastened.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms",
-      "bloc": "regional",
-      "date": "2026-10-28",
-      "datetime": "2026-10-28T05:43:40Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "An unreliable US President cosying up to Russia. War in the Middle East. And a global oil crunch... 70 years after the Suez Crisis, history is repeating itself in truly brutal ways",
-      "summary": "Meanwhile, in Eastern Europe the Russians are brutally attempting to extirpate a much smaller country, which is mounting a heroic but ultimately doomed resistance.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16244257/US-President-cosying-Russia-War-Middle-East.html",
+      "headline": "Marriage Of Convenience: Russia And Iran Deepen Trade Ties, But Their Partnership Has Limits",
+      "summary": "Moscow and Tehran are expanding banking links and alternative shipping routes to withstand Western sanctions. But shallow waterways, limited port capacity, and the risks of maritime enforcement constrain their ability to keep trade flowing.",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/russia-iran-deepen-trade-ties-caspian-sea-western-sanctions/33886709.html",
       "bloc": "western",
-      "date": "2026-10-28",
-      "datetime": "2026-10-28T00:41:27Z",
+      "date": "2026-10-30",
+      "datetime": "2026-10-30T12:22:25Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -229,32 +255,6 @@
       "bloc": "western",
       "date": "2026-10-26",
       "datetime": "2026-10-26T16:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Weekly Climate and Energy News Roundup #712",
-      "summary": "“Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve.”— Max Planck\nThe post Weekly Climate and Energy News Roundup #712 appeared first on Watts Up W…",
-      "source": "Wattsupwiththat.com",
-      "url": "https://wattsupwiththat.com/2026/10/26/weekly-climate-and-energy-news-roundup-712/",
-      "bloc": "western",
-      "date": "2026-10-26",
-      "datetime": "2026-10-26T09:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

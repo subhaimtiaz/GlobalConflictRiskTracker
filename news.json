@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-31T21:14:06.859Z",
+  "ts": "2026-11-01T05:09:21.404Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 113,
-    "oilStress": 73,
-    "updatedAt": "2026-10-31T21:14:06.859Z"
+    "oilStress": 74,
+    "updatedAt": "2026-11-01T05:09:21.404Z"
   },
   "items": [
     {
@@ -573,31 +573,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "What will future societies be like after fossil fuels are gone?",
-      "summary": "Preface.  I was writing about how deadly and brutal wars are today, nuclear bombs, and all the mafia totalitarian and gangster states like Russia and Mexico, Ecuador, various African states that make the lives of their people miserable and getting … Continue …",
-      "source": "Energyskeptic.com",
-      "url": "https://energyskeptic.com/2026/what-will-future-societies-be-like-after-fossil-fuels-are-gone/",
-      "bloc": "western",
-      "date": "2026-10-24",
-      "datetime": "2026-10-24T13:51:11Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

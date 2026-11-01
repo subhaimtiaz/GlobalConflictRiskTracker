@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-01T12:55:04.206Z",
+  "ts": "2026-11-01T21:51:32.585Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 113,
     "oilStress": 74,
-    "updatedAt": "2026-11-01T12:55:04.206Z"
+    "updatedAt": "2026-11-01T21:51:32.585Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump Was Right to Take On Iran, and Two Years of Refilling Oil Tanks Is a Bargain",
+      "summary": "On October 22, the energy analysts at Kpler reported a number that the drive-by media refused to report. The volume of Iranian crude floating outside the blockade zone had fallen to zero, down from roughly 136 million barrels when the war began in February. N…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4401275/posts",
+      "bloc": "western",
+      "date": "2026-10-31",
+      "datetime": "2026-10-31T17:43:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
       "summary": "Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz.",
       "source": "CNBC",
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Incredible Shrinking Superpower",
-      "summary": "The failing war with Iran marks a dramatic retreat by the U.S. from the Middle East.\nThe post The Incredible Shrinking Superpower appeared first on The Intercept.",
-      "source": "The Intercept",
-      "url": "https://theintercept.com/2026/10/28/yemen-saudi-arabia-iran/",
-      "bloc": "western",
-      "date": "2026-10-28",
-      "datetime": "2026-10-28T17:04:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Coalition talks loom as Israel exit polls suggest Netanyahu and Eisenkot blocs tied",
       "summary": "First election since October 7th attacks was marked by a record participation by Israeli citizens of Palestinian origin",
       "source": "The Irish Times",
@@ -341,6 +341,30 @@
         "survival",
         "impulsivity",
         "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
+      "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+      "bloc": "western",
+      "date": "2026-10-31",
+      "datetime": "2026-10-31T18:42:33Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-01T21:51:32.585Z",
+  "ts": "2026-11-02T05:09:39.554Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 113,
-    "oilStress": 74,
-    "updatedAt": "2026-11-01T21:51:32.585Z"
+    "oilPrice": 110,
+    "oilStress": 68,
+    "updatedAt": "2026-11-02T05:09:39.554Z"
   },
   "items": [
+    {
+      "headline": "The Next Minab",
+      "summary": "More important than who is right in a war is who is next: the child , the family in the next building, the stranger on the next flight.",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/11/the-next-minab.html",
+      "bloc": "western",
+      "date": "2026-11-01",
+      "datetime": "2026-11-01T04:06:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Anti-War Protests Spread Across Global Ports as Dockworkers Target Arms Trade",
       "summary": "Dockworkers across 113 ports in 22 countries staged coordinated strikes and protests Friday, disrupting cargo operations and ferry services as part of a global campaign opposing arms shipments to Israel...",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump Preparing for a ‘Short, Intense’ War Against Iran After Election Day",
-      "summary": "On the menu today: If, in the past five months or so, you argued that the memorandum of understanding with the Iranian regime was a terrible mistake and an insane series of concessions to one of the world’s most duplicitous regimes, you were probably accused …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4400896/posts",
+      "headline": "Shipping Strikes In Hormuz Leave Both Sides With Economic Pain",
+      "summary": "By Gerry Doyle Oct 31, 2026 (Bloomberg) –As US President Donald Trump threatens renewed attacks against Iran, Tehran’s intermittent strikes on commercial vessels have left the two sides locked in a painful...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/shipping-strikes-in-hormuz-leave-both-sides-with-economic-pain/",
       "bloc": "western",
-      "date": "2026-10-28",
-      "datetime": "2026-10-28T15:01:51Z",
+      "date": "2026-11-01",
+      "datetime": "2026-11-01T03:45:55Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Oil Exports Fight Back: East-West Pipeline Resumes Flows Amid War Risks and Shipping Disruptions",
-      "summary": "Energy Minister Prince Abdulaziz bin Salman has announced that Saudi Arabia’s East-West pipeline has moved 5.8 million barrels of crude as of Oct. 6 [1]. The figure marks a significant step in the kingdom’s effort to restore its Red Sea export corridor after …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-29-saudi-east-west-pipeline-resumes-amid-war-risks.html",
-      "bloc": "western",
-      "date": "2026-10-29",
-      "datetime": "2026-10-29T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -506,32 +506,6 @@
       "bloc": "western",
       "date": "2026-10-26",
       "datetime": "2026-10-26T12:30:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "First Russian Diesel Tanker Under Trump-Moscow Fuel Deal to Sail for U.S.",
-      "summary": "Russia has dispatched its first tanker with diesel for the U.S. on Thursday, Oct. 22, Deputy Prime Minister Alexander Novak said, according to the Vedomosti news outlet, after a deal with Washington [1]. The shipment is the first delivery under a fuel supply …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-25-russian-diesel-tanker-trump-moscow-sail-us.html",
-      "bloc": "western",
-      "date": "2026-10-25",
-      "datetime": "2026-10-25T06:00:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",

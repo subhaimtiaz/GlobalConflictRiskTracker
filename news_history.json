@@ -1,116 +1,8 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-01T21:50:27.407Z",
+  "updated": "2026-11-02T05:08:34.299Z",
   "retention_days": 30,
   "items": [
-    {
-      "headline": "Saudi Arabia Once Counted on US Protection. Now It’s Pivoting to New Alliances",
-      "summary": "As Persian Gulf nations contended with the fallout from the Israel- U.S. war on Iran, Saudi Arabia has supercharged its military-focused diplomacy.",
-      "source": "Military.com",
-      "url": "https://military.com/saudi-arabia-once-counted-on-us-protection-now-its-pivoting-to-new-alliances",
-      "bloc": "western",
-      "date": "2026-10-02",
-      "datetime": "2026-10-02T13:53:45Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-10-03T15:57:27.241Z",
-      "run_id": "2026-10-03T15:57"
-    },
-    {
-      "headline": "Trump's 'excursion into hell' commentary may come back to bite",
-      "summary": "What so many of the current major global conflicts have in common with the debacle in Iraq is their undefined, or sometimes not truthfully defined, missions.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-10-03/global-excursion-into-hell-bigger-expensive-iraq/107220592",
-      "bloc": "western",
-      "date": "2026-10-02",
-      "datetime": "2026-10-02T18:30:00Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-10-03T20:47:20.146Z",
-      "run_id": "2026-10-03T20:47"
-    },
-    {
-      "headline": "China widens military footprint with Laos air base",
-      "summary": "China recently opened its first overseas air force base in Laos to enhance military training and influence. The base will train Laotian air force pilots and potentially house Chinese military assets. This move reflects China's ambition to expand its military …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/china-widens-military-footprint-with-laos-air-base/articleshow/134643373.cms",
-      "bloc": "regional",
-      "date": "2026-10-02",
-      "datetime": "2026-10-02T16:35:08Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-10-03T20:47:20.146Z",
-      "run_id": "2026-10-03T20:47"
-    },
-    {
-      "headline": "UK plays the blame game, terror in the skies, Russia’s red lines: RT stories that shaped the week",
-      "summary": "RT looks at the top news stories this week, including a dubious ‘terror plot’ at RAF Fairford, a nuclear warning from Moscow, and crisis on board an Israel-bound airliner",
-      "source": "RT",
-      "url": "https://www.rt.com/news/646650-rt-top-stories-lavrov-putin/",
-      "bloc": "western",
-      "date": "2026-10-02",
-      "datetime": "2026-10-02T21:00:05Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-10-04T05:02:16.335Z",
-      "run_id": "2026-10-04T05:02"
-    },
     {
       "headline": "Houthis target Saudi oil facility as hostilities escalate in Yemen",
       "summary": "Yemen's Iran-aligned Houthis say they targeted a Saudi Arabian oil company in retaliation for Saudi attacks on Yemen.",
@@ -5742,7 +5634,63 @@
       "_from": "newsapi",
       "first_seen": "2026-11-01T21:50:27.407Z",
       "run_id": "2026-11-01T21:50"
+    },
+    {
+      "headline": "The Next Minab",
+      "summary": "More important than who is right in a war is who is next: the child , the family in the next building, the stranger on the next flight.",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/11/the-next-minab.html",
+      "bloc": "western",
+      "date": "2026-11-01",
+      "datetime": "2026-11-01T04:06:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-02T05:08:34.299Z",
+      "run_id": "2026-11-02T05:08"
+    },
+    {
+      "headline": "Shipping Strikes In Hormuz Leave Both Sides With Economic Pain",
+      "summary": "By Gerry Doyle Oct 31, 2026 (Bloomberg) –As US President Donald Trump threatens renewed attacks against Iran, Tehran’s intermittent strikes on commercial vessels have left the two sides locked in a painful...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/shipping-strikes-in-hormuz-leave-both-sides-with-economic-pain/",
+      "bloc": "western",
+      "date": "2026-11-01",
+      "datetime": "2026-11-01T03:45:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-02T05:08:34.299Z",
+      "run_id": "2026-11-02T05:08"
     }
   ],
-  "total_items_ever": 3792
+  "total_items_ever": 3794
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-03T13:52:39.024Z",
+  "ts": "2026-11-03T23:01:52.732Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 102,
-    "oilStress": 56,
-    "updatedAt": "2026-11-03T13:52:39.024Z"
+    "oilPrice": 104,
+    "oilStress": 59,
+    "updatedAt": "2026-11-03T23:01:52.732Z"
   },
   "items": [
     {
@@ -118,27 +118,105 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Anti-War Protests Spread Across Global Ports as Dockworkers Target Arms Trade",
-      "summary": "Dockworkers across 113 ports in 22 countries staged coordinated strikes and protests Friday, disrupting cargo operations and ferry services as part of a global campaign opposing arms shipments to Israel...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/anti-war-protests-spread-across-global-ports-as-dockworkers-target-arms-trade/",
+      "headline": "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China",
+      "summary": "A sanctioned Iranian tanker carrying about 500,000 barrels of liquefied petroleum gas slipped past the U.S. naval blockade and delivered its cargo to China, according to United Against Nuclear Iran (UANI), which says it filmed the ship at a Malaysian anchorag…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Sanctioned-Iranian-Tanker-Slips-Past-US-Blockade-Delivers-Cargo-to-China.html",
       "bloc": "western",
-      "date": "2026-10-30",
-      "datetime": "2026-10-30T16:02:58Z",
+      "date": "2026-11-02",
+      "datetime": "2026-11-02T20:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Says Contacts Over Ending War Continue After Talks Finish With No Breakthrough",
+      "summary": "Contacts between Iran and the United States to end their eight-month war are continuing, Tehran said on Monday, after days of Iranian talks with Qatari mediators ended with altered proposals but no breakthrough.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-says-contacts-over-ending-war-continue-after-talks-finish-with-no-breakthrough/",
+      "bloc": "western",
+      "date": "2026-11-02",
+      "datetime": "2026-11-02T18:03:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "US-Iran talks end without deal",
+      "summary": "US-Iran negotiations have ended without a deal as Washington weighs further strikes and Tehran warns of a wider regional conflict Read Full Article at RT.com",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/news/648234-us-iran-renewed-war-concerns/",
+      "bloc": "western",
+      "date": "2026-11-02",
+      "datetime": "2026-11-02T17:07:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran says contacts with US over ending war continue",
+      "summary": "China and Russia warn against the possibility of renewed military action",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/11/02/iran-says-contacts-with-us-over-ending-war-continue/",
+      "bloc": "western",
+      "date": "2026-11-02",
+      "datetime": "2026-11-02T17:03:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -166,110 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iranian ‘ghost fleet’ filmed evading US blockade en route to China, UANI says",
-      "summary": "Smaller Iranian ghost fleet tankers are slipping past the U.S. naval blockade carrying sanctioned LPG fuel to China via a shadowy Malaysia anchorage.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says",
-      "bloc": "western",
-      "date": "2026-11-01",
-      "datetime": "2026-11-01T23:28:38Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Shipping Strikes In Hormuz Leave Both Sides With Economic Pain",
-      "summary": "By Gerry Doyle Oct 31, 2026 (Bloomberg) –As US President Donald Trump threatens renewed attacks against Iran, Tehran’s intermittent strikes on commercial vessels have left the two sides locked in a painful...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/shipping-strikes-in-hormuz-leave-both-sides-with-economic-pain/",
-      "bloc": "western",
-      "date": "2026-11-01",
-      "datetime": "2026-11-01T03:45:55Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Was Right to Take On Iran, and Two Years of Refilling Oil Tanks Is a Bargain",
-      "summary": "On October 22, the energy analysts at Kpler reported a number that the drive-by media refused to report. The volume of Iranian crude floating outside the blockade zone had fallen to zero, down from roughly 136 million barrels when the war began in February. N…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4401275/posts",
-      "bloc": "western",
-      "date": "2026-10-31",
-      "datetime": "2026-10-31T17:43:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
-      "summary": "Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
-      "bloc": "western",
-      "date": "2026-10-30",
-      "datetime": "2026-10-30T17:21:47Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

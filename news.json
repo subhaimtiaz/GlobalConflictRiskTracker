@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-02T15:09:15.101Z",
+  "ts": "2026-11-03T00:45:43.233Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 110,
-    "oilStress": 68,
-    "updatedAt": "2026-11-02T15:09:15.101Z"
+    "oilPrice": 104,
+    "oilStress": 59,
+    "updatedAt": "2026-11-03T00:45:43.233Z"
   },
   "items": [
+    {
+      "headline": "United Arab Emirates says military solutions offer no quick off-ramps to crisis with Iran",
+      "summary": "The United Arab Emirates hopes for a diplomatic breakthrough in Qatar-led mediations to prevent a new confrontation between the U.S. and Iran.",
+      "source": "KSAT San Antonio",
+      "url": "https://www.ksat.com/business/2026/11/01/united-arab-emirates-says-military-solutions-offer-no-quick-off-ramps-to-crisis-with-iran/",
+      "bloc": "western",
+      "date": "2026-11-01",
+      "datetime": "2026-11-01T20:12:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Next Minab",
       "summary": "More important than who is right in a war is who is next: the child , the family in the next building, the stranger on the next flight.",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran warns of economic fallout from any Israeli attack",
-      "summary": "Iran has warned of a devastating economic impact from any new Israeli-led attack.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/middle-east/2026/1028/1597144-israel-iran/",
+      "headline": "Iranian ‘ghost fleet’ filmed evading US blockade en route to China, UANI says",
+      "summary": "Smaller Iranian ghost fleet tankers are slipping past the U.S. naval blockade carrying sanctioned LPG fuel to China via a shadowy Malaysia anchorage.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says",
       "bloc": "western",
-      "date": "2026-10-28",
-      "datetime": "2026-10-28T22:48:38Z",
+      "date": "2026-11-01",
+      "datetime": "2026-11-01T23:28:38Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran War: Senator Murphy Warns of “Insane” US Attack Plans as Iran Rejects JD Vance Negotiation Outreach, Wall Street Journal Applies Porcine Maquillage to Unsustainable US Hormuz Oil Shuttle Defense",
-      "summary": "Today's Iran war news: More US threats and misguided outreach as Robert Barnes reports Trump favors trying to take Strait of Hormuz islands",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/10/iran-war-senator-murphy-warns-of-insane-us-attack-plans-as-iran-rejects-jd-vance-negotiation-outreach-wall-street-journal-applies-porcine-maquillage-to-unsustainable-us-hormuz-oil-shuttle-defens.html",
-      "bloc": "western",
-      "date": "2026-10-30",
-      "datetime": "2026-10-30T10:34:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -447,84 +447,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "How Trump’s Energy Dominance Turned Into Hubris",
-      "summary": "When Donald Trump returned to the White House in 2025, “energy dominance” was the bedrock of his economic and foreign policy plans. But an unpopular war with Iran and soaring household fuel costs have now made energy policy a major liability for the US presid…",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/how-trumps-energy-dominance-turned-into-hubris/",
-      "bloc": "western",
-      "date": "2026-10-26",
-      "datetime": "2026-10-26T16:36:05Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "‘We’re making a freaking fortune’: Trump touts how much ‘money’ the U.S. is making from the Iran war as gas hits $4.29 a gallon and diesel tops $6",
-      "summary": "Eight months into the Iran war, gas has jumped from $2.98 to $4.29 a gallon, while diesel has climbed from $3.76 to $6.35.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/26/trump-iran-war-gas-diesel-prices/",
-      "bloc": "western",
-      "date": "2026-10-26",
-      "datetime": "2026-10-26T13:37:53Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of October 26, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-10-26-2026/",
-      "bloc": "western",
-      "date": "2026-10-26",
-      "datetime": "2026-10-26T12:30:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Iran Turns to Russia for Nuclear Power as IAEA Oversight Falters",
       "summary": "Russia and Iran are expanding their nuclear cooperation as both countries face Western sanctions and international isolation. Their partnership includes the construction of nuclear power plants, fuel supplies, and broader technological cooperation. While Bush…",
       "source": "OilPrice.com",
@@ -546,54 +468,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Russia And Iran Expand Nuclear Cooperation As International Oversight Weakens",
-      "summary": "Russia and Iran are expanding their nuclear cooperation as both countries face Western sanctions and international isolation. Their partnership includes the construction of nuclear power plants, fuel supplies, and broader technological cooperation.",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "url": "https://www.rferl.org/a/russia-and-iran-expand-nuclear-cooperation-as-international-oversight-weakens/33883109.html",
-      "bloc": "western",
-      "date": "2026-10-26",
-      "datetime": "2026-10-26T16:24:35Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why Saudi Just Abandoned Its Core Oil Rule",
-      "summary": "Few could argue with U.S. President Donald Trump’s key objective in launching ‘Operation Epic Fury’ against Iran on 28 February -- to prevent Iran from ever being able to develop a nuclear weapon. All members of his Cabinet fully backed this aim at the time, …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Why-Saudi-Just-Abandoned-Its-Core-Oil-Rule.html",
-      "bloc": "western",
-      "date": "2026-10-26",
-      "datetime": "2026-10-26T16:00:00Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     }

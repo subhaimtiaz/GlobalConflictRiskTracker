@@ -1,36 +1,8 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-02T15:08:09.849Z",
+  "updated": "2026-11-03T00:44:38.021Z",
   "retention_days": 30,
   "items": [
-    {
-      "headline": "Houthis target Saudi oil facility as hostilities escalate in Yemen",
-      "summary": "Yemen's Iran-aligned Houthis say they targeted a Saudi Arabian oil company in retaliation for Saudi attacks on Yemen.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-10-04/houthi-saudi-yemen-iraq-middle-east-hostilities/107226524",
-      "bloc": "western",
-      "date": "2026-10-03",
-      "datetime": "2026-10-03T22:40:11Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi",
-      "first_seen": "2026-10-05T04:48:46.686Z",
-      "run_id": "2026-10-05T04:48"
-    },
     {
       "headline": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
       "summary": "Tehran's conditions include a halt to U.S. \"acts of aggression,\" an end to the naval blockade  and economic warfare, and the release of Iranian assets.",
@@ -5690,7 +5662,63 @@
       "_from": "newsapi",
       "first_seen": "2026-11-02T05:08:34.299Z",
       "run_id": "2026-11-02T05:08"
+    },
+    {
+      "headline": "United Arab Emirates says military solutions offer no quick off-ramps to crisis with Iran",
+      "summary": "The United Arab Emirates hopes for a diplomatic breakthrough in Qatar-led mediations to prevent a new confrontation between the U.S. and Iran.",
+      "source": "KSAT San Antonio",
+      "url": "https://www.ksat.com/business/2026/11/01/united-arab-emirates-says-military-solutions-offer-no-quick-off-ramps-to-crisis-with-iran/",
+      "bloc": "western",
+      "date": "2026-11-01",
+      "datetime": "2026-11-01T20:12:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-03T00:44:38.021Z",
+      "run_id": "2026-11-03T00:44"
+    },
+    {
+      "headline": "Iranian ‘ghost fleet’ filmed evading US blockade en route to China, UANI says",
+      "summary": "Smaller Iranian ghost fleet tankers are slipping past the U.S. naval blockade carrying sanctioned LPG fuel to China via a shadowy Malaysia anchorage.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says",
+      "bloc": "western",
+      "date": "2026-11-01",
+      "datetime": "2026-11-01T23:28:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-03T00:44:38.021Z",
+      "run_id": "2026-11-03T00:44"
     }
   ],
-  "total_items_ever": 3794
+  "total_items_ever": 3796
 }

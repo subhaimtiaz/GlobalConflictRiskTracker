@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-03T00:44:38.021Z",
+  "updated": "2026-11-03T13:51:33.803Z",
   "retention_days": 30,
   "items": [
     {
@@ -5718,7 +5718,146 @@
       "_from": "newsapi",
       "first_seen": "2026-11-03T00:44:38.021Z",
       "run_id": "2026-11-03T00:44"
+    },
+    {
+      "headline": "Dockworkers Launch Coordinated Strike at 113 Ports Over Israeli, U.S. Military Cargo",
+      "summary": "Dockworkers across five continents launched a coordinated anti-war strike on Friday, Oct. 30, 2026, targeting Israeli arms shipments and U.S. military cargo moving through commercial ports, organizers said. More than 25 unions mobilized at 113 ports in 22 cou…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-02-dockworkers-launch-coordinated-strike-ports-military-cargo.html",
+      "bloc": "western",
+      "date": "2026-11-02",
+      "datetime": "2026-11-02T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-03T13:51:33.803Z",
+      "run_id": "2026-11-03T13:51"
+    },
+    {
+      "headline": "“They Needed Atrocity Propaganda to Justify Mass Slaughter of Palestinians” – Adam Johnson",
+      "summary": "That level of just raw brutality and violence and mass killing needed to have a correspondingly horrific atrocity propaganda to justify",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/11/propaganda-slaughter-palestinians.html",
+      "bloc": "western",
+      "date": "2026-11-02",
+      "datetime": "2026-11-02T05:06:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-03T13:51:33.803Z",
+      "run_id": "2026-11-03T13:51"
+    },
+    {
+      "headline": "Iran official says 'the ball is now in the U.S.' court' regarding peace talks",
+      "summary": "Talks between the U.S. and Iran remain stalled despite the two countries signing a memorandum of understanding in June, aimed at ending the war that began with joint American-Israeli strikes on the country in February. The opening strikes killed a host of top…",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-good-call-netanyahu/?id=137762456",
+      "bloc": "western",
+      "date": "2026-11-02",
+      "datetime": "2026-11-02T12:15:10Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-03T13:51:33.803Z",
+      "run_id": "2026-11-03T13:51"
+    },
+    {
+      "headline": "Hackers Send Fake Nuclear Threat Alerts to Ukrainian and Russian Citizens",
+      "summary": "Hackers reportedly hit Ukraine ‘s and Russia ‘s emergency alert apps, sending fake nuclear and attack warnings and raising concerns over public safety. Ukraine and Russia both said on Sunday night that hackers had compromised their emergency alert apps and us…",
+      "source": "Securityaffairs.com",
+      "url": "https://securityaffairs.com/202248/security/hackers-send-fake-nuclear-threat-alerts-to-ukrainian-and-russian-citizens.html",
+      "bloc": "western",
+      "date": "2026-11-02",
+      "datetime": "2026-11-02T10:20:46Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-03T13:51:33.803Z",
+      "run_id": "2026-11-03T13:51"
+    },
+    {
+      "headline": "Current price of oil as of November 2, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-11-02-2026/",
+      "bloc": "western",
+      "date": "2026-11-02",
+      "datetime": "2026-11-02T11:45:32Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-03T13:51:33.803Z",
+      "run_id": "2026-11-03T13:51"
     }
   ],
-  "total_items_ever": 3796
+  "total_items_ever": 3801
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-03T23:01:52.732Z",
+  "ts": "2026-11-04T05:31:09.280Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 104,
     "oilStress": 59,
-    "updatedAt": "2026-11-03T23:01:52.732Z"
+    "updatedAt": "2026-11-04T05:31:09.280Z"
   },
   "items": [
     {
@@ -323,23 +323,22 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Melania or the Pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-      "summary": "Competing claims over the ceasefire mark the latest tensions between the White House and the Vatican.",
+      "headline": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+      "summary": "Hit hard by Trump's tariffs and the war on Iran, countries in the Asia-Pacific want 'enormous changes' in US policies.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky",
+      "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific",
       "bloc": "regional",
-      "date": "2026-10-27",
-      "datetime": "2026-10-27T13:45:01Z",
+      "date": "2026-11-02",
+      "datetime": "2026-11-02T23:41:18Z",
       "leaders": [
-        "Vladimir Putin"
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Putin Ukraine ceasefire"
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",
-        "impulsivity",
-        "narcissism"
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -396,30 +395,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
-      "summary": "The Iran war and Trump's criticisms of allies have led Asia-Pacific countries to recalibrate their calculations.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners",
-      "bloc": "regional",
-      "date": "2026-10-27",
-      "datetime": "2026-10-27T15:08:59Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Current price of oil as of November 2, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
       "source": "Fortune",
@@ -442,57 +417,6 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump boasts about U.S. oil giants cashing in on the Iran War – all while Americans suffer higher gas prices",
-      "summary": "President Trump has said out loud what many drivers already suspected. Speaking to supporters in Georgia on Saturday, he boasted that American oil and gas companies are raking in a “fortune” from the war with Iran, even as families watch their paychecks drain…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-27-trump-boasts-oil-giants-cashing-in-on-war.html",
-      "bloc": "western",
-      "date": "2026-10-27",
-      "datetime": "2026-10-27T06:00:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Turns to Russia for Nuclear Power as IAEA Oversight Falters",
-      "summary": "Russia and Iran are expanding their nuclear cooperation as both countries face Western sanctions and international isolation. Their partnership includes the construction of nuclear power plants, fuel supplies, and broader technological cooperation. While Bush…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/Iran-Turns-to-Russia-for-Nuclear-Power-as-IAEA-Oversight-Falters.html",
-      "bloc": "western",
-      "date": "2026-10-27",
-      "datetime": "2026-10-27T14:00:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     }

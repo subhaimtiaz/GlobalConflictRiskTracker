@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-04T14:00:04.788Z",
+  "ts": "2026-11-04T23:26:08.659Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 101,
-    "oilStress": 54,
-    "updatedAt": "2026-11-04T14:00:04.788Z"
+    "oilPrice": 95,
+    "oilStress": 44,
+    "updatedAt": "2026-11-04T23:26:08.659Z"
   },
   "items": [
+    {
+      "headline": "US Envoy Steve Witkoff Announces Russia-Ukraine Negotiations As 'Next Steps Toward Peace'",
+      "summary": "The peace talks mediated by the U.S. will be held Nov. 10-11 in Abu Dhabi, with input from NATO and other traditional allies.",
+      "source": "Military.com",
+      "url": "https://military.com/us-envoy-steve-witkoff-announces-russia-ukraine-negotiations-next-step-towards-peace",
+      "bloc": "western",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T15:57:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
       "summary": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
@@ -92,27 +118,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "“They Needed Atrocity Propaganda to Justify Mass Slaughter of Palestinians” – Adam Johnson",
-      "summary": "That level of just raw brutality and violence and mass killing needed to have a correspondingly horrific atrocity propaganda to justify",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/11/propaganda-slaughter-palestinians.html",
+      "headline": "Hormuz Standoff Leaves Both Sides With Economic Pain",
+      "summary": "As US President Donald Trump threatens renewed attacks against Iran, Tehran’s intermittent strikes on commercial vessels have left the two sides locked in a painful economic standoff.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/hormuz-standoff-leaves-both-sides-with-economic-pain/",
       "bloc": "western",
-      "date": "2026-11-02",
-      "datetime": "2026-11-02T05:06:44Z",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T17:47:08Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -218,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Says Contacts Over Ending War Continue After Talks Finish With No Breakthrough",
-      "summary": "Contacts between Iran and the United States to end their eight-month war are continuing, Tehran said on Monday, after days of Iranian talks with Qatari mediators ended with altered proposals but no breakthrough.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/iran-says-contacts-over-ending-war-continue-after-talks-finish-with-no-breakthrough/",
-      "bloc": "western",
-      "date": "2026-11-02",
-      "datetime": "2026-11-02T18:03:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -442,6 +442,29 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Russian strikes knock out power to swathes of Ukraine; Kyiv hits Russian refinery",
+      "summary": "Russia launched a sweeping, multi-wave bombardment of Ukraine's energy infrastructure on Tuesday, knocking out power to swathes of the country with missiles and drones.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/03/world-news/russian-strikes-knock-out-power-to-swathes-of-ukraine-kyiv-hits-russian-refinery/",
+      "bloc": "western",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T14:59:03Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     }

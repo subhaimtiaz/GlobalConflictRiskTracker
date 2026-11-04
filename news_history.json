@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-04T13:58:59.570Z",
+  "updated": "2026-11-04T23:25:03.533Z",
   "retention_days": 30,
   "items": [
     {
@@ -5940,7 +5940,88 @@
       "_from": "newsapi",
       "first_seen": "2026-11-04T13:58:59.569Z",
       "run_id": "2026-11-04T13:58"
+    },
+    {
+      "headline": "US Envoy Steve Witkoff Announces Russia-Ukraine Negotiations As 'Next Steps Toward Peace'",
+      "summary": "The peace talks mediated by the U.S. will be held Nov. 10-11 in Abu Dhabi, with input from NATO and other traditional allies.",
+      "source": "Military.com",
+      "url": "https://military.com/us-envoy-steve-witkoff-announces-russia-ukraine-negotiations-next-step-towards-peace",
+      "bloc": "western",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T15:57:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-04T23:25:03.531Z",
+      "run_id": "2026-11-04T23:25"
+    },
+    {
+      "headline": "Hormuz Standoff Leaves Both Sides With Economic Pain",
+      "summary": "As US President Donald Trump threatens renewed attacks against Iran, Tehran’s intermittent strikes on commercial vessels have left the two sides locked in a painful economic standoff.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/hormuz-standoff-leaves-both-sides-with-economic-pain/",
+      "bloc": "western",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T17:47:08Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-04T23:25:03.532Z",
+      "run_id": "2026-11-04T23:25"
+    },
+    {
+      "headline": "Russian strikes knock out power to swathes of Ukraine; Kyiv hits Russian refinery",
+      "summary": "Russia launched a sweeping, multi-wave bombardment of Ukraine's energy infrastructure on Tuesday, knocking out power to swathes of the country with missiles and drones.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/03/world-news/russian-strikes-knock-out-power-to-swathes-of-ukraine-kyiv-hits-russian-refinery/",
+      "bloc": "western",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T14:59:03Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-04T23:25:03.532Z",
+      "run_id": "2026-11-04T23:25"
     }
   ],
-  "total_items_ever": 3812
+  "total_items_ever": 3815
 }

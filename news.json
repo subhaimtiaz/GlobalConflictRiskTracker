@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-04T05:31:09.280Z",
+  "ts": "2026-11-04T14:00:04.788Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 104,
-    "oilStress": 59,
-    "updatedAt": "2026-11-04T05:31:09.280Z"
+    "oilPrice": 101,
+    "oilStress": 54,
+    "updatedAt": "2026-11-04T14:00:04.788Z"
   },
   "items": [
+    {
+      "headline": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+      "summary": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest",
+      "bloc": "regional",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T10:40:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "British troops will be allowed to fire on Russian forces if they come under attack while peacekeeping in Ukraine, Western officials reveal",
+      "summary": "Western troops deployed to Ukraine could return fire in self-defence if confronted by Moscow's forces, though any such threat would more likely come from drones than direct gunfire.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16261483/British-troops-fire-Russian-peacekeeping-Ukraine-Western-officials.html",
+      "bloc": "western",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T10:07:41Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Dockworkers Launch Coordinated Strike at 113 Ports Over Israeli, U.S. Military Cargo",
       "summary": "Dockworkers across five continents launched a coordinated anti-war strike on Friday, Oct. 30, 2026, targeting Israeli arms shipments and U.S. military cargo moving through commercial ports, organizers said. More than 25 unions mobilized at 113 ports in 22 cou…",
@@ -66,54 +118,80 @@
       "_from": "newsapi"
     },
     {
-      "headline": "United Arab Emirates says military solutions offer no quick off-ramps to crisis with Iran",
-      "summary": "The United Arab Emirates hopes for a diplomatic breakthrough in Qatar-led mediations to prevent a new confrontation between the U.S. and Iran.",
-      "source": "KSAT San Antonio",
-      "url": "https://www.ksat.com/business/2026/11/01/united-arab-emirates-says-military-solutions-offer-no-quick-off-ramps-to-crisis-with-iran/",
-      "bloc": "western",
-      "date": "2026-11-01",
-      "datetime": "2026-11-01T20:12:01Z",
+      "headline": "Iran commander sets out five conditions for regional security",
+      "summary": "Mediator Qatar says US and Iran are studying proposals to resume negotiations and that it was 'hopeful' of an agreement.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security",
+      "bloc": "regional",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T13:21:57Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "The Next Minab",
-      "summary": "More important than who is right in a war is who is next: the child , the family in the next building, the stranger on the next flight.",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/11/the-next-minab.html",
+      "headline": "Strait of Hormuz Update: Ships Attacked, US Hits Qeshm Island as Iran Sets Terms to Reopen Key Waterway",
+      "summary": "The United States has carried out limited defensive strikes on Iran's Qeshm Island as attacks on commercial shipping intensify and efforts to reopen the Strait of Hormuz remain stalled.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/us-strikes-iran-qeshm-island-strait-hormuz-shipping-crisis-1877836",
       "bloc": "western",
-      "date": "2026-11-01",
-      "datetime": "2026-11-01T04:06:18Z",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T07:48:11Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Prices Rebound After 7% Crash as US Strikes Iran's Qeshm Island, Brent Holds Around $105 a Barrel",
+      "summary": "Oil prices edged higher after a reported US strike on Iran's Qeshm Island revived concerns about shipping through the Strait of Hormuz and the conflict's impact on global energy supplies.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/oil-prices-rebound-qeshm-island-strait-hormuz-1877838",
+      "bloc": "western",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T07:43:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -151,84 +229,6 @@
       "bloc": "western",
       "date": "2026-11-02",
       "datetime": "2026-11-02T18:03:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US-Iran talks end without deal",
-      "summary": "US-Iran negotiations have ended without a deal as Washington weighs further strikes and Tehran warns of a wider regional conflict Read Full Article at RT.com",
-      "source": "Rt-english.com",
-      "url": "https://rt-english.com/news/648234-us-iran-renewed-war-concerns/",
-      "bloc": "western",
-      "date": "2026-11-02",
-      "datetime": "2026-11-02T17:07:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says contacts with US over ending war continue",
-      "summary": "China and Russia warn against the possibility of renewed military action",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/11/02/iran-says-contacts-with-us-over-ending-war-continue/",
-      "bloc": "western",
-      "date": "2026-11-02",
-      "datetime": "2026-11-02T17:03:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran official says 'the ball is now in the U.S.' court' regarding peace talks",
-      "summary": "Talks between the U.S. and Iran remain stalled despite the two countries signing a memorandum of understanding in June, aimed at ending the war that began with joint American-Israeli strikes on the country in February. The opening strikes killed a host of top…",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-good-call-netanyahu/?id=137762456",
-      "bloc": "western",
-      "date": "2026-11-02",
-      "datetime": "2026-11-02T12:15:10Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -415,6 +415,31 @@
         "values"
       ],
       "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Boiling Point: The Road to War and Ukraine’s Uncertain Future",
+      "summary": "A new book, Boiling Point, covers the backstory of and prospects for the Ukraine conflict, debunking many pet media tropes.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/11/boiling-point-the-road-to-war-and-ukraines-uncertain-future.html",
+      "bloc": "western",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T09:42:43Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

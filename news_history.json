@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-05T14:19:43.287Z",
+  "updated": "2026-11-05T23:26:30.169Z",
   "retention_days": 30,
   "items": [
     {
@@ -5838,7 +5838,61 @@
       "_from": "newsapi",
       "first_seen": "2026-11-05T14:19:43.287Z",
       "run_id": "2026-11-05T14:19"
+    },
+    {
+      "headline": "Democratic Sweep Puts Trump’s Maritime Agenda in Question",
+      "summary": "Democrats’ takeover of both chambers of Congress in Tuesday’s midterm elections has raised new questions about the future of U.S. maritime policy, with implications for tariffs, shipbuilding, the Jones Act,...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/democratic-sweep-puts-trumps-maritime-agenda-in-question/",
+      "bloc": "western",
+      "date": "2026-11-04",
+      "datetime": "2026-11-04T16:41:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-05T23:26:30.168Z",
+      "run_id": "2026-11-05T23:26"
+    },
+    {
+      "headline": "Why Trump, Xi, and Putin can’t carve up the world like the ‘big three’ leaders of 1945",
+      "summary": "It’s hard to imagine a world dominated by ‘great powers’ in the 21st century.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/why-trump-xi-and-putin-cant-carve-up-the-world-like-the-big-three-leaders-of-1945-295632",
+      "bloc": "western",
+      "date": "2026-11-04",
+      "datetime": "2026-11-04T14:31:29Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-05T23:26:30.168Z",
+      "run_id": "2026-11-05T23:26"
     }
   ],
-  "total_items_ever": 3820
+  "total_items_ever": 3822
 }

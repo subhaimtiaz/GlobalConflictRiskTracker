@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-05T14:20:48.499Z",
+  "ts": "2026-11-05T23:27:35.397Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 97,
-    "oilStress": 47,
-    "updatedAt": "2026-11-05T14:20:48.499Z"
+    "oilPrice": 99,
+    "oilStress": 51,
+    "updatedAt": "2026-11-05T23:27:35.397Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Democratic Sweep Puts Trump’s Maritime Agenda in Question",
+      "summary": "Democrats’ takeover of both chambers of Congress in Tuesday’s midterm elections has raised new questions about the future of U.S. maritime policy, with implications for tariffs, shipbuilding, the Jones Act,...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/democratic-sweep-puts-trumps-maritime-agenda-in-question/",
+      "bloc": "western",
+      "date": "2026-11-04",
+      "datetime": "2026-11-04T16:41:18Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Diplomatic channels remain open as Iran-U.S. talks conclude without breakthrough in Doha",
       "summary": "Iranian negotiators left Doha without a breakthrough after indirect talks with U.S. officials mediated by Qatar, though a draft proposal continues circulating. Tehran has condensed its seven-step September plan, offering to reopen the Strait of Hormuz within …",
       "source": "Naturalnews.com",
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Strait of Hormuz Update: Ships Attacked, US Hits Qeshm Island as Iran Sets Terms to Reopen Key Waterway",
-      "summary": "The United States has carried out limited defensive strikes on Iran's Qeshm Island as attacks on commercial shipping intensify and efforts to reopen the Strait of Hormuz remain stalled.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/us-strikes-iran-qeshm-island-strait-hormuz-shipping-crisis-1877836",
-      "bloc": "western",
-      "date": "2026-11-03",
-      "datetime": "2026-11-03T07:48:11Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Hackers Send Fake Nuclear Threat Alerts to Ukrainian and Russian Citizens",
       "summary": "Hackers reportedly hit Ukraine ‘s and Russia ‘s emergency alert apps, sending fake nuclear and attack warnings and raising concerns over public safety. Ukraine and Russia both said on Sunday night that hackers had compromised their emergency alert apps and us…",
       "source": "Securityaffairs.com",
@@ -295,6 +295,30 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why Trump, Xi, and Putin can’t carve up the world like the ‘big three’ leaders of 1945",
+      "summary": "It’s hard to imagine a world dominated by ‘great powers’ in the 21st century.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/why-trump-xi-and-putin-cant-carve-up-the-world-like-the-big-three-leaders-of-1945-295632",
+      "bloc": "western",
+      "date": "2026-11-04",
+      "datetime": "2026-11-04T14:31:29Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

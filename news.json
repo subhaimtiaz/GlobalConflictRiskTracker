@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-04T23:26:08.659Z",
+  "ts": "2026-11-05T05:51:33.248Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 95,
-    "oilStress": 44,
-    "updatedAt": "2026-11-04T23:26:08.659Z"
+    "oilPrice": 94,
+    "oilStress": 43,
+    "updatedAt": "2026-11-05T05:51:33.248Z"
   },
   "items": [
     {
@@ -113,6 +113,32 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
+      "summary": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
+      "bloc": "regional",
+      "date": "2026-11-04",
+      "datetime": "2026-11-04T04:39:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
@@ -222,57 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China",
-      "summary": "A sanctioned Iranian tanker carrying about 500,000 barrels of liquefied petroleum gas slipped past the U.S. naval blockade and delivered its cargo to China, according to United Against Nuclear Iran (UANI), which says it filmed the ship at a Malaysian anchorag…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Sanctioned-Iranian-Tanker-Slips-Past-US-Blockade-Delivers-Cargo-to-China.html",
-      "bloc": "western",
-      "date": "2026-11-02",
-      "datetime": "2026-11-02T20:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Coalition talks loom as Israel exit polls suggest Netanyahu and Eisenkot blocs tied",
-      "summary": "First election since October 7th attacks was marked by a record participation by Israeli citizens of Palestinian origin",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/10/28/coalition-talks-loom-as-israel-exit-polls-suggest-netanyahu-and-eisenkot-blocs-tied/",
-      "bloc": "western",
-      "date": "2026-10-28",
-      "datetime": "2026-10-28T06:28:14Z",
-      "leaders": [
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Netanyahu trial ICC"
-      ],
-      "dimensions": [
-        "survival",
-        "accountability",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Hackers Send Fake Nuclear Threat Alerts to Ukrainian and Russian Citizens",
       "summary": "Hackers reportedly hit Ukraine ‘s and Russia ‘s emergency alert apps, sending fake nuclear and attack warnings and raising concerns over public safety. Ukraine and Russia both said on Sunday night that hackers had compromised their emergency alert apps and us…",
       "source": "Securityaffairs.com",
@@ -294,31 +269,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine: Time to End the War",
-      "summary": "Robert L. Borosage, Katrina vanden Heuvel\n\n\n\nFor both Russia and Ukraine, the war has taken a staggering toll and poses an ever-greater danger of spreading.\r\n\n\r\n\n\nThe post Ukraine: Time to End the War appeared first on The Nation.",
-      "source": "Thenation.com",
-      "url": "https://www.thenation.com/article/world/trump-putin-russia-ukraine-war-peace-negotiations/",
-      "bloc": "western",
-      "date": "2026-10-28",
-      "datetime": "2026-10-28T09:00:00Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -354,30 +304,6 @@
       "bloc": "western",
       "date": "2026-10-31",
       "datetime": "2026-10-31T18:42:33Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Evolution of Taiwan’s Military",
-      "summary": "Insights from Eric Setzekorn.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/10/the-evolution-of-taiwans-military/",
-      "bloc": "western",
-      "date": "2026-10-28",
-      "datetime": "2026-10-28T15:25:00Z",
       "leaders": [
         "Xi Jinping"
       ],

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-05T05:51:33.248Z",
+  "ts": "2026-11-05T14:20:48.499Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,89 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 94,
-    "oilStress": 43,
-    "updatedAt": "2026-11-05T05:51:33.248Z"
+    "oilPrice": 97,
+    "oilStress": 47,
+    "updatedAt": "2026-11-05T14:20:48.499Z"
   },
   "items": [
+    {
+      "headline": "Oil Prices Fall After Iran Signals Openness to Talks",
+      "summary": "Crude oil prices fell sharply in Monday trading after Iranian officials signaled willingness to return to negotiations over the country’s nuclear program and to ease energy transport through the Strait of Hormuz, according to a Rigzone wire report [1]. The re…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-04-oil-cost-fall-iran-open-to-talks.html",
+      "bloc": "western",
+      "date": "2026-11-04",
+      "datetime": "2026-11-04T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Pakistan’s Cautious Mediation Gambit: Bridging Iran and the U.S. Amid a Fractured Middle East",
+      "summary": "Pakistan’s military is “cautiously optimistic” about its mediation between Iran and the United States, its spokesman said Friday in his first interview since a high-level delegation visited Tehran this week. Lieutenant General Ahmed Sharif Chaudhry, director …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-04-bridging-iran-us-amid-fractured-middle-east.html",
+      "bloc": "western",
+      "date": "2026-11-04",
+      "datetime": "2026-11-04T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. Strikes Iran’s Qeshm Island as Tehran Rejects Ceasefire Proposal and Demands Strait of Hormuz Concessions",
+      "summary": "The United States has launched military strikes against Iran’s Qeshm Island, as negotiators for the Islamic Republic rejected Washington’s proposal for a ceasefire and demanded U.S. acceptance of Tehran’s conditions to reopen the Strait of Hormuz. Iranian Pre…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-04-us-strikes-qeshm-island-iran-rejects-ceasefire.html",
+      "bloc": "western",
+      "date": "2026-11-04",
+      "datetime": "2026-11-04T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "US Envoy Steve Witkoff Announces Russia-Ukraine Negotiations As 'Next Steps Toward Peace'",
       "summary": "The peace talks mediated by the U.S. will be held Nov. 10-11 in Abu Dhabi, with input from NATO and other traditional allies.",
@@ -66,54 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "British troops will be allowed to fire on Russian forces if they come under attack while peacekeeping in Ukraine, Western officials reveal",
-      "summary": "Western troops deployed to Ukraine could return fire in self-defence if confronted by Moscow's forces, though any such threat would more likely come from drones than direct gunfire.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16261483/British-troops-fire-Russian-peacekeeping-Ukraine-Western-officials.html",
-      "bloc": "western",
-      "date": "2026-11-03",
-      "datetime": "2026-11-03T10:07:41Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Dockworkers Launch Coordinated Strike at 113 Ports Over Israeli, U.S. Military Cargo",
-      "summary": "Dockworkers across five continents launched a coordinated anti-war strike on Friday, Oct. 30, 2026, targeting Israeli arms shipments and U.S. military cargo moving through commercial ports, organizers said. More than 25 unions mobilized at 113 ports in 22 cou…",
+      "headline": "Diplomatic channels remain open as Iran-U.S. talks conclude without breakthrough in Doha",
+      "summary": "Iranian negotiators left Doha without a breakthrough after indirect talks with U.S. officials mediated by Qatar, though a draft proposal continues circulating. Tehran has condensed its seven-step September plan, offering to reopen the Strait of Hormuz within …",
       "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-02-dockworkers-launch-coordinated-strike-ports-military-cargo.html",
+      "url": "https://www.naturalnews.com/2026-11-04-iran-us-talks-conclude-without-breakthrough-doha.html",
       "bloc": "western",
-      "date": "2026-11-02",
-      "datetime": "2026-11-02T06:00:00Z",
+      "date": "2026-11-04",
+      "datetime": "2026-11-04T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -203,32 +255,6 @@
       "bloc": "western",
       "date": "2026-11-03",
       "datetime": "2026-11-03T07:48:11Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Prices Rebound After 7% Crash as US Strikes Iran's Qeshm Island, Brent Holds Around $105 a Barrel",
-      "summary": "Oil prices edged higher after a reported US strike on Iran's Qeshm Island revived concerns about shipping through the Strait of Hormuz and the conflict's impact on global energy supplies.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/oil-prices-rebound-qeshm-island-strait-hormuz-1877838",
-      "bloc": "western",
-      "date": "2026-11-03",
-      "datetime": "2026-11-03T07:43:42Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

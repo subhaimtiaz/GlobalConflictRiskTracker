@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-06T05:47:36.053Z",
+  "ts": "2026-11-06T13:58:31.724Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,10 +9,88 @@
   },
   "live_variables": {
     "oilPrice": 99,
-    "oilStress": 51,
-    "updatedAt": "2026-11-06T05:47:36.053Z"
+    "oilStress": 50,
+    "updatedAt": "2026-11-06T13:58:31.724Z"
   },
   "items": [
+    {
+      "headline": "Planning to buy gold this Dhanteras? Experts advise caution amid volatility",
+      "summary": "Restore your target allocation to gold, maintain realistic return expectations, and be prepared for near-term volatility",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/planning-to-buy-gold-this-dhanteras-experts-advise-caution-amid-volatility-126110501704_1.html",
+      "bloc": "western",
+      "date": "2026-11-05",
+      "datetime": "2026-11-05T12:50:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Team Trump's 'ill-prepared' midterm strategy and missed red flags led to downfall of MAGA as aides scrambled and president focused on ballroom, bombshell report says",
+      "summary": "Donald Trump's inner circle expressed frustration with the President's focus heading into the midterms, in addition to the GOP's candidate selection and poorly spent campaign funds.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16267279/Team-Trump-midterm-strategy-red-flags.html",
+      "bloc": "western",
+      "date": "2026-11-05",
+      "datetime": "2026-11-05T07:22:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump, Netanyahu Disagree on Timing of Potential Iran Strike",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu urged President Trump to strike Iran immediately after Tuesday’s midterm elections, according to an Axios report citing Israeli and U.S. sources [1][2][3]. Trump prefers to let negotiations with Tehran proceed first, …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-05-trump-netanyahu-disagree-timing-potential-iran-strike.html",
+      "bloc": "western",
+      "date": "2026-11-05",
+      "datetime": "2026-11-05T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Ari Fleischer rebukes Vance: Iran ceasefire, not war, cost Republicans the election",
       "summary": "Former White House press secretary Ari Fleischer disputes VP Vance's explanation for Republican midterm losses, arguing the US should have finished the war with Iran.",
@@ -66,79 +144,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Pakistan’s Cautious Mediation Gambit: Bridging Iran and the U.S. Amid a Fractured Middle East",
-      "summary": "Pakistan’s military is “cautiously optimistic” about its mediation between Iran and the United States, its spokesman said Friday in his first interview since a high-level delegation visited Tehran this week. Lieutenant General Ahmed Sharif Chaudhry, director …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-04-bridging-iran-us-amid-fractured-middle-east.html",
+      "headline": "Iran allows Indian ships to transit Hormuz – lawmaker",
+      "summary": "Iran has allowed Indian ships to pass through the Strait of Hormuz to facilitate medicine imports, a senior Iranian lawmaker said, amid wider restrictions on maritime traffic",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/india/648450-india-iran-hormuz-shipping/",
       "bloc": "western",
-      "date": "2026-11-04",
-      "datetime": "2026-11-04T06:00:00Z",
+      "date": "2026-11-05",
+      "datetime": "2026-11-05T07:57:56Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. Strikes Iran’s Qeshm Island as Tehran Rejects Ceasefire Proposal and Demands Strait of Hormuz Concessions",
-      "summary": "The United States has launched military strikes against Iran’s Qeshm Island, as negotiators for the Islamic Republic rejected Washington’s proposal for a ceasefire and demanded U.S. acceptance of Tehran’s conditions to reopen the Strait of Hormuz. Iranian Pre…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-04-us-strikes-qeshm-island-iran-rejects-ceasefire.html",
-      "bloc": "western",
-      "date": "2026-11-04",
-      "datetime": "2026-11-04T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US Envoy Steve Witkoff Announces Russia-Ukraine Negotiations As 'Next Steps Toward Peace'",
-      "summary": "The peace talks mediated by the U.S. will be held Nov. 10-11 in Abu Dhabi, with input from NATO and other traditional allies.",
-      "source": "Military.com",
-      "url": "https://military.com/us-envoy-steve-witkoff-announces-russia-ukraine-negotiations-next-step-towards-peace",
-      "bloc": "western",
-      "date": "2026-11-03",
-      "datetime": "2026-11-03T15:57:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -229,32 +255,6 @@
       "bloc": "western",
       "date": "2026-11-03",
       "datetime": "2026-11-03T17:47:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran commander sets out five conditions for regional security",
-      "summary": "Mediator Qatar says US and Iran are studying proposals to resume negotiations and that it was 'hopeful' of an agreement.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security",
-      "bloc": "regional",
-      "date": "2026-11-03",
-      "datetime": "2026-11-03T13:21:57Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

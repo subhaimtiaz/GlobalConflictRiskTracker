@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-05T23:27:35.397Z",
+  "ts": "2026-11-06T05:47:36.053Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 99,
     "oilStress": 51,
-    "updatedAt": "2026-11-05T23:27:35.397Z"
+    "updatedAt": "2026-11-06T05:47:36.053Z"
   },
   "items": [
+    {
+      "headline": "Ari Fleischer rebukes Vance: Iran ceasefire, not war, cost Republicans the election",
+      "summary": "Former White House press secretary Ari Fleischer disputes VP Vance's explanation for Republican midterm losses, arguing the US should have finished the war with Iran.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/435692",
+      "bloc": "western",
+      "date": "2026-11-05",
+      "datetime": "2026-11-05T03:13:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Oil Prices Fall After Iran Signals Openness to Talks",
       "summary": "Crude oil prices fell sharply in Monday trading after Iranian officials signaled willingness to return to negotiations over the country’s nuclear program and to ease energy transport through the Strait of Hormuz, according to a Rigzone wire report [1]. The re…",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-11-03",
       "datetime": "2026-11-03T15:57:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
-      "summary": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest",
-      "bloc": "regional",
-      "date": "2026-11-03",
-      "datetime": "2026-11-03T10:40:34Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

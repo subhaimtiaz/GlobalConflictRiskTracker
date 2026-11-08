@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-08T12:59:49.045Z",
+  "ts": "2026-11-08T21:51:53.245Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 98,
     "oilStress": 49,
-    "updatedAt": "2026-11-08T12:59:49.045Z"
+    "updatedAt": "2026-11-08T21:51:53.245Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "We Are Facing A Global Energy Crisis, A Global Food Crisis, A European Financial Crisis, The End Of The AI Bubble And A Super El Niño All At Once",
+      "summary": "We have never seen a year quite like 2026, and we are certainly not prepared for what is coming in 2027. There has never been a time when we haven’t had problems, but now we have entered an era when we are just getting hammered by crisis after crisis after [……",
+      "source": "Activistpost.com",
+      "url": "https://activistpost.com/we-are-facing-a-global-energy-crisis-a-global-food-crisis-a-european-financial-crisis-the-end-of-the-ai-bubble-and-a-super-el-nino-all-at-once/",
+      "bloc": "western",
+      "date": "2026-11-07",
+      "datetime": "2026-11-07T17:02:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran allows Indian ships to transit Hormuz – lawmaker",
       "summary": "Iran has allowed Indian ships to pass through the Strait of Hormuz to facilitate medicine imports, a senior Iranian lawmaker said, amid wider restrictions on maritime traffic",
       "source": "Rt-english.com",
@@ -244,32 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hormuz Standoff Leaves Both Sides With Economic Pain",
-      "summary": "As US President Donald Trump threatens renewed attacks against Iran, Tehran’s intermittent strikes on commercial vessels have left the two sides locked in a painful economic standoff.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/hormuz-standoff-leaves-both-sides-with-economic-pain/",
-      "bloc": "western",
-      "date": "2026-11-03",
-      "datetime": "2026-11-03T17:47:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

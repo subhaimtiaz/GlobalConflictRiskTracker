@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-10T14:34:52.314Z",
+  "ts": "2026-11-10T23:00:17.133Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 89,
-    "oilStress": 36,
-    "updatedAt": "2026-11-10T14:34:52.314Z"
+    "oilPrice": 92,
+    "oilStress": 40,
+    "updatedAt": "2026-11-10T23:00:17.133Z"
   },
   "items": [
+    {
+      "headline": "Why Sudan's Civil War Is Becoming a U.S. National Security Threat",
+      "summary": "Sudan Is a U.S. National Security Interest, Not Just a Humanitarian Crisis by James Durso Sudan’s devastating civil war is often described as a humanitarian catastrophe. It is that, unquestionably, but for the United States, the conflict is also a strategic c…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Africa/Why-Sudans-Civil-War-Is-Becoming-a-US-National-Security-Threat.html",
+      "bloc": "western",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T21:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran stands by demands to end the war as US ramps up military pressure",
+      "summary": "Talks aimed at preventing new major fighting between the US and Iran are ongoing.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure",
+      "bloc": "regional",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T14:39:32Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Third Carrier Is the Tell: Why I Believe Trump Is About to Light the World on Fire Over Iran",
       "summary": "Trump Is About to Light the World on Fire… Again I have watched this movie before, and I know how it ends. The Democratic blowout in Tuesday’s midterms was not a narrow rebuke of this president or a quirk of turnout; it was a national rejection of the Iran wa…",
@@ -92,53 +144,53 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump, Netanyahu Disagree on Timing of Potential Iran Strike",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu urged President Trump to strike Iran immediately after Tuesday’s midterm elections, according to an Axios report citing Israeli and U.S. sources [1][2][3]. Trump prefers to let negotiations with Tehran proceed first, …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-05-trump-netanyahu-disagree-timing-potential-iran-strike.html",
+      "headline": "Oil Prices Sink on Iran Peace Hopes",
+      "summary": "Oil prices plunged as renewed Iran peace hopes eased concerns over Middle East supply disruptions.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/oil_prices_sink_on_iran_peace_hopes-09-nov-2026-185046-article/",
       "bloc": "western",
-      "date": "2026-11-05",
-      "datetime": "2026-11-05T06:00:00Z",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T21:27:55Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 3,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Ari Fleischer rebukes Vance: Iran ceasefire, not war, cost Republicans the election",
-      "summary": "Former White House press secretary Ari Fleischer disputes VP Vance's explanation for Republican midterm losses, arguing the US should have finished the war with Iran.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/435692",
+      "headline": "Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict",
+      "summary": "Trump met Qatar's prime minister at the White House as Marco Rubio warns Iran negotiations are far from a breakthrough amid Strait of Hormuz chaos.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict",
       "bloc": "western",
-      "date": "2026-11-05",
-      "datetime": "2026-11-05T03:13:46Z",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T18:27:23Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -218,58 +270,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. Strikes Iran’s Air Defenses as Tehran Seeks Russian Weapons",
-      "summary": "U.S.\nThe post U.S. Strikes Iran’s Air Defenses as Tehran Seeks Russian Weapons appeared first on The Gateway Pundit.",
-      "source": "Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/11/u-s-strikes-irans-air-defenses-as-tehran/",
-      "bloc": "western",
-      "date": "2026-11-08",
-      "datetime": "2026-11-08T17:40:46Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Suggests Blasts Are Not US Attacks As Both Sides Report Ships Hit",
-      "summary": "CAIRO, Nov 8 (Reuters) – Iranian media suggested explosions in southern Iran on Saturday evening were related to Iranian military activities rather than US strikes while both sides reported that shipping had been hit...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/iran-suggests-blasts-are-not-us-attacks-as-both-sides-report-ships-hit/",
-      "bloc": "western",
-      "date": "2026-11-08",
-      "datetime": "2026-11-08T14:44:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

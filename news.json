@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-10T01:20:13.550Z",
+  "ts": "2026-11-10T14:34:52.314Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 92,
-    "oilStress": 40,
-    "updatedAt": "2026-11-10T01:20:13.550Z"
+    "oilPrice": 89,
+    "oilStress": 36,
+    "updatedAt": "2026-11-10T14:34:52.314Z"
   },
   "items": [
+    {
+      "headline": "The Third Carrier Is the Tell: Why I Believe Trump Is About to Light the World on Fire Over Iran",
+      "summary": "Trump Is About to Light the World on Fire… Again I have watched this movie before, and I know how it ends. The Democratic blowout in Tuesday’s midterms was not a narrow rebuke of this president or a quirk of turnout; it was a national rejection of the Iran wa…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-09-the-third-carrier-is-the-tell.html",
+      "bloc": "western",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Planning to buy gold this Dhanteras? Experts advise caution amid volatility",
       "summary": "Restore your target allocation to gold, maintain realistic return expectations, and be prepared for near-term volatility",
@@ -118,27 +144,79 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil Prices Fall After Iran Signals Openness to Talks",
-      "summary": "Crude oil prices fell sharply in Monday trading after Iranian officials signaled willingness to return to negotiations over the country’s nuclear program and to ease energy transport through the Strait of Hormuz, according to a Rigzone wire report [1]. The re…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-04-oil-cost-fall-iran-open-to-talks.html",
+      "headline": "Iran War: Trump Signals No Big Attack in CBS Interview; Barmy CENTCOM “Iron Gate” Plan Proof of Weakness or Perhaps Cover for Iraq Ground Operation?",
+      "summary": "Today's Iran war news: Is post-election fallout already starting to curb Trump's maneuver room?",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/11/iran-war-trump-signals-no-big-attack-in-cbs-interview-barmy-centcom-iron-gate-plan-proof-of-weakness-or-perhaps-cover-for-iraq-ground-operation.html",
       "bloc": "western",
-      "date": "2026-11-04",
-      "datetime": "2026-11-04T06:00:00Z",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T11:20:23Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Oil Experiences Sharpest Weekly Decline in Months",
+      "summary": "Crude oil experienced its sharpest weekly decline in months on Friday, Ole S. Hansen, Saxo Bank's Head of Commodity Strategy, said in a report sent to Rigzone.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/oil_experiences_sharpest_weekly_decline_in_months-09-nov-2026-185037-article/",
+      "bloc": "western",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T11:07:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Who are the seafarers caught in the US-Israeli war on Iran?",
+      "summary": "International Maritime Organization records at least 25 deaths since the conflict started on February 28.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran",
+      "bloc": "regional",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T07:07:26Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -177,58 +255,6 @@
       "bloc": "western",
       "date": "2026-11-08",
       "datetime": "2026-11-08T14:44:08Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz Update: Iran Says Tankers Hit Mines as US Disables Blockade Runner and Talks Hang in Balance",
-      "summary": "Commercial shipping through the Strait of Hormuz remains largely halted after reported tanker attacks, U.S. military action and stalled diplomatic efforts between Washington and Tehran.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/strait-hormuz-shipping-halted-tanker-attacks-1878120",
-      "bloc": "western",
-      "date": "2026-11-08",
-      "datetime": "2026-11-08T14:31:35Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
-      "summary": "Saudi Arabia has intercepted missiles targeting its capital, with debris damaging an Aramco building in Riyadh",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443",
-      "bloc": "western",
-      "date": "2026-11-08",
-      "datetime": "2026-11-08T10:43:48Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -291,6 +317,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Current price of oil as of November 9, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-11-09-2026/",
+      "bloc": "western",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T12:45:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

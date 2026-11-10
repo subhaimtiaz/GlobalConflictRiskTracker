@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-09T15:40:17.069Z",
+  "ts": "2026-11-10T01:20:13.550Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 94,
-    "oilStress": 43,
-    "updatedAt": "2026-11-09T15:40:17.069Z"
+    "oilPrice": 92,
+    "oilStress": 40,
+    "updatedAt": "2026-11-10T01:20:13.550Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "U.S. Strikes Iran’s Air Defenses as Tehran Seeks Russian Weapons",
+      "summary": "U.S.\nThe post U.S. Strikes Iran’s Air Defenses as Tehran Seeks Russian Weapons appeared first on The Gateway Pundit.",
+      "source": "Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/u-s-strikes-irans-air-defenses-as-tehran/",
+      "bloc": "western",
+      "date": "2026-11-08",
+      "datetime": "2026-11-08T17:40:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran Suggests Blasts Are Not US Attacks As Both Sides Report Ships Hit",
       "summary": "CAIRO, Nov 8 (Reuters) – Iranian media suggested explosions in southern Iran on Saturday evening were related to Iranian military activities rather than US strikes while both sides reported that shipping had been hit...",
       "source": "gcaptain.com",
@@ -222,20 +248,18 @@
       "_from": "newsapi"
     },
     {
-      "headline": "We Are Facing A Global Energy Crisis, A Global Food Crisis, A European Financial Crisis, The End Of The AI Bubble And A Super El Niño All At Once",
-      "summary": "We have never seen a year quite like 2026, and we are certainly not prepared for what is coming in 2027. There has never been a time when we haven’t had problems, but now we have entered an era when we are just getting hammered by crisis after crisis after [……",
-      "source": "Activistpost.com",
-      "url": "https://activistpost.com/we-are-facing-a-global-energy-crisis-a-global-food-crisis-a-european-financial-crisis-the-end-of-the-ai-bubble-and-a-super-el-nino-all-at-once/",
+      "headline": "The 8th Of November",
+      "summary": "This Wednesday is Veterans Day in the United States, Remembrance Day in Canada, Britain and Australia, and Armistice Day in Belgium and France.",
+      "source": "Substack.com",
+      "url": "https://chinaarticles.substack.com/p/the-8th-of-november",
       "bloc": "western",
-      "date": "2026-11-07",
-      "datetime": "2026-11-07T17:02:00Z",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T00:00:00Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
         "Xi Jinping"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",
@@ -244,31 +268,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Hackers Send Fake Nuclear Threat Alerts to Ukrainian and Russian Citizens",
-      "summary": "Hackers reportedly hit Ukraine ‘s and Russia ‘s emergency alert apps, sending fake nuclear and attack warnings and raising concerns over public safety. Ukraine and Russia both said on Sunday night that hackers had compromised their emergency alert apps and us…",
-      "source": "Securityaffairs.com",
-      "url": "https://securityaffairs.com/202248/security/hackers-send-fake-nuclear-threat-alerts-to-ukrainian-and-russian-citizens.html",
-      "bloc": "western",
-      "date": "2026-11-02",
-      "datetime": "2026-11-02T10:20:46Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -292,56 +291,6 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
-      "summary": "Hit hard by Trump's tariffs and the war on Iran, countries in the Asia-Pacific want 'enormous changes' in US policies.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific",
-      "bloc": "regional",
-      "date": "2026-11-02",
-      "datetime": "2026-11-02T23:41:18Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of November 2, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-11-02-2026/",
-      "bloc": "western",
-      "date": "2026-11-02",
-      "datetime": "2026-11-02T11:45:32Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-11T05:24:09.488Z",
+  "updated": "2026-11-11T13:48:44.689Z",
   "retention_days": 30,
   "items": [
     {
@@ -5288,7 +5288,63 @@
       "_from": "newsapi",
       "first_seen": "2026-11-10T22:59:11.902Z",
       "run_id": "2026-11-10T22:59"
+    },
+    {
+      "headline": "Trump, who gained no war advantage from the election, says the Iran war now 'seems to be over'",
+      "summary": "On November 9, 2026, United States President Donald Trump announced that the war between America and Iran had effectively ended militarily, and that there was a visible trend towards the conflict coming to an end. Trump made this statement at a White House pr…",
+      "source": "Gossiplankanews.com",
+      "url": "https://english.gossiplankanews.com/2026/11/trump-who-gained-no-war-advantage-from.html",
+      "bloc": "western",
+      "date": "2026-11-10",
+      "datetime": "2026-11-10T07:30:44Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-11T13:48:44.689Z",
+      "run_id": "2026-11-11T13:48"
+    },
+    {
+      "headline": "Marco Rubio Just Admitted the U.S. Lost the War with Iran",
+      "summary": "Now He’s Begging G7 Nations to Do What the U.S. Navy Failed to Do I want you to listen very carefully to what Marco Rubio said this week, because buried inside his arrogant, rehearsed justifications for an illegal war is the single most damning admission any …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-10-marco-rubio-just-admitted-us-lost-war.html",
+      "bloc": "western",
+      "date": "2026-11-10",
+      "datetime": "2026-11-10T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-11T13:48:44.689Z",
+      "run_id": "2026-11-11T13:48"
     }
   ],
-  "total_items_ever": 3841
+  "total_items_ever": 3843
 }

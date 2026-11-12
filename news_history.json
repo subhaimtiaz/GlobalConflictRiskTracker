@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-12T14:52:41.603Z",
+  "updated": "2026-11-12T23:20:47.264Z",
   "retention_days": 30,
   "items": [
     {
@@ -5262,7 +5262,119 @@
       "_from": "newsapi",
       "first_seen": "2026-11-12T14:52:41.603Z",
       "run_id": "2026-11-12T14:52"
+    },
+    {
+      "headline": "Oil production nears pre-Iran war levels, OPEC says",
+      "summary": "Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says",
+      "bloc": "regional",
+      "date": "2026-11-11",
+      "datetime": "2026-11-11T20:45:30Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-12T23:20:47.264Z",
+      "run_id": "2026-11-12T23:20"
+    },
+    {
+      "headline": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: October 2026: Atrocities 1354-1437",
+      "summary": "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to …",
+      "source": "Mcsweeneys.net",
+      "url": "https://www.mcsweeneys.net/articles/october-2026-atrocities-1354-1437",
+      "bloc": "western",
+      "date": "2026-11-11",
+      "datetime": "2026-11-11T17:30:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-12T23:20:47.264Z",
+      "run_id": "2026-11-12T23:20"
+    },
+    {
+      "headline": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
+      "summary": "Iran claims its Revolutionary Guard struck navigation equipment on Oman's Didamar Island in the Strait of Hormuz, but Omani officials dispute damage.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
+      "bloc": "western",
+      "date": "2026-11-11",
+      "datetime": "2026-11-11T22:48:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-12T23:20:47.264Z",
+      "run_id": "2026-11-12T23:20"
+    },
+    {
+      "headline": "What a Hormuz Endgame Could Actually Look Like",
+      "summary": "There is no wayback machine, so a jointly managed strait will be key to final talks.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/11/11/strait-hormuz-endgame-iran-trump-control-oman-war-shipping-oil/",
+      "bloc": "western",
+      "date": "2026-11-11",
+      "datetime": "2026-11-11T17:32:23Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-12T23:20:47.264Z",
+      "run_id": "2026-11-12T23:20"
     }
   ],
-  "total_items_ever": 3847
+  "total_items_ever": 3851
 }

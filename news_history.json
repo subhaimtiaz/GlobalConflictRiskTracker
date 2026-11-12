@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-12T00:15:31.685Z",
+  "updated": "2026-11-12T14:52:41.603Z",
   "retention_days": 30,
   "items": [
     {
@@ -5206,7 +5206,63 @@
       "_from": "newsapi",
       "first_seen": "2026-11-12T00:15:31.685Z",
       "run_id": "2026-11-12T00:15"
+    },
+    {
+      "headline": "Joint declaration following the G7 Foreign Ministers' Meeting in Paris",
+      "summary": "G7 Foreign Ministers' Statement following the G7 Foreign Ministers' Meeting in Paris on 9- 10 November 2026",
+      "source": "Www.gov.uk",
+      "url": "https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris",
+      "bloc": "western",
+      "date": "2026-11-11",
+      "datetime": "2026-11-11T12:42:15Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-12T14:52:41.603Z",
+      "run_id": "2026-11-12T14:52"
+    },
+    {
+      "headline": "Survey: 78% of Britons See Israel as Threat to World Peace",
+      "summary": "Nearly four in five Britons regard Israel as a serious threat to world peace, according to a survey published last week by the National Centre for Social Research (NatCen). The figure rose from 48% in 2005 to 78% this spring, two-and-a-half years into the gen…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-11-survey-britons-see-israel-threat-world-peace.html",
+      "bloc": "western",
+      "date": "2026-11-11",
+      "datetime": "2026-11-11T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-12T14:52:41.603Z",
+      "run_id": "2026-11-12T14:52"
     }
   ],
-  "total_items_ever": 3845
+  "total_items_ever": 3847
 }

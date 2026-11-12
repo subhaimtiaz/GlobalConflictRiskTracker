@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T13:49:49.836Z",
+  "ts": "2026-11-12T00:16:36.826Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 93,
-    "oilStress": 41,
-    "updatedAt": "2026-11-11T13:49:49.836Z"
+    "oilPrice": 92,
+    "oilStress": 40,
+    "updatedAt": "2026-11-12T00:16:36.826Z"
   },
   "items": [
+    {
+      "headline": "Why Sudan’s Civil War Is Becoming a U.S. National Security Threat",
+      "summary": "Why the civil war in Sudan has much bigger implications for the region and the US than experts generally acknowledge.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/11/why-sudans-civil-war-is-becoming-a-u-s-national-security-threat.html",
+      "bloc": "western",
+      "date": "2026-11-10",
+      "datetime": "2026-11-10T18:18:42Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Trump, who gained no war advantage from the election, says the Iran war now 'seems to be over'",
       "summary": "On November 9, 2026, United States President Donald Trump announced that the war between America and Iran had effectively ended militarily, and that there was a visible trend towards the conflict coming to an end. Trump made this statement at a White House pr…",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-11-09",
       "datetime": "2026-11-09T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Planning to buy gold this Dhanteras? Experts advise caution amid volatility",
-      "summary": "Restore your target allocation to gold, maintain realistic return expectations, and be prepared for near-term volatility",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/planning-to-buy-gold-this-dhanteras-experts-advise-caution-amid-volatility-126110501704_1.html",
-      "bloc": "western",
-      "date": "2026-11-05",
-      "datetime": "2026-11-05T12:50:29Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -298,25 +298,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Why Trump, Xi, and Putin can’t carve up the world like the ‘big three’ leaders of 1945",
-      "summary": "It’s hard to imagine a world dominated by ‘great powers’ in the 21st century.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/why-trump-xi-and-putin-cant-carve-up-the-world-like-the-big-three-leaders-of-1945-295632",
+      "headline": "FCCPC expects petrol prices to fall as crude oil drops",
+      "summary": "The FCCPC says it expects a reduction in petrol pump prices to reflect the recent drop in international crude oil prices without undue delay.\n\nRead More: https://punchng.com/fccpc-expects-petrol-prices-to-fall-as-crude-oil-drops/",
+      "source": "The Punch",
+      "url": "https://punchng.com/fccpc-expects-petrol-prices-to-fall-as-crude-oil-drops/",
       "bloc": "western",
-      "date": "2026-11-04",
-      "datetime": "2026-11-04T14:31:29Z",
+      "date": "2026-11-10",
+      "datetime": "2026-11-10T20:35:10Z",
       "leaders": [
-        "Xi Jinping"
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
       ],
       "watch_terms": [
-        "Xi Jinping China"
+        "oil Brent crude"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "values"
       ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"

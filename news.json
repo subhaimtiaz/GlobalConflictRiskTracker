@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T14:15:08.164Z",
+  "ts": "2026-11-13T23:24:45.474Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 97,
-    "oilStress": 47,
-    "updatedAt": "2026-11-13T14:15:08.164Z"
+    "oilPrice": 96,
+    "oilStress": 46,
+    "updatedAt": "2026-11-13T23:24:45.474Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Oil Rises as Trump Dims Iran Deal Hopes",
+      "summary": "Oil prices rose more than 3% as Trump's comments dampened hopes for a diplomatic breakthrough with Iran.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/oil_rises_as_trump_dims_iran_deal_hopes-12-nov-2026-185073-article/",
+      "bloc": "western",
+      "date": "2026-11-12",
+      "datetime": "2026-11-12T21:50:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
       "summary": "Iran claims its Revolutionary Guard struck navigation equipment on Oman's Didamar Island in the Strait of Hormuz, but Omani officials dispute damage.",
       "source": "Fox News",
@@ -229,32 +255,6 @@
       "bloc": "western",
       "date": "2026-11-09",
       "datetime": "2026-11-09T21:27:55Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict",
-      "summary": "Trump met Qatar's prime minister at the White House as Marco Rubio warns Iran negotiations are far from a breakthrough amid Strait of Hormuz chaos.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict",
-      "bloc": "western",
-      "date": "2026-11-09",
-      "datetime": "2026-11-09T18:27:23Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -393,6 +393,56 @@
         "values"
       ],
       "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump Could Bring Putin, Xi To Table As Nuclear Arms Race Looms",
+      "summary": "President Donald Trump could meet with America’s two largest nuclear adversaries as Washington pushes for an agreement on nuclear weapons.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/11/12/trump-admin-nuclear-summit-china-russia",
+      "bloc": "western",
+      "date": "2026-11-12",
+      "datetime": "2026-11-12T21:20:09Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Show HN: GraphsWithStraightLines.com – 126 trends extended to 2050",
+      "summary": "I got curious about what we can and can't learn about the future by plotting straight lines on graphs so I made a little visualiser for all sorts of interesting trends I managed to find, and some summaries on what it could mean for the future. Half tongue-in-…",
+      "source": "Graphswithstraightlines.com",
+      "url": "https://graphswithstraightlines.com/",
+      "bloc": "western",
+      "date": "2026-11-12",
+      "datetime": "2026-11-12T17:03:53Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,

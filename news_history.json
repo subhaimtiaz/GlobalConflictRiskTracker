@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-13T14:14:02.912Z",
+  "updated": "2026-11-13T23:23:40.307Z",
   "retention_days": 30,
   "items": [
     {
@@ -5151,7 +5151,89 @@
       "_from": "newsapi",
       "first_seen": "2026-11-13T14:14:02.912Z",
       "run_id": "2026-11-13T14:14"
+    },
+    {
+      "headline": "Oil Rises as Trump Dims Iran Deal Hopes",
+      "summary": "Oil prices rose more than 3% as Trump's comments dampened hopes for a diplomatic breakthrough with Iran.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/oil_rises_as_trump_dims_iran_deal_hopes-12-nov-2026-185073-article/",
+      "bloc": "western",
+      "date": "2026-11-12",
+      "datetime": "2026-11-12T21:50:35Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-13T23:23:40.307Z",
+      "run_id": "2026-11-13T23:23"
+    },
+    {
+      "headline": "Trump Could Bring Putin, Xi To Table As Nuclear Arms Race Looms",
+      "summary": "President Donald Trump could meet with America’s two largest nuclear adversaries as Washington pushes for an agreement on nuclear weapons.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/11/12/trump-admin-nuclear-summit-china-russia",
+      "bloc": "western",
+      "date": "2026-11-12",
+      "datetime": "2026-11-12T21:20:09Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-13T23:23:40.307Z",
+      "run_id": "2026-11-13T23:23"
+    },
+    {
+      "headline": "Show HN: GraphsWithStraightLines.com – 126 trends extended to 2050",
+      "summary": "I got curious about what we can and can't learn about the future by plotting straight lines on graphs so I made a little visualiser for all sorts of interesting trends I managed to find, and some summaries on what it could mean for the future. Half tongue-in-…",
+      "source": "Graphswithstraightlines.com",
+      "url": "https://graphswithstraightlines.com/",
+      "bloc": "western",
+      "date": "2026-11-12",
+      "datetime": "2026-11-12T17:03:53Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-13T23:23:40.307Z",
+      "run_id": "2026-11-13T23:23"
     }
   ],
-  "total_items_ever": 3854
+  "total_items_ever": 3857
 }

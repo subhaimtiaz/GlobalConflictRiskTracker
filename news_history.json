@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-13T05:47:31.365Z",
+  "updated": "2026-11-13T14:14:02.912Z",
   "retention_days": 30,
   "items": [
     {
@@ -5097,7 +5097,61 @@
       "_from": "newsapi",
       "first_seen": "2026-11-13T05:47:31.365Z",
       "run_id": "2026-11-13T05:47"
+    },
+    {
+      "headline": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
+      "summary": "Israel, the US, Christian Zionism and the search for Armageddon.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy",
+      "bloc": "regional",
+      "date": "2026-11-12",
+      "datetime": "2026-11-12T12:39:21Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-13T14:14:02.912Z",
+      "run_id": "2026-11-13T14:14"
+    },
+    {
+      "headline": "Could the US Survive a War With China?",
+      "summary": "What would later be referred to as World War I was supposed to be a short, sharp war, in which the Germans would in a matter of a few weeks occupy Paris. The First Battle of the Marne in early Sept…",
+      "source": "Lithub.com",
+      "url": "https://lithub.com/could-the-us-survive-a-war-with-china/",
+      "bloc": "western",
+      "date": "2026-11-12",
+      "datetime": "2026-11-12T08:40:16Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-13T14:14:02.912Z",
+      "run_id": "2026-11-13T14:14"
     }
   ],
-  "total_items_ever": 3852
+  "total_items_ever": 3854
 }

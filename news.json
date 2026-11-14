@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T23:24:45.474Z",
+  "ts": "2026-11-14T05:38:59.871Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 96,
     "oilStress": 46,
-    "updatedAt": "2026-11-13T23:24:45.474Z"
+    "updatedAt": "2026-11-14T05:38:59.871Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
+      "summary": "Oil prices have crashed about 20% from the late-October peak of $118 per barrel, weighed down by hopes of sustainable de-escalation in the Middle East and the Russia-Ukraine war. For months, traders and hedge funds have often bet on a resolution of the confli…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html",
+      "bloc": "western",
+      "date": "2026-11-13",
+      "datetime": "2026-11-13T00:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Oil Rises as Trump Dims Iran Deal Hopes",
       "summary": "Oil prices rose more than 3% as Trump's comments dampened hopes for a diplomatic breakthrough with Iran.",
       "source": "Rigzone",
@@ -248,20 +274,18 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Oil Prices Sink on Iran Peace Hopes",
-      "summary": "Oil prices plunged as renewed Iran peace hopes eased concerns over Middle East supply disruptions.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/oil_prices_sink_on_iran_peace_hopes-09-nov-2026-185046-article/",
-      "bloc": "western",
-      "date": "2026-11-09",
-      "datetime": "2026-11-09T21:27:55Z",
+      "headline": "Five facts about APEC with Trump, Putin and Xi set to attend",
+      "summary": "A summit featuring leaders from the US, China, and Russia is scheduled for next week in Shenzhen. This event marks the third time China hosts the APEC Economic Leaders' Meeting since 2001. Many key global issues including trade, energy security, and geopoliti…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/apec-summit-2023-leaders-trump-putin-and-xi-set-to-address-global-economic-challenges-in-shenzhen/articleshow/135788960.cms",
+      "bloc": "regional",
+      "date": "2026-11-13",
+      "datetime": "2026-11-13T04:41:12Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
         "Xi Jinping"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",

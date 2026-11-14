@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-14T13:14:09.638Z",
+  "ts": "2026-11-14T22:08:31.071Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,87 @@
   "live_variables": {
     "oilPrice": 96,
     "oilStress": 46,
-    "updatedAt": "2026-11-14T13:14:09.638Z"
+    "updatedAt": "2026-11-14T22:08:31.071Z"
   },
   "items": [
+    {
+      "headline": "How Lebanon Became the Middle East’s Battleground",
+      "summary": "A new book explores how the 1982 Israeli invasion set the stage for conflicts still unfolding today.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/11/13/lebanon-middle-east-hezbollah-history-us-israel-military-war/",
+      "bloc": "western",
+      "date": "2026-11-13",
+      "datetime": "2026-11-13T19:38:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "What's Trump's strategy now with Iran? To keep things as they are",
+      "summary": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure<br><br>",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "bloc": "western",
+      "date": "2026-11-13",
+      "datetime": "2026-11-13T19:02:04Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Lebanon’s power‑sharing formula was once a model for conflict resolution – now it is creaking",
+      "summary": "The Hezbollah-Israeli war, the displacement of people and unbalanced negotiations have put stress on an already fragile system.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/lebanons-power-sharing-formula-was-once-a-model-for-conflict-resolution-now-it-is-creaking-293991",
+      "bloc": "western",
+      "date": "2026-11-13",
+      "datetime": "2026-11-13T13:37:06Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
       "summary": "The US-Iran war is trapped in an ongoing 'no war, no peace' situation, analysts say.",
@@ -66,6 +144,58 @@
       "_from": "newsapi"
     },
     {
+      "headline": "World oil market is returning to surplus as Gulf exports recover, says IEA",
+      "summary": "Rising Middle East supplies and subdued demand are expected to push global oil production 1.7 million barrels per day above consumption in the fourth quarter",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-says-iea-126111301898_1.html",
+      "bloc": "western",
+      "date": "2026-11-13",
+      "datetime": "2026-11-13T18:11:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "World Oil Market is Returning to Surplus as Gulf Exports Recover",
+      "summary": "The world oil market will return to a surplus in the fourth quarter of this year, the International Energy Agency said on Friday, as Middle East exports recover faster than global oil demand despite continued attacks on shipping.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/",
+      "bloc": "western",
+      "date": "2026-11-13",
+      "datetime": "2026-11-13T17:37:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "The War With Iran Isn’t Over, And America Will Never Control the Strait of Hormuz",
       "summary": "Why America Will Never Control the Strait of Hormuz I have been telling my readers all year that this war would not end on Washington’s terms, and the events of the past several weeks have vindicated that call. The midterm elections delivered a historic rebuk…",
       "source": "Naturalnews.com",
@@ -75,70 +205,18 @@
       "datetime": "2026-11-13T06:00:00Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
-      "summary": "Israel, the US, Christian Zionism and the search for Armageddon.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy",
-      "bloc": "regional",
-      "date": "2026-11-12",
-      "datetime": "2026-11-12T12:39:21Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Israel Lobbies join Trump in Assault on the Psychology Profession",
-      "summary": "Ceding ground i to the draconian demands from the weaponizers of antisemitism, including the Trump Administration, will only enable them",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/11/authoritarian-psychology-profession.html",
-      "bloc": "western",
-      "date": "2026-11-12",
-      "datetime": "2026-11-12T05:06:49Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
@@ -177,58 +255,6 @@
       "bloc": "western",
       "date": "2026-11-12",
       "datetime": "2026-11-12T21:50:35Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
-      "summary": "Iran claims its Revolutionary Guard struck navigation equipment on Oman's Didamar Island in the Strait of Hormuz, but Omani officials dispute damage.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
-      "bloc": "western",
-      "date": "2026-11-11",
-      "datetime": "2026-11-11T22:48:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "What a Hormuz Endgame Could Actually Look Like",
-      "summary": "There is no wayback machine, so a jointly managed strait will be key to final talks.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/11/11/strait-hormuz-endgame-iran-trump-control-oman-war-shipping-oil/",
-      "bloc": "western",
-      "date": "2026-11-11",
-      "datetime": "2026-11-11T17:32:23Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",

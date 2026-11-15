@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-15T05:36:46.846Z",
+  "ts": "2026-11-15T13:42:05.167Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 96,
     "oilStress": 46,
-    "updatedAt": "2026-11-15T05:36:46.846Z"
+    "updatedAt": "2026-11-15T13:42:05.167Z"
   },
   "items": [
     {
@@ -144,6 +144,84 @@
       "_from": "newsapi"
     },
     {
+      "headline": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+      "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
+      "bloc": "regional",
+      "date": "2026-11-14",
+      "datetime": "2026-11-14T07:46:36Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Strait of Hormuz attacks hit monthly record as oil price floor solidifies amid Iran stalemate",
+      "summary": "Brent crude prices have fallen roughly 20% from an October peak near $118 to around $94 per barrel, but a prolonged U.S.-Iran stalemate is establishing a high price floor. Attacks on vessels in and near the Strait of Hormuz hit a wartime monthly record of 37 …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-14-strait-of-hormuz-attacks-hit-monthly-record.html",
+      "bloc": "western",
+      "date": "2026-11-14",
+      "datetime": "2026-11-14T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Energy scarcity is being engineered: Liquefied natural gas carrier struck by mine in the Strait of Hormuz",
+      "summary": "Out of nowhere, a large fireball erupted in the Strait of Hormuz – the contested waterway through which 20 million barrels of oil flow daily. Iran’s Revolutionary Guards claimed an LNG carrier had struck a mine while transiting unauthorized routes. The incide…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-14-lng-carrier-hit-by-mine-strait-of-hormuz.html",
+      "bloc": "western",
+      "date": "2026-11-14",
+      "datetime": "2026-11-14T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "World oil market is returning to surplus as Gulf exports recover, says IEA",
       "summary": "Rising Middle East supplies and subdued demand are expected to push global oil production 1.7 million barrels per day above consumption in the fourth quarter",
       "source": "Business Standard",
@@ -177,84 +255,6 @@
       "bloc": "western",
       "date": "2026-11-13",
       "datetime": "2026-11-13T17:37:39Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The War With Iran Isn’t Over, And America Will Never Control the Strait of Hormuz",
-      "summary": "Why America Will Never Control the Strait of Hormuz I have been telling my readers all year that this war would not end on Washington’s terms, and the events of the past several weeks have vindicated that call. The midterm elections delivered a historic rebuk…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-13-the-war-with-iran-isnt-over.html",
-      "bloc": "western",
-      "date": "2026-11-13",
-      "datetime": "2026-11-13T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
-      "summary": "Oil prices have crashed about 20% from the late-October peak of $118 per barrel, weighed down by hopes of sustainable de-escalation in the Middle East and the Russia-Ukraine war. For months, traders and hedge funds have often bet on a resolution of the confli…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html",
-      "bloc": "western",
-      "date": "2026-11-13",
-      "datetime": "2026-11-13T00:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Oil Rises as Trump Dims Iran Deal Hopes",
-      "summary": "Oil prices rose more than 3% as Trump's comments dampened hopes for a diplomatic breakthrough with Iran.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/oil_rises_as_trump_dims_iran_deal_hopes-12-nov-2026-185073-article/",
-      "bloc": "western",
-      "date": "2026-11-12",
-      "datetime": "2026-11-12T21:50:35Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -494,6 +494,56 @@
       "variable_key": "oilPrice",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+      "summary": "A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect",
+      "bloc": "regional",
+      "date": "2026-11-14",
+      "datetime": "2026-11-14T12:14:14Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump To Discuss Iran, Nuclear Arms With Putin, Xi At Landmark Summit",
+      "summary": "US President Donald Trump will meet Russian President Vladimir Putin and Chinese leader Xi Jinping in an unprecedented trilateral summit next week, with Iran and nuclear arms control on the agenda, while US officials said Russia's war against Ukraine would no…",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/trump-to-discuss-iran-nuclear-arms-with-putin-xi-at-landmark-summit/33898521.html",
+      "bloc": "western",
+      "date": "2026-11-14",
+      "datetime": "2026-11-14T08:55:54Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

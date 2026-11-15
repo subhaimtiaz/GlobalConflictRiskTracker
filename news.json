@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-14T22:08:31.071Z",
+  "ts": "2026-11-15T05:36:46.846Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 96,
     "oilStress": 46,
-    "updatedAt": "2026-11-14T22:08:31.071Z"
+    "updatedAt": "2026-11-15T05:36:46.846Z"
   },
   "items": [
+    {
+      "headline": "Lebanon’s Power-Sharing is no Longer a Model for Conflict Resolution",
+      "summary": "Lebanon’s power-sharing system is increasingly buffeted by the breakdown of social cohesion caused by Israel's displacement of populations",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/11/lebanons-conflict-resolution.html",
+      "bloc": "western",
+      "date": "2026-11-14",
+      "datetime": "2026-11-14T05:04:09Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "How Lebanon Became the Middle East’s Battleground",
       "summary": "A new book explores how the 1982 Israeli invasion set the stage for conflicts still unfolding today.",
@@ -99,32 +125,6 @@
       "bloc": "regional",
       "date": "2026-11-13",
       "datetime": "2026-11-13T10:26:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "US-Israel Aid Deal Could Extend Payments to 2033 Despite Trump Pledge",
-      "summary": "The U.S. and Israel are negotiating a five-year military aid deal worth about $16.5 billion, even after Trump said the payments would end in 2026.",
-      "source": "Military.com",
-      "url": "https://military.com/us-israel-aid-deal-could-extend-payments-to-2033-despite-trump-pledge",
-      "bloc": "western",
-      "date": "2026-11-13",
-      "datetime": "2026-11-13T10:00:16Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

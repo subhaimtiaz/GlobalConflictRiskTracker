@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-15T13:40:59.982Z",
+  "updated": "2026-11-15T22:37:45.260Z",
   "retention_days": 30,
   "items": [
     {
@@ -5129,7 +5129,35 @@
       "_from": "newsapi",
       "first_seen": "2026-11-15T13:40:59.982Z",
       "run_id": "2026-11-15T13:40"
+    },
+    {
+      "headline": "The Ceaseless Ceasefire",
+      "summary": "For the Palestinians, the ceasefire in Israel's war on Gaza might not be all-out war — but it's certainly not peace, and no end is in sight.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2026/11/14/israel-gaza-ceasefire-violations/",
+      "bloc": "western",
+      "date": "2026-11-14",
+      "datetime": "2026-11-14T18:59:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-15T22:37:45.260Z",
+      "run_id": "2026-11-15T22:37"
     }
   ],
-  "total_items_ever": 3876
+  "total_items_ever": 3877
 }

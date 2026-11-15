@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-15T13:42:05.167Z",
+  "ts": "2026-11-15T22:38:50.456Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 96,
     "oilStress": 46,
-    "updatedAt": "2026-11-15T13:42:05.167Z"
+    "updatedAt": "2026-11-15T22:38:50.456Z"
   },
   "items": [
+    {
+      "headline": "The Ceaseless Ceasefire",
+      "summary": "For the Palestinians, the ceasefire in Israel's war on Gaza might not be all-out war — but it's certainly not peace, and no end is in sight.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2026/11/14/israel-gaza-ceasefire-violations/",
+      "bloc": "western",
+      "date": "2026-11-14",
+      "datetime": "2026-11-14T18:59:33Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Lebanon’s Power-Sharing is no Longer a Model for Conflict Resolution",
       "summary": "Lebanon’s power-sharing system is increasingly buffeted by the breakdown of social cohesion caused by Israel's displacement of populations",
@@ -99,32 +125,6 @@
       "bloc": "western",
       "date": "2026-11-13",
       "datetime": "2026-11-13T13:37:06Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
-      "summary": "The US-Iran war is trapped in an ongoing 'no war, no peace' situation, analysts say.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance",
-      "bloc": "regional",
-      "date": "2026-11-13",
-      "datetime": "2026-11-13T10:26:22Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",

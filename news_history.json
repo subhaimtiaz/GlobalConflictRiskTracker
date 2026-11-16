@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-16T05:34:40.559Z",
+  "updated": "2026-11-16T15:14:29.476Z",
   "retention_days": 30,
   "items": [
     {
@@ -4965,7 +4965,116 @@
       "_from": "newsapi",
       "first_seen": "2026-11-15T22:37:45.260Z",
       "run_id": "2026-11-15T22:37"
+    },
+    {
+      "headline": "Al Jazeera English marks 20 years: Stories that shaped the journey",
+      "summary": "Here are some of the crucial events Al Jazeera English has covered over the past two decades.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/15/al-jazeera-english-marks-20-years-stories-that-shaped-the-journey",
+      "bloc": "regional",
+      "date": "2026-11-15",
+      "datetime": "2026-11-15T13:30:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-16T15:14:29.476Z",
+      "run_id": "2026-11-16T15:14"
+    },
+    {
+      "headline": "Iran says supertanker carrying oil sinks in Hormuz Strait",
+      "summary": "Iran's Revolutionary Guards have said that a supertanker carrying over two million barrels of oil had sunk after it struck a mine and caught fire in the Strait of Hormuz.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/1115/1599293-iran-tanker-hormuz/",
+      "bloc": "western",
+      "date": "2026-11-15",
+      "datetime": "2026-11-15T15:07:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-16T15:14:29.476Z",
+      "run_id": "2026-11-16T15:14"
+    },
+    {
+      "headline": "Trump’s War Poses a “Generational Threat” to Wildlife in the Persian Gulf",
+      "summary": "This story was originally published by Guardian and is reproduced here as part of the Climate Desk collaboration. The vast, dark slicks in the Strait of Hormuz are visible from space. Throughout October, oil tankers were struck by missiles or sea mines in the…",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/environment/2026/11/trump-iran-war-environment-effects-oil-spills-persian-gulf-wildlife-birds-fish-wildlife-threat/",
+      "bloc": "western",
+      "date": "2026-11-15",
+      "datetime": "2026-11-15T13:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-16T15:14:29.476Z",
+      "run_id": "2026-11-16T15:14"
+    },
+    {
+      "headline": "Zelensky condemns 'brutal' Russian strikes as he calls on Elon Musk's SpaceX to lift interceptor drone restrictions",
+      "summary": "Vladimir Putin rained down 'more than 2,300 attack drones, 1,590 aerial bombs, and 15 missiles of various types' in recent days.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16294033/Russian-strikes-SpaceX-drone.html",
+      "bloc": "western",
+      "date": "2026-11-15",
+      "datetime": "2026-11-15T11:43:15Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-16T15:14:29.476Z",
+      "run_id": "2026-11-16T15:14"
     }
   ],
-  "total_items_ever": 3877
+  "total_items_ever": 3881
 }

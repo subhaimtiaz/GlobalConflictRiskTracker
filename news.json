@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-16T15:15:34.804Z",
+  "ts": "2026-11-17T01:45:30.285Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 93,
-    "oilStress": 42,
-    "updatedAt": "2026-11-16T15:15:34.804Z"
+    "oilPrice": 92,
+    "oilStress": 39,
+    "updatedAt": "2026-11-17T01:45:30.285Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too",
+      "summary": "US blockades at sea and in the air demonstrate what effective enforcement can do. But the roads are allowing the regime in Tehran to rearm and to buy time. Time to close them.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/15/opinion/trumps-hormuz-squeeze-has-iran-strangled-slam-its-back-door-too/",
+      "bloc": "western",
+      "date": "2026-11-15",
+      "datetime": "2026-11-15T21:05:40Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran says supertanker carrying oil sinks in Hormuz Strait",
       "summary": "Iran's Revolutionary Guards have said that a supertanker carrying over two million barrels of oil had sunk after it struck a mine and caught fire in the Strait of Hormuz.",
       "source": "RTE",
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Energy scarcity is being engineered: Liquefied natural gas carrier struck by mine in the Strait of Hormuz",
-      "summary": "Out of nowhere, a large fireball erupted in the Strait of Hormuz – the contested waterway through which 20 million barrels of oil flow daily. Iran’s Revolutionary Guards claimed an LNG carrier had struck a mine while transiting unauthorized routes. The incide…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-14-lng-carrier-hit-by-mine-strait-of-hormuz.html",
-      "bloc": "western",
-      "date": "2026-11-14",
-      "datetime": "2026-11-14T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: October 2026: Atrocities 1354-1437",
       "summary": "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to …",
       "source": "Mcsweeneys.net",
@@ -371,55 +371,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The 8th Of November",
-      "summary": "This Wednesday is Veterans Day in the United States, Remembrance Day in Canada, Britain and Australia, and Armistice Day in Belgium and France.",
-      "source": "Substack.com",
-      "url": "https://chinaarticles.substack.com/p/the-8th-of-november",
-      "bloc": "western",
-      "date": "2026-11-09",
-      "datetime": "2026-11-09T00:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Third Carrier Is the Tell: Why I Believe Trump Is About to Light the World on Fire Over Iran",
-      "summary": "Trump Is About to Light the World on Fire… Again I have watched this movie before, and I know how it ends. The Democratic blowout in Tuesday’s midterms was not a narrow rebuke of this president or a quirk of turnout; it was a national rejection of the Iran wa…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-09-the-third-carrier-is-the-tell.html",
-      "bloc": "western",
-      "date": "2026-11-09",
-      "datetime": "2026-11-09T06:00:00Z",
-      "leaders": [
-        "Recep Tayyip Erdogan"
-      ],
-      "watch_terms": [
-        "Erdogan Turkey Iran"
-      ],
-      "dimensions": [
-        "survival",
-        "values",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "India's October merchandise trade deficit rose to one-year high of $39.88 billion",
       "summary": "Merchandise exports rose to $49.47 ‌billion ⁠in October from $44.40 billion in ⁠the previous month, government data showed, while imports rose to $89.35 billion against $74.61 billion in September",
       "source": "BusinessLine",
@@ -453,32 +404,6 @@
       "bloc": "western",
       "date": "2026-11-10",
       "datetime": "2026-11-10T20:35:10Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of November 9, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-11-09-2026/",
-      "bloc": "western",
-      "date": "2026-11-09",
-      "datetime": "2026-11-09T12:45:00Z",
       "leaders": [
         "Mohammed bin Salman",
         "Mojtaba Khamenei",
@@ -594,6 +519,52 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Zelenskyy urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "The ‘protection of lives and Ukrainian energy infrastructure before winter depends’ on the restrictions being lifted, Volodymyr Zelenskyy said.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/starshield-ukraine-russian-drones-7227249-Nov2026/",
+      "bloc": "western",
+      "date": "2026-11-15",
+      "datetime": "2026-11-15T19:44:10Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Satellite limitations imposed by Musk's SpaceX pose danger for Ukraine, Zelenskyy says",
+      "summary": "Ukraine President Volodymyr Zelenskyy warned that limitations on the Starshield satellite system, operated by Elon Musk's SpaceX, could weaken defences around Ukraine's energy infrastructure ahead of the winter months, when Moscow has repeatedly targeted the …",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/ukraine-russia-energy-winter-zelenskyy-musk-spacex-starshield-9.7422871",
+      "bloc": "western",
+      "date": "2026-11-15",
+      "datetime": "2026-11-15T18:49:18Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-17T01:45:30.285Z",
+  "ts": "2026-11-17T15:43:03.757Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 92,
-    "oilStress": 39,
-    "updatedAt": "2026-11-17T01:45:30.285Z"
+    "oilPrice": 93,
+    "oilStress": 42,
+    "updatedAt": "2026-11-17T15:43:03.757Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran live updates: Tanker attacked in Strait of Hormuz, UKMTO says",
+      "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071",
+      "bloc": "western",
+      "date": "2026-11-16",
+      "datetime": "2026-11-16T08:46:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too",
       "summary": "US blockades at sea and in the air demonstrate what effective enforcement can do. But the roads are allowing the regime in Tehran to rearm and to buy time. Time to close them.",
       "source": "New York Post",
@@ -222,58 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-      "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
-      "bloc": "regional",
-      "date": "2026-11-14",
-      "datetime": "2026-11-14T07:46:36Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Strait of Hormuz attacks hit monthly record as oil price floor solidifies amid Iran stalemate",
-      "summary": "Brent crude prices have fallen roughly 20% from an October peak near $118 to around $94 per barrel, but a prolonged U.S.-Iran stalemate is establishing a high price floor. Attacks on vessels in and near the Strait of Hormuz hit a wartime monthly record of 37 …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-14-strait-of-hormuz-attacks-hit-monthly-record.html",
-      "bloc": "western",
-      "date": "2026-11-14",
-      "datetime": "2026-11-14T06:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: October 2026: Atrocities 1354-1437",
       "summary": "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to …",
       "source": "Mcsweeneys.net",
@@ -291,6 +265,30 @@
         "survival",
         "accountability",
         "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Nvidia Scandal Raises New Concerns About Scale of Chinese Spying",
+      "summary": "The Jensen Huang saga is the latest example of what governments around the world say is a broad push by China to steal commercial and technological secrets and gather intelligence on foreign leaders and military plans. The revelation that Nvidia …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/11/16/892698.htm",
+      "bloc": "western",
+      "date": "2026-11-16",
+      "datetime": "2026-11-16T13:42:39Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -371,6 +369,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Current price of oil as of November 16, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-11-16-2026/",
+      "bloc": "western",
+      "date": "2026-11-16",
+      "datetime": "2026-11-16T12:45:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "India's October merchandise trade deficit rose to one-year high of $39.88 billion",
       "summary": "Merchandise exports rose to $49.47 ‌billion ⁠in October from $44.40 billion in ⁠the previous month, government data showed, while imports rose to $89.35 billion against $74.61 billion in September",
       "source": "BusinessLine",
@@ -417,6 +441,56 @@
         "values"
       ],
       "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Why is China resisting a nuclear treaty with the US and Russia?",
+      "summary": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia",
+      "bloc": "regional",
+      "date": "2026-11-16",
+      "datetime": "2026-11-16T07:54:09Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Xi, Trump, Putin to hold first-ever trilateral meet on Nov 19",
+      "summary": "Chinese President Xi Jinping will host Russian President Vladimir Putin and US President Donald Trump in Shenzhen on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/xi-trump-putin-to-hold-first-ever-trilateral-meet-on-nov-19/article71706732.ece",
+      "bloc": "western",
+      "date": "2026-11-16",
+      "datetime": "2026-11-16T04:07:13Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
@@ -494,31 +568,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Show HN: GraphsWithStraightLines.com – 126 trends extended to 2050",
-      "summary": "I got curious about what we can and can't learn about the future by plotting straight lines on graphs so I made a little visualiser for all sorts of interesting trends I managed to find, and some summaries on what it could mean for the future. Half tongue-in-…",
-      "source": "Graphswithstraightlines.com",
-      "url": "https://graphswithstraightlines.com/",
-      "bloc": "western",
-      "date": "2026-11-12",
-      "datetime": "2026-11-12T17:03:53Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

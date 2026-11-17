@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-17T01:44:25.187Z",
+  "updated": "2026-11-17T15:41:58.503Z",
   "retention_days": 30,
   "items": [
     {
@@ -4984,7 +4984,143 @@
       "_from": "newsapi",
       "first_seen": "2026-11-17T01:44:25.187Z",
       "run_id": "2026-11-17T01:44"
+    },
+    {
+      "headline": "Iran live updates: Tanker attacked in Strait of Hormuz, UKMTO says",
+      "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071",
+      "bloc": "western",
+      "date": "2026-11-16",
+      "datetime": "2026-11-16T08:46:46Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-17T15:41:58.503Z",
+      "run_id": "2026-11-17T15:41"
+    },
+    {
+      "headline": "Nvidia Scandal Raises New Concerns About Scale of Chinese Spying",
+      "summary": "The Jensen Huang saga is the latest example of what governments around the world say is a broad push by China to steal commercial and technological secrets and gather intelligence on foreign leaders and military plans. The revelation that Nvidia …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/11/16/892698.htm",
+      "bloc": "western",
+      "date": "2026-11-16",
+      "datetime": "2026-11-16T13:42:39Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-17T15:41:58.503Z",
+      "run_id": "2026-11-17T15:41"
+    },
+    {
+      "headline": "Current price of oil as of November 16, 2026",
+      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-11-16-2026/",
+      "bloc": "western",
+      "date": "2026-11-16",
+      "datetime": "2026-11-16T12:45:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-17T15:41:58.503Z",
+      "run_id": "2026-11-17T15:41"
+    },
+    {
+      "headline": "Why is China resisting a nuclear treaty with the US and Russia?",
+      "summary": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia",
+      "bloc": "regional",
+      "date": "2026-11-16",
+      "datetime": "2026-11-16T07:54:09Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-17T15:41:58.503Z",
+      "run_id": "2026-11-17T15:41"
+    },
+    {
+      "headline": "Xi, Trump, Putin to hold first-ever trilateral meet on Nov 19",
+      "summary": "Chinese President Xi Jinping will host Russian President Vladimir Putin and US President Donald Trump in Shenzhen on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/xi-trump-putin-to-hold-first-ever-trilateral-meet-on-nov-19/article71706732.ece",
+      "bloc": "western",
+      "date": "2026-11-16",
+      "datetime": "2026-11-16T04:07:13Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-17T15:41:58.503Z",
+      "run_id": "2026-11-17T15:41"
     }
   ],
-  "total_items_ever": 3884
+  "total_items_ever": 3889
 }

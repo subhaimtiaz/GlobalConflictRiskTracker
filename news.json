@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-18T00:45:48.104Z",
+  "ts": "2026-11-18T15:22:32.706Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 93,
-    "oilStress": 42,
-    "updatedAt": "2026-11-18T00:45:48.104Z"
+    "oilPrice": 92,
+    "oilStress": 40,
+    "updatedAt": "2026-11-18T15:22:32.705Z"
   },
   "items": [
+    {
+      "headline": "Beyond the Binary of War and Peace: Why the U.S., Israel, and Iran Must Return to Legal Intermediacy",
+      "summary": "[Hadi Dadmehr is an Assistant Professor of international law at the University of Zabol, Iran. He holds B.A in political science from Allameh Tabatabai University (Iran), M.A. in international relations from Tehran University (Iran) and PhD in international l…",
+      "source": "Opiniojuris.org",
+      "url": "https://opiniojuris.org/2026/11/17/beyond-the-binary-of-war-and-peace-why-the-u-s-israel-and-iran-must-return-to-legal-intermediacy/",
+      "bloc": "western",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T13:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Al Jazeera English marks 20 years: Stories that shaped the journey",
       "summary": "Here are some of the crucial events Al Jazeera English has covered over the past two decades.",
@@ -118,65 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "What's Trump's strategy now with Iran? To keep things as they are",
-      "summary": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure<br><br>",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "headline": "A 2-Month Lull Ends With Iran’s Third Strike on US Targets in Bahrain",
+      "summary": "Tuesday's attack came after the U.S. military's Central Command said the USS Theodore Roosevelt carrier strike group had arrived in the region.",
+      "source": "Military.com",
+      "url": "https://www.military.com/a-2-month-lull-ends-with-irans-third-strike-on-us-targets-in-bahrain",
       "bloc": "western",
-      "date": "2026-11-13",
-      "datetime": "2026-11-13T19:02:04Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "San Diego-based carrier arrives in the Middle East as Trump keeps options open in the Iran war",
-      "summary": "The Roosevelt brings thousands of additional troops to the Middle East as Trump has oscillated between threatening additional large-scale strikes on Iran and insisting that the more than 8-month-old war “militarily is effectively over.”",
-      "source": "KPBS",
-      "url": "https://www.kpbs.org/news/military/2026/11/16/san-diego-based-carrier-arrives-in-the-middle-east-as-trump-keeps-options-open-in-the-iran-war",
-      "bloc": "western",
-      "date": "2026-11-16",
-      "datetime": "2026-11-16T21:17:43Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran live updates: Tanker attacked in Strait of Hormuz, UKMTO says",
-      "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071",
-      "bloc": "western",
-      "date": "2026-11-16",
-      "datetime": "2026-11-16T08:46:46Z",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T14:35:02Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +170,91 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too",
-      "summary": "US blockades at sea and in the air demonstrate what effective enforcement can do. But the roads are allowing the regime in Tehran to rearm and to buy time. Time to close them.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/15/opinion/trumps-hormuz-squeeze-has-iran-strangled-slam-its-back-door-too/",
+      "headline": "Iran fires drones at U.S. base in Bahrain, denies reports of planned dirty bomb attack in D.C.",
+      "summary": "Iran fired drones at a U.S. military radar system in Bahrain on Tuesday, even as talks between Iran and mediators Oman and Qatar to end the nearly nine-month war were taking place.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/iran-us-war-bahrain-drones-dirty-bomb-report-9.7424686",
       "bloc": "western",
-      "date": "2026-11-15",
-      "datetime": "2026-11-15T21:05:40Z",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T13:07:05Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+      "summary": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict",
+      "bloc": "regional",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T12:33:51Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "A 2-month lull ends with Iran's third strike on US targets in Bahrain",
+      "summary": "Iran has conducted drone attacks against U.S. military targets in Bahrain amid escalating tensions. These attacks mark Iran's shift to a more proactive military strategy following U.S. strikes. The U.S. has deployed additional naval assets in response to the …",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/news/defence/a-2-month-lull-ends-with-irans-third-strike-on-us-targets-in-bahrain/articleshow/135924739.cms",
+      "bloc": "western",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T12:04:52Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
+      "summary": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+      "bloc": "western",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T04:34:24Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -247,6 +299,78 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Xi’s Heavy-Handedness May Be Backfiring",
+      "summary": "China’s neighbors are eager for America’s support.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/international/2026/11/apec-china-us-xi-jinping/689462/?utm_source=feed",
+      "bloc": "western",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T14:51:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Taiwan may take backseat when Xi, Trump meet for third time at APEC summit",
+      "summary": "Taiwan is likely to be overshadowed as presidents Xi Jinping and Donald Trump are expected to meet on the sidelines of the Asia Pacific Economic Forum this week, even as the threat from China evolves and grows stronger.\nLeaders from China, the US and some 21 …",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/taiwan-may-take-backseat-when-xi-trump-meet-for-third-time-at-apec-summit-126111700186_1.html",
+      "bloc": "western",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T07:40:18Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit",
+      "summary": "Presidents Xi Jinping and Donald Trump are expected to meet at the Asia Pacific Economic Forum this week",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/taiwan-backseat-xi-trump-meet-time-apec-summit-138199342",
+      "bloc": "western",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T04:56:55Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Nvidia Scandal Raises New Concerns About Scale of Chinese Spying",
       "summary": "The Jensen Huang saga is the latest example of what governments around the world say is a broad push by China to steal commercial and technological secrets and gather intelligence on foreign leaders and military plans. The revelation that Nvidia …",
       "source": "Insurance Journal",
@@ -254,78 +378,6 @@
       "bloc": "western",
       "date": "2026-11-16",
       "datetime": "2026-11-16T13:42:39Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Five things to know about APEC as Trump, Putin and Xi set to attend summit",
-      "summary": "Founded as an informal 12-member dialogue effort in 1989 in the Australian capital Canberra, it has become the region's premier economic forum to foster ties on advancing growth, trade and investment",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/five-things-to-know-about-apec-as-trump-putin-and-xi-set-to-attend-summit-126111300624_1.html",
-      "bloc": "western",
-      "date": "2026-11-13",
-      "datetime": "2026-11-13T07:05:16Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Five facts about APEC with Trump, Putin and Xi set to attend",
-      "summary": "A summit featuring leaders from the US, China, and Russia is scheduled for next week in Shenzhen. This event marks the third time China hosts the APEC Economic Leaders' Meeting since 2001. Many key global issues including trade, energy security, and geopoliti…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/apec-summit-2023-leaders-trump-putin-and-xi-set-to-address-global-economic-challenges-in-shenzhen/articleshow/135788960.cms",
-      "bloc": "regional",
-      "date": "2026-11-13",
-      "datetime": "2026-11-13T04:41:12Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Could the US Survive a War With China?",
-      "summary": "What would later be referred to as World War I was supposed to be a short, sharp war, in which the Germans would in a matter of a few weeks occupy Paris. The First Battle of the Marne in early Sept…",
-      "source": "Lithub.com",
-      "url": "https://lithub.com/could-the-us-survive-a-war-with-china/",
-      "bloc": "western",
-      "date": "2026-11-12",
-      "datetime": "2026-11-12T08:40:16Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -395,6 +447,81 @@
       "_from": "newsapi"
     },
     {
+      "headline": "What could Putin, Xi, and Trump discuss at their meeting in China?",
+      "summary": "Putin, Xi, and Trump will meet in China, with nuclear arms, Ukraine, and Iran on the agenda, as well as concerns over AI and trade Read Full Article at RT.com",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/russia/648943-russia-china-us-summit/",
+      "bloc": "western",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T12:40:46Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Three global powers, one table: What the Shenzhen Summit means for the emerging world order",
+      "summary": "By Sharachchandra Bhandary At a time when geopolitical rivalries are intensifying, regional conflicts are deepening and the foundations of the international order are under growing strain, a meeting of the leaders of China, the United States and Russia carrie…",
+      "source": "Peoplesreview.com.np",
+      "url": "https://peoplesreview.com.np/2026/11/17/three-global-powers-one-table-what-the-shenzhen-summit-means-for-the-emerging-world-order/",
+      "bloc": "western",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T07:17:36Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump to discuss nuclear arms, wars with Putin and Xi",
+      "summary": "U.S. President Donald Trump said he would discuss nuclear disarmament and the wars in Ukraine and Iran with Russian President Vladimir Putin and Chinese President Xi Jinping at their first three-way summit in Shenzhen on Nov. 19.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/trump-to-discuss-nuclear-arms-wars-with-putin-and-xi-229488",
+      "bloc": "western",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T05:28:42Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Trump, Xi And Putin Summit Officially On The Books",
       "summary": "President Donald Trump will meet Chinese President Xi Jinping and Russian President Vladimir Putin on Thursday for an unprecedented three-way summit.",
       "source": "The Daily Caller",
@@ -445,77 +572,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Xi, Trump, Putin to hold first-ever trilateral meet on Nov 19",
-      "summary": "Chinese President Xi Jinping will host Russian President Vladimir Putin and US President Donald Trump in Shenzhen on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/xi-trump-putin-to-hold-first-ever-trilateral-meet-on-nov-19/article71706732.ece",
+      "headline": "Ukraine strikes bridge linking occupied Crimea and Russia",
+      "summary": "Ukraine has struck the strategic bridge linking southern Russia and occupied Crimea for a second straight day, part of what data suggested was the largest Ukrainian drone attack of the war.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/2026/1117/1599488-russia-ukraine-strikes-bridge/",
       "bloc": "western",
-      "date": "2026-11-16",
-      "datetime": "2026-11-16T04:07:13Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T03:37:15Z",
+      "leaders": [],
       "watch_terms": [
-        "arms control New"
+        "oil refinery port"
       ],
       "dimensions": [
-        "accountability",
-        "values"
+        "survival",
+        "impulsivity",
+        "accountability"
       ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-      "summary": "A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect",
-      "bloc": "regional",
-      "date": "2026-11-14",
-      "datetime": "2026-11-14T12:14:14Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump To Discuss Iran, Nuclear Arms With Putin, Xi At Landmark Summit",
-      "summary": "US President Donald Trump will meet Russian President Vladimir Putin and Chinese leader Xi Jinping in an unprecedented trilateral summit next week, with Iran and nuclear arms control on the agenda, while US officials said Russia's war against Ukraine would no…",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "url": "https://www.rferl.org/a/trump-to-discuss-iran-nuclear-arms-with-putin-xi-at-landmark-summit/33898521.html",
-      "bloc": "western",
-      "date": "2026-11-14",
-      "datetime": "2026-11-14T08:55:54Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -573,29 +648,6 @@
       "bloc": "western",
       "date": "2026-11-15",
       "datetime": "2026-11-15T11:43:15Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Every cargo ship is a target: Russia strikes again off Odessa as talks go nowhere",
-      "summary": "Russia struck a cargo vessel carrying military supplies to Ukraine off the coast of Odessa. Moscow aims to cripple Ukraine’s maritime supply lines. Ukraine retaliated with a massive drone attack on Russia. U.S. peace efforts remain stalled as both sides refus…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-13-cargo-ship-target-russia-strikes-odessa.html",
-      "bloc": "western",
-      "date": "2026-11-13",
-      "datetime": "2026-11-13T06:00:00Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

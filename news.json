@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-17T15:43:03.757Z",
+  "ts": "2026-11-18T00:45:48.104Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 93,
     "oilStress": 42,
-    "updatedAt": "2026-11-17T15:43:03.757Z"
+    "updatedAt": "2026-11-18T00:45:48.104Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "San Diego-based carrier arrives in the Middle East as Trump keeps options open in the Iran war",
+      "summary": "The Roosevelt brings thousands of additional troops to the Middle East as Trump has oscillated between threatening additional large-scale strikes on Iran and insisting that the more than 8-month-old war “militarily is effectively over.”",
+      "source": "KPBS",
+      "url": "https://www.kpbs.org/news/military/2026/11/16/san-diego-based-carrier-arrives-in-the-middle-east-as-trump-keeps-options-open-in-the-iran-war",
+      "bloc": "western",
+      "date": "2026-11-16",
+      "datetime": "2026-11-16T21:17:43Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Iran live updates: Tanker attacked in Strait of Hormuz, UKMTO says",
       "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
       "source": "Abcnews.com",
@@ -192,58 +218,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran says supertanker carrying oil sinks in Hormuz Strait",
-      "summary": "Iran's Revolutionary Guards have said that a supertanker carrying over two million barrels of oil had sunk after it struck a mine and caught fire in the Strait of Hormuz.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/middle-east/2026/1115/1599293-iran-tanker-hormuz/",
-      "bloc": "western",
-      "date": "2026-11-15",
-      "datetime": "2026-11-15T15:07:29Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump’s War Poses a “Generational Threat” to Wildlife in the Persian Gulf",
-      "summary": "This story was originally published by Guardian and is reproduced here as part of the Climate Desk collaboration. The vast, dark slicks in the Strait of Hormuz are visible from space. Throughout October, oil tankers were struck by missiles or sea mines in the…",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/environment/2026/11/trump-iran-war-environment-effects-oil-spills-persian-gulf-wildlife-birds-fish-wildlife-threat/",
-      "bloc": "western",
-      "date": "2026-11-15",
-      "datetime": "2026-11-15T13:00:00Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -421,26 +395,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "FCCPC expects petrol prices to fall as crude oil drops",
-      "summary": "The FCCPC says it expects a reduction in petrol pump prices to reflect the recent drop in international crude oil prices without undue delay.\n\nRead More: https://punchng.com/fccpc-expects-petrol-prices-to-fall-as-crude-oil-drops/",
-      "source": "The Punch",
-      "url": "https://punchng.com/fccpc-expects-petrol-prices-to-fall-as-crude-oil-drops/",
+      "headline": "Trump, Xi And Putin Summit Officially On The Books",
+      "summary": "President Donald Trump will meet Chinese President Xi Jinping and Russian President Vladimir Putin on Thursday for an unprecedented three-way summit.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/11/16/trump-xi-and-putin-summit-officially-on-the-books",
       "bloc": "western",
-      "date": "2026-11-10",
-      "datetime": "2026-11-10T20:35:10Z",
+      "date": "2026-11-16",
+      "datetime": "2026-11-16T16:07:56Z",
       "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
+        "Vladimir Putin",
         "Donald J. Trump"
       ],
       "watch_terms": [
-        "oil Brent crude"
+        "arms control New"
       ],
       "dimensions": [
-        "survival",
+        "accountability",
         "values"
       ],
-      "variable_key": "oilPrice",
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
@@ -529,31 +502,6 @@
       "bloc": "western",
       "date": "2026-11-14",
       "datetime": "2026-11-14T08:55:54Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump Could Bring Putin, Xi To Table As Nuclear Arms Race Looms",
-      "summary": "President Donald Trump could meet with America’s two largest nuclear adversaries as Washington pushes for an agreement on nuclear weapons.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/11/12/trump-admin-nuclear-summit-china-russia",
-      "bloc": "western",
-      "date": "2026-11-12",
-      "datetime": "2026-11-12T21:20:09Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

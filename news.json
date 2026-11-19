@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-18T15:22:32.706Z",
+  "ts": "2026-11-19T00:03:04.657Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 92,
-    "oilStress": 40,
-    "updatedAt": "2026-11-18T15:22:32.705Z"
+    "oilStress": 39,
+    "updatedAt": "2026-11-19T00:03:04.657Z"
   },
   "items": [
     {
@@ -144,6 +144,84 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+      "summary": "Kuwait's military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain",
+      "bloc": "regional",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T23:38:38Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "U.S. strikes Iranian missile launch site in the Strait of Hormuz",
+      "summary": "By Nayera Abdallah, Jana Choukeir and Phil Stewart DUBAI, Nov 17 (Reuters) - The US and Iran exchanged fire on Tuesday, with the US striking an Iranian missile launch site after Iran said it targeted a US military radar system in Bahrain, despite talks betwee…",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9bde6111-66ce-4be6-ae2b-41da4fd61fb4",
+      "bloc": "western",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T20:37:47Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+      "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf island kingdom after a roughly two-month lull in fighting.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+      "bloc": "western",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T18:34:31Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "A 2-Month Lull Ends With Iran’s Third Strike on US Targets in Bahrain",
       "summary": "Tuesday's attack came after the U.S. military's Central Command said the USS Theodore Roosevelt carrier strike group had arrived in the region.",
       "source": "Military.com",
@@ -196,101 +274,22 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
-      "summary": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict",
-      "bloc": "regional",
+      "headline": "Xi-Trump-Putin summit revives fears of a new Yalta-style deal",
+      "summary": "A trilateral summit in Shenzhen raises concerns in Europe and Asia that the three leaders could negotiate global security arrangements while smaller nations are left out",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/xi-trump-putin-summit-revives-fears-of-a-new-yalta-style-deal-126111701518_1.html",
+      "bloc": "western",
       "date": "2026-11-17",
-      "datetime": "2026-11-17T12:33:51Z",
+      "datetime": "2026-11-17T17:18:22Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
         "Xi Jinping"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "A 2-month lull ends with Iran's third strike on US targets in Bahrain",
-      "summary": "Iran has conducted drone attacks against U.S. military targets in Bahrain amid escalating tensions. These attacks mark Iran's shift to a more proactive military strategy following U.S. strikes. The U.S. has deployed additional naval assets in response to the …",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/news/defence/a-2-month-lull-ends-with-irans-third-strike-on-us-targets-in-bahrain/articleshow/135924739.cms",
-      "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T12:04:52Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
-      "summary": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
-      "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T04:34:24Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: October 2026: Atrocities 1354-1437",
-      "summary": "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to …",
-      "source": "Mcsweeneys.net",
-      "url": "https://www.mcsweeneys.net/articles/october-2026-atrocities-1354-1437",
-      "bloc": "western",
-      "date": "2026-11-11",
-      "datetime": "2026-11-11T17:30:00Z",
-      "leaders": [
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Netanyahu trial ICC"
-      ],
-      "dimensions": [
-        "survival",
-        "accountability",
-        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -371,30 +370,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Nvidia Scandal Raises New Concerns About Scale of Chinese Spying",
-      "summary": "The Jensen Huang saga is the latest example of what governments around the world say is a broad push by China to steal commercial and technological secrets and gather intelligence on foreign leaders and military plans. The revelation that Nvidia …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/11/16/892698.htm",
-      "bloc": "western",
-      "date": "2026-11-16",
-      "datetime": "2026-11-16T13:42:39Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Current price of oil as of November 16, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
       "source": "Fortune",
@@ -441,6 +416,31 @@
         "values"
       ],
       "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Europe Has Two Security Architectures—and Has Chosen the Wrong One",
+      "summary": "Russia has called for a new European security architecture for nearly two decades, beginning with President Putin’s Munich speech in 2007 and President Medvedev’s proposed European Security Treaty in 2008, followed by Moscow’s draft treaties of December 2021 …",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/ukraine-war-nato-osce",
+      "bloc": "western",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T15:46:31Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
@@ -547,27 +547,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Why is China resisting a nuclear treaty with the US and Russia?",
-      "summary": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia",
-      "bloc": "regional",
-      "date": "2026-11-16",
-      "datetime": "2026-11-16T07:54:09Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
+      "headline": "Ukraine Cripples Crimean Bridge In Blow To Putin Before Meeting With Xi, Trump",
+      "summary": "The massive bridge is a flagship project of Putin and a symbol of Russia’s attachment to the peninsula it seized from Ukraine in 2014.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/ukraine-crimea-bridge-destroyed-putin-kerch_n_6afc9f05e4b02da00c022679",
+      "bloc": "western",
+      "date": "2026-11-17",
+      "datetime": "2026-11-17T18:58:45Z",
+      "leaders": [],
       "watch_terms": [
-        "arms control New"
+        "oil refinery port"
       ],
       "dimensions": [
-        "accountability",
-        "values"
+        "survival",
+        "impulsivity",
+        "accountability"
       ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -602,52 +600,6 @@
       "bloc": "western",
       "date": "2026-11-15",
       "datetime": "2026-11-15T19:44:10Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Satellite limitations imposed by Musk's SpaceX pose danger for Ukraine, Zelenskyy says",
-      "summary": "Ukraine President Volodymyr Zelenskyy warned that limitations on the Starshield satellite system, operated by Elon Musk's SpaceX, could weaken defences around Ukraine's energy infrastructure ahead of the winter months, when Moscow has repeatedly targeted the …",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/ukraine-russia-energy-winter-zelenskyy-musk-spacex-starshield-9.7422871",
-      "bloc": "western",
-      "date": "2026-11-15",
-      "datetime": "2026-11-15T18:49:18Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Zelensky condemns 'brutal' Russian strikes as he calls on Elon Musk's SpaceX to lift interceptor drone restrictions",
-      "summary": "Vladimir Putin rained down 'more than 2,300 attack drones, 1,590 aerial bombs, and 15 missiles of various types' in recent days.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16294033/Russian-strikes-SpaceX-drone.html",
-      "bloc": "western",
-      "date": "2026-11-15",
-      "datetime": "2026-11-15T11:43:15Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

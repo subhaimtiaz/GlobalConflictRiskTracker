@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-19T00:03:04.657Z",
+  "ts": "2026-11-19T15:29:07.459Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 92,
-    "oilStress": 39,
-    "updatedAt": "2026-11-19T00:03:04.657Z"
+    "oilPrice": 93,
+    "oilStress": 41,
+    "updatedAt": "2026-11-19T15:29:07.459Z"
   },
   "items": [
     {
@@ -144,13 +144,65 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-      "summary": "Kuwait's military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
+      "headline": "US official says Hormuz insurance hits $64m: Is the strait really open?",
+      "summary": "Hung Cao says shipping insurance costs have soared to $64m for a single transit, challenging claims the strait is open.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain",
+      "url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open",
       "bloc": "regional",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T23:38:38Z",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T14:47:34Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "‘Status quo’ between US and Iran could break out into war, analysts warn",
+      "summary": "Iran and the US have continued to exchange strikes in recent days, but all-out war has so far been avoided.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn",
+      "bloc": "regional",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T14:36:20Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
+      "bloc": "western",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T13:04:48Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +222,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "U.S. strikes Iranian missile launch site in the Strait of Hormuz",
-      "summary": "By Nayera Abdallah, Jana Choukeir and Phil Stewart DUBAI, Nov 17 (Reuters) - The US and Iran exchanged fire on Tuesday, with the US striking an Iranian missile launch site after Iran said it targeted a US military radar system in Bahrain, despite talks betwee…",
+      "headline": "Iran attacks U.S. bases in Gulf countries despite diplomatic efforts to end 9-month war",
+      "summary": "By Enas Alashray and Nayera Abdallah DUBAI, Nov 18 (Reuters) - Iran said it targeted US drone and missile sites in Kuwait overnight after the United States struck Qeshm Island in the Strait of Hormuz, marking Tehran's first attack on the US-allied Gulf state …",
       "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9bde6111-66ce-4be6-ae2b-41da4fd61fb4",
+      "url": "https://uk.news.yahoo.com/bahrain-issues-clear-threat-alert-001609990.html",
       "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T20:37:47Z",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T11:16:43Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -196,13 +248,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-      "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf island kingdom after a roughly two-month lull in fighting.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+      "headline": "Iran fires at Kuwait, widening strikes after US hit Iranian island",
+      "summary": "Iran targeted US sites at Kuwait's Ali Al Salem base following US strikes on Qeshm Island, marking Tehran's first attack on Kuwait since September.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/18/world-news/iran-fires-at-kuwait-widening-strikes-after-us-hit-iranian-island/",
       "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T18:34:31Z",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T10:04:05Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,20 +274,18 @@
       "_from": "newsapi"
     },
     {
-      "headline": "A 2-Month Lull Ends With Iran’s Third Strike on US Targets in Bahrain",
-      "summary": "Tuesday's attack came after the U.S. military's Central Command said the USS Theodore Roosevelt carrier strike group had arrived in the region.",
-      "source": "Military.com",
-      "url": "https://www.military.com/a-2-month-lull-ends-with-irans-third-strike-on-us-targets-in-bahrain",
+      "headline": "Xi and Putin criticise western policies as Trump arrives in China",
+      "summary": "Chinese president says he will stand up to protectionism as Putin denounces western sanctions",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/2026/11/18/xi-and-putin-criticise-western-policies-as-trump-arrives-in-china/",
       "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T14:35:02Z",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T12:43:28Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
         "Xi Jinping"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",
@@ -243,25 +293,47 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Iran fires drones at U.S. base in Bahrain, denies reports of planned dirty bomb attack in D.C.",
-      "summary": "Iran fired drones at a U.S. military radar system in Bahrain on Tuesday, even as talks between Iran and mediators Oman and Qatar to end the nearly nine-month war were taking place.",
+      "headline": "Xi, Putin meet in China, ahead of summit with Trump",
+      "summary": "China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, while his Russian counterpart Vladimir Putin criticized Western sanctions as the two set the stage for a high-stakes trilateral meeting with ‌U.S. President Donald Trum…",
       "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/iran-us-war-bahrain-drones-dirty-bomb-report-9.7424686",
+      "url": "https://www.cbc.ca/news/world/shenzen-jinping-putin-trump-9.7426144",
       "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T13:07:05Z",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T12:21:51Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
         "Xi Jinping"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Xi, Putin Blast Western 'Protectionism,' Sanctions As Trump Lands In China",
+      "summary": "The Chinese leader greeted Trump at the airport, reciprocating the U.S. president’s gesture at Joint Base Andrews in September when they last met.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-china-xi-putin-protectionism_n_6afd80e0e4b076227f02a16e",
+      "bloc": "western",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T10:45:56Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",
@@ -274,13 +346,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Xi-Trump-Putin summit revives fears of a new Yalta-style deal",
-      "summary": "A trilateral summit in Shenzhen raises concerns in Europe and Asia that the three leaders could negotiate global security arrangements while smaller nations are left out",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/xi-trump-putin-summit-revives-fears-of-a-new-yalta-style-deal-126111701518_1.html",
+      "headline": "Trump arrives in China for historic meeting with Xi and Putin",
+      "summary": "Xi met with Putin earlier – Europe is in a state of humiliating decline, the Russian president comments\nThe post Trump arrives in China for historic meeting with Xi and Putin appeared first on ProtoThema English.",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/11/18/trump-arrives-in-china-for-historic-meeting-with-xi-and-putin/",
       "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T17:18:22Z",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T09:03:00Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -298,13 +370,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Xi’s Heavy-Handedness May Be Backfiring",
-      "summary": "China’s neighbors are eager for America’s support.",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/international/2026/11/apec-china-us-xi-jinping/689462/?utm_source=feed",
+      "headline": "Putin attacks Western action as Trump lands in China",
+      "summary": "China's President Xi Jinping has pledged to stand up against trade protectionism, but also gave a warm welcome to US President Donald Trump as he arrived in the country.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/world/2026/1118/1599626-asia-trilateral-summit/",
       "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T14:51:00Z",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T05:04:02Z",
       "leaders": [
         "Xi Jinping"
       ],
@@ -317,55 +389,7 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Taiwan may take backseat when Xi, Trump meet for third time at APEC summit",
-      "summary": "Taiwan is likely to be overshadowed as presidents Xi Jinping and Donald Trump are expected to meet on the sidelines of the Asia Pacific Economic Forum this week, even as the threat from China evolves and grows stronger.\nLeaders from China, the US and some 21 …",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/taiwan-may-take-backseat-when-xi-trump-meet-for-third-time-at-apec-summit-126111700186_1.html",
-      "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T07:40:18Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit",
-      "summary": "Presidents Xi Jinping and Donald Trump are expected to meet at the Asia Pacific Economic Forum this week",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Business/wireStory/taiwan-backseat-xi-trump-meet-time-apec-summit-138199342",
-      "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T04:56:55Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -416,6 +440,31 @@
         "values"
       ],
       "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Yalta 2.0 Or Grand Photo Op?",
+      "summary": "Trump, Xi, and Putin are set to meet at the APEC summit in Shenzhen for a trilateral discussion. The focus will be on nuclear arms control and trade relations among the three nations. While expectations for a breakthrough are low, Putin may attempt to address…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/yalta-2-0-or-grand-photo-op/articleshow/135945409.cms",
+      "bloc": "regional",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T02:03:11Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
       "persian_only": false,
@@ -522,27 +571,71 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump, Xi And Putin Summit Officially On The Books",
-      "summary": "President Donald Trump will meet Chinese President Xi Jinping and Russian President Vladimir Putin on Thursday for an unprecedented three-way summit.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/11/16/trump-xi-and-putin-summit-officially-on-the-books",
+      "headline": "Iran's revenge plot against Trump: Pakistani operative sentenced to prison",
+      "summary": "Pakistani national Asif Merchant receives 27 years and six months in prison for an IRGC-backed plot to assassinate Trump and other US officials.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/436495",
       "bloc": "western",
-      "date": "2026-11-16",
-      "datetime": "2026-11-16T16:07:56Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T06:21:47Z",
+      "leaders": [],
       "watch_terms": [
-        "arms control New"
+        "general commander killed"
       ],
       "dimensions": [
-        "accountability",
-        "values"
+        "survival",
+        "impulsivity",
+        "narcissism"
       ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "personnel_killed",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+      "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o",
+      "bloc": "western",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T02:29:52Z",
+      "leaders": [],
+      "watch_terms": [
+        "general commander killed"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "personnel_killed",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "“Direct Attack by NATO”: Kerch Bridge Seriously Damaged on Eve of Trump-Putin-XI Meeting",
+      "summary": "A large, well-coordinated Ukraine-NATO wave of strikes has done considerable damage to the Kerch Bridge. What will Russia do now?",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/11/direct-attack-by-nato-kerch-bridge-seriously-damaged-on-eve-of-trump-putin-xi-meeting.html",
+      "bloc": "western",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T11:58:57Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -577,29 +670,6 @@
       "bloc": "western",
       "date": "2026-11-17",
       "datetime": "2026-11-17T03:37:15Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Zelenskyy urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The ‘protection of lives and Ukrainian energy infrastructure before winter depends’ on the restrictions being lifted, Volodymyr Zelenskyy said.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/starshield-ukraine-russian-drones-7227249-Nov2026/",
-      "bloc": "western",
-      "date": "2026-11-15",
-      "datetime": "2026-11-15T19:44:10Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

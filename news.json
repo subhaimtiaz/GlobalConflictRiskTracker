@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-20T15:06:03.555Z",
+  "ts": "2026-11-20T23:48:48.515Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 91,
-    "oilStress": 37,
-    "updatedAt": "2026-11-20T15:06:03.555Z"
+    "oilPrice": 93,
+    "oilStress": 41,
+    "updatedAt": "2026-11-20T23:48:48.515Z"
   },
   "items": [
     {
@@ -144,13 +144,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide",
-      "summary": "Iran’s attacks on oil tankers crossing the crucial Strait of Hormuz are getting more intense, just as prices have tumbled due to a flood of supply from the Middle East. After a period of low-grade clashes, attacks increased in October …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/11/19/893122.htm",
+      "headline": "Mercosur’s Tax Break Is Fueling Brazil’s Oil Push Into Europe",
+      "summary": "This year Brazil is set to add more oil than any other producer in the world. And this offshore production boom came at the right time for a global oil market that has been short of barrels reaching refiners without passing through the Strait of Hormuz. Brazi…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Mercosurs-Tax-Break-Is-Fueling-Brazils-Oil-Push-Into-Europe.html",
       "bloc": "western",
       "date": "2026-11-19",
-      "datetime": "2026-11-19T14:31:03Z",
+      "datetime": "2026-11-19T21:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide",
+      "summary": "Iran’s attacks on oil tankers crossing the crucial Strait of Hormuz are getting more intense, just as prices have tumbled due to a flood of supply from the Middle East.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/iran-intensifies-hormuz-tanker-attacks-just-as-oil-prices-slide/",
+      "bloc": "western",
+      "date": "2026-11-19",
+      "datetime": "2026-11-19T17:26:25Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -222,46 +248,43 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran War Strikes Escalate as US Hits Qeshm Island, Tehran Fires Drones at Kuwait Base and Bahrain Radar",
-      "summary": "US and Iran have exchanged strikes targeting military sites and shipping around the Gulf, raising fears that a fragile ceasefire could collapse and disrupt global energy supplies.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/us-iran-strikes-threaten-strait-hormuz-shipping-1878878",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T15:41:48Z",
+      "headline": "'Yalta format will not bring peace to Europe': Germany's Merz pans Xi-Putin-Trump trilateral",
+      "summary": "Germany opposes decisions about Ukraine being made by major powers in private discussions. Chancellor Friedrich Merz insists on Ukraine's sovereignty and the need for lasting freedom. A meeting in Berlin focused on strengthening support for Ukraine and coordi…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/europe/yalta-format-will-not-bring-peace-to-europe-germanys-merz-pans-xi-putin-trump-trilateral/articleshow/135998995.cms",
+      "bloc": "regional",
+      "date": "2026-11-19",
+      "datetime": "2026-11-19T17:16:23Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Vladimir Putin"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Putin Ukraine ceasefire"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "impulsivity",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US official says Hormuz insurance hits $64m: Is the strait really open?",
-      "summary": "Hung Cao says shipping insurance costs have soared to $64m for a single transit, challenging claims the strait is open.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open",
-      "bloc": "regional",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T14:47:34Z",
+      "headline": "Xi tells Trump US must do 'the right thing' over Taiwan to avoid 'great turbulence'",
+      "summary": "Chinese President Xi Jinping used his meeting with President Donald Trump in Shenzhen on Thursday to warn against the creation of \"turbulence\" over the issue of Taiwan.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/xi-tells-trump-us-thing-taiwan-avoid-great/story?id=138283818",
+      "bloc": "western",
+      "date": "2026-11-19",
+      "datetime": "2026-11-19T18:51:37Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
         "Xi Jinping"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",
@@ -370,30 +393,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Xi, Putin meet in China, ahead of summit with Trump",
-      "summary": "China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, while his Russian counterpart Vladimir Putin criticized Western sanctions as the two set the stage for a high-stakes trilateral meeting with ‌U.S. President Donald Trum…",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/shenzen-jinping-putin-trump-9.7426144",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T12:21:51Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Current price of oil as of November 16, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
       "source": "Fortune",
@@ -446,6 +445,81 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The world’s most powerful frenemies talk nuclear weapons",
+      "summary": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. President Donald Trump is on his way back from China after a four-day Asia trip that included taking in a su…",
+      "source": "Vox",
+      "url": "https://www.vox.com/today-explained-newsletter/511213/trump-xi-putin-shenzhen-trilateral",
+      "bloc": "western",
+      "date": "2026-11-19",
+      "datetime": "2026-11-19T22:07:50Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Trump, Putin, Xi Unveil Historic ‘Peace’ Declaration, But Major Wars Remain Unresolved",
+      "summary": "Donald Trump joined Vladimir Putin and Xi Jinping on Thursday in announcing a historic agreement to pursue nuclear talks.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/11/19/trump-putin-xi-peace-declaration-major-wars-unsolved/",
+      "bloc": "western",
+      "date": "2026-11-19",
+      "datetime": "2026-11-19T18:29:33Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Shenzhen summit shows the power the US, China and Russia wield – and their limits",
+      "summary": "The US, Russia and China issued a a joint peace declaration following the meeting between their leaders in Shenzhen.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/shenzhen-summit-shows-the-power-the-us-china-and-russia-wield-and-their-limits-296866",
+      "bloc": "western",
+      "date": "2026-11-19",
+      "datetime": "2026-11-19T15:31:29Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "'Who is he?' Trump jokes with Putin ahead of historic trilateral meeting with Xi",
       "summary": "US President Donald Trump broke the ice with a joke when he spotted Russian President Vladimir Putin at the APEC summit in China's Shenzhen on Thursday.",
       "source": "The Times of India",
@@ -478,56 +552,6 @@
       "bloc": "regional",
       "date": "2026-11-19",
       "datetime": "2026-11-19T11:04:03Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Indonesia's Prabowo expects positive outcome from Trump-Putin-Xi talks",
-      "summary": "Indonesian President Prabowo Subianto expressed hope for constructive outcomes from the first-ever trilateral summit involving China, the United States and ...",
-      "source": "Antaranews.com",
-      "url": "https://en.antaranews.com/news/443839/indonesias-prabowo-expects-positive-outcome-from-trump-putin-xi-talks",
-      "bloc": "western",
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T10:08:30Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Moment Trump appears to fall asleep as China's President Xi delivered speech to world leaders ahead of historic summit",
-      "summary": "The US president was filmed seemingly closing his eyes as the Chinese leader spoke, the South China Morning Post reported.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16305021/Trump-appears-fall-asleep-Chinas-President-Xi-delivered-speech-summit.html",
-      "bloc": "western",
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T09:45:27Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

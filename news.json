@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-20T00:25:56.775Z",
+  "ts": "2026-11-20T15:06:03.555Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,63 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 92,
-    "oilStress": 40,
-    "updatedAt": "2026-11-20T00:25:56.775Z"
+    "oilPrice": 91,
+    "oilStress": 37,
+    "updatedAt": "2026-11-20T15:06:03.555Z"
   },
   "items": [
+    {
+      "headline": "Links 11/19/2026",
+      "summary": "Our roosted daily links: laying the groundwork for more Iran war, AI breaking everything, Hakeem the AIPAC dream, DOGE hand in FAA meltdown, and ranking birds.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/11/links-11-19-2026.html",
+      "bloc": "western",
+      "date": "2026-11-19",
+      "datetime": "2026-11-19T11:55:59Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Neutrality Works: Why Neutral States are Critical in a Multipolar World",
+      "summary": "Why neutrality is the best national strategy for small and medium sized states in a multipolar world, particularly in terms of prosperity.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/11/neutrality-works-why-neutral-states-are-critical-in-a-multipolar-world.html",
+      "bloc": "western",
+      "date": "2026-11-19",
+      "datetime": "2026-11-19T10:18:16Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Beyond the Binary of War and Peace: Why the U.S., Israel, and Iran Must Return to Legal Intermediacy",
       "summary": "[Hadi Dadmehr is an Assistant Professor of international law at the University of Zabol, Iran. He holds B.A in political science from Allameh Tabatabai University (Iran), M.A. in international relations from Tehran University (Iran) and PhD in international l…",
@@ -92,54 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Lebanon’s Power-Sharing is no Longer a Model for Conflict Resolution",
-      "summary": "Lebanon’s power-sharing system is increasingly buffeted by the breakdown of social cohesion caused by Israel's displacement of populations",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/11/lebanons-conflict-resolution.html",
+      "headline": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide",
+      "summary": "Iran’s attacks on oil tankers crossing the crucial Strait of Hormuz are getting more intense, just as prices have tumbled due to a flood of supply from the Middle East. After a period of low-grade clashes, attacks increased in October …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/11/19/893122.htm",
       "bloc": "western",
-      "date": "2026-11-14",
-      "datetime": "2026-11-14T05:04:09Z",
+      "date": "2026-11-19",
+      "datetime": "2026-11-19T14:31:03Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "How Lebanon Became the Middle East’s Battleground",
-      "summary": "A new book explores how the 1982 Israeli invasion set the stage for conflicts still unfolding today.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/11/13/lebanon-middle-east-hezbollah-history-us-israel-military-war/",
-      "bloc": "western",
-      "date": "2026-11-13",
-      "datetime": "2026-11-13T19:38:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -229,32 +255,6 @@
       "bloc": "regional",
       "date": "2026-11-18",
       "datetime": "2026-11-18T14:47:34Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "‘Status quo’ between US and Iran could break out into war, analysts warn",
-      "summary": "Iran and the US have continued to exchange strikes in recent days, but all-out war has so far been avoided.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn",
-      "bloc": "regional",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T14:36:20Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -446,63 +446,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Trump holds the nuclear cards to play against China and Russia on arms control",
-      "summary": "President Donald Trump's arms control push meets a China arsenal that doubled from 300 warheads in 2020 to over 600, as New START expired Feb. 5.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/opinion/trump-holds-nuclear-cards-play-against-china-russia-arms-control",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T20:35:46Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "What Trump, Putin and Xi want from their historic meeting",
-      "summary": "Presidents Donald Trump, Xi Jinping and Vladimir Putin are about to sit down together for the first time. So what should we expect from this historic meeting?",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-11-19/what-trump-putin-xi-want-when-they-meet/107390546",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T18:41:53Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Yalta 2.0 Or Grand Photo Op?",
-      "summary": "Trump, Xi, and Putin are set to meet at the APEC summit in Shenzhen for a trilateral discussion. The focus will be on nuclear arms control and trade relations among the three nations. While expectations for a breakthrough are low, Putin may attempt to address…",
+      "headline": "'Who is he?' Trump jokes with Putin ahead of historic trilateral meeting with Xi",
+      "summary": "US President Donald Trump broke the ice with a joke when he spotted Russian President Vladimir Putin at the APEC summit in China's Shenzhen on Thursday.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/yalta-2-0-or-grand-photo-op/articleshow/135945409.cms",
+      "url": "https://timesofindia.indiatimes.com/world/us/who-is-he-trump-jokes-with-putin-ahead-of-historic-trilateral-meeting-with-xi/articleshow/135988198.cms",
       "bloc": "regional",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T02:03:11Z",
+      "date": "2026-11-19",
+      "datetime": "2026-11-19T11:45:30Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"
@@ -521,13 +471,63 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Europe Has Two Security Architectures—and Has Chosen the Wrong One",
-      "summary": "Russia has called for a new European security architecture for nearly two decades, beginning with President Putin’s Munich speech in 2007 and President Medvedev’s proposed European Security Treaty in 2008, followed by Moscow’s draft treaties of December 2021 …",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/opinion/ukraine-war-nato-osce",
+      "headline": "The grand optics of Xi-Trump-Putin meet; why the talks may not be a game changer",
+      "summary": "NEW DELHI: The first-ever trilateral meeting between US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin has",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/china/the-grand-optics-of-xi-trump-putin-meet-why-the-talks-may-not-be-a-game-changer/articleshow/135987825.cms",
+      "bloc": "regional",
+      "date": "2026-11-19",
+      "datetime": "2026-11-19T11:04:03Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Indonesia's Prabowo expects positive outcome from Trump-Putin-Xi talks",
+      "summary": "Indonesian President Prabowo Subianto expressed hope for constructive outcomes from the first-ever trilateral summit involving China, the United States and ...",
+      "source": "Antaranews.com",
+      "url": "https://en.antaranews.com/news/443839/indonesias-prabowo-expects-positive-outcome-from-trump-putin-xi-talks",
       "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T15:46:31Z",
+      "date": "2026-11-19",
+      "datetime": "2026-11-19T10:08:30Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Moment Trump appears to fall asleep as China's President Xi delivered speech to world leaders ahead of historic summit",
+      "summary": "The US president was filmed seemingly closing his eyes as the Chinese leader spoke, the South China Morning Post reported.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16305021/Trump-appears-fall-asleep-Chinas-President-Xi-delivered-speech-summit.html",
+      "bloc": "western",
+      "date": "2026-11-19",
+      "datetime": "2026-11-19T09:45:27Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

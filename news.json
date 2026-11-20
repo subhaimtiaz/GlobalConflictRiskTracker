@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-19T15:29:07.459Z",
+  "ts": "2026-11-20T00:25:56.775Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 93,
-    "oilStress": 41,
-    "updatedAt": "2026-11-19T15:29:07.459Z"
+    "oilPrice": 92,
+    "oilStress": 40,
+    "updatedAt": "2026-11-20T00:25:56.775Z"
   },
   "items": [
     {
@@ -144,6 +144,84 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran attacks U.S. bases in Gulf countries despite diplomatic efforts to end 9-month war",
+      "summary": "By Enas Alashray and Nayera Abdallah DUBAI, Nov 18 (Reuters) - Iran said it targeted US drone and missile sites in Kuwait overnight after the United States struck Qeshm Island in the Strait of Hormuz, marking Tehran's first attack on the US-allied Gulf state …",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2380f9b0-f447-4a27-8723-472c206da77c",
+      "bloc": "western",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T18:30:39Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Donald Trump Brags the 'Economy Is Booming' Under His 'Leadership' — as He Slams Democrats 2 Weeks After Major Midterm Losses",
+      "summary": "Donald Trump touts a booming economy under his leadership while attacking Democrats, just two weeks after major Republican losses in the midterm elections.",
+      "source": "Radaronline.com",
+      "url": "https://radaronline.com/p/donald-trump-brags-economy-booming-leadership-slams-democrats/",
+      "bloc": "western",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T17:36:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran War Strikes Escalate as US Hits Qeshm Island, Tehran Fires Drones at Kuwait Base and Bahrain Radar",
+      "summary": "US and Iran have exchanged strikes targeting military sites and shipping around the Gulf, raising fears that a fragile ceasefire could collapse and disrupt global energy supplies.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/us-iran-strikes-threaten-strait-hormuz-shipping-1878878",
+      "bloc": "western",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T15:41:48Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "US official says Hormuz insurance hits $64m: Is the strait really open?",
       "summary": "Hung Cao says shipping insurance costs have soared to $64m for a single transit, challenging claims the strait is open.",
       "source": "Al Jazeera English",
@@ -196,20 +274,42 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-      "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
+      "headline": "Trump cannot deter Xi and Putin’s nuclear goals with a strategy designed for just one",
+      "summary": "President Donald Trump should take a strong position when he meets Vladimir Putin and Xi Jinping in China with nuclear arms control possibly on the agenda.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/trump-cannot-deter-xi-putin-nuclear-goals-strategy-designed-one",
       "bloc": "western",
       "date": "2026-11-18",
-      "datetime": "2026-11-18T13:04:48Z",
+      "datetime": "2026-11-18T18:42:43Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
         "Xi Jinping"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Xi urges open trade, Putin criticises sanctions as Trump lands in China",
+      "summary": "Xi Jinping defended free trade while Vladimir Putin criticised Western sanctions at the APEC summit, as Donald Trump arrived in China ahead of a high-stakes trilateral meeting on Thursday.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/xi-urges-open-trade-putin-criticises-sanctions-as-trump-lands-in-china-126111801148_1.html",
+      "bloc": "western",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T17:36:21Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",
@@ -222,46 +322,18 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran attacks U.S. bases in Gulf countries despite diplomatic efforts to end 9-month war",
-      "summary": "By Enas Alashray and Nayera Abdallah DUBAI, Nov 18 (Reuters) - Iran said it targeted US drone and missile sites in Kuwait overnight after the United States struck Qeshm Island in the Strait of Hormuz, marking Tehran's first attack on the US-allied Gulf state …",
+      "headline": "Xi and Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+      "summary": "By Liz Lee, Laurie Chen and Jarrett Renshaw SHENZHEN, China, Nov 18 (Reuters) - China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, but also gave a warm welcome to US President Donald Trump as he arrived ahead of a high-…",
       "source": "Yahoo Entertainment",
-      "url": "https://uk.news.yahoo.com/bahrain-issues-clear-threat-alert-001609990.html",
+      "url": "https://finance.yahoo.com/news/chinas-xi-calls-free-open-032339112.html",
       "bloc": "western",
       "date": "2026-11-18",
-      "datetime": "2026-11-18T11:16:43Z",
+      "datetime": "2026-11-18T15:28:07Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
         "Xi Jinping"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran fires at Kuwait, widening strikes after US hit Iranian island",
-      "summary": "Iran targeted US sites at Kuwait's Ali Al Salem base following US strikes on Qeshm Island, marking Tehran's first attack on Kuwait since September.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/18/world-news/iran-fires-at-kuwait-widening-strikes-after-us-hit-iranian-island/",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T10:04:05Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
+        "Xi Jinping China"
       ],
       "dimensions": [
         "survival",
@@ -322,78 +394,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Xi, Putin Blast Western 'Protectionism,' Sanctions As Trump Lands In China",
-      "summary": "The Chinese leader greeted Trump at the airport, reciprocating the U.S. president’s gesture at Joint Base Andrews in September when they last met.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-china-xi-putin-protectionism_n_6afd80e0e4b076227f02a16e",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T10:45:56Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump arrives in China for historic meeting with Xi and Putin",
-      "summary": "Xi met with Putin earlier – Europe is in a state of humiliating decline, the Russian president comments\nThe post Trump arrives in China for historic meeting with Xi and Putin appeared first on ProtoThema English.",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/11/18/trump-arrives-in-china-for-historic-meeting-with-xi-and-putin/",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T09:03:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Putin attacks Western action as Trump lands in China",
-      "summary": "China's President Xi Jinping has pledged to stand up against trade protectionism, but also gave a warm welcome to US President Donald Trump as he arrived in the country.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/1118/1599626-asia-trilateral-summit/",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T05:04:02Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Current price of oil as of November 16, 2026",
       "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
       "source": "Fortune",
@@ -446,6 +446,56 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Trump holds the nuclear cards to play against China and Russia on arms control",
+      "summary": "President Donald Trump's arms control push meets a China arsenal that doubled from 300 warheads in 2020 to over 600, as New START expired Feb. 5.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/trump-holds-nuclear-cards-play-against-china-russia-arms-control",
+      "bloc": "western",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T20:35:46Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "What Trump, Putin and Xi want from their historic meeting",
+      "summary": "Presidents Donald Trump, Xi Jinping and Vladimir Putin are about to sit down together for the first time. So what should we expect from this historic meeting?",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-11-19/what-trump-putin-xi-want-when-they-meet/107390546",
+      "bloc": "western",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T18:41:53Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Yalta 2.0 Or Grand Photo Op?",
       "summary": "Trump, Xi, and Putin are set to meet at the APEC summit in Shenzhen for a trilateral discussion. The focus will be on nuclear arms control and trade relations among the three nations. While expectations for a breakthrough are low, Putin may attempt to address…",
       "source": "The Times of India",
@@ -492,81 +542,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "What could Putin, Xi, and Trump discuss at their meeting in China?",
-      "summary": "Putin, Xi, and Trump will meet in China, with nuclear arms, Ukraine, and Iran on the agenda, as well as concerns over AI and trade Read Full Article at RT.com",
-      "source": "Rt-english.com",
-      "url": "https://rt-english.com/russia/648943-russia-china-us-summit/",
-      "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T12:40:46Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Three global powers, one table: What the Shenzhen Summit means for the emerging world order",
-      "summary": "By Sharachchandra Bhandary At a time when geopolitical rivalries are intensifying, regional conflicts are deepening and the foundations of the international order are under growing strain, a meeting of the leaders of China, the United States and Russia carrie…",
-      "source": "Peoplesreview.com.np",
-      "url": "https://peoplesreview.com.np/2026/11/17/three-global-powers-one-table-what-the-shenzhen-summit-means-for-the-emerging-world-order/",
-      "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T07:17:36Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump to discuss nuclear arms, wars with Putin and Xi",
-      "summary": "U.S. President Donald Trump said he would discuss nuclear disarmament and the wars in Ukraine and Iran with Russian President Vladimir Putin and Chinese President Xi Jinping at their first three-way summit in Shenzhen on Nov. 19.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/trump-to-discuss-nuclear-arms-wars-with-putin-and-xi-229488",
-      "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T05:28:42Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -681,6 +656,28 @@
       ],
       "variable_key": null,
       "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran fires at Kuwait, widening strikes after US hit Iranian island",
+      "summary": "Iran targeted US sites at Kuwait's Ali Al Salem base following US strikes on Qeshm Island, marking Tehran's first attack on Kuwait since September.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/18/world-news/iran-fires-at-kuwait-widening-strikes-after-us-hit-iranian-island/",
+      "bloc": "western",
+      "date": "2026-11-18",
+      "datetime": "2026-11-18T10:04:05Z",
+      "leaders": [],
+      "watch_terms": [
+        "airstrike missile drone"
+      ],
+      "dimensions": [
+        "impulsivity",
+        "survival"
+      ],
+      "variable_key": null,
+      "event_type": "regional_strike",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"

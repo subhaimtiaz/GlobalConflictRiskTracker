@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-20T23:48:48.515Z",
+  "ts": "2026-11-21T06:17:35.529Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 93,
     "oilStress": 41,
-    "updatedAt": "2026-11-20T23:48:48.515Z"
+    "updatedAt": "2026-11-21T06:17:35.529Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
+      "summary": "US Maritime Administration acknowledged naval blockade's impact on insurance premiums and cargo capacity, memo shows.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums",
+      "bloc": "regional",
+      "date": "2026-11-20",
+      "datetime": "2026-11-20T06:03:03Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Mercosur’s Tax Break Is Fueling Brazil’s Oil Push Into Europe",
       "summary": "This year Brazil is set to add more oil than any other producer in the world. And this offshore production boom came at the right time for a global oil market that has been short of barrels reaching refiners without passing through the Strait of Hormuz. Brazi…",
       "source": "OilPrice.com",
@@ -218,32 +244,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Donald Trump Brags the 'Economy Is Booming' Under His 'Leadership' — as He Slams Democrats 2 Weeks After Major Midterm Losses",
-      "summary": "Donald Trump touts a booming economy under his leadership while attacking Democrats, just two weeks after major Republican losses in the midterm elections.",
-      "source": "Radaronline.com",
-      "url": "https://radaronline.com/p/donald-trump-brags-economy-booming-leadership-slams-democrats/",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T17:36:48Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -419,28 +419,27 @@
       "_from": "newsapi"
     },
     {
-      "headline": "India's October merchandise trade deficit rose to one-year high of $39.88 billion",
-      "summary": "Merchandise exports rose to $49.47 ‌billion ⁠in October from $44.40 billion in ⁠the previous month, government data showed, while imports rose to $89.35 billion against $74.61 billion in September",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/indias-october-merchandise-trade-deficit-rose-to-one-year-high-of-3988-billion/article71697264.ece",
+      "headline": "U.S. Faces Unprecedented Three-Way Nuclear Rivalry With China and Russia, WSJ Reports",
+      "summary": "The U.S. is entering an unprecedented three-way nuclear rivalry with China and Russia, the Wall Street Journal (WSJ) reported – marking a departure from the bipolar framework of the Cold War and the reduced great-power nuclear competition that followed it. Ac…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-20-us-faces-nuclear-rivalry-china-russia-wsj.html",
       "bloc": "western",
-      "date": "2026-11-13",
-      "datetime": "2026-11-13T09:49:28Z",
+      "date": "2026-11-20",
+      "datetime": "2026-11-20T06:00:00Z",
       "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
+        "Vladimir Putin",
         "Donald J. Trump"
       ],
       "watch_terms": [
-        "oil Brent crude"
+        "arms control New"
       ],
       "dimensions": [
-        "survival",
+        "accountability",
         "values"
       ],
-      "variable_key": "oilPrice",
+      "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
-      "escalation": 2,
+      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -527,31 +526,6 @@
       "bloc": "regional",
       "date": "2026-11-19",
       "datetime": "2026-11-19T11:45:30Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The grand optics of Xi-Trump-Putin meet; why the talks may not be a game changer",
-      "summary": "NEW DELHI: The first-ever trilateral meeting between US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin has",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/china/the-grand-optics-of-xi-trump-putin-meet-why-the-talks-may-not-be-a-game-changer/articleshow/135987825.cms",
-      "bloc": "regional",
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T11:04:03Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

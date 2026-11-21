@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-21T06:16:30.314Z",
+  "updated": "2026-11-21T18:52:46.648Z",
   "retention_days": 30,
   "items": [
     {
@@ -5687,7 +5687,89 @@
       "_from": "newsapi",
       "first_seen": "2026-11-21T06:16:30.314Z",
       "run_id": "2026-11-21T06:16"
+    },
+    {
+      "headline": "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade",
+      "summary": "Iran is preparing to relaunch crude oil exports even as the United States says it is going to tighten the naval blockade on Iranian ports it imposed earlier this year in response to Iran’s closing of the Strait of Hormuz. Bloomberg reported earlier today that…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Moves-to-Restart-Oil-Exports-Despite-US-Naval-Blockade.html",
+      "bloc": "western",
+      "date": "2026-11-20",
+      "datetime": "2026-11-20T09:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-21T18:52:46.648Z",
+      "run_id": "2026-11-21T18:52"
+    },
+    {
+      "headline": "Missiles hit Poland hours after Trump defended Putin, saying his 'friend' had 'been landing a couple of little missiles' in the country 'by mistake'",
+      "summary": "Russian cruise missiles hit Poland today, hours after Donald Trump defended Vladimir Putin by saying the Russian president had landed 'a couple of little missiles, by mistake'.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16309085/Missiles-hit-Poland-Trump-defended-Putin-landing-couple-little-missiles-country-mistake.html",
+      "bloc": "western",
+      "date": "2026-11-20",
+      "datetime": "2026-11-20T14:05:13Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-21T18:52:46.648Z",
+      "run_id": "2026-11-21T18:52"
+    },
+    {
+      "headline": "Scott Ritter: Shenzhen was the first step away from World War III",
+      "summary": "The most important outcome of the meeting between Putin, Trump and Xi was the commitment to avoid a nuclear apocalypse Read Full Article at RT.com",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/news/649154-shenzhen-world-war-iii/",
+      "bloc": "western",
+      "date": "2026-11-20",
+      "datetime": "2026-11-20T15:36:58Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-21T18:52:46.648Z",
+      "run_id": "2026-11-21T18:52"
     }
   ],
-  "total_items_ever": 3946
+  "total_items_ever": 3949
 }

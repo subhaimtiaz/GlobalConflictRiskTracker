@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-21T06:17:35.529Z",
+  "ts": "2026-11-21T18:53:51.887Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 93,
     "oilStress": 41,
-    "updatedAt": "2026-11-21T06:17:35.529Z"
+    "updatedAt": "2026-11-21T18:53:51.887Z"
   },
   "items": [
     {
@@ -144,6 +144,32 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade",
+      "summary": "Iran is preparing to relaunch crude oil exports even as the United States says it is going to tighten the naval blockade on Iranian ports it imposed earlier this year in response to Iran’s closing of the Strait of Hormuz. Bloomberg reported earlier today that…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Moves-to-Restart-Oil-Exports-Despite-US-Naval-Blockade.html",
+      "bloc": "western",
+      "date": "2026-11-20",
+      "datetime": "2026-11-20T09:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
       "summary": "US Maritime Administration acknowledged naval blockade's impact on insurance premiums and cargo capacity, memo shows.",
       "source": "Al Jazeera English",
@@ -222,24 +248,23 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran attacks U.S. bases in Gulf countries despite diplomatic efforts to end 9-month war",
-      "summary": "By Enas Alashray and Nayera Abdallah DUBAI, Nov 18 (Reuters) - Iran said it targeted US drone and missile sites in Kuwait overnight after the United States struck Qeshm Island in the Strait of Hormuz, marking Tehran's first attack on the US-allied Gulf state …",
-      "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2380f9b0-f447-4a27-8723-472c206da77c",
+      "headline": "Missiles hit Poland hours after Trump defended Putin, saying his 'friend' had 'been landing a couple of little missiles' in the country 'by mistake'",
+      "summary": "Russian cruise missiles hit Poland today, hours after Donald Trump defended Vladimir Putin by saying the Russian president had landed 'a couple of little missiles, by mistake'.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16309085/Missiles-hit-Poland-Trump-defended-Putin-landing-couple-little-missiles-country-mistake.html",
       "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T18:30:39Z",
+      "date": "2026-11-20",
+      "datetime": "2026-11-20T14:05:13Z",
       "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
+        "Vladimir Putin"
       ],
       "watch_terms": [
-        "Strait of Hormuz"
+        "Putin Ukraine ceasefire"
       ],
       "dimensions": [
         "survival",
-        "impulsivity"
+        "impulsivity",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -419,6 +444,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Scott Ritter: Shenzhen was the first step away from World War III",
+      "summary": "The most important outcome of the meeting between Putin, Trump and Xi was the commitment to avoid a nuclear apocalypse Read Full Article at RT.com",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/news/649154-shenzhen-world-war-iii/",
+      "bloc": "western",
+      "date": "2026-11-20",
+      "datetime": "2026-11-20T15:36:58Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "U.S. Faces Unprecedented Three-Way Nuclear Rivalry With China and Russia, WSJ Reports",
       "summary": "The U.S. is entering an unprecedented three-way nuclear rivalry with China and Russia, the Wall Street Journal (WSJ) reported – marking a departure from the bipolar framework of the Cold War and the reduced great-power nuclear competition that followed it. Ac…",
       "source": "Naturalnews.com",
@@ -501,31 +551,6 @@
       "bloc": "western",
       "date": "2026-11-19",
       "datetime": "2026-11-19T15:31:29Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "'Who is he?' Trump jokes with Putin ahead of historic trilateral meeting with Xi",
-      "summary": "US President Donald Trump broke the ice with a joke when he spotted Russian President Vladimir Putin at the APEC summit in China's Shenzhen on Thursday.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/who-is-he-trump-jokes-with-putin-ahead-of-historic-trilateral-meeting-with-xi/articleshow/135988198.cms",
-      "bloc": "regional",
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T11:45:30Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

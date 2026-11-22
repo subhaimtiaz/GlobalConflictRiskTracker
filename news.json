@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-22T05:50:39.285Z",
+  "ts": "2026-11-22T14:19:49.171Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 93,
     "oilStress": 41,
-    "updatedAt": "2026-11-22T05:50:39.285Z"
+    "updatedAt": "2026-11-22T14:19:49.171Z"
   },
   "items": [
     {
@@ -418,6 +418,56 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Horror, Horror: Peace Is at Hand",
+      "summary": "On November 19, in Shenzhen, the presidents of China, Russia and the United States met together for the first time in history and issued a Declaration Toward Peace\r\n. They reaffirmed that a nuclear war cannot be won and must never be fought, agreed to a dialo…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/xi-trump-putin-meeting",
+      "bloc": "western",
+      "date": "2026-11-21",
+      "datetime": "2026-11-21T12:59:03Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "10 Things to Know About the Trump, Xi and Putin Meeting: Peace Declaration, Nuclear Pledge and What's Missing",
+      "summary": "Donald Trump, Xi Jinping and Vladimir Putin held their first three-way summit in Shenzhen, issuing a broad peace declaration but announcing no concrete measures on Ukraine, Iran, arms control or trade.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/trump-xi-putin-peace-declaration-summit-1879085",
+      "bloc": "western",
+      "date": "2026-11-21",
+      "datetime": "2026-11-21T11:31:48Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Scott Ritter: Shenzhen was the first step away from World War III",
       "summary": "The most important outcome of the meeting between Putin, Trump and Xi was the commitment to avoid a nuclear apocalypse Read Full Article at RT.com",
       "source": "Rt-english.com",
@@ -489,56 +539,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Trump, Putin, Xi Unveil Historic ‘Peace’ Declaration, But Major Wars Remain Unresolved",
-      "summary": "Donald Trump joined Vladimir Putin and Xi Jinping on Thursday in announcing a historic agreement to pursue nuclear talks.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/11/19/trump-putin-xi-peace-declaration-major-wars-unsolved/",
-      "bloc": "western",
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T18:29:33Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Shenzhen summit shows the power the US, China and Russia wield – and their limits",
-      "summary": "The US, Russia and China issued a a joint peace declaration following the meeting between their leaders in Shenzhen.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/shenzhen-summit-shows-the-power-the-us-china-and-russia-wield-and-their-limits-296866",
-      "bloc": "western",
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T15:31:29Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

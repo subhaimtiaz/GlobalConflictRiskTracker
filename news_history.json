@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-22T05:49:34.043Z",
+  "updated": "2026-11-22T14:18:43.951Z",
   "retention_days": 30,
   "items": [
     {
@@ -5656,7 +5656,61 @@
       "_from": "newsapi",
       "first_seen": "2026-11-22T05:49:34.043Z",
       "run_id": "2026-11-22T05:49"
+    },
+    {
+      "headline": "Horror, Horror: Peace Is at Hand",
+      "summary": "On November 19, in Shenzhen, the presidents of China, Russia and the United States met together for the first time in history and issued a Declaration Toward Peace\r\n. They reaffirmed that a nuclear war cannot be won and must never be fought, agreed to a dialo…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/xi-trump-putin-meeting",
+      "bloc": "western",
+      "date": "2026-11-21",
+      "datetime": "2026-11-21T12:59:03Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-22T14:18:43.951Z",
+      "run_id": "2026-11-22T14:18"
+    },
+    {
+      "headline": "10 Things to Know About the Trump, Xi and Putin Meeting: Peace Declaration, Nuclear Pledge and What's Missing",
+      "summary": "Donald Trump, Xi Jinping and Vladimir Putin held their first three-way summit in Shenzhen, issuing a broad peace declaration but announcing no concrete measures on Ukraine, Iran, arms control or trade.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/trump-xi-putin-peace-declaration-summit-1879085",
+      "bloc": "western",
+      "date": "2026-11-21",
+      "datetime": "2026-11-21T11:31:48Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 4,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-22T14:18:43.951Z",
+      "run_id": "2026-11-22T14:18"
     }
   ],
-  "total_items_ever": 3951
+  "total_items_ever": 3953
 }

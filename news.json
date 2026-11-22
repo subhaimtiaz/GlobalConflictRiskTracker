@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-21T18:53:51.887Z",
+  "ts": "2026-11-22T05:50:39.285Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,9 +10,35 @@
   "live_variables": {
     "oilPrice": 93,
     "oilStress": 41,
-    "updatedAt": "2026-11-21T18:53:51.887Z"
+    "updatedAt": "2026-11-22T05:50:39.285Z"
   },
   "items": [
+    {
+      "headline": "The Trumps Are Enriching Themselves. Here Come the Investigations.",
+      "summary": "In 2025, we asked an adviser to Donald Trump Jr. about the ethical issues posed by the presidential son’s business activities. “Write your ridiculous story. Literally no one cares,” he shot back. “We don’t actually give a fuck.” That last sentence was clearly…",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/11/trumps-investigations-congress/",
+      "bloc": "western",
+      "date": "2026-11-20",
+      "datetime": "2026-11-20T19:17:22Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Links 11/19/2026",
       "summary": "Our roosted daily links: laying the groundwork for more Iran war, AI breaking everything, Hakeem the AIPAC dream, DOGE hand in FAA meltdown, and ranking birds.",
@@ -118,32 +144,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "The Ceaseless Ceasefire",
-      "summary": "For the Palestinians, the ceasefire in Israel's war on Gaza might not be all-out war — but it's certainly not peace, and no end is in sight.",
-      "source": "The Intercept",
-      "url": "https://theintercept.com/2026/11/14/israel-gaza-ceasefire-violations/",
-      "bloc": "western",
-      "date": "2026-11-14",
-      "datetime": "2026-11-14T18:59:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade",
       "summary": "Iran is preparing to relaunch crude oil exports even as the United States says it is going to tighten the naval blockade on Iranian ports it imposed earlier this year in response to Iran’s closing of the Strait of Hormuz. Bloomberg reported earlier today that…",
       "source": "OilPrice.com",
@@ -222,32 +222,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide",
-      "summary": "Iran’s attacks on oil tankers crossing the crucial Strait of Hormuz are getting more intense, just as prices have tumbled due to a flood of supply from the Middle East.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/iran-intensifies-hormuz-tanker-attacks-just-as-oil-prices-slide/",
-      "bloc": "western",
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T17:26:25Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Missiles hit Poland hours after Trump defended Putin, saying his 'friend' had 'been landing a couple of little missiles' in the country 'by mistake'",
       "summary": "Russian cruise missiles hit Poland today, hours after Donald Trump defended Vladimir Putin by saying the Russian president had landed 'a couple of little missiles, by mistake'.",
       "source": "Dailymail.com",
@@ -290,6 +264,30 @@
         "survival",
         "impulsivity",
         "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Japan Caught Between China, Russia and Trump's Changing World Order",
+      "summary": "Japan faces one of its most difficult diplomatic challenges in decades as US President Donald Trump pursues closer engagement with China and Russia, Prime Minister Sanae Takaichi struggles to repair relations with Beijing, and a changing international order r…",
+      "source": "Newsonjapan.com",
+      "url": "https://newsonjapan.com/article/151478.php",
+      "bloc": "western",
+      "date": "2026-11-21",
+      "datetime": "2026-11-21T02:44:59Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -390,30 +388,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Xi and Putin criticise western policies as Trump arrives in China",
-      "summary": "Chinese president says he will stand up to protectionism as Putin denounces western sanctions",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/2026/11/18/xi-and-putin-criticise-western-policies-as-trump-arrives-in-china/",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T12:43:28Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

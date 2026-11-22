@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-22T14:18:43.951Z",
+  "updated": "2026-11-22T23:24:54.054Z",
   "retention_days": 30,
   "items": [
     {
@@ -5710,7 +5710,118 @@
       "_from": "newsapi",
       "first_seen": "2026-11-22T14:18:43.951Z",
       "run_id": "2026-11-22T14:18"
+    },
+    {
+      "headline": "Iran surrender? Why it cannot do that",
+      "summary": "Regime is not 'just a country. It is the central node in a transnational network that deals in oil, military technology, weapons components, and hired violence'",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/11/iran-surrender-why-it-cannot-do-that/",
+      "bloc": "western",
+      "date": "2026-11-21",
+      "datetime": "2026-11-21T17:30:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-22T23:24:54.053Z",
+      "run_id": "2026-11-22T23:24"
+    },
+    {
+      "headline": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
+      "summary": "Iran has unveiled a new missile launcher at an underground facility",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/iran-strikes-3-tankers-shows-off-missile-launchers-138345075",
+      "bloc": "western",
+      "date": "2026-11-21",
+      "datetime": "2026-11-21T19:13:24Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-22T23:24:54.053Z",
+      "run_id": "2026-11-22T23:24"
+    },
+    {
+      "headline": "Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes",
+      "summary": "Two tankers were reportedly struck by projectiles near the Strait of Hormuz Saturday, raising fears of a new escalation in the crucial oil-shipping corridor as Israel presses President Trump to renew major attacks on Iran.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/21/world-news/two-tankers-hit-in-strait-of-hormuz-as-hawks-press-trump-to-resume-iran-strikes/",
+      "bloc": "western",
+      "date": "2026-11-21",
+      "datetime": "2026-11-21T14:40:55Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-22T23:24:54.053Z",
+      "run_id": "2026-11-22T23:24"
+    },
+    {
+      "headline": "The 700 Club",
+      "summary": "The idea: The United States, Russia and China should each pledge to stay at or below 700 deployed ICBMs, SLBMs and heavy bombers, the limit in the expired New START treaty. In Shenzhen on November 19, Donald Trump, Xi Jinping…",
+      "source": "Armscontrolwonk.com",
+      "url": "https://www.armscontrolwonk.com/archive/1222567/the-700-club/",
+      "bloc": "western",
+      "date": "2026-11-21",
+      "datetime": "2026-11-21T22:03:34Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-22T23:24:54.053Z",
+      "run_id": "2026-11-22T23:24"
     }
   ],
-  "total_items_ever": 3953
+  "total_items_ever": 3957
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-22T14:19:49.171Z",
+  "ts": "2026-11-22T23:25:59.373Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 93,
-    "oilStress": 41,
-    "updatedAt": "2026-11-22T14:19:49.171Z"
+    "oilPrice": 92,
+    "oilStress": 40,
+    "updatedAt": "2026-11-22T23:25:59.373Z"
   },
   "items": [
+    {
+      "headline": "Iran surrender? Why it cannot do that",
+      "summary": "Regime is not 'just a country. It is the central node in a transnational network that deals in oil, military technology, weapons components, and hired violence'",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/11/iran-surrender-why-it-cannot-do-that/",
+      "bloc": "western",
+      "date": "2026-11-21",
+      "datetime": "2026-11-21T17:30:14Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "The Trumps Are Enriching Themselves. Here Come the Investigations.",
       "summary": "In 2025, we asked an adviser to Donald Trump Jr. about the ethical issues posed by the presidential son’s business activities. “Write your ridiculous story. Literally no one cares,” he shot back. “We don’t actually give a fuck.” That last sentence was clearly…",
@@ -118,39 +144,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Al Jazeera English marks 20 years: Stories that shaped the journey",
-      "summary": "Here are some of the crucial events Al Jazeera English has covered over the past two decades.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/15/al-jazeera-english-marks-20-years-stories-that-shaped-the-journey",
-      "bloc": "regional",
-      "date": "2026-11-15",
-      "datetime": "2026-11-15T13:30:51Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade",
-      "summary": "Iran is preparing to relaunch crude oil exports even as the United States says it is going to tighten the naval blockade on Iranian ports it imposed earlier this year in response to Iran’s closing of the Strait of Hormuz. Bloomberg reported earlier today that…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Moves-to-Restart-Oil-Exports-Despite-US-Naval-Blockade.html",
+      "headline": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
+      "summary": "Iran has unveiled a new missile launcher at an underground facility",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/iran-strikes-3-tankers-shows-off-missile-launchers-138345075",
       "bloc": "western",
-      "date": "2026-11-20",
-      "datetime": "2026-11-20T09:00:00Z",
+      "date": "2026-11-21",
+      "datetime": "2026-11-21T19:13:24Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -165,44 +165,18 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
-      "summary": "US Maritime Administration acknowledged naval blockade's impact on insurance premiums and cargo capacity, memo shows.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums",
-      "bloc": "regional",
-      "date": "2026-11-20",
-      "datetime": "2026-11-20T06:03:03Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Mercosur’s Tax Break Is Fueling Brazil’s Oil Push Into Europe",
-      "summary": "This year Brazil is set to add more oil than any other producer in the world. And this offshore production boom came at the right time for a global oil market that has been short of barrels reaching refiners without passing through the Strait of Hormuz. Brazi…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Mercosurs-Tax-Break-Is-Fueling-Brazils-Oil-Push-Into-Europe.html",
+      "headline": "Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes",
+      "summary": "Two tankers were reportedly struck by projectiles near the Strait of Hormuz Saturday, raising fears of a new escalation in the crucial oil-shipping corridor as Israel presses President Trump to renew major attacks on Iran.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/21/world-news/two-tankers-hit-in-strait-of-hormuz-as-hawks-press-trump-to-resume-iran-strikes/",
       "bloc": "western",
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T21:00:00Z",
+      "date": "2026-11-21",
+      "datetime": "2026-11-21T14:40:55Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -217,7 +191,7 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 2,
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -418,6 +392,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "The 700 Club",
+      "summary": "The idea: The United States, Russia and China should each pledge to stay at or below 700 deployed ICBMs, SLBMs and heavy bombers, the limit in the expired New START treaty. In Shenzhen on November 19, Donald Trump, Xi Jinping…",
+      "source": "Armscontrolwonk.com",
+      "url": "https://www.armscontrolwonk.com/archive/1222567/the-700-club/",
+      "bloc": "western",
+      "date": "2026-11-21",
+      "datetime": "2026-11-21T22:03:34Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Horror, Horror: Peace Is at Hand",
       "summary": "On November 19, in Shenzhen, the presidents of China, Russia and the United States met together for the first time in history and issued a Declaration Toward Peace\r\n. They reaffirmed that a nuclear war cannot be won and must never be fought, agreed to a dialo…",
       "source": "Common Dreams",
@@ -500,31 +499,6 @@
       "bloc": "western",
       "date": "2026-11-20",
       "datetime": "2026-11-20T06:00:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The world’s most powerful frenemies talk nuclear weapons",
-      "summary": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. President Donald Trump is on his way back from China after a four-day Asia trip that included taking in a su…",
-      "source": "Vox",
-      "url": "https://www.vox.com/today-explained-newsletter/511213/trump-xi-putin-shenzhen-trilateral",
-      "bloc": "western",
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T22:07:50Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-23T06:37:35.123Z",
+  "ts": "2026-11-23T23:37:39.034Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 93,
-    "oilStress": 41,
-    "updatedAt": "2026-11-23T06:37:35.123Z"
+    "oilPrice": 89,
+    "oilStress": 35,
+    "updatedAt": "2026-11-23T23:37:39.034Z"
   },
   "items": [
     {
@@ -144,13 +144,39 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
-      "summary": "Iran has unveiled a new missile launcher at an underground facility",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Business/wireStory/iran-strikes-3-tankers-shows-off-missile-launchers-138345075",
+      "headline": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report",
+      "summary": "Iran has amassed more than 14 tankers at its most crucial crude-oil export terminal to try to get its money-maker flowing again despite a US naval blockade, a new report said — but experts doubted the claim.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/22/us-news/iran-amasses-14-oil-tankers-at-key-export-hub-as-tehran-weighs-challenge-to-us-blockade-report/",
       "bloc": "western",
-      "date": "2026-11-21",
-      "datetime": "2026-11-21T19:13:24Z",
+      "date": "2026-11-22",
+      "datetime": "2026-11-22T17:11:01Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began | CNN",
+      "summary": "Reported attacks on shipping in and around the Strait of Hormuz are at the highest levels since the Iran war began, maritime data shows, as Tehran seeks to re-exert its control over the critical waterway amid falling oil prices.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/11/22/middleeast/hormuz-attacks-highest-levels-iran-war-intl",
+      "bloc": "western",
+      "date": "2026-11-22",
+      "datetime": "2026-11-22T15:13:28Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -170,13 +196,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes",
-      "summary": "Two tankers were reportedly struck by projectiles near the Strait of Hormuz Saturday, raising fears of a new escalation in the crucial oil-shipping corridor as Israel presses President Trump to renew major attacks on Iran.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/21/world-news/two-tankers-hit-in-strait-of-hormuz-as-hawks-press-trump-to-resume-iran-strikes/",
+      "headline": "Bahrain accuses Iran of striking industrial facility, while two tankers struck in Strait of Hormuz",
+      "summary": "The Gulf kingdom has suffered several attacks this week, ending a weeks-long lull in the conflict.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/bahrain-accuses-iran-of-striking-industrial-facility-7234134-Nov2026/",
       "bloc": "western",
-      "date": "2026-11-21",
-      "datetime": "2026-11-21T14:40:55Z",
+      "date": "2026-11-22",
+      "datetime": "2026-11-22T08:12:47Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Mohammed bin Salman",
@@ -191,7 +217,32 @@
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
-      "escalation": 3,
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Two summits with different implications for Ukraine war",
+      "summary": "Two summits last Thursday - one in China, the other in Germany - had very different implications for the war in Ukraine.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/1122/1600167-comment-analysis-ukraine-summits/",
+      "bloc": "western",
+      "date": "2026-11-22",
+      "datetime": "2026-11-22T08:02:01Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

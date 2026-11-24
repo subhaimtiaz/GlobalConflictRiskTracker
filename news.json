@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-23T23:37:39.034Z",
+  "ts": "2026-11-24T09:05:33.443Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -9,8 +9,8 @@
   },
   "live_variables": {
     "oilPrice": 89,
-    "oilStress": 35,
-    "updatedAt": "2026-11-23T23:37:39.034Z"
+    "oilStress": 34,
+    "updatedAt": "2026-11-24T09:05:33.443Z"
   },
   "items": [
     {
@@ -222,6 +222,30 @@
       "_from": "newsapi"
     },
     {
+      "headline": "How International Law Views the Congressional Vote on the Iran War",
+      "summary": "The Nuremberg Tribunal's core judgment was that waging an aggressive, non-defensive war is \"the supreme international crime\"",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/11/international-views-congressional.html",
+      "bloc": "western",
+      "date": "2026-11-23",
+      "datetime": "2026-11-23T05:15:56Z",
+      "leaders": [
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "Trump Iran war"
+      ],
+      "dimensions": [
+        "accountability",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Two summits with different implications for Ukraine war",
       "summary": "Two summits last Thursday - one in China, the other in Germany - had very different implications for the war in Ukraine.",
       "source": "RTE",
@@ -289,6 +313,30 @@
         "survival",
         "impulsivity",
         "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Waiting For The World To Change",
+      "summary": "Just as the Iraq War was escalating in 2006, John Mayer released “Waiting for the World to Change,” a vaguely anti-war anthem, which became the most played song of 2007.",
+      "source": "Substack.com",
+      "url": "https://chinaarticles.substack.com/p/waiting-for-the-world-to-change",
+      "bloc": "western",
+      "date": "2026-11-23",
+      "datetime": "2026-11-23T00:00:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -393,63 +441,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Xi and Putin blast Western 'protectionism' and sanctions as Trump lands in China",
-      "summary": "By Liz Lee, Laurie Chen and Jarrett Renshaw SHENZHEN, China, Nov 18 (Reuters) - China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, but also gave a warm welcome to US President Donald Trump as he arrived ahead of a high-…",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/news/chinas-xi-calls-free-open-032339112.html",
+      "headline": "Horror, Horror: Peace Is at Hand",
+      "summary": "On November 19, in Shenzhen, the presidents of China, Russia and the United States met together for the first time in history and issued a Declaration Toward Peace. They reaffirmed that a nuclear war cannot be won and must never be fought, agreed to a dialogu…",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/jeffrey_sachs/2026/11/22/horror-horror-peace-is-at-hand/",
       "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T15:28:07Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Current price of oil as of November 16, 2026",
-      "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-11-16-2026/",
-      "bloc": "western",
-      "date": "2026-11-16",
-      "datetime": "2026-11-16T12:45:00Z",
-      "leaders": [
-        "Mohammed bin Salman",
-        "Mojtaba Khamenei",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "oil Brent crude"
-      ],
-      "dimensions": [
-        "survival",
-        "values"
-      ],
-      "variable_key": "oilPrice",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The 700 Club",
-      "summary": "The idea: The United States, Russia and China should each pledge to stay at or below 700 deployed ICBMs, SLBMs and heavy bombers, the limit in the expired New START treaty. In Shenzhen on November 19, Donald Trump, Xi Jinping…",
-      "source": "Armscontrolwonk.com",
-      "url": "https://www.armscontrolwonk.com/archive/1222567/the-700-club/",
-      "bloc": "western",
-      "date": "2026-11-21",
-      "datetime": "2026-11-21T22:03:34Z",
+      "date": "2026-11-23",
+      "datetime": "2026-11-23T00:00:38Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"
@@ -468,13 +466,13 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Horror, Horror: Peace Is at Hand",
-      "summary": "On November 19, in Shenzhen, the presidents of China, Russia and the United States met together for the first time in history and issued a Declaration Toward Peace\r\n. They reaffirmed that a nuclear war cannot be won and must never be fought, agreed to a dialo…",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/opinion/xi-trump-putin-meeting",
+      "headline": "The 700 Club",
+      "summary": "The idea: The United States, Russia and China should each pledge to stay at or below 700 deployed ICBMs, SLBMs and heavy bombers, the limit in the expired New START treaty. In Shenzhen on November 19, Donald Trump, Xi Jinping…",
+      "source": "Armscontrolwonk.com",
+      "url": "https://www.armscontrolwonk.com/archive/1222567/the-700-club/",
       "bloc": "western",
       "date": "2026-11-21",
-      "datetime": "2026-11-21T12:59:03Z",
+      "datetime": "2026-11-21T22:03:34Z",
       "leaders": [
         "Vladimir Putin",
         "Donald J. Trump"
@@ -539,31 +537,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "U.S. Faces Unprecedented Three-Way Nuclear Rivalry With China and Russia, WSJ Reports",
-      "summary": "The U.S. is entering an unprecedented three-way nuclear rivalry with China and Russia, the Wall Street Journal (WSJ) reported – marking a departure from the bipolar framework of the Cold War and the reduced great-power nuclear competition that followed it. Ac…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-20-us-faces-nuclear-rivalry-china-russia-wsj.html",
-      "bloc": "western",
-      "date": "2026-11-20",
-      "datetime": "2026-11-20T06:00:00Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
-      "watch_terms": [
-        "arms control New"
-      ],
-      "dimensions": [
-        "accountability",
-        "values"
-      ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 4,
       "persian_only": false,
       "_from": "newsapi"
     },

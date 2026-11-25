@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-25T07:43:17.972Z",
+  "ts": "2026-11-25T21:23:05.137Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,19 +8,19 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 90,
-    "oilStress": 36,
-    "updatedAt": "2026-11-25T07:43:17.972Z"
+    "oilPrice": 95,
+    "oilStress": 44,
+    "updatedAt": "2026-11-25T21:23:05.137Z"
   },
   "items": [
     {
-      "headline": "Saudi and Houthi Exchange Missile Fire: Will the Red Sea Become a New Frontline?",
-      "summary": "Houthi military spokesman Yahya Saree said on X that Jeddah port and all Saudi Red Sea ports would become targets if the coalition struck Hodeidah, the Houthi-held Yemeni port city, and urged port employees and shipping companies to evacuate [1]. The Saudi-le…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-24-saudi-houthis-missile-fire-red-sea-new-frontline.html",
+      "headline": "Spinning Genocide",
+      "summary": "Two new books explore the chasm between rhetoric and reality in Gaza.",
+      "source": "Foreign Policy",
+      "url": "https://foreignpolicy.com/2026/11/24/israel-gaza-genocide-biden-akbar-ahmed-assal-rad/",
       "bloc": "western",
       "date": "2026-11-24",
-      "datetime": "2026-11-24T06:00:00Z",
+      "datetime": "2026-11-24T15:20:55Z",
       "leaders": [
         "Mojtaba Khamenei",
         "Donald J. Trump",
@@ -35,111 +35,137 @@
       ],
       "variable_key": "diplomaticChannels",
       "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "How the Iran war is reshaping the US military presence in the Middle East",
+      "summary": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east",
+      "bloc": "regional",
+      "date": "2026-11-24",
+      "datetime": "2026-11-24T15:10:29Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
+      "summary": "Despite quadrupling its hasbara budget, Israel is losing American hearts and minds, and its PR may be making it worse.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing",
+      "bloc": "regional",
+      "date": "2026-11-24",
+      "datetime": "2026-11-24T11:30:07Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news - Newsday",
+      "summary": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news - Newsdaynewsday.com",
+      "source": "Newsday",
+      "url": "https://www.newsday.com/news/nation/mideast-iran-gaza-israel-houthis-libya-november-24-2026-v21527",
+      "bloc": "western",
+      "date": "2026-11-24",
+      "datetime": "2026-11-24T11:11:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Four More Ships Attacked as Iran Widens Hormuz Crackdown to Tugboats",
+      "summary": "Four more commercial vessels have been attacked in and around the Strait of Hormuz, bringing the number of reported tanker strikes in the strategic waterway to 10 in a single week, as Iran expands its crackdown to maritime service providers assisting vessels …",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/four-more-ships-attacked-as-iran-widens-hormuz-crackdown-to-tugboats/",
+      "bloc": "western",
+      "date": "2026-11-24",
+      "datetime": "2026-11-24T18:19:57Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Mohammed bin Salman",
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Strait of Hormuz"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
     {
-      "headline": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals",
-      "summary": "A renewed US-Israeli attack on Iran will bring economic disruption, security risks, and geopolitical realignment across Central Asia. The five republics would prefer to avoid involvement, but geography limits their ability to insulate themselves from the conf…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Washingtons-Iran-Strategy-Risks-Strengthening-Its-Biggest-Rivals.html",
-      "bloc": "western",
-      "date": "2026-11-23",
-      "datetime": "2026-11-23T20:00:00Z",
+      "headline": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
+      "summary": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working",
+      "bloc": "regional",
+      "date": "2026-11-24",
+      "datetime": "2026-11-24T13:32:24Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukrainian naval drones strike new Russian warship in Libya, and other Mideast news",
-      "summary": "Ukrainian President Volodymyr Zelenskyy has praised his security services for a naval drone strike that he says has sunk a Russian warship in Libyan waters.",
-      "source": "WJXT News4JAX",
-      "url": "https://www.news4jax.com/news/world/2026/11/23/ukrainian-naval-drones-strike-new-russian-warship-in-libya-and-other-mideast-news/",
-      "bloc": "western",
-      "date": "2026-11-23",
-      "datetime": "2026-11-23T10:22:50Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
+      "variable_key": null,
+      "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran surrender? Why it cannot do that",
-      "summary": "Regime is not 'just a country. It is the central node in a transnational network that deals in oil, military technology, weapons components, and hired violence'",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/11/iran-surrender-why-it-cannot-do-that/",
-      "bloc": "western",
-      "date": "2026-11-21",
-      "datetime": "2026-11-21T17:30:14Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "The Trumps Are Enriching Themselves. Here Come the Investigations.",
-      "summary": "In 2025, we asked an adviser to Donald Trump Jr. about the ethical issues posed by the presidential son’s business activities. “Write your ridiculous story. Literally no one cares,” he shot back. “We don’t actually give a fuck.” That last sentence was clearly…",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/11/trumps-investigations-congress/",
-      "bloc": "western",
-      "date": "2026-11-20",
-      "datetime": "2026-11-20T19:17:22Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
-      ],
-      "watch_terms": [
-        "Iran war ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -222,58 +248,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Brit SWIMS through the Strait of Hormuz as vessels are attacked around him - to highlight environmental damage",
-      "summary": "A British endurance swimmer has completed a three-day swim through the Strait of Hormuz as projectiles hit oil tankers just a few miles away.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16314713/Brit-SWIMS-Strait-Hormuz-vessels-attacked-highlight-environmental-damage.html",
-      "bloc": "western",
-      "date": "2026-11-23",
-      "datetime": "2026-11-23T10:29:33Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report",
-      "summary": "Iran has amassed more than 14 tankers at its most crucial crude-oil export terminal to try to get its money-maker flowing again despite a US naval blockade, a new report said — but experts doubted the claim.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/22/us-news/iran-amasses-14-oil-tankers-at-key-export-hub-as-tehran-weighs-challenge-to-us-blockade-report/",
-      "bloc": "western",
-      "date": "2026-11-22",
-      "datetime": "2026-11-22T17:11:01Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "How International Law Views the Congressional Vote on the Iran War",
       "summary": "The Nuremberg Tribunal's core judgment was that waging an aggressive, non-defensive war is \"the supreme international crime\"",
       "source": "Juancole.com",
@@ -294,6 +268,31 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "European leader warns Russian aggression could escalate within weeks or months",
+      "summary": "Latvian President Edgars Rinkēvičs warns Russia is escalating sabotage, arson and assassination plots against NATO countries that could worsen in weeks.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/european-leader-warns-russian-aggression-could-escalate-within-weeks-months",
+      "bloc": "western",
+      "date": "2026-11-24",
+      "datetime": "2026-11-24T20:26:41Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -398,31 +397,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Neutrality Works: Why Neutral States are Critical in a Multipolar World",
-      "summary": "Why neutrality is the best national strategy for small and medium sized states in a multipolar world, particularly in terms of prosperity.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/11/neutrality-works-why-neutral-states-are-critical-in-a-multipolar-world.html",
-      "bloc": "western",
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T10:18:16Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "Kim Jong Un receives credentials from India's newly appointed envoy to North Korea",
       "summary": "North Korean leader Kim Jong Un on Sunday received the credentials of India's newly appointed ambassador to the Democratic People's Republic of Korea",
       "source": "The Times of India",
@@ -440,6 +414,54 @@
         "impulsivity",
         "narcissism",
         "survival"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "What Did Xi Jinping Get From the Shenzhen Summit?",
+      "summary": "China is looking to set the language of great-power discourse.",
+      "source": "Foreign Policy",
+      "url": "https://foreignpolicy.com/2026/11/24/china-xi-trump-shenzhen-putin-summit/",
+      "bloc": "western",
+      "date": "2026-11-24",
+      "datetime": "2026-11-24T20:42:25Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Taiwan Is the West Berlin of Our Time",
+      "summary": "The fall of the Berlin Wall cemented the U.S.-led world order. Taiwan’s fall would be its undoing. Paul Wolfowitz, former deputy secretary of defense, once told me that Taiwan is the West Berlin of today’s world—a symbol of the glittering, capitalist, democra…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4404180/posts",
+      "bloc": "western",
+      "date": "2026-11-24",
+      "datetime": "2026-11-24T19:25:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -503,54 +525,6 @@
       "bloc": "western",
       "date": "2026-11-23",
       "datetime": "2026-11-23T00:00:00Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Japan Caught Between China, Russia and Trump's Changing World Order",
-      "summary": "Japan faces one of its most difficult diplomatic challenges in decades as US President Donald Trump pursues closer engagement with China and Russia, Prime Minister Sanae Takaichi struggles to repair relations with Beijing, and a changing international order r…",
-      "source": "Newsonjapan.com",
-      "url": "https://newsonjapan.com/article/151478.php",
-      "bloc": "western",
-      "date": "2026-11-21",
-      "datetime": "2026-11-21T02:44:59Z",
-      "leaders": [
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Xi Jinping China"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Xi tells Trump US must do 'the right thing' over Taiwan to avoid 'great turbulence'",
-      "summary": "Chinese President Xi Jinping used his meeting with President Donald Trump in Shenzhen on Thursday to warn against the creation of \"turbulence\" over the issue of Taiwan.",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/xi-tells-trump-us-thing-taiwan-avoid-great/story?id=138283818",
-      "bloc": "western",
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T18:51:37Z",
       "leaders": [
         "Xi Jinping"
       ],

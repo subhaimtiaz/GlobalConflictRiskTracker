@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-24T22:06:53.068Z",
+  "ts": "2026-11-25T07:43:17.972Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,11 +8,37 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 91,
-    "oilStress": 38,
-    "updatedAt": "2026-11-24T22:06:53.068Z"
+    "oilPrice": 90,
+    "oilStress": 36,
+    "updatedAt": "2026-11-25T07:43:17.972Z"
   },
   "items": [
+    {
+      "headline": "Saudi and Houthi Exchange Missile Fire: Will the Red Sea Become a New Frontline?",
+      "summary": "Houthi military spokesman Yahya Saree said on X that Jeddah port and all Saudi Red Sea ports would become targets if the coalition struck Hodeidah, the Houthi-held Yemeni port city, and urged port employees and shipping companies to evacuate [1]. The Saudi-le…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-24-saudi-houthis-missile-fire-red-sea-new-frontline.html",
+      "bloc": "western",
+      "date": "2026-11-24",
+      "datetime": "2026-11-24T06:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
     {
       "headline": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals",
       "summary": "A renewed US-Israeli attack on Iran will bring economic disruption, security risks, and geopolitical realignment across Central Asia. The five republics would prefer to avoid involvement, but geography limits their ability to insulate themselves from the conf…",
@@ -118,28 +144,28 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Links 11/19/2026",
-      "summary": "Our roosted daily links: laying the groundwork for more Iran war, AI breaking everything, Hakeem the AIPAC dream, DOGE hand in FAA meltdown, and ranking birds.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/11/links-11-19-2026.html",
+      "headline": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+      "summary": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
       "bloc": "western",
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T11:55:59Z",
+      "date": "2026-11-24",
+      "datetime": "2026-11-24T05:05:08Z",
       "leaders": [
         "Mojtaba Khamenei",
-        "Donald J. Trump",
-        "Benjamin Netanyahu"
+        "Mohammed bin Salman",
+        "Xi Jinping"
       ],
       "watch_terms": [
-        "Iran war ceasefire"
+        "Strait of Hormuz"
       ],
       "dimensions": [
         "survival",
         "impulsivity"
       ],
-      "variable_key": "diplomaticChannels",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
@@ -248,32 +274,6 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began | CNN",
-      "summary": "Reported attacks on shipping in and around the Strait of Hormuz are at the highest levels since the Iran war began, maritime data shows, as Tehran seeks to re-exert its control over the critical waterway amid falling oil prices.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/11/22/middleeast/hormuz-attacks-highest-levels-iran-war-intl",
-      "bloc": "western",
-      "date": "2026-11-22",
-      "datetime": "2026-11-22T15:13:28Z",
-      "leaders": [
-        "Mojtaba Khamenei",
-        "Mohammed bin Salman",
-        "Xi Jinping"
-      ],
-      "watch_terms": [
-        "Strait of Hormuz"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
       "headline": "How International Law Views the Congressional Vote on the Iran War",
       "summary": "The Nuremberg Tribunal's core judgment was that waging an aggressive, non-defensive war is \"the supreme international crime\"",
       "source": "Juancole.com",
@@ -290,6 +290,31 @@
       "dimensions": [
         "accountability",
         "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
+      "headline": "Will Democrats Pour More Fuel on the Fire in Ukraine?",
+      "summary": "Why Democrats look set to do what they can to continue the war in Ukraine.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/11/will-democrats-pour-more-fuel-on-the-fire-in-ukraine.html",
+      "bloc": "western",
+      "date": "2026-11-24",
+      "datetime": "2026-11-24T07:13:31Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
       ],
       "variable_key": null,
       "event_type": "leader_watch_term",
@@ -722,52 +747,6 @@
       "bloc": "western",
       "date": "2026-11-18",
       "datetime": "2026-11-18T11:58:57Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine Cripples Crimean Bridge In Blow To Putin Before Meeting With Xi, Trump",
-      "summary": "The massive bridge is a flagship project of Putin and a symbol of Russia’s attachment to the peninsula it seized from Ukraine in 2014.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/ukraine-crimea-bridge-destroyed-putin-kerch_n_6afc9f05e4b02da00c022679",
-      "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T18:58:45Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Ukraine strikes bridge linking occupied Crimea and Russia",
-      "summary": "Ukraine has struck the strategic bridge linking southern Russia and occupied Crimea for a second straight day, part of what data suggested was the largest Ukrainian drone attack of the war.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/2026/1117/1599488-russia-ukraine-strikes-bridge/",
-      "bloc": "western",
-      "date": "2026-11-17",
-      "datetime": "2026-11-17T03:37:15Z",
       "leaders": [],
       "watch_terms": [
         "oil refinery port"

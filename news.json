@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-25T21:23:05.137Z",
+  "ts": "2026-11-26T07:33:14.135Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 95,
-    "oilStress": 44,
-    "updatedAt": "2026-11-25T21:23:05.137Z"
+    "oilPrice": 94,
+    "oilStress": 43,
+    "updatedAt": "2026-11-26T07:33:14.135Z"
   },
   "items": [
     {
@@ -664,97 +664,6 @@
       "variable_key": "armsControlArchitecture",
       "event_type": "static_variable",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran's revenge plot against Trump: Pakistani operative sentenced to prison",
-      "summary": "Pakistani national Asif Merchant receives 27 years and six months in prison for an IRGC-backed plot to assassinate Trump and other US officials.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/436495",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T06:21:47Z",
-      "leaders": [],
-      "watch_terms": [
-        "general commander killed"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
-      "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T02:29:52Z",
-      "leaders": [],
-      "watch_terms": [
-        "general commander killed"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "personnel_killed",
-      "escalation": 4,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "“Direct Attack by NATO”: Kerch Bridge Seriously Damaged on Eve of Trump-Putin-XI Meeting",
-      "summary": "A large, well-coordinated Ukraine-NATO wave of strikes has done considerable damage to the Kerch Bridge. What will Russia do now?",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/11/direct-attack-by-nato-kerch-bridge-seriously-damaged-on-eve-of-trump-putin-xi-meeting.html",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T11:58:57Z",
-      "leaders": [],
-      "watch_terms": [
-        "oil refinery port"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "accountability"
-      ],
-      "variable_key": null,
-      "event_type": "infrastructure_attack",
-      "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Iran fires at Kuwait, widening strikes after US hit Iranian island",
-      "summary": "Iran targeted US sites at Kuwait's Ali Al Salem base following US strikes on Qeshm Island, marking Tehran's first attack on Kuwait since September.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/18/world-news/iran-fires-at-kuwait-widening-strikes-after-us-hit-iranian-island/",
-      "bloc": "western",
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T10:04:05Z",
-      "leaders": [],
-      "watch_terms": [
-        "airstrike missile drone"
-      ],
-      "dimensions": [
-        "impulsivity",
-        "survival"
-      ],
-      "variable_key": null,
-      "event_type": "regional_strike",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     }

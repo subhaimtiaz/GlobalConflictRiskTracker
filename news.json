@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-26T07:33:14.135Z",
+  "ts": "2026-11-26T21:10:01.157Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 94,
-    "oilStress": 43,
-    "updatedAt": "2026-11-26T07:33:14.135Z"
+    "oilPrice": 97,
+    "oilStress": 47,
+    "updatedAt": "2026-11-26T21:10:01.157Z"
   },
   "items": [
     {
@@ -568,6 +568,31 @@
       "_from": "newsapi"
     },
     {
+      "headline": "Kanwal Sibal: No G3, no new Yalta. What the Trump-Xi-Putin summit really revealed",
+      "summary": "Behind the choreography and commentary, the Shenzhen trilateral delivered more spectacle than substance Read Full Article at RT.com",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/india/649336-putin-xi-trump-summit-shenzhen/",
+      "bloc": "western",
+      "date": "2026-11-25",
+      "datetime": "2026-11-25T12:49:49Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi"
+    },
+    {
       "headline": "Horror, Horror: Peace Is at Hand",
       "summary": "On November 19, in Shenzhen, the presidents of China, Russia and the United States met together for the first time in history and issued a Declaration Toward Peace. They reaffirmed that a nuclear war cannot be won and must never be fought, agreed to a dialogu…",
       "source": "Antiwar.com",
@@ -643,27 +668,25 @@
       "_from": "newsapi"
     },
     {
-      "headline": "Scott Ritter: Shenzhen was the first step away from World War III",
-      "summary": "The most important outcome of the meeting between Putin, Trump and Xi was the commitment to avoid a nuclear apocalypse Read Full Article at RT.com",
-      "source": "Rt-english.com",
-      "url": "https://rt-english.com/news/649154-shenzhen-world-war-iii/",
+      "headline": "Oil Jumps Over 2% as Saudi Arabia Downs Drones Over Ras Tanura",
+      "summary": "Oil prices climbed on Wednesday after Yemen's Houthis claimed a strike on Saudi Arabia's Ras Tanura refinery, the kingdom's largest, and Saudi Arabia said it had shot down four drones over the site. As of 10:16 a.m. ET, Brent crude traded at $93.60 per barrel…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Over-2-as-Saudi-Arabia-Downs-Drones-Over-Ras-Tanura.html",
       "bloc": "western",
-      "date": "2026-11-20",
-      "datetime": "2026-11-20T15:36:58Z",
-      "leaders": [
-        "Vladimir Putin",
-        "Donald J. Trump"
-      ],
+      "date": "2026-11-25",
+      "datetime": "2026-11-25T15:30:00Z",
+      "leaders": [],
       "watch_terms": [
-        "arms control New"
+        "oil refinery port"
       ],
       "dimensions": [
-        "accountability",
-        "values"
+        "survival",
+        "impulsivity",
+        "accountability"
       ],
-      "variable_key": "armsControlArchitecture",
-      "event_type": "static_variable",
-      "escalation": 2,
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     }

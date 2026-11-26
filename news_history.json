@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-26T07:32:08.908Z",
+  "updated": "2026-11-26T21:08:55.911Z",
   "retention_days": 30,
   "items": [
     {
@@ -6006,7 +6006,59 @@
       "_from": "newsapi",
       "first_seen": "2026-11-25T21:21:59.883Z",
       "run_id": "2026-11-25T21:21"
+    },
+    {
+      "headline": "Kanwal Sibal: No G3, no new Yalta. What the Trump-Xi-Putin summit really revealed",
+      "summary": "Behind the choreography and commentary, the Shenzhen trilateral delivered more spectacle than substance Read Full Article at RT.com",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/india/649336-putin-xi-trump-summit-shenzhen/",
+      "bloc": "western",
+      "date": "2026-11-25",
+      "datetime": "2026-11-25T12:49:49Z",
+      "leaders": [
+        "Vladimir Putin",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "arms control New"
+      ],
+      "dimensions": [
+        "accountability",
+        "values"
+      ],
+      "variable_key": "armsControlArchitecture",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-26T21:08:55.911Z",
+      "run_id": "2026-11-26T21:08"
+    },
+    {
+      "headline": "Oil Jumps Over 2% as Saudi Arabia Downs Drones Over Ras Tanura",
+      "summary": "Oil prices climbed on Wednesday after Yemen's Houthis claimed a strike on Saudi Arabia's Ras Tanura refinery, the kingdom's largest, and Saudi Arabia said it had shot down four drones over the site. As of 10:16 a.m. ET, Brent crude traded at $93.60 per barrel…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Over-2-as-Saudi-Arabia-Downs-Drones-Over-Ras-Tanura.html",
+      "bloc": "western",
+      "date": "2026-11-25",
+      "datetime": "2026-11-25T15:30:00Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-26T21:08:55.911Z",
+      "run_id": "2026-11-26T21:08"
     }
   ],
-  "total_items_ever": 3984
+  "total_items_ever": 3986
 }

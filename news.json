@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-26T21:10:01.157Z",
+  "ts": "2026-11-27T07:31:08.259Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -8,9 +8,9 @@
     "claude": true
   },
   "live_variables": {
-    "oilPrice": 97,
-    "oilStress": 47,
-    "updatedAt": "2026-11-26T21:10:01.157Z"
+    "oilPrice": 98,
+    "oilStress": 49,
+    "updatedAt": "2026-11-27T07:31:08.259Z"
   },
   "items": [
     {
@@ -368,31 +368,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 3,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "'Yalta format will not bring peace to Europe': Germany's Merz pans Xi-Putin-Trump trilateral",
-      "summary": "Germany opposes decisions about Ukraine being made by major powers in private discussions. Chancellor Friedrich Merz insists on Ukraine's sovereignty and the need for lasting freedom. A meeting in Berlin focused on strengthening support for Ukraine and coordi…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/europe/yalta-format-will-not-bring-peace-to-europe-germanys-merz-pans-xi-putin-trump-trilateral/articleshow/135998995.cms",
-      "bloc": "regional",
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T17:16:23Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 2,
       "persian_only": false,
       "_from": "newsapi"
     },

@@ -1,6 +1,6 @@
 {
   "created": "2026-04-03T17:43:12.385Z",
-  "updated": "2026-11-27T07:30:03.026Z",
+  "updated": "2026-11-27T20:52:44.875Z",
   "retention_days": 30,
   "items": [
     {
@@ -5782,7 +5782,169 @@
       "_from": "newsapi",
       "first_seen": "2026-11-26T21:08:55.911Z",
       "run_id": "2026-11-26T21:08"
+    },
+    {
+      "headline": "'Nowhere is safe' as civilians worldwide face rise of cheap drone warfare",
+      "summary": "The use of armed drones has surged dramatically in global conflicts over the past year, turning cities and towns into dystopian landscapes where being hunted by cheap weapons is part of daily life.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-11-27/global-drone-warfare-surge-fpv-quadcopters-ai-sudan-ukraine-gaza/107203470",
+      "bloc": "western",
+      "date": "2026-11-26",
+      "datetime": "2026-11-26T18:00:00Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-27T20:52:44.875Z",
+      "run_id": "2026-11-27T20:52"
+    },
+    {
+      "headline": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+      "summary": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi",
+      "bloc": "regional",
+      "date": "2026-11-26",
+      "datetime": "2026-11-26T12:10:49Z",
+      "leaders": [
+        "Mojtaba Khamenei",
+        "Donald J. Trump",
+        "Benjamin Netanyahu"
+      ],
+      "watch_terms": [
+        "Iran war ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": "diplomaticChannels",
+      "event_type": "static_variable",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-27T20:52:44.875Z",
+      "run_id": "2026-11-27T20:52"
+    },
+    {
+      "headline": "Britain tells 100,000 reservists to get ready for war - as Streeting admits regular soldiers' training was cut to save money",
+      "summary": "Troops from all three wings of the Armed Forces have been written to, asking them to update their contact details and offering them the chance to join large-scale Nato war games next year.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16323805/Ministry-Defence-letters-veterans-warning-prepare-war.html",
+      "bloc": "western",
+      "date": "2026-11-26",
+      "datetime": "2026-11-26T10:48:00Z",
+      "leaders": [
+        "Vladimir Putin"
+      ],
+      "watch_terms": [
+        "Putin Ukraine ceasefire"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "narcissism"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-27T20:52:44.875Z",
+      "run_id": "2026-11-27T20:52"
+    },
+    {
+      "headline": "United States, China & Russia Trilateral Summit:",
+      "summary": "A Projection of Power, with Little Substance By Shashi P.B.B. Malla The meeting between President Donald J. Trump, Xi Jinping and Vladimir V. Putin marked the first time in history that the leaders — presidents of the United States, China and Russia – possess…",
+      "source": "Peoplesreview.com.np",
+      "url": "https://peoplesreview.com.np/2026/11/26/united-states-china-russia-trilateral-summit/",
+      "bloc": "western",
+      "date": "2026-11-26",
+      "datetime": "2026-11-26T08:45:00Z",
+      "leaders": [
+        "Xi Jinping"
+      ],
+      "watch_terms": [
+        "Xi Jinping China"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity"
+      ],
+      "variable_key": null,
+      "event_type": "leader_watch_term",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-27T20:52:44.875Z",
+      "run_id": "2026-11-27T20:52"
+    },
+    {
+      "headline": "Meeting of 28-29 October 2026",
+      "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "Europa.eu",
+      "url": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "bloc": "western",
+      "date": "2026-11-26",
+      "datetime": "2026-11-26T12:30:00Z",
+      "leaders": [
+        "Mohammed bin Salman",
+        "Mojtaba Khamenei",
+        "Donald J. Trump"
+      ],
+      "watch_terms": [
+        "oil Brent crude"
+      ],
+      "dimensions": [
+        "survival",
+        "values"
+      ],
+      "variable_key": "oilPrice",
+      "event_type": "static_variable",
+      "escalation": 2,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-27T20:52:44.875Z",
+      "run_id": "2026-11-27T20:52"
+    },
+    {
+      "headline": "Ukrainian drone attack injures four, causes oil spill in southern Russia",
+      "summary": "A Ukrainian drone strike has caused fires and an oil spill at a Russian refinery already shut since September following an earlier attack, its operator has said",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/russia/649399-ukraine-drone-russia-oil-spill/",
+      "bloc": "western",
+      "date": "2026-11-26",
+      "datetime": "2026-11-26T19:38:52Z",
+      "leaders": [],
+      "watch_terms": [
+        "oil refinery port"
+      ],
+      "dimensions": [
+        "survival",
+        "impulsivity",
+        "accountability"
+      ],
+      "variable_key": null,
+      "event_type": "infrastructure_attack",
+      "escalation": 3,
+      "persian_only": false,
+      "_from": "newsapi",
+      "first_seen": "2026-11-27T20:52:44.875Z",
+      "run_id": "2026-11-27T20:52"
     }
   ],
-  "total_items_ever": 3986
+  "total_items_ever": 3992
 }

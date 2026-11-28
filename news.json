@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-27T20:53:50.098Z",
+  "ts": "2026-11-28T06:59:59.427Z",
   "lookback_days": 7,
   "generated_by": "AGRA GitHub Action",
   "sources_used": {
@@ -10,7 +10,7 @@
   "live_variables": {
     "oilPrice": 95,
     "oilStress": 45,
-    "updatedAt": "2026-11-27T20:53:50.098Z"
+    "updatedAt": "2026-11-28T06:59:59.427Z"
   },
   "items": [
     {
@@ -394,31 +394,6 @@
       "variable_key": null,
       "event_type": "leader_watch_term",
       "escalation": 2,
-      "persian_only": false,
-      "_from": "newsapi"
-    },
-    {
-      "headline": "Missiles hit Poland hours after Trump defended Putin, saying his 'friend' had 'been landing a couple of little missiles' in the country 'by mistake'",
-      "summary": "Russian cruise missiles hit Poland today, hours after Donald Trump defended Vladimir Putin by saying the Russian president had landed 'a couple of little missiles, by mistake'.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16309085/Missiles-hit-Poland-Trump-defended-Putin-landing-couple-little-missiles-country-mistake.html",
-      "bloc": "western",
-      "date": "2026-11-20",
-      "datetime": "2026-11-20T14:05:13Z",
-      "leaders": [
-        "Vladimir Putin"
-      ],
-      "watch_terms": [
-        "Putin Ukraine ceasefire"
-      ],
-      "dimensions": [
-        "survival",
-        "impulsivity",
-        "narcissism"
-      ],
-      "variable_key": null,
-      "event_type": "leader_watch_term",
-      "escalation": 3,
       "persian_only": false,
       "_from": "newsapi"
     },
